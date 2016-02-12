@@ -1,0 +1,2177 @@
+<html>
+<title> - VETERANS EMPLOYMENT AND GOVERNMENT CONTRACTORS</title>
+<body><pre>
+[Senate Hearing 112-685]
+[From the U.S. Government Printing Office]
+
+
+
+                                                        S. Hrg. 112-685
+
+ 
+                        VETERANS EMPLOYMENT AND
+                         GOVERNMENT CONTRACTORS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+              AD HOC SUBCOMMITTEE ON CONTRACTING OVERSIGHT
+
+                                 of the
+
+                              COMMITTEE ON
+                         HOMELAND SECURITY AND
+                          GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+
+                      ONE HUNDRED TWELFTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                              JUNE 5, 2012
+
+                               __________
+
+                   Available via http://www.fdsys.gov
+
+       Printed for the use of the Committee on Homeland Security
+                        and Governmental Affairs
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+75-216                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office, 
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail, gpo@custhelp.com.  
+
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+               JOSEPH I. LIEBERMAN, Connecticut, Chairman
+CARL LEVIN, Michigan                 SUSAN M. COLLINS, Maine
+DANIEL K. AKAKA, Hawaii              TOM COBURN, Oklahoma
+THOMAS R. CARPER, Delaware           SCOTT P. BROWN, Massachusetts
+MARK L. PRYOR, Arkansas              JOHN McCAIN, Arizona
+MARY L. LANDRIEU, Louisiana          RON JOHNSON, Wisconsin
+CLAIRE McCASKILL, Missouri           ROB PORTMAN, Ohio
+JON TESTER, Montana                  RAND PAUL, Kentucky
+MARK BEGICH, Alaska                  JERRY MORAN, Kansas
+
+                  Michael L. Alexander, Staff Director
+      Nicholas A. Rossi, Minority Staff Director and Chief Counsel
+                  Trina Driessnack Tyrer, Chief Clerk
+            Joyce Ward, Publications Clerk and GPO Detailee
+
+
+              AD HOC SUBCOMMITTEE ON CONTRACTING OVERSIGHT
+
+                       CLAIRE McCASKILL, Chairman
+THOMAS R. CARPER, Delaware           ROB PORTMAN, Ohio
+MARK L. PRYOR, Arkansas              SUSAN M. COLLINS, Maine
+JON TESTER, Montana                  JOHN McCAIN, Arizona
+MARK BEGICH, Alaska                  JERRY MORAN, Kansas
+                     Margaret Daum, Staff Director
+                Brian Callanan, Minority Staff Director
+                       Kelsey Stroud, Chief Clerk
+
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statement:
+                                                                   Page
+    Senator McCaskill............................................     1
+Prepared statement:
+    Senator McCaskill............................................    35
+    Senator Carper...............................................    39
+
+                               WITNESSES
+                         Tuesday, June 5, 2012
+
+Theodore L. (Ted) Daywalt, President and Chief Executive Officer, 
+  VetJobs........................................................     5
+Spender Kympton, Chief Operating Officer, The Mission Continues..     7
+Ramsey Sulayman, Legislative Associate, Iraq and Afghanistan 
+  Veterans of America............................................     8
+Pamela Hardy, Senior Manager, Diversity and Inclusion Team, Booz 
+  Allen Hamilton.................................................    11
+Sally Sullivan, Executive Vice President, ManTech International 
+  Corporation....................................................    12
+
+                     Alphabetical List of Witnesses
+
+Daywalt, Theodore L.:
+    Testimony....................................................     5
+    Prepared statement...........................................    41
+Hardy, Pamela:
+    Testimony....................................................    11
+    Prepared statement...........................................    58
+Kympton Spender:
+    Testimony....................................................     7
+    Prepared statement...........................................    52
+Sulayman, Ramsey:
+    Testimony....................................................     8
+    Prepared statement...........................................    55
+Sullivan, Sally:
+    Testimony....................................................    12
+    Prepared statement...........................................    63
+
+                                APPENDIX
+
+Questions and responses for the Record from:
+    Mr. Sulayman.................................................    68
+    Ms. Hardy....................................................    70
+    Ms. Sullivan.................................................    72
+Senator McCaskill's fact sheet...................................    74
+Statements submitted for the Record:
+    Booz Allen Hamilton..........................................    80
+    Patricia A. Shiu, Office of Federal Contract Compliance 
+      Programs, Department of Labor..............................    82
+
+
+                        VETERANS EMPLOYMENT AND
+                         GOVERNMENT CONTRACTORS
+
+                              ----------                              
+
+
+                         TUESDAY, JUNE 5, 2012
+
+                                   U.S. Senate,    
+          Ad Hoc Subcommittee on Contracting Oversight,    
+                    of the Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 10:03 a.m., in 
+Room 342, Dirksen Senate Office Building, Hon. Claire 
+McCaskill, Chairman of the Subcommittee, presiding.
+    Present: Senators McCaskill, Carper, and Begich.
+
+             OPENING STATEMENT OF SENATOR MCCASKILL
+
+    Senator McCaskill. This hearing of the Subcommittee on 
+Contracting Oversight of the Senate Committee on Homeland 
+Security and Governmental Affairs will come to order.
+    I am happy today to be discussing a subject that I think 
+every American should be concerned about, and that is the 
+employment of our veterans. At the hearing today, we are going 
+to talk about an alarming trend in the employment of the best 
+that America has.
+    Service in the active duty military or the National Guard 
+or Reserve has historically been an advantage in seeking 
+employment. Recruiters for the military promise that service 
+could lead to careers. Yet after more than a decade of war, we 
+are seeing something very different, that the men and women who 
+have served so honorably in Iraq and Afghanistan are facing 
+unprecedented challenges in finding employment.
+    Last week, the Department of Labor (DOL) released its 
+latest unemployment figures, which show that the unemployment 
+rate in the United States is currently 8.2 percent. Those same 
+figures show that veterans who have served on active duty since 
+September 2001 have an unemployment rate of 12.7 percent. The 
+unemployment rate for veterans who have served since September 
+2001 has also been increasing. In May 2011, the unemployment 
+rate for these veterans was 12.1. In May 2010, it was 10.6. 
+These numbers are a stark reminder that we are not doing enough 
+to help our veterans and that we must take new and urgent steps 
+to improve our national efforts to make sure veterans have the 
+tools and the opportunities they need to find careers after 
+they leave the military.
+    Part of the problem is that there are significant barriers 
+that veterans face in seeking employment. Veterans are finding 
+that all of their training and experience cannot simply be 
+translated into similar civilian jobs. They may be finding 
+employers who feel unsure about hiring veterans and members of 
+the National Guard and Reserve (NG&R) because they do not 
+understand what service requires. Breaking down these barriers 
+is critical and requires innovative and comprehensive 
+responses.
+    Part of the problem is the government is not doing what it 
+should. Simply telling the veteran to go down to his or her 
+local employment office or to search the job boards, as we have 
+heard happens, is just not enough. Many different Federal 
+agencies, including the Defense Department (DOD), the Veterans 
+Administration (VA), and the Department of Labor, have programs 
+to work with veterans on employment issues and some are more 
+successful than others. Government contractors are well 
+situated to be major employers of veterans, and many are.
+    Contractors are also required by law to take affirmative 
+action to hire veterans. Since 2002, President Bush signed into 
+law a provision that requires companies with government 
+contracts over $100,000 are required to post job listings at 
+nationwide employment offices, to report their veteran hiring 
+and employment numbers to the Department of Labor through the 
+VETS-100A form, and those with 50 or more employees are 
+required to develop a plan to hire veterans. The question is, 
+how well are the contractors doing at this? The answer is, we 
+have no idea.
+    Last year, I asked the Department of Labor for the 
+information collected from the government contractors for the 
+past 10 years. The Department was only able to provide data for 
+2009 and 2010 because it only just became electronically 
+available. The Subcommittee staff prepared a fact sheet\1\ 
+summarizing this information, and I ask unanimous consent that 
+this fact sheet be included in the hearing record.
+---------------------------------------------------------------------------
+    \1\ The fact sheet referenced by Senator McCaskill appears in the 
+appendix on page 74.
+---------------------------------------------------------------------------
+    What this fact sheet shows is that the information 
+currently being collected and maintained by the Department of 
+Labor is spotty and frequently inaccurate. We saw numbers that 
+are obviously wrong, like seeing a company whose number of 
+veteran hires is 400 percent larger than the total number of 
+people working for the company. We also saw a significant 
+amount of missing information. For example, the two companies 
+represented here today do not even appear in the data. Both 
+had, in fact, submitted the data, as required, and were able to 
+produce it upon request to the Subcommittee.
+    It seems that the reason for this discrepancy is with the 
+Department of Labor. There are two offices within the 
+Department of Labor that are responsible for collecting the 
+data and overseeing enforcing compliance. That is, the Office 
+of the Assistant Secretary for Veterans Employment and Training 
+(VETS), the Vets Office at the Department of Labor, and the 
+Office of Federal Contract Compliance Programs (OFCCP)--I will 
+try not to use acronyms, it is a hazard of this job--the Office 
+of Federal Contract Compliance Programs. Yet in conversations 
+with the Department of Labor, the Subcommittee learned that the 
+Vets Agency at Labor collects this information but never 
+reviews it for any purpose, and the Office of Federal Contract 
+Compliance has the authority to audit contractor compliance, 
+but, in fact, conducts very few and never attempts quality 
+assurance reviews.
+    This does not make any sense to me. It is almost like we 
+are going through the motions and do not care what the result 
+is. It is called ``make work'' but have no results.
+    I called this hearing today to bring together two groups 
+who are actually taking steps, active steps, to promote 
+contractor employment of veterans. We are here today to learn 
+from some of the Nation's leading Veterans Service 
+Organizations (VSOs) about the challenges facing veterans. We 
+will also hear from two large and well-known businesses about 
+the excellent work they are doing in recruiting and hiring 
+veterans. I look forward to a constructive discussion today.
+    I also want to make one point clear from the outset. The 
+status quo is just not acceptable. The notion that these highly 
+trained and, frankly, veterans who we know make great 
+employees, the fact that we cannot get them employed, the fact 
+that their unemployment level is higher than the Nation's 
+unemployment level is, in fact, a shame. It is something we 
+should be ashamed of.
+    We cannot continue to betray the trust of our Nation's 
+veterans by not doing everything in our power to make sure that 
+they have access to employment. We cannot continue to invest 
+scarce government resources and waste businesses' time, 
+demanding they file reports which nobody pays any attention to 
+and currently do not have any benefit to veterans' employment. 
+We need to avoid duplication in programs, but also ensure that 
+we are not taking a one-size-fits-all approach.
+    This is a tall order, but when it comes to our veterans, we 
+have an obligation to do everything we can. I hope this hearing 
+will be a first step. I also sincerely hope the Department of 
+Labor is listening, because I plan to followup with them about 
+the issues that we discuss here today.
+    I thank the witnesses for being here and look forward to 
+their testimony.
+    I know Senator Carper is on his way and wanted to make 
+opening remarks when he gets here. I may indulge the witnesses 
+to interrupt you for purposes of his opening remarks, but in 
+the meantime, I will go ahead and introduce our witnesses and 
+we will begin your testimony today.
+    Ted Daywalt is the President and Chief Executive Office 
+(CEO) of VetJobs. VetJobs was founded in 1999 and has become 
+one of the leading Internet job boards for veterans and 
+employers. Mr. Daywalt served in the Navy and Navy Reserve for 
+over 28 years. He has worked in the private and public sector 
+and is also Chairman of the Atlanta Regional Military Affairs 
+Council and Director of the College Educators for Veterans 
+Higher Education. Mr. Daywalt also sits on the Board of 
+Governors for the International Association of Employment Web 
+sites, where he chairs the OFCCP Committee, which is the 
+acronym for the folks that are supposed to be doing compliance 
+at the Department of Labor.
+    Spencer Kympton is the Chief Operating Officer (COO) of The 
+Mission Continues, which is based in St. Louis, Missouri. I am 
+especially proud to welcome him here today. Founded in 2007, 
+The Mission Continues is a nonprofit organization that works to 
+empower post-9/11 veterans by pairing them with fellowships at 
+not-for-profit organizations in their communities. Mr. Kympton 
+is a former Army officer and a graduate of West Point. Prior to 
+joining The Mission Continues, Mr. Kympton worked at McKinsey 
+and Company and held the position of Vice President of 
+Recruiting for Teach For America.
+    Ramsey Sulayman is a Legislative Associate for Iraq and 
+Afghanistan Veterans of America (IAVA). Iraq and Afghanistan 
+Veterans of America was founded in 2004 to bring together and 
+empower the newest generation of wartime veterans. IAVA has 
+helped countless returning veterans with programs focusing on 
+physical and mental health, education, and careers. Mr. 
+Sulayman is a former Marine officer who served in Operation 
+Iraqi Freedom (OIF) as an infantry platoon commander and 
+company executive officer.
+    Pamela Hardy is a Senior Manager in the Diversity and 
+Inclusion Team at Booz Allen Hamilton, where she is responsible 
+for all diversity hiring efforts. Ms. Hardy has a Master's in 
+human resources management and has worked in various recruiting 
+and consulting positions and specializes in diversity 
+recruiting strategies and techniques.
+    Sally Sullivan is an Executive Vice President of ManTech 
+International Corporation and leads ManTech's public affairs, 
+communications, and business development functions. Prior to 
+joining ManTech, Ms. Sullivan served as Vice President for 
+Defense, Space, and Secured Infrastructure at Bechtel National 
+and Sector Vice President for Business Development at Northrop 
+Grumman. You have hung out in the defense sector, have you not.
+    Ms. Sullivan. Yes, Senator.
+    Senator McCaskill. It is the custom of this Subcommittee to 
+swear in all witnesses that appear before us, so if you do not 
+mind, I would like to ask you to stand.
+    Do you swear that the testimony that you will give before 
+this Subcommittee will be the truth, the whole truth, and 
+nothing but the truth, so help you, God?
+    Mr. Daywalt. I do.
+    Mr. Kympton. I do.
+    Mr. Sulayman. I do.
+    Ms. Hardy. I do.
+    Ms. Sullivan. I do.
+    Senator McCaskill. Thank you, and let the record reflect 
+that the witnesses have all answered in the affirmative.
+    We will be using a timing system today. We will not be 
+strict, so be comfortable. Do not worry that we are going to 
+hit a buzzer or a gong. We would ask that your oral testimony 
+try to be around 5 minutes. Your written testimony will be 
+printed in the record in its entirety.
+    And if you would begin, Mr. Daywalt, we appreciate you 
+being here.
+
+ TESTIMONY OF TED L. DAYWALT,\1\ PRESIDENT AND CHIEF EXECUTIVE 
+                        OFFICER, VETJOBS
+
+    Mr. Daywalt. Thank you, Madam Chairman. I appreciate you 
+having me here and I want to thank the staff here, as well.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Daywalt appears in the appendix 
+on page 41.
+---------------------------------------------------------------------------
+    VetJobs has a unique vantage point in this discussion as by 
+the nature of our business over the last 13 years, VetJobs has 
+dealt with veterans and their family members on a daily basis 
+who are pursuing employment with government contractors. A big 
+part of our membership base are government contractors, and 
+VetJobs assists all veterans and their family members to find 
+work. From our perspective at VetJobs, we find that, for the 
+most part, government contractors are enthusiastic employers of 
+veterans.
+    When looking at veteran employment, it helps to understand 
+that from an employer's perspective, there are three groups 
+that comprise the post-military service veteran employment 
+picture. The first group would be those who are transitioning 
+off active duty with no further military obligation who are 
+most frequently referred to just as veterans. This group is the 
+most desirable of the veteran groups from which employers 
+prefer to hire since candidates have no further military 
+obligation and come with many skills and the attributes wanted 
+by employers.
+    The second group is comprised of the Federal Reservists of 
+the Army, Navy, Air Force, Coast Guard, and Marine Corps. While 
+these veterans have the same attributes as the transitioning 
+military, they are subject to being called up on a regular 
+basis.
+    The third group is the National Guard. While all three 
+groups are veterans, it helps to make the distinctions when 
+analyzing how the veterans are being employed or why employers 
+prefer one type of veteran over another. In going to the 
+numbers you cited at the opening, Madam Chairman, the biggest 
+part of the veteran unemployment problem is in the National 
+Guard. For the most part, those coming off active duty are 
+getting jobs, not that there are not problems, but they are 
+finding employment. The overall unemployment for all veterans 
+in May was only 7.7 percent current population survey (CPS).
+    Of the three groups, the National Guard has unique problems 
+and is the least preferred source of veterans. Unlike active 
+duty component members when National Guard component members 
+return from war they are demobilized and thus do not have a 
+ready source of income unless they can find or have a civilian 
+job. Given the bias against hiring National Guard members due 
+to the call-up policies and high operation tempo, National 
+Guard members have problems maintaining a continuum of service 
+with a civilian employer.
+    Additionally, since the National Guard component member 
+belongs to the State and reports to the Governor of a State or 
+a Territory, the National Guard personnel are used for local 
+emergencies, such as flooding and hurricanes, security, which 
+takes them away from their employer. For example, the National 
+Guard in Georgia, which is where we are headquartered, has had 
+six 1-year-plus call-ups in the last 10 years. Now, that makes 
+it really hard to keep a job, even if you are only on three of 
+them.
+    Many studies have found that due to the constant call-ups, 
+employers shy away from hiring active members of the National 
+Guard and Reserves. Business Law Review, Workforce Management 
+and the Society of Human Resource Management (SHRM) have done 
+studies that show that upwards of 70 percent of employers will 
+not now hire as a new employee an active member of the National 
+Guard. Fortunately, many of the government contractors are 
+supporters of the National Guard and Reserve and this is 
+important since the National Guard and Reserve now represents 
+over 50 percent of our total fighting force.
+    It is important to understand why employers make hires. 
+Some Department of Labor officials like to tout how many 
+unemployed people there are for each job opening in the country 
+and bemoan the fact that employers of horrible profit-making 
+companies are not hiring the unemployed. DOL and other 
+government officials who make these statements are displaying a 
+gross misunderstanding of how our economy works and why 
+employers hire candidates.
+    Employers do not hire someone just because they are 
+standing and breathing or they are unemployed. Employers hire 
+candidates to fill a need within the company. The bottom line 
+is employers look for qualified candidates to hire. If one were 
+to ask how many qualified candidates exist for each job opening 
+in the company, you would have huge, very large, negative 
+numbers in disciplines like health care, engineering, 
+maintenance, electricians, welders. Right now, they are paying 
+$45 an hour with all the overtime you can get for welders in 
+the upper Midwest and they cannot find enough welders. It is 
+going to probably go to $50 by the end of the summer.
+    Government contractors are major employers. Many have 
+discussed with me the problems of finding qualified candidates 
+to hire. And for that reason, government contractors like to 
+hire veterans because, generally, they have excellent skill 
+sets and they have the attributes that they want.
+    In my written testimony, I use an example of a stellar 
+government contractor, BNSF Railroad. You have a couple others 
+sitting right here at this table. They are to be commended for 
+their proactive hiring of veterans.
+    Also in my written testimony, I review the obstacles that 
+hinder government contractors from hiring veterans. Those 
+obstacles include the VETS-100 report, which in my personal 
+opinion is kind of a waste of time because it is not relevant, 
+it is not timely, and it is not actionable. The Office of 
+Federal Contract Compliance Program actually kind of 
+disincentivizes companies who want to hire veterans, and there 
+are huge problems in the Transition Assistance Program. All 
+need to be reviewed, and in the case of VETS-100, I would 
+recommend you get rid of it.
+    Thank you for your time. I trust the information presented 
+will be of assistance. I will be happy to answer any questions 
+you have, ma'am.
+    Senator McCaskill. Thank you very much, Mr. Daywalt.
+    I welcome Senator Begich from Alaska here. Thank you, 
+Senator Begich, for joining us. Mr. Kympton.
+
+ TESTIMONY OF SPENCER KYMPTON,\1\ CHIEF OPERATING OFFICER, THE 
+                       MISSION CONTINUES
+
+    Mr. Kympton. Madam Chairman and Members of the 
+Subcommittee, thank you for inviting me to participate in these 
+important hearings. Based on my experience as a veteran and my 
+service at The Mission Continues, I believe that this 
+Subcommittee is doing work that is critical to the success of 
+today's generation of veterans.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Kympton appears in the appendix 
+on page 52.
+---------------------------------------------------------------------------
+    Today, I am testifying as a West Point graduate and former 
+Army helicopter pilot and as a veteran who sought meaningful 
+employment after military service. I now serve as the Chief 
+Operating Officer of The Mission Continues, a national 
+nonprofit organization where we have worked with over 350 
+veterans to pursue successful transitions to civilian life.
+    Based on these experiences with veteran recruitment and 
+retention, I believe that there are several key lessons that 
+Federal contractors and corporate leaders can apply to 
+successfully tap into the great skills of today's veteran. 
+Applying these lessons will strengthen their organizations 
+while also building successful transitions for veterans.
+    At The Mission Continues, we create successful transitions 
+by engaging veterans in 6-month community service fellowships. 
+Today, a cavalry scout mentors hundreds of children at the Boys 
+and Girls Club. A Marine Corps sergeant helps his community 
+prepare for disasters and emergencies through the American Red 
+Cross. An Army communications specialist teaches English as a 
+Second Language to immigrant children and their parents.
+    We introduce these fellows to a meaningful mission. We 
+welcome them onto a distinct team. And we ask them to don a new 
+uniform of service. As they serve, we provide them with living 
+stipends and mentors. At the end of their fellowship, we will 
+challenge them to mark their lifetime commitment to service by 
+executing a service project in their community. After their 
+fellowship, they move on to realize their post-fellowship goal 
+of full-time employment, continued education, or an ongoing 
+role of service in their community.
+    Our experiences with these fellows and with more than a 
+thousand veterans who applied for fellowships have shown us 
+this. When you connect veterans to a meaningful mission, ask 
+them to join a distinct team, and challenge them with a set of 
+goals that lead to definable impact, they excel. Just as they 
+excelled in their military service, they again excel in their 
+citizen service.
+    A primary factor in our selection and placement of fellows 
+is the passion they have for service. The cavalry scout serves 
+at the Boys and Girls Club because he is fulfilled by mentoring 
+youth. The Marine readies his community because he is 
+passionate about emergency response. Reconnecting to a 
+meaningful mission has been critical to their success.
+    Our fellows are further enriched by the renewed connection 
+to a team. As you know, all enlistees and officers take an oath 
+to support and defend the Constitution upon entering the 
+military. They then join their military units, each of which 
+possesses a distinct identity and strong traditions. Recently, 
+we gathered more than 100 veterans and awarded them Mission 
+Continues Fellowships. We asked these fellows to take a similar 
+oath and join this distinct new team. In front of thousands of 
+fans at a Major League Baseball game, wearing sharp royal blue 
+Mission Continues polo shirts, standing at attention alongside 
+their new comrades in arms, these fellows proudly recited an 
+oath of service. They walked off the field motivated and eager 
+to serve.
+    While they serve, we also require that our fellows set and 
+achieve goals. They each identify at least three goals for the 
+impact they will have in their community. They identify a post-
+fellowship goal that will impact their own lives for years. We 
+hold them accountable to those goals and we partner in their 
+success.
+    Roxley Pratt grew up in war-torn Sierra Leone. As a child, 
+he marveled at the sentries guarding the U.S. Embassy there. He 
+decided then that he wanted to be a Marine. Years later, after 
+escaping the siege of his city and immigrating to America, he 
+enlisted in the United States Marine Corps. He honorably served 
+for 6 years and his service included deployments to Iraq. Upon 
+his return, people thanked him for his service, but when it 
+came to landing a job, he struggled to get interviews. 
+Unemployed and unable to translate his military skills at job 
+fairs in Southern California, Roxley found The Mission 
+Continues. Driven by his own experiences with homelessness and 
+his personal responsibility to assist those less fortunate, he 
+earned a fellowship with Habitat for Humanity. He is 
+reconnected to a mission that is important to him. He is 
+working on distinct teams, his team at The Mission Continues, 
+his team at Habitat for Humanity, and the teams of volunteers 
+he now organizes. He is translating military skills to civilian 
+skills and he is excelling.
+    Roxley's story can be the story of this generation of 
+veterans. It is a story of service in war and continued service 
+at home.
+    Madam Chairman, we are grateful for your support and the 
+support of this Subcommittee. I would welcome any questions 
+that you or other Members may have. Thank you.
+    Senator McCaskill. Thank you. Mr. Sulayman.
+
+ TESTIMONY OF RAMSEY SULAYMAN,\1\ LEGISLATIVE ASSOCIATE, IRAQ 
+              AND AFGHANISTAN VETERANS OF AMERICA
+
+    Mr. Sulayman. Madam Chairman, Ranking Member, distinguished 
+Members of the Subcommittee, on behalf of more than 200,000 
+members and supporters of Iraq and Afghanistan Veterans of 
+America, I thank you for the opportunity to share our views on 
+this important issue.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Sulayman appears in the appendix 
+on page 55.
+---------------------------------------------------------------------------
+    I have spent 14 years in the Marine Corps trying to execute 
+the Marine Corps' two missions, winning battles and making 
+Marines. As an IAVA staff member, I do not make soldiers, 
+sailors, airmen, or marines, but I do try and make their lives 
+better. The views expressed in this testimony reflect the views 
+and analysis of IAVA and not the United States Marine Corps.
+    Thank you for your attention to the pressing issues facing 
+our Nation's veterans. Unemployment is arguably the most 
+pressing issue facing veterans today. While recent statistics 
+may indicate that the employment outlook might be getting 
+better for veterans, the situation is still worse than it ought 
+to be. For example, the unemployment rate for veterans 18 to 24 
+years old is nearly double the rate for 18 to 24 year-old 
+civilians.
+    Helping veterans create their own jobs via small business 
+has been touted as part of the solution. Many people have 
+wondered whether Federal contracting laws and goals are being 
+met, and if not, what is the best manner in which to do so.
+    There are three main areas to consider: Data, outreach, and 
+implementable solutions. I will address outreach first. IAVA 
+believes that the logical place to begin is through the 
+Transition Assistance Program (TAP), and in the Marine Corps 
+(TAMP). Because TAP is now mandatory for all service members, 
+it is a convenient touch point that will allow for the 
+dissemination of information on Federal contracting processes 
+and opportunities and the most basic level of training to the 
+widest possible audience. The Small Business Administration 
+(SBA) is currently developing an entrepreneurship track for TAP 
+and we believe that this will be a key component in setting 
+veterans up for success.
+    We also believe that allowing veterans and their spouses to 
+retake TAP after separating, as proposed in S. 2246, the TAP 
+Modernization Act of 2012, is a necessary step. Allowing a 
+veteran or spouse who has completed one track of TAP--
+education, for instance--to retake a different track based on 
+new circumstances, in this case an entrepreneurship track, is a 
+small investment on the front end which we believe will pay big 
+dividends on the back end.
+    On the question of data, we must ask, what do we know and 
+what do we wish to know? There is a lot of data to be had, but 
+much of it is dispersed among different agencies. VETS-100 and 
+100A has some meaningful data, but only as a snapshot. It is 
+also not easily accessible. The information is more akin to a 
+head count and misses some crucial information. Because VETS-
+100 and 100A allows reporting of veterans employed at any point 
+during the filing year, there is no guarantee that the level of 
+veteran employment by a Federal contractor or subcontractor is 
+consistently reliable or accurate. A contractor may have 100 
+veterans at the beginning of the year and two at the end and 
+can report 100 veterans employed.
+    In addition, without the inclusion of other relevant 
+information, the value of the VETS-100 and 100A forms is 
+limited. Some good examples would be the North American 
+Industry Classification System Codes that allow tracking the 
+number of veteran contractors by industry type and the era from 
+which the veteran hails. These pieces of information would help 
+elucidate in which industries veteran contractors are most 
+heavily and lightly concentrated and whether that force is 
+declining due to age. Much of that information resides with 
+SBA.
+    The certification process for a service disabled veteran-
+owned (SDVO) small business or veteran-owned small business 
+(VOSB) should also be easy and consistent. IAVA supports 
+efforts to curb fraud and abuse by ascertaining the voracity of 
+SDVO or veteran-owned status, but we recognize that the 
+certification process should not discourage small businesses 
+with limited resources. We are concerned that the statutorily 
+mandated certification process currently used by the Veterans 
+Administration is too cumbersome. Extending this system to all 
+Federal agencies, as has been proposed, would be unnecessarily 
+burdensome on both government and small businesses.
+    It is also worth noting that the VA's Center for Veterans 
+Enterprise site, www.vetbiz.gov, was down for approximately 2 
+weeks. It was up last Thursday and is now back down again for 
+maintenance and there is no information posted as to when new 
+veterans may expect to be able to register their businesses 
+online.
+    The Small Business Administration has relied on self-
+certification and has experienced little fraud. IAVA believes 
+that maintaining this system with some enhanced documentation 
+requirements will help ease the burden on SDVO and veteran-
+owned small businesses while helping to guarantee that the 
+consideration earned through service to country is not abused.
+    As far as solutions go, during research for this testimony, 
+we pursued many different leads on making the system more 
+efficient and increasing the number of veteran contractors. 
+Many of the recommendations we heard often already exist in 
+some form.
+    For example, the idea of searchable centralized database of 
+veteran contractors that could be used by Federal contracting 
+officers and Federal contractors already exists as the Central 
+Contractor Registration (CCR), and Dynamic Small Business 
+Search (DSBS), systems. The use of those resources to find 
+veteran contractors, even by Federal contracting officers, 
+appears to be less than optimal because, we were told, many 
+people choose, quote, ``the path of least resistance,'' end 
+quote.
+    Part of the assessment of the problem will require review 
+of the use of existing systems and processes, but without data 
+that is substantial, accessible, and easy to understand, 
+implementing solutions is a little bit akin to shooting first 
+and aiming later. Some of the reviews of this data are already 
+underway and ideally will result in clarifying best and worst 
+practices so good solutions can be found.
+    We also believe that VA and DOL should be funnels to the 
+Small Business Administration. SBA are the experts on small 
+business and should be the prime actor in this area.
+    IAVA strongly welcomes the efforts of Congress, the 
+Executive Branch, and private industry in increasing the number 
+of veteran contractors, whether those contractors are 
+fulfilling government or private contracts. As part of our 
+commitment, IAVA is willing to spread the word about available 
+opportunities or training to our membership and the greater 
+population through our extensive social media outreach. We are 
+also able and willing to partner with either government 
+agencies or private corporations in targeted efforts to help 
+increase veteran employment through our programs, such as Smart 
+Job Fairs held in partnership with the U.S. Chamber of 
+Commerce.
+    We believe that employment is the No. 1 issue facing the 
+veterans of Iraq and Afghanistan and will only become more 
+important as the war in Afghanistan ends. IAVA appreciates the 
+efforts of this Subcommittee and the other witnesses and we 
+look forward to helping in any way we can. Thank you, and I am 
+prepared to answer any questions that you have.
+    Senator McCaskill. Thank you. Ms. Hardy.
+
+  TESTIMONY OF PAMELA HARDY,\1\ SENIOR MANAGER, DIVERSITY AND 
+              INCLUSION TEAM, BOOZ ALLEN HAMILTON
+
+    Ms. Hardy. Madam Chairman and distinguished Members of the 
+Subcommittee, thank you for inviting me to testify here today. 
+I testify as a Senior Manager in the Diversity and Inclusion 
+Team at Booz Allen Hamilton, where I am responsible for all 
+aspect of our organizational efforts to build and maintain a 
+diverse and inclusive culture for all employees at the firm. 
+That includes making Booz Allen an employer of choice for 
+veterans.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Hardy appears in the appendix on 
+page 58.
+---------------------------------------------------------------------------
+    Booz Allen is based in McLean, Virginia, and we have over 
+80 offices throughout the United States. For nearly a century, 
+our work has helped U.S. Government agencies, defense 
+components, and other business and institutional clients better 
+execute the most challenging government missions around the 
+world.
+    Forbes Magazine recently reported that Booz Allen ranked as 
+the top employer for veterans, citing the approximately one-
+third of our employees who have self-identified as having 
+military backgrounds. We have also been recognized by the 
+National Guard and the Reserve as well as by the Disabled 
+American Veterans (DAV) organization for outstanding practices 
+that support veterans. And we are honored to have been named in 
+the top 10 of the G.I. Jobs List of top 100 military-friendly 
+employers for 6 years running.
+    Booz Allen leads in veterans' employment because our 
+commitment to veterans and wounded warriors is part of our 
+corporate culture, coordinated by our senior leadership and 
+extending throughout the firm. We approach this commitment by 
+involving multiple aspects and layers of our business, much 
+like we integrate our various capabilities for our clients. We 
+hire veterans because of this commitment and because veterans 
+bring a unique knowledge and experience base to their work. Few 
+can know the challenges that face our U.S. military and other 
+government clients better than those who have served our 
+country in uniform.
+    For these reasons, Booz Allen supports the government's 
+efforts to encourage the hiring of former military members and 
+we believe that the current regulatory construct strikes the 
+right balance in allowing contractors like Booz Allen to 
+explore and develop programs that work best for their 
+particular organizations. We approach military hiring, for 
+instance, through a variety of creative recruitment programs, 
+but we also leverage the wide range of expertise we provide to 
+military clients, such as knowledge of veterans' health 
+services. To help us attract and support new hires, we support 
+veteran-owned businesses through our contracting organization.
+    We use members of our own veteran workforce to mentor and 
+support other veteran employees through employee resource 
+groups, mentoring circles, education, and leadership programs 
+and other means. We focus on programs to support military 
+families and spouses. And, importantly, veterans and wounded 
+warriors are a major focus and beneficiary of the firm's 
+philanthropic efforts.
+    In our prepared statement, we detail several hiring and 
+retention programs that have made us so successful. In hiring, 
+we foster strategic recruitment partnerships with nonprofit 
+organizations in the military community. We also run a Junior 
+Military Officers Program to put recently separated junior 
+officers directly in contact with our military recruiting team. 
+And we participate in the U.S. Army Partnership for Youth 
+Success Program by pledging to provide future full-time 
+employment positions for qualified Army-trained veterans.
+    We retain veterans through initiatives at our firm and in 
+the surrounding community. We offer an employee resource group 
+known as the Armed Services Forum to give former members of the 
+military a forum to interact with each other and navigate their 
+transition into the civilian workplace. We have a proactive 
+disability accommodations program, generous military leave, and 
+return policies for Reservists, and we conduct targeted 
+training and development programs to help veterans convert 
+skills they learned in the military into skills they can use 
+and market at Booz Allen. We have also hosted several 
+collaborative community summits across the country to better 
+understand and improve service delivery to veterans across 
+local government, advocacy, health care, and other community 
+organizations.
+    While we believe our firm is already effective in employing 
+veterans, we recognize that there is more work we all need to 
+do. Collaboration among industry, veterans' organizations, and 
+the government is of paramount importance, and we particularly 
+support the Subcommittee's efforts to enhance this type of 
+collaboration.
+    Madam Chairman, thank you again for permitting me the 
+opportunity to discuss this important issue with you today. I 
+welcome any questions you may have.
+    Senator McCaskill. Thank you very much. Ms. Sullivan.
+
+   TESTIMONY OF SALLY SULLIVAN,\1\ EXECUTIVE VICE PRESIDENT, 
+               MANTECH INTERNATIONAL CORPORATION
+
+    Ms. Sullivan. Madam Chairman and distinguished Members of 
+the Subcommittee, I am honored on behalf of ManTech 
+International Corporation to appear before you this morning to 
+share our experiences in hiring and retaining our Nation's 
+veterans.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Sullivan appears in the appendix 
+on page 63.
+---------------------------------------------------------------------------
+    ManTech is a global employer to almost 10,000 people. That 
+roughly 40 percent of our employees today proudly identify 
+themselves as having served or are currently serving in the 
+U.S. military is evidence of the success we enjoy as a company 
+and a culture that successfully attracts those exiting the 
+military and assimilates them into the civilian workforce on a 
+sustained basis. ManTech provides those leaving the military 
+with the opportunity to join the civilian workforce, the 
+opportunity to gain additional job skills and training, health 
+care coverage, and the opportunity to continue to serve their 
+country and support an important mission as a contractor.
+    As the majority of our work today supports the U.S. 
+military and intelligence community, a large number of the 
+career opportunities available at ManTech are for positions 
+that directly support mission requirements and typically 
+require skills gained through military service and the 
+possession of active security clearances. Many of our 
+recruiting activities are focused on engaging those who are in 
+the process of exiting the military or those who have recently 
+exited.
+    ManTech is an active member of more than a dozen military 
+employment partnerships, such as the 100,000 Jobs Mission, the 
+Military Spouse Employment Partnership, Wounded Warrior 
+Project, Hiring Our Heroes, and VA for Vets. We also build and 
+maintain relationships directly with colleges and universities 
+that support the G.I. Bill and offer programs developed 
+especially for veterans. Over the past year, we have 
+participated in more than 125 hiring events spanning 72 cities 
+nationwide. As a result, we connected with more than 5,000 
+veterans and hired more than 2,000 of them.
+    As part of our outreach to recruits, we work closely with 
+the Transition Assistance Program sponsored by the U.S. 
+military. Through TAP, we offer onsite assistance to active 
+duty soldiers who will be leaving the military, including 
+practical advice on how to develop and write a resume, how to 
+interview for a job, and how the civilian job environment 
+works.
+    Of the many things we do to retain our employees, to 
+include veterans, ManTech offers educational skills and career 
+development training as well as mentorship opportunities. Our 
+educational programs are offered through ManTech University 
+(MTU), a first-class award-winning corporate university 
+established to support the emerging training and educational 
+needs of our employees. Additionally, MTU has alliances with 13 
+different accredited universities offering certificates, 
+Bachelor's and Master's degrees, and mini-MBAs, both online and 
+in traditional classroom settings. In 2011, a large percentage 
+of our veteran employees took advantage of training 
+opportunities through ManTech University. More than 40,000 
+courses were successfully completed by our veterans, roughly 10 
+courses per veteran employee.
+    Many of ManTech's contracts require foreign deployments, so 
+ManTech offers two specific programs to assist family members 
+of deployed individuals. One program, called LifeWorks, 
+provides employees and family members free confidential access 
+to resources and counseling 24 hours a day, 365 days a year. 
+This program offers expert guidance on health-related issues, 
+addiction, grief and loss, financial ideas, how to parent a 
+difficult child or teenager, and how to cope with stress.
+    Constant Care, a second program offered by ManTech, is an 
+internally staffed program available to employees 24 hours a 
+day, 365 days a year, by human resource professionals who have 
+the knowledge and experience to assist deployed employees and 
+their families. Constant Care is similar to the Military 
+Ombudsman program and, therefore, is familiar and well received 
+by veterans and their families.
+    As a result of retention efforts such as these, many of our 
+new recruits come as referrals from existing employees, which 
+accounts in part for ManTech being named Number Six Top 
+Military Friendly Employers by G.I. Jobs Magazine, Most 
+Valuable Employer for the Military by CivilianJobs.com, one of 
+the country's most veteran-friendly employers by USAA Magazine, 
+and the Top Ten Best Employer for Veterans by Military Times 
+Edge Magazine.
+    Now, let me comment on ManTech's experience with assembling 
+and filing information regarding veterans and the Department of 
+Labor. Logistically, the assembling and reporting information 
+required by the Department of Labor for the VETS-100A is an 
+automated process by database systems that capture employee 
+information at the initial stage of the hiring process, when 
+information required for payroll, health benefits, taxes, et 
+cetera, is input into our systems when new hires join ManTech. 
+Each new employee is asked to self-identify if they are a 
+veteran, and this information is aggregated and reviewed by 
+human resource specialists as well as by our senior management 
+routinely throughout the year.
+    Last, you have asked for our suggestions for improving the 
+Federal Government's effort to facilitate the hiring of 
+veterans by contractors. To answer this question thoughtfully, 
+I engaged with several cognizant employees working in a variety 
+of levels and roles. Whether human resource specialist, 
+recruiter, or line manager, their answers were very consistent. 
+All felt strongly that the Federal Government already takes 
+many bold and aggressive actions to ensure maximum outreach to 
+this important segment of our population.
+    Further, we know that companies like ManTech have embraced 
+veterans' outreach. After all, if we have not served ourselves, 
+we each have family members and loved ones who have selflessly 
+served our Nation or are serving today.
+    Our recommendation is to stay the course with those efforts 
+we have in place today.
+    Madam Chairman, that concludes my oral statement and I am 
+pleased to answer any further questions.
+    Senator McCaskill. Thank you all very much.
+    It was interesting. I try to visit small businesses in my 
+State from time to time and I actually had a visit with a 
+plumbing supply house in St. Louis, and this is not a large 
+employer, less than 50 employees. The people that work there, 
+most of them have worked there many years. So they want to be 
+careful when they hire someone because they assume when they 
+hire someone, they are going to be with them for years.
+    I did not go there to talk about hiring veterans, but they 
+brought it up with me. And the man that owns the company said 
+it was incredibly difficult for them to find veterans, and he 
+mentioned a couple of things and I would love your take on 
+this, Mr. Daywalt.
+    First, he said that the Web sites that in their experience, 
+as they looked at the various listings on the Web sites, they 
+were taken aback at how many people had put information on the 
+Web site that were not veterans, that people had been able to 
+access various Web sites and put their employment--that they 
+were anxious to get employed, and then when they actually did 
+the due diligence, they found that people were signing up on 
+these Web sites that were not veterans at all. So they found 
+that overwhelming. Because this is a small operation, they did 
+not really have--they ended up working at this for a while. I 
+mean, they spent a lot of time and energy. They finally found 
+two applicants that they are in the final process of 
+interviewing.
+    The other thing he mentioned to me, and I would like your 
+take on both of these issues, is matching. He said, at the 
+veterans' jobs fairs and the places they were going to access, 
+there would be employers there like banks and Enterprise Rental 
+Car, Anheuser-Busch, and they needed people for their 
+warehouse. They were not able to hire someone who was disabled 
+because they needed someone who was going to help them load 
+plumbing supplies into the warehouse and out of the warehouse 
+and deliver these plumbing supplies. And he said it was clear 
+to him how inefficient this was because you had all these 
+employers that wanted a much different employee than he was 
+looking for. And he said that, once again, took hours and hours 
+of their time and effort to try to match up the right veteran 
+with the right job opportunity.
+    So if you could, if you would address those two issues that 
+this particular employer in St. Louis was struggling with.
+    Mr. Daywalt. Yes, Madam Chairman. Excuse me. I am suffering 
+from allergies.
+    Your comment about candidates in a job board database not 
+being vets does not surprise me. There are a number of sites 
+out there that do not validate who the person is that is 
+putting up the resume. You have over 300,000 Internet job 
+boards out there. You have about 30 left in the military space. 
+The leaders are VetJobs, MilitaryHire, and Corporate Gray, and 
+the three of us actually do validate each person that is 
+putting up their resume. With some of the others, they will let 
+anybody put up a resume. And in reality, most veterans do not 
+put their resumes up on the Internet. We are getting over 
+200,000 visitors a month, but we only have 140,000 active 
+resumes, as it has been hammered into us that our friends over 
+in the sandbox are using sites like VetSuccess or other free 
+sites to track down veterans to go attack them here in this 
+country. I wish the press would cover that more.
+    But I hear that from a lot of employers because until they 
+need to make a hire, they are not always aware of who the 
+players in a given space are. It is sort of like I do not know 
+any heart doctors, but if all of a sudden I needed to have a 
+heart operation, I might start doing a lot of research to find 
+out who is going to be a good one. So it is not a common thing 
+that everybody uses on a daily basis.
+    Regarding the matching, the more advanced sites--ours being 
+one of them, MilitaryHire is another good example--have 
+matching mechanisms and career assessment tests that we have 
+people--we use the CRI tests out of Forth Worth, where we can 
+identify a veteran that matches best with the employer. And the 
+way you do it at VetJobs, we have customer service reps. When a 
+customer puts up a job, and we have about 52,000 jobs up today, 
+when they are key jobs, we will go into the database, identify 
+people, and refer them in to our customers. We have had a 
+pretty good success rate.
+    But a lot of the complaints that he or she was voicing 
+really comes from just not understanding how the system works 
+and it is because it is not a system that is used day in and 
+day out.
+    Senator McCaskill. Well, what would you suggest, if 
+anything, maybe part of the problem in this area is all of us 
+want to help.
+    Mr. Daywalt. Right.
+    Senator McCaskill. And sometimes, all best intentions have 
+ugly endings in government. And, frankly, I am beginning to 
+believe that this reporting requirement to the Department of 
+Labor is a good example of that----
+    Mr. Daywalt. Yes, ma'am.
+    Senator McCaskill [continuing]. Where all best intentions, 
+where we were going to try to keep track of contractors hiring 
+veterans, but no one is doing the due diligence to make that 
+effort really meaningful in any way.
+    What could we do that would help an employer like Crescent 
+Plumbing Supply in St. Louis find veterans in a way that is 
+more efficient for them? Now, these are great folks and they 
+just kept working at it until they found two because they 
+wanted to do this because they love their country and they want 
+to hire veterans. But I am not sure very many businesses as 
+small as this business is would have spent the time and effort 
+they spent at it. What should we be doing to make this easier? 
+I am surprised that your Web site would not pop up as one of 
+the first if you went on to search ``hiring veterans''----
+    Mr. Daywalt. We generally pop up in the top three or four.
+    Senator McCaskill. And is it very clear on your Web site 
+that all of the veterans on there have been certified as 
+veterans?
+    Mr. Daywalt. Well, yes.
+    Senator McCaskill. OK.
+    Mr. Daywalt. I mean, we have some people who put their 
+resumes up that were not veterans. We take them out. But some 
+suggestions to help improve the system, one would be to have 
+your veterans' representatives at the workforce centers, what 
+they call Local Veteran Employment Reps (LVERs) and Disabled 
+Veteran Opportunity Programs (DVOPs)----
+    Senator McCaskill. I speak that foreign language now.
+    Mr. Daywalt. OK.
+    Senator McCaskill. I have been on the Armed Services 
+Committee for 6 years.
+    Mr. Daywalt. We make jokes----
+    Senator McCaskill. I can do the acronym dance with you.
+    Mr. Daywalt. We make jokes, you have to have a dictionary 
+to understand the military acronyms, but having more of them 
+familiar with what goes on--and I am a little outspoken, I am 
+not politically correct, but, madam, you have a lot of people 
+in the DOL who are the classic bureaucrats. They would have a 
+wonderful job if it were not for all these damn people coming 
+in wanting help. And they do not take the initiative. And I 
+will give you a real good example.
+    We had a veteran down there in Georgia who needed a job. He 
+is in his 50s. He had been sitting over at the DOL office for 3 
+days trying to get help to get a job, and each day he would go 
+in and say, ``Oh, we have you in the system now. Welcome back. 
+You are in our system now. You are in the system now.'' He did 
+not give a damn about being in the system. He wanted a job.
+    So someone had him give us a call and we found out where he 
+was living. He did not have a car. Did a Google search of his 
+apartment and found a Publix supermarket, a Target, and a Wal-
+Mart all within walking distance of his apartment complex. We 
+called the managers of those three stores and all three of them 
+said, send him over. They interviewed him. Two of them made a 
+job offer and he took one of them. He went with Target because 
+they paid more than the others. But we did all that inside of 
+20 minutes.
+    Why can you not have this $50,000 bureaucrat sitting on 
+their butt in a nice air conditioned office do the same thing? 
+Because there is no penalty and no incentive to go out and do 
+it. I know that is not politically correct, but that is the 
+brute reality and we deal with that day in and day out down in 
+our office.
+    But having them better educated as to what the real 
+resources are for their local area, because all employment is 
+on a local level----
+    Senator McCaskill. Right.
+    Mr. Daywalt [continuing]. And being able to direct somebody 
+as to what are the good sites, what are the--we put out a 
+listing of what we consider to be all the legitimate job boards 
+on the Internet because there are so many rip-offsites, 
+especially targeting veterans and their spouses. But that would 
+be a big move forward if they would do that.
+    Senator McCaskill. Well, I think we have to figure out a 
+way to try to remove as much as this as possible from the 
+Federal Government and put it in the State and local offices 
+where frankly, they are going to be the ones that are going to 
+have the best ears to the ground.
+    Mr. Daywalt. Yes, ma'am.
+    Senator McCaskill. Let me ask about--both Booz Allen and 
+ManTech. You all have great records. Both of your companies 
+told us that the reporting requirements were not burdensome on 
+your companies. I am not sure that they are providing much 
+value, but you did say they were not burdensome.
+    Let me ask you this about the National Guard problem. Are 
+the majority of the people that you are hiring actually those 
+that are leaving active service as opposed to National Guard?
+    Ms. Sullivan. I cannot talk to those statistics. I know 
+that we capture those, and I could probably look through my 
+files here and see what those numbers are.
+    I was thinking about congressional mandate programs and one 
+of the congressionally mandated programs that we absolutely 
+love, and we know it has a high impact and it does make a 
+difference and it has to do with those who are in the process 
+of separating from the military and that is that TAP program. I 
+think----
+    Senator McCaskill. Right, the Transition----
+    Ms. Sullivan. Yes. In the Army----
+    Senator McCaskill. Transition Assistance Program?
+    I think they call it the Army Career Alumni Program (ACAP). 
+They might call it a little bit different. But this is where 
+you can really, work with them and help them think through how 
+to write a resume.
+    Right.
+    Ms. Sullivan [continuing]. I will look through our numbers, 
+and I may not be able to comment here, but I do not think that 
+the majority of them are National Guard or Reserves. They are 
+typically ones who are separating from the military.
+    Senator McCaskill. Right. If you would get those numbers 
+for us, that would be helpful, Ms. Sullivan.
+    Ms. Sullivan. Mm-hmm.
+    Senator McCaskill. And how about you, Ms. Hardy? I assume 
+the same thing is probably true for Booz-Allen, that the 
+majority are those that are separating from active service?
+    Ms. Hardy. Correct, and about 11 percent of our 30 percent 
+of our hires self-identify as having recently separated, 
+representing, one, the highest overall diversity constituency 
+group within the firm, but also indicating that these 
+individuals are coming directly from the military, from active 
+duty to Booz Allen as a first stop.
+    I do not have the numbers for the Reservists but we do 
+capture them and certainly can provide that to the 
+Subcommittee.
+    Senator McCaskill. I think it would be really important to 
+get those numbers, and let me ask you, Mr. Sulayman, I think 
+this National Guard situation is a crisis. I think it is 
+something that we are kind of sweeping under the rug and not 
+paying close attention to. When I was the elected prosecutor in 
+Kansas City, I remember looking at resumes and thinking the 
+National Guard was a really good thing. Now, that was before it 
+became an operational reserve.
+    And I think the testimony that was given here today 
+demonstrates the problem. These companies are not hiring people 
+just because they want to hire a veteran. They are hiring them 
+because they need them for their ongoing business operations 
+and you cannot blame them for not wanting to hire someone and 
+train them thinking they are going to be gone four or five 
+times over a 6-or 7-year period, or 4 or 5 times over a 7-or 8-
+year period, or even 4 or 5 times over a 10-year period.
+    Now, I know we are drawing down in Afghanistan and 
+obviously we have drawn down in Iraq, but I think that we have 
+permanently injured the ability of the National Guard to get 
+employment in our country by the way we have made these 
+changes, and I do not think they were well thought out. I get 
+it. We did not have enough boots and we had to do it because 
+our ground force was not big enough, but what I do not think 
+they anticipated that there was going to be this problem and I 
+think it is one of the reasons that we have had some of the 
+problems with suicides and some of the other issues that we are 
+seeing in our military.
+    What would you recommend that we could do, short of 
+convincing our military leadership that they need to go back to 
+the old way in terms of utilizing the Guard and the Reserve? 
+What could we do that would help this problem?
+    Mr. Sulayman. Well, ma'am, I mean, you really hit on the 
+big crux of the matter, is that the National Guard and the 
+Reserves have been used in unprecedented fashion in the 
+conflicts in Iraq and Afghanistan. They have been used as an 
+operational reserve. I know that in briefings I have been to at 
+the Pentagon, the Army has talked about their Force Generation 
+Model that they refer to as ARFORGEN. It envisions Guard and 
+Reserve units activating at least once, or they say once every 
+5 years. So out of every 5-year period, you can expect to be 
+deployed out of the National Guard or Reserve, and more often 
+if you are switching units and you happen to catch the unit at 
+the right or the wrong time, depending on your opinion, in the 
+cycle. And that is going to be a continued issue, particularly 
+with smaller employers who can stand to absorb that loss less 
+well.
+    I know that what we have heard from our membership, 
+somewhat anecdotally, is that they are not getting hired 
+because they are in the Guard or Reserve and that employers 
+have--it is one of the questions that they are often asked. Are 
+you in the Guard or Reserve? Are you anticipating deploying any 
+time soon? And that there are some bills both in the House and 
+the Senate that are designed at strengthening the Uniformed 
+Services Employment and Reemployment Rights Act (USERRA) 
+protections and make that law a little bit tougher. But, 
+really----
+    Senator McCaskill. And USERRA protections are the 
+protections that were put into the law that prohibit the 
+discrimination against members of the Guard and Reserve in 
+connection with their military service.
+    Mr. Sulayman. Yes, ma'am. So having those employment and 
+reemployment rights a little bit stronger, we believe is always 
+a good thing. But we think that incentivizing employers it is 
+better to dangle the carrot than break out the stick. We 
+believe that most employers want to hire veterans. It is just, 
+like you said, those concerns of missing out an employee who 
+you anticipate having, especially if you are a small or medium-
+sized business.
+    That is really a tough question. We have been trying to 
+work with employers through our Smart Job Fairs to convince 
+them that here is the value of a Guard or Reservist and that 
+they may be gone for a year out of a 5-year period, but their 
+skills as managers and leaders are going to be sharper and--I 
+deployed with a Reserve unit to Iraq. I was a light armored 
+reconnaissance unit. We had, obviously, heavily mechanical and 
+we had a lot of mechanics in the civilian world who I would say 
+that after the 9-months that we were deployed, tearing engines 
+out and tearing them apart and rebuilding them in a foot and a 
+half of moondust sand in the Iraqi desert without any 
+electricity, without any water, without any lifts, basically 
+improvising all this, the Cummins diesel engines and 
+transmissions, Detroit diesel engines that run the trucks that 
+they repaired back in their civilian lives, that made them much 
+better and more efficient at their jobs once they returned 
+home.
+    And that is really a job of selling that to potential 
+employers, because the Army, as you said, and the Marine Corps, 
+which is, I understand, going to operate on a similar Force 
+Generation Model with respect to reserves, are not going to 
+change that because of the operational commitments that we have 
+and what they need to fulfill.
+    Senator McCaskill. Let me turn to Senator Begich for some 
+questions, and then I have some additional questions I will ask 
+when he is completed. Senator Begich.
+    Senator Begich. Thank you very much, Madam Chairman.
+    First, I appreciate you all being here and giving us some 
+insight on what we need to do about employment for veterans. My 
+State has about 11, 12 percent of the population are veterans, 
+the highest per capita in the Nation, so we have a lot of need 
+and, as you can imagine, a lot of issues that come up.
+    When I was mayor, just to followup on the Guard issue, the 
+Employer Support for the Guard and Reserve (ESGR), we always 
+signed up on it because we wanted to make sure people were 
+taken care of no matter where they were. Is there an--let me 
+just throw an idea and I have a couple of questions more 
+specific to it. Anyone who wants to answer, and I will start 
+with you, Ramsey, if it is OK. To create an incentive for the 
+businesses to--they know they are going to be gone for a period 
+of time. The question is how long can you keep those kind of 
+jobs open. Is there, through tax policy, is there an 
+opportunity to create incentives to incentivize them not only 
+to hire them, but to keep that space open and creating flex 
+schedules? I do not know who wants to answer----
+    Mr. Daywalt. Yes, I will answer that, sir. I have testified 
+about this several times in the past. Tax incentives, while 
+nice and a ``feel good'' from a political standpoint, is not a 
+driver to get people hired. And what I hear from employers, I 
+mean, they love getting the people off active duty, but----
+    Senator Begich. Right.
+    Mr. Daywalt [continuing]. They would be more than willing 
+to support members of the National Guard and Reserve if they 
+were compensated for when their employee is taken away.
+    Senator Begich. Got it.
+    Mr. Daywalt. So if Sulayman works for me and he gets called 
+up, I want a direct cash stipend so that I can hire a 
+contractor to do his job until he gets back. That is the cost 
+of doing business.
+    Senator Begich. Get you.
+    Mr. Daywalt. I cannot spend the tax credit. And one of the 
+big problems with a lot of tax credits is that once the 
+Department of Labor lays on all their tracking requirements, I 
+may be getting $9,600 back, but it may be costing me $11,000 
+for all of the reporting and tracking.
+    Senator Begich. Just to keep track of that.
+    Mr. Daywalt. And I am not going to make it up in volume.
+    Senator Begich. So the better approach, at least from your 
+view, is if there is an opportunity to do a differential, a 
+cash differential for the period of time deployed so you can at 
+least keep the work flow moving----
+    Mr. Daywalt. Yes, but see, you have a bigger problem. It is 
+a systemic problem. The USERRA was written for when people were 
+gone on the weekend or maybe a 2-week active duty----
+    Senator Begich. Right. Two weeks.
+    Mr. Daywalt. It was not designed for people being going 
+away for 12, 18, or 24 months. So it is out of--it is an 
+anachronism. What is happening now, and we documented this when 
+the Iowa brigade was called up, they had 750 people that were 
+unemployed, a little over 30 percent of the brigade. They did 
+not lose their jobs when they were over in Afghanistan. They 
+lost their jobs before they left----
+    Senator Begich. Right.
+    Mr. Daywalt [continuing]. Because it is announced about day 
+160 from mobilization day, and most of them lost their jobs 
+between day 150 down to day 90 because the employers realized 
+that if I lay you off under the guise of the recession, I am 
+not subject to USERRA because I am not subject to USERRA until 
+you have your orders in hand.
+    Senator Begich. Got you.
+    Mr. Daywalt. Now, if you say that we are going to make 
+USERRA effective the moment you announce a unit, nobody will 
+ever hire a member of the National Guard.
+    Senator Begich. Right.
+    Mr. Daywalt. You have a systemic problem. It is the way the 
+Guard and Reserve are being used. And until you fix that 
+problem, everything else is just going to be a band-aid.
+    Senator Begich. Very good.
+    Mr. Sulayman. Sir, I agree in large part with what Mr. 
+Daywalt said, but, one of the things that also has to be 
+considered is that less than one percent of the population has 
+served in these conflicts.
+    Senator Begich. That is right.
+    Mr. Sulayman. So this is not a situation where World War II 
+where you had, I think 11 percent is the figure--and so 
+everybody had a brother, or cousin, or husband, or wife, or 
+sister, or there was a relative, or a neighbor, somebody who 
+was close to you. And so everybody had sacrifice. I mean, there 
+was rationing of sugar, gas, and stamps. I mean, my grandfather 
+went away and all his brothers, and it is interesting to hear 
+my grandmother talk about, silk stockings, not being able to 
+have stockings during World War II. And I think that is just 
+weird. I mean, it is just something that is not in--and I have 
+been in the Marine Corps for 14 years and that is something 
+that just does not enter my mind.
+    But I think employers have to understand that there is a 
+sacrifice associated with the wars that have been fought and 
+that while tax incentives or direct stipends, if those are the 
+carrots that we come to understand are the best solutions and 
+that we can afford to do, hey, that would be great. But it is 
+also a matter of the country's shared sacrifice.
+    Senator Begich. It is a moral obligation.
+    Mr. Sulayman. Yes, sir. I mean, it is a moral obligation. 
+The Reservists that I took over, a lot of them, as Mr. Daywalt 
+said, lost their jobs before we left. Oh, hard economic times, 
+your job is gone. And under USERRA, if the job disappears, you 
+do not have to find another position.
+    So employers understanding that this is part of the shared 
+sacrifice, and hopefully as Afghanistan winds down, this 
+becomes less and less of a problem. But as Senator McCaskill 
+pointed out, with the unprecedented use and the Army Force 
+Generation Model that I was talking about, it remains to be 
+seen exactly what effect that is going to have in the future, 
+continuing an operational reserve.
+    So we really feel at IAVA that it is a moral obligation. It 
+is a small percentage of the population that has been doing a 
+lot of the fighting and multiple deployments and----
+    Senator Begich. Let me hold you there, only because I want 
+to get--I have one quick question left here, and it is a big 
+question, but kind of--on January 11, the Government 
+Accountability Office (GAO) reported how many different 
+employment training programs there are--I think it is 40, 50--
+between the Department of Labor, the Department of Veterans 
+Affairs, and all these other miscellaneous. I am coming more 
+and more to the feeling that maybe we consolidate these, put 
+them all in the Department of Veterans Affairs, focus in that 
+arena.
+    Just give me a couple of quick thoughts. My time is pretty 
+close to being out here. But I just think with so many 
+Department of Labor tries, bless their soul, but veterans 
+understand veterans and it seems like we should just shift it 
+all, streamline it, and focus on what we should be doing, and 
+that is employing and retraining and have the Veterans 
+Administration do it in concert with their veterans benefit 
+programs and all these other things they do. Any thoughts from 
+folks?
+    Mr. Sulayman. Yes, sir. There is----
+    Senator McCaskill. Take your time. You do not need to 
+hurry.
+    Mr. Sulayman. OK. There is legislation in the House that is 
+currently working its way through. I think it is H.R. 4072----
+    Senator Begich. Right.
+    Mr. Sulayman [continuing]. Which IAVA supports and is 
+designed to take Department of Labor and the veterans program 
+and transfer it wholesale to the VA. We subscribe to the same 
+thinking that you have, sir, that Veterans Affairs is what a 
+veteran thinks of when--where do I go for help? I am going to 
+the VA. And the fact that the legislation is written to just 
+basically make an address change is a good thing because it is 
+not diminishing any of the functions of----
+    Senator Begich. Right.
+    Mr. Sulayman [continuing]. The vets program----
+    Senator Begich. It seems like if you are a vet, you are 
+coming in. You are trying to figure out, do I need some more 
+education if I want to be in this job, and do I need any 
+medical assistance and some of the issues that I might have had 
+or might not have. But it seems like you want to do that just 
+kind of in one place----
+    Mr. Sulayman. Yes, sir, and DOL Vets has employment 
+outreach and VA has employment outreach. And so having DOL Vets 
+move and become VA Vets and do the employment for veterans at 
+VA to us makes sense because it removes some of that 
+duplicative effort that is over at VA and it just centralizes 
+it all.
+    And that is a little bit that I talk about in my testimony 
+here, as well. With the numbers and the outreach for veterans 
+small business, we feel that DOL--or VA should be a conduit, 
+that DOL should be a conduit. If veterans come to DOL or VA 
+looking for small business help and advice, they should go to 
+the veterans outreach over at SBA because those are the 
+experts, and that is the same thing we feel with DOL Vets 
+moving to VA.
+    Senator Begich. Madam Chairman, can I ask--Ted, were you 
+about to say something to that issue?
+    Mr. Daywalt. Oh, no.
+    Senator Begich. Oh, OK. I appreciate it. Let me just end 
+there. You actually answered my second question, which was on 
+the small business. You got right to it, because I think the 
+same thing, that we want to make sure it is as streamlined as 
+possible. I know there are some good efforts being done with 
+TAP and trying to move entrepreneurship. The TAP has a lot of 
+work to be done. I think the mind of a soldier going into and 
+having to take that program and figure out how--they are not 
+focused on that. I mean, they are focused on, thank God, I am 
+now doing XYZ. I have to go to where now for what?
+    And I think the more we can improve that, but also 
+entrepreneurs seem like a huge opportunity for veterans. I just 
+met some in Alaska on some small companies, all veterans, 
+incredible work they are doing, worldwide operations now, small 
+little manufacturing business but very precise. They took their 
+skill, turned it into a business that struggled getting their 
+business together, but because enough of them banded together, 
+they have some capital. It just seems like that is an 
+incredible track for veterans. As someone who comes from a 
+small business world, it seems like this is a huge opportunity 
+for the innovation. Ted.
+    Mr. Daywalt. I would like to add to what you just said, 
+Senator. I am on the Small Business Council at the U.S. Chamber 
+and I have had--I have submitted 11 different ideas of how to 
+help the National Guard and Reserve, one of which is for the 
+government to put up a pool of money so that--and this would 
+only help maybe 12, 14 percent of the people in the National 
+Guard--but a pool of money where they can draw on, no interest 
+or low interest notes so they can buy a franchise.
+    Senator Begich. Yes.
+    Mr. Daywalt. There are a lot of advantages to that, because 
+veterans tend to hire other veterans. Everybody in VetJobs is 
+either in the military, married to the military, or a child of 
+the military--do not tell the DOL that, they will say I am 
+discriminating--but we do. And if they are in the Guard, you 
+cannot file a USERRA complaint against yourself.
+    Senator Begich. Right.
+    Mr. Daywalt. And while they are gone, their family can be 
+running it while they are deployed, and then when they come 
+back, there is no employment problem. There is no loss of 
+benefits. There is no loss of income. But it will only help 10 
+to 14 percent of them, and there are a lot of other things to 
+help the others, but entrepreneurship--veterans, study after 
+study--Booz has done a great study on that--shows that some of 
+your best entrepreneurs----
+    Senator Begich. Are veterans.
+    Mr. Daywalt [continuing]. Were prior military because they 
+have that all important quality called leadership and they can 
+understand risk----
+    Senator Begich. That is right.
+    Mr. Daywalt [continuing]. Because if I made a mistake out 
+there, it cost some of my troops their lives. So you can make a 
+decision very quickly. And so entrepreneurship would be a big 
+part. There is no silver bullet.
+    Senator Begich. Right.
+    Mr. Daywalt. I am always fascinated when I come up here, 
+because everybody is looking for the one silver bullet that is 
+going to solve all their problems. Your problem is 
+multifaceted. There is no one silver bullet. So you are going 
+to have to do 11, 12, 13 things, and none of them are cheap.
+    Senator Begich. Right. I will just end with this comment. 
+Thank you, Madam Chairman, for the chance to ask a couple of 
+questions. Again, thank you all for doing what you are doing.
+    But you are right on the franchise piece. I have seen some 
+good reports and franchisers, which I have looked into many 
+times in my years, the veteran component, they look for because 
+of just what you said, because they know when they say, OK, 
+build five stores, it is like a mission and they are on it and 
+they figure out how to move through it. But their issue is 
+capital. It is always--because when you do a franchise, there 
+is no $5,000 issue. It is a $50,000 to $250,000----
+    Mr. Daywalt. Or more.
+    Senator Begich [continuing]. Or more, depending on the 
+franchise you get.
+    Mr. Daywalt. The International Franchise Association 
+sponsors a group called VetFran. We are a part of that.
+    Senator Begich. Yes.
+    Mr. Daywalt. And they have a big initiative going on this 
+summer, and the VFW and some of the other VSOs are getting 
+involved with it now. We think that is a good solution.
+    Senator Begich. Yes.
+    Mr. Daywalt. But there----
+    Senator Begich. It is a piece.
+    Mr. Daywalt. It is a piece to the puzzle.
+    Senator Begich. Thank you, Madam Chairman.
+    Senator McCaskill. Maybe we could do away with some of the 
+bureaucracies around this issue and take that savings and put 
+it into a fund that could----
+    Senator Begich. If we do----
+    Senator McCaskill [continuing]. For low-interest loans 
+and----
+    Senator Begich. Combine the Department of Labor over with 
+Vets. Take that savings.
+    Senator McCaskill. And it is more than just the Department 
+of Labor.
+    Senator Begich. Oh, yes, it is. Yes.
+    Senator McCaskill. There is something touching veterans in 
+almost every agency of government, all for the right reason, 
+because people wanted to help veterans. But what we have done 
+is we have spawned, and what this hearing today has shown is 
+that one piece of that we have exposed is this report that 
+everybody is supposed to file. You guys are doing a great job. 
+They do not even have your data. One of the data they had 
+showed that somebody hired--you were not here, Senator, but the 
+Committee got data from the Department of Labor that showed 
+that one company hired 400 percent veterans more than they 
+employed, than their total employees.
+    So, clearly, we are----
+    Senator Begich. We want more of those companies. 
+[Laughter.]
+    Senator McCaskill. Well, yes. I mean, the data is like a 
+joke. It is like a bad joke.
+    Let me ask, the certification of this is something that was 
+scandalous that the SBA had to deal with, where it was 
+discovered that somebody was claiming to be a veteran, was 
+getting the advantages of being a veteran, and was not a 
+veteran. And even worse, I believe the example that brought 
+this to light was they were claiming a service disabled veteran 
+and they were not even a veteran.
+    So, first, how can we certify veterans for advantages that 
+we try to put into the law for them in a way that does not 
+hinder the entrepreneurship of them as they move into the 
+business world, and second, what about fronting? How many 
+veterans are being hired to front for companies to get the 
+benefits that are associated with a veteran-owned business? In 
+your experience, have you all seen that? And if so, do you 
+think the government even dents the surface of getting at 
+fronting?
+    Mr. Sulayman. Well, ma'am, I can tell you that I have heard 
+of fronting. We have not heard anything anecdotally and I have 
+talked to folks at SBA and VA and DOL on those issues a couple 
+times.
+    The process that the VA goes through right now to certify 
+veteran contractors, veteran businesses, is apparently 
+statutorily mandated, and I understand that the intent was to 
+eliminate some of those issues and abuses. But it has also made 
+it very difficult for veteran-owned companies, whether they are 
+small--whether they are service-disabled veteran-owned 
+businesses or just veteran-owned businesses, to get into the 
+system. And you were talking about some of the bureaucracy. If 
+you look at--there is vetbiz.gov, which is the VA's site, and 
+then there is fedbizops.gov, which is, I guess, the general 
+site. There are multiple touch points and I think that makes it 
+difficult for veterans to understand where they need to go and 
+what they need to do.
+    Anecdotally on that point, I have heard several veterans 
+who have gone through the VA's credentialing process and think, 
+OK, now I can do business with the Federal Government, only to 
+find out that they never had to go through that process to do 
+business with the other arms of the Federal Government.
+    And we certainly have heard, not necessarily from our 
+membership but through the media and news, about instances like 
+SBA and veterans either fronting or companies claiming to be 
+SDBOs or veteran-owned businesses that are not. And SBA, in 
+talking to the veterans outreach folks over there, they said 
+that, historically, the rate is very low.
+    So we think that the self-certification that is used by SBA 
+is probably the way to go, but maybe add some small barriers, 
+you have to produce a certificate of incorporation or you have 
+to produce incorporation documents that show a veteran and the 
+veteran's DD-214, something that is a little bit more than 
+self-certifying. What exactly that would be and how best that 
+would be done, I could not say off the top of my head, but I 
+think adding some small hurdles, while still allowing that 
+small business to have a low barrier to entry into business 
+with the Federal Government, is probably the way to go, and I 
+think you would weed out most of that.
+    Fronting, I think, really, at that point, I mean, just 
+taking somebody to the woodshed, judicially speaking, is 
+probably the way to end that.
+    Senator McCaskill. I just wonder if we were even doing the 
+oversight that is necessary to find the fronting. I mean, what 
+this hearing has taught me is that we are not really paying 
+attention. We are passing laws and then we are not paying 
+attention, and that is why we are going to try to stay on this 
+from a contracting standpoint and try to continue to pay 
+attention to see if we cannot--I am just, dollar, bet you a 
+dime, that it is going on out there, but it has not been 
+uncovered in any way.
+    Let me ask you, Mr. Kympton, I am fascinated by your 
+organization. It is a win-win-win-win-win-win-win. I assume 
+that all of this is being done with charitable donations. Are 
+there any government funds that are involved in your 
+organization whatsoever?
+    Mr. Kympton. Madam Chairman, there are no government funds 
+at this time, no.
+    Senator McCaskill. And what is the amount of stipend? I 
+mean, if someone is on a fellowship with your organization, how 
+many can you do a year, and how big is your organization's 
+budget, because we should--this is a great example of where the 
+private sector does--the not-for-profit sector does a much 
+better job than government in trying to assist not only the 
+veterans, but the community writ large as it relates to the 
+various organizations that you get fellowships in. How does 
+this work? Are the various organizations providing the money or 
+do you provide the money for the stipends during the 
+fellowship?
+    Mr. Kympton. Madam Chairman, our loose planning figure for 
+a fellowship is $10,000 per fellowship, and what that funds is 
+6 months of living stipends for the fellow so that he or she 
+can work in a volunteer capacity within whatever organization, 
+whether that is Habitat for Humanity or the Boys and Girls 
+Club. And all of that money comes currently from private 
+dollars, either corporate corporations or individuals who have 
+seen the value of placing veterans within these nonprofit and 
+community service organizations.
+    So the living stipend that we pay them so that they can 
+serve in a volunteer capacity represents roughly $7,000 of that 
+$10,000, and it is pegged to the AmeriCorps living stipend. So 
+we pegged it on something that is out there. It varies by 
+location. It varies by the cost of living in that location. 
+And, again, the intent is so that they can serve in a volunteer 
+capacity, reconnecting to a mission, while they are also 
+working toward a longer-term outcome for the contract, whether 
+that is full-time employment either with the organization in 
+which they are serving or one that they have targeted as a 
+place that they would like to serve, or as a segue into 
+continued education, or placing them in that ongoing role of 
+service in their community.
+    Senator McCaskill. Are you a United Way agency?
+    Mr. Kympton. No, we are not.
+    Senator McCaskill. So how many veterans are you serving on 
+an annual basis in this capacity?
+    Mr. Kympton. This year, we have targeted internally 
+somewhere between 400 and 500 fellows. Most recently, we have 
+organized these fellows into classes, cohorts, a very military 
+concept. So we brought 114 fellows together in San Diego and 
+started them as a class, and then after their 3-day orientation 
+in person, a very kind of military flavored orientation----
+    Senator McCaskill. And how do you find these veterans, or 
+how do they find you?
+    Mr. Kympton. The most prolific source of recruitment right 
+now for us are our former fellows or the volunteers who have 
+served with us in communities and have seen what these fellows 
+are capable of.
+    Senator McCaskill. Have you done National Guard folks?
+    Mr. Kympton. We have, yes.
+    Senator McCaskill. It seems like, to me, this might be a 
+good fit for the National Guard, because if you are talking 
+about a 6-month fellow, someone who has been deployed and has 
+come back and is serving in the National Guard, I mean, maybe 
+this model is something that we could try to promote, not 
+through government but in the private sector, to actually focus 
+on the National Guard population, because it seems to me that 
+the flexibility that a not-for-profit represents in terms of 
+not being as worried about future deployments upsetting the 
+entire business model of a not-for-profit makes a lot more 
+sense than maybe some of the other kinds of work that a Guard 
+or Reservist could look for.
+    Mr. Kympton. Madam Chairman, I can tell you both 
+anecdotally and with data that the organizations in which our 
+fellows serve deeply respect what they have brought to those 
+organizations in terms of the skill sets----
+    Senator McCaskill. Right.
+    Mr. Kympton [continuing]. And the unique experiences, and 
+plus they are getting a volunteer who are bringing all of those 
+skill sets and experiences to the table. So they keep coming 
+back to us. We have placed more than one fellow at Habitat for 
+Humanity and I believe that is due to the impact that these 
+veterans are having on those organizations.
+    Senator McCaskill. I bet they really give those 
+organizations a shot in the arm in terms of morale and passion 
+and focus. I think it is a terrific organization.
+    I want to give Senator Carper a chance. Am I calling on you 
+before you are ready? I have more questions if you need time.
+    Senator Carper. I am ready. Thank you.
+    Senator McCaskill. OK. Senator Carper.
+    Senator Carper. Thank you, Madam Chairman.
+    To our witnesses, welcome. It is very nice to see Ted 
+Daywalt again, and we welcome each of our witnesses.
+    Senator McCaskill. Just put your sign up here so the people 
+watching on C-SPAN know who you are.
+    Senator Carper. Thank you. Who is that guy, anyway, sitting 
+next to Claire McCaskill? [Laughter.]
+    Just, like, airdropped in from the Finance Committee. Here 
+we are.
+    But I just want to express my thanks. Some of you, and I do 
+not know if you have talked about it here today, we have a 
+situation going on where I am a former veteran, Navy guy like 
+Ted, and the idea of being able to pursue a degree or post-
+secondary program while on active duty, being detached, 
+deployed around the world, I mean, that is great. That could 
+be--it is a great model, because the nature of the work you do 
+in the military is you are gone a lot and it is just great.
+    Unfortunately, and we have some folks whose distance 
+learning colleges and universities, some of them do a great job 
+in screening people, preparing people for these programs, 
+making sure that they get the tutoring that they need and a lot 
+of support and they are actually being prepared for jobs that 
+will enable them to be productive citizens and pay off whatever 
+their loans or debts might be that relate to their education. 
+Not everybody is wearing a white hat, though, in that industry, 
+as we know.
+    As Mr. Daywalt knows, some of us have been working on 
+legislation that says, let us go back and actually revisit the 
+way the law used to be. It used to be that 15 percent of the 
+revenues of a proprietary school had to come from sources other 
+than the Federal Government and 85 percent could come from the 
+Federal Government. And then that was changed to 90 percent 
+could come from the Federal Government but 10 percent had to 
+come from other places. Now the rules are such that 10 percent 
+that can come from other places can come from the G.I. Bill and 
+from tuition assistance for folks that are on active duty. So 
+we have literally got 100 percent of a college's or 
+institution's income can come from the Federal Government, no 
+skin in the game. Not a good situation. So we are trying to 
+address this and work our way back to a real 90-10 rule where 
+10 percent of revenues have to come from someplace other than 
+the Federal Government.
+    I wanted to just ask, if I could, of Mr. Daywalt, and 
+others if you want to jump in here, employers, we know, are not 
+readily snapping up some of our veterans. Some, they are, but 
+some, they are not. But even those that have completed their 
+college degrees using G.I. Bill benefits. And I guess one of 
+the questions is, why is that, and could there be some 
+correlation here between the quality of the post-secondary 
+training that folks are getting from the G.I. Bill or from 
+tuition assistance and whether or not it is doing as much in 
+terms of job preparation as we think it ought to be getting? 
+Could you just speak to that, Ted?
+    Mr. Daywalt. Sure, sir. I will start by saying that if we 
+did not have the National Guard problem, we would not be 
+sitting here talking about veteran unemployment today because 
+what we see, overall, the bulk of the veterans coming off 
+active duty are getting employed, or they go back to school and 
+then they get employed. But when they are totally separated, 
+employers want to hire you. It is that National Guard issue 
+where the real veteran unemployment issues lies.
+    If we were talking about this problem 20 years ago, it was 
+the over-50 veteran that could not get a job. And then DOL did, 
+I think, what was one of the best programs it ever did, was put 
+in these computer training programs in all the workforce 
+centers, and within 6 months, the unemployment rate went from 
+the 20s down to, like, 4 or 5 percent.
+    Senator Carper. Is that right?
+    Mr. Daywalt. Because they have the skills. They just did 
+not know how to use the computer. In today's environment, if 
+you cannot use the computer, you are illiterate. But the real 
+unemployment problem--the overall unemployment rate for all 
+veterans right now is 7.7 percent, using the CPS numbers. It is 
+that young veteran that is in the National Guard is where your 
+real problem is at.
+    But to your question, employers want to hire them. We have 
+what, 5,000, 6,000 companies that use VetJobs on a regular 
+basis. I can only think of one company I have ever dealt with 
+that I would say was anti-military.
+    Senator Carper. Out of how many?
+    Mr. Daywalt. Over 5,000.
+    Senator Carper. Whoa.
+    Mr. Daywalt. Only one that I would call anti-military. 
+Now--and the government contractors, I know there is going to 
+be a big stink about what The Weather Channel did with a major 
+here recently, but for the most part, when there are USERRA 
+problems in a company, it is because an individual made a 
+stupid judgment, not--it is not corporate policy. But, overall, 
+they do want to hire them, sir.
+    You have to fix a systemic problem. If you fix the 
+problem--go back to the change of policy on January 11, 2007--
+in 2006, the unemployment rate for your 18 to 24-year-olds was 
+only about 10 percent, thereabouts. In 2008, it went up--I 
+mean, at the end of 2007, it went to over--like, 23 percent. 
+And the employers started saying, wait a minute. If you are 
+going to take my employee away for up to 48 months out of any 
+60, I am not going to keep them, and that is why it doubled, 
+and it doubled in the young ones because that is where most of 
+the members of the National Guard are your 18-to 29-year-old 
+veterans.
+    You get rid of that systemic problem, you will not need a 
+hearing like this today.
+    Senator Carper. OK. Any other comments on the issue? What I 
+am looking for is the correlation between folks that are using 
+our G.I. Bill and maybe tuition assistance and it is not 
+preparing them for a real job.
+    Mr. Daywalt. Well, it does prepare them. The G.I. Bill is 
+working. It gives people--they go in--Student Veterans of 
+America and IAVA both have been very active helping people to 
+get into the schools. When they come out of the schools on the 
+other side, it prepares them. And a lot of great companies--
+ManTech is a good example, where they bring people in and they 
+train them. They do not want to hire veterans, but they do not 
+want them taken away. It is a simple problem.
+    Senator Carper. Yes. Ms. Sullivan?
+    Ms. Sullivan. So in thinking about any stones left 
+unturned, and I was glad that you brought up the G.I. Bill, so 
+certainly ManTech is as networked as anybody. We have a 
+successful program. Our numbers speak for themselves. It is 
+part of our culture. It is a part of our company, how we 
+operate.
+    But there is one thing that I heard universally from people 
+with inside of ManTech of, is there some stone unturned that 
+really could make the difference, really move the needle in a 
+significant way, and certainly I am not expert on this, but 
+something for all of us to consider is, is there a way for 
+veterans who are leveraging the G.I. Bill and trying to improve 
+their skill set so they become more employable, something that 
+we see is many times veterans who are leveraging that G.I. 
+Bill, in the process of getting their education or more 
+training, they lose their security clearance. And for an 
+employer like ManTech, and most of our work is mission oriented 
+so it serves the Department of Defense or serves the 
+intelligence community, that ability to have a security 
+clearance, an active one, is a very necessary component, and 
+that part of the market is still a good market and it has 
+competitive pay.
+    So anything that could be done to help preserve that 
+clearance, maybe, I do not know, put it in a deep freeze or a 
+deferral mode versus just cancel it outright, I think could be 
+a real needle mover for everyone.
+    Senator Carper. OK. Thanks.
+    Senator McCaskill. That is a great idea.
+    Senator Carper. Yes. Thank you very much.
+    Any other comments on this issue? Yes, sir.
+    Mr. Sulayman. Yes, sir. I know you are probably used to 
+hearing Tom Tarantino talk about the G.I. Bill issue on IAVA's 
+behalf, but that is something that, definitely, we thank you 
+for your leadership on with trying to change the 90-10 rule, 
+and we have heard anecdotally, and we think we have plenty of 
+examples and there are plenty of statistics to back up the idea 
+that veterans, in trying to take advantage of the best career-
+ready training program that is out there, which is the G.I. 
+Bill, especially the Post-9/11 G.I. Bill now that it can be 
+used for licenses, certifications, not just for post-secondary 
+education, but professional degrees and trades and everything 
+else, basically----
+    Senator Carper. It is even transferrable, I believe.
+    Mr. Sulayman. And transferrable to----
+    Senator Carper. Family members.
+    Mr. Sulayman [continuing]. To children and spouses and, I 
+mean, it is----
+    Senator Carper. What a deal.
+    Mr. Sulayman. It is an awesome program. But we----
+    Senator Carper. I think when we came back from Southeast 
+Asia at the end of the Vietnam War, I think we have about $200, 
+$250 a month.
+    Mr. Sulayman. Right, and there was a big differential 
+between the post-World War II G.I. Bill and the G.I. Bill for 
+the Vietnam era veterans. And this, the Post-9/11 G.I. Bill, 
+really restored some parity more on the level of the post-World 
+War II G.I. Bill and can be a game changer, and a lot of 
+institutions sprang up, as they did after World War II, to take 
+advantage of that and take advantage of some of the loopholes. 
+And we have found from our membership that really has been an 
+issue for them, with not completing degrees because they have 
+exhausted the G.I. Bill on, quite frankly, really expensive 
+degrees that were not going to prepare them for the jobs they 
+were taking--criminal justice technology, for instance.
+    I had a small business before I got deployed in 
+construction. I was reviewing some of the online universities' 
+courses in construction management technology and I could not 
+figure out how that would have applied to any of my 
+subcontractors that I used or me as a project manager for a 
+Fortune 500 construction company. It was really--and that is 
+one of those things, where if you go to school and you get that 
+degree and then you go out looking for the job or you try and 
+startup a business as a small contractor and want to do 
+business with Federal, State, or local governments in 
+construction, those sorts of things, that is not going to 
+impress anybody and help you out, and that is one of the things 
+that we have found as we have looked at the issue.
+    Senator Carper. All right. Anybody else?
+    Mr. Daywalt. To Ms. Sullivan's issue about security 
+clearances, we hear that all the time, and there is a solution 
+but it is going to take a change of paradigms over at DOD. In 
+our country, unlike in Europe, the individual does not have the 
+security clearance. The billet or the job has the security 
+clearance. And then when you step out of that billet, you are 
+no longer cleared. Now, at the TS/SCI level, you have up to 6 
+months to get back into a job at the TS/SCI level. Otherwise, 
+you have to start all over again with a brand new special 
+background investigation, very expensive, which is why we 
+always make jokes that when one government contractor hires 
+someone at the TS/SCI level, especially with polygraph, they 
+have not filled a job, they have created a vacancy someplace 
+else.
+    When the person goes to school, when they get out to go 
+back to work, they have to start all over again. So the 
+solution is to create some billets that would be holding 
+billets so that, like when I stepped out of the Navy, I had a 
+TS/SCI, since I left Naval Intelligence, and if I wanted to go 
+back to school, I would be put into a billet that leaves me at 
+that security clearance, even though I am not working at it, 
+now when I go to apply for a job, I already have my TS/SCI in 
+place so that I can go into a job requiring a security 
+clearance because I would be switching from that billet to 
+whatever billet I go to work for in that company. That would be 
+a solution.
+    Now, a lot of your unions want to fight that because then 
+they cannot do the background checks and everything else at 
+DSS, but--and the same problems with the certifications of 
+veterans. We have talked for years about if a guy drives a 
+truck in the military, he could get a commercial driver's 
+license (CDL) or be able to get an emergency medical technician 
+(EMT) license or whatever in the civilian world, and everybody 
+says they are in favor of it until it gets on the floor of the 
+House and the unions say, oh, no, no, no, no, no, no, no. We 
+are not going to have them come out and compete with us. But 
+that would be a simple way to fix part of that problem.
+    Senator McCaskill. I think we passed that, did we not?
+    Senator Begich. We did, and also, there is a program that--
+I am not sure 100 percent agree with you, because there is a 
+program called Helmets to Hardhats that the unions actually 
+organized, because they are in huge needs because the trades 
+are averaging 52 to 55 years old and they need replacements 
+very quickly. And so I am not sure that old paradigm of one 
+group against is there because the legislation we passed starts 
+opening up the doors.
+    Senator McCaskill. Right.
+    Senator Begich. But I know the Helmets to Hardhats program, 
+at least in my State, has been somewhat successful. That is 
+why, when I walked out of here, it was with the labor union 
+about what they are doing.
+    Mr. Daywalt. And the purpose of Helmets to Hardhats is to 
+recruit people into the unions, which is great. I mean, unions 
+are good. But let us not stand in the way of--if you are an 
+electrician in the Army and you come out, you have been in the 
+Army 25 years, you are not going to go to Detroit and start as 
+a journeyman electrician, but that is what the union wants you 
+to do. You are going to go to Right to Work States where you 
+can make a decent wage and not start at $8 or $9 an hour and 
+work your way up through some union bureaucracy. That is brute 
+reality. I come from Realsville. I am sorry.
+    Senator Carper. All right. Mr. Kympton, do you want to say 
+something, and then I am done. Thank you.
+    Mr. Kympton. Yes. Thank you, Senator. At The Mission 
+Continues, we are using the vehicle of service as a 
+reintegration strategy for veterans and are finding that it is 
+leading to employment, it is leading to continued education.
+    Currently, Madam Chairman, as you asked, we are not 
+receiving any Federal funding to do that. I believe that the 
+G.I. Bill represents an opportunity to expand what we allow 
+veterans to focus that funding on and to choose the training 
+program or the education program that they want to use as a 
+vehicle to further employment. And that vehicle of service, 
+funding a 6-months in service or funding a year in service, 
+might just be possible within the G.I. Bill itself.
+    Senator Carper. OK. Thanks.
+    All right. Thanks, Madam Chairman. Thanks very much. Thanks 
+for holding this hearing and letting me slip by and ask a 
+couple of questions.
+    Senator McCaskill. Thank you. Senator----
+    Senator Carper. Captain, nice to see you.
+    Senator Begich. I do not. Actually, my last question was 
+just on that, the VOW to Hire Heroes Act, which is the one we 
+passed. I know one potential might be, and maybe it is here, 
+maybe it is in the Veterans Committee, is kind of see where 
+that is going, because the goal of it is to start making sure 
+that if you are an electrician in the military, that you can 
+make that transition into the private sector without having to 
+retrain, recertify, going through the process. That legislation 
+that was passed last year, or this last several months ago, was 
+pretty significant.
+    So it may be that it is a question we need to ask, I do not 
+know if it is here or given to the Veterans Committee, kind of 
+where that is at and how that is progressing, because that is 
+one of the biggest complaints I hear, that we see people who 
+are--if you are a truck driver in Afghanistan, you can be a 
+truck driver anywhere is the way I look at it. But they need to 
+get the legislation that is passed and what DOD is doing on 
+that, so just a little side note there.
+    Senator McCaskill. Let me finish up with this VETS-100 
+form. Do the two businesses represented here, do you feel like 
+going through the requirement of filling out this form, has it 
+in any way been beneficial to your company, even though clearly 
+the Department of Labor is not paying any attention to it?
+    Ms. Sullivan. We aggregate so much information because we 
+are publicly traded, so any information that we collect or 
+report, it comes up to management's attention. I do not think 
+we have ever looked at, to my knowledge, the VETS-100A as a 
+management tool or resource. To that end, typically, because we 
+are publicly traded, there are a lot of reports that we have to 
+file relative to compliance, such as the Securities and 
+Exchange Commission (SEC) reporting and other things.
+    Senator McCaskill. Right.
+    Ms. Sullivan. So I am not sure that we have ever stepped 
+back, the compliance part, and really thought about it in that 
+sense.
+    Senator McCaskill. I am wondering, if we made these public, 
+if it would help. I mean, if the data was publicly available, 
+would you all not notice that they did not have your data?
+    Ms. Hardy. Madam Chairman, we think providing public access 
+to all vets data would encourage other companies to step up 
+their practices and provide contractors with more information 
+about the government's internal use of the data will lead to 
+new and creative solutions. So we think transparency is the 
+right approach.
+    Senator McCaskill. Yes. I think one of the reasons that 
+this data has been such a waste of time is because no one has 
+been paying attention to the fact that they are not paying 
+attention to it, whereas if it had to be publicly posted, 
+perhaps the agency would feel--and they are not here today, but 
+they will hear from us. We will make sure that they are aware 
+that we have discovered that no one is paying attention. They 
+are not checking this data. They are not validating the data. 
+They are not sharing the data. It is just a check that someone 
+is making in a box somewhere and taking energy from companies 
+that are doing it. But, frankly, if you are not doing what you 
+are supposed to be doing, I do not think anybody over there 
+would ever know it, the way it is being operated now.
+    So perhaps the way we do it is to before we try to do away 
+with it, we try to make it public and see if it could come to 
+some good and make it transparent before we actually try to 
+say, let us--unwinding legislation that was put into place 
+because people were trying to help a real problem is hard. I 
+mean, speaking of SEC companies, look at Sarbanes-Oxley, right? 
+I mean, it has become ingrained in our business world, and I am 
+not sure that it accomplished what we wanted it to accomplish, 
+other than providing full employment for a whole lot of lawyers 
+and accountants.
+    Ms. Sullivan. So I realize that some of the questions might 
+come on reporting, and when I talk to folks inside of ManTech 
+who are more closely related to compliance reporting and this 
+report and everything, at the end of the day, from a very 
+practical sense of being an employer and doing the kind of work 
+that we do, it does not change our behavior any because we are 
+so mission focused. The work that we have are for positions 
+required by the government that are very mission focused. So we 
+are going to do what we need to do anyway, and it is--so it is 
+not--one way or the other, it is not going to change our 
+behavior.
+    Senator McCaskill. Yes. I think it is time that we step 
+back from all of this and look and see what is a meaningful way 
+for the government to impact this problem, because I do not 
+think this is a meaningful way to impact it. There are 
+meaningful ways we can. I think the new G.I. Bill is one way, 
+if we can get our act together and ferret out these people that 
+will have a special place where for taking advantage of 
+veterans and their families to cabbage up their benefits 
+without giving them one iota of educational benefit.
+    But organizations like Mr. Kympton's and Web sites like Mr. 
+Daywalt's, those are the things that are going to make the 
+difference, and tackling this Guard problem, really focusing on 
+the Guard problem, since that is really what is driving these 
+unemployment numbers. But those that want to do the right thing 
+because it supports who their company is will do it. Those that 
+do not will not, and I am not sure turning in a report to the 
+government is going to have one bit of impact on that.
+    So we will go forward from here. If you would get us your 
+information on Guard and Reserve hires, because I think that 
+will be instructive to us. If there is anything that you all 
+can add to the record about things that we should unwind that 
+the Federal Government is doing now, programs that should be 
+consolidated, there is a big controversy about moving all of 
+these programs into VA, and some of that is turf. Some of it 
+may be legitimate. There are those even, Mr. Sulayman, that 
+think we should move the SBA functions around veterans' 
+programs over to VA. I think the jury is out on that. But I 
+want you all to feel comfortable continuing to give information 
+to this Subcommittee as we track this.
+    I wish I could tell you that government contractors are 
+doing a good job of hiring veterans, but unfortunately, the 
+government's incompetence in this area has made that impossible 
+for us to know. We have two good examples here today of 
+companies that are doing the right thing, and by the way, it is 
+a pleasure for me to compliment contractors. As you might know, 
+most of the time when I sit in this chair, I am not doing that. 
+Most of the time I am sitting in this chair, I am doing the 
+opposite of that. So it is pleasant for me to compliment you on 
+the work you are doing in this regard.
+    Thank you all for being here today and we will continue to 
+try to focus on this problem, and in a meaningful way that does 
+not cause businesses too much of a headache and ultimately 
+helps veterans get where they need to be, and that is gainfully 
+employed in a career where their leadership has a chance to 
+shine.
+    Thank you all very much. The Subcommittee is adjourned.
+    [Whereupon, at 11:46 a.m., the Subcommittee was adjourned.]
+
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC] [TIFF OMITTED] T5216.001
+
+[GRAPHIC] [TIFF OMITTED] T5216.002
+
+[GRAPHIC] [TIFF OMITTED] T5216.003
+
+[GRAPHIC] [TIFF OMITTED] T5216.004
+
+[GRAPHIC] [TIFF OMITTED] T5216.005
+
+[GRAPHIC] [TIFF OMITTED] T5216.006
+
+[GRAPHIC] [TIFF OMITTED] T5216.007
+
+[GRAPHIC] [TIFF OMITTED] T5216.008
+
+[GRAPHIC] [TIFF OMITTED] T5216.009
+
+[GRAPHIC] [TIFF OMITTED] T5216.010
+
+[GRAPHIC] [TIFF OMITTED] T5216.011
+
+[GRAPHIC] [TIFF OMITTED] T5216.012
+
+[GRAPHIC] [TIFF OMITTED] T5216.013
+
+[GRAPHIC] [TIFF OMITTED] T5216.014
+
+[GRAPHIC] [TIFF OMITTED] T5216.015
+
+[GRAPHIC] [TIFF OMITTED] T5216.016
+
+[GRAPHIC] [TIFF OMITTED] T5216.017
+
+[GRAPHIC] [TIFF OMITTED] T5216.018
+
+[GRAPHIC] [TIFF OMITTED] T5216.019
+
+[GRAPHIC] [TIFF OMITTED] T5216.020
+
+[GRAPHIC] [TIFF OMITTED] T5216.021
+
+[GRAPHIC] [TIFF OMITTED] T5216.022
+
+[GRAPHIC] [TIFF OMITTED] T5216.023
+
+[GRAPHIC] [TIFF OMITTED] T5216.024
+
+[GRAPHIC] [TIFF OMITTED] T5216.025
+
+[GRAPHIC] [TIFF OMITTED] T5216.026
+
+[GRAPHIC] [TIFF OMITTED] T5216.027
+
+[GRAPHIC] [TIFF OMITTED] T5216.028
+
+[GRAPHIC] [TIFF OMITTED] T5216.029
+
+[GRAPHIC] [TIFF OMITTED] T5216.030
+
+[GRAPHIC] [TIFF OMITTED] T5216.031
+
+[GRAPHIC] [TIFF OMITTED] T5216.032
+
+[GRAPHIC] [TIFF OMITTED] T5216.033
+
+[GRAPHIC] [TIFF OMITTED] T5216.034
+
+[GRAPHIC] [TIFF OMITTED] T5216.035
+
+[GRAPHIC] [TIFF OMITTED] T5216.036
+
+[GRAPHIC] [TIFF OMITTED] T5216.037
+
+[GRAPHIC] [TIFF OMITTED] T5216.038
+
+[GRAPHIC] [TIFF OMITTED] T5216.039
+
+[GRAPHIC] [TIFF OMITTED] T5216.051
+
+[GRAPHIC] [TIFF OMITTED] T5216.052
+
+[GRAPHIC] [TIFF OMITTED] T5216.053
+
+[GRAPHIC] [TIFF OMITTED] T5216.054
+
+[GRAPHIC] [TIFF OMITTED] T5216.055
+
+[GRAPHIC] [TIFF OMITTED] T5216.056
+
+[GRAPHIC] [TIFF OMITTED] T5216.040
+
+[GRAPHIC] [TIFF OMITTED] T5216.041
+
+[GRAPHIC] [TIFF OMITTED] T5216.042
+
+[GRAPHIC] [TIFF OMITTED] T5216.043
+
+[GRAPHIC] [TIFF OMITTED] T5216.044
+
+[GRAPHIC] [TIFF OMITTED] T5216.045
+
+[GRAPHIC] [TIFF OMITTED] T5216.046
+
+[GRAPHIC] [TIFF OMITTED] T5216.047
+
+[GRAPHIC] [TIFF OMITTED] T5216.048
+
+[GRAPHIC] [TIFF OMITTED] T5216.049
+
+[GRAPHIC] [TIFF OMITTED] T5216.050
+
+                                 <all>
+
+</pre></body></html>

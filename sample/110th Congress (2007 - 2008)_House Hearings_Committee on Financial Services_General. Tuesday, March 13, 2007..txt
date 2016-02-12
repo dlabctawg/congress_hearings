@@ -1,0 +1,3071 @@
+<html>
+<title> - HEDGE FUNDS AND SYSTEMIC RISK IN THE FINANCIAL MARKETS</title>
+<body><pre>
+[House Hearing, 110 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+ 
+                        HEDGE FUNDS AND SYSTEMIC
+                     RISK IN THE FINANCIAL MARKETS
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED TENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 13, 2007
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 110-13
+
+
+                                 ______
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+35-405                      WASHINGTON : 2007
+_____________________________________________________________________________
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001
+
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                 BARNEY FRANK, Massachusetts, Chairman
+
+PAUL E. KANJORSKI, Pennsylvania      SPENCER BACHUS, Alabama
+MAXINE WATERS, California            RICHARD H. BAKER, Louisiana
+CAROLYN B. MALONEY, New York         DEBORAH PRYCE, Ohio
+LUIS V. GUTIERREZ, Illinois          MICHAEL N. CASTLE, Delaware
+NYDIA M. VELAZQUEZ, New York         PETER T. KING, New York
+MELVIN L. WATT, North Carolina       EDWARD R. ROYCE, California
+GARY L. ACKERMAN, New York           FRANK D. LUCAS, Oklahoma
+JULIA CARSON, Indiana                RON PAUL, Texas
+BRAD SHERMAN, California             PAUL E. GILLMOR, Ohio
+GREGORY W. MEEKS, New York           STEVEN C. LaTOURETTE, Ohio
+DENNIS MOORE, Kansas                 DONALD A. MANZULLO, Illinois
+MICHAEL E. CAPUANO, Massachusetts    WALTER B. JONES, Jr., North 
+RUBEN HINOJOSA, Texas                    Carolina
+WM. LACY CLAY, Missouri              JUDY BIGGERT, Illinois
+CAROLYN McCARTHY, New York           CHRISTOPHER SHAYS, Connecticut
+JOE BACA, California                 GARY G. MILLER, California
+STEPHEN F. LYNCH, Massachusetts      SHELLEY MOORE CAPITO, West 
+BRAD MILLER, North Carolina              Virginia
+DAVID SCOTT, Georgia                 TOM FEENEY, Florida
+AL GREEN, Texas                      JEB HENSARLING, Texas
+EMANUEL CLEAVER, Missouri            SCOTT GARRETT, New Jersey
+MELISSA L. BEAN, Illinois            GINNY BROWN-WAITE, Florida
+GWEN MOORE, Wisconsin,               J. GRESHAM BARRETT, South Carolina
+LINCOLN DAVIS, Tennessee             RICK RENZI, Arizona
+ALBIO SIRES, New Jersey              JIM GERLACH, Pennsylvania
+PAUL W. HODES, New Hampshire         STEVAN PEARCE, New Mexico
+KEITH ELLISON, Minnesota             RANDY NEUGEBAUER, Texas
+RON KLEIN, Florida                   TOM PRICE, Georgia
+TIM MAHONEY, Florida                 GEOFF DAVIS, Kentucky
+CHARLES WILSON, Ohio                 PATRICK T. McHENRY, North Carolina
+ED PERLMUTTER, Colorado              JOHN CAMPBELL, California
+CHRISTOPHER S. MURPHY, Connecticut   ADAM PUTNAM, Florida
+JOE DONNELLY, Indiana                MICHELE BACHMANN, Minnesota
+ROBERT WEXLER, Florida               PETER J. ROSKAM, Illinois
+JIM MARSHALL, Georgia                KENNY MARCHANT, Texas
+DAN BOREN, Oklahoma                  THADDEUS G. McCOTTER, Michigan
+
+        Jeanne M. Roslanowick, Staff Director and Chief Counsel
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    March 13, 2007...............................................     1
+Appendix:
+    March 13, 2007...............................................    49
+
+                               WITNESSES
+                        Tuesday, March 13, 2007
+
+Brody, Kenneth D., Co-Founder and Principal, Taconic Capital 
+  Advisors, LLC, and Chairman, Investment Committee, University 
+  of Maryland....................................................     9
+Brown, Stephen J., David S. Loeb Professor of Finance, Stern 
+  School of Business, New York University........................    18
+Chanos, James, Founder and President, Kynikos Associates, LP, on 
+  behalf of The Coalition of Private Investment Companies........    10
+Corrigan, E. Gerald, Managing Director, Goldman Sachs & Company; 
+  Former President of the Federal Reserve Bank of New York.......     7
+Golden, Andrew K., President, Princeton University Investment 
+  Company........................................................    16
+Hall, George, Founder and CEO, Clinton Group, on behalf of The 
+  Managed Funds Association......................................    13
+Matthews, Jeffrey L., General Partner, Ram Partners, LP..........    14
+
+                                APPENDIX
+
+Prepared statements:
+    Bachus, Hon. Spencer.........................................    50
+    Castle, Hon. Michael N.......................................    52
+    Waters, Hon. Maxine..........................................    54
+    Brody, Kenneth D.............................................    57
+    Brown, Stephen J.............................................    71
+    Chanos, James................................................    73
+    Corrigan, E. Gerald..........................................    97
+    Golden, Andrew K.............................................   111
+    Hall, George.................................................   119
+    Matthews, Jeffrey L..........................................   135
+
+
+                        HEDGE FUNDS AND SYSTEMIC
+                     RISK IN THE FINANCIAL MARKETS
+
+                              ----------                              
+
+
+                        Tuesday, March 13, 2007
+
+             U.S. House of Representatives,
+                   Committee on Financial Services,
+                                                   Washington, D.C.
+    The committee met, pursuant to notice, at 10 a.m., in room 
+2128, Rayburn House Office Building, Hon. Barney Frank 
+[chairman of the committee] presiding.
+    Present: Representatives Frank, Maloney, Watt, Moore of 
+Kansas, Capuano, Clay, Lynch, Scott, Green, Cleaver, Sires, 
+Ellison, Klein, Murphy, Wexler, Marshall; Bachus, Baker, Pryce, 
+Lucas, Gillmor, Manzullo, Jones, Shays, Feeney, Hensarling, 
+Garrett, Neugebauer, Davis of Kentucky, Campbell, Bachmann, and 
+Roskam.
+    The Chairman. This hearing of the Committee on Financial 
+Services will come to order.
+    This is the first in a series of hearings we will be having 
+on hedge funds and systemic risks in the financial markets. I 
+do want to make a point that may encounter some skepticism, but 
+it will not be the first time I have encountered skepticism. 
+Sometimes congressional committees have hearings because they 
+want to find things out, but I acknowledge that is not the 
+normal reason for having hearings. Usually, we have hearings to 
+make a point, to embarrass somebody, or to reinforce a 
+position, but there are times when there is a genuine 
+acknowledgment on our part that we need to know more about 
+things.
+    We are now going to have a series of hearings on the linked 
+topics of hedge funds, private equity, and the role of 
+derivatives. Those are conceptually separate things; they get 
+merged. One of the things I hope we will do as a result of 
+these hearings is to help people to understand that these 
+topics are not all the same thing, and we will unbundle 
+conceptually some issues.
+    We will have two hearings with people from the private 
+sector. The last hearing we are currently scheduled to have 
+will be with the members of the Presidential Working Group. We 
+thought it made sense, they having made their report, to then 
+have some discussion of that, and then have them come back and 
+respond to the conversation. We will at that point, too, be 
+talking to some of the regulators, particularly in the bank 
+area, who are given certain responsibilities under the approach 
+of the President's Working Group.
+    I just have some preliminary comments to make here. First, 
+I believe there is strong support on the committee--it may not 
+be unanimous and people can obviously speak for themselves--for 
+the efforts the SEC has recently made in the area of investor 
+protection. Among things we want to sort out is the question of 
+investor protection versus the question of systemic risk. This 
+hearing is called, ``Hedge Funds and Systemic Risks,'' not 
+because we are assuming that there is a systemic risk, but 
+because that is the question we intend to look at. This series 
+of hearings is not going to be primarily about investor 
+protection. The SEC has moved in that direction, I think, with 
+some appropriateness.
+    There is one sub-set of the investor protection issue, 
+though, that we do plan to look at and that is the interaction 
+between pension funds and the hedge funds. That one is not 
+entirely within our jurisdiction, in fact, that became an issue 
+last year when the pension bill was being voted on and that 
+bill, of course, did not come to our committee at all, I 
+believe, certainly not in any major way. There is interest in 
+that in the Education and Labor Committee, which has 
+jurisdiction over ERISA, and the Ways and Means Committee.
+    Now, I will confess, and I have asked people to be looking 
+into this, one of the concerns I have is the extent to which 
+public pension funds get involved in hedge funds. It was not 
+clear to any of us who exactly had jurisdiction over public 
+pension funds. That may become an issue now because you have 
+some of the States concerned about their GASB requirements 
+regarding the accounting but there is some concern about public 
+pension funds and hedge funds. Once you have that concern, of 
+course even if you had it, it is not clear if you are going to 
+put any protections in there, restrictions, on whom do they go? 
+Do they go on the fund which receives the investment? Do they 
+go on their investor? These are all questions that we will be 
+examining.
+    I will say from the systemic risk standpoint, it does seem 
+to me that the form in which investments are made is less 
+important by far than the type of investments. In particular, I 
+think it is time for us to look into the question of 
+derivatives.
+    Now, I said that sometimes Members of Congress have 
+hearings to try to find things out and not because there is a 
+strong position. I am very proud of the level of the discussion 
+that goes on in this committee. In fact, I think if people had 
+been at the mark-up we recently had on the question of how to 
+respond to the hurricane, they would have been very impressed 
+with the degree of knowledge. I am not prepared to argue that 
+if we got into a serious discussion of derivatives, that we 
+would dazzle anybody with the depth of our knowledge and 
+understanding. I have previously expressed the view, 
+particularly with regard to accounting for derivatives when 
+that has become an issue from time to time with Fannie Mae or 
+elsewhere, that the current state of that appeared to me to be 
+somewhere between alchemy and astrology. I undoubtedly do a lot 
+of people an injustice when I say that, and I am prepared to be 
+further educated.
+    I just want to stress again that these are hearings that we 
+are going to have because there is a new development in the 
+American financial world to some extent, in the hedge funds, 
+and there is also private equity. I should have added, I ask 
+for just 30 more seconds. With regard to private equity, the 
+concern here is not so much systemic risk as what the social 
+implications are. In fact, our colleague from Florida, Mr. 
+Feeney, commented the other day when we were having the 
+executive compensation hearing that he worries about people 
+going private because constituents that he represents could 
+lose the opportunity to make good investments. That was an 
+issue that the gentleman from Florida raised in terms of the 
+implications of private equity.
+    Many of us are also very concerned about the implications 
+for private equity on the workers, and on employers. If you 
+have in fact an increase in debt and the takeover of companies, 
+what is the impact, short term and long term? Those are the 
+questions that we want to look at. And, as I said, I personally 
+have no pre-conceptions about this. Indeed, to be honest, in 
+some cases I barely have conceptions much less pre-conceptions. 
+It is a very important set of questions and it is the job of 
+this committee to help I think both ourselves and our 
+colleagues in Congress, and indeed many in the country to 
+understand it.
+    The gentleman from Alabama is now recognized for 5 minutes.
+    Mr. Bachus. I thank the chairman. And let me reiterate what 
+the chairman said: the purpose of this hearing is 
+informational; the purpose of the hearing is not to legislate. 
+I think it speaks well that in reading your testimony, it seems 
+that all of the witnesses are pretty much in agreement, 
+although I noticed that two of them want a greater level of 
+maybe more disclosure and transparency and that is even a 
+controversial subject. In executive compensation, one of the 
+reasons I believe that executive compensation has grown as fast 
+as it has is the SEC requirement that you disclose CEO pay.
+    Warren Buffett, speaking last night, said that it was not 
+greed that was driving executive compensation, it was envy. 
+They see what each other makes and that actually that 
+disclosure, which everybody thought was a good thing, may 
+actually be the cause of a lot of the growth in executive 
+compensation.
+    One reason it is very important for the committee to 
+understand the hedge fund industry and other alternative 
+investment vehicles like private equity and venture capital is 
+because of the tremendous growth we have seen in hedge funds 
+and these other alternatives. There are over 9,000 hedge funds 
+today. That is an explosive growth. They manage over 400 
+percent more assets than they did in just 1999--$1.4 trillion 
+of assets under management, 60 percent of that is just in the 
+100 largest hedge funds.
+    They also are generating an increased amount of trading 
+volume. Some experts have represented that up to 50 percent of 
+the trading in our markets in certain circumstances is hedge 
+funds. The strategies employed by hedge funds vary 
+significantly, although most of them hedge against down-turns 
+in markets, which I think is good.
+    The primary goal of many hedge funds is to reduce 
+volatility and risk and simultaneously provide liquidity, 
+preserve capital and deliver positive returns under all market 
+conditions. We found that during our hurricanes in the past few 
+years that it was hedge funds that actually provided the 
+liquidity for insurance, property insurance coverage, a very 
+positive benefit of our hedge funds.
+    We all know hedge funds use complex, sophisticated 
+strategies to achieve their investment goals. I suppose the 
+first time most Americans heard of hedge funds, and many 
+Members of Congress as well, was with the implosion of long-
+term capital management in 1998. And you will recall that 
+resulted in a bail out orchestrated by the Federal Reserve and 
+the Treasury Department and other regulatory bodies, although 
+it was a private bail out. And since that time the subject of 
+systemic risks posed by the operation of large hedge funds has 
+been a concern of financial regulators and members of this 
+committee, and rightly so.
+    Systemic risk is not theoretical, and if not properly 
+contained and managed, it can threaten the stability and 
+soundness of our financial markets. There is always the 
+potential for a single event, such as a massive loss at a large 
+complex financial institution to trigger a cascading effect 
+that could impact the broader financial markets and ultimately 
+the global economy.
+    For this reason, and I think this is the right approach and 
+I know that the witnesses have said this, last month's 
+announcement by the President's Working Group on Financial 
+Markets of the Principles and Guidelines of Private Pools of 
+Capital is a welcome development. The President's Working Group 
+appropriately focused on systemic risks to investor protection. 
+Private pools of capital are a sophisticated investment used by 
+sophisticated market participants. I am confident that these 
+market participants, hedge funds and others, understand they 
+must engage in constant due diligence and ongoing evaluation of 
+market exposure and risks created by their relationship with 
+hedge funds.
+    I applaud Secretary Paulson, Chairman Cox, and other 
+regulators who developed this guidance, and I am glad to hear 
+the chairman also say that he thinks that this is the way to 
+approach this, and that relies on market discipline and sound 
+risk management techniques rather than the heavy hand of 
+government regulation to achieve the desired objective.
+    This is how I will sum up. The bottom line is that I 
+believe an overly prescriptive rules-based approach to 
+regulating these private pools of capital could stifle 
+innovation and drive hedge funds and their capital offshore. 
+Such an approach would not benefit the competitive standing of 
+our capital markets, something we are very concerned about.
+    So I thank you, Mr. Chairman.
+    The Chairman. I thank the gentleman. I would just like to 
+make it clear that in regard to hedge funds, I have come to no 
+conclusion. My mind is pretty open on this.
+    Next, we will hear from the gentlewoman from Ohio for 2 
+minutes.
+    Ms. Pryce. Thank you very much, Mr. Chairman, for holding 
+this hearing today and for the promise of continued hearings on 
+private pools of capital.
+    I want to take a moment to thank the panel, also. This is 
+very important information for us. These are very complicated 
+issues that you can help shed some light on as we start today 
+and continue down this series of hearings. There is really no 
+doubt that the hedge funds provide significant economic 
+benefits to the market and the Federal Reserve Chairman has 
+cautioned against any heavy-handed regulation of the $1 
+trillion industry. We all know that the President's proactive 
+Working Group recently took steps to issue guidelines for hedge 
+fund participants. I agree with the Working Group that the 
+regulators' continued role must be to promote market discipline 
+on hedge funds and to ensure that proper risk management is 
+being followed.
+    I think in this committee it is important that we closely 
+examine why hedge funds do fail on occasion and why some 
+failures are different than others. Why was the collapse last 
+September of Amaranth advisors, which lost $6 billion in a 
+matter of weeks, different from the failure of long term 
+capital management in 1998 that sent shockwaves through the 
+system? Is there systemic risk posed to our economic system 
+today? And, if so, what are those risks? Are the protections 
+that are in place adequate to provide market actors and 
+regulators with the information needed to make informed 
+decisions? Should we be doing more to protect unsophisticated 
+investors? All are important questions that I hope we will 
+begin to answer today and in future hearings.
+    Just once again, Mr. Chairman, and our ranking member, Mr. 
+Bachus, thank you for holding these hearings, I will look 
+forward to all of the testimony, and I yield back.
+    The Chairman. I thank the gentlewoman again, working off 
+the list that the ranking member gave me, the gentleman from 
+Delaware is recognized for 2 minutes. Is he here? Well, the 
+gentleman was not recognized. Someone was posing as him. The 
+gentleman from Connecticut is recognized for 2 minutes.
+    Mr. Shays. Thank you very much, Mr. Chairman, for holding 
+this hearing. I also thank my ranking member. I live in a 
+district, in the greater New York area--we say that about 60 
+percent of the hedge funds exist and in my district there is a 
+claim that one-fourth to one-third of all assets under 
+management are in actually the district I represent. I tell 
+people that if you are from Iowa, you want to get on the 
+Agriculture Committee, and if you are from Fairfield, 
+Connecticut, you want to get on the Financial Services 
+Committee.
+    I would like to welcome all of our witnesses, but in 
+particular a personal friend, Jeff Matthews, and also his wife 
+is here, Nancy. Nancy is the chancellor of the diocese of 
+Bridgeport. They are quite a force. Jeff is an accomplished 
+hedge fund manager. He is an active member of his community, 
+having served in Fairfield, Connecticut, not the county, on the 
+board of finance and on the board of education. I love him for 
+his good nature, his sharp, insightful mind, his candor, and 
+his honesty. He is just a very welcome guest on this panel. 
+Jeff, thank you for being here.
+    Thank you, Mr. Chairman.
+    The Chairman. I thank the gentleman. Next, the gentleman 
+from New Jersey, Mr. Garrett, is recognized for 1 minute.
+    Mr. Garrett. Thank you, Mr. Chairman, and thank you for 
+holding this hearing. Thank you to the witnesses for being with 
+us today. For those I have met previously, good to see you 
+again. Also, I would like to thank my colleague who is not 
+here, the gentleman, Congressman Castle, for his work and focus 
+on this issue in the past term as well. Hedge funds, as you all 
+know, are now at $1.2 trillion, truly a high stakes, high-risk 
+investment. It originally started out for, I guess, the super 
+wealthy or the very wealthy and have now extended to the 
+pension funds, as the chairman says, both public and private. 
+And it is for that reason that it is important, it impacts more 
+on the middle class, millions of middle class Americans as 
+well, that we have this involvement here today.
+    I also would like to point out, just as a more personal 
+point of view from us coming from New Jersey. My friend from 
+the other side of the aisle and I, Albio and I, represent 
+districts that have a strong nexus to the financial markets and 
+so just as the gentleman behind us from Connecticut has that 
+connection, I know we do as well and take this from both 
+perspectives of our constituents here at home and across 
+America as well. And, as the ranking member had indicated, I 
+think it is important that we are able to have the benefit of 
+the President's Working Group on this, that goes all the way 
+back I guess to 1987, the stock market crash when that was 
+created to try to take a look at the financial markets and try 
+to gather up all the information that they can. And since that 
+time, obviously I don't think you were talking about hedge 
+funds that much back in 1987 but now we have, and they have 
+grown in importance. And like the chairman, I am still trying 
+to get my mind around all the issues involved, so I very much 
+appreciate the testimony at this hearing today. Thank you, and 
+I yield back.
+    The Chairman. I thank the gentleman and now I will ask 
+unanimous consent since 10 minutes has been consumed on the 
+minority side to extend the time for opening statements for an 
+additional 3 minutes. Is there any objection? Hearing none, we 
+will go forward. And the final recognition is for the gentleman 
+from Louisiana, Mr. Baker, for 3 minutes.
+    Mr. Baker. Thank you, Mr. Chairman, for the courtesy. I 
+think it important to recognize why we are actually here. Few 
+people would trouble themselves if really wealthy people lose 
+or make money, and so as long as this phenomena was relegated 
+to a handful of sophisticated Wall Street types, there was no 
+need for the Congress to be involved in this discussion.
+    However, that has changed. As innovation has caused your 
+reach of scope, economically and otherwise, to broaden, we are 
+now concerned about the inadvertent consequence of a systemic-
+like event which causes pensioners, who have no idea their 
+manager has invested in a derivatives currency arbitrage, to 
+lose money as a result of a Russian currency crisis. I think it 
+is not quite clear to me what really constitutes a hedge fund. 
+Is that necessarily to the exclusion of private equity or 
+venture capital or does it go more to the aggregation of large 
+sums of capital, which are deployed in a sophisticated manner, 
+which is not subject to the same rules as a public operating 
+company, for which there could be adverse financial systemic 
+consequences. So, one, I think we have to define who is it we 
+are trying to constrain, why are we trying to do it, or what is 
+it we are trying to find out about them.
+    In reading through testimony, it became clear there are 
+certain best practices that each of you may have suggested 
+would be appropriate, and I think that is highly desirable as 
+opposed to a governmentally-driven remedy for the industry to 
+come to some conclusion as to how we should define those who 
+are engaging in this practice in a professional manner.
+    Beyond that, I think the valuation issue that has been 
+referenced and how do we know from an investor perspective that 
+there is consistency between Fund A and Fund B and the values 
+associated with your position in that particular exposure, that 
+is not clear to me either.
+    Finally, the manner in which the disclosure occurs cannot 
+be paper-based because by the time you get it on a piece of 
+paper, it is out of date. There has to be some net-based 
+disclosure, electronic disclosure, of the essentials that are 
+determined by the industry to the regulator of importance and 
+not public disclosure and certainly nothing proprietary.
+    I only make these comments because as the chairman was 
+talking about having reached no resolution thereon, this 
+Congress will come to resolution thereon if there is an adverse 
+event that drives a number of pensioners into bankruptcy 
+because a hedge fund guy was fast and loose with his investment 
+protocol. You will then get a ``Sarb-Ox'' like response, 
+applicable to whatever is defined as the hedge fund industry, 
+and you do not want us to do that. I think this is a window in 
+which there is great opportunity for the industry to coalesce, 
+to produce a document which is defensible, and give the 
+appropriate regulator the insightful information you know he 
+should have to help throw the circuit breaker when things go 
+bad. Absent that, we are going to get into a policy arena that 
+I think will be very difficult for the industry and not helpful 
+to our world economy.
+    Thank you.
+    The Chairman. I thank the gentleman, and we will now begin 
+with the witnesses. And our first, just in the order in which 
+somebody sat them, is Gerald Corrigan, formerly a very 
+distinguished leader of the Federal Reserve system and someone 
+who has been working closely on this issue. He is now managing 
+director at Goldman Sachs. Mr. Corrigan, please.
+    Let me say that without objection, the written statements 
+of all of the witnesses will be included in the record. Mr. 
+Corrigan, please go ahead.
+
+  STATEMENT OF E. GERALD CORRIGAN, MANAGING DIRECTOR, GOLDMAN 
+ SACHS & COMPANY, AND FORMER PRESIDENT OF THE FEDERAL RESERVE 
+                        BANK OF NEW YORK
+
+    Mr. Corrigan. Mr. Chairman and members of the committee, I, 
+and I think all of us, appreciate your calling this hearing and 
+the timeliness with which you have done it. My statement, as 
+the others, will be accepted into the record.
+    In the interest of time, let me just highlight several of 
+the major points that I tried to make in my written statement. 
+The first part of the statement essentially tries to quickly 
+trace and highlight the evolution of the hedge fund industry 
+since long term capital in 1998, and I think that is quite 
+straightforward. The only thing I would want to emphasize, Mr. 
+Chairman, is that I think it is entirely fair to say, as I do 
+in my statement, that over recent years there have been very 
+substantial improvements in business practices in the hedge 
+fund industry in such areas as corporate governance, risk 
+management, disclosures to investors, and operational 
+infrastructure improvements. And in many cases, certainly not 
+all, but in many cases, I think the capabilities in those areas 
+within segments of the hedge fund community now has much in 
+common with best practices across the financial system as a 
+whole.
+    The statement also does a little idle speculation about the 
+future evolution of the hedge fund industry, which I will not 
+go into except to say that, at least in my judgment, there is 
+some prospect that the forces of competition probably will 
+induce over time some further pressures on fees and therefore 
+in my judgment the prospect of some further consolidation in 
+the industry over time.
+    I think it is very important for the committee to recognize 
+that as the premium on performance intensifies what I will call 
+the orderly attrition of under-performing funds may accelerate 
+and inevitably a few funds will encounter serious financial 
+problems. Such developments, as I see them, are a natural and 
+healthy market-driven phenomenon, which need not have material 
+adverse consequences for the stability of the financial system.
+    The second part of my statement traces the relationship 
+between hedge funds and large integrated financial 
+intermediaries. The substance of that discussion, while 
+obviously summarized, I think is indeed very important to this 
+whole question about systemic risk. And what I try to 
+illustrate is that the relationship between large financial 
+intermediaries, which are typically major banks and securities 
+firms, all of whom are subject to some form of consolidated 
+supervision, it involves two separate but related phenomena, 
+the first is the so-called prime brokerage phenomenon and that 
+essentially involves a whole range of services, including 
+providing credit by prime brokers to their hedge fund clients. 
+And I do make the point that a well-managed framework within 
+which prime brokers provide credit to hedge funds that is 
+secured, following the procedures that I have outlined in my 
+statement, is a relatively, I emphasize relatively, low-risk 
+activity.
+    The second class of activities that characterize the 
+relationships between hedge funds and major financial 
+institutions is the totality of what I call their counter-party 
+relationships and those counter-party relationships are very, 
+very complex and involve a whole range of activities and risk 
+taking on both the part of the intermediary and the hedge fund. 
+I take that discussion into a little sidebar discussion about 
+risk management. And I think the fundamental point that I want 
+to stress in terms of risk management, whether it is at a major 
+intermediary or at a hedge fund, is that the foundation for 
+effective risk management rests on what I like to call a 
+``culture'' of sound corporate governance, collective analysis 
+and decisionmaking, and above all, sound judgments by 
+experienced business leaders. And it is in this sense, Mr. 
+Chairman, that I believe that risk management is much more an 
+art than it is a science. And I go on to illustrate in my 
+statement some of the reasons why I think that is true.
+    The next part of my statement talks about systemic risk. 
+And I think that what I have tried to do here is in a very 
+summary fashion try to help ensure that the committee 
+realistically understands what systemic risk is and what it is 
+not. And the characterization that I have used for years and 
+years to describe systemic risk of a financial nature is to 
+call it a financial shock that brings with it the reality or 
+the clear and present danger of inflicting significant damage 
+on the financial system and the real economy. And I draw a 
+sharp distinction, as I have for years, between what I call 
+``financial shocks'' and ``financial disturbances,'' the latter 
+of which occur with some regularity.
+    I stress the point when I began the work of the Counter-
+Party Risk Management Policy Group a year-and-a-half ago, that 
+the whole effort was shaped around three threshold conclusions 
+about systemic financial risk. The first was that over time the 
+already low statistical probabilities of the occurrence of 
+systemic financial shocks had declined further but they were 
+still well short of zero. The second, and this is the one that 
+worries me, is that while the probabilities of shocks are 
+lower, the potential damage that could result from such shocks 
+is greater due to the increased speed, complexity, and tighter 
+linkages to characterized a global financial system.
+    And then finally, that our collective capacity to 
+anticipate the specific timing and triggers of future financial 
+shocks is extremely low, if not nil. Indeed, I argue that if we 
+could anticipate these things, they would not happen.
+    Now in those circumstances--
+    The Chairman. Mr. Corrigan, we need you to get to a 
+conclusion.
+    Mr. Corrigan. The last thought, Mr. Chairman, that I have 
+put emphasis on, strengthening what I call the shock absorbers 
+of the system, and I do think that the President's Working 
+Group exercise on hedge funds and private pools of capital is a 
+very constructive move in that direction.
+    Thank you, Mr. Chairman.
+    [The prepared statement of Mr. Corrigan can be found on 
+page 97 of the appendix.]
+    The Chairman. Thank you. Our next witness is one who has 
+appeared before us in other capacities when he was the head of 
+the Export-Import Bank, over which this committee has 
+jurisdiction, and he is now with Taconic Capital Advisors, Mr. 
+Kenneth Brody.
+
+   STATEMENT OF KENNETH D. BRODY, CO-FOUNDER AND PRINCIPAL, 
+    TACONIC CAPITAL ADVISORS, LLC, AND CHAIRMAN, INVESTMENT 
+               COMMITTEE, UNIVERSITY OF MARYLAND
+
+    Mr. Brody. I thank Chairman Frank and Ranking Member Bachus 
+for the opportunity to testify. In my former life as a public 
+servant, under the jurisdiction of this committee and Chairman 
+Frank, I have learned to be brief, to the point, and succinct, 
+so let's go. I wish to address two issues, systemic risk and 
+investor protection. The President's Working Group and 
+virtually all knowledgeable professionals agree that systemic 
+risk is best controlled by regulators overseeing the providers 
+of credit. These providers of credit are primarily the large 
+financial institutions, commercial banks and investment banks.
+    Turning to investor protection, I believe it is another 
+story. I am going to take a very unusual view for an industry 
+participant. I believe that mandatory registration is good 
+policy. It provides for better investor protection, and I think 
+it should come about because the nature of the investors have 
+changed. It is not just wealthy individuals but it is 
+institutions of all stripes, including pension funds, who are 
+getting more and more into investing in hedge funds. And with 
+pension funds, the ultimate beneficiaries are regular working 
+people.
+    What registration primarily provides is a self-discipline 
+and a self-policing because that comes with the threat of SEC 
+examination. In my testimony, I have included many of the 
+elements of such protections that are provided by registration 
+with the SEC. Having said that, a better way to do registration 
+is to introduce a principles approach instead of a ``tick the 
+box'' regime. A principle approach will provide better investor 
+protection and with greater efficiency.
+    We are registered and a substantial number of hedge fund 
+managers are registered. We think it is good policy for all. I 
+thank you again for the opportunity to testify, and I welcome 
+the opportunity to answer any questions.
+    [The prepared statement of Mr. Brody can be found on page 
+57 of the appendix.]
+    The Chairman. Thank you very much, Mr. Brody, for your 
+testimony and your example of how to testify.
+    [Laughter]
+    The Chairman. Next, we have James Chanos, who is chairman 
+of the Coalition of Private Investment Companies. And, Mr. 
+Chanos, please proceed.
+
+   STATEMENT OF JAMES CHANOS, FOUNDER AND PRESIDENT, KYNIKOS 
+     ASSOCIATES, LP, ON BEHALF OF THE COALITION OF PRIVATE 
+                      INVESTMENT COMPANIES
+
+    Mr. Chanos. Chairman Frank, Ranking Member Bachus, and 
+members of the committee, my name is Jim Chanos, and I am 
+president of Kynikos Associates, an SEC-registered New York 
+private investment management company I founded in 1985. I am 
+appearing today on behalf of the Coalition of Private 
+Investment Companies, whose members and associate managers 
+advise more than $60 billion in assets. I would like to thank 
+the chairman and ranking member for inviting us to participate 
+today.
+    The Coalition welcomes the attention of this committee on 
+our industry. Rapid growth in all alternative investment funds, 
+whether they call themselves hedge funds, private equity, or 
+venture capital, has brought significant rewards to investors 
+and the financial markets. But to paraphrase the great Stan 
+Lee, ``With great growth comes great responsibility.'' This 
+responsibility derives from the industry's more prominent roles 
+in various parts of the financial markets and perhaps most 
+importantly the trust placed on our managers to properly invest 
+the assets of pension funds and endowments, institutions whose 
+ultimate beneficiaries are not themselves wealth individuals. 
+Consequently, hearings such as this present a unique 
+opportunity for our industry to explain the way it works, 
+dispel some of the myths and misconceptions that surround it, 
+and make clear our commitment to work with policymakers in the 
+Congress and in the financial regulatory agencies in order to 
+improve those areas where the system of oversight may not be 
+keeping pace with the growth of the sector.
+    The Coalition would like to suggest a few ideas that may be 
+useful in thinking about the issues associated with private 
+pooled investment vehicles. First, almost all private 
+investment pools, whether a hedge fund, a venture capital fund, 
+or private equity fund, share many common characteristics in 
+terms of their disclosures to their investors and counter-
+parties without detailed government mandates. Consequently, we 
+would suggest that policymakers, instead of creating 
+distinctions between these types of entities, treat all private 
+pool investment vehicles similarly, regardless of their 
+underlying investment strategies. Even though we may all use 
+the term ``hedge fund'' in the context of today's hearing, the 
+most accurate phrase is not ``hedge fund'' but ``private 
+investment company.
+    Second, in terms of investment activity, the buying or 
+selling of securities or commodities or derivatives, hedge 
+funds are but one type of many market participants engaged in 
+the same activity. Again, in order to gain the most complete 
+understanding of the subprime mortgage market, to use a recent 
+example, one should not focus solely on a single segment of the 
+market but should look at all participants engaged in that 
+activity. Looking at mortgage securitizations solely through 
+the prism of hedge funds without looking at banks, investment 
+banks, insurance companies, and other types of dealers and 
+investors will create a distorted picture of how and why that 
+market operates as it does.
+    This is not to say that hedge funds should not be included 
+at all in such a distinction, quite to the contrary, we are an 
+important part of the equation. But hedge funds are not nearly 
+so significant in and of themselves that they should be the 
+focus of attention to the exclusion of other market 
+participants doing the same thing. A focus on the activity, not 
+the actor, is more likely to yield the information desired by 
+policymakers in assessing the appropriate level of oversight 
+and regulation.
+    Third, the phrase, ``lightly regulated,'' which typically 
+is applied to hedge funds and other alternative investment 
+vehicles, is somewhat misleading as it really only applies to 
+governmental regulation of the relationship between the fund 
+and its investors. In this area, sophisticated or institutional 
+investors are deemed by the government to have the capacity and 
+equal footing to obtain the requisite information from fund 
+managers on their own instead of relying on standardized 
+government-mandated disclosures. In almost all other aspects of 
+the U.S. financial system, hedge funds are subject to the same 
+web of statutory and regulatory requirements as all other 
+institutional market participants engaged in the same activity.
+    And even with the interaction of the fund, the manager and 
+the fund investors, despite lack of regulation, does not yield 
+a lack of transparency, either to investors or to the counter-
+parties providing credit and other financial support. In the 
+case of my funds, for example, investors or their financial 
+managers generally require us to provide answers to detailed 
+questions regarding our background, strategies and research, 
+personnel, returns, compliance programs, risk profile, and 
+accounting and valuation practices. Prospective investors also 
+review terms such as liquidity restrictions, management 
+performance fees, and any applicable lock-up periods for their 
+capital. Depending upon the nature of the investor, a person 
+may meet an institution's portfolio managers or compliance 
+officers.
+    Some investors also ask to speak to our lawyers, auditors, 
+and prime brokers for references. The process usually also 
+includes any number of on-site visits by the potential investor 
+or their representatives. The right to on-site visits continues 
+after the investment is made as well as continued oral and 
+written communication on a regular basis so that the investor 
+can assure himself or herself that the representations that we 
+made at the outset are being followed.
+    Fourth, much of the secrecy surrounding hedge funds is 
+frequently a consequence of both the proprietary nature of the 
+investment strategies employed and of the mandates of the SEC 
+itself. The Commission's restrictions on general solicitation 
+and public offerings, under which all hedge funds operate, 
+prohibit fund managers from discussing their strategies and 
+performance in any venue or in any way that could be construed 
+as a solicitation or investment from the general public. 
+Certainly, it means that fund managers must limit the content 
+of or access to their Web site and limit public interviews 
+about their funds and investment strategies that could be 
+viewed as designed to attract the interest of the general 
+public to invest in the funds. Accordingly, most fund managers 
+prefer to err on the side of less public discussion rather than 
+risk running afoul of the SEC.
+    Fifth, if there are gaps in the system of regulatory 
+oversight, then there should be ways to address them consistent 
+with the principles and guidelines recently issued by the 
+President's Working Group. Such deficiencies are best addressed 
+without trying to shoe-horn the institutional business and the 
+statutes that were designed primarily for the interaction of 
+investment professionals and the general public. In this 
+regard, we have some suggestions for consideration that may 
+provide some commonsense approaches to answering at least some 
+of these concerns without re-engaging in the unproductive 
+debate from 2 years ago surrounding mandatory registration 
+requirements.
+    Mr. Chairman, do I have another minute to give that 
+suggestion?
+    The Chairman. Yes.
+    Mr. Chanos. As an example, the SEC in proposing the Hedge 
+Fund Advisor Registration Rule hoped to gather census 
+information about hedge funds. The SEC could, however, without 
+mandatory registration obtain much of the information it seeks 
+by amending Form D, a basic document used by issuers of private 
+placement of securities to acquire some additional information 
+if the issuer is a pooled investment vehicle. The form could 
+include a variety of basic information that I set out further 
+in my written testimony. The SEC could also require that the 
+form be kept current or updated annually. With this kind of 
+information, the Commission, and policymakers generally, would 
+be in a better position to answer the question, ``Who is out 
+there?''
+    With respect to best practices, we believe that most 
+investors already demand practices of their funds that are 
+equal to or exceed the requirements of the Investment Advisors 
+Act. Fundamentally, we believe the institutional investors 
+operate on a fairly equal footing with hedge funds and by 
+simply taking steps to protect their own assets and investments 
+produce the desired effect. However, if there is a belief that 
+certain practices are so commonsense, such as third-party 
+custodianship of client funds or annual outside audits, that 
+they deserve the added strength of SEC authority behind them, 
+we believe the Commission could consider using its anti-fraud 
+authority under the Advisors Act to require certain measures to 
+be taken by both registered and unregistered votes in order to 
+protect fraud.
+    And with that, I will make the rest of my comments in the 
+written testimony.
+    [The prepared statement of Mr. Chanos can be found on page 
+73 of the appendix.]
+    The Chairman. Thank you, Mr. Chanos. We have that and of 
+course, there will be questions from the members.
+    Next, we have Mr. George Hall, who is testifying on behalf 
+of the Managed Fund Association. Mr. Hall?
+
+ STATEMENT OF GEORGE HALL, FOUNDER AND CEO, CLINTON GROUP, ON 
+            BEHALF OF THE MANAGED FUNDS ASSOCIATION
+
+    Mr. Hall. Mr. Chairman, and members of the committee, thank 
+you for the opportunity to testify here today. I am here on 
+behalf of the Managed Funds Association, the largest U.S.-based 
+association representing the hedge fund industry with more than 
+1,300 members in the United States and around the world. In 
+addition to being a director of MFA, I am the founder and chief 
+investment officer of Clinton Group, an investment advisor for 
+a diverse group of institutional and high net worth individual 
+investors. We greatly appreciate the interest of this committee 
+in considering public policy issues relevant to our industry 
+and the opportunity to share our views with the committee.
+    Hedge funds have been closely monitored and reviewed by 
+Congress and Federal regulators in the recent years. This 
+intense review has led to a clear recognition that hedge funds 
+play a critical role in the success story of the U.S. capital 
+markets. Hedge funds have helped to disburse risks, enhance 
+market liquidity and resilience, and increase overall financial 
+stability. With this vital market role comes important 
+responsibilities. We agree with the President's Working Group 
+on Financial Markets that the hedge fund industry and other 
+market participants, along with financial regulators, have a 
+shared responsibility for maintaining the vitality, stability, 
+and integrity of our capital markets.
+    I would like to briefly address four points. First, the 
+President's Working Group on Financial Markets. MFA fully 
+supports the recent agreement of the President's Working Group 
+issued in late February. The Working Group addressed both 
+systemic risk and investor protection concerns in its agreement 
+and concluded that, and I quote, ``Market discipline most 
+effectively addresses systemic risks posed by private pools of 
+capital.'' The agreement stated that a combination of market 
+discipline and regulatory policies that limit direct investment 
+in private pools of capital to more sophisticated investors 
+would be the most effective way to address this issue.
+    MFA not only agrees with the Working Group's conclusions, 
+but has been working with its members to address these issues 
+for a number of years. We are committed to working closely with 
+regulators, counter-parties, investors, and our own industry to 
+do our part to remain ever vigilant.
+    Second, systemic risk. MFA has worked proactively with its 
+members to develop very specific risk management and internal 
+control guidance set forth in Sound Practices for Hedge Fund 
+Managers first published in 2000. Our sound practice guidance 
+has been revised and enhanced to take into account market 
+developments and is currently undergoing its third revision to 
+be issued later this year. The President's Working Group 
+principles will be a guiding blueprint for this effort. MFA 
+members have also worked extensively with the major derivatives 
+dealer firms and Federal Reserve Bank of New York to improve 
+market practices for credit derivatives and other derivatives 
+in order to reduce systemic risk concerns.
+    Third, investor protection. MFA supports increasing the 
+accredited standard. We applaud the SEC for considering this 
+issue and for its recent proposed rule. Based on all available 
+data, hedge funds remain chiefly an investment vehicle for 
+institutional investors and high net worth individuals. We 
+support a significant increase in the financial thresholds for 
+entry into hedge funds.
+    Finally, pension plans. MFA endorses efforts to increase 
+the understanding of hedge funds among pension plan fiduciaries 
+and trustees and is committed to helping promote investor 
+financial literacy through the development of due diligence 
+materials.
+    In conclusion, hedge funds have proven to be attractive 
+investment vehicles for institutional investors seeking to 
+diversify risk and enhance portfolio strength. They also play a 
+key role in our capital markets. To assure that these benefits 
+continue, and that any associated risks are fully addressed, 
+MFA believes that the proactive efforts of its members to 
+enhance market practices are vital. MFA pledges to continue 
+these efforts and to work with all market participants, 
+financial regulators and Congress.
+    Thank you.
+    [The prepared statement of Mr. Hall can be found on page 
+119 of the appendix.]
+    The Chairman. Thank you.
+    Next we have Jeffrey Matthews, previously introduced by the 
+gentleman from Connecticut. Mr. Matthews is general partner at 
+Ram Partners.
+
+    STATEMENT OF JEFFREY L. MATTHEWS, GENERAL PARTNER, RAM 
+                          PARTNERS, LP
+
+    Mr. Matthews. Mr. Chairman and members of the committee, 
+good morning, and thank you for inviting me to speak. My name 
+is Jeff Matthews, and I am general partner of Ram Partners, a 
+hedge fund I formed in 1994 after working at another hedge fund 
+for 4 years and starting my career at Merrill Lynch in 1979. My 
+fund is small relative to the others represented here and 
+rather old-fashioned. We buy stocks for the long term, we hedge 
+against short term market fluctuations, and we do not do any 
+derivatives. Nevertheless, 18 years in the hedge fund world 
+does make me something of an old timer, and I do have views on 
+the issues that you have raised.
+    To understand the growth in hedge funds you might ask, why 
+do people start them in the first place? The answer is quite 
+simple: Hedge funds are private partnerships whose investors 
+are wealthy individuals and large institutions. That private 
+structure and more sophisticated investor base gives us 
+flexibility to pursue alternative investments, take greater 
+risks, and reap greater rewards than a more strictly regulated 
+mutual fund. Furthermore, as a private partnership, hedge fund 
+managers can charge what their investors are willing to pay, 
+including a share of the profits the business generates.
+    So a successful multi-billion dollar hedge fund manager can 
+earn hundreds of millions of dollars while her mutual fund 
+counterpart could not. And that is why people start hedge funds 
+and that is why this industry has exploded. In fact, the single 
+biggest change I have witnessed since I started is size. In 
+1994, the biggest hedge fund I knew about had $6 billion in 
+assets; $6 billion today would not rank in the top 50 hedge 
+funds, and the three largest U.S. hedge funds now have over $30 
+billion each.
+    Along with that explosive growth has come diversity. Hedge 
+funds no longer focus mainly on stocks, bonds, and currencies 
+but have branched into subprime debt, distressed securities, 
+real estate, uranium ore, and even grain silos. In fact, there 
+are hedge funds that do nothing but invest in other hedge 
+funds.
+    The flood of money has also caused many so-called hedge 
+funds to no longer actively hedge against market declines 
+because hedging has been a drag on returns during the bull 
+market. It has been like paying a premium for an insurance 
+policy you never needed.
+    However, the most significant change I have witnessed in 18 
+years in this business is the increased use of leverage, 
+meaning borrowed money to start new hedge funds. A $400 million 
+hedge fund today, for example, might actually have only $100 
+million of equity. The rest, the other $300 million, might come 
+from a bank that sells a preferred class of equity that looks, 
+acts, and smells like debt. That structure works fine if the 
+value of the whole thing goes up, everyone makes money, and the 
+bank gets paid back. But if it goes down, that equity gets 
+wiped out, much like a house bought with no money down.
+    What type of risks might this pose? Could the graded 
+leverage cause another long term capital type catastrophe that 
+brings the markets? Well, we had just such a catastrophe last 
+year. Amaranth was a $10 billion hedge fund with sophisticated 
+investors, run by intelligent people using computerized trading 
+systems, and it collapsed in just 20 days after a huge complex 
+bet on natural gas went wrong.
+    What does that tell us? Number one, that hedge fund 
+managers can do stupid things just like any money manager only 
+in much bigger size.
+    Number two, even sophisticated investors do not necessarily 
+mind this kind of risk taking until it goes wrong and when it 
+does, they pull the plug very quickly. Number three, the more 
+exotic the investments, the harder it is for any outsider to 
+know what is going on inside a hedge fund. After all, if 
+Amaranth's general partner did not realize his business was at 
+risk, how would the Fed or SEC have seen what was coming and 
+act to stop it?
+    There is, however, a fourth and more positive lesson from 
+Amaranth, which was not foreseen by many observers at the time, 
+it is this, a $10 billion fund could evaporate in a matter of 
+months and yet aside from a couple of wild weeks in the natural 
+gas pits, the system did not blink. Unlike long term capital in 
+1998, which had to be bailed out by the Fed, other hedge funds 
+stepped in, bought Amaranth's positions at a deep discount and 
+the firm was liquidated. It is true that Amaranth's investors 
+included public sector pension funds, and they lost a great 
+deal of money, but the people who manage those funds should 
+have known the risks they were taking.
+    As I said, I run a smaller, old-fashioned fund, we do not 
+do derivatives, and I am not defending my own business model 
+generally represented here but these are my real-world 
+observations, nor am I acting as a cheerleader for all hedge 
+funds. There will be failures again, and they could get ugly.
+    However, the presence of so many large hedge funds today, 
+specializing in so many aspects of the world markets, means in 
+my view that the systemic risk of broad failure is probably 
+much lower than I have ever seen it in the last 18 years. I was 
+there when long term capital blew up, I was there when Amaranth 
+blew up, and luckily for us Amaranth turned out to be no long 
+term capital.
+    Thank you for inviting me to speak.
+    [The prepared statement of Mr. Matthews can be found on 
+page 135 of the appendix.]
+    The Chairman. Thank you, Mr. Matthews.
+    Next, we have Andrew Golden, who is president of the 
+Princeton University Investment Company.
+
+STATEMENT OF ANDREW K. GOLDEN, PRESIDENT, PRINCETON UNIVERSITY 
+                       INVESTMENT COMPANY
+
+    Mr. Golden. Chairman Frank, Ranking Member Bachus, and 
+members of the committee, thank you for the opportunity to 
+share my perspective today as someone who has been an 
+institutional investor in hedge funds for almost 2 decades. For 
+the past 12 years, I have been the president of Princeton 
+University Investment Company, the university office that has 
+responsibility for investing Princeton's $14 billion endowment. 
+With a staff of 25, we develop asset allocation plans, and 
+select and monitor a roster of 140 external managers. We 
+essentially act as a large fund of funds.
+    Princeton's hedge fund investment approach illustrates that 
+taken by a number of sensible investors for whom hedge funds 
+need not entail great risk. Indeed, for us hedge funds can be 
+an important tool for reducing risk. Princeton has enjoyed 
+success as an investor with annual returns during the past 10 
+fiscal years of 15.7 percent versus 8.3 percent for the S&P 
+500.
+    We have enjoyed particular success as an investor in hedge 
+funds, but before going any further, let me say that all my 
+comments today are complicated by the fact that hedge funds do 
+not represent a distinctive asset class like real estate or 
+venture capital. Rather, hedge funds are a relationship format 
+defined by the nature of the contractual arrangement between an 
+investment manager and his or her clients. At Princeton, we use 
+the hedge fund format to pursue a broad variety of strategies 
+across a spectrum of markets. Roughly 45 percent of the 
+endowment is invested via the hedge fund format. One-third of 
+that amount is invested in 14 funds that pursue traditional, 
+unleveraged, long-only investment strategies. These funds tend 
+to walk and quack like mutual funds, albeit ones managed very, 
+very, very well with superior track records.
+    The hedge fund format entails a higher fee schedule than 
+that of traditional institutional accounts, yet it better 
+aligns the manager's interest with their own, creating an 
+environment for superior returns net of fees. Notably, 
+Princeton's hedge fund managers are dis-incentivized from 
+taking inappropriate risks as all have a significant share, 
+typically the vast majority of their personal net worth, 
+invested side by side with us.
+    Approximately 30 percent of the endowment is invested in 16 
+hedge funds that do pursue less traditional strategies, 
+including for example selling short and investing in bankrupt 
+companies. We categorize these managers as independent return 
+managers. They seek returns that are equity-like but with 
+correlation to most broad market moves. This low correlation 
+means that our independent return program has been particularly 
+effective at reducing the endowment's total risk. We do not 
+invest with managers pursuing inherently opaque strategies. Our 
+managers do not employ significant leverage, yet our low octane 
+independent return program has generated a very strong 16.4 
+percent 10 year annualized return with half the volatility of 
+the stock market.
+    While we have some natural advantages of the hedge fund 
+investor, our success largely reflects hard work. We spend at 
+least 400 person hours in our due diligence process before 
+investing in a hedge fund. Post-hire we spend for each manager 
+70 person hours per year monitoring activities.
+    The single most important factor behind our success, 
+however, has been that we have always been guided by a simple 
+over-arching rule: we will not invest in something we do not 
+understand. Princeton requires that our hedge funds provide 
+substantial transparency. No one has ever been forced to invest 
+in any particular hedge fund. I do not believe that 
+sophisticated investors who willingly invest in anything 
+without assuring that they have adequate information and 
+understanding deserve any sympathy, let alone any additional 
+regulatory safeguards. Indeed, I believe that fiduciaries who 
+fail to assure their own understanding of investments may 
+deserve to be sued or prosecuted.
+    Understanding investment, however, does not guarantee happy 
+results. It is a certainty that at least some investors will 
+suffer significant losses in their hedge fund investments. 
+However, for perspective, it should be remembered that when the 
+tech bubble burst, U.S. stock investors collectively lost 
+almost $7 trillion. Among the losers were sophisticated and 
+unsophisticated investors. The losses were suffered through the 
+entire spectrum of relationship formats including mutual funds. 
+The $7 trillion losses give interesting context to worries 
+about the hedge fund industry, to which we have all been 
+estimating total investor exposure is between $1- and $2 
+trillion.
+    I suspect that there are some hedge funds using imprudent 
+leverage with likely unpleasant consequences for their 
+investors at some point in the future. However, when I think 
+about the important systemic risk facing markets today, hedge 
+fund leverage is less of a concern than say mortgage or Federal 
+debt levels. The markets for institutional client money 
+provides some discipline with regard to what a particular hedge 
+fund manager will flourish but then again not so much to 
+prevent an Amaranth. However, as others have noted today, the 
+resolution of Amaranth was quite orderly.
+    The Chair asked that I comment on current levels of risks 
+in the markets, and actually could I have one more minute to 
+deal with that?
+    The Chairman. Yes.
+    Mr. Golden. And I think you cannot refer to risk without 
+referring to price. If prices are high, likely investors are 
+not getting compensated for the risk present today but who 
+knows if the resolution of that will be a sharp down draft or 
+more prolonged periods of mediocre results?
+    I was also asked to comment on market practices since the 
+issuance of the CRMPG II report, and I can echo others' 
+comments that market practices have matured with much greater 
+discipline in trade documentation.
+    Finally, let me give my views on the appropriate role of 
+government with regard to hedge funds, their activities and 
+markets. And, basically, the bottom line there is I think the 
+President's Working Group essentially has it right. I would 
+wonder whether or not the minimum wealth test should be set 
+even higher than what has been anticipated.
+    With respect to the regulation of hedge fund activity in 
+the markets, I think the PWG again has it right, to assure fair 
+markets and control systemic risks, it makes most sense to 
+focus regulatory and private oversight bandwidth on large 
+financial institutions that act as counter-parties and lenders. 
+Perhaps we should accept guidance from the bank--and direct our 
+activities to where they keep the money.
+    Thank you.
+    [The prepared statement of Mr. Golden can be found on page 
+111 of the appendix.]
+    The Chairman. Thank you.
+    Our final witness is Stephen J. Brown, who is a David S. 
+Loeb professor of finance at the NYU Stern School of Business.
+    We have appropriately thanked all the donors here, the 
+Loebs and the Sterns. They all have their names in it.
+    Please go ahead, Mr. Brown.
+    By the way, the business schools practice what they preach. 
+Most medical schools and law schools are not named for people. 
+Every business school is. They do understand marketing and put 
+it into practice.
+    [Laughter]
+
+   STATEMENT OF STEPHEN J. BROWN, DAVID S. LOEB PROFESSOR OF 
+     FINANCE, STERN SCHOOL OF BUSINESS, NEW YORK UNIVERSITY
+
+    Mr. Brown. Absolutely. I agree 100 percent.
+    It is a very distinct honor to be invited to testify before 
+this committee, and I really thank Chairman Frank and Ranking 
+Member Bachus for this honor.
+    The President's Working Group on Financial Markets tells us 
+that private pools of capital bring significant benefits to the 
+financial markets.
+    What are these benefits? Some would tell us that their only 
+objective is to enrich themselves and their rich clients.
+    The industry needs to show that these benefits outweigh any 
+problems they might cause. A premise of the PWG is that hedge 
+funds do not pose a systemic risk for the financial markets.
+    What is a ``hedge fund?'' The term actually comes from 
+Carol Loomis, a Fortune journalist writing in 1966 about the 
+strategy of AW Jones who invested in under valued companies 
+financed in part by short positions in companies he felt were 
+over valued. In this sense, the investment was ``hedged'' 
+against general market movements.
+    The term ``hedge fund'' was a stretch even for AW Jones, as 
+his short positions never equalled in size or economic 
+significance of his long positions. Subsequent funds adopted 
+the regulatory form of AW Jones but not his investment 
+philosophy. Indeed, the term ``hedge fund'' belies their 
+considerable risk.
+    Sophisticated investors ought to be allowed to do as they 
+please, provided they not hurt innocent bystanders. 
+Unfortunately, the industry interprets the general solicitation 
+ban as limiting all kinds of public disclosure. Indeed, some 
+view the lack of transparency as part of the business model the 
+very reason for their success.
+    I argue that it is this lack of information, this lack of 
+transparency, at an industry level, that is of greatest 
+concern. Absent industry-wide disclosure, the only reliable 
+information we have is a purely voluntary disclosure to data 
+vendors, such as Lipper TASS.
+    According to their numbers, U.S. domiciled funds have grown 
+from close to $20 billion under management in December 1995 to 
+$131 billion today, although the growth has leveled off 
+recently.
+    I should add that the trillion dollar number that people 
+cite includes both domestic and foreign funds.
+    The data show remarkable diversity of styles of management 
+under the ``hedge fund'' banner. The AW Jones long/short 
+strategy captures about 30 to 40 percent of the business.
+    The style mix has been fairly stable, although there has 
+been a dramatic rise in assets managed by funds of funds. These 
+diversified portfolios of hedge funds are attractive to an ever 
+increasing institutional clientele, which a decade ago did not 
+exist, but now is about 52 percent of the total.
+    Event driven funds focusing on private equity, mergers and 
+acquisitions and such, have risen in market share from 19 to 25 
+percent over the past decade, while the global macro style 
+popularized by Soros has actually fallen from 19 to 3 percent.
+    There is a concern of the committee about the role of hedge 
+funds in the credit derivatives and CDO markets. How big is 
+this issue? We do not know since the industry is not required 
+to tell us, but based on TASS, fixed income arbitrage, which 
+involves these kinds of strategies, is just 4 percent of the 
+business.
+    I think the industry should make the case that entering 
+this market, their ``rich clients'' are taking on significant 
+risk, which would otherwise fall on the banking system. They 
+are thus reducing systemic risk, not increasing it.
+    What about leverage? According to TASS, the fraction of 
+funds that use leverage has fallen from 69 percent in 2002 to 
+57 percent today. In addition, there are vast differences in 
+degree of leverage across funds. Strategies that report the 
+highest degree of leverage have quite small market share.
+    More information would certainly help. Does this detract 
+from due diligence of sophisticated investors? With colleagues, 
+I studied the recent controversial and ultimately unsuccessful 
+SEC attempt to increase hedge fund disclosure.
+    We examined disclosures filed by many hedge funds in 
+February 2006. Leverage and ownership structures as of the 
+previous December suggest that lenders and hedge fund equity 
+investors were already aware of hedge fund operational risk 
+revealed in these forms.
+    However, operational risk does not mediate the naive 
+tendency of investors to chase past returns. Investors either 
+lack this information or regard it as immaterial.
+    What is the role of government? Perhaps Congress needs to 
+re-visit the 1940 Act. The ``sophisticated investor'' exemption 
+seems quaint these days.
+    Industry argues that the ban on direct solicitation 
+inhibits disclosure, and perhaps it does. However, Congress can 
+mandate any level of selective disclosure necessary for 3C1 or 
+3C7 exemption. There is no need to know proprietary trading 
+information.
+    However, by being just a little bit more forthcoming, the 
+industry could allay public concern about systemic risk and 
+operational risk.
+    Thank you, Mr. Chairman.
+    [The prepared statement of Mr. Brown can be found on page 
+71 of the appendix.]
+    The Chairman. Thank you. I thank all the witnesses. I think 
+many of us will be reading in detail particularly what you have 
+submitted.
+    Let me begin with Mr. Corrigan. Obviously, our job is to 
+think about whether or not there is any public policy 
+implications.
+    You talked about the need or the desirability of increasing 
+the shock absorbers. What would they be and would we have any 
+role in trying to do that? That would seem to me to be what we 
+ought to be focusing on to the extent that there was something 
+for us to do.
+    Mr. Corrigan. Certainly, to answer your last question 
+first, I think your oversight role is very important. As to the 
+shock absorber concept that I have used, I have tended to put 
+my favorite shock absorbers, if you will, into basically six 
+categories.
+    One is corporate governance. I cannot begin to underscore 
+how important the details of what corporate governance really 
+means is for this purpose. It is a lot more than having a few 
+independent directors. The second is risk management and risk 
+monitoring. The third is what I call financial infrastructure, 
+and these are some of the problems that we encounter with 
+backlogs of derivatives and so on and so forth. The fourth is 
+better understanding in managing these highly complex products. 
+The fifth is a multiple four legged table of enhanced 
+disclosure, and the sixth is what I like to call reputational 
+risk management.
+    The Chairman. Let me go to the one that may potentially 
+involve us, number five, the disclosure. Would you change the 
+disclosure regime that we now have?
+    Mr. Corrigan. Most of the time when we talk about 
+disclosure, we are thinking about public disclosure. One of the 
+issues that I raised in my statement in terms of suggesting 
+some enhancements to the President's Working Group approach is 
+to better recognize that in the context of financial stability 
+issues.
+    Disclosure is a four legged table. The first has to do with 
+disclosure of a bilateral confidential nature say between a 
+hedge fund and its prime broker.
+    The second has to do with disclosures that are made by 
+hedge funds or private equity funds to their investors or 
+prospective investors.
+    The third has to do, and this is very important, with what 
+I like to call voluntary informal exchanges of largely 
+confidential information between hedge funds or private equity 
+funds and regulated institutions with the regulatory community. 
+The last is public disclosure.
+    I firmly believe, Mr. Chairman, that again, in the context 
+of shock absorbers and financial stability, there is more pay 
+dirt in those first three legs than there is the last, in part 
+because public disclosure is suffering from a very chronic 
+information overload problem.
+    The Chairman. I accept that. Is there a role for the 
+government? Again, I ask this without any preconception.
+    ``Public'' can mean two things. It can mean public in that 
+it is to some extent compelled by public agencies, and it can 
+also mean that the actual information is made public.
+    Is there a role for the government in increasing the flow 
+of information in the first three categories?
+    Mr. Corrigan. Yes, there is. Again, one of the suggestions 
+in my statement, Mr. Chairman, was that in the context of the 
+so-called systemic risk principles of the President's Working 
+Group, I suggest in my statement that one thing I would like to 
+see happen would be an effort to quickly develop best 
+practices, make them public, so that we have benchmarks, 
+including in this area of transparency--
+    The Chairman. Would you recommend that any public agency 
+have the responsibility to monitor whether or not the best 
+practices were being followed?
+    Mr. Corrigan. I would expect in this context that the 
+supervisory authorities would indeed do that. I believe, if I 
+take as a point of reference the recommendations of our risk 
+management policy group, that has happened.
+    The Chairman. That would be the supervising authorities 
+obviously for the depository institutions. Would that also mean 
+by anybody for the hedge funds themselves? I understand on the 
+counterparties.
+    Would you recommend there be any governmental 
+responsibility to monitor whether best practices were being 
+followed by the investment entities themselves?
+    Mr. Corrigan. I think that it is in the best interest of 
+the hedge funds themselves to put themselves in a position in 
+which they voluntarily make their practices public.
+    The Chairman. I understand. Every time people tell me 
+something would be good if it was done voluntarily--if 
+everybody did everything voluntarily, I would be out of a job. 
+Maybe that would be a good thing. We are in the involuntary 
+part of this.
+    If people do not do it, should somebody at least be 
+checking to see who does and who does not do it voluntarily?
+    Mr. Corrigan. I think that will happen; yes.
+    The Chairman. Thank you. Mr. Bachus.
+    Mr. Bachus. Thank you. Let me ask all the panelists. We 
+have talked about the President's Working Group and they are 
+going to come up with some recommendations.
+    Would your advice to us be to wait on their final 
+recommendations before we considered any action?
+    I will start with Mr. Corrigan.
+    Mr. Corrigan. Yes. I would suggest, and I don't think that 
+is going to take all that long. I think there is enough in the 
+pipeline right now that the committee, in my judgment, should 
+continue to exercise its oversight function as it is doing 
+today.
+    I do not see the need for anything beyond the continued 
+effective exercise of that oversight function.
+    Mr. Bachus. Mr. Brody?
+    Mr. Brody. I guess it would depend upon how long it takes. 
+If it is done in a sensible and timely way, I think it is 
+absolutely appropriate for the committee to wait.
+    If it takes an extensive period of time, then it is 
+probably proper to move without it.
+    Mr. Bachus. All right. Mr. Chanos?
+    Mr. Chanos. I would echo Mr. Brody's comments on that. I 
+think if we are looking at a long process, I think it would 
+behoove the committee to keep moving at all due speed. I 
+suspect the report will be out relatively soon.
+    Mr. Bachus. Is 6 months a reasonable amount of time?
+    Mr. Chanos. If there are no financial hiccups, I would say 
+yes, 6 months seems reasonable.
+    Mr. Bachus. We probably would not know until after the 
+hiccup, I guess. By ``hiccup,'' you do not mean a failure of a 
+hedge fund. You mean?
+    Mr. Chanos. A broader market problem that would include but 
+not be exclusive to hedge funds, that would move things 
+quicker.
+    Mr. Bachus. Some of the things that have been advised still 
+would not prevent that, would it?
+    Mr. Chanos. Absolutely not. I am a realist as well as an 
+idealist. I understand, as one of the members said earlier, 
+that the industry will come under greater scrutiny should there 
+be such a hiccup.
+    Mr. Bachus. Mr. Hall?
+    Mr. Hall. I would agree with that, that the committee 
+should wait for the President's Working Group. We believe they 
+are on the right track. They have identified what we think are 
+the important issues, and they have also identified what the 
+potential failures could be of aggressive regulation.
+    I think, as Mr. Baker pointed out, overreaction based on a 
+hiccup is in the long run not going to serve the industry or 
+the economy as well either. We need to be very careful and 
+hopefully they will move quickly and get it taken care of.
+    Mr. Bachus. Mr. Matthews?
+    Mr. Matthews. I agree with my colleagues.
+    Mr. Bachus. To wait?
+    Mr. Matthews. Yes.
+    Mr. Bachus. A reasonable amount of time?
+    Mr. Matthews. Yes.
+    Mr. Bachus. Mr. Golden?
+    Mr. Golden. There is a downside to being on this end of the 
+table. It's all been said before.
+    Mr. Brown. I agree also.
+    Mr. Bachus. Thank you. Mr. Brody, you mentioned 
+registration with the SEC. What does that mean? In your mind, 
+what is registration with the SEC?
+    Mr. Brody. It gives oversight by the SEC. Let me just tick 
+off some of the things that are required in registration, 
+realizing that I would have the SEC go to a principles-based 
+approach.
+    Some of the things they do now is they require a chief 
+compliance officer. They require a set of written compliance 
+policies and procedures. They require a code of ethics. They 
+require a filing of a public information form. They require 
+independent custodian requirements, which leads to a financial 
+audit, and they do on-site inspections and examinations, and 
+they require retention of books and records.
+    There are obviously more things, but those are key elements 
+of registration that give protection to the more 
+unsophisticated investors.
+    Mr. Bachus. Some of you mentioned the traditional hedge 
+fund and then the ones that are private equity, and then the 
+ones that are leveraged that are borrowing a lot of their money 
+from financial institutions.
+    One thing that should be happening right now at the Federal 
+Reserve, Mr. Corrigan, you were on it, is that the Federal 
+Reserve should be looking at our financial institutions and 
+seeing their investments. In that regard, that is already a 
+regulated part of the process, is it not?
+    Mr. Corrigan. It is. That is correct.
+    One of the very constructive things that has happened just 
+in the recent past that I might add is consistent with this 
+whole notion of principles based oversight is that the Federal 
+Reserve, in cooperation with the SEC, and interestingly with 
+the U.K. FSA, went through an exercise, again, in a largely 
+principles-based approach.
+    They spent a very substantial amount of time with each of 
+the major banks and securities firms that have prime brokerage 
+activities, in an effort to systematically review and 
+understand the nature of those relationships, out of which they 
+will be developing a statement of best practices to be used 
+prospectively in order for them to be able to better judge how 
+individual institutions perform this function.
+    This, to me, is a terrific example of adapting the approach 
+to prudential oversight to the real world in which we live, and 
+I think it is enormously constructive. I think it provides a 
+framework for the future that can be applied in other areas as 
+well.
+    Mr. Bachus. My final question, if I can, Fortress 
+Investment Group, which is the first IPO of a hedge fund, at 
+the New York Stock Exchange, that is an example of a hedge fund 
+that is being basically offered to anyone.
+    Should there be maybe a different rule for that, or would 
+you depend on the New York Stock Exchange?
+    Mr. Corrigan. Others, I am sure, will want to comment. It 
+is important to keep in mind that in the Fortress case where 
+there is an IPO, by definition, as part of the IPO process. 
+Fortress and the new public entity is subject to a whole 
+further raft of regulations that apply to listed companies in 
+general.
+    Not only do they have the regulations that others talked 
+about earlier, but in addition, they now are subject to all of 
+those regulatory requirements as well.
+    Mr. Bachus. Mr. Brody?
+    Mr. Brody. There is an important distinction to make 
+between a public offering of the fund and the public offering 
+of the management company. In the Fortress case, it was a 
+public offering of the management company. That is the entity 
+that is responsible for advising the funds.
+    I think, so far in the United States, we have not had 
+significant, or even any, public offerings of hedge funds. In 
+Europe, there have been.
+    Mr. Bachus. This was the management company, not the 
+participating hedge fund.
+    Mrs. Maloney. [presiding] The gentleman's time has expired. 
+Thank you, and I thank all of the witnesses. Coming from New 
+York, I certainly appreciate the significant role that hedge 
+funds have come to play in our markets and our economy.
+    I want to thank the chairman for holding this hearing to 
+review the growth in hedge fund activity and whether that 
+growth needs additional transparency or constraints.
+    Certainly, hedge funds operate in a regulatory scheme that 
+has not been adjusted much to reflect their new activity. Many 
+of you testified to the tremendous growth in hedge funds, the 
+change in leverage, and this may well be out of date.
+    The SEC is taking a few small steps to tweak the rules, 
+such as raising the threshold for individual investors, but 
+such investors are only a very small part of the hedge fund 
+market, so these are very minor adjustments.
+    I would like to go back to Mr. Brody's statement and 
+support of requiring all hedge funds to register as investment 
+advisors. I would like to go down the panel and see if you 
+support this idea, yes or no.
+    Would you support that, having Mr. Brody's strong statement 
+in support of having them registered as investment advisors?
+    Mr. Corrigan, would you support that or not?
+    Mr. Corrigan. I would not. At this juncture, I would not.
+    Mrs. Maloney. You would not. Why would you not support 
+that?
+    Mr. Corrigan. Because I think that the central thrust of 
+the approach suggested by the President's Working Group can 
+achieve what we really need to achieve.
+    Many of the witnesses have suggested this idea that hedge 
+funds are unregulated, and it is a bit misguided. There is a 
+lot of regulation.
+    I do not see any need at this point to go that distance, 
+and I would emphasize, Congresswoman Maloney, that I have 
+debated this thing with myself for years. What always stops me 
+from going there is the so-called moral hazard problem, the 
+danger that by going to that place, we effectively encourage 
+people to believe that the government will protect these 
+organizations, even in very dire circumstances. 
+Philosophically, I am just not ready.
+    Mrs. Maloney. Thank you. Mr. Chanos, yes or no?
+    Mr. Chanos. No. I believe that through--
+    Mrs. Maloney. Thank you. Mr. Hall, yes or no?
+    Mr. Hall. No.
+    Mrs. Maloney. Mr. Matthews, yes or no?
+    Mr. Matthews. I think if you take public pension money, you 
+should. If you do not, why should you. You are no different 
+than a partnership that invests in a shopping mall, and those 
+are not regulated.
+    Mrs. Maloney. Thank you. Mr. Golden?
+    Mr. Golden. No, I would say no. I would note that we do the 
+same extensive due diligence on registered advisors as non-
+registered's. It gives no real protection.
+    Mrs. Maloney. Mr. Brown?
+    Mr. Brown. I would say no in the current way the 
+registration works because my research shows that sophisticated 
+investors already understand what is in those forms. 
+Unsophisticated investors either did not know or did not care.
+    Mrs. Maloney. Thank you. I would like to ask anyone on the 
+panel, starting with Mr. Brody, about the credit derivatives, 
+the credit default swaps. They have been criticized as unduly 
+risky and have raised issues of systemic risk, which regulators 
+worked to resolve in the 2005 Novation Protocol.
+    Maybe these credit default swaps are the canaries in the 
+mine of the subprime lending which we are reading about in the 
+Tsunami Daily as it unravels.
+    A few months ago, the ABX Index that tracks the credit 
+default swaps suggested that the subprime market was headed for 
+a fall and now we have seen that is now taking place.
+    Do you think the CDS investments can soften the impact on 
+the markets of events such as the subprime challenge or crisis 
+that we are seeing today, or do they inherently aggravate 
+market swings, or are they neutral in their impact?
+    Mr. Brody. Let me first make a comment on derivatives, CDS' 
+and hedge funds. The reality is that these instruments are used 
+throughout the investment community. They are used 
+substantially by investment banks. They are used substantially 
+by commercial banks. In general, these instruments serve the 
+laudable purpose of dispersing risk, putting risk in many 
+hands.
+    However, that dispersion of risk does not prevent failure. 
+We are seeing right now in the subprime market some degree of 
+failure.
+    Mrs. Maloney. Anyone else?
+    Mr. Hall. I would be happy to comment. I agree their 
+purpose is to disperse risk. I think they are really no more 
+risky than the underlying investment. If you can buy the 
+underlying investment, the derivative is a more efficient way 
+to take advantage of that.
+    It can be used as a hedging instrument and as you pointed 
+out with the ABX Index, it can lead to price discovery that 
+might not as readily be seen in the underlying prices of 
+illiquid bonds.
+    I think they are an important risk mitigator in the system.
+    Mrs. Maloney. Would anyone else like to comment?
+    Mr. Brown. The hedge funds are actually taking the risk 
+away from the financial system. They are giving it to the high 
+net worth individuals who are in the best position of society 
+to afford that risk.
+    The other thing is that they are such a small part of this 
+business. There is a real problem, I think, in the public 
+perception of seeing all the hedge funds as the same, that the 
+danger is that the sins of the few will be visited upon the 
+many, and if there is a problem in that little section of the 
+market, it may affect public perception of the whole market.
+    No. The whole purpose is to take risk away from them.
+    Mrs. Maloney. Mr. Chanos?
+    Mr. Chanos. I would like to make two points on that. The 
+derivative swap market, which has grown dramatically, has not 
+only dispersed risk but it has given us new informational 
+content.
+    Over and over again, we see the credit default swap market 
+show us prices ahead of the rating agencies, pointing out risks 
+that the market may not have completely understood.
+    I would also point out that hedge funds themselves, through 
+their effort of shorting the ABX market, were sending an 
+important signal back in the fall that the subprime market was 
+headed for problems.
+    Again, this was more information, not less, for those who 
+wanted to look at it and draw the proper conclusions.
+    Thank you.
+    Mrs. Maloney. Thank you. Yes, sir?
+    Mr. Corrigan. One thing I would want to emphasize is that 
+there have been several comments earlier about leverage. Most 
+of those comments deal with what I think I would consider to be 
+balance sheet leverage, equity to asset ratio's and things like 
+that.
+    Credit default swaps are in the family of what I would 
+consider to be fairly complex financial instruments. One of the 
+reasons why they are complex is that depending upon market 
+conditions, they can have the characteristics of what I like to 
+call ``embedded leverage.'' Embedded leverage is different than 
+balance sheet leverage because it is a measure of how a given 
+instrument, like a credit default swap, can change in value 
+based on a shock.
+    When we talk about these complex instruments, we have to 
+recognize the distinction between balance sheet leverage on the 
+one hand and so-called embedded leverage on the other.
+    Having said that, I want to emphasize credit default swaps 
+have been a tremendously constructive innovation for the 
+financial markets generally.
+    The Chairman. The gentleman from Louisiana.
+    Mr. Baker. Thank you, Mr. Chairman.
+    Mr. Hall, I am going to address my sort of series of 
+questions to you, since you are representing an association.
+    Generally, what happens within a fund, and I am not even 
+going to call it a ``hedge,'' I am just going to say a private 
+investment opportunity company, is of no concern to anyone as 
+long as it is operating in an expected and anticipated way.
+    We are dealing with a circumstance where there is an 
+unanticipated loss that brings about consequences that are 
+adverse financially to other parties. That is the focus of what 
+we are about.
+    If you limit those who participate in that activity, that 
+is one way to stem the scope of adverse consequences. It has 
+been mentioned by several that the current definition of 
+sophisticated or qualified investors does seem inadequate.
+    My observation is that a dollar figure does not necessarily 
+equal sophistication, as in a young person who is the 
+beneficiary of a substantial trust. They will be relying upon a 
+third party to make investment decisions on their behalf, 
+whether hedge fund or otherwise.
+    The suitability of that person in conducting that financial 
+or fiduciary responsibility is pivotal in this case. That goes 
+to the pension fund question and whether the school bus driver 
+ought to be exposed to some derivative transaction with 
+embedded leverage.
+    Beyond the question of who gets in, it is the elements that 
+constitute the organizational activity of that fund itself, 
+going to the question of leverage defined broadly.
+    Someone in a sophisticated regulatory position needs to 
+understand that leverage position so we do not have an LTCM 
+like event, and I do not mean that somebody loses money.
+    I mean when people showed up in the work out room, 
+everybody was surprised by who was at the table, that there is 
+some sense of systemic scope of what that hedge fund is engaged 
+in, and that gets you to the counterparty risk.
+    Although there is a counterparty risk management policy 
+group that Chairman Bernanke referenced in recent testimony, 
+and generally speaking, if we are going to constrain the hedge 
+fund activities by limiting their access to capital, which is 
+not true equity, then we really begin to sit heavily around the 
+neck of these operations and potentially minimize the systemic 
+risk potential that everyone seems to express concern about.
+    Is there anything inconsistent with your view of market 
+function about those areas of focus? Who gets in a regulatory 
+responsibility to understand leverage, embedded or otherwise, 
+and counterparty risk management tools to watch?
+    In my judgment, registration does not work. All that does 
+is just say you have a label on your door and you can still be 
+a bad actor.
+    Mr. Hall. I appreciate your comments and I thank you for 
+addressing the question to me. I am happy to discuss this.
+    I think you have isolated two very important points. 
+Effectively, what is it that lawmakers have to worry about? You 
+pointed out investor protection, who loses the money, and is it 
+okay if it is wealthy people or retail investors.
+    You make a very good point. An example that I use many 
+times is that finance professors probably would not be able to 
+pass the net worth test, even though they are qualified to 
+invest in these instruments.
+    Mr. Baker. For some folks, you could move their Bentley and 
+they would not be able to find it.
+    Mr. Hall. That is true. There are other wealthy people who 
+should not be investing.
+    I think ultimately the link between sophistication and 
+wealth is really not the basis for this, even though many times 
+people say that.
+    The real link is who can afford to lose it. If you have a 
+Bentley, you probably also have a Rolls Royce. If you lose the 
+Bentley, you are still going to be okay.
+    It is not the best system for determining who is 
+sophisticated enough, but it is really the best we have to 
+prevent things from coming across your desk that you need to 
+worry about.
+    The second issue, aside from investor protection, is the 
+systemic risk. I firmly believe the President's Working Group 
+believes is best handled at the counterparty level, through the 
+banking system, the brokerage system.
+    Mr. Baker. Excuse me for interrupting. Does that not 
+necessitate a more standardized methodology of disclosure and a 
+disclosure of values to that counterparty for them to be able 
+to make appropriate judgments about risk?
+    Mr. Hall. I think that already happens. I think the 
+relationship between hedge funds or private investment pools 
+and their prime brokers, if they are borrowing money, the prime 
+brokers and the counterparties demand an enormous amount of 
+information and transparency.
+    Mr. Baker. What I am getting to is that methodology for 
+oversight will vary from practitioner to practitioner. There is 
+not some kind of standard boilerplate. If I am at Bank ``X'' 
+which is generally viewed as a good management team, but their 
+practices are a little weak in this arena, is there any 
+advisability, not in Congress but in a regulatory overview of 
+the consistency of those practices?
+    That is what bothers me, not just from hedge fund to hedge 
+fund, but from bank to bank. How capable are those folks in 
+asking the right questions?
+    Mr. Hall. My own experience is it is relatively consistent 
+across the sophisticated brokerage firms and banks. The most 
+important shock absorber, I think, for the system is capital. 
+The capital charge against these types of loans that banks and 
+brokers would make is in the regulations, and ultimately they 
+will evaluate whether making a loan gets them the appropriate 
+return on capital.
+    I think there is a reasonably consistent methodology that 
+has been put in place by the capital charges.
+    Long term capital comes up a lot. Prior to Amaranth, that 
+was the last big blow up in a hedge fund. We have had more blow 
+up's in the stock market since then.
+    The President's Working Group of 1999 pointed out that long 
+term capital had enormous amounts of leverage relative to their 
+peer group. They were on a plateau of their own in terms of 
+their ability to get leverage, and frankly, I think the message 
+is that even the banking and brokerage community overextended 
+themselves to long term capital.
+    Mr. Baker. My point exactly. Thank you.
+    Mr. Hall. If I have answered your question, I am finished. 
+Thank you.
+    Mr. Baker. Thank you.
+    The Chairman. The gentleman from North Carolina.
+    Mr. Watt. Thank you, Mr. Chairman.
+    Let me focus, if I can, on two areas. One of the witnesses 
+raised the question of whether the Working Group's proposal 
+about who qualifies as an accredited investor is or is not the 
+appropriate definition. I cannot remember which witness it was. 
+Maybe Mr. Brown, Dr. Brown.
+    I wanted to follow up on Mr. Baker's question and be a 
+little bit more pointed on that issue. Is that the appropriate 
+level or should it be a different level?
+    Dr. Brown, was it you who made that point?
+    Mr. Brown. I made it, as well as another gentleman.
+    Mr. Watt. Let's start with you and get the perspective of 
+the other gentlemen on the panel.
+    Mr. Brown. When I teach, I often have aggressive students 
+who say, you know, if you are so smart, why are you not rich. 
+The temptation is always to say well, how do you know I am not 
+rich.
+    Another possible response is you know, if you are so rich, 
+why are you so stupid. Wealth and intelligence, particularly in 
+investment matters, is not at all related.
+    I can point to many anecdotes and many cases.
+    Mr. Watt. I think I did accept the proposition that the 
+monetary figure is appropriate as opposed to--how are you ever 
+going to evaluate somebody's sophistication and evaluate their 
+financial well being or worth or ability to lose.
+    Mr. Brown. That is right. You have exactly the point.
+    Mr. Watt. It is the monetary figure that I am zeroing in on 
+more than the sophistication issue that Mr. Baker was zeroing 
+in on.
+    Is the net worth figure an appropriate figure?
+    Mr. Brown. I have various thoughts about this. For a high 
+net worth individual, they know what they are doing and there 
+is no real business for us to be too concerned about what they 
+do.
+    I must confess to some concern about the level of 
+involvement of pension funds and the ability of the pension 
+benefit guarantee corporation and absorbing any potential 
+losses that come through investing in these vehicles.
+    The issue is really to look at risk, I think, and to 
+understand what the financial resources are of the sponsoring 
+organization of the pension, any defined benefit pension plans.
+    I am concerned about that.
+    Mr. Watt. Let's start with Mr. Golden and go all the way 
+down. What do you say in response to the question I asked, and 
+to Dr. Brown's comments?
+    Mr. Golden. I commented earlier that I think the capital 
+test should be raised. I do not know how high they should go. 
+That is something that I think could be derived through a lot 
+of conversations with the participants.
+    I do wonder about this issue of assuring that people can 
+afford to lose money in this. I am not convinced that any 
+particular hedge fund investment is any more risky than a 
+single stock investment in a single company. We do not have the 
+same kind of concerns about people losing money in those 
+particular investments.
+    Mr. Watt. You are not advocating to lower the threshold?
+    Mr. Golden. Absolutely not. I think it should be raised. 
+The fact of the matter is people--we need to make the bite size 
+with which they invest to be small enough that they can weather 
+the storm. The diversified portfolio is a really important 
+measure of protection.
+    Mr. Watt. You all may need to speed up your responses if I 
+am going to get all the way down the panel.
+    Mr. Matthews, Mr. Hall, Mr. Chanos.
+    Mr. Matthews. Personally, my feeling is that the question 
+is, can you afford to lose it? That is the question that should 
+be asked. I do not know what that means in terms of the level 
+you set.
+    Mr. Hall. That is correct. It is an issue of net worth. It 
+is an issue of income. It is an issue of investing experience. 
+I think actually some of my colleagues at the MFA have done 
+some work and we would be happy to present you with some more 
+definitive information on our recommendations.
+    Mr. Watt. That is consistent with the Working Group or 
+different from the Working Group?
+    Mr. Hall. Consistent with the Working Group.
+    Mr. Chanos. I would echo most of these comments with the 
+one exception that we do have members in our Coalition who make 
+the very good point that, for example, the people who were made 
+very wealthy by a man named Warren Buffett, who ran his 
+partnership as a hedge fund for 20 years, would not have been 
+accredited investors under the standard.
+    It is a good point. We have to understand that these 
+numbers are arbitrarily policy driven numbers, not economic 
+numbers. The industry and the proper authorities have to 
+coalesce around figures that broadly represent the ability of 
+investors to shoulder the risk, as my colleague said.
+    Mr. Watt. Mr. Brody?
+    Mr. Brody. It is probably not a bad number. It is hard to 
+determine what it should be. I think nobody has great wisdom on 
+this score. The number serves as an imperfect proxy for 
+understanding, and the reality, as has been mentioned earlier, 
+is hedge funds in general are not riskier than most other 
+investments.
+    Mr. Watt. Mr. Corrigan?
+    Mr. Corrigan. I would raise the limit to at least what is 
+being contemplated by the SEC's current proposals. These 
+standards are not perfect, but they are easy to understand. We 
+have standards like that in a lot of places. That is probably 
+the best we can do.
+    Mr. Watt. Thank you, Mr. Chairman.
+    The Chairman. I thank the gentleman. I do have to interject 
+for 30 seconds, as we talk about the level at which we protect 
+people.
+    I am going to propose with regard to the bill that we 
+passed last year that prevents anybody from betting on 
+blackjack, that maybe if you can invest in a hedge fund, we 
+will at least let you gamble. This committee decided that we 
+would protect people from gambling at all; maybe we can link 
+the two.
+    The gentleman from Texas.
+    Mr. Hensarling. Thank you, Mr. Chairman. I certainly 
+appreciate you calling this hearing. It is an important 
+hearing. Clearly, I think the committee has identified several 
+areas of legitimate concern.
+    First, are investors possibly being misled? Do we have the 
+proper level of transparency? Second, is there a legitimate 
+issue of systemic risk? Third, as the gentleman from Louisiana 
+has pointed out, we certainly have a concern about the 
+institutional investor represented by pensions, and what could 
+happen to individual pensioners, much less the American 
+taxpayer who might have to bail out the PBCG.
+    Having said all of that, although I am not a physician, I 
+am reminded of the Hippocratic Oath; first, do no harm. It 
+should also apply to Members of Congress.
+    I recently came across a couple of statements of our 
+present and former Fed Chairman, and apparently Chairman 
+Greenspan said it would be counterproductive to directly 
+regulate hedge funds.
+    I know that Chairman Bernanke has been quoted as saying 
+that direct regulation of hedge funds would impose costs in the 
+form of moral hazard and the likely loss of private market 
+discipline, and possible limits on funds' ability to provide 
+market liquidity.
+    My first question, which is kind of tossing the ball up in 
+the air for anybody who wants to take a strike at it, is if we 
+do not get the regulation right, what harm might we do, and 
+particularly if you could comment on Chairman Bernanke's 
+statement about possible moral hazard.
+    Dr. Brown, it looked like you were reaching for the button 
+first.
+    Mr. Brown. There is an issue with the tendency of the 
+industry to be more expanded overseas than it is here. I have 
+different views on this.
+    I do not hold with the view that industry is going to 
+disappear any time soon. The plain fact is that other 
+jurisdictions have a much more significant regulatory 
+environment than we do here. I do not think there is any danger 
+of this industry going anywhere very soon.
+    Mr. Hensarling. Anybody else care to comment?
+    Mr. Hall. The one thing to be cognizant of is if there is 
+regulation that keeps hedge funds from doing their business, 
+which is out of the ordinary.
+    One of the great things about what I think private pools of 
+capital do is they do things that are out of the mainstream, 
+like investing in insurance risk after the hurricanes.
+    If there is regulation and it is inappropriate regulation 
+or if it overly restricts the ability to make these types of 
+one off investments or out of the mainstream investments, then 
+the economy will overall suffer from that.
+    Mr. Hensarling. The investment capital represented by the 
+hedge fund industry, just how fluid is it? Some of us have been 
+concerned about certain provisions of Sarbanes-Oxley that might 
+be helping drive capital to overseas markets, the number of 
+IPOs that have taken place on domestic markets versus 
+international markets.
+    Just how easy is it to locate these investment vehicles 
+overseas and if it is easy, is that something that Congress 
+should be concerned about?
+    Mr. Chanos?
+    Mr. Chanos. I can speak personally to that, because I set 
+up an operation in London a few years ago to complement our New 
+York office.
+    There is a lot of concern about capital moving overseas. We 
+hear about this. Capital can move overseas at the flick of a 
+button and does so all day long all around the world. Capital 
+moves around. The bigger issue, I believe, and have told my New 
+York political friends this, is the human capital that moves.
+    When I set up an office in London, I am now paying people 
+overseas. All of those effects of economy are benefitting the 
+U.K. directly and not the United States.
+    I am more worried about that and losing our competitiveness 
+of keeping good people and keeping our financial primacy in the 
+United States from the human side and the organizational side 
+than the capital side. Capital flows very freely across borders 
+all day long, 365 days a year.
+    Mr. Hensarling. If I could hit the risk issue again. I 
+certainly hold myself up to be no expert, but for a couple of 
+years in the early 1990's, I was actually an officer in a hedge 
+fund.
+    It basically ran a very classic AW Jones kind of operation, 
+classic stock pickers, long, short, they levered it up 2:1.
+    I was able to invest in the fund as an officer, and during 
+the time I was there, I discovered that our investment fund, 
+number one, gave a greater rate of return to my family than my 
+alternative investments at a low correlation to the market and 
+had less volatility.
+    I am kind of asking the question, what is wrong with this 
+picture? Is there anything inherently risky, since I think it 
+was Mr. Golden who said that hedge funds are not a distinctive 
+asset class, it is more of a structure, is there anything about 
+the structure of having a private investment vehicle that has a 
+performance fee that leads these investments to be more risky 
+than alternative investments that might be found in the mutual 
+fund industry?
+    Mr. Matthews?
+    Mr. Matthews. Absolutely. It is the 20 percent performance 
+fee. If you can make 20 percent on $50 million that you earned 
+for your investors, that is pretty good. If you can make 20 
+percent on $50 billion, that is even way better.
+    The inclination is to take on more investors, more 
+leverage, and greater risk to try to hit the jackpot. That is 
+why hedge funds occasionally do fail, and mutual funds never 
+fail. Mutual funds do not take the leverage but a hedge fund 
+does.
+    Mr. Corrigan. We get a little bit bogged down here because 
+we use this term ``hedge fund.'' There is an enormous 
+dispersion in terms of the behavioral characteristics of hedge 
+funds, and in particular, the extent to which individual hedge 
+funds take more risk, have higher risk profiles than other 
+hedge funds.
+    I think it is fair to say that if you look at the universe 
+as a whole, the characterizations that have been made by 
+several of the other witnesses are correct. It is not so true 
+that to the extent one or more individual hedge funds are 
+reaching for extraordinary returns, by definition, they have to 
+be taking extraordinary risk.
+    That is where the dilemma lies. How do you square the 
+circle in terms of performance in general with outliers?
+    I want to add, if I could, very quickly, Mr. Chairman, a 
+point about Amaranth. Several people have noted that Amaranth 
+worked itself out in a very, very successful fashion, and it 
+did. I, like others, take a lot of comfort from that.
+    In my statement, I have identified several factors 
+associated with the Amaranth event which I think warrant a 
+fairly high degree of caution as to how one should judge the 
+Amaranth episode in a vacuum compared to a similar type of 
+episode under different circumstances in the future.
+    The Chairman. We will go to the gentleman from 
+Massachusetts.
+    Mr. Lynch. Thank you, Mr. Chairman. First of all, I want to 
+thank you and the ranking member for having this hearing, and 
+also thank the panelists for helping us with our work.
+    To begin with, I think that we all take the position that 
+the best regulation is self-regulation. As the chairman 
+indicated before, it actually allows us to focus on some other 
+things.
+    Given the size of these hedge funds and the possibility 
+that at least in the currency exchanges, there is a possibility 
+of hedge funds working in concert, not necessarily 
+deliberately, but their impact could be multiplied, and the 
+sort of mercenary strategy, it could be good mercenaries, but 
+it is definitely geared strictly to the investor, and the OPIC 
+nature of these hedge funds, the secretive way in which they 
+operate, it does raise some concerns in a number of areas.
+    The chairman mentioned in his opening remarks the situation 
+with our pension funds, and while the Amaranth work out might 
+have been suitable for some, I am not sure that the pensioners 
+who were affected would come to the same conclusion.
+    I know that Mr. Matthews raised the possibility that it 
+might be good to look at some limits, not necessarily on hedge 
+funds, but on pension funds that would invest in a hedge fund, 
+and maybe put some limits on either a percentage or based on 
+their unfunded liabilities, their exposure. We might do that.
+    The other area I am concerned about, and this goes to the 
+mortgage issue and somewhat the subprime market, but in the 
+area of mortgage backed securities held by hedge funds and what 
+could happen if a hedge fund dumps those securities back into 
+the market, putting downward pressure on those securities, what 
+could happen to the distribution of capital available for 
+housing.
+    That is an essential good in terms of affordable housing, 
+that I am concerned about.
+    The last dimension of this that concerns me is I also wear 
+another hat sort of ancillary to my work on this committee, and 
+that is as the chairman of the Taskforce on Anti-Terrorist 
+Financing. I work a lot with Treasury. I work a lot with FinCen 
+and a number of our counterterrorist organizations.
+    They say that it is very difficult to track and to 
+scrutinize these hedge funds to make sure that the proper anti-
+money laundering and anti-terrorist financing protocols are in 
+place.
+    That concerns me greatly, given the amount of money that is 
+flowing here. I will just let the panelists take a crack at 
+what might we do, with your cooperation, rather than acting 
+upon the hedge fund industry, what can you give us? We would 
+rather have the suggestions come from you as to ways to address 
+these concerns rather than us trying to do it from whole cloth 
+from this side of the table.
+    Mr. Brown?
+    Mr. Brown. I think first of all, you have to understand the 
+international nature of this business. This body cannot even in 
+principle examine the very important issues you raise about 
+terrorist financing through vehicles of this kind because the 
+international business is far greater than the national 
+business, the U.S. domiciled business--
+    Mr. Lynch. I am not talking about just us. We are working 
+with the Egmont Group, which is made up of FIUs from all over 
+the globe, 94 countries. I would not suggest us doing it alone; 
+we would work with our international counterparts.
+    Mr. Brown. Okay, great. I am also a little concerned about 
+the anecdotal evidence on systemic risk that you referred to.
+    My own research, for example, for the most obvious example 
+is the Asia currency crisis in 1997, and the allegation that 
+Mahathir Mohamad, the Prime Minister from Malaysia, made that 
+George Soros had engineered the whole affair for his benefit.
+    I looked at the numbers, and it turned out that the hedge 
+funds actually were very risk adverse during that period and 
+had pulled out of the markets, and in fact, George Soros had 
+lost 10 percent, hemorrhaging 10 percent right through that 
+period.
+    The anecdotal evidence of massive systemic risk, I would 
+argue, is just not there. Yet, a lot of central banks, in 
+particular, the Australian Central Bank, were trying to get 
+actively involved.
+    Mr. Lynch. I appreciate that remark. If you could focus on 
+the question, the pension funds. Two, mortgage backed 
+securities. Three, anti-money laundering protocols that are not 
+in place right now with hedge funds. If you could just address 
+that question.
+    Mr. Brown. I am sorry. The pension funds, I do agree there 
+is an issue there and we have to examine the amount or the at-
+risk status of pension funds with regard to any kind of high-
+risk investment, in particular, hedge funds, and we may have to 
+look at ERISA to do that.
+    On mortgage backed securities, I am less concerned because 
+that is not a huge amount of this business. The hedge funds are 
+only involved in about 4 percent of that business. It is not a 
+big thing.
+    That is about all I have to say.
+    Mr. Hall. If I may.
+    Mr. Lynch. Sure, Mr. Hall.
+    Mr. Hall. In this hearing, we have talked about Amaranth in 
+2007, and long term capital in 1998, two high profile blow up's 
+that were terrible for a lot of investors.
+    We really have not talked at all about the fundamental risk 
+of the stock market. If you look at the 2001 crash of the stock 
+market, and you look at the fact that it was only recently that 
+the S&P actually recovered all the losses over the last 6 
+years, ultimately, it has not made much money in the last 5 or 
+6 years, whereas hedge funds have actually generated positive 
+returns, with much less volatility than the stock market.
+    In terms of investments in hedge funds, if we look at the 
+pension market, which you asked about, no one disagrees, or 
+very few disagree, that pension funds should not be investing 
+in common equities.
+    Unfortunately, I think the reality is--I should not say 
+unfortunately--I think the reality is that common equities in 
+most cases may be more risky than the overall hedge fund 
+market.
+    The Chairman. We are going to have to wrap this up.
+    Mr. Hall. In terms of the housing issue, I will address it 
+quickly. I think it will probably be if a hedge fund blows out, 
+as you point out, of securities, it will be another hedge fund. 
+It has the flexibility to enhance their leverage and buy these 
+assets and provide that shock absorber for any liquidations 
+that will occur.
+    The Chairman. Thank you. Mr. Shays of Connecticut.
+    Mr. Shays. Thank you very much, Mr. Chairman. Again, thank 
+you for holding this hearing, and I thank the ranking member, 
+as well.
+    Long term capital and Amaranth were both from the Fourth 
+Congressional District, one from Greenwich and one from 
+Westport.
+    I wrestle with memories of savings and loans, and I wrestle 
+with memories of when we changed the tax laws, what happened to 
+real estate, and it kind of stared us in the face, and we all 
+kind of knew it was going to happen. I think all of us are just 
+trying to look for assurances that you will not just see 
+another day like that.
+    What I wrestle with is long term capital basically was 
+dealt with with a proactive--as you point out, Mr. Matthews--
+effort on the part of the Fed.
+    How did Amaranth resolve itself, Mr. Matthews? What took 
+place and why would I feel comfortable that would happen again? 
+In other words, that people would buy a lesser position? What 
+happened?
+    Mr. Matthews. The prime broker for Amaranth, J.P. Morgan, 
+the prime creditor, that had the most at stake, took over the 
+natural gas portfolio and re-sold it. They made a low ball bid 
+that Amaranth was forced to take because Amaranth needed to 
+liquidate and pay back other creditors.
+    J.P. Morgan turned around and re-sold the same positions to 
+other hedge funds. Those other hedge funds provided the 
+liquidity that caused it to not spread.
+    Mr. Shays. The question I have, and I would ask all of you, 
+is when that happens again, and it will happen again because 
+there will be foolish mistakes done by foolish people or very 
+smart people who do foolish mistakes, which model is most 
+likely to occur, the long capital or Amaranth? Tell me what 
+model is likely to occur in the future.
+    Mr. Corrigan. I will take a stab at that. The answer is we 
+do not know. I think one can argue about probabilities, but we 
+do not know.
+    As I said before, if you look at Amaranth and you contrast 
+it with long term capital, the world of long term capital does 
+not exist any more, in terms of the way that fund was run and 
+the mesmerizing effect--
+    Mr. Shays. Then let me ask you this. What is the likelihood 
+then, instead of one company going under, and evidently, I 
+guess they both were from Greenwich, not Westport, but what is 
+the likelihood that instead of one, you would have three, four, 
+or five?
+    What would be the kind of circumstance that would create it 
+happening for more than one company?
+    Mr. Corrigan. Let's look at the characteristics of Amaranth 
+for a minute in terms of why that worked out as well as it did.
+    There are a couple of things that I think are very 
+important. One, the instruments that were used to construct 
+those natural gas trades, by today's standards, were relatively 
+simple and straightforward.
+    Mr. Shays. I need you to give me as short an answer as you 
+can, because I have another question.
+    Mr. Corrigan. The short answer is I cannot tell you the 
+probability--low, but not zero.
+    Mr. Shays. Let me ask you this. Are any of you concerned 
+that you could have three or four companies go down at the same 
+time and then would we still see the Amaranth model working out 
+or would the Fed or someone else have to step in, if you had 
+two or three companies go down at once?
+    Mr. Brown. I think the important thing you have to note is 
+the incredible diversity of the fund business. I think the 
+industry is not doing itself a service in really explaining 
+this to the world, and the fact that we have so focused on 
+Amaranth and long term capital management and assume this is 
+the whole industry--
+    Mr. Shays. One answer is just diversity?
+    Mr. Brown. Diversity. Incredible diversity of this business 
+is a great protection, I think.
+    Mr. Shays. Can anyone else give another reason or diversity 
+would be the biggest?
+    Mr. Matthews. Diversity and size of capital. As I point out 
+in my testimony, there are three hedge funds in the United 
+States alone with $30 billion or more in assets. That did not 
+exist in Amaranth and long term capital's day. It just did not 
+exist.
+    Mr. Shays. One of my friends owns a hedge fund and they had 
+three partners. They bought out one because one partner wanted 
+to keep expanding and they were happy making millions and 
+millions of dollars, but they did not want to keep adding 
+because they did not think they could service their clients as 
+well.
+    I frankly thought it was remarkable. Obviously, he makes 
+about $10 million a year, each of them do. It is not like they 
+are suffering.
+    They had a chance of making more, but they honestly could 
+not service their customers as well the larger they became.
+    Why is it the larger you become sometimes you cannot get as 
+good a return? I do not understand that.
+    Mr. Hall. If I may, the answer to that is an important part 
+of the distinction between the classic mutual fund long only 
+business and hedge funds. Hedge funds, because they have an 
+incentive fee, they look at the opportunity set and they have 
+no interest in increasing assets under management unless it is 
+in fact going to yield an appropriate marginal return. When 
+that marginal return decreases, they have no incentive.
+    Hedge funds for years and years have been giving back 
+money, closing, not taking any new money. If you contrast that 
+to the long only business, frankly, they are asset gatherers, 
+in my view, and they pretty much take as much money as they can 
+because as they take new money, it is greater fees, but not 
+necessarily greater marginal opportunities to invest in.
+    Mr. Brown. I can address that issue as well. The evidence 
+does show that there is some economies of scale that hedge 
+funds face. Interestingly enough, if you look at funds of 
+funds, there is actually economies of scale, because of the 
+important due diligence function that they serve in vetting out 
+the funds under their management, and the funds that have the 
+greatest amount of assets under management are the ones that 
+can afford to do the greatest amount of due diligence on behalf 
+of the institutional clients they serve.
+    Mr. Shays. Thank you. Thank you, Mr. Chairman.
+    The Chairman. The gentleman from Georgia.
+    Mr. Scott. Thank you, Mr. Chairman. This is a fascinating 
+hearing on the evolving topic of hedge funds.
+    My understanding of hedge funds, I want to make sure I am 
+right on this, and if I am not, you all correct me, is that 
+they are massive unregulated investment pools that are 
+typically invested in only by institutional investors or 
+wealthy individuals, that try to hedge the value of assets it 
+holds and provides returns to investors that are not correlated 
+to those of traditional stock or bond markets.
+    Is that a fairly good assessment there?
+    Mr. Matthews. My only correction would be they are not 
+necessarily all massive. It is like the retail business. You 
+have Wal-Mart, Target, and Home Depot, but you also have a lot 
+of local mom and pop's, like myself.
+    Mr. Scott. I am very glad that you said that, because that 
+leads into my question in terms of the retail. As many of the 
+particularly retail industry giants move closer to departure 
+from this traditional form of long-standing traditional 
+industry practices, it has somewhat created an interest and an 
+apprehension for what is on the horizon for some of these 
+companies.
+    Let me give an example of what I am talking about. If we 
+take Sears, for example, Sears is now being classified as more 
+of a hedge fund over its traditional role. Granted, Mr. 
+Lambert, who was the chairman of Sears, has done a great job 
+for the company as far as investments and the like.
+    Are you worried that more and more of our Nation's stores, 
+especially retailers, will turn more to hedge funds and 
+unrelated investment strategies to survive, and do you believe 
+that more and more corporations whose sales are hurting will 
+move in this same direction?
+    Do you believe we have a worrisome trend here? This is kind 
+of a lead in to that. Is there a concern that the more 
+unpredictable ventures like hedge funds may lead to yet other 
+problematic issues in corporations? Should they stick to what 
+they were formed to do and work on inventive and further 
+creative ways of bringing in the customers instead of focusing 
+more on unrelated investments like hedge funds?
+    Are they counting more primarily on these hedge fund 
+investments over store performance, as sales decline, stores 
+lose customers, and those customers are finding other places 
+that address their needs or the prices.
+    This way of doing business is good for shareholders, but 
+what about retailers? Do you believe this will further become 
+the ongoing trend, retailers taking their focus off the classic 
+focus of same store growth, market share, and store spending, 
+and substantial losses in the long run?
+    What I am asking is the impact of this trend on some of our 
+retail giants, like Sears.
+    Mr. Brody or Mr. Chanos or Mr. Hall?
+    Mr. Brody. I will give it a quick try. The rationalization 
+of businesses really has little to do with hedge funds. What we 
+see over time is that some businesses are successful and some 
+businesses are not successful. Some retailers are successful 
+and some retailers are not successful.
+    When a retailer has ``X'' number of stores and a bunch of 
+them are not successful, if the retailer is to survive, it 
+needs to rationalize itself, get out of some stores, and change 
+its merchandising. We have seen that in the retailing business 
+and we have seen that in many, many industries in the United 
+States.
+    I guess what I would say is that sound management is needed 
+for all businesses and it has little to do with hedge funds.
+    Mr. Scott. Do you believe that down the road, some sort of 
+reform will need to take place to address hedge funds with 
+respect to their size and scope?
+    Mr. Brody. Let me just make a comment on size. Many of the 
+top 10 hedge funds by assets are terrific performers, and I 
+think it just depends upon hedge fund by hedge fund, their 
+management, the activities that they invest in, and each, in my 
+view, in our capital system, should be free to make the 
+economic choices that they do.
+    Mr. Scott. Am I being over cautious or overreacting in my 
+concern that a lack of transparency in the current hedge fund 
+market could lead to volatility down the road?
+    Am I seeing something that is not there? Is there anything 
+to worry about with this move towards hedge funds?
+    Mr. Brody. I think there are always plenty of things to 
+worry about, not just with hedge funds, but probably everything 
+else in life.
+    Mr. Scott. Is there volatility?
+    Mr. Brody. The hedge fund world actually has less 
+volatility in the aggregate than the stock market world does, 
+and Mr. Corrigan went through a very useful notion of 
+transparency and transparency to whom, to the regulators, to 
+the prime brokers, to those who are lending you money, to the 
+institutions that are investing in you, and to the general 
+public.
+    I think the major point is that where the transparency is 
+needed, it exists.
+    Mr. Scott. Was it hedge funds that--my final question, my 
+mind is foggy. Did hedge funds play a role in the situation 
+regarding Fannie Mae?
+    Mr. Brody. No.
+    The Chairman. If the gentleman will yield to me, I think 
+Fannie Mae got in trouble over their own accounting for 
+derivatives. It was their own derivative investments and the 
+dispute over the accounting standard that was the last straw.
+    The gentleman from Illinois.
+    Mr. Corrigan. Mr. Chairman, can I just see if I can help a 
+little bit.
+    The Chairman. Yes.
+    Mr. Corrigan. I am one of the world's great worriers. I 
+worry about those things, too. If you look at the size of hedge 
+funds, the threat of retailers going amuck via financial 
+activities, those risks really are very, very small. I 
+appreciate your concern. There are more important things I 
+think in this area to worry about than those.
+    The Chairman. The gentleman from Illinois.
+    Mr. Roskam. Thank you, Mr. Chairman.
+    I just wanted to follow up briefly on what Mr. Shays was 
+bringing up and to put it in a context. I apologize. I went out 
+for three constituent meetings in the hallway that started with 
+your testimony, Mr. Corrigan, and I came in, Mr. Brown, as you 
+were clearing your throat at the end basically. I missed all 
+your good stuff.
+    That being said, could you comment--I will just open it up 
+for anybody who has anything interesting and insightful to 
+say--could you comment on the characterization of long term 
+capital management, the environment where the Fed obviously 
+came in and intervened, the Amaranth situation--which I think 
+the best phrase today, by the way, was that it worked itself 
+out. I just thought that was a brilliant nice use of language, 
+that it sort of worked itself out.
+    What is different today in terms of the sophistication in 
+the marketplace so that we do not have to have that sort of 
+intervention that we saw in the late 1990's?
+    I think, Mr. Matthews, you mentioned diversification, and 
+then you also referenced the size of several funds.
+    Could you go further on that? I did not follow what you 
+meant by that.
+    Mr. Matthews. It is those two issues, diversification and 
+size. Back when long term capital blew up, I think they lost 
+$4.5 billion. I think that was the number.
+    There were no other $4.5 billion funds around that either 
+could or had the ability to or wanted to step in and help. They 
+could not do it. You needed the Fed to step in.
+    Today, we have three funds alone that have $30 billion each 
+in the United States. There is one in London that has $60 
+billion, I believe.
+    There is tons of capital around. They do a lot of different 
+things. They have branched into all kinds and all different 
+classes of financial instruments and commodities and markets 
+around the world.
+    It is simply not at all the kind of environment that long 
+term capital was. They were the biggest and there was nobody 
+out there who could rescue them.
+    Mr. Roskam. The old notion of being too big to fail is 
+really the marketplace has matured since then, and now there 
+are others who would be big enough to assume that market share?
+    Mr. Matthews. It has. There is an issue that gets back to 
+Mr. Scott's question about are they not too big or can they get 
+too big.
+    There is a very Darwinian factor to our business model. The 
+person who runs the management firm gets 20 percent of the 
+profits. The investors know this. They are paying that money. 
+If they are not getting a return on that investment, they are 
+out of there very quickly.
+    A fund cannot keep growing forever just for the heck of it. 
+The investors have to be satisfied or the money will go 
+elsewhere. It is a very efficient marketplace.
+    Mr. Roskam. Could someone comment on the failure of hedge 
+funds? I assume it is the natural thing, right? Some flourish. 
+Some diminish. They do well and they stumble, like normal, and 
+we ought not overreact to hedge fund failures?
+    Mr. Hall. One of the things that I think the President's 
+Working Group points out is that there is responsibility on the 
+part of investors themselves.
+    I think there was clearly a failure in the long term 
+capital situation on the part of the counterparties, but it was 
+not a system wide failure. There is clearly long term capital, 
+I think, arrangements that were extended credit that other 
+people did not get, so it was not a systemwide problem.
+    The Amaranth problem is strictly investors losing money. I 
+do not think there was any threat to the system. Ultimately, 
+due diligence is important and investors have to focus on due 
+diligence, and keep in mind that Amaranth advertised and 
+achieved extraordinarily high returns in the years subsequent 
+to that.
+    You get higher returns from taking high risk. Investors 
+knew that going in, I would assume. If they did not know, then 
+we really need to focus on the due diligence aspect.
+    It is really going to be difficult to regulate the due 
+diligence process, and the MFA is doing the best it can with 
+creating standardized due diligence forms and processes.
+    Mr. Roskam. Mr. Chanos?
+    Mr. Chanos. I would like to point out that hedge funds 
+actually are very fragile vehicles. I would like to amplify 
+what Mr. Matthews said; 10 to 20 percent of all hedge funds go 
+out of business every year. It is a very large number. They do 
+not because of stupendous losses, but for the very Darwinian 
+thing that he mentioned, investors are constantly looking for 
+the best return in this area, even though the evidence is 
+exactly the opposite, that returns have been relatively high 
+with less risk in aggregate.
+    However, investors are shopping for the best returns in a 
+very high fee world and tend to move very quickly out of 
+something that is not performing, and therefore, keeping the 
+market disciplined in that way.
+    Mr. Roskam. Thank you.
+    Mr. Brody. I think an important thing is to make sure that 
+the investors get a fair shake. I think that is what 
+registration does, it surely does not guarantee investors that 
+they cannot lose their money.
+    Mr. Corrigan. Just very quickly on long term capital. We 
+should not forget the circumstances in which long term capital 
+happened. Long term capital was horribly mismanaged, the fact 
+of the matter is that coming off the Asian crisis and the 
+Russian crisis, that combination of circumstances in 1998 made 
+long term capital a hell of a lot harder to deal with than it 
+would have been had it happened in a more tranquil environment.
+    The Chairman. We should make sure that there are no hedge 
+funds around when we have a crisis?
+    [Laughter]
+    Mr. Corrigan. We are not going to be that lucky.
+    The Chairman. The gentleman from Texas.
+    Mr. Green. Thank you, Mr. Chairman. I thank the witnesses 
+for your testimony. Our friends, it seems to me that every 
+failsafe system is failsafe until it fails to be safe. And 
+before long-term capital, there was no long-term capital. And 
+my suspicion is that there is something else out there that we 
+cannot prognosticate currently that may manifest itself, and 
+then that will be the pariah paradigm that we'll have hearings 
+about and talk about.
+    So, it seems to me that we do have to concern ourselves 
+with the taxpayers in this paradigm, because the taxpayers are 
+at the very foundation of the payout, because we now have the 
+commingling of sophisticated and unsophisticated capital, and 
+that occurs through the pension funds.
+    The sophisticated investor, as Mr. Golden said, is one that 
+you may have little sympathy for. But I have a great deal of 
+sympathy for the pension fund that happens to have pensioners 
+who are unsophisticated investors who happen to be a part of 
+this system that necessitates sophistication.
+    And I might add also that sophisticated investors make some 
+very unsophisticated decisions, and I think we have to be 
+mindful of this. So, if the--just to take us through it, if the 
+sophisticated investor puts his money in the hedge fund, that's 
+great. The pension is in the hedge fund. At some point, the 
+pension fails. And at this point, the person who receives his 
+benefits from the pension then relies on the taxpayer, perhaps 
+through some sort of social program.
+    So in the final analysis, the taxpayers have a vested 
+interest in what happens with funds that are supposed to be 
+entirely supported by sophisticated investors. So the question 
+for me becomes this, that I'd like to have each of you address. 
+Do you agree, each of you, that something must be done about 
+the commingling of sophisticated and unsophisticated funds? And 
+I'll start with Mr. Brown.
+    Mr. Brown. Thank you.
+    Mr. Green. If you could start with a yes or a no. And I say 
+this only because sometimes when folks finish, I don't know 
+whether they've said yes or no.
+    Mr. Brown. I think there is an issue, and I think that 
+there are a lot of hedge fund salespeople out there who will 
+tell you about S&P returns and Treasury bill risk and that you 
+need to be sophisticated in terms of your ability to understand 
+the markets, although--
+    Mr. Green. Mr. Brown, if I may, would you then say yes is 
+the answer, that there should be something done about this 
+commingling of sophisticated and unsophisticated funds?
+    Mr. Brown. I'm concerned about it, but I'm not sure what to 
+do.
+    Mr. Green. Okay. In a world where something can be done, 
+would you do something?
+    Mr. Brown. I think I probably would.
+    Mr. Green. Okay. Mr. Golden?
+    Mr. Golden. I'm not entirely sure I understand the 
+question.
+    Mr. Green. Well, it gets to the pensions. The pensions. The 
+guy who happens to be a pipefitter who happens to have his 
+pension fund invested in the hedge fund, he, by definition, may 
+not be a sophisticated investor. You could have a Ph.D. and not 
+be a sophisticated investor. So, he's not a sophisticated 
+investor. What about him? What about the fact that the taxpayer 
+eventually picks up the tab if that pension fund loses money 
+and he then has to have some sort of social benefit that 
+taxpayers cover?
+    Mr. Golden. I think the answer is no. I think it's 
+definitely no at the level of the hedge fund. I think we have 
+concerns about the safety of pension funds, and we should be 
+focusing attention on those who manage the pension funds, and 
+seeing whether or not they are operating in a prudent fashion, 
+using proper elements of diversification.
+    Mr. Green. But your answer is that we should not do 
+anything with reference to the commingling of the sophisticated 
+and unsophisticated money?
+    Mr. Golden. I guess I'm not sure that the pension fund 
+money is unsophisticated, because there is a fiduciary involved 
+at that point.
+    Mr. Green. Well, the guy who manages the pension fund, 
+we're going to assume that he's sophisticated. But the guy who 
+benefits, the person who receives the pension, I think we all 
+agree that the overwhelming majority of them would not be 
+classified as sophisticated investors, correct?
+    Mr. Golden. Yes.
+    Mr. Green. All right. So they're the people who lose. And 
+then the taxpayers pick up the tab. Should we do something to 
+avoid that type of occurrence? And your position is you'd do it 
+with the manager as opposed to with the fund itself?
+    Mr. Golden. Right. Right. I agree with that. The manager of 
+the San Diego pension fund that invested in Amaranth made a bad 
+decision. They put too much money in Amaranth. Something people 
+should be asking--the pipefitter should be asking the pension 
+fund manager for San Diego why did you do that? And I--
+    Mr. Green. I agree with you, sir, that the pipefitter 
+should pose this question, but the problem becomes the 
+pipefitter still needs the social services. He has a family; he 
+has children, and they need the social services that we, the 
+taxpayers, seem to provide. So we still get back to the 
+taxpayer having a vested interest in what happens to the 
+pipefitter who had a manager who made an unsophisticated 
+decision who is a sophisticated investor.
+    Mr. Golden. So--and I understand completely, and I think 
+the regulation should--the concern you should have is who is 
+running these funds? If they're making bad decisions regularly, 
+that's a real problem. The hedge fund is just doing its job, 
+and I don't know if you can regulate that.
+    Mr. Green. Well, tell me this. How would you manage the 
+managers such that we can do exactly what you're talking about?
+    Mr. Golden. It's a great question. Off the top of my head, 
+I don't know.
+    Mr. Green. Does anybody have an answer? Yes, sir?
+    Mr. Chanos. Aren't we really talking about an ERISA issue 
+here?
+    Mr. Green. Say again?
+    Mr. Chanos. Aren't we really talking about an ERISA issue 
+here, which is the way in which pension funds are managed and 
+how those pension funds are advised? For example, self-directed 
+pension plans and 401(k)s, which we be more direct to what 
+you're saying, aren't investing in hedge funds.
+    So really, that pipefitter is getting advice, or should be 
+under ERISA, getting fiduciary responsible advice from an 
+advisor, and that's always the case, for example, in our fund. 
+We never talk to the underlying investor directly. There's 
+always an advisor. That is where the nexus of this concern 
+should be, and I think it is a really good question. But I 
+think we're looking at it from the wrong side of the telescope.
+    Mr. Green. Do you really think that the majority of people 
+who are pension investors, they have money in pension plans, do 
+you really think that the majority of these persons are 
+receiving the level of advice that they need in terms of what a 
+sophisticated investor is and how that impacts their 
+investments?
+    Mr. Chanos. Well, if they're in a defined benefit plan, 
+generally, yes, they are. I don't know of any pension, large 
+pension funds that have failed due to one hedge fund 
+investment.
+    Mr. Green. But we're not talking about the ones that have. 
+We're looking to the future. Eventually we'll have that 
+discussion. Thank you, Mr. Chairman.
+    The Chairman. And I would also note, one of our concerns is 
+the public pension funds, so that you don't have the ERISA 
+rules, and that is something we'll be looking at. Mr. Campbell?
+    Mr. Campbell. Thank you, Mr. Chairman. Mr. Matthews and Dr. 
+Brown, both of you in your presentations talked about leverage 
+in hedge funds, and I don't mean the leverage in the 
+investments, Mr. Corrigan, but the actual leverage in the fund 
+investment itself. Is the degree and amount of that leverage 
+transparent to the investors?
+    Mr. Brown. To the informed investor, there's a whole 
+industry out there for people to investigate and do due 
+diligence. And if I were investing--I'm not a qualified 
+investor--if I were investing a substantial portion of my 
+wealth, I would certainly investigate. And the investor has 
+every right to demand any kind of information they need to make 
+an informed decision.
+    Mr. Campbell. So I guess my question is that's not 
+information that is readily available to an investor so an 
+investor could be, I think Mr. Matthews had talked about a 
+three to one leverage fund.
+    Mr. Brown. Right.
+    Mr. Campbell. So someone investing in that might not know--
+a sophisticated investor, I realize, or pension fund?
+    Mr. Brown. My evidence is that sophisticated investors, as 
+indicated by people who grant the leverage, the counterparties, 
+they know and they have access to that information already, and 
+it's evidenced by the fact that if you look at the ADV filings, 
+and I've looked at 2,270 of them, that the sophisticated 
+investors lending money already knew of the operational risk 
+characteristics that were revealed in those forms. So they've 
+done their homework, and the people who are lending money, and 
+that's really the systemic risk concern that we have is what 
+effect this is going to have on the financial system as a 
+whole.
+    Mr. Campbell. Does anyone else want to comment? I mean, 
+just from my perspective, obviously, we're talking about 
+multiplying the risk--
+    Mr. Brown. Right.
+    Mr. Campbell.--dramatically when you take what hedge funds 
+invest in and add to that degrees of leverage. Yes, Mr. Brody?
+    Mr. Brody. There's a wide range of sophistication among 
+investors, and some will have a very good idea of what they're 
+getting into and what the leverage is, and some will not. My 
+view on the proper kind of registration is that a principles-
+based registration would require the disclosure of the 
+important items to all investors, and that kind of disclosure 
+then would benefit the unsophisticated--
+    Mr. Campbell. Do any of you disagree with that?
+    Mr. Hall. Well, I'd put that in perspective. I think 
+``leverage'' is too simple a term to really have a whole lot of 
+meaning. If you leverage Treasury bills or if you leverage 
+Internet stocks, you have--or Internet stocks without leverage 
+can be significantly more risky. So I'd be concerned about 
+providing rules-based disclosure as opposed to principle-based 
+regulation that makes people feel comfortable but they're 
+really not.
+    Mr. Campbell. Do any of you believe there's a proprietary 
+issue there? I mean, part of the reasons that hedge funds don't 
+disclose, as you said, is because they're using oftentimes 
+proprietary methods. Yes, Mr. Chanos.
+    Mr. Chanos. I think there's a big proprietary issue at work 
+here, and we need to make the distinction between disclosure of 
+leverage and positions to our investors and our counterparties 
+and our custodians, and disclosure of positions to the general 
+public.
+    Mr. Campbell. Right.
+    Mr. Chanos. And I think that's an important distinction, 
+and I think that the committee understands, but I want to 
+emphasize it. But quite frankly, and I know a number of people 
+in the written testimony have touched upon this, I run a fund 
+in addition to being an industry person, and our investors all 
+have on-site inspection ability, and they take advantage of it.
+    They routinely come in, look at our books, look at our 
+positions, query us over and over and over again. Talk to our 
+counterparties, talk to our prime brokers. This type of due 
+diligence is done all the time and increasingly so both from 
+high net worth individuals, public and private pension funds. 
+These people are doing their work. When we have these blow-ups, 
+they are very much the exception to the rule.
+    Mr. Campbell. Okay. The second question is about accredited 
+investor. Do any of you, and anybody, you can answer this. 
+Should that be changed? Is it right? Do you support the SEC's 
+proposal to change the threshold? Anybody want to take that?
+    Mr. Hall. Well, I would support it. On behalf of the MFA, 
+we would support it.
+    Mr. Campbell. You support the SEC's proposal?
+    Mr. Hall. Yes.
+    Mr. Campbell. Anybody else? I mean, do we have the right 
+definition of accredited investor, or should it be changed?
+    Mr. Corrigan. I think the definition is as good as it's 
+going to get. There's no way to perfectly define these things.
+    Mr. Campbell. And the threshold is okay?
+    Mr. Corrigan. The threshold proposed by the SEC is a big 
+improvement. I actually might go a little bit further, but 
+that's another story.
+    Mr. Brown. As one of the members said, it's not an issue of 
+intelligence about such matters, it's about the degree to which 
+you can afford any losses that you may incur. And that's the 
+reason for that standard.
+    Mr. Campbell. Okay. And then one last question.
+    Mr. Golden. Can I just add?
+    Mr. Campbell. Sorry.
+    Mr. Golden. I'd like to see the threshold raised as high as 
+is politically feasible, at least as high as the SEC's.
+    Mr. Campbell. And one last little question for Mr. Chanos. 
+We talked about this fortress company that went public and you 
+said it was the management of the hedge fund. I'm just curious. 
+People access the public markets for capital. Why would a 
+manager of a hedge fund require capital?
+    Mr. Chanos. Well, I think that it's not only for requiring 
+capital but to possibly use their stock as currency for 
+possible acquisitions, or to incentivize their senior and mid-
+level people perhaps through stock options. There are all kinds 
+of reasons why companies go public that don't necessarily need 
+the capital, so I think that's sort of a broader issue, perhaps 
+beyond the purview of this panel.
+    Mr. Campbell. All right. Thank you. I yield back, Mr. 
+Chairman.
+    The Chairman. Thank you. I did just want to add one thing 
+to Dr. Brown and the very useful and interesting questions Mr. 
+Campbell is asking about what people know. Did I read you 
+correctly as basically saying that even if you tell them, they 
+don't pay any attention, they just chase returns? I mean, is 
+that an accurate statement?
+    Mr. Brown. That's an accurate statement.
+    The Chairman. So that you tell them that, but they don't--
+even the sophisticated ones, don't factor into account and 
+just, as you say, chase returns?
+    Mr. Brown. That's what the evidence seems to suggest. 
+Either they don't know the information and they can't have 
+access to it, which I find rather unusual, or they do have 
+access to it and it's immaterial.
+    The Chairman. The gentleman from Missouri.
+    Mr. Cleaver. Thank you, Mr. Chairman. I just have one 
+question for the entire panel. Mr. Chanos, you earlier brought 
+up Warren Buffett and his hedge fund history. He's fond of 
+using the adage in describing hedge funds if a man with money 
+proposes a deal to a man with experience, the man with money 
+ends up with the experience and the man with the experience 
+ends up with his money.
+    That's kind of the theme of what's been going on, and Mr. 
+Buffett has become very critical of the hedge fund fee 
+arrangements, as you may or may not know, and he calls the 
+managers the 2 and 20 crowd. And I frankly think that he raises 
+some very pertinent issues. How would you characterize the 
+fairness and the accuracy of Mr. Buffett's comments?
+    Mr. Chanos. Well, I don't want to put words in Mr. 
+Buffett's mouth, but I--
+    Mr. Cleaver. No, I'd like to give an exact quote. Hold on 
+just a second. ``It is a lopsided system whereby 2 percent of 
+your principal is paid each year to the manager even if he 
+accomplishes nothing, or for that matter, loses you a bundle 
+and additionally, 20 percent of your profit is paid to him if 
+he succeeds, even if his success is due simply to a rising 
+tide.''
+    Mr. Chanos. All right. Well, I think those, while factually 
+accurate, and he's entitled to his opinion, I would point out 
+Mr. Buffett ran a hedge fund for 20 years, just about.
+    The Chairman. Well, it takes one to know one.
+    [Laughter]
+    Mr. Chanos. So, again, perhaps he's speaking from personal 
+experience, I don't know. But every hedge fund is different. 
+Every business is different. Everything should be judged on the 
+merits of its management team, its performance, and its fee 
+structure, and to make blanket statements about every single 
+hedge fund, something like that seems to me to be a bit strong. 
+It's like saying, well, all of corporate America is not 
+performing well for its shareholders, or every corporate 
+executive is making too much money.
+    I mean, these are individual cases, and I think that while 
+there's plenty of examples of hedge funds that aren't probably 
+doing a good job and are charging fees that are too high, as 
+one of my panelists said here that this market is pretty 
+Darwinian, and it weeds out those people pretty quickly. If 
+you're not performing, you don't tend to keep those assets very 
+long.
+    Mr. Cleaver. So the 2 and 20 crowd is actually a small 
+crowd?
+    Mr. Chanos. It's not a small crowd. In fact, it's a growing 
+crowd.
+    Mr. Cleaver. Or is it the in crowd?
+    Mr. Chanos. But there's a reason it's growing, Mr. Cleaver, 
+in that there is a reason. No one here has asked the question, 
+why are we having this--because of the growth of the industry, 
+obviously something must be happening here where relatively 
+sophisticated investors want to put more money with these 
+managers. It's not because simply they're hanging out a shingle 
+in front of their house. There is good performance being done 
+with less risk. That's why it's attractive in the aggregate. 
+But individually and specifically, there will always be, as one 
+of our members said, the fools and the frauds are going to make 
+things difficult for most of the good actors.
+    Mr. Hall. If I may, it's important in my view, a semantic 
+issue about the 2 percent of the 2 and 20 is on capital. And 
+that doesn't, if you look at--if someone manages $100 million 
+and takes a smaller fee, but 90 percent of their fund is 
+coincident with the index, then they're really--their marginal 
+benefit is only on a small portion of that $100 million, $100 
+billion.
+    So a hedge fund may manage a smaller amount of capital and 
+charge a higher fee on a smaller amount of capital, then they 
+also manage leverage, they manage short positions, they manage 
+hedges. So, you really have to look at the services that one is 
+providing for that fee, and percentage of fee on capital is not 
+necessarily what the manager is ultimately getting compensated 
+for.
+    Mr. Brown. I need to make one clarification point on the 2 
+and 20 issue. You only earn the 20 once you've won back any 
+losses that you've incurred in the past. It's called a high 
+water mark provision.
+    It's that high water mark provision that really enforces 
+the Darwinian aspect of it, and, in fact, hedge funds are like 
+radioactive substances. They have a half-life of 2\1/2\ years, 
+typically, because, you know, you lose, you lose, you die in 
+this world very quickly because you just aren't earning any 
+returns.
+    Mr. Cleaver. I yield back my time.
+    The Chairman. Thank you. Let me just ask two quick 
+questions. One, we will be talking next time about--we were 
+talking about how these things should run and do run in 
+general. There are always aberrations with anything. The 
+insider trading issue is one of the issues that we will be 
+looking at next time, the SEC has been involved in.
+    One of the questions is, record retention for entities that 
+are otherwise unregulated. Is that an issue? Should we look at 
+that? That is, over and above everything else, there is an 
+argument for record retention to be able to help law 
+enforcement for the aberrant cases. I'd be interested in any 
+comments.
+    Would there be objections to some kind of record retention 
+requirement that for those--and I realize a lot of them already 
+have them, because they're otherwise regulated. But would there 
+be any objection to a generalized sort of record retention 
+requirement for entities that otherwise didn't have them? Mr. 
+Chanos?
+    Mr. Chanos. I don't think our members would have--we have 
+not canvassed them, but I don't think our members would have a 
+problem with that.
+    The Chairman. Mr. Hall?
+    Mr. Hall. I think we would have no objection.
+    The Chairman. All right. I'm quitting while I'm ahead. The 
+next question is one of the ones that some of the staff have 
+suggested, and that is on the counterparty issue, the--who's in 
+charge of the aggregates? I mean, obviously, you have each 
+individual counterparty, but is anybody looking at the 
+aggregate counterparty responsibility, and is that something 
+that somebody should be looking at? Mr. Corrigan?
+    Mr. Corrigan. That--the short answer to that is no, 
+because--
+    The Chairman. Nobody's looking at it or nobody should look 
+at it?
+    Mr. Corrigan. Well, we should look at it, and we are making 
+efforts through the regulatory process to better look at it 
+through the regulated institutions, yes. But it's not easy.
+    The Chairman. Again, would there be objection if there was 
+a way to do that that did not impinge on proprietary concerns?
+    Mr. Brown. I would agree with that.
+    The Chairman. Mr. Chanos? Yes?
+    Mr. Chanos. Let me just point out. We could look across the 
+pond to our financial cousins in the United Kingdom who have a 
+very interesting process through their FSA. Their FSA, it's my 
+understanding, occasionally canvasses all of its major prime 
+brokers and then canvasses them separately in relation to their 
+specific hedge fund exposure and looks for cross--
+    The Chairman. So that would be a good thing to do?
+    Mr. Chanos. I think it would be--
+    The Chairman. Well, good. If the FSA is-- Mr. Corrigan?
+    Mr. Corrigan.--here, too, right now.
+    The Chairman. What's that, Mr. Corrigan?
+    Mr. Corrigan. We do that right now here.
+    The Chairman. Well, we might want to improve on that. These 
+days if the FSA is doing it, one of the great passionate love 
+affairs in the world today is between the American financial 
+community and the FSA, except where it comes to executive 
+compensation.
+    I understand no love affair is perfect, and the lover may 
+have a blemish. And in fact, McCarthy was here the other day 
+and said, yes, he is enjoying being the flavor of the month 
+through the FSA. So both of those are areas I think we would 
+pursue.
+    If you'll indulge us, the gentleman from Louisiana had one 
+last question.
+    Mr. Baker. I thank you, Mr. Chairman. Mr. Corrigan, I went 
+back and looked at the written statement relative to Amaranth, 
+and what I drew from your comments was had Amaranth occurred in 
+an illiquid market, or where there was a crowded trade going 
+on, the unwinding of it all may have been less pretty.
+    Mr. Corrigan. That's correct.
+    Mr. Baker. And so the cautionary tale was, although we 
+escaped it, let's not assume our system is functioning exactly 
+as we would like to that end. I just wanted to do a quick wrap-
+up of sort of the elements I've drawn from this. Limitation on 
+who gets in needs to be reviewed whether it's the individual's 
+net worth standard, or whether it's pension fund management 
+capability. And I'm adding one to the list which I don't think 
+I've heard, and that is limitations more restrained on the fund 
+of funds, the $25,000 entry fee into that, I think, is highly 
+inappropriate in today's world.
+    Then establishing a benchmark of best practices, not only 
+for the private investment company side, but--and I'm asking 
+here--but shouldn't we do that as well on the counterparty side 
+with the broker-dealer community, financials, insurance, 
+whoever is playing with these guys needs to be required. And 
+then last would be some sort of formal and/or informal 
+exchange. For example, I'm not clear today, if I'm the 
+counterparty and I see something that I think is ill-advised, 
+when am I obligated to notify my regulator as to the hedge fund 
+conduct, not my conduct, which I think is a lower standard of 
+responsibility?
+    If we were to address those issues, do you feel that is an 
+appropriate litany of steps to take in light of the relatively 
+low systemic risk potential we think is likely to be in the 
+near term?
+    Mr. Corrigan. I think the list is approximately right, and 
+so long as we do it in a way that honors this more principles 
+based as opposed to checking boxes approach, I think that's 
+right.
+    Mr. Baker. Thank you. Anybody want to comment? Mr. Hall?
+    Mr. Hall. I would agree with that.
+    Mr. Baker. Great. Thank you very much, Mr. Chairman.
+    The Chairman. I thank you all. This is very useful in 
+advancing our understanding, and the hearing is adjourned.
+    [Whereupon, at 12:43 p.m., the hearing was adjourned.]
+
+
+                            A P P E N D I X
+
+
+
+                             March 13, 2007
+
+
+[GRAPHIC] [TIFF OMITTED] T5405.001
+
+[GRAPHIC] [TIFF OMITTED] T5405.002
+
+[GRAPHIC] [TIFF OMITTED] T5405.003
+
+[GRAPHIC] [TIFF OMITTED] T5405.004
+
+[GRAPHIC] [TIFF OMITTED] T5405.005
+
+[GRAPHIC] [TIFF OMITTED] T5405.006
+
+[GRAPHIC] [TIFF OMITTED] T5405.007
+
+[GRAPHIC] [TIFF OMITTED] T5405.008
+
+[GRAPHIC] [TIFF OMITTED] T5405.009
+
+[GRAPHIC] [TIFF OMITTED] T5405.010
+
+[GRAPHIC] [TIFF OMITTED] T5405.011
+
+[GRAPHIC] [TIFF OMITTED] T5405.012
+
+[GRAPHIC] [TIFF OMITTED] T5405.013
+
+[GRAPHIC] [TIFF OMITTED] T5405.014
+
+[GRAPHIC] [TIFF OMITTED] T5405.015
+
+[GRAPHIC] [TIFF OMITTED] T5405.016
+
+[GRAPHIC] [TIFF OMITTED] T5405.017
+
+[GRAPHIC] [TIFF OMITTED] T5405.018
+
+[GRAPHIC] [TIFF OMITTED] T5405.019
+
+[GRAPHIC] [TIFF OMITTED] T5405.020
+
+[GRAPHIC] [TIFF OMITTED] T5405.021
+
+[GRAPHIC] [TIFF OMITTED] T5405.022
+
+[GRAPHIC] [TIFF OMITTED] T5405.023
+
+[GRAPHIC] [TIFF OMITTED] T5405.024
+
+[GRAPHIC] [TIFF OMITTED] T5405.025
+
+[GRAPHIC] [TIFF OMITTED] T5405.026
+
+[GRAPHIC] [TIFF OMITTED] T5405.027
+
+[GRAPHIC] [TIFF OMITTED] T5405.028
+
+[GRAPHIC] [TIFF OMITTED] T5405.029
+
+[GRAPHIC] [TIFF OMITTED] T5405.030
+
+[GRAPHIC] [TIFF OMITTED] T5405.031
+
+[GRAPHIC] [TIFF OMITTED] T5405.032
+
+[GRAPHIC] [TIFF OMITTED] T5405.033
+
+[GRAPHIC] [TIFF OMITTED] T5405.034
+
+[GRAPHIC] [TIFF OMITTED] T5405.035
+
+[GRAPHIC] [TIFF OMITTED] T5405.036
+
+[GRAPHIC] [TIFF OMITTED] T5405.037
+
+[GRAPHIC] [TIFF OMITTED] T5405.038
+
+[GRAPHIC] [TIFF OMITTED] T5405.039
+
+[GRAPHIC] [TIFF OMITTED] T5405.040
+
+[GRAPHIC] [TIFF OMITTED] T5405.041
+
+[GRAPHIC] [TIFF OMITTED] T5405.042
+
+[GRAPHIC] [TIFF OMITTED] T5405.043
+
+[GRAPHIC] [TIFF OMITTED] T5405.044
+
+[GRAPHIC] [TIFF OMITTED] T5405.045
+
+[GRAPHIC] [TIFF OMITTED] T5405.046
+
+[GRAPHIC] [TIFF OMITTED] T5405.047
+
+[GRAPHIC] [TIFF OMITTED] T5405.048
+
+[GRAPHIC] [TIFF OMITTED] T5405.049
+
+[GRAPHIC] [TIFF OMITTED] T5405.050
+
+[GRAPHIC] [TIFF OMITTED] T5405.051
+
+[GRAPHIC] [TIFF OMITTED] T5405.052
+
+[GRAPHIC] [TIFF OMITTED] T5405.053
+
+[GRAPHIC] [TIFF OMITTED] T5405.054
+
+[GRAPHIC] [TIFF OMITTED] T5405.055
+
+[GRAPHIC] [TIFF OMITTED] T5405.056
+
+[GRAPHIC] [TIFF OMITTED] T5405.057
+
+[GRAPHIC] [TIFF OMITTED] T5405.058
+
+[GRAPHIC] [TIFF OMITTED] T5405.059
+
+[GRAPHIC] [TIFF OMITTED] T5405.060
+
+[GRAPHIC] [TIFF OMITTED] T5405.061
+
+[GRAPHIC] [TIFF OMITTED] T5405.062
+
+[GRAPHIC] [TIFF OMITTED] T5405.063
+
+[GRAPHIC] [TIFF OMITTED] T5405.064
+
+[GRAPHIC] [TIFF OMITTED] T5405.065
+
+[GRAPHIC] [TIFF OMITTED] T5405.066
+
+[GRAPHIC] [TIFF OMITTED] T5405.067
+
+[GRAPHIC] [TIFF OMITTED] T5405.068
+
+[GRAPHIC] [TIFF OMITTED] T5405.069
+
+[GRAPHIC] [TIFF OMITTED] T5405.070
+
+[GRAPHIC] [TIFF OMITTED] T5405.071
+
+[GRAPHIC] [TIFF OMITTED] T5405.072
+
+[GRAPHIC] [TIFF OMITTED] T5405.073
+
+[GRAPHIC] [TIFF OMITTED] T5405.074
+
+[GRAPHIC] [TIFF OMITTED] T5405.075
+
+[GRAPHIC] [TIFF OMITTED] T5405.076
+
+[GRAPHIC] [TIFF OMITTED] T5405.077
+
+[GRAPHIC] [TIFF OMITTED] T5405.078
+
+[GRAPHIC] [TIFF OMITTED] T5405.079
+
+[GRAPHIC] [TIFF OMITTED] T5405.080
+
+[GRAPHIC] [TIFF OMITTED] T5405.081
+
+[GRAPHIC] [TIFF OMITTED] T5405.082
+
+[GRAPHIC] [TIFF OMITTED] T5405.083
+
+[GRAPHIC] [TIFF OMITTED] T5405.084
+
+[GRAPHIC] [TIFF OMITTED] T5405.085
+
+[GRAPHIC] [TIFF OMITTED] T5405.086
+
+[GRAPHIC] [TIFF OMITTED] T5405.087
+
+[GRAPHIC] [TIFF OMITTED] T5405.088
+
+
+</pre></body></html>

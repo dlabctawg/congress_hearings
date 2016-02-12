@@ -1,0 +1,2171 @@
+<html>
+<title> - MISSING WEAPONS AT THE NATIONAL PARK SERVICE: MISMANAGEMENT AND LACK OF ACCOUNTABILITY</title>
+<body><pre>
+[House Hearing, 113 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+                 MISSING WEAPONS AT THE NATIONAL PARK 
+                  SERVICE: MISMANAGEMENT AND LACK OF 
+                   ACCOUNTABILITY
+=======================================================================
+
+
+
+                        JOINT OVERSIGHT HEARING
+
+                               before the
+
+                   SUBCOMMITTEE ON NATIONAL SECURITY
+
+                                 of the
+
+              COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                                and the
+
+       SUBCOMMITTEE ON PUBLIC LANDS AND ENVIRONMENTAL REGULATION
+
+                                 of the
+
+                     COMMITTEE ON NATURAL RESOURCES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             AUGUST 2, 2013
+
+                               __________
+
+                           Serial No. 113-54
+
+             (Committee on Oversight and Government Reform)
+
+                               __________
+
+                           Serial No. 113-39
+
+                    (Committee on Natural Resources)
+
+
+         Available via the World Wide Web: http://www.fdsys.gov
+                      http://www.house.gov/reform
+                   http://naturalresources.house.gov
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+82-717                    WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+              COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                 DARRELL E. ISSA, California, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland, 
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, JR., Tennessee       CAROLYN B. MALONEY, New York
+PATRICK T. McHENRY, North Carolina   ELEANOR HOLMES NORTON, District of 
+JIM JORDAN, Ohio                         Columbia
+JASON CHAFFETZ, Utah                 JOHN F. TIERNEY, Massachusetts
+TIM WALBERG, Michigan                WM. LACY CLAY, Missouri
+JAMES LANKFORD, Oklahoma             STEPHEN F. LYNCH, Massachusetts
+JUSTIN AMASH, Michigan               JIM COOPER, Tennessee
+PAUL A. GOSAR, Arizona               GERALD E. CONNOLLY, Virginia
+PATRICK MEEHAN, Pennsylvania         JACKIE SPEIER, California
+SCOTT DesJARLAIS, Tennessee          MATTHEW A. CARTWRIGHT, 
+TREY GOWDY, South Carolina               Pennsylvania
+BLAKE FARENTHOLD, Texas              MARK POCAN, Wisconsin
+DOC HASTINGS, Washington             TAMMY DUCKWORTH, Illinois
+CYNTHIA M. LUMMIS, Wyoming           ROBIN L. KELLY, Illinois
+ROB WOODALL, Georgia                 DANNY K. DAVIS, Illinois
+THOMAS MASSIE, Kentucky              TONY CARDENAS, California
+DOUG COLLINS, Georgia                STEVEN A. HORSFORD, Nevada
+MARK MEADOWS, North Carolina         MICHELLE LUJAN GRISHAM, New Mexico
+KERRY L. BENTIVOLIO, Michigan
+RON DeSANTIS, Florida
+
+                   Lawrence J. Brady, Staff Director
+                John D. Cuaderes, Deputy Staff Director
+                    Stephen Castor, General Counsel
+                       Linda A. Good, Chief Clerk
+                 David Rapallo, Minority Staff Director
+
+    Subcommittee on National Security, Homeland Defense and Foreign 
+                               Operations
+
+                     JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                JOHN F. TIERNEY, Massachusetts 
+JOHN J. DUNCAN, JR., Tennessee           Ranking Minority Member
+JUSTIN AMASH, Michigan               CAROLYN B. MALONEY, New York
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+TREY GOWDY, South Carolina           JACKIE SPEIER, California
+CYNTHIA M. LUMMIS, Wyoming           PETER WELCH, Vermont
+ROB WOODALL, Georgia                 MICHELLE LUJAN GRISHAM, New Mexico
+KERRY L. BENTIVOLIO, Michigan
+      
+
+                     COMMITTEE ON NATURAL RESOURCES
+
+                       DOC HASTINGS, WA, Chairman
+            PETER A. DeFAZIO, OR, Ranking Democratic Member
+
+Don Young, AK                        Eni F. H. Faleomavaega, AS
+Louie Gohmert, TX                    Frank Pallone, Jr., NJ
+Rob Bishop, UT                       Grace F. Napolitano, CA
+Doug Lamborn, CO                     Rush Holt, NJ
+Robert J. Wittman, VA                Raul M. Grijalva, AZ
+Paul C. Broun, GA                    Madeleine Z. Bordallo, GU
+John Fleming, LA                     Jim Costa, CA
+Tom McClintock, CA                   Gregorio Kilili Camacho Sablan, 
+Glenn Thompson, PA                       CNMI
+Cynthia M. Lummis, WY                Niki Tsongas, MA
+Dan Benishek, MI                     Pedro R. Pierluisi, PR
+Jeff Duncan, SC                      Colleen W. Hanabusa, HI
+Scott R. Tipton, CO                  Tony Cardenas, CA
+Paul A. Gosar, AZ                    Steven A. Horsford, NV
+Raul R. Labrador, ID                 Jared Huffman, CA
+Steve Southerland, II, FL            Raul Ruiz, CA
+Bill Flores, TX                      Carol Shea-Porter, NH
+Jon Runyan, NJ                       Alan S. Lowenthal, CA
+Mark E. Amodei, NV                   Joe Garcia, FL
+Markwayne Mullin, OK                 Matt Cartwright, PA
+Chris Stewart, UT                    Vacancy
+Steve Daines, MT
+Kevin Cramer, ND
+Doug LaMalfa, CA
+Jason T. Smith, MO
+
+                       Todd Young, Chief of Staff
+                Lisa Pittman, Chief Legislative Counsel
+                 Penny Dodge, Democratic Staff Director
+                David Watkins, Democratic Chief Counsel
+                                 ------                                
+
+       SUBCOMMITTEE ON PUBLIC LANDS AND ENVIRONMENTAL REGULATION
+
+                        ROB BISHOP, UT, Chairman
+            RAUL M. GRIJALVA, AZ, Ranking Democratic Member
+
+Don Young, AK                        Niki Tsongas, MA
+Louie Gohmert, TX                    Rush Holt, NJ
+Doug Lamborn, CO                     Madeleine Z. Bordallo, GU
+Paul C. Broun, GA                    Gregorio Kilili Camacho Sablan, 
+Tom McClintock, CA                       CNMI
+Cynthia M. Lummis, WY                Pedro R. Pierluisi, PR
+Scott R. Tipton, CO                  Colleen W. Hanabusa, HI
+Raul R. Labrador, ID                 Steven A. Horsford, NV
+Mark E. Amodei, NV                   Carol Shea-Porter, NH
+Steve Daines, MT                     Joe Garcia, FL
+Kevin Cramer, ND                     Matt Cartwright, PA
+Doug LaMalfa, CA                     Vacancy
+Jason T. Smith, MO                   Peter A. DeFazio, OR, ex officio
+Doc Hastings, WA, ex officio
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on August 2, 2013...................................     1
+
+                               WITNESSES
+
+Mr. Robert A. Knox, Assistant Inspector General for 
+  Investigations, Office of Inspector General, U.S. Department of 
+  the Interior
+    Oral Statement...............................................     5
+    Written Statement............................................     7
+The Hon. Jonathan B. Jarvis, Director, National Park Service, 
+  U.S. Department of the Interior, Ms. Kim A. Thorsen, Deputy 
+  Assistant Secretary for Public Safety, Resource Protection, and 
+  Emergency Services, U.S. Department of the Interior, and Ms. 
+  Teresa Chambers, Chief of the United States Park Police Force, 
+  National Park Service, U.S. Department of the Interior
+    Oral Statement...............................................    10
+
+                                APPENDIX
+
+The Honorable Jason Chaffetz, a Member of Congress from the State 
+  of Utah, Opening Statement.....................................    40
+The Honorable John F. Tierney, a Member of Congress from the 
+  State of Massachusetts, Opening Statement......................    43
+U.S. Department of the Interior, National Park Service, Letter to 
+  Representatives Rob Bishop and Jason Chaffetz..................    45
+
+
+MISSING WEAPONS AT THE NATIONAL PARK SERVICE: MISMANAGEMENT AND LACK OF 
+                             ACCOUNTABILITY
+
+                              ----------                              
+
+
+                         Friday, August 2, 2013
+
+                  House of Representatives,
+                 Subcommittee on National Security,
+  Committee on Oversight and Government Reform, joint with 
+        the Subcommittee on Public Lands and Environmental 
+                Regulation, Committee on Natural Resources,
+                                                   Washington, D.C.
+    The subcommittees met, pursuant to call, at 9:00 a.m., in 
+Room 2154, Rayburn House Office Building, Hon. Jason Chaffetz 
+[chairman of the Subcommittee on National Security] presiding.
+    Present from the Subcommittee on National Security: 
+Representatives Chaffetz, Duncan, Bentivolio, and Tierney.
+    Present from the Subcommittee on Public Lands and 
+Environmental Regulation: Representatives Bishop, Tipton, 
+Smith, Southerland, Grijalva, Tsongas, and Shea-Porter.
+    Also Present: Representative Norton.
+    Staff Present from the Committee on Oversight and 
+Government Reform: Brian Blase, Senior Professional Staff 
+Member; Molly Boyl, Parliamentarian; Daniel Bucheli, Assistant 
+Clerk; Caitlin Carroll, Deputy Press Secretary; Linda Good, 
+Chief Clerk; Mitchell S. Kominsky, Counsel; Mark D. Marin, 
+Director of Oversight; Ashok M. Pinto, Chief Counsel, 
+Investigations; Sang H. Yi, Professional Staff Member; Devon 
+Hill, Minority Research Assistant; Julia Krieger, Minority New 
+Media Press Secretary; Elisa LaNier, Minority Deputy Clerk; and 
+Brian Quinn, Minority Counsel.
+    Mr. Chaffetz. The committee will come to order.
+    I would like to begin this hearing by stating the Oversight 
+and Government Reform Committee's mission statement.
+    We exist to secure two fundamental principles: First, 
+Americans have a right to know that the money Washington takes 
+from them is well-spent. Second, Americans deserve an 
+efficient, effective government that works for them. Our duty 
+on the Oversight and Government Reform Committee is to protect 
+these rights.
+    Our solemn responsibility is to hold government accountable 
+to taxpayers, because taxpayers have a right to know what they 
+get from their government. We will work tirelessly, in 
+partnership with citizen watchdogs, to deliver the facts to the 
+American people and bring genuine reform to the Federal 
+bureaucracy.
+    This is the mission of the Oversight and Government Reform 
+Committee.
+    We appreciate you being here in a joint effort with the 
+Natural Resources Committee to conduct a very important 
+oversight hearing today entitled, ``Missing Weapons at the 
+National Park Service: Mismanagement and Lack of 
+Accountability.''
+    I would also like to welcome Mr. Grijalva, who is here and 
+joining us on the dais. I know that Mr. Tierney and Mr. Bishop 
+of Utah, my colleague also involved in these two committees, 
+will be joining us here shortly.
+    I am pleased to hold today's hearing jointly with my friend 
+and gentleman from Utah, Representative Bishop. He is the 
+chairman of the House Committee on Natural Resources 
+Subcommittee on Public Lands and Environmental Regulation. And 
+I look forward to working with him on an ongoing basis on these 
+issues.
+    Today's proceedings result from a need to further address 
+questions and concerns raised in a June 27th report from this 
+year issued by the U.S. Department of Interior's Office of 
+Inspector General entitled, ``Review of U.S. Park Police 
+Weapons Accountability Program.''
+    In the report, the OIG made some very serious charges, 
+including finding insufficient: ``accountability, accuracy, and 
+oversight'' of the U.S. Park Police's firearms program. During 
+the course of the OIG's investigation, the OIG found: 
+``credible evidence of conditions that would allow for theft 
+and misuse of firearms and the ability to conceal the fact if 
+weapons were missing.''.
+    Moreover, despite requirements to maintain an accurate 
+firearms inventory, the OIG found that U.S. Park Police 
+firearms inventory records were inaccurate and failed to 
+account for hundreds of firearms. If these findings are 
+accurate, the lack of accountability is completely 
+unacceptable.
+    Given the OIG's glaring findings about the U.S. Park 
+Police's lack of accountability for their weapons program, I am 
+also interested to learn whether the ammunition used by the 
+U.S. Park Police is properly accounted for.
+    The Subcommittee on National Security previously conducted 
+an oversight hearing on April 25th of this year entitled, 
+``Oversight of the Federal Government's Procurement of 
+Ammunition,'' in which we found that the Federal Government, in 
+some cases, has not procured ammunition efficiently or 
+effectively.
+    Based on the seriousness of the charges in the OIG report, 
+the findings warrant further examination where the report fell 
+short. There are a number of questions that would be helpful to 
+explain the findings. Are there examples where U.S. Park Police 
+weapons were actually stolen or misused? How did the OIG arrive 
+at the ``hundreds of weapons used'' number? Were simple 
+typographical errors or poor data entry the main cause of the 
+unaccounted firearms? These are all legitimate questions.
+    As a result, today's hearing provides an opportunity to 
+discuss the findings by the OIG and to assess the extent of 
+accountability issues within the United States Park Police.
+    It is also important to further examine the weapons 
+procurement process. The OIG site reviews of U.S. Park Police's 
+field office armories discovered approximately 1,400: 
+``extra,'' weapons, with a force of only 640 officers. These 
+extra weapons consisted of 477 military-style automatic and 
+semiautomatic weapons.
+    According to the OIG: ``We also discovered a number of 
+weapons that, according to USPP officials, fulfilled no 
+operational need.'' It is my understanding that the 
+undetermined number were awaiting destruction. We need to 
+discuss that.
+    I am also concerned about OIG's finding regarding senior 
+management's supervision of the weapons program, specifically 
+that; ``staff at all levels, from the firearms program managers 
+to their employees, had no clear idea of how many weapons they 
+maintained due to their incomplete and poorly managed inventory 
+controls.''
+    Moreover, the OIG reported that firearms managers: 
+``accepted verbal assurances that firearms inventories were 
+completed correctly rather than taking personal responsibility 
+for accuracy.'' Unverified verbal assurances about the accuracy 
+of the Park Police firearms inventory is simply not tolerable.
+    The reported lack of accountability over the U.S. Park 
+Police weapons program has been documented as a longstanding 
+issue, I believe starting in 2003. But certainly in 2008 and 
+2009, the OIG found a lack of oversight of the weapons 
+accountability program, but the problems persist still today.
+    One of the main reasons that we are gathered here today and 
+that I called this hearing, in conjunction with these other 
+Members, is that this continues to evidently be an ongoing 
+problem. Unfortunately, after the reports issued in 2008 and 
+2009, it does not appear, at least from the surface, that these 
+problems were resolved. And we are talking about firearms. It 
+is very important, and that is why we are here again today.
+    I want to take a moment to emphasize that the hard work and 
+dedication of the Park Police officers is greatly appreciated. 
+We have great men and women who dedicate their lives, put 
+themselves on the line in support of a very patriotic duty in 
+serving their Nation and protecting some of our Nation's 
+greatest assets. We need to ensure that our law enforcement 
+officers are properly trained and equipped to efficiently and 
+effectively do their jobs.
+    That said, the vandalism that recently occurred at the 
+Lincoln Memorial, the National Cathedral, and the Smithsonian 
+Castle all raise concerns about whether taxpayer dollars are 
+being spent effectively in light of these shortcomings. I find 
+it hard to believe that, given the prominence of the Lincoln 
+Memorial, that we don't have somebody 24/7 watching, guarding, 
+taking care of the Lincoln Memorial, that somebody could come 
+and do that and then simply be able to walk away.
+    I am particularly interested to learn what the U.S. Park 
+Police is doing to ensure that our national monuments will not 
+be defaced, vandalized, or become prime targets of terrorism.
+    I look forward to hearing from all the witnesses today. And 
+today's hearing will focus on the need for proper inventory 
+procedures, improved oversight of firearms management, and we 
+will be touching on the recent defacing of some of our Nation's 
+best assets.
+    The committee seeks to ensure that the U.S. Park Police 
+appropriately addresses the OIG recommendations outlined in the 
+June 27th, 2013, report.
+    Again, I thank you all for being here.
+    And I greatly appreciate the work I do with my ranking 
+member, the gentleman from Massachusetts, Mr. Tierney. And I 
+now recognize him for 5 minutes.
+    Mr. Tierney. Thank you, Mr. Chairman.
+    In the interest of time this morning, I just ask unanimous 
+consent that my opening remarks be placed upon the record.
+    Mr. Chaffetz. Without objection, absolutely. We appreciate 
+that.
+    Mr. Chaffetz. Mr. Grijalva, we appreciate you being----
+    Mr. Tierney. Hopefully, we set a trend.
+    Mr. Chaffetz. Hopefully, we set a trend, yes.
+    We appreciate your being here today.
+    Mr. Grijalva from Arizona is the ranking member, Public 
+Lands and Environmental Regulation Subcommittee in the Natural 
+Resources Committee.
+    We appreciate you being here today. I now recognize you.
+    Mr. Grijalva. Thank you, Mr. Chairman.
+    And I think the problems identified in the Interior 
+Department's Office of Inspector General require serious 
+consideration. We should try to understand the allegations in 
+the report and not overstate or politicize them.
+    I would like to acknowledge that the Fraternal Order of 
+Park Police has serious concerns with the methodology used by 
+the Inspector General and the allegations made in the report.
+    The title of this hearing, ``Missing Weapons at the 
+National Park Service,'' that is--there is no reason to believe 
+that weapons are missing or that weapons were ever in the hands 
+of unauthorized personnel. An Interior Department task force 
+was able to account for all weapons, with the exception of a 
+few weapons assigned to officers who are overseas or on 
+extended leave. The Department has determined that 98 percent 
+of its weapons were already in the official system.
+    And there is a whole litany of issues, but following the 
+trend set by Mr. Tierney----
+    Mr. Tierney. Almost.
+    Mr. Grijalva. Almost following the trend set by Mr. 
+Tierney, if I may, Mr. Chairman, if there is no objection, 
+enter the letter from the United States Park Police Fraternal 
+Order as part of the record for this hearing?
+    Mr. Chaffetz. Without objection, so ordered.
+    Mr. Grijalva. Thank you very much.
+    Mr. Grijalva. The rest of my statements, which were 
+eloquent and well thought out, will be submitted for part of 
+the record. Thank you.
+    Mr. Chaffetz. I thank the gentleman.
+    Mr. Chaffetz. All Members will have 7 days to submit 
+opening statements for the record.
+    Mr. Chaffetz. We will now recognize our first and only 
+panel.
+    Ms. Kim Thorsen is the Deputy Assistant Secretary for 
+Public Safety Resource Protection and Emergency Services at the 
+United States Department of Interior. The Honorable Jonathan B. 
+Jarvis is the Director of the National Park Service. Ms. Teresa 
+Chambers is the Chief of the United States Park Police. And Mr. 
+Robert Knox is the Assistant Inspector General for 
+Investigations with the Office of Inspector General for the 
+United States Department of Interior.
+    We again appreciate all of you being here side by side to 
+have this discussion.
+    Pursuant to committee rules, all witnesses will be sworn 
+before they testify.
+    If you will please stand and raise your right hand.
+    Do you solemnly swear or affirm that the testimony you are 
+about to give will be the truth, the whole truth, and nothing 
+but the truth?
+    Thank you. You may be seated.
+    Let the record reflect that all witnesses answered in the 
+affirmative.
+    In order to allow time for discussion, we would appreciate 
+you limit your testimony to 5 minutes. My understanding is we 
+have a consolidated opening statement, which we greatly 
+appreciate.
+    But we will now recognize Mr. Knox first for his opening 
+statement.
+
+                       WITNESS STATEMENTS
+
+                  STATEMENT OF ROBERT A. KNOX
+
+    Mr. Knox. Good morning, Chairman Chaffetz and members of 
+the subcommittees. Thank you for the opportunity to testify 
+today about a recent Office of Inspector General report on the 
+accountability and accuracy of the United States Park Police 
+firearms inventory.
+    In short, we found ample evidence that United States Park 
+Police's firearms management requires immediate attention to 
+address the multitude of problems we found, which range from 
+fundamental errors in recordkeeping to glaring nonfeasance by 
+senior command officers.
+    We initiated our review after receiving an anonymous 
+complaint. We initially set out to determine if the United 
+States Park Police could account for all military-style weapons 
+in its inventory, whether the United States Park Police had 
+failed to perform inventories due to missing weapons, and 
+whether officers may have used United States Park Police 
+weapons for their personal use.
+    Our efforts to definitively address the allegations were 
+hindered by the inability of the United States Park Police 
+property and firearms custodians to provide a reliable baseline 
+inventory and accounting of firearms. The conditions of the 
+United States Park Police inventory were such that would allow 
+for theft and misuse of firearms and the ability to conceal any 
+missing weapons.
+    Having found the firearms inventory program in disarray, we 
+discontinued our efforts to prove or disprove the complainant's 
+allegations and changed our approach to focus on the overall 
+management of the United States Park Police firearms inventory 
+program.
+    Following a consistent history of inaction and indifference 
+on the part of United States Park Police leadership and 
+management at all levels, we again found that the basic tenets 
+of property management and supervisory oversight were missing 
+in their most fundamental forms. Commanders, up to and 
+including the chief of police, have a lackadaisical attitude 
+toward firearms management. We found evidence which indicates 
+this indifference is a product of years of inattention to 
+administrative detail and management principles in their most 
+basic form.
+    In 2008 and in 2009, the Office of Inspector General 
+conducted reviews that included aspects of United States Park 
+Police operations, including firearms inventory controls. In 
+our 2008 report, we had a recommendation regarding property 
+management. In 2009, we focused on firearms inventory controls 
+for all law enforcement programs at the Department of the 
+Interior, which included the United States Park Police. At that 
+time, we found and reported on strikingly similar conditions as 
+we note in our current report: firearms custodians were unaware 
+of the number of guns in their inventory or of the origin of 
+these guns, and that guns physically present were not listed on 
+the inventory.
+    In the end, we have little confidence that the United 
+States Park Police has the managerial commitment to implement a 
+professionally responsible firearms management program without 
+direct and frequent oversight from the National Park Service, 
+the Office of Law Enforcement and Security, and the Office of 
+Inspector General.
+    Among the 10 recommendations we make in our report is a 
+recommendation to initiate quarterly firearms inventories and 
+provide the Office of Inspector General with the results. We 
+intend to conduct a series of future reviews and inspections to 
+ensure that the United States Park Police has implemented our 
+recommendations and that they maintain the level of 
+accountability expected of a law enforcement entity the size 
+and stature of the United States Park Police.
+    Chairman Chaffetz, this concludes my testimony today. I 
+would be happy to answer any questions you or other members of 
+the subcommittees may have.
+    Mr. Chaffetz. Thank you. Appreciate that.
+    [The prepared statement of Mr. Knox follows:]
+    [GRAPHIC] [TIFF OMITTED] 82717.001
+    
+    [GRAPHIC] [TIFF OMITTED] 82717.002
+    
+    [GRAPHIC] [TIFF OMITTED] 82717.003
+    
+    Mr. Chaffetz. My understanding is we have a consolidated 
+opening statement. Would that be you, Mr. Jarvis?
+    Mr. Jarvis. Yes.
+    Mr. Chaffetz. You are now recognized for 5 minutes.
+
+            STATEMENT OF THE HON. JONATHAN B. JARVIS
+
+    Mr. Jarvis. Okay.
+    Chairman Chaffetz, Ranking Members Grijalva and Tierney, 
+and members of the committee, thank you for the invitation to 
+appear today before you to discuss the findings of the 
+Inspector General's firearms accountability within the United 
+States Park Police.
+    My name is John Jarvis, and I am the Director of the 
+National Park Service. And I would like to submit our full 
+statement for the record and summarize, really, our views here.
+    The U.S. Park Police is the Nation's oldest uniformed 
+Federal law enforcement agency. The Park Police provides law 
+enforcement services to designated areas within the National 
+Park Service, predominantly in Washington, D.C., New York, and 
+San Francisco. The members of the Park Police are professional 
+police officers and dedicated public servants who help us 
+protect millions of visitors each year and protect some of our 
+most valued national icons, including the Washington Monument, 
+the Jefferson Memorial, the Statue of Liberty, and the Golden 
+Gate Bridge.
+    On June 27th, 2013, the Inspector General issued its review 
+of Park Police weapons accountability. The Inspector General's 
+review raised serious, significant concerns regarding Park 
+Police firearms management.
+    The accountability of weapons used by our law enforcement 
+personnel is of critical importance, and we take the issues 
+raised here very, very seriously. The IG report provided a 
+number of important recommendations to address those issues, 
+and we appreciate the IG's efforts. We are committed to 
+implementing these recommendations, which will improve the 
+accountability in this critical area.
+    In the last 30 days since the issuance of the IG's report, 
+we have taken immediate actions to address the IG's 
+recommendations. The first priority was to conduct a thorough 
+physical inventory of all government-owned firearms in Park 
+Police custody, in accordance with Recommendation 3 from the IG 
+report.
+    To conduct this physical inventory, we created a team of 
+senior officials from the National Park Service and the 
+Department's Office of Law Enforcement and Security to 
+personally contact all officers within the Park Police and to 
+personally inspect every Park Police firearm, whether issued to 
+an officer or secured in a Park Police facility. The team 
+visited Park Police facilities in San Francisco, New York, and 
+Washington, D.C. With the exception of three officers who are 
+currently either deployed overseas on a military assignment or 
+on extended leave, the team has met with each police officer.
+    The team has ensured that each inspected firearm has been 
+entered into and tracked in the Department's new property 
+accountability system. The initial assessment of the team is 
+that approximately 98 percent of the physical inventory of 
+firearms in the custody of the U.S. Park Police were previously 
+entered into this system. We are continuing our efforts to 
+complete the inventory, including any reconciliation with 
+existing records.
+    The team is also reviewing the Park Police's approach to 
+administrative oversight, training, and coordination. We are 
+committed to ensuring the members of the Park Police maintain 
+the highest standard of accountability with its firearms 
+inventories.
+    With regard to the other recommendations from the IG 
+report, we either have already addressed or are in the process 
+of addressing each one of them. For example, we are in the 
+process of reviewing all Park Police guidance to confirm that 
+it complies with Park Service and departmental regulations, 
+policies, and procedures. The Park Police has ceased using 
+informal property accountability systems, and we have 
+transitioned all of the firearms to our new property 
+accountability system. And the Park Police now has a schedule 
+to ensure quarterly inventories of all firearms. And the Chief 
+of Park Police will personally approve all firearms purchases. 
+That is already in place.
+    In addition, the National Park Service has asked the Park 
+Police to detail all the work that has been done to date on all 
+of the IG recommendations and the actions planned to 
+successfully address the ones that have not been completed.
+    The Department's Office of Law Enforcement and Security, 
+which is responsible for policy development, coordination, 
+evaluation, and support of the Department's programs concerning 
+law enforcement, will work with the National Park Service and 
+the Park Police to provide additional oversight. The office 
+periodically audits the Department's bureaus for compliance 
+with the Department of Law Enforcement policies. Currently, the 
+office is conducting a program compliance assessment on bureau 
+firearm programs.
+    We want to assure the committees that the Department, the 
+NPS, and the Park Police take very seriously the accountability 
+of weapons used by our law enforcement personnel. We will work 
+together to monitor compliance with the IG's direction on this 
+matter.
+    Thank you for your attention to this important issue. We 
+are happy to answer any questions that you may have.
+    Mr. Chaffetz. Thank you. I appreciate that.
+    Mr. Chaffetz. Normally when we schedule a hearing at 9 
+o'clock in the morning, we are in safe territory until 10:30 or 
+so. Today being an exceptional day, Members are advised that 
+there is a vote on the floor. It has 13 minutes on the clock. 
+Given that necessity and priority, this committee is going to 
+stand in recess until the conclusion of the votes. And as soon 
+as we have Members back in appropriate numbers, we will resume 
+this hearing.
+    We are guessing that that is an hour and a half, an hour 
+and 15 minutes. It is certainly not any sooner than, say, 
+10:30. We will resume no sooner than 10:30, but when we have 
+our votes and we have Members back, we will resume.
+    This committee stands in recess until then.
+    [Recess.]
+    Mr. Chaffetz. The committee will come to order.
+    Thank you. We appreciate the time as we had to take to do 
+voting. And there will be voting later on, as well.
+    I will now recognize myself for 5 minutes.
+    The OIG, Inspector General, has issued a report. Ms. 
+Thorsen, Mr. Jarvis, Chief Chambers, do any of you take issue 
+with any of the findings in that report?
+    Mr. Jarvis. I will start.
+    We appreciate the IG's report, and we take all 10 
+recommendations--they are spot-on, and we are taking every one 
+of them seriously.
+    Mr. Chaffetz. But are any of the findings--do you take any 
+issue with any of the findings? I appreciate your 
+implementation of the recommendations; we are going to talk 
+about that. But any of their findings, did you take issue with 
+any of those?
+    Mr. Jarvis. Well, their findings indicated a snapshot, 
+essentially a photograph, of the conditions of inventory of 
+weapons at the Park Police facilities at that moment. I 
+consider them accurate, but they do not indicate the real 
+behind-the-scenes. They backed out and said, go do an 
+inventory. And that is what we are doing now.
+    Mr. Chaffetz. They took a snapshot in 2008, and they took 
+one in 2009. We had similar problems and challenges. Were those 
+accurate back then?
+    Mr. Jarvis. I am not that familiar with those reports 
+because I was not in this role at that time.
+    Mr. Chaffetz. And I guess that is one of the concerns, is 
+that when the Inspector General offers recommendations, they 
+take snapshots, we worry that some report gets put on some 
+shelf. I think that is in part why we are here today, is the 
+repetitive nature of these challenges.
+    Chief Chambers, according to the National Park Service 
+Handbook 44, an inventory is supposed to be taken twice a year. 
+Does that happen?
+    Chief Chambers. Yes, sir, it does.
+    Mr. Chaffetz. Did you sign this memo of August 31st saying: 
+``I certify that all weapons inventories for which I am 
+responsible have been completed and all weapons records have 
+been reconciled''?
+    Chief Chambers. I did, sir.
+    Mr. Chaffetz. What did you base that on?
+    Chief Chambers. A number of conversations with folks in the 
+chain of command, including the firearms custodian himself.
+    Mr. Chaffetz. So merely conversations? Did you ever review 
+any of the records? Did you ever look at any of the physical 
+material?
+    Chief Chambers. I reviewed the records, but I did not 
+physically touch all of the weapons that are in the inventory. 
+But I did ask probing questions. I asked how it compared to the 
+previous inventory, to ensure that there were no anomalies. And 
+I asked if everything could be accounted for, even----
+    Mr. Chaffetz. Who did you have that conversation with?
+    Chief Chambers. With whom, sir? Deputy Chief Chapman, 
+Sergeant Dave Whitehorne, and perhaps the captain in training 
+at that time.
+    Mr. Chaffetz. So why the discrepancy on what Mr. Knox was 
+able to find versus what you found?
+    Chief Chambers. Sir, during the period of time he came in, 
+we were actually between two effective computer systems. One 
+had been shut down; the other was not back up and running. And 
+so we were left to use Excel spreadsheets, which, frankly, were 
+better than nothing, but not able to quickly ascertain where 
+items were or get a quick count on how many of anything there 
+was. That has all changed since then. But, in that snapshot of 
+time, we were limited in our capability to be able to quickly 
+review.
+    Mr. Chaffetz. Ms. Thorsen, why was this the case? Why the 
+discrepancy between the two?
+    You have an OIG report. You have somebody saying they 
+certify and sign this. They are obviously not reconciled. So I 
+give you an opportunity to say, were there any issues with the 
+findings of the Inspector General? You didn't say a word, so--
+--
+    Ms. Thorsen. Chairman, I have no issue and the Department 
+has no issues with the findings in the IG report. I think the 
+10 recommendations are----
+    Mr. Chaffetz. But they are in dispute. Somebody is wrong. 
+You have Chief Chambers saying that the weapons inventories for 
+which I am responsible had been completed and all weapons 
+records have been reconciled, and the Inspector General is 
+saying, no, that is not the case. I am trying to figure out 
+from the three of you, why is that?
+    How does the Chief of the Park Police say they are 
+reconciled, the Inspector General says, no, they are not, they 
+are not even close? I give each of the three of you an 
+opportunity to question or dispute any of the claims or 
+findings from the Inspector General. You didn't say anything. 
+So put yourself in my shoes. What is the right answer here?
+    Ms. Thorsen. Well, I am not particularly familiar with the 
+memos and what the Chief did. She is----
+    Mr. Chaffetz. Why not? What is your relationship with the 
+Chief? Like, what responsibility or oversight or----
+    Ms. Thorsen. The Office of Law Enforcement Security, which 
+reports to me, has responsibility at the department level to 
+develop policy, departmental-level policy, coordinate with the 
+bureaus, and provide oversight. The accountability and 
+responsibility----
+    Mr. Chaffetz. So do you feel a responsibility for what 
+happens or doesn't happen in the Park Police?
+    Ms. Thorsen. The accountability and the responsibility for, 
+in this instance, firearms rests at many levels. Starts with 
+the officer, supervisors, the Chief, the Director of the Park 
+Service, whom she reports to directly. And then my office has a 
+responsibility periodically to go in and ensure that, actually, 
+all of the law enforcement programs in the department follow 
+department policy, departmental policy. So that is our role.
+    Mr. Chaffetz. So, Mr. Jarvis, we have a dispute here. 
+Explain to me how we can have two totally different 
+conclusions. Who messed up here? Is it Chief Chambers? Is it 
+the Inspector General?
+    Mr. Jarvis. The way I see it, Mr. Chairman, is that we have 
+an inventory management issue. And that is exactly what the IG 
+found. They came in; they could not reconcile the weapons that 
+they saw in the U.S. Park Police possession against what should 
+be a computerized database. There was no reconciliation. And so 
+they backed out.
+    Mr. Chaffetz. Chief, were you or were you not able to 
+reconcile the weapons inventory?
+    Chief Chambers. At the time that the IG was there, we were 
+not in a position to say with certainty. But we can say now 
+that it has been reconciled.
+    Mr. Chaffetz. When were you there? When were you doing 
+this, Inspector?
+    Mr. Knox. Mr. Chairman, we----
+    Mr. Chaffetz. Microphone, please. If you can just turn on 
+the microphone. Thank you.
+    Mr. Knox. Mr. Chairman, we conducted our inspection from 
+February 11th to February 13th and continued----
+    Mr. Chaffetz. Of which year?
+    Mr. Knox. Of 2013.
+    Mr. Chaffetz. And you are saying that they were reconciled 
+on August 31st, 2012. And then, within 6 months, it was in 
+disarray. Is that what you are saying?
+    Chief Chambers. Sir, I am saying we couldn't prove or 
+disprove whether the records were accurate, because at that 
+moment in time we had Excel spreadsheets, several of them, to 
+try to bring this compilation. The weapons were there, but 
+there was no way to reconcile it. We can do so now.
+    Mr. Chaffetz. I have more questions about this, as do other 
+Members. I am way over time.
+    I now recognize the gentleman from Arizona, Mr. Grijalva, 
+for 5 minutes plus another minute or 2 if he so chooses.
+    Mr. Grijalva. Thank you, Mr. Chairman.
+    Let me start with kind of a basic question, given the 
+report and the recommendations. Has the Park Police accounted 
+for all these weapons?
+    Ms. Thorsen, do you believe that all the weapons have been 
+accounted for? That same question for Director Jarvis and for 
+the Chief and for Mr. Knox.
+    If you wouldn't mind starting, Ms. Thorsen. Do you believe 
+all the weapons have been accounted for?
+    Ms. Thorsen. At this point in time, our office in 
+conjunction with the Park Service have conducted the physical 
+inventory of the Park Police weapons, and at this point in time 
+98 percent of them we have accounted for. There are three, as 
+mentioned by the Director, that we have not put our eyes on. 
+Okay, so that is not complete. So there are three outstanding 
+at this point in time. So, other than that, yes.
+    Mr. Grijalva. Thank you.
+    Mr. Jarvis. I would agree with that. We are not satisfied 
+until we put our physical hands on every weapon that is in the 
+inventory. And we are still missing three that are assigned to 
+individual officers who are not on duty at the moment but will 
+be very soon.
+    Mr. Grijalva. Chief?
+    Chief Chambers. And, likewise, sir, just those final three 
+that we know we have to touch.
+    And then just as a safeguard, we have another step to do. 
+We are going to go back and look at acquisition and property 
+records to make certain that things that we have purchased or 
+acquired over the last 5 to 10 years are actually in that new 
+computerized database. I am confident that they are, but I want 
+that additional assurance.
+    Mr. Grijalva. Thank you.
+    Mr. Knox?
+    Mr. Knox. Congressman, the IG takes no position as to 
+whether they have full accountability of all the weapons 
+possessed by the U.S. Park Police or not.
+    Mr. Grijalva. Okay, Mr. Knox, if I could follow up just a 
+second. So when the inspection was going on, there was a spot 
+analysis that you talk about in your report. So there was no 
+follow-up investigation on the part of your office to go deeper 
+into that issue?
+    Mr. Knox. No, sir. As we began our assessment, we realized 
+that the condition of accountability was in disarray.
+    Mr. Grijalva. Okay.
+    Mr. Knox. There were not good, clear records of what 
+weapons should be available, what records should be on their 
+accountable records. And so we took a position of looking at 
+the weapons that were physically present in the locations we 
+visited.
+    And the reason for me saying we don't take a position on 
+the accountability today is that, although we are confident the 
+National Park Service is doing all they can to inventory the 
+weapons that are currently present within the control of the 
+U.S. Park Police, there is still another step, as the Chief 
+points out, to take, which is to go back in time and identify 
+the weapons that had been acquired either through transfer or 
+purchase or other means and ensure that all of those weapons 
+are accounted for, as well.
+    Mr. Grijalva. Yeah.
+    Let me go to another question having to do with the mission 
+of the Park Police: to provide quality law enforcement, to 
+safeguard lives, to protect our national treasures and symbols 
+of democracy, and preserve natural and cultural resources 
+entrusted to the American people and to the Park Service and 
+the Park Police.
+    Let me begin with you again, Ms. Thorsen. Do you believe 
+that the mission of the Park has been compromised as a result 
+of the report and--or as a result of the issues described in 
+the report?
+    Ms. Thorsen. No, I don't, sir.
+    Mr. Grijalva. If you don't mind, Director Jarvis, I would 
+just like to get this----
+    Mr. Jarvis. No, sir, I do not believe there has been any 
+compromise to our responsibilities.
+    Mr. Grijalva. Chief, if you don't mind?
+    Chief Chambers. Our mission has not been compromised, sir.
+    Mr. Grijalva. And I go back to you, Mr. Knox. Do you feel 
+that that essential mission, as a consequence of your 
+recommendations and snapshot view, has been compromised?
+    Mr. Knox. Sir, the OIG assessment related to the 
+accountability of weapons alone. And we did not look at the 
+impact that had on the operational mission of the U.S. Park 
+Police.
+    Mr. Grijalva. That is a neutral position?
+    Mr. Knox. It is a neutral position as to the operations as 
+you described them. We feel that the accountability of weapons 
+is a part of their duty and operations and that those were 
+severely lacking.
+    Mr. Grijalva. In the limited time, if I may, Mr. Knox, your 
+report uses words like ``inaction,'' ``indifferent,'' 
+``nonfeasance,'' ``lackadaisical attitude'' to describe the 
+ways the senior management at the Park Police handled this 
+weapons accountability. Can you elaborate on why those strong 
+words are justified in the report?
+    And then, Chief Chambers, do you believe that the Inspector 
+General was justified in saying that Park Police senior 
+management has a lackadaisical attitude toward weapons 
+management and accountability?
+    I ask that question because, going back to the question I 
+just asked, it is about the integrity of that function, the 
+police function, and the confidence that the public has in it. 
+But that is why these questions are important.
+    So those words are pretty strong words, and your 
+justification for using them is my question.
+    Mr. Knox. Congressman, we looked at numerous factors when 
+we came to deliberately choose those words.
+    I would begin with the series of incidents where the Chief 
+of the U.S. Park Police had been advised of the serious 
+conditions regarding weapons accountability at the U.S. Park 
+Police. There was a memo authored by the force firearms 
+custodian to the Chief of Police in 2011 that actually 
+demonstrated an inventory variance of 120 weapons that was 
+brought to her attention.
+    Again in that year, the Audits and Evaluations Unit, part 
+of the Office of Professional Responsibility for the U.S. Park 
+Police, issued a memorandum based on their weapons 
+accountability assessment, and they indicated a critical 
+failure in the weapons accountability posture of the U.S. Park 
+Police.
+    And later a memo--I am sorry, a meeting regarding the force 
+firearms custodian memo was held, where discussions about the 
+content of that memo occurred. Later, a subsequent meeting with 
+Deputy Chief Chapman was held in 2012 as a follow-up to those 
+discussions.
+    And then I would point out that, even as we concluded our 
+field work on February 13th of 2013, I personally briefed the 
+Chief of Police for the U.S. Park Police on February 15th of 
+this year, advising her of our findings and urging her to take 
+immediate steps to begin an inventory and get a handle on what 
+the actual weapons count for the U.S. Park Police weapons 
+inventory was. And we found no meaningful efforts taken until 
+after the publishing of our report.
+    Mr. Grijalva. Mr. Chairman, in the overage of time, could 
+the Chief respond?
+    Mr. Chaffetz. Yes.
+    Mr. Grijalva. Thank you.
+    Chief Chambers. Thank you for the opportunity.
+    While I would certainly have chosen different words and not 
+characterized it with words that may be so emotionally driven, 
+I do appreciate the feedback nonetheless.
+    Only because Mr. Knox mentioned several memos, I will touch 
+on them. At each step along the way, extreme action was taken--
+dialogue, trips to the field offices by our force firearms 
+custodian.
+    But I must put on the record that the audits memo that 
+talked about the critical failure was a new memo to me. I had 
+never heard of it. And the only record that the Inspector 
+General's Office could produce was one that was still in draft 
+mode. It still had the track changes, it wasn't signed on 
+letterhead, it had no recommendations. That memo never made it 
+to my office.
+    Mr. Grijalva. Thank you, Mr. Chairman. Appreciate the extra 
+time.
+    Mr. Chaffetz. Mr. Knox, I will give you an opportunity to 
+respond to that.
+    Mr. Knox. I can't say for sure whether the Chief of Police 
+received the memo from the force firearms custodian. But I 
+would point out the multiple events that occurred between 2011 
+and 2013. And it is the position of the Office of Inspector 
+General that at least some of those should have alerted the 
+senior leadership, including the Chief of Police, of the 
+serious conditions of loss of weapons accountability at the 
+U.S. Park Police.
+    Mr. Chaffetz. Thank you.
+    Mr. Knox. Some action----
+    Mr. Chaffetz. I now want to recognize Chairman Rob Bishop 
+from Utah for 5 minutes.
+    Mr. Bishop. Thank you for the opportunity of being part of 
+this hearing.
+    In some respects, I feel like I am dealing with Syria 
+policy; I don't really know who the good guys are out there. In 
+fact, I think there is failure on every level that has gone 
+through here. So I appreciate it. I appreciate the questions 
+Mr. Grijalva asked.
+    And, Ms. Chambers, I am going to follow up on that in a 
+minute, but I want to go to Mr. Jarvis first.
+    The IG report focuses exclusively on failures within the 
+Park Police, for which you have ultimate jurisdiction. Is there 
+something about the relationship or the autonomy of the Park 
+Police that allows them to fall outside of department policies 
+on firearms?
+    Mr. Jarvis. No, Mr. Chairman. I believe that all of our 
+departmental and National Park Service policies apply directly 
+to the U.S. Park Police.
+    Mr. Bishop. So the rest of the Park Service, you also have 
+armed law enforcement in the rest of the Nation outside of 
+these three cities?
+    Mr. Jarvis. Yes, sir.
+    Mr. Bishop. So how do you compare the accountability in 
+place for those weapons, opposed to what we found here in the 
+Park Police?
+    Mr. Jarvis. Well, with all of our managers who have line 
+responsibilities for controlled property such as weapons, we 
+have a policy of inventory. I have a policy of trust but 
+verify, which means I expect them to do their audits and report 
+deliberately on their inventory as well as any missing weapons. 
+And----
+    Mr. Bishop. So I appreciate the concept of verify; that is 
+extremely important. But have you investigated--what have you 
+done to investigate the concept of park-wide, firearms Park 
+Service-wide, not just with the Park Police?
+    Mr. Jarvis. Well, we have periodic audits, where we do send 
+in our agents to do spot audits on the weapons inventory. When 
+I was a superintendent, we would have independent audits done 
+specifically. And I can remember one specific case where we did 
+find a missing weapon that was not recorded, and I removed that 
+employee's law enforcement commission immediately and 
+permanently.
+    So we do have that kind of oversight and auditing going on 
+throughout the Service.
+    Mr. Bishop. So you are confident that this problem only 
+exists within the Park Police, that it is not systemwide?
+    Mr. Jarvis. It is not systemwide.
+    Mr. Bishop. Can I ask you why you weren't on top of what 
+was happening, then, in the Park Police?
+    Mr. Jarvis. I was only made aware of this when I was 
+briefed by the IG. That is the first time, and that was in June 
+of this year. That is when I was made aware.
+    Mr. Bishop. All right. Well, we will get more into that in 
+detail.
+    I have one other issue with you, though. In 2010, the Park 
+Service sent guidance to the field that the Springfield Armory 
+Historic Site would no longer accept firearms for destruction. 
+So I am assuming that these historic arms are just sitting 
+somewhere under your jurisdiction.
+    Do you have any responsibility to bear for these unused 
+weapons piling up over with the Park Service police?
+    Mr. Jarvis. It took us 3 years to get a new contract for 
+weapons disposal. And so the Springfield Armory shut down on 
+their weapons disposal responsibilities; it took us 3 years to 
+get a new contract. So there are approximately 500 weapons in 
+the inventory at the U.S. Park Police that are due for disposal 
+and destruction.
+    Mr. Bishop. Ms. Chambers, is that an accurate number?
+    Chief Chambers. Yes, sir, it is.
+    Mr. Bishop. And are any of these of historic value?
+    Chief Chambers. I don't know, sir. I could find out for 
+you.
+    Mr. Bishop. Really?
+    Do you have any policy for allowing historically valuable 
+weapons to be saved, something other than being destroyed, Mr. 
+Jarvis?
+    Mr. Jarvis. Absolutely. At the Springfield Armory 
+specifically, which is the storage repository for historic 
+weapons----
+    Mr. Bishop. Wait, you mean they are taking them now?
+    Mr. Jarvis. I don't know the answer to that question. But 
+let me just say that before we do complete destruction on the 
+weapons that have been accumulated, we will see if there are 
+any historic weapons that are valuable for display or museum 
+storage.
+    Mr. Bishop. Do we know how many are?
+    Mr. Jarvis. I do not know that.
+    Mr. Bishop. Do you know, Ms. Chambers, how many are?
+    Chief Chambers. I do not, sir. I know----
+    Mr. Bishop. Shouldn't you?
+    Chief Chambers. I have that information at my disposal but 
+not here today, sir.
+    Mr. Bishop. Look, I am over by 40 seconds here. I am not as 
+longwinded as Raul or Jason, but I definitely have second-round 
+questions for some of the rest of you.
+    Mr. Chaffetz. Thank you.
+    We will now recognize the gentlewoman from Washington, 
+D.C., Ms. Norton, for 5 minutes.
+    Ms. Norton. Thank you, Mr. Chairman.
+    I just want to say I have some questions about the report, 
+but I do want to take this opportunity to thank the Park 
+Police. The Park Police are the only--we have, as the saying 
+goes, fifty-eleven police forces in the District of Columbia. 
+Every little agency has a police force. This is the only city-
+wide--indeed, it is a region-wide police force. And it is often 
+underappreciated.
+    I remember, after 9/11, the Capitol Police were quickly 
+reinforced with new police. And it took some time to get around 
+to the Capitol Police, which has much larger territory 
+throughout the District of Columbia and the entire region. So I 
+have watched the Capitol Police very closely. They have 
+jurisdiction for, for example--except for the Metropolitan 
+Police Department, they are the only police department that can 
+go anywhere. Most of the police, unless they have signed 
+memoranda of understanding pursuant to a bill I got passed 
+about a decade ago, can't even leave the premises.
+    So when we are talking about after Boston, we are talking 
+about all the parades and the people who can go and really 
+protect people in this town, you are talking about, when it 
+comes to Federal police, only the Park Police. And I want to 
+thank the Park Police for what looks to be a quick capture of 
+the person who may have been, is alleged to have been defacing 
+monuments.
+    I want to ask you--I also want to thank you for somehow 
+finding a way to make sure that the Park Police were not on 
+furloughs. That seemed to me to be particularly absurd. When we 
+have had furloughs in the Federal Government, we have always 
+exempted law enforcement officers. And we were putting the 
+entire city at risk, with all of the officials and all of the 
+ceremonies. And you found the funds.
+    Are you able to fill vacancies in the Park Police, Chief 
+Chambers?
+    Chief Chambers. We are not currently hiring, ma'am.
+    Ms. Norton. So if someone were to leave because of the 
+sequester or the cuts, those positions could not be filled?
+    Chief Chambers. At this moment, we do not have a class 
+schedule. We will be looking closely at the fiscal year 2014 
+budget as we get closer to that.
+    Ms. Norton. Well, I will be interested to know whether you 
+are able to keep a force in place during this time.
+    If I could ask Mr. Knox, apparently--and believe me, 
+because I represent the District of Columbia, I was pleased 
+that apparently no weapons were stolen, weapons were not found 
+to be taken home for personal use, no weapons were ever seized 
+in a crime.
+    Could this have happened without some kind of monitoring? 
+Did this just happen by chance? Those would have been the 
+worst, it seems to me, of the results, and yet none of that 
+occurred. Why not?
+    Mr. Knox. Well, Congresswoman, we didn't examine--our 
+assessment of weapons accountability at the Park Police did not 
+find instances of weapons being stolen. We found instances of 
+weapons not being accounted for properly, either in that we 
+found weapons on hand which were not indicated on the property 
+records or we found property records for weapons which were not 
+physically present.
+    Ms. Norton. So are you assured that all the weapons are 
+accounted for? Are there recommendations of the IG for how to 
+do this without taking a lot of time and effort, especially now 
+in personnel, especially now when that personnel, of course, 
+would not be available?
+    Are there examples from other either Federal police or 
+other police of ways to do this that you could recommend to the 
+Park Police so this would not become a paperwork exercise but 
+would be geared to just the kinds of things you have not just 
+found? You have not found yet stolen weapons, people taking 
+weapons home when they shouldn't be or ending up in a crime.
+    So does somebody have a streamlined way to do this that you 
+could recommend to the Park Police?
+    Mr. Knox. Well, Congresswoman, we made 10 recommendations 
+in this assessment which we feel, if complied with, will 
+enhance their weapons accountability posture a great deal. Our 
+expectation would be that they can account for all their 
+weapons, and that would be typical behavior in most police 
+agencies.
+    Ms. Norton. Thank you, Mr. Chairman.
+    Mr. Chaffetz. Thank you.
+    I will ask unanimous consent to allow Mr. Southerland of 
+Florida, who is on the Natural Resources Committee, to also 
+join us in this hearing.
+    Hearing no objection, so ordered.
+    I now recognize the gentleman from Michigan, Mr. 
+Bentivolio, for 5 minutes.
+    Mr. Bentivolio. Thank you, Mr. Chairman.
+    Based on the IG report, the lack of accountability here is 
+very disturbing. I think about how the government holds 
+civilians accountable for the firearms they own as private 
+citizens through registration and licensing procedures. But 
+here we have government firearms, paid for by taxpayers, left 
+in your care, with a total lack of accountability. The IG 
+discovered hundreds of handguns, rifles, and shotguns not 
+listed on official Park Police inventory records.
+    Where is the failure here that periodic and accurate 
+inventory records were not maintained? Is there any legitimate 
+excuse for this lack of accountability? Should there be more 
+frequent audits and inventories?
+    Chief Chambers, in the Army, we are required to hold 
+periodic weapons inventories. Each soldier was held accountable 
+for the weapons they were assigned. And like most all instances 
+in the military, the most senior person is responsible to 
+ensure that his subordinates do what they are supposed to do.
+    Ms. Chambers, as the Chief of the Park Police, who is 
+ultimately responsible for the firearms inventory at the Park 
+Police?
+    Chief Chambers. It is me, sir.
+    Mr. Bentivolio. The IG report indicated that a board of 
+survey should be conducted whenever an item is lost or stolen. 
+I imagine that in the case of firearms, which are sensitive 
+government property, like in the military.
+    And this is even more important. The IG report also stated 
+that when asked about a board of survey, you were not aware of 
+what a board of survey was and whether it was required to be 
+conducted for missing weapons. Can you explain why this was not 
+clear to you?
+    Chief Chambers. Yes, sir. I had never personally heard the 
+term. That did not mean that my team did not. In fact, we have 
+reissued the memo, identifying the members of various boards of 
+survey. It had been an ongoing practice. Just coming from 
+municipal government, it was a term that was foreign to me.
+    Mr. Bentivolio. Mr. Knox, are you aware of any disciplinary 
+actions at the Park Police taken as a result of the IG 
+findings?
+    Mr. Knox. No, sir, I am not.
+    Mr. Bentivolio. Mr. Jarvis, nice to see you again.
+    Who should be held accountable for these shortcomings? What 
+type of disciplinary actions will be taken?
+    Mr. Jarvis. We are still in the investigative phase on 
+this. The first step was Recommendation 3, which is a full 
+physical inventory. As I indicated in my earlier testimony, we 
+are almost done with that. We still have three officers that we 
+want to put our hands on those weapons and look at their serial 
+numbers.
+    Then there is a forensic, sort of, analysis of the previous 
+procurements. So, when were those guns brought into the U.S. 
+Park Police? When were they purchased? When were they 
+transferred from other agencies? We want to compare that to the 
+inventory, and then we will see whether or not there are any 
+weapons truly missing or stolen.
+    And then and only then, would we take a disciplinary action 
+if we found that there was true mismanagement. At this point, 
+we have a inventory management issue, not a mismanagement 
+issue.
+    And we have to get that completed over the next probably 60 
+days or so to get that second part of that, sort of, forensics 
+done on the procurement. And then we will understand whether or 
+not this is just a fact that we did not have them in the 
+inventory and could not account for them in the computer system 
+rather than there are actually missing weapons.
+    Mr. Bentivolio. Well, if you can't account for them, it 
+sounds to me like it is mismanagement or something else.
+    But I understand, according to testimony earlier, it has 
+been ongoing for the past 5 to 10 years, correct? Did I 
+understand that correctly, yes or no?
+    Chief Chambers. I heard that. I wasn't aware of anything 
+prior to 2011.
+    Mr. Bentivolio. Well, I heard testimony of going back as 
+far as 2008 and 2009.
+    Ms. Chambers, do you receive a bonus?
+    Chief Chambers. No, sir.
+    Mr. Bentivolio. Do you, Mr. Jarvis?
+    Mr. Jarvis. No, sir.
+    Mr. Bentivolio. In 2008, you never received a bonus?
+    Mr. Jarvis. No, sir.
+    Mr. Bentivolio. 2010?
+    Mr. Jarvis. No, sir.
+    Mr. Bentivolio. 2011?
+    Mr. Jarvis. My salary is fixed exactly. No bonus.
+    Mr. Bentivolio. Thank you.
+    I yield back.
+    Mr. Chaffetz. Will the gentleman yield to the chairman of 
+the subcommittee?
+    Mr. Bentivolio. Yes, sir.
+    Mr. Bishop. Mr. Jarvis, you gave a nice spin there, but you 
+didn't answer his question. His question is who is ultimately 
+responsible, not what have you done. Who is ultimately 
+responsible?
+    Mr. Jarvis. I am the Director of the Park Service. I am 
+ultimately----
+    Mr. Bishop. So you are ultimately responsible for this.
+    Mr. Jarvis. I am ultimately responsible.
+    Mr. Bishop. What about Ms. Chambers? What culpability does 
+she have in this chain of reaction?
+    Mr. Jarvis. She is the line supervisor, U.S. Park Police. 
+She is also responsible.
+    Mr. Bishop. Look, guys, there was a 2003 report that was 
+given, 133 guns were missing, 2 ended up in a pawn shop; a 2008 
+report that showed problems; a 2009 report that showed 
+problems. All of you were on the job then.
+    Mr. Jarvis, what specifically did you do to implement the 
+findings of the 2009 report?
+    Mr. Jarvis. I was unaware of the 2009 report.
+    Mr. Bishop. But it came under your watch.
+    Mr. Jarvis. I was not the Director until October of 2009.
+    Mr. Bishop. No, you were the Director after this report was 
+taken--this report was permitted. What did you do about it?
+    Even if it came after you took office, which it did not, 
+what should you have done about it?
+    Mr. Jarvis. I should hold my line supervisors accountable 
+to follow the procedure----
+    Mr. Bishop. Just the line supervisors?
+    I mean, Ms. Chambers, you are throwing everyone in your 
+department under the bus. How much accountability should you 
+have for that? That was his question. It hasn't been answered. 
+How much accountability should you hold?
+    Chief Chambers. Full accountability.
+    Mr. Bishop. Have you taken full accountability and 
+responsibility for it?
+    Chief Chambers. Yes, sir, I have.
+    Mr. Bishop. What has your action been?
+    Chief Chambers. We have--the most immediate has been to 
+elevate the position of the firearms manager, sir, custodian 
+manager----
+    Mr. Bishop. What about your responsibility?
+    Chief Chambers. --so that I have a more direct line of 
+communication with that person.
+    Mr. Bishop. So you are still blaming other people for it.
+    Chief Chambers. No, sir. It is my responsibility.
+    Mr. Bishop. I am going to yield back to the gentleman from 
+Michigan.
+    Mr. Chaffetz. The gentleman yields back.
+    We will now recognize the gentleman from Tennessee, Mr. 
+Duncan, for 5 minutes.
+    Mr. Duncan. Thank you, Mr. Chairman.
+    And both chairmen have started touching on this, but I read 
+in this letter, it said, ``This report further underscores''--
+the letter from the Deputy Inspector General Kendall--``This 
+report further underscores the decade-long theme of inaction 
+and indifference of U.S. Park Police leadership. Basic tenets 
+of property management and supervisory oversight are missing in 
+their simplest forms. Commanders up to and including the Chief 
+of Police have a lackadaisical attitude toward firearms 
+management. Historical evidence indicates that this 
+indifference is a product of years of inattention to 
+administrative detail.''
+    That is a very disturbing letter. And then it becomes even 
+more disturbing when I read that the 2008 report and the 2009 
+report both have the same language.
+    ``We found a disconcerting attitude toward firearms 
+accountability within U.S. Park Police. In particular, we found 
+that firearms custodians were unaware of the number of guns in 
+their inventory or of the origin of these guns and that guns 
+physically present were not listed on the inventory.''
+    That is very disturbing, that this has been going on for, 
+it says, a decade and that there was this report in 2008 and 
+2009.
+    Are we going to be back here 5 years from now and the 
+situation is going to be the same? I mean, will each of you 
+assure us that something is going to be done to straighten this 
+out and change these lackadaisical attitudes about this, or are 
+you just going to go back to your offices and laugh about this 
+hearing?
+    Mr. Jarvis. I will respond to that.
+    Absolutely, I can assure you that we will not be back in 
+here, other than perhaps to report on the final findings of 
+this investigation. But I can assure you that we will, 
+throughout the National Park Service, including the U.S. Park 
+Police, ensure accountability throughout the organization.
+    Mr. Duncan. Ms. Chambers?
+    Chief Chambers. I certainly echo the Director's remarks. 
+Action has been taken and will continue to be taken. It is a 
+continual improvement process, and we will get better at it 
+with each day.
+    Mr. Duncan. Is it accurate, the report I have, that there 
+are 640 officers that are in your department----
+    Chief Chambers. Approximately, sir.
+    Mr. Duncan. --in your force?
+    Chief Chambers. Yes, sir.
+    Mr. Duncan. I mean, that is not a gigantic bureaucracy. It 
+looks like to me like it shouldn't be this difficult to 
+straighten this out and change these attitudes and this 
+indifference.
+    So thank you very much. I yield back.
+    Mr. Chaffetz. I thank the gentleman.
+    We will start a second round here. I will recognize myself.
+    Chief Chambers, in response to Chairman Bishop, you said 
+that you were elevating this position or this person. What does 
+that mean?
+    Chief Chambers. Not the person, sir, the position. It has 
+been a----
+    Mr. Chaffetz. When you say ``elevate,'' what does that 
+mean?
+    Chief Chambers. Right now, it is in the hands--the firearms 
+custodian position is handled by a sergeant who also is our 
+range master. That is not appropriate. I need a person full-
+time who will devote all of his energy to the management of the 
+firearms.
+    So a lieutenant is now being taken from another position. 
+That lieutenant is being pulled out of the chain of command and 
+going right to the Deputy Chief, who sits next to my office, so 
+that we----
+    Mr. Chaffetz. So how many weapons, then, does the U.S. Park 
+Police have? What is the current inventory?
+    Chief Chambers. Approximately 2,500, sir.
+    Mr. Chaffetz. So you have 2,500 weapons. Why that number? 
+Why 2,500?
+    Chief Chambers. Well, sir, a patrol officer would have 
+three weapons each: a firearm at his side, a pistol; a patrol 
+rifle; and a Taser.
+    Mr. Chaffetz. So the IG found that there were in their 
+words, 1,400 extra weapons. What are these extra weapons?
+    Chief Chambers. Sir, I would have characterized it 
+differently but as I probed the extra weapons included things 
+like serialized parts, firearms that had been cannibalized so 
+that we could keep other firearms in working condition without 
+incurring additional cost. Some of these were training weapons. 
+Some, as we had already discussed, were those were set aside 
+awaiting disposal once we were able to get a contract.
+    Mr. Chaffetz. So you said 2,500 weapons is how many you 
+have?
+    Chief Chambers. Approximately, yes, sir.
+    Mr. Chaffetz. You have 640 officers?
+    Chief Chambers. Yes, sir.
+    Mr. Chaffetz. You said that a person would have three 
+weapons?
+    Chief Chambers. A patrol officer would have three, yes, 
+sir.
+    Mr. Chaffetz. Who has more than three weapons?
+    Chief Chambers. It is likely that a SWAT officer may have 
+an additional weapon depending on his assignment.
+    Mr. Chaffetz. So you have 640 sworn officers, who have 
+three weapons each, that is close to 1,900.
+    Chief Chambers. Yes, sir.
+    Mr. Chaffetz. How do you account for the other 600 weapons?
+    Chief Chambers. Sir, many are for training purposes. They 
+include things like simunitions guns that you point at a 
+screen, Tasers, things that----
+    Mr. Chaffetz. When can you provide to this committee--when 
+I say ``this'' committee, both committees, Oversight and 
+Natural Resources, the actual inventory?
+    Chief Chambers. I'm sorry, you are asking for----
+    Mr. Chaffetz. A copy of the inventory.
+    Chief Chambers. Yes, sir, I would be glad to.
+    Mr. Chaffetz. When will I get that?
+    Chief Chambers. If I could have a week that would be 
+appreciated.
+    Mr. Chaffetz. One week sounds reasonable.
+    Chief Chambers. All right, sir.
+    Mr. Chaffetz. By next Friday, we look forward to seeing 
+that inventory. I asked you if you took any issue with the idea 
+with the findings of the OIG. He found that you had 1,400 extra 
+weapons. Do you take exception to that?
+    Chief Chambers. I do, sir.
+    Mr. Chaffetz. Why didn't you say that before when I asked 
+you?
+    Chief Chambers. Sir, I didn't want to interrupt. Others 
+were speaking.
+    Mr. Chaffetz. No. I asked you that question. You weren't 
+interrupting. How is it that there is such a disparity--how did 
+you come up with the number 1,400 extra weapons?
+    Mr. Knox. Chairman, during our assessment we physically 
+examined over 1,350 or so weapons on hand. At the same time the 
+force firearms custodian provided us a list indicating he had 
+1,450 essentially weapons on hand. There was a disparity in 
+those numbers, and even as I listened to the Chief testify 
+today, if each officer has a weapon and we have 1,920 weapons 
+therefore issued, that would leave only 600 on hand for a total 
+count of 2,500. But we counted twice that many. And granted 
+they are a collection of----
+    Mr. Chaffetz. Let me understand that. You counted how many 
+weapons?
+    Mr. Knox. 1,350.
+    Mr. Chaffetz. But when you said twice that many, twice of 
+what? Explain that to me.
+    Mr. Knox. If three weapons are issued to each officer, 
+meaning a total of 1,920, and if 2,500 is the total sum of 
+weapons in possession of the Park Police, we should have only 
+been able to count 600 weapons when we went through the various 
+facilities. But, in fact, we counted 1,350.
+    Mr. Chaffetz. Chief? How do you answer that?
+    Chief Chambers. Sir, many of those are patrol rifles that 
+have not yet been issued. The patrol rifle program, it takes 40 
+hours for an officer to get fully certified. And at this 
+moment, we don't have a range to use so we use those as we can 
+get it. It will take several more years until every officer is 
+certified to carry a patrol rifle.
+    Mr. Chaffetz. Mr. Jarvis, do you concur with everything the 
+Chief is saying?
+    Mr. Jarvis. I do, I do. I want to add one other factor 
+though that they are in possession of some 500 weapons that are 
+scheduled for disposal----
+    Mr. Chaffetz. Would any of those disposals include the 
+sales of those weapons?
+    Mr. Jarvis. I do not believe so, sir.
+    Mr. Chaffetz. Why not, why not sell the weapons? They are 
+of value.
+    Mr. Jarvis. I think our policies are that those weapons go 
+to disposal.
+    Mr. Chaffetz. That is a policy we need to revisit. My time 
+is expired.
+    I now recognize the gentleman from Arizona, Mr. Grijalva, 
+for 5 minutes.
+    Mr. Grijalva. Thank you, Mr. Chairman.
+    Mr. Knox, just for the sake of definition, it is my 
+understanding that what triggered your investigation and your 
+recommendations and findings was an anonymous tip or an 
+anonymous complaint. That anonymity, is it for the sake of 
+protecting a whistleblower under the statute, or is it indeed 
+anonymous as the definition would be of anonymous?
+    Mr. Knox. Congressman, in this instance, the complaint was 
+received anonymously. We have no knowledge----
+    Mr. Grijalva. Was it in writing, a phone call?
+    Mr. Knox. The complaint was received in writing.
+    Mr. Grijalva. Excuse me. I don't have that here with me. 
+That particular complaint, that has been made available to the 
+committee in writing?
+    Mr. Knox. No, sir, I believe I don't believe it has.
+    Mr. Grijalva. Mr. Chairman, could we have that complaint in 
+writing as part of the record?
+    Mr. Knox. Are you asking me for the complaint?
+    Mr. Grijalva. Yeah.
+    Mr. Knox. I will have to consult with the Deputy IG on our 
+policy relating to release.
+    Mr. Chaffetz. The committee would certainly appreciate 
+that, not just the consultation but to comply with the ranking 
+member's request.
+    Mr. Knox. I understand. Thank you very much.
+    Mr. Grijalva. And excuse me. I keep and to all the 
+witnesses--I keep asking the same question to people because I 
+keep looking for a smoking gun, and I can't seem to find one. 
+Pardon the pun.
+    The Fraternal Order of Police has concerns with the 
+methodology and the allegations made in the IG report. They 
+believe that law enforcement best practices were not followed 
+and that the report unjustly put, places blame on the current 
+agency administration for the failure of previous chiefs of 
+police and that the report undermines the credibility of this 
+and future IG assessments and indeed the credibility of the 
+force itself.
+    Chief, your reaction to that assessment. And I will ask the 
+same of you, Mr. Knox, if you don't mind.
+    Chief Chambers. The Fraternal Order of Police's 
+communication with you is, of course, on their own volition. 
+The fact that one agrees or disagrees with how the IG's report 
+may have been conducted is not as important to me as the value 
+I find and I did find it valuable and the 10 recommendations 
+are a great road map for us and I intend to see that they are 
+fully implemented.
+    Mr. Grijalva. Thank you.
+    Mr. Knox.
+    Mr. Knox. Congressman, I received a copy of the Fraternal 
+Order of Police letter just moments before while we were in 
+recess. I've read it. I'm not sure what information they might 
+be referring to. I take exception to their statement about 
+undermining the value of OIG activity. In fact, our 
+recommendations have been received well by the National Park 
+Service, and we're pleased that they intend to implement them.
+    Mr. Grijalva. And I agree. I think that the fact that the 
+reaction from the administration and the Department has been to 
+be proactive and say, okay, let's look at these and make 
+corrections and adjustments. But we keep looking for the root 
+cause of all this. And so that is why I'm assuming we are 
+having this hearing rather than giving it ample time for the 
+recommendations to be implemented, to be corrected, and then to 
+have a hearing on the assessment toward the end of the line as 
+opposed to making some judgments now that are probably I think 
+patently unfair when the process isn't done yet.
+    But given all that, there was a transition going on, Ms. 
+Thorsen, from one system to another dealing with a reliable 
+weapons inventory.
+    Do you believe that that transition to a new system is one 
+of the reasons the Park Police could not provide the IG at that 
+moment of the snapshot with the records upon request?
+    Ms. Thorsen. Without understanding the thorough assessment 
+process that the IG used, they have their own methodologies in 
+which they follow when they do their assessments, it appears 
+that when they were looking for records and talking to the 
+Chief they were unable to bring up records in the FBMS system. 
+So that may have very well played into the fact that they could 
+not produce at the time the electronic accounting records 
+needed for verification.
+    FBMS is the financial and business and management system 
+for the Department.
+    Mr. Grijalva. Thank you. Not by act of Congress and by 
+unfortunately a signature of the administration, we have guns 
+in the parks, and the public can have that access. And I would 
+suspect that maybe our committees' time would be well served to 
+assessing how that's going, what stress is put on Park Police 
+and employees, and what, if any, backlash has been in terms of 
+public acceptance of that.
+    With that, I yield back. And thank you, Mr. Chairman.
+    Mr. Chaffetz. Thank you. I now recognize Chairman Bishop 
+for 5 minutes.
+    Mr. Bishop. Thank you.
+    Ms. Thorsen, you're the person who oversees all the law 
+enforcement programs in the Department. What is your 
+responsibility to ensure the Department firearm policies are 
+known and followed?
+    Ms. Thorsen. The office of law enforcement security in the 
+Department is part of the tiered responsibility in the 
+Department for firearms accountability. It starts with the 
+officer supervisory chain, the Chief in this instance, the 
+director of the particular bureau that the law enforcement 
+program resides in. We have seven----
+    Mr. Bishop. So is it your responsibility to make sure she 
+knows what she's supposed to be doing?
+    Ms. Thorsen. We do that through compliance evaluations 
+periodically, yes.
+    Mr. Bishop. So if the Chief claims that she didn't know 
+about some of these things, is that your responsibility for 
+making that known? Is that your--has it been your office's 
+failure in her not understanding what she was supposed to be 
+doing?
+    Ms. Thorsen. No, I do not believe it is our office's 
+failure.
+    Mr. Bishop. That's your responsibility.
+    Ms. Thorsen. Our responsibility is to issue departmental 
+policy, which we did after the 2009 report was issued.
+    Mr. Chaffetz. How do you follow up on that?
+    Ms. Thorsen. We follow up with periodic compliance 
+evaluations and we are in the middle of doing a firearm 
+assessment right now in all seven law enforcement programs in 
+the Department.
+    Mr. Bishop. The report--they started looking at this thing 
+in February. You started counting in July. Why was there that 
+disparity of time? Why did you wait so long to try and find out 
+what the answers would be?
+    Ms. Thorsen, I'm still coming at you.
+    Ms. Thorsen. Actually we started our assessment in April 
+and we are still in the middle of that.
+    Mr. Bishop. Mr. Knox, you didn't do a baseline accounting, 
+did you, of how many guns ought to be there, what is the number 
+that should be?
+    Mr. Knox. Mr. Chairman, we could not do that. The records 
+were not available.
+    Mr. Bishop. All right. Ms. Thorsen, what has your office 
+done to provide an accurate baseline accounting for firearms, 
+not just within her department but across the Department?
+    Ms. Thorsen. With the park police we are part of the team 
+that is actually out doing a physical inventory right now 
+regarding the Park Police.
+    Mr. Bishop. Are you doing a baseline?
+    Ms. Thorsen. We are doing a physical inventory at this 
+point and----
+    Mr. Bishop. Is somebody going to come up with how many 
+weapons should be out there?
+    Ms. Thorsen. That's the next phase. As talked about 
+earlier, we will be looking at, the Park Service in particular 
+will be looking at purchasing records, transfer records and 
+comparing those to the physical inventory and----
+    Mr. Bishop. When is that going to happen? When will that be 
+done?
+    Ms. Thorsen. I don't have an exact date but I'm hoping in 
+the next couple months or two.
+    Mr. Bishop. So are we. The Department's testimony says----
+    Mr. Chaffetz. Will the gentleman yield.
+    Mr. Bishop. Yes.
+    Mr. Chaffetz. Recommendation Number 6 says reduce the 
+firearms inventory to no more than the minimum necessary to 
+equip law enforcement, and that is to be done by October 2013. 
+If you don't have a baseline, you don't know how many you're 
+going to reduce it by, I worry that, do you even know what the 
+recommendations are?
+    Ms. Thorsen. Yes, I do, sir.
+    Mr. Chaffetz. I yield back.
+    Mr. Bishop. All right, the Department testimony says the 
+Office of Law Enforcement and Security will work with the Park 
+Service to provide additional oversight. That suggests that 
+OLES has not, in the past, been conducting adequate oversight 
+of the department's law enforcement units in their firearm 
+inventory? Did you or OLES conduct any oversight in response to 
+the allegations of the 2009 report to ensure that 
+recommendations were implemented?
+    Did you do anything for the 2009 report?
+    Ms. Thorsen. We issued a variety of policies in our 
+firearms policy, and then we have since also looked and 
+compared policies at the Bureau of Land Management, the Bureau 
+of Reclamation, and the Fish and Wildlife Service Office of Law 
+Enforcement to ensure that they had policies in place that we, 
+we in the Department, identified from the 2009 report.
+    Mr. Bishop. So why wasn't he able to find any of that 
+stuff?
+    Ms. Thorsen. Well, those were three different bureaus. The 
+Park Police, the process for the Park Service and the Park 
+Police with them, and that follow-up is scheduled in the next 
+couple of months. We have, the capacity we have in the 
+Department with seven law enforcement programs we are going 
+through them systematically.
+    Mr. Bishop. All right. So they are different than the 
+others and I get that. But in 2009, it was supposed to be, the 
+recommendation was OLES should revise existing policy to direct 
+that lost or missing cached firearms must be reported and 
+investigated similar to lost or missing assigned firearms. That 
+was the responsibility in 2009. Why didn't you do it?
+    This is now 4 years later we find out it hasn't been done. 
+Why wasn't it done?
+    Ms. Thorsen. We did issue policy, Chairman, to ensure that 
+weapons lost, missing weapons were reported. Those are required 
+to be reported up in to our interior operations center on a 
+serious incident report.
+    Mr. Bishop. But what good are those policies if no one 
+knows about it and no one is following up on it? You have no 
+follow-up on what you said you did after the two--there is no 
+reason that this IG's report should have come out. There was 
+already a problem in 2003 when all of you were involved. There 
+was a report in 2008, and another one in 2009. It told you to 
+do this. You say you issued policies but no one knows about 
+them and no one followed up on them. Why not?
+    Ms. Thorsen. The bureaus do know about the policies we 
+issued. We issued them to all seven law enforcement programs 
+once they are issued from the Department. We also have ongoing 
+conversations with the bureaus, the Bureau of law Enforcement 
+Programs, in fact, while we are developing those policies and 
+when we issue those policies. So they are aware of those 
+policies.
+    Mr. Bishop. Then why didn't you have the data? Why were 
+these things missing? Why did the IG report find out so many 
+problems that they labeled also as a lackadaisical action and a 
+culture that takes place? Why wasn't this thing solved in 2009 
+if you actually did your job in 2009? If you actually followed 
+the policies that were requested, and you say you do, why do we 
+still have this problem 4 years later? And it was a perfect 
+question by Mr. Duncan. Are we going to have the same thing 
+happen in 5 years because of the attitude, lackadaisical 
+attitude we have in the Department? Ms. Thorsen, this is your 
+responsibility, why has it not been done? Why 4 years later are 
+we still in a mess?
+    Ms. Thorsen. The responsibility and accountability for 
+firearms rests partly with the Department, but also with, as I 
+said earlier, the officer, supervisory chain, the Chief and the 
+director of whatever particular bureau the law enforcement 
+program falls in. And as the director spoke earlier to, they do 
+regular inventories, yearly inventories and information 
+assurances statements every year to ensure that those 
+accountable property items are tracked. So my expectation is 
+that the bureaus and their programs are executing those 
+requirements through policies we issue and policies issued by 
+the acquisition and property management staff.
+    Mr. Bishop. All right, I'm way over time so I will ask this 
+simple question. If you did everything right, who screwed up?
+    Ms. Thorsen. The Department issued policies for--actually 
+the 2008 and the 2009 reports. The Park Police did not 
+institute all of those policies, which we found out, and we are 
+implementing those recommendations as we speak right now from 
+the IG's report.
+    Mr. Bishop. So Ms. Chambers screwed up?
+    Ms. Thorsen. There are many layers of folks that were not 
+taking appropriate accountability.
+    Mr. Bishop. So you all screwed up?
+    Ms. Thorsen. No, I would not say everybody screwed up, sir.
+    Mr. Bishop. But somebody had to.
+    Ms. Thorsen. There are members, members of the force, 
+members of the Park Service as identified by the IG in the 
+report that apparently were not able to account for their 
+firearms. So we take the recommendations to heart, we are 
+implementing them to ensure that they are trained and that they 
+are well aware of their personal accountability requirements 
+when it comes to firearms.
+    Mr. Bishop. All right, this is the last statement then. If 
+you ordered, if you did the policies, you took the 
+recommendations that go back 4 years ago and you did all of 
+that, this IG's report should not have happened. Somewhere 
+there was a failure. This IG's report should not have happened 
+at all. Somewhere there is a failure, and someone needs to be 
+responsible for that failure.
+    I'm sorry. I do have one last question. You said you 
+elevated this new position to take care of this problem.
+    Chief Chambers. Sir, I have assigned it to rank one rank 
+higher.
+    Mr. Bishop. So someone got promoted to do this?
+    Chief Chambers. No, sir. A current lieutenant has now been 
+moved into this new position.
+    Mr. Bishop. So someone on staff has been promoted into this 
+new position?
+    Chief Chambers. Not promoted, sir, moved laterally from his 
+other assignment as a shift commander.
+    Mr. Bishop. Was this person responsible for this--oh, never 
+mind. I think you understand where I'm coming. Somebody got a 
+new assignment because of this but that doesn't solve the 
+problem. I'm sorry for going over.
+    Mr. Chaffetz. One of the challenges is everybody, oh, we 
+take responsibility, but nobody is held accountable. Nobody is 
+held accountable. That's the problem. Is anybody fired? Has 
+anybody been fired? No. And we have this persistent problem, 
+we're dealing with weapons. This is not an excusable, oh, 
+sorry, I won't let that happen again.
+    If President Obama wants gun control, he should start with 
+the United States Park Police.
+    Now a very generous 5 minutes for the gentlewoman from 
+Washington, D.C., Ms. Norton.
+    Ms. Norton. Well, the committee is and I thank you, Mr. 
+Chairman, is right to be concerned about the IG report and what 
+looks like difficulties of setting up a two system to keep 
+track of guns. Anybody who has control of guns has a special 
+responsibility. I'm going to say I find it also interesting 
+that this committee is as interested as it is in the question 
+since it has tried in the past to wipe out all the gun laws in 
+the District of Columbia which would have given the Park Police 
+a whole lot more work than it has now.
+    So I'm interested less in beating somebody up and finding 
+out how to get this gun given the personnel issues that face 
+every agency, including the Park Police.
+    Now did I understand you to say that you are not filling 
+vacancies, Ms. Chambers?
+    Chief Chambers. Not sworn vacancies, and civilian ones only 
+on an as need basis and approved up the chain of command.
+    Ms. Norton. So no matter how low, we have a lieutenant who 
+was here in a line position that had to do with patrol of the 
+Park Police throughout the region?
+    Chief Chambers. Yes, ma'am. He was a shift commander.
+    Ms. Norton. So somebody is going to have to do that job 
+which has to do with law and order.
+    So I'm concerned that at a time when even officers of the 
+Park Police when they leave the Park Police and create a 
+vacancy cannot be replaced that we are talking about why people 
+aren't doing what clearly they should have been doing in this 
+climate.
+    All I can say, Chief Chambers, is in trying to get ahold of 
+this inventory, an important responsibility of the Park Service 
+and of the Park Police, I certainly hope that because you have 
+heard so much at this hearing from Congress and that can always 
+be intimidating, you will bear in mind that the public wants 
+our monuments to be safe. Our public wants the 20 million 
+visitors who come to this city from around the world to be 
+safe, especially since most of them go to the monuments and to 
+the Mall.
+    So I can only hope that your first priority, whatever the 
+concern, and it is a legitimate concern, about these guns does 
+not deflect you from the law and order, the law and order 
+mandate of the Park Police.
+    Mr. Knox, is there any evidence that there has ever been a 
+system to keep control of guns? I mean aren't we starting from 
+the ground up?
+    Mr. Knox. Congresswoman, the current state of 
+accountability for weapons at the Park Police is in disarray.
+    Ms. Norton. I understand that. I am saying it sounds to me 
+as though no one ever invented one.
+    Mr. Knox. Well there is no, as we say in our report we 
+don't have a baseline from which to start. There's no point in 
+time where we have any confidence in any inventory----
+    Ms. Norton. So bear that in mind that essentially there is 
+no record that the Park Police has ever in any administration 
+at any time done anything but keep the guns from getting out of 
+its control and apparently it has done that, but it has never 
+had the kind of professional system that we would expect a law 
+enforcement office to have. Of course the Park Police has been 
+among the most unappreciated and least well staffed police 
+forces, Federal police forces. And you know it shows.
+    So I understand this is an important issue. I represent 
+this city. If the Park Police don't keep control of guns then, 
+of course, in no small measure this city may be the first to 
+feel the effects of it.
+    But we're asking the Park Police to create, invent a system 
+that was never in place at a time when they will not be able to 
+replace peace officers no matter how low the number gets when 
+and if they leave. So I want to make it clear that there are 
+mandates and there are mandates. And I certainly hope nothing 
+in this hearing makes you believe that there is any mandate 
+more important than making sure that our monuments, our 
+visitors and the people, our Federal employees, the people who 
+come to this city in huge numbers every day, are safe.
+    Mr. Knox, this may not be done as fast as it should be but 
+I assume you also would believe that their first priority 
+should be the protective mandate of any police force.
+    Mr. Knox. Congresswoman, of course we do. I do as well 
+personally. But I would like to say that weapons accountability 
+is a very fundamental task of a law enforcement agency and not 
+a difficult one to achieve. It just takes leadership.
+    Ms. Norton. Agreed. And I'm the first to agree to that. As 
+I say. My district would be the first to feel the effects. But 
+you're talking to people who cannot fill any position at any 
+time and whose budget is going to go lower and lower each year 
+unless we do something about it. I think everybody ought to put 
+all the cards on the table, and that's the big elephant in this 
+hearing room today.
+    And I yield back the balance of my time and I thank the 
+chairman.
+    Mr. Chaffetz. And I thank the gentlewoman. I would remind 
+the gentlewoman that the U.S. Park Service spends some $50 
+million a year acquiring new properties, acquiring new things. 
+We can't even take care of what we have now. So if you share my 
+commitment that we need the proper personnel, they need to be 
+trained, they need to be supervised properly, perhaps the 
+gentlewoman would join me in making sure that rather than 
+acquiring new things and spending to the tune of $50 million a 
+year doing so within just this one department, maybe we should 
+take care of what we have here today.
+    Now I will yield to the gentleman from Massachusetts, I 
+recognize him for 5--I'm so sorry the gentleman from Michigan, 
+Mr. Bentivolio, for 5 minutes.
+    Mr. Bentivolio. Thank you very much, Mr. Chairman. Let me 
+be perfectly clear. There's no doubt in my mind that I don't 
+think our officers on the job are not doing that job and 
+protecting the life and property of the United States 
+Government as well as our visitors.
+    But Ms. Chambers, Chief Chambers, I'm still a little 
+concerned. You said something earlier that you did not know 
+what a report of survey was, what last year you just learned of 
+it? Is that right?
+    Chief Chambers. After the interview with the Inspector 
+General's investigator, I then inquired of my staff, what is 
+this term? What does it mean? And they provided me with all the 
+background.
+    Mr. Bentivolio. And how long have you been in this 
+position?
+    Chief Chambers. Sir, I was reinstated in January of 2011.
+    Mr. Bentivolio. Reinstated.
+    Chief Chambers. Yes, sir.
+    Mr. Bentivolio. That means you held this position before?
+    Chief Chambers. Yes, sir.
+    Mr. Bentivolio. What years was that?
+    Chief Chambers. 2002 and 2003, sir.
+    Mr. Bentivolio. So you held this position before and you 
+didn't find out what a report of survey was?
+    Chief Chambers. I had never heard the term, sir.
+    Mr. Bentivolio. Do you have any military experience?
+    Chief Chambers. No, sir, I don't.
+    Mr. Bentivolio. Okay. You know, I could pretty much ask 
+most privates and corporals and surely an E5 sergeant what a 
+report of survey is and they will be able to tell you. And I'm 
+a little bit surprised and disturbed that somebody at your rank 
+doesn't understand that.
+    Now let me ask you another question real quickly. If I went 
+and just stopped in one of your field offices where there were 
+some rifles or pistols and I asked you and read the serial 
+number, would you be able to tell me where it was acquired, 
+when it was acquired, who had it or a chain if you will or, 
+yes, somebody signed for it, a hand receipt for it, anything 
+like that?
+    Chief Chambers. Not knowing the capabilities of the 
+financial business management system that we just got access 
+to, I don't know that answer today, but I'd be glad to find out 
+for you.
+    Mr. Bentivolio. So--let's say I'm an officer. Do I come in 
+and say hey I would like to check out a rifle, I'm qualified, I 
+was a master gunner for my unit, I'm SWAT trained, former 
+military policeman, I know how this works.
+    How do I get that weapon?
+    Chief Chambers. Actually we've got such a request right 
+now. An officer would request to have one assigned to him so 
+that he doesn't have to go to an arms room. It would be 
+assigned to him each and every day to take out on patrol.
+    Mr. Bentivolio. What do you mean you don't have an arms 
+room? If he signs it out every day you have to have a secure--
+--
+    Chief Chambers. It would be a secure area for him, yes, 
+sir.
+    Mr. Bentivolio. So these are locked up overnight when he is 
+not on duty?
+    Chief Chambers. Correct, sir.
+    Mr. Bentivolio. And then he shows up in the morning, he is 
+going on duty, does he sign for that weapon?
+    Chief Chambers. He better. I don't know the answer----
+    Mr. Bentivolio. He'd better?
+    Chief Chambers. There are sign-out procedures.
+    Mr. Bentivolio. Okay, well, there should be an armorer or 
+somebody that hands that weapon over to him and he signs for 
+it. Is that correct?
+    Chief Chambers. That's correct, sir.
+    Mr. Bentivolio. All right. Now if you're not doing that, 
+I'm going to highly recommend U.S. Army veterans. Do you hire 
+any veterans?
+    Chief Chambers. We do, sir.
+    Mr. Bentivolio. Well, you know, they know this stuff 
+backwards and forwards. They know the procedure. Maybe you 
+should consult somebody who has experience in this area other 
+than somebody who, well, apparently doesn't know. Because there 
+should be a chain of title or a chain that I can look at right 
+now and see a serial number and ask you where that weapon is or 
+find out immediately where that weapon is and who had it at all 
+times at any moment.
+    And you know in the Army if you didn't do that in my unit, 
+you'd be relieved on the spot, there would be a report of 
+survey on the spot, five or six officers would have their heads 
+rolling if they didn't get it fixed within hours.
+    Chief Chambers. And that's certainly the ultimate goal.
+    Mr. Bentivolio. But nobody's head's rolling. Nobody 
+understands. And I keep hearing 5 to 10 years, and apparently 
+you didn't know what a report of survey was even back in 2002 
+when you held this position.
+    Chief Chambers. That's correct.
+    Mr. Bentivolio. With that, Mr. Chairman, I yield back my 
+time. Thank you.
+    Mr. Chaffetz. Thank you.
+    I will recognize myself as we wrap this up. I do have a few 
+more questions.
+    Chief, how is it that somebody could walk up to the Lincoln 
+Memorial, throw green paint on it, and walk away without 
+anybody noticing? How does that happen?
+    Chief Chambers. Sir, if a criminal is intent on committing 
+a crime in the presence or outside the presence of a police 
+officer's view, he or she can do it. Fortunately, we have got 
+technology that has helped us gather the evidence needed in 
+this case.
+    Mr. Chaffetz. Why wasn't that person apprehended on the 
+spot? Is there not a person there patrolling at the time?
+    Chief Chambers. There is, sir. And he had just left that 
+side of the statue and was actually on the back side at the 
+moment that it occurred. I'm confident that it happened very 
+quickly based on other witness statements.
+    Mr. Chaffetz. I find it totally and wholly unacceptable 
+that we don't have the adequate control on something so 
+precious and so visible, so close to the White House as the 
+Lincoln Memorial. It is just stunning. We will have to get into 
+that further.
+    How much ammunition do you have?
+    Chief Chambers. Sir, we have approximately 500,000 rounds 
+of ammunition, and we will be using about 200,000 of that here 
+in the next few months for requalification. That happens twice 
+a year.
+    Mr. Chaffetz. So 200,000 rounds for 640 people, I will have 
+to work back and do the math, that seems like an awful lot 
+actually as I kind of calculate it right off the top of my head 
+here.
+    What I would like, and Mr. Jarvis, I would like this from 
+you and Ms. Thorsen as well, all seven of the agencies, I hope 
+you find it reasonable to ask for the current inventory. We've 
+done this with other departments and agencies, we did it with 
+the Social Security Administration, we have done it with 
+others, it is not a new ask, to provide us a listing of how, 
+the current inventory of all the weapons broken out by each of 
+the seven agencies, the departments, whatever you want to call 
+them, that would also include the inventory of ammunition.
+    And if you could also show us the historical purchases of 
+both weapons and ammunition for the last 5 years, that would be 
+very helpful.
+    And the final thing that I would ask is a projection on 
+what you anticipate purchasing over the next 24 months. I know 
+that crosses a couple different fiscal years and what not but 
+certainly you have some sort of projection. And Mr. Jarvis, is 
+that a reasonable ask?
+    Mr. Jarvis. I think that the ask for the current inventory 
+is very reasonable. I think we can supply that. At least I'm 
+speaking for the Park Service, I can't speak for the other 
+agencies, and also inventory weapons and ammunition. 
+Projections--one caveat I would say going back and looking over 
+the past 5 years of procurement, that will be, that's a big 
+lift. As was indicated here a little bit behind the scenes, we 
+have transitioned to a new accounting system----
+    Mr. Chaffetz. Well, what's a reasonable time that you would 
+get that to the two committees?
+    Mr. Jarvis. I will have to get back to you on what, how 
+much time that will take. I don't want to overpromise and 
+underdeliver on that, so I want to be able to tell you how long 
+it would take.
+    Mr. Chaffetz. Could we say September 7th; is that a 
+reasonable time, over a month away?
+    Mr. Jarvis. That we could get back to you with how long it 
+will take?
+    Mr. Chaffetz. No. No.
+    Mr. Jarvis. I cannot promise you that I can have 5 years of 
+procurement data to you by September 7th. That is unreasonable.
+    Mr. Chaffetz. Let's say this, by the end of August that you 
+would get us the current inventory, which you supposedly have 
+right at your disposable at this time, and we will give you an 
+additional 30 days for the projection of procurement. Is that 
+fair, the end of September for the procurement projections?
+    Mr. Jarvis. I would guess that our projection for 
+procurement is probably the next 12 months, because we don't--
+fiscal year----
+    Mr. Chaffetz. Next 12 months is a start. That gives you 
+almost 60 days to do the, I think that's reasonable. Ms. 
+Thorsen, can we do that with all the agencies or all the 
+departments under those time parameters?
+    Ms. Thorsen. Well, I also don't want to overpromise and 
+underdeliver.
+    Mr. Chaffetz. I'm asking you to make a commitment. You are 
+the one in charge.
+    Ms. Thorsen. I will work with the other directors in the 
+bureaus to ensure that they get the direction and that we move 
+forward, absolutely.
+    Mr. Chaffetz. And that you will hit those dates.
+    Ms. Thorsen. Yes.
+    Mr. Chaffetz. Thank you. I appreciate that.
+    Mr. Chaffetz. Now I yield to or recognize the gentleman 
+from Utah, Chairman Bishop.
+    Mr. Bishop. I was just making sure when he said the 
+gentleman from Utah he actually meant me.
+    Mr. Knox, you didn't go through an assessment of 
+procurement or storage or anything else of ammunition, did you, 
+in the report?
+    Mr. Knox. Mr. Chairman, no, we did not.
+    Mr. Bishop. Were there anecdotal evidences or issues that 
+you saw as you were going through the report?
+    Mr. Knox. Anecdotally we observed as we moved through the 
+various facilities conditions which could be enhanced for 
+security, all of which I should mention, sir, were known by the 
+Park Police and something they are dealing with.
+    Mr. Bishop. Ms. Thorsen, you have a policy for missing 
+weapons?
+    Ms. Thorsen. Yes, sir.
+    Mr. Bishop. Mr. Knox, did Chief Chambers know that policy 
+for missing weapons?
+    Mr. Knox. Mr. Chairman, I cannot tell you whether she knew 
+or did not know.
+    Mr. Bishop. Isn't--the claim is that you were not aware of 
+that policy, though, is that right, Ms. Chambers?
+    Chief Chambers. I believe the report would make one believe 
+that I did not know, but that is not accurate, sir.
+    Mr. Bishop. You did know?
+    Chief Chambers. Of course, sir.
+    Mr. Bishop. That means you should have done something about 
+it then.
+    Chief Chambers. Sir, we have no evidence of missing 
+weapons.
+    Mr. Bishop. Right. There is a couple of last requests I'm 
+going to have from everybody here.
+    Mr. Knox, this is something for which you are not 
+responsible but we are going to call for it one more time, Miss 
+Kendall's title is Acting IG, right?
+    Mr. Knox. Mr. Chairman, she uses the title Deputy IG, which 
+is the position she held. She did act for a while but the 
+vacancy act----
+    Mr. Bishop. Is there an IG, a permanent IG?
+    Mr. Knox. No, sir, we at the Interior Department do not 
+have----
+    Mr. Bishop. It has been about 4 years since we had one, 
+right? I'm going to make this call one more time as our 
+committee has previously. There needs to be a permanent IG 
+appointed and it would give some more credibility to the 
+reports that are coming out of your office. I want--we need to 
+have a permanent IG. I appreciate that.
+    Mr. Jarvis, I do have some empathy for the position you 
+have, especially when the Park Police has an autonomous streak 
+to it, but the responsibility is still to come back with these 
+reports. I notice that many of the recommendations we're asking 
+to be done by October 1st, to be completed by October 1st.
+    I would like you to supply our committee with the evidence 
+of what you have done by October 1st to implement all these 
+recommendations. And I appreciate that.
+    Ms. Thorsen, it would be the same thing, if we can get by 
+October 1st the implementation report from what you have been 
+doing.
+    Ms. Chambers, are you a political appointee in this 
+position or are you a merit?
+    Chief Chambers. Merit, sir.
+    Mr. Bishop. So you will stay there until you decide to 
+retire?
+    Chief Chambers. Yes, sir.
+    Mr. Bishop. We need a better job. This is not acceptable 
+from those who are under you. And that's all there is. This 
+report should never have come out because in 2003 your entity 
+lost 133 guns. They found them in pawn shops in Georgia, a 
+couple of them. This will not happen again. This should not 
+happen again. It is your responsibility. Make sure it does not 
+happen again.
+    And, Mr. Jarvis, we will hold you accountable for that as 
+well.
+    Chief Chambers. You have my commitment, sir.
+    Mr. Chaffetz. The gentleman yields back. We'll recognize 
+the ranking member, Mr. Tierney, from Massachusetts.
+    Mr. Tierney. Thank you.
+    Mr. Jarvis, in this particular instance, following this 
+report, have there been any identification of lost weapons?
+    Mr. Jarvis. No, sir, there have not.
+    Mr. Tierney. No indication of people finding them in pawn 
+shops or anything else?
+    Mr. Jarvis. No, sir.
+    Mr. Tierney. Mr. Knox, you did a weapons accountability 
+overview on your report and recommended that they have a better 
+system of weapons accountability, correct?
+    Mr. Knox. Yes, sir.
+    Mr. Tierney. And you base that on best practices in the law 
+enforcement field?
+    Mr. Knox. Yes, sir.
+    Mr. Tierney. And that's reflected in your recommendations?
+    Mr. Knox. It is in fact.
+    Mr. Tierney. Okay. Mr. Jarvis, you have looked at those 
+eight recommendations, and you think they are reasonable?
+    Mr. Jarvis. Yes and there are 10 actually, I looked at all 
+ten.
+    Mr. Tierney. And Ms. Chambers, you agree?
+    Chief Chambers. I do, sir.
+    Mr. Tierney. And you are in the process of trying to 
+accommodate all of those 10 recommendations, correct?
+    Chief Chambers. Some have already been completed. Many of 
+the others are well on their way, sir.
+    Mr. Tierney. And Mr. Knox, you have committed to having a 
+constant overview of this progress?
+    Mr. Knox. Yes, sir. As I stated in my opening remarks, we 
+feel we must stay engaged and continue some reviews.
+    Mr. Tierney. How will you do that?
+    Mr. Knox. We will schedule reviews and inspections after we 
+receive results from the National Park Service on the 
+implementation of our 10 recommendations.
+    Mr. Tierney. And if you feel that they're falling 
+unreasonably behind the schedule for time you said you will 
+notify the committees that are here today?
+    Mr. Knox. Yes, sir, we will.
+    Mr. Tierney. And neither Mr. Jarvis or Ms. Chambers have 
+any difficulty with that at all; you're set on that process? Do 
+you feel that each of you has the personnel that's competent to 
+carry out these recommendations?
+    Mr. Jarvis. Yes, and we have drawn from the Department of 
+the Interior as well to assist us in that work.
+    Mr. Tierney. And Ms. Thorsen, you are satisfied with that 
+as well?
+    Ms. Thorsen. Yes, sir.
+    Mr. Tierney. Thank you all for your testimony. I yield 
+back.
+    Mr. Chaffetz. Thank you. We appreciate your attentiveness 
+to this matter. We look forward to hitting those dates and 
+those commitments that we have made, and the committee now 
+stands adjourned.
+    [Whereupon, at 11:55 a.m., the subcommittees were 
+adjourned.]
+
+
+                                APPENDIX
+
+                              ----------                              
+
+
+               Material Submitted for the Hearing Record
+
+[GRAPHIC] [TIFF OMITTED] 82717.004
+
+[GRAPHIC] [TIFF OMITTED] 82717.005
+
+[GRAPHIC] [TIFF OMITTED] 82717.006
+
+[GRAPHIC] [TIFF OMITTED] 82717.007
+
+[GRAPHIC] [TIFF OMITTED] 82717.008
+
+[GRAPHIC] [TIFF OMITTED] 82717.009
+
+[GRAPHIC] [TIFF OMITTED] 82717.010
+
+                                 <all>
+
+</pre></body></html>

@@ -1,0 +1,3354 @@
+<html>
+<title> - PROGRESS IN CONSOLIDATING TERRORIST WATCHLISTS--THE TERRORIST SCREENING CENTER (TSC)</title>
+<body><pre>
+[House Hearing, 108 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+                       PROGRESS IN CONSOLIDATING
+                         TERRORIST WATCHLISTS--
+                  THE TERRORIST SCREENING CENTER (TSC)
+
+=======================================================================
+
+                             JOINT HEARING
+
+                               BEFORE THE
+
+                   SUBCOMMITTEE ON CRIME, TERRORISM,
+                         AND HOMELAND SECURITY
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+
+                                AND THE
+
+                      SUBCOMMITTEE ON INTELLIGENCE
+                          AND COUNTERTERRORISM
+
+                                 OF THE
+
+                          SELECT COMMITTEE ON
+                           HOMELAND SECURITY
+
+                        HOUSE OF REPRESENTATIVES
+
+                      ONE HUNDRED EIGHTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             MARCH 25, 2004
+
+                               __________
+
+                             Serial No. 86
+
+                      (Committee on the Judiciary)
+
+                           Serial No. 108-43
+
+                (Select Committee on Homeland Security)
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary 
+             and the Select Committee on Homeland Security
+
+    Available via the World Wide Web: http://www.house.gov/judiciary
+                        and http://hsc.house.gov
+
+
+                                 ______
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+92-674                      WASHINGTON : DC
+____________________________________________________________________________
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001
+
+                       COMMITTEE ON THE JUDICIARY
+
+            F. JAMES SENSENBRENNER, Jr., Wisconsin, Chairman
+HENRY J. HYDE, Illinois              JOHN CONYERS, Jr., Michigan
+HOWARD COBLE, North Carolina         HOWARD L. BERMAN, California
+LAMAR SMITH, Texas                   RICK BOUCHER, Virginia
+ELTON GALLEGLY, California           JERROLD NADLER, New York
+BOB GOODLATTE, Virginia              ROBERT C. SCOTT, Virginia
+STEVE CHABOT, Ohio                   MELVIN L. WATT, North Carolina
+WILLIAM L. JENKINS, Tennessee        ZOE LOFGREN, California
+CHRIS CANNON, Utah                   SHEILA JACKSON LEE, Texas
+SPENCER BACHUS, Alabama              MAXINE WATERS, California
+JOHN N. HOSTETTLER, Indiana          MARTIN T. MEEHAN, Massachusetts
+MARK GREEN, Wisconsin                WILLIAM D. DELAHUNT, Massachusetts
+RIC KELLER, Florida                  ROBERT WEXLER, Florida
+MELISSA A. HART, Pennsylvania        TAMMY BALDWIN, Wisconsin
+JEFF FLAKE, Arizona                  ANTHONY D. WEINER, New York
+MIKE PENCE, Indiana                  ADAM B. SCHIFF, California
+J. RANDY FORBES, Virginia            LINDA T. SANCHEZ, California
+STEVE KING, Iowa
+JOHN R. CARTER, Texas
+TOM FEENEY, Florida
+MARSHA BLACKBURN, Tennessee
+
+             Philip G. Kiko, Chief of Staff-General Counsel
+               Perry H. Apelbaum, Minority Chief Counsel
+                                 ------                                
+
+        Subcommittee on Crime, Terrorism, and Homeland Security
+
+                 HOWARD COBLE, North Carolina, Chairman
+
+TOM FEENEY, Florida                  ROBERT C. SCOTT, Virginia
+BOB GOODLATTE, Virginia              ADAM B. SCHIFF, California
+STEVE CHABOT, Ohio                   SHEILA JACKSON LEE, Texas
+MARK GREEN, Wisconsin                MAXINE WATERS, California
+RIC KELLER, Florida                  MARTIN T. MEEHAN, Massachusetts
+MIKE PENCE, Indiana
+J. RANDY FORBES, Virginia
+
+                      Jay Apperson, Chief Counsel
+
+                        Elizabeth Sokul, Counsel
+
+                          Katy Crooks, Counsel
+
+           Bobby Vassar, Minority Counsel<greek-l>F0486 deg.
+                 SELECT COMMITTEE ON HOMELAND SECURITY
+
+                 CHRISTOPHER COX, California, Chairman
+JENNIFER DUNN, Washington            JIM TURNER, Texas
+C.W. BILL YOUNG, Florida             BENNIE G. THOMPSON, Mississippi
+DON YOUNG, Arkansas                  LORETTA SANCHEZ, California
+F. JAMES SENSENBRENNER, Jr.,         EDWARD J. MARKEY, Massachusetts
+    Wisconsin                        NORMAN D. DICKS, Washington
+BILLY TAUZIN, Louisiana              BARNEY FRANK, Massachusetts
+DAVID DREIER, California             JANE HARMAN, California
+DUNCAN HUNTER, California            BENJAMIN L. CARDIN, Maryland
+HAROLD ROGERS, Kentucky              LOUISE McINTOSH SLAUGHTER, New 
+SHERWOOD BOEHLERT, Illinois              York
+LAMAR SMITH, Texas                   PETER A. DeFAZIO, Oregon
+CURT WELDON, Pennsylvania            NITA M. LOWEY, New York
+CHRISTOPHER SHAYS, Connecticut       ROBERT E. ANDREWS, New Jersey
+PORTER J. GOSS, Florida              ELEANOR HOLMES NORTON, D.C.
+DAVE CAMP, Michigan                  ZOE LOFGREN, California
+LINCOLN DIAZ-BALART, Florida         KAREN McCARTHY, Missouri
+BOB GOODLATTE, Virginia              SHEILA JACKSON LEE, Texas
+ERNEST J. ISTOOK, Jr., Oklahoma      BILL PASCRELL, Jr., New Jersey
+PETER T. KING, New York              DONNA M. CHRISTENSEN, Virgin 
+JOHN LINDER, Georgia                     Islands
+JOHN B. SHADEGG, Arizona             BOB ETHERIDGE, North Carolina
+MARK E. SOUDER, Indiana              JAMES R. LANGEVIN, Rhode Island
+MAC THORNBERRY, Texas                KENDRICK B. MEEK, Florida
+JIM GIBBONS, Nevada                  [VACANCY]
+KAY GRANGER, Texas
+PETE SESSIONS, Texas
+JOHN E. SWEENEY, New York
+
+                  John Gannon, Majority Staff Director
+               David H. Schanzer, Minority Staff Director
+                                 ------                                
+
+           Subcommittee on Intelligence and Counterterrorism
+
+                     JIM GIBBONS, Nevada, Chairman
+
+JOHN SWEENEY, New York,              KAREN McCARTHY, Missouri, 
+  Vice Chairman                      Ranking Member
+JENNIFER DUNN, Washington            EDWARD J. MARKEY, Massachusetts
+C.W. BILL YOUNG, Florida             NORMAN D. DICKS, Washington
+HAROLD ROGERS, Kentucky              BARNEY FRANK, Massachusetts
+CHRISTOPHER SHAYS, Connecticut       JANE HARMAN, California
+LAMAR SMITH, Texas                   NITA M. LOWEY, New York
+PORTER J. GOSS, Florida              ROBERT E. ANDREWS, New Jersey
+PETER T. KING, New York              ELEANOR HOLMES NORTON, D.C.
+JOHN LINDER, Georgia                 JAMES R. LANGEVIN, Rhode Island
+JOHN B. SHADEGG, Arizona             KENDRICK B. MEEK, Florida
+MAC THORNBERRY, Texas
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                             MARCH 25, 2004
+
+                           OPENING STATEMENT
+
+                                                                   Page
+The Honorable Howard Coble, a Representative in Congress From the 
+  State of North Carolina, and Chairman, Subcommittee on Crime, 
+  Terrorism, and Homeland Security, Committee on the Judiciary...     1
+The Honorable Jim Turner, a Representative in Congress From the 
+  State of Texas, and Ranking Member, Select Committee on 
+  Homeland Security..............................................     2
+The Honorable Jim Gibbons, a Representative in Congress From the 
+  State of Nevada, and Chairman, Subcommittee on Intelligence and 
+  Counterterrorism, Select Committee on Homeland Security........     4
+The Honorable Robert C. Scott, a Representative in Congress From 
+  the State of Virginia, and Ranking Member, Subcommittee on 
+  Crime, Terrorism, and Homeland Security, Committee on the 
+  Judiciary......................................................     4
+The Honorable Christopher Cox, a Representative in Congress From 
+  the State of California, and Chairman, Select Committee on 
+  Homeland Security..............................................     5
+
+                               WITNESSES
+
+Ms. Donna A. Bucella, Director, Terrorist Screening Center, 
+  Federal Bureau of Investigation
+  Oral Testimony.................................................     8
+  Prepared Statement.............................................    10
+Mr. Charles Bartoldus, Director, National Targeting Center, 
+  Customs and Border Protection, Department of Homeland Security
+  Oral Testimony.................................................    14
+  Prepared Statement.............................................    15
+Mr. James W. McMahon, Director, Office of Public Security, State 
+  of New York
+  Oral Testimony.................................................    17
+  Prepared Statement.............................................    19
+Mr. Jerry Berman, President, Center for Democracy and Technology
+  Oral Testimony.................................................    21
+  Prepared Statement.............................................    23
+
+                                APPENDIX
+               Material Submitted for the Hearing Record
+
+Prepared Statement of the Honorable Sheila Jackson Lee, a 
+  Representative in Congress From the State of Texas, and Ranking 
+  Member, Subcommittee on Immigration, Border Security, and 
+  Claims.........................................................    63
+Prepared Statement of the Honorable Christopher Cox, a 
+  Representative in Congress From the State of California, and 
+  Chairman, Select Committee on Homeland Security................    69
+Questions and Responses for the Record from Donna Bucella........    70
+Questions for Responses for the Record from Jim McMahon..........    77
+Questions and Responses for the Record from Charles Bartoldus....    80
+
+ 
+PROGRESS IN CONSOLIDATING TERRORIST WATCHLISTS--THE TERRORIST SCREENING 
+                              CENTER (TSC)
+
+                              ----------                              
+
+
+                        THURSDAY, MARCH 25, 2004
+
+                  House of Representatives,
+                  Subcommittee on Crime, Terrorism,
+                              and Homeland Security
+                                Committee on the Judiciary,
+
+                                  and
+
+ Subcommittee on Intelligence and Counterterrorism,
+                     Select Committee on Homeland Security,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to call, at 2:20 p.m., in 
+Room 2141, Rayburn House Office Building, Hon. Howard Coble 
+[Chairman of the Subcommittee on Crime, Terrorism, and Homeland 
+Security] presiding.
+    Mr. Coble. Before we begin, about 25 people have stopped me 
+and asked me if I was dying or if I am feeling okay, and in the 
+hopeful event of some of you might be wondering if I am about 
+to expire, I had a chemical facial peel this morning. I don't 
+look too great and I don't feel too great, but hopefully I am 
+not about to expire. So I wanted to set your minds at ease. 
+Good to have you all with us, and my colleagues are on the way.
+    Today the Judiciary Committee, Subcommittee on Crime, 
+Terrorism, and Homeland Security and the Select Committee on 
+Homeland Security, Subcommittee on Intelligence and 
+Counterterrorism, will conduct a joint hearing on the 
+consolidation of terrorist watchlists at the new Terrorist 
+Screening Center.
+    I want to welcome all the Members from both Committees and 
+the witnesses. Unfortunately, already in this election season 
+we have heard a great deal of political rhetoric that fails to 
+show the true bipartisan efforts of Congress to protect our 
+Nation. It is easy to be a Monday morning quarterback, but such 
+talk does nothing to improve our homeland security nor to 
+support our public safety officers and troops in harm's way. If 
+there are problems, we need to try to resolve them quickly. If 
+there are ways to improve our homeland security, we need to 
+implement them efficiently and effectively.
+    Today, it is my belief that our country is safer than it 
+was prior to September 11, 2001. That is due not only to the 
+work of the Congress and the Bush administration, but also the 
+extraordinary efforts of Federal, State and local law 
+enforcement officers and our military men and women.
+    This hearing focuses on one of those efforts. On September 
+16, 2003, President Bush established the Terrorism Screening 
+Center, through Homeland Security Presidential Directive 6, to 
+provide ready access to information regarding suspected 
+terrorists, to allow Government investigators, screeners, 
+agents, and State and local law enforcement officers to respond 
+promptly.
+    The Terrorism Screening Center aims to improve the 
+screening of known and suspected terrorists at consular offices 
+at international points of entry and the tracking of these 
+individuals abroad and at home if they manage to enter the 
+United States. The Terrorism Screening Center aims to improve 
+information-sharing at all levels of Government and to securely 
+and quickly get the right information to the right people.
+    Today we will hear testimony from the director of the TSC 
+on the progress the new Center has made in reaching its goals; 
+from two customers of TSC, the National Targeting Center at the 
+Department of Homeland Security, and the director of the New 
+York State Counterterrorism Unit and the Center for Democracy 
+and Technology on concerns about civil liberties.
+    I look forward to hearing from our panel today. And at this 
+juncture, I guess protocol-wise, I should call on the--I see 
+the Chairman of the Subcommittee, Mr. Gibbons, is not here, but 
+the Chairman of the full Committee, I believe, of Homeland 
+Security, Mr. Turner from Texas--and I will recognize him for 5 
+minutes.
+    Mr. Turner. Thank you, Mr. Chairman. I am pleased today to 
+join our colleagues from the Judiciary Committee to address the 
+subject that we all know is enormously important to our 
+homeland security, and that is determining our progress in 
+developing an effective Terrorist Screening Center that 
+integrates the multiple terrorist watchlists in a way that is 
+meaningful in terms of protecting the security of the American 
+people.
+    I want to thank in advance the witnesses for being here 
+today and I hope you excuse the questions, because I think all 
+of you know we have had a great deal of concern on the Homeland 
+Security Committee for some time regarding the delayed 
+accomplishment of an effective, functional Terrorist Screening 
+Center. I believe very strongly in the missions and the goals 
+of the screening center, and I certainly value the hard work 
+and the dedication of the personnel who work there, and I 
+certainly want to contribute in any way that we can to the 
+success of your objective.
+    But because we are here 2\1/2\ years after September 11, we 
+still know that we do not have a fully integrated terrorist 
+watchlist database to identify and apprehend potential 
+terrorists. Some may ask, what does that mean in practical 
+terms; why would anyone care if this has not been accomplished?
+    What it means is that someone could still slip through the 
+cracks because the Government is not able in real-time to check 
+a name against every available watchlist of known or suspected 
+terrorists. This is true when the police pick up a suspect, 
+when border inspectors are deciding to let someone in the 
+country, and when consular offices are reviewing visa 
+applications.
+    For a function that is absolutely vital for our homeland 
+security, the delay in completing the project is totally 
+unacceptable. The damaging effects, I would submit, are 
+incalculable, since we can't even begin to know what 
+opportunities have been missed to arrest, question, or 
+prosecute possible terrorists. And, of course, we know if we 
+had this capability prior to September 11, two of the hijackers 
+might not have been permitted to board airplanes on that 
+fateful day. More backsliding and excuse-making ought to be met 
+with the stiffest bipartisan criticism.
+    Responsibility for this task shifted four times during the 
+first 2 years after 9/11. And since the responsibility for the 
+project has been given to the FBI, the deadline for completing 
+it has been moved to December of 2003, to March, 2003, to mid-
+summer of 2003, and now through December of 2004.
+    There cannot be further delay. And according to the experts 
+with whom we have consulted, there are no technological 
+barriers to getting this job done. It is simply a matter of 
+will, commitment, energy, and dedication to the task. 
+Leadership by the Administration needs to be exercised at the 
+highest levels to ensure that the latest deadline is met. And 
+we need the entire Government to be on the same page.
+    It is striking to me that the same week Secretary Ridge 
+announced that this project was one of his top goals for 2004, 
+a senior official in the Department of Homeland Security 
+questioned whether watchlist consolidation was even necessary. 
+I want the message to be clear: There is a bipartisan consensus 
+in Congress that we need to forge ahead as rapidly as possible 
+to implement a robust, agile, and comprehensive terrorist 
+screening capability through consolidation of all existing 
+Government watchlists.
+    Through vigorous oversight we have tried to help the 
+process along. Four months ago, the Democratic Members of our 
+Committee prepared a concise list of 10 attributes that we 
+believe ought to be the cornerstone of an effective Terrorist 
+Screening Center database. As we elaborated in the report, we 
+believe the Terrorist Screening Center must be, among other 
+things, comprehensive, accurate, acceptable, timely, flexible 
+and correctable. So, for example, even once watchlists have 
+been integrated, the screening center cannot be considered 
+fully operational until the information is accessible to 
+everyone who needs it: Border Patrol, immigration inspectors, 
+local police officers, and Federal law enforcement.
+    Consistent with the letter I sent to the screening center 
+earlier this week, I hope we can hear more from your testimony 
+regarding the progress that has been made.
+    One of the related issues that I hope you will comment on 
+is whether all the right people even know about the Terrorist 
+Screening Center. My staff was on the border earlier this month 
+in Texas, and we were told that the Border Patrol is not aware 
+of or linked to the Terrorist Screening Center. Likewise, we 
+had a discussion yesterday with the State homeland security 
+director who said that local law enforcement in his State was 
+not aware of this important resource.
+    In closing, while we know progress is being made, I think 
+there is much more that must be done. And if that means putting 
+people to work 24 hours a day in three shifts, as our soldiers 
+are doing in Iraq today, then that is what we need to do to get 
+this job done and get it done now to protect the American 
+people.
+    Thank you, Mr. Chairman.
+    Mr. Coble. Thank the gentleman.
+    The gentleman from Nevada Mr. Gibbons, who chairs the 
+Subcommittee on Intelligence and Counterterrorism on the House 
+Homeland Security Committee, is recognized for 5 minutes.
+    Mr. Gibbons. Thank you, Mr. Chairman. And to our witnesses 
+today, I want to welcome all of you and thank you for your 
+appearance before us today. I think your testimony is going to 
+go a long way into helping us to understand how the Terrorist 
+Screening Center is working and what Congress can do to help 
+make it a user-friendly system.
+    Four months ago, before Congress passed the Homeland 
+Security Act, and almost a full year before the Department of 
+Homeland Security was up and running, the President's National 
+Strategy for Homeland Security established a consolidated 
+terrorism watchlist as one of the President's highest 
+priorities. While there have been substantial technical and 
+legal hurdles to overcome in the process of consolidating and 
+integrating these lists, the names of suspected terrorists are 
+now available to law enforcement and Federal officials, and 
+have been since December of 2003.
+    The Terrorist Screening Center Initiative has given our law 
+enforcement officers the ability to identify terrorists who 
+pose a direct threat to our Nation. While this information is 
+now available, improvements are being worked on to help make 
+the system faster and more user friendly so that the law 
+enforcement officials patroling our streets and our border 
+protection workers have immediate, seamless access to the 
+information that they need.
+    While it is essential that the Terrorist Screening Center 
+is robust and fully deployed, we must make sure that the proper 
+procedures are in place to ensure that the information is not 
+misused. It is important to note all the information that the 
+Terrorist Screening Center maintains has been collected in 
+accordance with existing laws, and officials will continue to 
+be bound by any applicable laws and constitutional 
+requirements. But I hope, Director Bucella, that you will 
+further address the civil liberties issue a bit today, 
+especially as it relates to systems that have been put in place 
+to ensure that this information is not misused.
+    I look forward to your testimonies and to the hearing and 
+how we can help ensure that the Terrorist Screening Center 
+serves as a single, seamless resource in our fight against 
+terrorism. Thanks again to each of you for appearing here 
+today. And, Mr. Chairman, I yield back the balance of my time.
+    Mr. Coble. I thank the gentleman from Nevada.
+    I now recognize the Ranking Member for the Subcommittee on 
+Crime, Terrorism, and Homeland Security, the distinguished 
+gentleman from Virginia, Mr. Scott.
+    Mr. Scott. Thank you, Mr. Chairman, and I am pleased to 
+join you and our colleagues on the Intelligence 
+Counterterrorism Subcommittee. Now, no one would question the 
+need for law enforcement at all levels to conduct terrorism 
+screening in today's world. It is certainly appropriate to have 
+information and processing of information by certain private 
+entities such as airlines and nuclear power facilities 
+integrated into their screening processes. All of us are 
+willing to endure more inconvenience to accommodate reasonable 
+security procedures designed to protect our persons and 
+property as well as our Nation's rights and liberties; yet we 
+ought to be secure from terrorism with our traditional rights, 
+not in exchange for them. If we have to diminish or balance our 
+rights and liberties for security, we have handed those who 
+scoff at our society a substantial victory.
+    Even before 9/11 tragedies galvanized the need to be much 
+more diligent in preventing terrorism, we were still seeing 
+problems with protections of basic rights and remedies. 
+Accounts of general racial and ethnic profiling and from abuse 
+of sensitive data against citizens and others by either inept 
+or overzealous or ill-willed persons in their efforts to ferret 
+out ordinary street crime, such as drug crimes, were well 
+established through lawsuits and conscientious evaluations of 
+law enforcement practices in many jurisdictions. So with the 
+breadth of access to information, dissemination, and vision to 
+all law enforcement officers as well as private entities, we 
+know that unless privacy measures are made systemic, the 
+prejudices and biases already there will only be enhanced by 
+the gravity of permitting terrorism.
+    I look forward to hearing from our witnesses with the hopes 
+that we can protect persons and properties as well as protect 
+our traditional rights and liberties. I yield back.
+    Mr. Coble. I thank the gentleman.
+    I note the presence of the Chairman of the full House 
+Homeland Security Committee, Mr. Cox from California. Did you 
+want to be heard, Mr. Chairman?
+    Mr. Cox. I would just make a brief opening statement. I 
+want to thank you for holding this hearing and also thank 
+Chairman Gibbons. This is the second joint hearing of the 
+Homeland Security Committee and the Judiciary Committee.
+    And I welcome you in joining our witnesses. This is an 
+excellent panel and I think it will focus us on the topic 
+before us. It has been less than 5 months since the President's 
+directive. The Terrorist Screening Center began carrying out 
+the task of providing unified, accurate terrorist screening 
+information to screeners around the country 24 hours a day, 7 
+days a week, through a single node. The Terrorist Screening 
+Center will serve State and local officials as well as private 
+sector entities that manage critical infrastructure. It will 
+even serve foreign governments that have entered into 
+immigration agreements with the United States if they are 
+partners in the global war on terrorism. But the Terrorist 
+Screening Center support is particularly important to our 
+Nation's first responders, our border protection officials, and 
+the consular offices who adjudicate hundreds of visa 
+applications everyday. Our overriding objective is, after all, 
+to prevent terrorist attacks.
+    There, the Terrorist Screening Center represents a quantum 
+leap in the Nation's ability not only to keep terrorists out, 
+but also to apprehend terrorists who manage to get in. It will 
+give law enforcement officers a reliable way to determine 
+whether a person stopped for a routine traffic violation is, 
+based on all the information available to the U.S. Government, 
+involved in some way in terrorist activity.
+    It also represents another important milestone in tearing 
+down barriers to information-sharing between the Intelligence 
+Community and law enforcement officials. Integrating the data 
+contained in the Government's legacy watchlist is a positive 
+step. It was needed. Historically, 9 Federal agencies maintain 
+12 disparate watch lists. The contents of these watchlists 
+weren't accessible across agency lines and they weren't 
+comprehensively analyzed. That means we had no efficient way of 
+accessing the information we had, and, as a practical matter, 
+what you can't access, you don't really know. That is one of 
+the hard lessons of the 9/11 attacks.
+    But integrating the information on all those lists is a 
+complex task, even in the era of interoperable computer systems 
+and instantly searchable data bases, and it must be done right. 
+And to be the right solution, TSC must not come at the price of 
+the civil rights or first amendment freedoms of American 
+citizens, because we are fighting to preserve our way of life. 
+That is a fundamental part of protecting our Nation, and I 
+believe it has been worth the time it has taken to get TSC done 
+right.
+    The information collected and maintained in the 
+Government's various watchlists was collected under different 
+authorities for widely divergent purposes and it has been 
+maintained in different formats. There was no agreed-upon set 
+of discriminators to determine whether an individual should be 
+watchlisted and the 12 legacy lists, taken together, had 
+hundreds of thousands of names. They couldn't be dumped into 
+some massive Government data base of potential bad guys. Each 
+name had to be analyzed to make sure it belonged on TSC's 
+integrated list.
+    So at this hearing, we hope to get an update on the TSC's 
+progress and relationship to the Department of Homeland 
+Security. And equally important, we hope to be reassured that 
+TSC and the databases that feed it will not impinge upon the 
+civil rights and civil liberties to which we as Americans are 
+entitled.
+    Mr. Chairman, there are also serious questions we must ask: 
+Is the Terrorist Screening Center the solution for the present, 
+or is it the solution forever? Is it structured in the most 
+effective way? Does it work? Is it fast? Is it reliable? Is it 
+being used by those who need it the most? Can a user get 
+additional information on a TSC name hit quickly and reliably? 
+Is TSC's management and supervision appropriate? How can it be 
+improved? Are civil liberties and privacy interests 
+scrupulously safeguarded? Could a name get on TSC's list 
+erroneously? If so, how would that be discovered and how 
+corrected quickly?
+    And certainly I look forward to hearing from each of our 
+witnesses on these points. And I thank you, Mr. Chairman, and I 
+yield back on these issues.
+    Mr. Coble. I thank you, Mr. Cox.
+    And I noticed Ms. McCarthy from Missouri has joined us, and 
+good to have you with us, and the other Members of the 
+Subcommittee as well.
+    I say this to the panelists. We inevitably are going to be 
+interrupted at least two or three times, so we will try to move 
+along as quickly as we can. And if you would keep a sharp look-
+out on that panel at your desk, and when that amber light 
+appears, it is your warning that the 5 minutes is about to 
+expire, and when the red light appears you are on thin ice. If 
+you could wrap up at the 5-minute mark, we would be 
+appreciative to you.
+    We have read your written statements. We have four 
+distinguished witnesses today. Our first witness is Donna A. 
+Bucella, Director of the Terrorist Screening Center. Ms. 
+Bucella is detailed to the Federal Bureau of Investigation as 
+Director of the Terrorist Screening Center from the 
+Transportation Security Administration. At TSA, Ms. Bucella is 
+the Director of Aviation Operations. She has had a very 
+distinguished career in public and private service. She 
+received her bachelor of arts agree from the University of 
+Virginia and her law degree from the University of Miami school 
+of law. She began her legal career in 1984 in the U.S. Advocate 
+Generals Corps and has been a reservist since 1987. She holds 
+the rank of Lieutenant colonel. During her service in the U.S. 
+Army, she served as defense counsel for the JAG Corps. In 1993, 
+she became the Director of the Office of Legal Education for 
+the Department of Justice. In 1999, Ms. Bucella was appointed 
+by President Clinton and confirmed by the U.S. Senate as the 
+U.S. Attorney for the Middle District of Florida.
+    Our next witness is Mr. Charlie Bartoldus who became the 
+Director of the National Targeting Center, Customs and Border 
+Protection in September, 2002. Prior to his assignment as the 
+NTC Director, he served as Director of the U.S. Customs Service 
+port in Baltimore, Maryland. During his career in Customs, he 
+has served as Director of Seizures and Penalties, Director of 
+the Department of Treasury's Executive Office of Asset 
+Forfeiture, Director of Account Management under the trade 
+compliance redesign, the ACE program, and Deputy Director of 
+Outbound Programs. He began his Customs career in 1979 as a 
+customs inspector at JFK International Airport in New York.
+    Our third witness is Director Jim McMahon of the Office of 
+Public Security for the State of New York. Congressman Sweeney 
+from New York has requested to introduce him, and I am pleased 
+to yield to Representative Sweeney.
+    Mr. Sweeney. Thank you, Mr. Chairman, and it is an honor to 
+be able to introduce not just someone I served with, but he 
+lives in my hometown and we grocery shop at the same place.
+    I am pleased to introduce Jim McMahon who is currently the 
+Director of the New York State Office of Public Security. Mr. 
+McMahon has the distinguished record having served in the New 
+York State Police for 37 years, including 8 as its top 
+official, as the Superintendent. His accomplishments serve as a 
+model demonstrating how Federal, State and local officials can 
+work together productively on the urgent counterterrorism and 
+homeland security mission. He will give us an important 
+perspective demonstrating how law enforcement in both rural and 
+urban areas interact with the new Terrorist Screening Center. 
+While he is a Rochester, New York native, he currently resides 
+in Clifton Park, New York. He is a U.S. Army veteran and has 
+served Governors from both sides of the political aisle. 
+Welcome, Director McMahon, and all of the witnesses.
+    Mr. Coble. I thank you, Mr. Sweeney.
+    Our final witness is Mr. Jerry Berman, who is the President 
+of the Center for Democracy and Technology and a member of the 
+Markle Foundation Task Force on National Security in the 
+Information Age. From 1978 to 1988, Mr. Berman was Chief 
+Legislative Counsel at the ACLU and Founder and Director of 
+ACLU Projects on Privacy and Information Technology. In 
+December, 1994, he founded CDT, a Washington, D.C.-based 
+Internet public policy organization. In 1999, he served on the 
+congressionally appointed Child Online Protection Commission 
+Task Force to study technologies and other methods for 
+protecting children from objectionable material on the Internet 
+consistent with constitutional values. Mr. Berman received his 
+B.A, M.A, and L.L.B. At the University of California, Berkeley. 
+He was graduated with honors, was elected to Phi Beta Kappa, 
+and served as editor of the California Law Review at the Bolt 
+Law School.
+    It is good to have each of you. As I have said before, we 
+have your written statements and they have been examined and 
+will be reexamined. And, folks, as you know, we are now in a 
+situation where accusatory fingers are being pointed by 
+everyone toward everyone. And when I last checked when you 
+apply hindsight, it usually comes up 20-20. It is easy to play 
+with hindsight. I think what we need to do is to try to benefit 
+from mistakes--and mistakes have been made--but to benefit and 
+hope that they don't repeat themselves subsequently.
+    Good to have you all with us. And, Director Bucella, you 
+are recognized for 5 minutes.
+
+ STATEMENT OF DONNA A. BUCELLA, DIRECTOR, TERRORIST SCREENING 
+            CENTER, FEDERAL BUREAU OF INVESTIGATION
+
+    Ms. Bucella. Good afternoon, Chairman Coble, Chairman 
+Gibbons, and Members of both Subcommittees. The Terrorist 
+Screening Center was created to consolidate terrorist 
+watchlists from multiple agencies and provide 24/7 operational 
+support for all Federal, State and local law enforcement 
+officers across the country and around the world.
+    We began operation on December 1. For the first time, local 
+law enforcement has a direct, real-time line of communication 
+to the Federal Government concerning terrorism.
+    Today I will tell you about our daily operations, including 
+some of our successes, our future plans, and how we will 
+safeguard civil liberties. I will provide as much information 
+as I can in this open forum. However, I will be happy to 
+provide additional classified details in a closed hearing at 
+your request.
+    First, I would like to introduce our partners in combating 
+terrorism: Captain Richard McLaughlin from the Arlington Police 
+Department, Massachusetts; Sergeant Victor Hall and Officer 
+Brad Land from the Arlington Police Department in Texas.
+    The Terrorist Screening Center includes participants from 
+the Departments of Justice, Homeland Security, State and 
+Treasury. During our first week of operations, we answered 56 
+calls. And on at least two occasions during that week, we were 
+able to link separate State and Federal investigations of two 
+known or suspected terrorists. Since then, we have had a steady 
+increase of calls, now averaging over 210 calls per week, and 
+close to half of those calls are positive identifications of 
+known or suspected terrorists that were encountered within, at, 
+or outside of our borders.
+    Let me take a moment to describe to you how we operate. A 
+police officer checks the National Crime Information Center, 
+NCIC database, during a routine traffic stop and may be 
+directed to contact the TSC for assistance in the 
+identification process. We run the name through our database to 
+determine if the person is a positive match. If positive or 
+inconclusive, we pass the information to the Federal Bureau of 
+Investigation's Counterterrorism Watch, which then coordinates 
+with the local joint terrorism task force or the case agent, 
+who then directly responds to the police officer.
+    For example, two individuals were arrested for speeding. We 
+were contacted and assisted in identifying one of these 
+individuals as a known or suspected terrorist. This encounter 
+significantly impacted a long-term investigation confirming the 
+immeasurable value of bringing local law enforcement into the 
+war on terrorism.
+    The State Department plays an essential role opposite the 
+screening center. Since December 1, we have reviewed over 
+54,000 security advisory opinions. Eighty of the visa 
+applicants were determined to be associated with terrorism. 
+Fifty-three visas have been revoked due to the actions at the 
+Terrorist Screening Center.
+    We have approached this enormous and complex challenge to 
+consolidate terrorist watchlists by implementing a phased-in 
+approach. Since December 1, we have had the ability to, one, 
+make the names and identifying information of terrorists 
+accessible to Federal, State, and local law enforcement; two, 
+have a system for properly reviewing whether a known or 
+suspected terrorist should be included in or deleted from 
+additional screening processes; three, administer a process to 
+ensure that persons who may share the same name with a known or 
+suspected terrorist are not unduly inconvenienced; and four, 
+implement a system to adjust or delete outdated or incorrect 
+information to prevent problems arising from these 
+identifications.
+    We now have a single database which is updated daily and is 
+unclassified, law enforcement-sensitive, containing identifying 
+information of known or suspected terrorists. We are supplied 
+with information regarding international terrorists from the 
+Terrorist Threat Integration Center and domestic terrorist 
+information from the FBI. Our database facilitates the 
+consolidation of disparate information currently held by 
+multiple agencies and used in different ways to be brought 
+together for a single purpose, to help identify terrorists.
+    We recognize that with all of these capabilities also comes 
+the responsibility to ensure that we continue to protect civil 
+liberties. We have absolutely no independent authority to 
+conduct intelligence collection. In fact, we do not collect 
+information at all. We only receive information collected by 
+other entities with preexisting authority to do so, each with 
+their own policies and procedures to protect privacy rights and 
+civil liberties.
+    The handling and use of information including U.S. persons' 
+information is governed by the same statutory, regulatory, and 
+constitutional requirements as if the information was not to be 
+included in our database.
+    We are committed to addressing the issues arising from the 
+misidentification of persons under previous watchlists and 
+practices. Procedures are in place to review and promptly 
+adjust or delete erroneous or outdated information. And such 
+records have already been identified and removed.
+    The creation of our Center marks a significant step forward 
+in protecting America by detecting, disrupting, or preempting 
+terrorist threats. We are already contributing to nationwide 
+efforts to keep terrorists out of the United States and locate 
+those who may already be in our country.
+    I have given you but a few of our successes. We have 
+screened to date over 2,000 calls and the numbers continue to 
+rise. State and local law enforcement officers now know if they 
+have encountered a known or suspected terrorist during a 
+routine traffic stop. Numerous State and local law enforcement 
+officers are providing invaluable assistance and are integral 
+in the efforts combating terrorists.
+    As previously stated, the opening of our Center on December 
+1 is the beginning, not the end. I appreciate your interest in 
+our activities and I will be happy to answer any questions.
+    Mr. Coble. Director Bucella, we thank you for that.
+    [The prepared statement of Ms. Bucella follows:]
+
+                 Prepared Statement of Donna A. Bucella
+
+    Good afternoon Chairman Coble, Chairman Gibbons, Ranking Members 
+and Members of both Subcommittees. Thank you for the opportunity to 
+discuss the missions and objectives of the new Terrorist Screening 
+Center (TSC). Homeland Security Presidential Directive 6 (HSPD-6), 
+issued on September 16, 2003, ordered the creation of the TSC, 
+directing its operations to begin on December 1, 2003, and we met that 
+goal. The TSC was created to ensure that government investigators, 
+screeners, federal agents, and state and local law enforcement officers 
+have ready access to the information and expertise they need to respond 
+quickly when a known or suspected terrorist is encountered here in the 
+United States, at our borders and at our embassies. Today, I will tell 
+you about our daily operations, including some of our successes, our 
+future plans, and how we will safeguard civil liberties. I will provide 
+as much information as I can in this open forum, however, I will be 
+happy to provide additional, classified details in a closed hearing at 
+your request.
+
+                             TSC OPERATIONS
+
+    The TSC is a multi-agency Center, including participants from the 
+FBI, Department of State, Customs and Border Protection, Immigration 
+and Customs Enforcement, Secret Service, Coast Guard, Transportation 
+Security Administration, and the Office of Foreign Assets Control. 
+Other agencies, including the Postal Service and Drug Enforcement 
+Administration, have agreed to participate. Our goal is to consolidate 
+the Government's approach to terrorism screening and provide for the 
+appropriate and lawful use of Terrorist Information in screening 
+processes. We will be a diverse Center, manned by experts to include 
+intelligence analysts and law enforcement from a wide variety of 
+agencies, and to communicate and coordinate efforts across the full 
+spectrum of federal, state and local government agencies. Currently, 
+the TSC is staffed by approximately 84 employees, including permanent 
+personnel, temporary duty assignees, and contractors to staff our 24/7 
+operation.
+    Since December 1, 2003, TSC has been providing key resources for 
+screeners and law enforcement personnel. These include:
+
+        (1)  a single coordination point for terrorist screening data;
+
+        (2)  a consolidated 24/7 call center for encounter 
+        identification assistance;
+
+        (3)  access to a coordinated law enforcement response to 
+        federal, state and local law enforcement;
+
+        (4)  a formal process for tracking encounters and ensuring 
+        feedback is supplied to the appropriate entities, and
+
+        (5)  a process to address the misidentification issues.
+
+    The TSC's initial capabilities were limited because of the need to 
+integrate records in a way that ensured that the data about known and 
+suspected terrorists was as accurate as possible. Each agency 
+contributing data to the TSC is using its own database. These 
+databases, which were created to support the mission of the individual 
+agencies, are in many instances their case management systems, not 
+terrorist watch lists.
+    Despite our limited capabilities in the first week of operation, 
+the TSC answered 56 calls, including one in which a local police 
+department was seeking information regarding an ongoing investigation. 
+A suspected terrorist had traveled over 1,000 miles from his home, and 
+the department's call alerted the FBI to his activities. The police 
+department coordinated their surveillance with the FBI investigation, 
+resulting in solid intelligence for both local and federal law 
+enforcement.
+    Another call came from a West Coast police department that was 
+investigating an individual for a state felony charge. The TSC 
+determined the individual was a terrorism suspect in a federal 
+investigation, and our operational component at the FBI's 
+Counterterrorism Division put the respective investigators together. 
+The FBI and the local investigator are now sharing case information, 
+resulting in a coordinated approach. Again, we are linking 
+investigations and coordinating the U.S. Government approach to 
+screening for suspected terrorists.
+    There are three fundamental types of inquiries: interior (within 
+the U.S.), border (at the border/ports points of entry) and exterior 
+(outside the border). Interior inquiries will normally be made by state 
+and local law enforcement. Border inquiries are made by Customs and 
+Border Protection (CBP). Exterior inquiries are conducted by the State 
+Department.
+    The process for making an internal inquiry is relatively simple. A 
+police officer checks the National Crime Information Center (NCIC) 
+database on a routine traffic stop, and he/she is requested to call the 
+TSC because the person stopped has similar identifying information to a 
+known or suspected terrorist listed in the NCIC. When the officer calls 
+TSC, through the police department's dispatch, the call center verifies 
+the caller's identity, takes the information on the encounter and the 
+circumstances of the encounter, and checks his name through the TSC's 
+database. The TSC database includes the name, date of birth and other 
+identifying information for a known or suspected terrorist. The call 
+center quickly researches the underlying information, including 
+classified, sensitive information. We make a determination as to 
+whether the encounter is the same person as the one in our database. 
+After notifying the officer of a positive, negative or inconclusive 
+result, we help coordinate operational support as to how the person 
+should be handled. For example, the officer may be advised--in 
+appropriate and lawfully authorized circumstances--to arrest, detain or 
+question the individual. Simultaneously, we contact our operational 
+component at the FBI's Counterterrorism Division known as CT Watch. CT 
+Watch provides for the local Joint Terrorism Task Force (JTTF) to 
+respond. In some cases, officers provide valuable intelligence from a 
+simple car stop, and in other cases, JTTF agents will respond to 
+assist. Two cases serve to demonstrate the process:
+    In one case, local police arrested a suspected terrorist associate 
+on a state criminal violation. After TSC assisted in the positive 
+identities match, the CT Watch, contacted the FBI case agent, who 
+immediately went to the local detention facility to talk with the 
+individual. During that interview, the individual agreed to cooperate 
+with the FBI. Another case illustrates the intersection between local 
+law enforcement, homeland security and counterterrorism investigations. 
+Local police arrested an individual and while conducting the ``search 
+incident to arrest,'' discovered significant evidence of terrorist 
+activities. The TSC confirmed the individual's identity and our 
+operational component, the CT Watch, notified the case agent. 
+Intelligence gained from the local arrest has significantly affected a 
+long term counterterrorism case, confirming the value of bringing local 
+law enforcement into the war on terrorism.
+    In addition to serving local law enforcement, the TSC receives a 
+high volume of calls from Customs and Border Protection (CBP) 
+inspectors who are stationed on the Nation's borders. A typical CBP 
+call involves incoming passengers on international flights. A CBP 
+inspector will query a list of names and may receive several possible 
+suspected terrorist hits from IBIS and NCIC. The CBP inspector will go 
+through their National Targeting Center (NTC), where the record will be 
+analyzed, then passed to TSC. Our process is the same as it would be 
+for a law enforcement call, that is, to examine the underlying record 
+which often contains all source sensitive and highly classified 
+information on a 24/7 basis, and determine whether the individual is 
+identical to the person in the Terrorist Screening Center Database. The 
+TSC then appropriately passes any derogatory information on the 
+subject, and CBP makes a determination on whether the individual will 
+be allowed into the United States.
+    Our consular officers are our first line of defense in keeping 
+known and suspected terrorists out of our Homeland by denying visas to 
+these individuals. In this regard, State Department assignees at the 
+TSC are continuing the work previously done by the TIPOFF Office. Since 
+December 1, 2003, when the TSC came into operation, State Department 
+assignees and their staff at the TSC have reviewed over 54,000 security 
+advisory opinions, which are cables from U.S. Embassies and Consulates 
+around the globe, to determine if the visa applicants described in 
+these cables were ``true hits'' with records contained in the database. 
+Eighty of those ``hits'' resulted in true matches. As an example in 
+December, a member of a terrorist organization applied for a visa at a 
+U.S. consulate overseas. Consular officials denied the visa based on 
+the TSC's review of the information and confirmation that the 
+individual was a ``true hit,'' i.e. matched the record at the TSC. The 
+same process applied to a senior member of a proscribed terrorist 
+organization based overseas. His visa was also denied.
+    In addition, 53 visas have been revoked, as a result of the State 
+Department's careful comparison of new records entered into the 
+terrorist database with visas that had been previously issued.
+    Finally, since December 1, 2003, agreements between the State 
+Department and several allies are now implemented at the TSC, resulting 
+in over 125 possible ``true hits'' of known and suspected terrorists at 
+the borders of those nations. During January, an individual known to 
+the U.S. government as an affiliate of a terrorist organization 
+attempted to board a flight to enter one of these nations. The 
+individual's identity was one of several thousand consolidated from 
+various U.S. agencies and passed to this nation. According to protocols 
+contained in our agreement, State Department assignees at the TSC 
+worked with their counterparts in our allied nation, and the individual 
+was removed from the flight despite holding valid travel documents.
+    According to a 16 September 2003 Memorandum of Understanding 
+between Secretary Powell, Secretary Ridge, Attorney General Ashcroft, 
+and DCI Tenet, the Terrorist Threat Integration Center's (TTIC) 
+identities database will serve as the single source for the TSC's 
+terrorist database, excluding purely domestic terrorism. Currently 
+TTIC, which assembles and analyzes information from a wide range of 
+sources to identify potential terrorists, provides the TSC with the 
+vast majority of its information about known or suspected international 
+terrorists.
+    The FBI provides the TSC with information about purely domestic 
+terrorism--that is, information that has been determined to have no 
+link to foreign intelligence, counterintelligence, or international 
+terrorism. The TSC consolidates this identifying information and makes 
+it accessible for queries from federal, state, and local agencies for 
+screening purposes.
+    When a nomination is received at the TSC from TTIC or the FBI, it 
+is reviewed by assignees to the TSC from participating agencies, who, 
+in consultation with their assigning member agencies, determine how an 
+encounter with this individual will be handled. The system is tailored 
+to provide different feedback depending on where the encounter takes 
+place. For example, an FBI representative who reviews a record may 
+determine that an individual is subject to a criminal warrant and needs 
+to be arrested by state and local law enforcement, while the 
+Transportation Security Administration (TSA) representative may decide 
+that the individual is not appropriate to board an aircraft. This 
+tailoring ensures that specific guidance is provided to federal, state, 
+and local agencies based on their legal authority.
+
+                            TSC CAPABILITIES
+
+    The TSC has approached the challenge to consolidate terrorists 
+watch lists by implementing a ``phased in'' approach.
+    We implemented phase one from September 16, 2003 to December 1, 
+2003, on the day the TSC achieved initial operating capability. During 
+Phase One, the TSC had the ability to: (1) make the names and 
+identifying information of terrorists, known to or suspected by the 
+U.S. Government, accessible to federal, state and local law 
+enforcement; (2) have a system for properly reviewing whether a known 
+or suspected terrorist should be included in or deleted from additional 
+screening processes; (3) administer a process to ensure that persons, 
+who may share a name with a known or suspected terrorist, are not 
+unduly inconvenienced in U.S. Government screening processes; and, (4) 
+implement a system to adjust or delete outdated or incorrect 
+information to prevent problems arising from misidentifications.
+    Phase two occurred from December 1, 2003 to March 1, 2004 in the 
+development of the Terrorist Screening Database (TSDB). The TSDB is an 
+unclassified law enforcement sensitive database, containing identifying 
+information of known or suspected terrorists. The TSDB allows the 
+consolidation of disparate information, currently held by multiple 
+agencies and used in different ways, to be brought together for a 
+single purpose--to help identify and detain potential terrorists to 
+prevent future terrorist attacks.
+    We are currently in phase three which concludes before the end of 
+this year. The TSC will create a more dynamic database and use a 
+single, integrated system for ensuring known or suspected terrorists' 
+identities are promptly incorporated into all appropriate screening 
+processes. The terrorist screening database will eventually allow 
+private sector entities, such as operators of critical infrastructure 
+facilities or organizers of large events, to submit a list of persons 
+associated with those events to the U.S. Government to be screened for 
+any nexus to terrorism. In addition, the TSC will begin to implement 
+mechanisms for sharing terrorist screening information with additional 
+cooperating countries and to obtain such information from these 
+countries. The Department of State is currently working on this issue.
+    Because our mission cuts across traditional boundaries between law 
+enforcement, national security, and homeland defense, we have begun an 
+aggressive outreach program. Our outreach must include members of the 
+intelligence community, federal law enforcement, non-law enforcement/
+non-intelligence related government agencies, critical infrastructures, 
+and most importantly, officers from the Nation's 18,000 law enforcement 
+agencies. We not only train our law enforcement and government agency 
+partners; viewing outreach as a two-way process, we also seek feedback 
+and innovative ideas from them.
+
+                      SAFEGUARDING CIVIL LIBERTIES
+
+    We recognize that with all of these capabilities also comes the 
+responsibility to ensure that we continue to protect our civil 
+liberties.
+    The TSC has absolutely no authority to conduct intelligence 
+collection or other operations. In fact, the TSC does not collect 
+information at all--it only receives information collected by other 
+entities with preexisting authority to do so, each with their own 
+policies and procedures to protect privacy rights and civil liberties. 
+The handling and use of information, including U.S. person information, 
+is governed by the same statutory, regulatory, and constitutional 
+requirements as if the information was not to be included in a TSC-
+managed database.
+    The TSC's primary mission is to ensure that the identities data 
+that is already known to the U.S. Government is held in one location 
+where it can be queried by those who need it, including federal 
+security screeners and state and local law enforcement officers. The 
+structures which are in place also ensure that information about U.S. 
+persons that has been determined to be purely domestic terrorism 
+information with no link to foreign intelligence, counterintelligence, 
+or international terrorism does not go through the Terrorist Threat 
+Integration Center, but instead is placed directly into the TSC by the 
+FBI. The Attorney General has also been directed to implement 
+procedures and safeguards with respect to information about U.S. 
+persons, in coordination with the Secretary of State, the Secretary of 
+Homeland Security, and the Director of Central Intelligence.
+    We are also committed to addressing the issues and inconveniences 
+arising from the misidentification of persons under previous watch-
+listing practices. Procedures are in place to review and promptly 
+adjust or delete erroneous or outdated domestic terrorism information. 
+The TSC works closely with TTIC regarding any international terrorism 
+information errors, as only TTIC can make changes to the records it 
+provides to the TSC. In addition, we are currently in the process of 
+creating a dedicated staff specifically to address the 
+misidentification process for the TSC.
+
+                               CONCLUSION
+
+    The creation of the Terrorist Screening Center marks a significant 
+step forward in protecting America's communities and families by 
+detecting, disrupting, or preempting terrorist threats. The TSC is 
+already contributing to nationwide efforts to keep terrorists out of 
+the U.S. and locate those who may already be in the country. For this 
+unclassified hearing, I have given you only a few of our successes. We 
+have screened over 2,000 calls since our inception, and the numbers 
+continue to rise. State and local law enforcement officers are now 
+assisting in the identification of known or suspected terrorists here 
+in the U.S., have provided invaluable intelligence for pending 
+investigation, and are now integral in the efforts of combating 
+terrorism in the U.S. I appreciate the Joint Subcommittee's interest in 
+the TSC's activities and I will be happy to answer any questions you 
+may have.
+
+    Mr. Coble. And in a sense of fairness, Director Bucella 
+used 6 minutes, so I will allot--if you need 6 minutes, 
+Director Bartoldus
+
+ STATEMENT OF CHARLES BARTOLDUS, DIRECTOR, NATIONAL TARGETING 
+ CENTER, CUSTOMS AND BORDER PROTECTION, DEPARTMENT OF HOMELAND 
+                            SECURITY
+
+    Mr. Bartoldus. Good afternoon, Chairman Gibbons, Chairman 
+Coble, and Members of both Subcommittees. Thank you for this 
+opportunity to testify today on the subject of U.S. Customs and 
+Border Protection, CBPs interaction with the Terrorist 
+Screening Center, or TSC.
+    I would like to begin with a very short update on the 
+efforts that Homeland Security has taken during the merger 
+itself to achieve one face of the border. CBP is responsible 
+for effectively deploying 42,000 employees in preserving the 
+traditional missions of our predecessor agencies. The actions 
+undertaken over the past year have set the stage for the 
+planned conversion of approximately 18,000 legacy Agriculture, 
+Customs, and Immigration inspectors to Customs and Border 
+Protection offices. People, technology, automation, electronic 
+information, and partnerships are concepts that serve as the 
+foundation of CBP's antiterrorism initiatives. These concepts 
+improve the security of our borders by reinforcing the 
+components of our layered strategy of defense.
+    Today I would like to focus solely on how these elements of 
+our layered defense work with regard to CBP's interaction with 
+the TSC. As the Director of the National Targeting Center, 
+which came into existence in October of 2001 in direct response 
+to the events of 9/11, my staff and I have worked extensively 
+with the Terrorist Screening Center since its formation in 
+December of 2003. I have witnessed firsthand the improvements 
+in the process and the information-sharing and coordination.
+    CBP officers at the National Targeting Center routinely 
+work with the TSC to evaluate and assess potential matches of 
+individuals that may be attempting to enter the United States 
+with harmful intent.
+    The TSC enhances CBP's effectiveness in several ways. The 
+primary benefit to CBP has been TSC's ability to provide 
+substantive information pertaining to subjects. This 
+information is critical to the positive identification of 
+individuals and, consequently, the timely release of 
+individuals deemed to be negative matches. The TSC provides for 
+one consolidated point of contact, rather than having multiple 
+contacts for different agencies and different departments, as 
+was the case prior to the TSC's formation.
+    Prior to the creation of the TSC, hours could be lost 
+waiting for responses on inquiries. However, now in addition to 
+the ease of access, the average turnaround time we experience 
+with the TSC is 20 to 30 minutes or less. The reality of a 
+single sensitive but unclassified database has greatly enhanced 
+our ability to identify suspect individuals while facilitating 
+legitimate travelers. CBP benefits from the clear channels and 
+direction provided by the TSC as well as increased 
+coordination, consistent training, and clear guidance that 
+results from a single response and database. This has enhanced 
+our law enforcement efforts.
+    A critical component of CBP's mission is the 100 percent 
+screening of passengers and cargo entering the United States. 
+The TSC single database allows CBP officers in the field and at 
+the National Targeting Center to identify high-risk travelers 
+and transactions. The interaction between the TSC and CBP 
+provides for a cumulative view of law enforcement and 
+intelligence database information rather than a single-scope 
+vision.
+    Continued cooperation between the TSC and CBP further 
+serves to bridge the gap between the international and domestic 
+venues in which terrorists operate. CBP has a strong history of 
+cooperation and partnership with law enforcement agencies at 
+the Federal, State and local levels. CBP's layered defense is 
+the cornerstone of our antiterrorism mission, and as a key 
+component of that layered defense, we depend on the TSC in 
+order to operate at our full potential.
+    Essentially as the merger under the Department of Homeland 
+Security matures, we find the layers of defense are 
+increasingly transcending agency boundaries, and CBP's 
+interaction with the TSC is just one example of these 
+successes.
+    Thank you again, Chairman Coble, Chairman Gibbons, and the 
+Members of the Subcommittee for this opportunity to testify. I 
+will be happy to answer questions.
+    Mr. Coble. Director Bartoldus, we thank you as well.
+    [The prepared statement of Mr. Bartoldus follows:]
+
+                Prepared Statement of Charles Bartoldus
+
+    Good afternoon Chairman Gibbons, Chairman Coble, and Members of the 
+Subcommittee on Intelligence and Counterterrorism and the Subcommittee 
+on Crime, Terrorism, and Homeland Security.
+    Thank you for this opportunity to testify on the subject of U.S. 
+Customs and Border Protection--CBP's--interaction with the Terrorist 
+Screening Center (TSC).
+    I would like to begin with an update on the Department of Homeland 
+Security merger itself, and the efforts to achieve ``One Face at the 
+Border.'' CBP is responsible for effectively deploying approximately 
+42,000 employees and preserving the traditional missions of our 
+predecessor agencies. Over the past year CBP has:
+
+        <bullet>  Established a unified chain-of-command structure for 
+        the Office of Field Operations and the Border Patrol.
+
+        <bullet>  Developed a new comprehensive Border Patrol strategy 
+        that incorporates the CBP priority mission.
+
+        <bullet>  Created a new CBP uniform, patch, and badge with the 
+        phased roll out expected to reach completion July 2004.
+
+        <bullet>  Refocused and broadened the skills of legacy 
+        employees by delivering Unified Primary training.
+
+        <bullet>  Introduced new CBP Officer and CBP Agriculture 
+        Specialist positions.
+
+        <bullet>  Developed and delivered more than 50 new training 
+        courses in support of our homeland security mission.
+
+    These actions have set the stage for the planned conversion of 
+approximately 18,000 legacy Agriculture, Customs, and Immigration 
+Inspectors to Customs and Border Protection Officers.
+    People, technology, automation, electronic information, and 
+partnerships are concepts that serve as the foundation for CBP's anti-
+terrorism initiatives. These concepts improve the security of our 
+borders by reinforcing the components of our layered defense.
+
+        CUSTOMS AND BORDER PROTECTION NATIONAL TARGETING CENTER
+
+    The Customs and Border Protection National Targeting Center or NTC 
+came into existence in October 2001 in the immediate aftermath of the 
+events of September 11th. From its beginnings as the Office of Border 
+Security, the NTC has grown swiftly, providing nationally directed 
+targeting technology, targeting methodology, subject matter expertise, 
+and training that encompasses the enforcement and regulatory missions 
+of CBPs predecessor agencies.
+    In January of 2003 the NTC staff moved to a state of the art 
+facility in Northern Virginia, and CBP personnel assigned there 
+represent subject matter areas in agriculture, customs and immigration. 
+Other CBP offices providing staff to this effort include the Border 
+Patrol, Office of Intelligence, and Office of Information and 
+Technology.
+    Additionally, the NTC supports the enforcement and regulatory 
+missions of various agencies through a network of liaisons, which 
+includes the Transportation Security Administration, the U.S. Coast 
+Guard, the Department of Energy, and U.S. Immigration and Customs 
+Enforcement. Contact is maintained with members of the intelligence 
+community to include the Federal Bureau of Investigation, the Central 
+Intelligence Agency and other intelligence services. CBP's commitment 
+to collaborative targeting efforts is also demonstrated by the Food and 
+Drug Administration Prior Notice Center located at the NTC and 
+operational since December 11, 2003. There, CBP and FDA personnel 
+conduct joint targeting on a round the clock basis in support of the 
+Bio-Terrorism Act.
+
+                       AUTOMATED TARGETING SYSTEM
+
+    The Automated Targeting System is an automated tool that permits 
+CBP to process advance information and focuses its inspection efforts 
+on potentially high-risk transactions and travelers. The ATS is a 
+flexible, evolving system that integrates information from government, 
+commercial, and enforcement databases. In the cargo environment, ATS 
+analyzes electronic cargo information related to individual shipments 
+to profile and rank them in order of risk based on the application of 
+rules. ATS outputs are then reviewed for potential further action by 
+CBP such as document review and inspection.
+    I would like to note at this point that through a combination of 
+national targeting efforts at the NTC, local targeting performed by 
+Manifest Review Units, and International targeting performed at CSI 
+locations, we review and evaluate data regarding all ocean shipments 
+bound for the United States, prior to arrival. And, we screen 100% of 
+those identified as high or potential risk.
+    To reach this level of screening, CBP has worked aggressively over 
+the past year to increase the quality, quantity, and timeliness of the 
+cargo information we receive electronically. As a result, the industry 
+data that feeds ATS is substantial.
+    The 24-Hour Manifest Rule for shipped goods requires detailed and 
+accurate information for all shipments destined for the U.S., 24 hours 
+prior to lading overseas. This is key to CBP's targeting successes in 
+the sea environment. CBP implemented the 24-Hour Rule Manifest 
+Compliance Program on February 2, 2003. CBP has seen great improvement 
+in data quality through a phased-in strategy of informed compliance 
+monitored and enforced by the NTC.
+    This is further reinforced by the Trade Act Final Rule published on 
+December 5, 2003, less than one year after the process began with 
+public meetings. It mandates advance electronic cargo information, 
+inbound and outbound, for all modes for transportation.
+    Today, I would like to focus on how these elements of our layered 
+defense work with regard to CBP's interaction with the TSC.
+    CBP Officers at the NTC routinely work with the TSC in order to 
+evaluate and assess potential matches of individuals on the TSC watch 
+list that may be attempting to enter the United States with harmful 
+intent. The TSC enhances CBP's effectiveness in the following ways:
+
+        <bullet>  The TSC provides for one consolidated watch list 
+        rather than the multiple lists that were maintained by 
+        different departments and agencies prior to TSC's existence.
+
+        <bullet>  TSC provides around the clock, real time access to 
+        substantive information pertaining to subjects on the watch 
+        list. This information is critical to the positive 
+        identification of watch listed individuals and consequently, 
+        the timely release of individuals deemed to be negative 
+        matches.
+
+    CBP also contributes to the TSC consolidated watch list via an 
+information sharing arrangement with the Transportation Security 
+Administration in which CBP provides Advance Passenger Information 
+System data for TSA's performance of a risk assessment on crewmembers 
+on international flights. Any hit or other derogatory information is 
+then coordinated with TSA and the appropriate agency which may result 
+in the addition of names to the TSC watchlist.
+    The interaction between the TSC and CBP provides for a cumulative 
+view of law enforcement and intelligence database information, rather 
+than a single scope vision. Continued cooperation between TSC and CBP 
+further serves to bridge the gap between the international and domestic 
+venues in which terrorists operate.
+
+                               CONCLUSION
+
+    CBP has a strong history of cooperation and partnerships with law 
+enforcement agencies at the Federal, state, and local levels. CBP's 
+layered defense is the cornerstone of our anti-terrorism mission, and 
+as a key component of that layered defense, we depend on the TSC in 
+order to operate at our full potential. Essentially, as the merger 
+under the Department of Homeland Security matures, we find that the 
+``layers'' of defense are increasingly transcending agency boundaries, 
+and CBP's interaction with the TSC is just one example.
+    Thank you again, Chairman Gibbons, Chairman Coble, and the members 
+of the Subcommittee for this opportunity to testify. I would be happy 
+to answer any questions you may have.
+
+    Mr. Coble. Director McMahon.
+
+           STATEMENT OF JAMES W. McMAHON, DIRECTOR, 
+          OFFICE OF PUBLIC SECURITY, STATE OF NEW YORK
+
+    Mr. McMahon. Thank you, Chairman Coble and Chairman 
+Gibbons, and distinguished Members of both Subcommittees. It is 
+an honor for me to be able to testify here today about the 
+Terrorist Screening Center from a perspective of a State and 
+local law enforcement customer.
+    Throughout my career in public service, I have been 
+fortunate enough to have worked cooperatively with all the 
+Federal law enforcement agencies as well as the majority of the 
+540 law enforcement agencies in New York State. These close 
+cooperative relationships, many times informal, have been 
+instrumental in reducing the incidence of violent crime in New 
+York State to levels not seen since the 1960's.
+    The backbone formal information-sharing system for State 
+and local law enforcement during this time was the National 
+Crime Information Center, or NCIC. NCIC is a system that 
+reaches law enforcement throughout the United States and has 
+the capability of providing information through a patrol car 
+radio or an in-car computer to nearly every officer across the 
+Nation out on patrol. The information contained in the system 
+is what we refer to as ``hot files,'' wanted persons, missing 
+persons, stolen cars, stolen guns, or stolen property.
+    In New York, since the deadly attack of 9/11, our first and 
+foremost responsibility is to do everything humanly possible to 
+prevent another terrorist attack by utilizing our 75,000 local 
+law enforcement officers to the fullest extent possible. To 
+facilitate this effort, we have built an intelligence center 
+near Albany, New York. Our ultimate objective is to be able to 
+provide timely, relevant, and actionable terrorism intelligence 
+to patrol officers and detectives which could prevent a 
+terrorist act or enhance a terrorist investigation by a Federal 
+agency.
+    NCIC is still the only national system able to reach the 
+State and local patrol car. There are three scenarios that a 
+State and local law enforcement officer can be faced with 
+during an encounter with a person during a traffic stop or an 
+ongoing investigation. The first is what we call the red light 
+stop. In these cases, the patrol officer accesses NCIC with a 
+name and date of birth inquiry and receives back information 
+sufficient to arrest the subject if he or she is a person 
+wanted by a State or local jurisdiction or by the Federal 
+Government.
+    The second situation involves a green light stop. This 
+indicates, based upon the NCIC name and date of birth inquiry, 
+that the person stopped is not actively wanted by any law 
+enforcement agency.
+    The third situation is the most complicated and the most 
+critical to an ongoing terrorist investigation. This is what we 
+refer to as a yellow light stop or investigative inquiry. In 
+this situation, a police officer has someone detained or 
+stopped. The person is not actively wanted, but the officer has 
+suspicions about whether the individual is connected to a 
+terrorist-related investigation or has suspected links to 
+terrorism. It is this yellow light area where the Nation's 
+700,000 State and local law enforcement officers can be most 
+beneficial in assisting our Federal investigative partners.
+    Kindly allow me to provide a hypothetical yellow light 
+situation. A patrol officer responds to a call of a suspicious 
+person filming the perimeter of a nuclear power plant. The 
+individual is not from the area and has no apparent association 
+with the immediate area. The officer is suspicious and 
+therefore conducts an inquiry into the NCIC database.
+    Prior to December 1, 2003, the inception date of the 
+Terrorist Screening Center, there was no way to conduct a 
+search of the various Federal databases to ascertain if the 
+suspicious person had any ties to an ongoing investigation. The 
+inception of the Terrorist Screening Center has provided State 
+and local law enforcement, its customer, with an important tool 
+to instruct the law enforcement officer in a noncustodial 
+situation like the example I provided above as to what if 
+anything he or she should do.
+    Returning to the nuclear power plant hypothetical, I will 
+detail what now occurs. The patrol officer queries the name and 
+date of birth of the suspicious person through the NCIC system. 
+If the individual is a person of interest, the patrol officer 
+receives a Violent Gang and Terrorist Organizational File, 
+VGTOF, hit that directs the officer to call a toll-free number 
+for additional direction from the Terrorist Screening Center.
+    Once the Terrorist Screening Center is contacted and 
+confirms the individual, additional information is provided 
+which places that hit into any one of four classifications: 
+arrest, detain, investigate or query. This interaction also 
+expands to include the FBI's Counterterrorism Watch that has 
+the ability to provide additional direction and information on 
+what action to take next, in addition to providing further 
+identifying data. The resulting conversation provides the law 
+enforcement officer with the specific guidance necessary as to 
+the type of action to take. This guidance could include 
+observations to be made, the location and time of the 
+observation, questions to be asked, or possibly that no further 
+action is required.
+    This interaction and the ensuing information that is 
+obtained are not only important for investigative purposes, but 
+also for the safety of the officer. In New York State, there 
+have been 41 confirmatory incidents wherein a VGTOF hit was 
+received through the NCIC system and involved the Terrorist 
+Screening Center, the most recent which occurred within the New 
+York State Police when a uniformed trooper made a vehicle and 
+traffic stop that resulted in a traffic ticket being issued. 
+The trooper then conducted an inquiry through the NCIC computer 
+to ascertain if the subject was wanted. This inquiry resulted 
+in a VGTOF hit which put the investigating trooper in touch 
+with the Terrorist Screening Center, who in turn advised the 
+trooper that the individual queried was the subject of an 
+investigative hit. The trooper was conferenced with the 
+Counterterrorism Watch, which was able to provide additional 
+information to the trooper as to what action to take next. This 
+in turn resulted in the notification of the local Special Agent 
+of the FBI's Joint Terrorism Task Force, and I am confident 
+that that interaction provided valuable information to the FBI 
+on a subject currently under investigation.
+    And, Mr. Chairman, I see I am the subject of a red light 
+stop. I did provide further written testimony, as you said 
+earlier, and I will be glad to answer questions.
+    Mr. Coble. Thank you.
+    [The prepared statement of Mr. McMahon follows:]
+
+                 Prepared Statement of James W. McMahon
+
+    Chairman Coble, Chairman Gibbons, Congressman Scott, Congresswoman 
+McCarthy, and the other distinguished members of the Subcommittee on 
+Crime, Terrorism, and Homeland Security of the Judiciary and members of 
+the Subcommittee on Intelligence and Counterterrorism of the Select 
+Committee on Homeland Security, good afternoon and thank you for this 
+opportunity to testify on such an important matter.
+    My name is Jim McMahon. I am the Director of Public Security for 
+the State of New York. In this pos ition I oversee the efforts of all 
+of New York's State Agencies with regard to their capabilities to 
+respond to, deter, detect and prevent acts of terrorism from occurring 
+within the state. I was appointed to this post by Governor Pataki last 
+year after serving 37 years in the New York State Police, the last 9 of 
+which I served as Superintendent. I have been asked to testify today 
+about the Terrorist Screening Center, or TSC, from the perspective of a 
+state and local law enforcement customer. My testimony will begin with 
+a chronological brief on the evolvement of information sharing in order 
+to better show the TSC's impact and how it has enhanced pre-existing 
+law enforcement tools.
+    Throughout my career in public service, I have been fortunate 
+enough to have worked with many of the 540 law enforcement agencies in 
+New York State that are comprised of over 75,000 dedicated law 
+enforcement professionals who are putting their lives on the line, each 
+and every day.
+    I have also had a considerable amount of interaction, and an 
+excellent working relationship, with my federal colleagues in the 
+investigation of organized crime, robberies, homicides, and narcotics, 
+crimes that have the potential of crossing jurisdictional boundaries 
+and typify the importance of working together and sharing information.
+    These close cooperative relationships, many times informal, have 
+been instrumental in reducing the incidence of violent crime in New 
+York State to levels not seen since the 1960s.
+    The ``backbone'' formal information sharing system for state and 
+local law enforcement during this time was the National Crime 
+Information Center or NCIC. NCIC is a system that reaches law 
+enforcement throughout the United States, and has the capability of 
+providing information, through a patrol car radio, or an in-car 
+computer, to nearly every officer across the nation out on patrol. The 
+information contained in this system is what we refer to as ``hot'' 
+files: wanted persons, missing persons, stolen cars, and stolen 
+property. In the year 2000, in New York State alone, law enforcement 
+made 30 million inquiries into NCIC and received nearly 3.5 million 
+positive ``hits.'' This is just a snapshot of the effective role state 
+and local law enforcement, cooperating in the performance of routine 
+duties, can play in reducing crime, and why it remains a critical role 
+in the post 9/11 era.
+    On September 11, 2001, an organized terrorist group attacked our 
+nation. This signaled a new era for our country, as well as for state 
+and local law enforcement. This terrorist organization, and others like 
+it, is determined to make our country its battlefield. In doing so, 
+state and local law enforcement, 75,000 strong in New York State, and 
+700,000 nationally, have become our nation's foot soldiers against 
+domestic targeted terrorism.
+    In New York, as here in Washington, our first and foremost 
+responsibility is to do everything humanly possible to prevent another 
+terrorist attack by utilizing our 75,000 law enforcement officers. To 
+facilitate this effort, we have built an intelligence center near 
+Albany, New York, with direct connectivity to the New York City 
+intelligence center. From these two points we have created a seamless 
+information sharing system that reaches law enforcement in all corners 
+of our state.
+    Our ultimate objective is to be able to provide timely, relevant 
+and actionable terrorism intelligence to patrol officers and 
+detectives, which could prevent a terrorist act or enhance a terrorist 
+investigation by a federal agency. To accomplish this objective, our 
+federal partners have worked closely with state and local law 
+enforcement to enhance the exchange of relevant terrorism information.
+    NCIC is still the only national system able to reach the State and 
+local patrol car. There are three scenarios that a state and local law 
+enforcement officer can be faced with during an encounter with a person 
+during a traffic stop or an ongoing investigation; the first is what we 
+call a ``red light'' stop. In these cases, the patrol officer accesses 
+NCIC with a name and date of birth inquiry and receives back 
+information sufficient to arrest the subject, as he or she is a person 
+wanted by a state or local jurisdiction or by the federal government.
+    The second situation involves a ``green light'' stop. This 
+indicates, based upon the NCIC name and date of birth inquiry, that the 
+person stopped is not actively wanted by any law enforcement agency. 
+The third situation is the most complicated and most critical to 
+ongoing terrorist investigations. This is what we refer to as a 
+``yellow light'' stop, or investigative inquiry. In this situation a 
+police officer has someone detained or stopped, the person is not 
+actively ``wanted,'' but the officer has suspicions about whether the 
+individual is connected to a terrorist related investigation or has 
+suspected links to terrorism. It is this ``yellow light'' area where 
+the 700,000 sets of eyes and ears can be most beneficial in assisting 
+our federal investigative partners.
+    Let me provide a hypothetical yellow light situation. A patrol 
+officer responds to a call of a suspicious person filming the perimeter 
+of a nuclear power plant. The individual is not from the local area and 
+has no apparent association with the immediate area. The officer is 
+suspicious, and therefore conducts an inquiry into NCIC database.
+    Prior to December 1, 2003, the inception date of the Terrorist 
+Screening Center, there was no systematic way to conduct a search of 
+the various federal databases to ascertain if this suspicious person 
+had any ties to an ongoing investigation. The inception of the TSC has 
+provided state and local law enforcement, its customer, with an 
+important tool to instruct a law enforcement officer in a non-custodial 
+situation like the example I provided above as to what, if anything, he 
+or she should do.
+    Returning to the nuclear power plant hypothetical, I will detail 
+what now occurs. The patrol officer queries the name and date of birth 
+of the suspicious person through the NCIC system. If the individual is 
+a ``person of interest,'' the patrol officer receives a Violent Gang 
+and Terrorist Organization File (VGTOF) ``hit'' that directs the 
+officer to call a toll free number for additional direction from the 
+Terrorist Screening Center.
+    Once the Terrorist Screening Center is contacted, additional 
+information is provided which places that ``hit'' into any one of four 
+(4) classifications; arrest, detain, investigate, or query. This 
+interaction also expands to include the FBI's Counter Terrorism Watch 
+that has the ability to provide detailed direction and information on 
+what action to take next in addition to providing further identifying 
+data. The resulting conversation provides the law enforcement officer 
+with the specific guidance necessary as to the type of action to take. 
+This guidance could include observations to be made, the location and 
+time of the observation, questions to be asked, or possibly, that no 
+further action is required. This interaction, and the ensuing 
+information that is obtained, are not only important for investigative 
+purposes, but also for the safety of the officer.
+    In New York State there have been 41 confirmatory instances wherein 
+a VGTOF ``hit'' was received through the NCIC system and involved the 
+TSC. The most recent of which occurred with the New York State Police 
+when a uniform trooper made a vehicle and traffic stop that resulted in 
+a traffic ticket being issued and an inquiry was done through the NCIC 
+computer to ascertain if the subject was wanted. This inquiry resulted 
+in a VGTOF hit which put the investigating Trooper in touch with the 
+Terrorist Screening Center who, in turn, advised the Trooper that the 
+individual queried was the subject of an investigative ``hit.''
+    The trooper was conferenced with the Counter Terrorism Watch, which 
+was able to provide additional information to the trooper as to what 
+action to take next. This, in turn, resulted in the notification of the 
+local Special Agent of the FBI's Joint Terrorist Task Force. I am 
+confident that this interaction provided valuable information to the 
+FBI on a subject currently under investigation.
+    Lastly, I would like to mention a pilot program that complements 
+the TSC and highlights the history of information sharing between 
+federal and state law enforcement. Initiated by New York State and the 
+FBI, this program commenced prior to the TSC in October of 2003. In 
+this program, the patrol officer contacts our intelligence center 
+concerning a suspicious or ``yellow light'' stop with no VGTOF hit. Our 
+intelligence center then contacts the FBI's Counter Terrorism Watch in 
+Washington, DC, to ascertain if the individual detained is a person of 
+interest. The Counter Terrorism watch then queries the FBI's automated 
+case system in addition to other databases, providing our state 
+intelligence center with relevant information for the patrol officer. 
+Director Robert Mueller assigned a Washington based Counter Terrorism 
+watch agent to New York and local law enforcement initiated 114 
+inquiries, some of which resulted in investigation hits. New York State 
+is working with the Federal Bureau of Investigation to formalize this 
+pilot project and expand it into a regional ten state information 
+sharing initiative. This ten state regional proposal is a concept that 
+was previously introduced during July 2003 testimony given by James 
+Kallstrom, senior Advisor on Terrorism to Governor George Pataki, and 
+submitted to the Department of Homeland Security. DHS endorsed the 
+regional concept.
+    I truly believe that, together, we have come a long way in 
+understanding the importance of involving state and local law 
+enforcement, its capabilities and its needs in preventing terrorism. 
+This would not have happened if it were not for the full cooperation of 
+our federal partners. The Terrorist Screening Center, the NCIC, the 
+VGTOF file, the FBI Counter Terrorism Watch center, the Terrorist 
+Threat Integration Center and the JTTF expansion, including the 
+national Joint Terrorist Task Force, all have built a foundation that 
+will provide the integration necessary to protect our homeland from 
+future attacks. I also believe our proposed regional concept will 
+compliment the Terrorist Screening Center and will be instrumental to 
+the Department of Homeland Security in providing specific threat based 
+intelligence information to state and local partners.
+    In closing, I would like to thank each of you for allowing me to 
+provide a state and local law enforcement perspective on this critical 
+matter.
+
+    Mr. Coble. Mr. Berman, you are recognized for 6 minutes.
+
+             STATEMENT OF JERRY BERMAN, PRESIDENT, 
+              CENTER FOR DEMOCRACY AND TECHNOLOGY
+
+    Mr. Berman. Chairman Coble, Chairman Gibbons, and Chairman 
+Cox, it is a pleasure to be here again to testify on the 
+intersection between national security and civil liberties in 
+this age of terrorism.
+    We as an organization are very concerned about the national 
+security issue. As a member of the Markle Commission, I call 
+your attention to their report. I am not speaking for them 
+today, but the report of the commission I was on recommended 
+the consolidation of terrorist information, threat information, 
+including watchlist information, but under direction by this 
+Committee, that it should be under standards, guidelines, 
+oversight and management supervision. Congress gave that job to 
+the Department of Homeland Security. It set up a Privacy Office 
+and a Civil Liberties Office, and the idea was that these lists 
+would be consolidated but under standards that would protect 
+civil liberties, ensure data quality, and ensure that 
+dissemination was correct to the right people; that this 
+sensitive information did not go where it didn't have a need to 
+go; that there would be ways to get off the list.
+    That job is not being done. As I said in June, the 
+oversight responsibilities are not being handled by DHS. At 
+that time, we were talking about TTIC, which looked like it was 
+going to do the screening function. TTIC is not part of DHS. 
+After I testified in September, the Terrorist Screening Center 
+was set up again under another Presidential directive, and what 
+it did was move a function which had been at FBI, then gone to 
+DHS, and then gone back to the FBI. In terms of overall 
+supervision to ensure clear standards, oversight, guidelines 
+and civil liberties protection, it is not within DHS, it is 
+within FBI. And I don't think they have authority under any 
+statute that I can find to perform the functions that the 
+Committee laid out in its report for accuracy, completeness and 
+timeliness.
+    Let me get down to the bottom line. I do not know what 
+standards are being applied here. All I know is that Secretary 
+Ridge the other day said, There are right now 50,000 names in 
+the terrorist watchlist at TSC. Several hundred of them have 
+been, and I am quoting, ``are engaged in criminal activity, 
+potential connections to terrorist organizations and the 
+like.'' Who are the other 49,500 people in the database? I 
+don't think that right now TSC has the authority to decide who 
+goes in that database. TTIC is entering the foreign 
+counterintelligence people. The FBI has entered their whole 
+domestic terrorism list. That includes people suspected of 
+engaging in terrorism who may be the Oklahoma bomber, or it may 
+be an environmental organization or an abortion clinic. We 
+don't know who is in that database, and this Committee has to 
+make an inquiry about how that is done.
+    We don't know how information is purged. The MOU I have 
+read between these agencies really gives the authority back to 
+the FBI and to CIA and other agencies which maintain the 
+watchlists in the first place, to continue to make decisions 
+about who is in that database. When the Director of TSC says 
+that it is under their statutes, their policies, and their 
+guidelines consistent with the Constitution, that is not 
+sufficient, because different agencies have higher standards 
+for entry; different agencies have different needs.
+    Even if we are going to have a complex integration under 
+different standards, we need to know what those standards are, 
+what are the levels of access, who gets on it and who gets 
+where. The policeman on the beat right now, when he queries 
+that database, is not sure whether it is an arrest, detention, 
+or inquiry, because there are so many people in that database. 
+He has to go off line and talk to people and go back through a 
+whole chain of bureaucracy to see whether it is a serious 
+person he has encountered on the street.
+    On the other end, people may be detained, denied the right 
+to travel, denied employment and so forth, because they are on 
+the list and no one has cleared their name, or they are a 
+mistaken identity, or it is overinclusive and including people 
+who are not the hard-target terrorists.
+    Under a system which is too broad, you have the same 
+problem that you had after 9/11, people are going to fall 
+through this list. We talked to police officers who are not 
+calling this number and don't know about the number and don't 
+know how to call it and don't know until a day later that they 
+may have had a suspected terrorist on the street. And then we 
+know there are mistaken people in the database, which raises 
+due process and civil liberties questions.
+    I will return to all of this in questioning. Thank you very 
+much.
+    Mr. Coble. Thank you, Mr. Berman.
+    [The prepared statement of Mr. Berman follows:]
+
+                   Prepared Statement of Jerry Berman
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Mr. Coble. The Chair recognizes Chairman Gibbons for 5 
+minutes.
+    Mr. Gibbons. Thank you, very much, Mr. Chairman.
+    I first direct my attention to Director Bucella, and thank 
+you again, Director, for appearing here today. And I am sorry 
+to have to throw you a hypothetical question to begin with, but 
+I believe it really gets to the heart of the matter that we are 
+dealing with here.
+    The Intelligence Community knew in early 2000 that two of 
+the potential terrorists were meeting with al Qaeda operatives 
+in Kuala Lumpur in Malaysia. These terrorists, Kalid al-Midar 
+and Nawaf al-Hamzi, turned out to be two of the September 11 
+hijackers. If al-Midar and al-Hamzi were pulled over by a 
+police officer in the United States today, would we be able to 
+identify them and would we have caught them if they had been 
+pulled over today with this watchlist?
+    Ms. Bucella. Hypothetically speaking, anyone that has been 
+identified by a Government agency, whether it be in the prior 
+TIPOFF list by the State Department or by any other agency and 
+was put in the TIPOFF, if those two individuals were in fact in 
+that, when they are stopped for a traffic violation, a routine 
+traffic violation, there would have been some indication that 
+they needed to contact the Terrorist Screening Center for 
+coordination with us. But I can't hypothetically speak without 
+having some more facts as to how they would have been--what 
+guidance would have been provided.
+    The names that are in our database, for example, the files 
+are being reviewed and that is why we provide some guidance as 
+to--with CT Watch as to when there is an encounter, when there 
+is a face-to-face contact, what the officer--what questions the 
+officer needs to do.
+    As you previously heard, there are four basic guidelines. 
+One is to arrest. But you can't arrest somebody unless there is 
+probable cause to believe a crime is committed here in the 
+United States. Second would be to detain, and there is a valid 
+detainer on the person. Third would be to stop the person, ask 
+them questions, and there would probably be a drop-down menu of 
+a series of questions that have been recommended by the 
+originating agency, whether it is the FBI or CIA, as to areas 
+which if they encounter that person, what kinds of questions 
+would you want us to ask if you had encountered that person. 
+And the fourth category is to question in the standard 
+operating law enforcement capacity and release.
+    The big difference is, though, that now that information 
+goes back from the patrol officer, goes to the JTTF and back to 
+whomever put that person or who was investigating that person 
+into the database. And that information is invaluable for 
+intelligence information for a number of reasons. One, just 
+because you are pulling someone over and they have the same 
+name doesn't necessarily mean they are, in fact, that 
+terrorist. They may have the same name. There are other 
+identifiers.
+    In our database, we are not the mother of all databases. We 
+don't have all the derogatory information. That stays with each 
+of the originating agencies. All we have in our database is the 
+name and several identifiers. It is an identities database. It 
+is not the recordholder for every Government agency. We have 
+the capability of looking at these case files of each of the 
+different Government agencies, and some are highly classified. 
+That information will assist the State and local law 
+enforcement officers with the identities match. As to all the 
+details of that, that information is not shared by us.
+    Mr. Gibbons. I presume, then, also from what you have said, 
+that if this person or these persons had been pulled over by a 
+routine traffic stop and they did not have--or had false 
+driver's license, forged documents, they probably wouldn't be 
+in that database under that name and would not have been 
+captured if they had used false documents.
+    Ms. Bucella. One slight correction. Some of these people do 
+carry their false identities with them. They sometimes carry 
+several identities with them, several different passports, 
+different documents, driver's
+    licenses. Fortunately, the State and local law enforcement 
+officers first on the ground, they are there. If they see false 
+identification, there are various State laws in which they can 
+pursue that. So it is not all the time that somebody might have 
+a false identification and that would be it. There are times 
+that if they do have false identification, though, there would 
+be no way for us to identify unless, of course, they were 
+driving a vehicle that is not owned by them, and then there 
+would be some further inquiry.
+    We rely to a great extent on the State and local law 
+enforcement officers doing what they do every day, and that is 
+questioning individuals that violate the State laws.
+    Mr. Coble. Gentleman's time has expired, and we have a vote 
+on. And I will say to the Members who are here, we are going to 
+vote and come back immediately and continue the questioning.
+    [Recess.]
+    Mr. Coble. We will resume our hearing. Since this is a 
+joint hearing, folks, procedurally the way we are going to do 
+this, we are going to go Democrat, Republican, Democrat, 
+Republican, and we will start with the Subcommittee Chairmen 
+and Ranking Members, and then I will recognize the Chairman of 
+the full Committee and his Ranking Member.
+    The Chair now recognizes the Ranking Member of the 
+Subcommittee, Mr. Scott from Virginia, for 5 minutes.
+    Mr. Scott. Thank you, Mr. Chairman.
+    And, Director, I wanted to follow up on the questions the 
+gentleman from Nevada was asking about what happens after you 
+get a hit. What provokes an inquiry to the system? Because 
+usually you go through a normal outstanding warrant system just 
+as a kind of routine. You get a traffic stop. They just kind of 
+check, just run your name through the outstanding warrants to 
+see if they have got an outstanding warrant. But what provokes 
+this additional step to the--to this list?
+    Ms. Bucella. The process is that when they check through 
+the NCIC, there now is a separate designation for those that 
+are known or suspected terrorists. That is separately. That has 
+nothing to do--there is nothing else--they would not call us, 
+for example, if there was just an outstanding warrant for a 
+drug case or something like that.
+    Mr. Scott. If you have a traffic stop and run the normal 
+run-of-the-mill check, will that access this hot list?
+    Ms. Bucella. Yes.
+    Mr. Scott. Automatically.
+    Ms. Bucella. Yes. And if there is a person that is, in 
+fact, a known or suspected terrorist, the NCIC will give 
+guidance through the instructions to contact the Terrorist 
+Screening Center.
+    Mr. Scott. Okay. Now, if there is no outstanding warrant 
+for a person, what does the--what could the police officer 
+possibly do?
+    Ms. Bucella. As I mentioned before, there are four 
+instructions. If there is no warrant that is out, then you 
+can't arrest them, and there can't be a detention. But the 
+other two would be to stop, ask questions. As I mentioned to 
+you before, the instruction could, in fact, be to ask questions 
+as to where the person has been, any associates, where are they 
+going. Many of those questions would be asked in the normal 
+course of interaction between a local law enforcement officer.
+    Mr. Scott. You get a traffic ticket, and you start asking 
+about where you have been? I would think that the person might 
+say, sir, am I under arrest, or may I go? Then what?
+    Ms. Bucella. Well, when someone does get pulled over, 
+sometimes the officers do say, what is your hurry, where are 
+you going? It depends on what the interaction is with the State 
+and local law enforcement officer and the individual that has 
+been pulled over.
+    Mr. Scott. And what can you do when the person says, am I 
+free to go?
+    Ms. Bucella. Well, that depends on what they were pulled 
+over for.
+    Mr. Scott. A traffic violation.
+    Ms. Bucella. If they, for example, were arrested for a 
+traffic violation for running someone over, DWI, driving 
+without headlights, driving 100 miles an hour in a 30-mile-an-
+hour zone, then the State laws would pick up.
+    Mr. Scott. Right. But I mean if you get a run-of-the-mill 
+traffic citation, speeding, and you run it through, and you 
+find he is on the hot list, but no outstanding warrant, what 
+happens?
+    Ms. Bucella. No outstanding warrant, they would ask 
+questions and release the individual and pass the information 
+back to--if the Joint Terrorism Task Force was involved, that 
+there had, in fact, been an encounter.
+    Mr. Scott. How close--when you have names that are similar 
+or the same, if you had a Robert Scott that is on the terrorist 
+list, what is going to happen to me if I have a traffic ticket?
+    Ms. Bucella. Well, again, depending on the individual 
+situation, what we have are the names and identifiers, so, for 
+example, if a Mr. Scott is in the--our database, and he is 4 
+feet tall, clearly you would not--that would be one indicator 
+that the person that the law enforcement officer is, in fact, 
+encountering is not the person that has been identified as a 
+known or suspected terrorist.
+    Mr. Scott. You have height, weight, age, birthdate?
+    Ms. Bucella. Right now, because there are a number, as I 
+mentioned before, we have the accessibility to some of the 
+classified databases. Some of the identifiers are, in fact, 
+classified information. The people at the call center do not 
+release the information. What they do is they elicit 
+information from the police officer. They will ask, for 
+example, what we would have--the nonclassified identifiers 
+right now are the name, the date of birth, the passport number 
+and the country of origin. The other identifiers, height, 
+weight, could, in fact, be classified. The officer would not--
+we would not ask the officer to please tell us if he has brown 
+eyes, tell if he is wearing glasses, tell us if he has got gray 
+hair. We would say, please describe any other identifiers, 
+height, weight, that information, so that we are not releasing 
+any classified information.
+    Mr. Scott. And is there an objective criteria to get on the 
+list; and if your name is wrongfully on the list, to get it 
+off?
+    Ms. Bucella. Let me explain this list concept. We have--the 
+way our--the names have come to us, come to us from a number of 
+different Government agencies. Obviously, the State Department, 
+in putting names in their list, they have a much lower bar, 
+because what their encounters are with people at embassies 
+trying to apply to get visas to come to the United States. So 
+the State--Department of State has a very, very low bar. They 
+have identified individuals who are known or suspected 
+terrorists that would never be arrested based on our bar here 
+in the United States coming into the United States. The 
+information has been gathered by many different agencies such 
+that there is a different bar if someone is coming at our 
+borders. It is a much higher bar than denying somebody from a 
+visa. Then once somebody comes into the United States, it is 
+even a higher bar if there is an arrest, because there has to 
+be probable cause to believe that that individual has, in fact, 
+violated the United States laws, or violated a State law.
+    So there are many different levels, and based on the 
+different levels of information and where the encounter is, is 
+what then prompts the Counterterrorism Watch to give the 
+guidance to the local law enforcement officer who is 
+encountering that individual. So, therefore, the information 
+that they may actually just say is, ask questions and allow 
+them to go.
+    Mr. Scott. Can I have one quick follow-up? Is this just for 
+foreign people? I mean, if you have a domestic terrorist, what 
+happens?
+    Ms. Bucella. There are two different forms of information 
+that feed into our center. Domestic terrorism names, they come 
+from the FBI, and the international terrorist names come from 
+or through the TTIC, and they come from all various different 
+agencies. So at our center we have both domestic terrorists 
+names as well as international terrorist names in our database.
+    Mr. Coble. I thank the gentleman.
+    Thank you, Director.
+    Folks, if time permits, we may well have a second round of 
+questioning.
+    I recognize myself for 5 minutes. Director, I know you have 
+a good working knowledge and some degree of expertise for both 
+the Department of Homeland Security and the FBI. Tell me, or 
+tell us, if you will, why the FBI was chosen to administer TSC 
+in lieu of Homeland Security, and whether it is your belief 
+that the FBI is the better choice.
+    Ms. Bucella. I am a DHS employee. I am with the 
+Transportation Security Administration. My Deputy is also from 
+the Department of Homeland Security. We also have another 
+Deputy that is from the FBI, as well as an individual, another 
+department, from the State Department, so we really are a joint 
+partnership. At our center, I have representatives from CBP, 
+from ICE, from Secret Service, from the State Department, from 
+the FBI. It is a whole conglomeration. The FBI was tasked with 
+this, and I do report directly to the Director of the FBI 
+because we had to set the center up immediately. Because of the 
+sensitivity of the information that we have at our center, a 
+number of individuals, their clearances--they are working in a 
+very secure environment--the clearances of individuals, people 
+already had to have their clearances. The FBI was able to set 
+this up from concept to actual operations in probably a little 
+bit more than 45 days, and we actually set up a command center.
+    Mr. Coble. Okay. I need to move along because we impose the 
+5-minute rule against ourselves as well, and I want to get a 
+couple more questions in.
+    Mr. McMahon, have there been any instances where you 
+believe information should have been provided to local law 
+enforcement that was not provided?
+    Mr. McMahon. Since the inception of the TSC, we have had no 
+problems, and we have been able to coordinate with the TSC and 
+get the information back down. But I do--I have to say that we 
+did a very extensive outreach of instructions to all law 
+enforcement, State and local, in New York State on just how the 
+process works, how to use it. And we did training including 
+with that, and we are going to do some follow-up training. So 
+we have not----
+    Mr. Coble. The lines are open and free-flowing?
+    Mr. McMahon. The lines are open.
+    Mr. Coble. Good.
+    Mr. Berman, Director Bucella has described some safeguards 
+for civil liberties. What safeguards would you suggest?
+    Mr. Berman. There has to be a set of clear standards, which 
+are articulable and public, that we can debate about who goes 
+into this terrorist watchlist. I am not--I would say that there 
+may be more sensitivity on the foreign counterintelligence side 
+where foreigners are involved who are dangerous. They are under 
+classified guidelines. But with respect to U.S. persons and 
+citizens in this country, I believe that the guidelines have to 
+be public and articulable so that we know who is going into 
+this database.
+    I believe there need to be clear levels of access, 
+depending on the kind of watchlists being involved. The 
+Director talked about different levels of sensitivity and 
+different bars. We need to know what those are. There has to be 
+a system of data quality to know how this system is being 
+purged, how information is being corrected, so that 
+misidentification, which is all too common, does not occur, 
+because of the consequences that follow.
+    And there also has to be redress. If someone is not able to 
+fly or is denied a job on the basis of incorrect, inadequate or 
+wrong information based on terrorist watchlists, they ought to 
+have redress. And some of that can be accomplished under--if 
+this screening function was under the Department of Homeland 
+Security, which has at least the privacy officer and a civil 
+liberties officer, but part of it would require some statutory 
+changes.
+    Mr. Coble. Let me beat the red light by putting a question 
+to Director Bartoldus. With the transfer of the TIPOFF 
+Terrorist Watchlist function to the TSC Director, have the 
+capabilities of other governmental entities with screening 
+known and suspected terrorists been improved, and if so, how?
+    Mr. Bartlett. The primary improvement in the new system 
+with TSC is the ability of our personnel to contact the TSC 24/
+7. Under the old TIPOFF program, the contact office was 
+available between 6 a.m. And 10 p.m. At night. On weekends or 
+at nights when we encountered somebody, we had to require a 
+State Department employee to drive in, access a file, give us 
+the answer, many times creating a several-hour delay. The mere 
+fact that we get all responses in 20 to 30 minutes or less is a 
+major improvement in the system.
+    Mr. Coble. Thank you, sir.
+    I see my time has expired. Now Ms. McCarthy would be next 
+in line. I recognize the gentlelady from Missouri for 5 
+minutes.
+    Ms. McCarthy. Thank you very much, Mr. Chairman, and my 
+thanks to the panelists for sharing their wisdom with us today.
+    Congress requires you to implement a system for analyzing 
+information on terrorist threats, and that you also have a 
+relationship with TTIC in order to do that. TTIC is housed in 
+the CIA. And I wondered--many of us in Congress thought that 
+was probably unwise to separate the two when the information is 
+so important for us to have. I wonder if you would comment on 
+how that is working.
+    And also, the director of the State of Missouri Office of 
+Homeland Security, Tim Daniels, among others I visited with, 
+tells me that information-sharing, as you discuss it here 
+today, needs to go both ways, not just at the Federal level 
+among agencies like you and the CIA, but with the State and 
+local information offices and directors and personnel so that 
+it can be--it would be timely and significant. And in your 
+testimonies today, many of you reflected on incidents that have 
+been important, and they have come from--in some instances they 
+have come from those local first responders, some of whom are 
+with us today, and we thank every one of you.
+    So I really wonder if you--I would welcome any input you 
+have on how we in the Congress can help best complete that 
+information loop so it is indeed a loop, that information from 
+local entities, local first responders actually, once it gets 
+in the information loop, gets to the Federal level where you 
+need it when you start hearing that from different locals, all 
+of a sudden bells and whistles can go off, and we can be much 
+better informed. Tell us what we must be doing to assist you in 
+that goal that I know we all share. And anyone is welcome to 
+comment on this.
+    Director Bucella, perhaps you would like to start, and 
+Director McMahon, I would love to hear from you.
+    Mr. McMahon. I can just give you an example of what we are 
+doing to try to do that in New York State. I think it is very 
+hard for any Federal entity to try to get information coming in 
+from every emergent first responder, and what we did is we set 
+up counterrorism zones, we call them, in New York State. They 
+are 16 geographical areas that brings local law enforcement 
+together, and then they address, from their geographic 
+perspective, what they see as critical problems dealing with 
+terrorism there, and they bring the first responder community 
+in.
+    Then we set up a State intelligence center so that you 
+don't have a bunch of stovepipe systems where we can filter a 
+lot of that information up to a Federal level, see what is 
+specific to New York, what should go up to a State level, up to 
+a Federal level.
+    So we are really looking at what could be intelligence and 
+what is just information nice to know. And I think that helps a 
+lot from a Federal standpoint at both DHS and both the FBI. So 
+that has kind of been our answer in these counterterrorism 
+zones, and we have a separate network for those that we get 
+advisories out to law enforcement, and then we get an advisory 
+below that level, some to the private sector, different 
+sectors, whether it is the chemical sector, the energy sector. 
+And then we also do it through emergency managers, fire and 
+stuff and that way, and that has been working out very well.
+    Ms. McCarthy. And do you feel like when you send that 
+information to the national level that, in fact, someone is 
+listening.
+    Mr. McMahon. Yes. Yeah. We are----
+    Ms. McCarthy. How do you get that assurance?
+    Mr. McMahon. Because we do--we talk. It is not going up 
+electronically. We talk back and forth with them. They are 
+accessible on doing that.
+    But I will tell on you the Federal agency standpoint, they 
+are part of our counterrorism zones. The FBI at the three 
+resident offices are an integral part of it. So much of the 
+information flow, too, comes down through them to us in a very 
+timely basis on that.
+    So we have had a wonderful relationship with the Federal, 
+our Federal counterparts--and I will go back to the last orange 
+alert. We at the State and local level had the best, most 
+specific information of any of the orange alerts. They were 
+general before, to be perfectly honest. And we did--for the 
+first time we did conference calls with our counterterrorism 
+zones, and the FBI got on the conference calls along with the 
+head of intelligence from the New York City Police Department. 
+We really could put together a State perspective, and the 
+feedback from all law enforcement to us was that is very 
+beneficial and helpful.
+    Ms. McCarthy. And I bet it was helpful to the constituents 
+we all serve, because that is part of the confusion we all have 
+on what these colors mean and how best to react to that.
+    But let me turn to our national Federal voices.
+    Ms. Bucella. Thank you.
+    Congresswoman McCarthy, you have just identified a 
+tremendous and enormous challenge for us. Right now in the last 
+4 months that we have been operating, we have been trying to do 
+a tremendous outreach, not only just to our Federal agencies to 
+find out sort of how they are operating, but also with our 
+State agencies. There are 50 different States and I have called 
+the director of homeland security for one of the States just 
+because I knew the person and said, do you have a list? I mean, 
+I know the Feds have it. Do you have a list? And the answer is, 
+what do you think? I mean, it is that type of thing.
+    There is much work to do. We, as the United States, have to 
+operate in a coordinated effort. That means across State and 
+Federal lines. We are the--the Feds are not the experts in what 
+is going on in the States. The State law enforcement officer 
+knows who is sort of out of whack in their neighborhood. Or 
+they have threats, or they are aware of sensitive areas. But 
+that information is getting up and going through the various 
+Federal agencies, but there needs to be a coordinated approach.
+    And at the Terrorist Screening Center we are trying, and we 
+are seeing ourselves as the facilitators of that approach. We 
+have the incredible perception from where we are sitting to be 
+able to see what is happening in California and Oregon and 
+Mississippi, and we are able to reach back through the JTTF to 
+get them to talk to the State and local law enforcement 
+officers.
+    We are merely a facilitator, and we have seen some very, 
+very unique opportunities. I know that we had New York come to 
+visit us after they heard about this intelligence center, and 
+they wanted to know, quite frankly, what were you, the Feds, 
+doing; and were you doing what we are supposed to be doing. And 
+we found out it was a perfect match.
+    Mr. Coble. Director, the gentlelady's time has expired. If 
+you can hold that thought, perhaps share it with us 
+subsequently.
+    The Chair now recognizes the Chairman of the House Homeland 
+Security Mr. Cox for 5 minutes.
+    Mr. Cox. Thank you, Mr. Chairman.
+    I wonder if I can start with Ms. Bucella and ask you what 
+you think should be the role of the Department of Homeland 
+Security in TSC.
+    Ms. Bucella. Well, right now the role has been very 
+aggressive because myself--and I am with the Transportation 
+Security Administration, my Deputy is, and many of our people 
+are. I think, first of all, that the Terrorist Screening Center 
+should always have representatives from every single agency. It 
+should not be one type of response. The absolute benefit that I 
+have seen on a day-to-day basis is the expertise that everyone 
+brings to the table with them at our center. We hope soon that 
+we will be able to have members from DEA, the Postal Service. 
+We also have people from the Office of Foreign Asset Control. 
+We are also going to probably have people there from FINCEN.
+    There is an incredible benefit to have the richness and 
+diversity of all our different agencies and to include, to 
+bring somebody from State and local to be working side by side. 
+This is not--this is not a--one answer of one person's going to 
+take care of this. This is a cooperative effort where the 
+United States Government has to be working in a seamless 
+fashion.
+    Mr. Cox. Do you work together with Daniel Sutherland?
+    Ms. Bucella. No. I am not sure what Mr. Sutherland's 
+position is, sorry.
+    Mr. Cox. Okay. How about Nualla O'Connor?
+    Ms. Bucella. Yes. Nualla, absolutely. One of the things, 
+the reasons, why I know Nualla is--obviously being a lawyer 
+myself, I believe in bringing the lawyers up front when you 
+start and not later on. And we have had a number of meetings 
+with not only the FBI privacy lawyers, DHS privacy lawyers, TSA 
+privacy lawyers, Nualla chaired a meeting, because we are very, 
+very concerned about the misidentification issue. We want to 
+make sure that if people are stopped, and they have the same 
+name, if there is any other discriminating factor that we could 
+put in our database to say that person is not the one, then 
+that is what we want to do, because we really are concerned. I 
+personally am concerned that we don't stop people that--unless 
+we know that they are known or suspected terrorists, and the 
+only way we are going to be able to do that is to be able to 
+gather as much information from those people.
+    And Nualla has absolutely helped certainly in the 
+discussion, and we have some documented procedures about how we 
+work on some of the encounters. In fact, while we have been up 
+in the last 4 months, we have really had a number of people, 
+somebody, for example, working in the United States but living 
+in Canada, and one morning they come in. The next--that night 
+they leave. They get stopped. Secondary, secondary. The next 
+morning the person comes in again, and finally, among my staff 
+I said, I want to know why that person is on--why they are 
+stopped, why they are on secondary, and let's see if it is good 
+information or if it is outdated information. That individual's 
+name was, in fact, taken off of one of the databases, the case 
+management databases, based on old and outdated information. We 
+did not do the operational response. We sent the JTTFs out 
+there. That is exactly what they are supposed to do.
+    Mr. Cox. The reason I asked about Nualla, of course, is 
+because it is important that are you doing exactly what you 
+described, and I am happy to hear that. The reason I asked 
+about Daniel Sutherland is that he is the officer for civil 
+rights and civil liberties. In title I of the Homeland Security 
+Act, we created that officer right underneath the Secretary 
+with responsibility, cross-cutting responsibility, for all the 
+directorates because of the priority that Congress placed on 
+this, which brings me to Mr. Berman's point.
+    Let me ask you the same question. What do you think should 
+be the role for the Department of Homeland Security in this 
+matter?
+    Mr. Berman. Well, I think it really should be demonstrable, 
+looking at the standards by which people are entered into 
+these--into the watchlists. And we were hoping that Homeland 
+Security would publish at least standards for U.S. persons 
+about who would be qualified, is it limited, or at least verify 
+to the public that it is limited to dangerous people who are 
+wanted overseas or who may enter the country. Is it people who 
+are really under probable cause to believe that they are 
+engaged in terrorism or reasonable suspicion that they are 
+engaged in terrorism, or does it reach all the way to anyone 
+who is of interest to the FBI under any preliminary inquiry?
+    There is a whole set of standards, but they become lower, 
+with less evidentiary and then almost no evidentiary support. 
+Do those people get entered into this watchlist?
+    Mr. Cox. Now, those are all good questions. I understood 
+your testimony to include the assertion that while Homeland 
+Security, the Department, has privacy and civil rights, civil 
+liberties officers, that that does not exist in TSC or its 
+parent as it is presently set up. I mean, is that right? Is 
+there nothing analogous to the civil rights, civil liberties 
+officer or the privacy officer at the FBI?
+    Mr. Coble. Mr. Berman, if you could make your answer terse, 
+because the 5 minutes have expired.
+    Mr. Berman. There is no ombudsman or privacy officer, civil 
+liberties officer. There is an inspector general that keeps 
+working on the FBI, at the Justice Department, but there is 
+no--there has been a proposal to create a privacy officer at 
+the FBI, but there is no such officer. We did not want to 
+create privacy officers maybe at every agency, but to have some 
+coordinating approach to both the national security side, but 
+also the civil liberties side.
+    Mr. Cox. Well, the Chairman has been indulgent. It is only 
+5 minutes, and the time has expired.
+    Mr. Coble. I thank the gentleman.
+    The Chair recognizes the gentleman from Texas, the Ranking 
+Member of the full Committee, Mr. Turner for 5 minutes.
+    Mr. Turner. Thank you, Mr. Chairman.
+    Director Bucella I want to inquire a little bit about how 
+far we are along in developing a Terrorist Screening Center 
+that meets the criteria that is set forth in the document that 
+I know you have and I referred to in my letter to you a few 
+days ago. And I want to be sure that I am reassured that you 
+have the vision as to what we need to put together here.
+    Obviously, you have been at this job, I think, since 
+December when this task was passed back to the FBI, and as you 
+know, I have been quite concerned that the job has been passed 
+around two or three different places since 9/11 before it 
+finally settled somewhere and some progress began to be made.
+    But it does disturb me when I hear you giving your report. 
+You made reference to, you know, 50 visas have been revoked as 
+a result of Terrorist Screening Center. In my judgment, unless 
+those holders of visas were determined to be terrorists 
+suspects after they got their visa, they never should have 
+gotten a visa in the first place.
+    And so I am concerned that we are not yet envisioning the 
+Terrorist Screening Center consistent with the 10 criteria that 
+I set forth in the document I forwarded you. For example, are 
+you confident that you have obtained all the terrorist 
+watchlist information from every agency of the U.S. Government? 
+Is it all accessible to you today?
+    Ms. Bucella. Since September 23, when the HSPD-6 came out, 
+and up until today, there is enough--there is a lot of 
+information out there within all our Federal Government. We 
+have a number of names. But we endeavor--and this is a work in 
+progress--to be able to get all of the names from all of the 
+different Government agencies.
+    Mr. Turner. And so your answer is no, you do not have it 
+all. And I think specifically, from a previous briefing you 
+gave the Committee staff, one of those areas is the Department 
+of Defense. Several of us on our Homeland Security Committee 
+have been down to Guantanamo, and we all know the Defense 
+Intelligence Agency, the naval intelligence, all these agencies 
+within DOD have a lot of names of suspected terrorists who can 
+move by airplane flight in less than 24 hours. And I hope that 
+we can continue to pursue the objective of getting all the 
+information from all agencies of Government into the Terrorist 
+Screening Center watchlist.
+    Next question I have for you is are we making efforts to 
+transform what I understand your current status to be, and that 
+is to be a call center where people can call in and ask a 
+question, and then, as I understand it, whoever took the call 
+would turn and talk to an individual in your office that may be 
+sitting at a terminal operated by the State Department, and may 
+turn to somebody operating a terminal for some other agency 
+that has a watchlist, and then turn to somebody else, and they 
+all do their work, and, as has been suggested, within 20 or 30 
+minutes maybe you can get a check? I have been told that some 
+of these watchlists are checked overnight; that you do not have 
+the capability within 20 or 30 minutes to check all of these 
+watchlists. And what I see we are doing now is piecing this 
+together with bailing wire.
+    We have got people in your shop that have access to a 
+computer terminal, but I want to know, do we have, today, 
+efforts ongoing and contracts outstanding to integrate the 
+database of every agency of the Federal Government that has a 
+terrorist watchlist into one unified terrorist watchlist at the 
+Terrorist Screening Center?
+    Ms. Bucella. Congressman Turner, first we currently have a 
+database with the names and identifiers of a number of known 
+and suspected terrorists. When a phone call comes in, it is 
+usually from a dispatcher, or it could actually be from the 
+NTC. Our turnaround time is very quick. As a matter of fact, I 
+think one of my colleagues here will tell you how fast some of 
+the turnaround time is. We do not have somebody answering the 
+phone and then calling to the State Department person across 
+the room and saying, could you go up on your database?
+    One of the requirements at our center is that once you walk 
+in, you wear the TSC hat. And we have people that have 
+accessibility, not just FBI agents, but BICE and CBP 
+individuals that have accessibility to the FBI database, that 
+they are sitting there. So the person picking up the phone 
+actually could have accessibility to all of those databases 
+right there in front of them.
+    But those databases are not just watchlists. Those 
+databases contain information and case management information. 
+That will never change. Our database will only have the names 
+and identifiers in there. As to all of the other derogatory 
+information as to why that person has been identified by one of 
+the Government agencies as being a known or suspected terrorist 
+will not be in our own database. That is not what HSPD-6 had 
+dictated.
+    HSPD-6 was very, very clear. We are only to facilitate in 
+the identities match, and therefore our database has to be 
+unclassified, but sensitive law enforcement and would just 
+contain the information regarding the identifiers.
+    Mr. Coble. Director, Ms. Bucella, I regret having to 
+continue to interrupt you and put a muzzle on you, but if you 
+could wrap that up because we have Mr. Dicks waiting, and we 
+have Mr. Keller waiting, and the gentleman from Texas' time has 
+expired. If you could wrap up momentarily.
+    Ms. Bucella. I will wait for someone else to finish the 
+question, sir.
+    Mr. Coble. Very well. The gentleman's time has expired.
+    The gentleman from Florida Mr. Keller is recognized for 5 
+minutes.
+    Mr. Keller. Well, thank you, Mr. Chairman. I have got 
+several questions.
+    Let me start with Director Bucella. Let me give you just 
+like a realistic scenario, and you kind of educate me on how 
+this works. Let's say that there is a man we will call 
+Almidhar, just because that is a famous name, who is just flat 
+out on the terrorist list. There is no dispute that you are 
+maintaining his name on the Terrorist Screening Center list. He 
+comes to the Orlando International Airport 2 hours before his 
+flight to Reagan National in D.C. He walks up to the ticket 
+counter. He pays for a ticket at the--with the lady who works 
+for USAir. She gives him a ticket. Now we have captured that 
+name. Who then does the check that compares the passenger 
+manifest with the terrorist watchlist?
+    Ms. Bucella. Currently what happens is the airlines right 
+now has the no fly list, and so they would look at the no fly 
+list. The no fly list was incorporated in our terrorist 
+screening database. The TSA intel unit would then contact us. 
+We would then contact through the NTC, which is really our--
+they are our dispatcher. They are the dispatcher, would then 
+give the instructions as to whatever to do. We do not give the 
+instructions as to what to do with the encounter. We are not in 
+an operational setting. We are only there to facilitate the 
+identities match.
+    Mr. Keller. So it is not the nice little lady that you buy 
+the ticket from, she puts the name in the computer, and 
+somewhere in the bowels of some basement somewhere there is a 
+USAir, a TSA person, who has the no fly list, and they say, 
+hey, there is a problem?
+    Ms. Bucella. Probably in that case, well, if the person is 
+here in the United States, and they are a terrorist, it depends 
+on where they are going and what other interaction they are 
+going to have, and it also depends on what--for example, what 
+DHS has put in their lookout system as to what to do with that 
+individual.
+    Mr. Keller. So this name sounds suspicious, this Almidhar 
+name. Who then shows up to gather more information? Is that a 
+Customs and Border agent?
+    Ms. Bucella. It is ICE.
+    Mr. Keller. Mr. Bartoldus, Director Bartoldus, is that who 
+shows up, your guy?
+    Mr. Bartlett. In the--for an international flight it would 
+be CBP officers. We would immediately have queried in the 
+system, contacted TSC, and then we contact locally ICE and 
+JTTF. Normally, depending on who owns the record, FBI and ICE 
+will both respond on site with our officers. At the same time 
+through the National Targeting Center we have contacted Donna's 
+office.
+    Mr. Keller. So you can compare, there is a lot of people 
+with similar names, but you mean you can look at dates of birth 
+and Social Security number and height and weight, and it is not 
+just a computer science. There is an art to this as well. There 
+is some judgment call by the Customs and Border agent; is that 
+right, Director Bartoldus?
+    Mr. Barton. That is correct. There are many of these 
+queries that, when do you the interview, we have the level of 
+data to make a determination whether it is a match or not 
+almost immediately.
+    Mr. Keller. In my district of Orlando, Florida, Jose 
+Melendez-Perez stopped the 20th hijacker without any computers 
+at all, just through being a sophisticated agent who asked the 
+right question, correct?
+    Mr. Barton. People are a major part of our defense.
+    Mr. Keller. Okay. Now, some of the questions that were 
+raised by Mr. Scott and Mr. Berman concern the mistaken 
+identity issue, and let me just raise those with you, Mr. 
+Berman. Mr. Scott says what if a guy named Bobby Scott is 
+driving down the road speeding 55 miles an hour in a 30 zone, 
+and he gets pulled over? And the local police officer does an 
+NCIC check, and he is concerned that he is going to be 
+detained. Now, it is my understanding that, once again, the 
+dispatcher gives the officer the information, and he has the 
+discretion to arrest. And so--if Bobby Scott is a hit. But we 
+look at this Bobby Scott, and he has a different date of birth 
+and a different Social Security number and a different weight 
+and a different height, and that officer says, you know, I am 
+going to arrest him anyway. You are probably going to have some 
+civil liability for false arrest or a 1983 action. Isn't that 
+correct?
+    Mr. Berman. You have a--the data that you just ticked off 
+is not in this database. So as I understand it, and I am not at 
+the operational level in any police department, if there is a 
+hit on this, there is a call-back number. In some States it may 
+be 1-800-TSC. In others it is just call your FBI agent. It does 
+not resolve what that--the probative nature of that hit.
+    Mr. Keller. And let me do one final question, because I 
+have only got like 10 seconds here. Director McMahon, you used 
+the example of someone who is filming at a nuclear power plant 
+and is kind of suspicious, and the police officer does an NCIC 
+check. Isn't one little flaw we have in the system that if you 
+do the check on this guy, and he hasn't been arrested before, 
+he hasn't been convicted before, but maybe he has done this at 
+five other nuclear power plants, his name may not pop up; isn't 
+that correct?
+    Mr. McMahon. That is correct.
+    Mr. Keller. What is the solution to that?
+    Mr. McMahon. He wouldn't pop up unless he is already the 
+subject of an investigation, and then the hit would have been a 
+VGTIF hit we talked about, which would have said, contact the 
+Terrorist Screening Center.
+    Mr. Keller. If someone else had recorded it in there?
+    Mr. McMahon. Yes. Or unless there was other particulars 
+that would--where the patrol officer that stopped that person 
+could create reasonable suspicion to move forward within their 
+State laws.
+    Mr. Keller. Okay. My time is expired. Yield back.
+    Mr. Coble. The gentleman's time has expired.
+    The Chair recognizes the gentleman from Washington Mr. 
+Dicks for 5 minutes.
+    Mr. Dicks. Thank you.
+    Director Bucella, why has it taken so long to put together 
+the integrated terrorist watchlist? We have had all these other 
+lists. I mean, the Ranking Member has made a major point of 
+this. It has been discussed. Why has it taken so long, and can 
+you do it quickly? Tell us why it has taken so long.
+    Ms. Bucella. There are a number of reasons. One is there 
+are not--they are not just watchlists. They are case management 
+systems. There are--they come from many different agencies and 
+they contain much different information. And so it is not a 
+matter of dumping somebody's data system with a bunch of names 
+into just one database.
+    Mr. Dicks. What is it? If it isn't that, then what is it? 
+How do you do it?
+    Ms. Bucella. We have the agencies going back through their 
+case files taking a look to make sure that what they have in 
+their case file, if it is a known or suspected terrorist, that 
+it is identified as such. It is a matter of--from the different 
+prerequisite watchlists they have. The biometrics, the IDENT 
+and the IAFIS system, those are not watchlists, those are data 
+information.
+    This is a tremendous challenge just to figure out in our 
+Federal Government all of the different systems that are in 
+existence. That is what the big challenge is. It is not only 
+technologically, it is also just substantively of making sure 
+that we have good and accurate information.
+    Mr. Dicks. How much of this job is done? None.
+    Ms. Bucella. No. There is a lot that has been done, but we 
+have a lot further to go.
+    Mr. Dicks. But this date has been pushed to the right, 
+pushed to the right, pushed to the right, pushed to the right 
+and it is now December of 04 that this thing will be completed.
+    Ms. Bucella. No, that is the fully automated database will 
+be completed, and that would give every Government agency the 
+access ability to--by computer reach into our database for 
+those identifiers. That is at the end of the year. Right now we 
+have a database with names and identifiers and we have over 
+120,000 names in our database right now. But we are constantly 
+populating. We are taking from the GAO list, we are currently, 
+as we speak, uploading the IBIS case file, the NAILS case file, 
+the NAILS list of names. This has been a long process. It is 
+not just a matter of, as I mentioned to you before, of just 
+dumping names into the system.
+    Mr. Dicks. But we are continuing to add to this system and 
+the system can be drawn upon right now.
+    Ms. Bucella. We will always be adding. The system cannot be 
+automatically drawn upon right now. We created a database which 
+we have used at our screening center. The automated----
+    Mr. Dicks. But you can pick up on it from the screening 
+center. At the screening Center you can pick up a name. It is 
+just that the other agencies can't come in at this point
+    Ms. Bucella. Not yet. That is exactly it, sir.
+    Mr. Dicks. All right. Now what is this problem with the 
+Department of Defense? Are they cooperating or not cooperating?
+    Ms. Bucella. It is not a problem with the Department of 
+Defense. It is trying to figure out all of the information that 
+the different agencies have. We have done outreach with the 
+Office of Joint Chiefs of Staff. We have met with the Under 
+Secretary's Office for Homeland Security. We are just trying to 
+make sure that we have all of the information. It all should be 
+pushed through the Threat Terrorist Integration Center for the 
+international terrorists, and that is what we are endeavoring 
+to find out, what other information is in fact out there. This 
+is a complex process.
+    Mr. Dicks. Have you gotten anything from the Department of 
+Defense yet?
+    Ms. Bucella. We have some names from the Department of 
+Defense, yes, that are already--that have already been pushed 
+through the FBI and through TTIC.
+    Mr. Dicks. And finally, those police officers back there, 
+they can't call directly from their car to the Terrorist 
+Screening Center. They have to go through a dispatcher, the 
+dispatcher then connects to the TSC, and then they have a 
+discussion. The dispatcher says to the officer, here is what 
+the TSC has told us.
+    Is that basically it? I want to make sure my colleagues 
+understand how this operates.
+    Ms. Bucella. Right. The dispatcher is there, letting the 
+officer, for officer safety, take care of the individuals that 
+they are encountering for whatever reason they pulled them 
+over. And then the dispatcher is taking the information from 
+the officer and giving it to our center. And our center is 
+trying to match up the information that the dispatcher has 
+given.
+    If the dispatcher--the requirements that the dispatcher 
+would probably give back is, you know, either ask some more 
+questions or move on or please give me some move descriptors, 
+officer, as to what this individual looks like or what they are 
+wearing or, you know, height, weight, and that type of 
+information.
+    Mr. Dicks. Staff has told us that in January the 
+information-sharing would be done by March. And you are saying 
+it is not done yet.
+    Ms. Bucella. No, what I told the staff----
+    Mr. Dicks. That is the end of the year now. That has moved 
+to the end of the year.
+    Ms. Bucella. No. What I told the staff is that we would 
+have a database by March, not a totally complete database. We 
+would have a database that we would use.
+    Mr. Dicks. But you don't have one now.
+    Ms. Bucella. We have a database now. It was up on March 
+12th. March 12th it was up. I think when I briefed your staff, 
+I said it would be up by the end of March and we had it 
+operational by March 12th.
+    Mr. Dicks. Is a memorandum of understanding necessary? MOU 
+necessary?
+    Ms. Bucella. I believe it gives some guidance to all the 
+different agencies so everybody is on the same footing.
+    Mr. Dicks. Thank you, Mr. Chairman.
+    Mr. Coble. Thank you Mr. Dicks. The Chair recognizes the 
+gentleman from Arizona, Mr. Shadegg for 5 minutes.
+    Mr. Shadegg. Thank you Mr. Chairman.
+    Director Bucella, let me begin with you because I am trying 
+to get this clear in my mind. As I understand it, in response 
+to Mr. Dicks' questions you just confirmed that you have an--I 
+guess it is called a terrorist-creating database, not yet 
+complete but you have a database, right?
+    Ms. Bucella. We have a database, and though not yet 
+complete, it needs to be improved upon so it is all automated.
+    Mr. Shadegg. It seems to me that almost all law enforcement 
+databases are not yet complete, so----
+    Ms. Bucella. We have been operational, sir, for 4 months. 
+So we are trying to do operations and get this database going.
+    Mr. Shadegg. What I would like to do is have you give me 
+greater clarity of the difference between your database and the 
+database, if there is one, that is maintained by TTIC.
+    Ms. Bucella. TTIC is currently working on their database, 
+but their database has all of the underlying reasons why that 
+person is a terrorist and it has highly classified information 
+on it. So that is the real distinction. And also TTIC only has 
+international terrorist information in it. It does not have the 
+domestic terrorism information. That other feed comes from the 
+FBI.
+    Mr. Shadegg. Well, the FBI feeds into the TTIC database as 
+well.
+    Ms. Bucella. For your international terrorists, sir.
+    Mr. Shadegg. Okay. So you are saying the TTIC database will 
+be international terrorists and it would include classified 
+information. And your database would include international 
+terrorists and domestic terrorists.
+    Ms. Bucella. The names and identifiers only.
+    Mr. Shadegg. Names and identifiers only, not the basis for 
+which they were placed on the list?
+    Ms. Bucella. Yes, sir.
+    Mr. Shadegg. And if I understood the description you gave 
+to Mr. Dicks, the reason this is taking a substantial amount of 
+time is to verify that someone actually belongs on the list.
+    Ms. Bucella. Yes, sir.
+    Mr. Shadegg. Okay. At an earlier hearing, we were told that 
+it would be impossible for an officer on the street to get data 
+directly from this Terrorist Screening Center, essentially to 
+get data directly out of your database. And in a sense I think 
+the description you just gave us confirms that. That is to say, 
+an officer in a patrol car who calls in with a suspect he is 
+currently detaining doesn't talk directly to you or--and 
+doesn't electronically access your database.
+    Ms. Bucella. Yes, sir.
+    Mr. Shadegg. He goes through a dispatcher.
+    Ms. Bucella. Uh-huh.
+    Mr. Shadegg. And the dispatcher passes the information on 
+to you. You then pass the information back to them. If they 
+provide you with sufficient identifiers, you give them back a 
+confirmation or a denial: We don't have anybody by that name, 
+or we do have somebody by that name.
+    Is that accurate? I see you shaking your head no.
+    Ms. Bucella. No, sir it isn't. First--let me tell you why 
+we use a dispatcher. To authenticate and verify that that 
+person is, in fact, a lawful police officer, number one. Number 
+two, we don't give the confirmation or rejection. If it appears 
+that the person is in fact the same individual that would be in 
+our database, we forward the call to the Counterterrorism Watch 
+at the FBI. They are the operational arm, along with the Joint 
+Terrorism Task Force. We drop off the line while the 
+Counterterrorism Task Force, the CT Watch, is talking to the 
+individual so that they can then provide guidance to the law 
+enforcement officer on the street as to what they should do 
+with that individual they are encountering.
+    Mr. Shadegg. Okay. That leads me to two follow-up 
+questions. One of the questions I had was that at the earlier 
+hearing, we were given the impression that when a line officer 
+on the street makes this call and thinks he has somebody who 
+may be a suspect, a terrorist suspect, that one of the reasons 
+that they cannot access you directly is that it requires 
+essentially the approval of some supervisor, that this ought to 
+be checked for--that this stop, person they have stopped, a 
+suspect, merits screening as a terrorist. Are you aware of any 
+such requirement?
+    Ms. Bucella. No. And I am also not aware of the previous 
+hearing as to who was even talking about this.
+    Mr. Shadegg. It is a hearing of the Homeland Security 
+Committee, probably 2 weeks ago, and maybe a month ago.
+    Ms. Bucella. Sorry, sir.
+    Mr. Shadegg. All right. The second question I have is I 
+understand that because are you not operational, you just 
+maintain a database, this procedure is in place where you 
+essentially bring in--who did you say?
+    Ms. Bucella. The Counterterrorism Watch at the FBI.
+    Mr. Shadegg. Okay. Do we have experience, although you have 
+been up and running fairly short, with how much time that takes 
+because my--you know, my police officers are going to be 
+concerned about that issue.
+    Ms. Bucella. Well I can give you--it depends on where the 
+encounter is and when we get the phone call.
+    Mr. Shadegg. Well, for me, the encounter is way out in 
+rural Arizona in the Navajo Indian reservation.
+    Ms. Bucella. If there is a local joint--usually the 
+information can be provided, CT Watch turnaround time is very 
+very quickly. But, for example, I can get the answer for you as 
+to what our experience has been in Arizona. But for right now I 
+can't; however, I heard from New York that our time has been 
+very very good. I mean, it varies.
+    Mr. Shadegg. Well give me, other than very very good, give 
+me some specific--some time frames. Is this a 2-minute process, 
+a 4-minute process, a 16-minute process?
+    Mr. McMahon. Congressman if I can jump in on that. What 
+usually happens is you get the VGTOF hit, person of interest. 
+The call goes in to our dispatch center. Dispatch center calls 
+the TSC, going back and forth to the car. They verify that that 
+is the individual. The CT Watch is brought in.
+    Mr. Shadegg. Well, the first question is, how long does it 
+take to verify the individual?
+    Mr. Coble. Folks, we are going have to wrap up quickly.
+    Mr. McMahon. We have been in minutes, but then with the CT 
+Watch which gives specific information, get the person's name, 
+associate's name, where they are going, whatever, and then let 
+them go, it is running, you know, actually--usually I would say 
+on average of 12-15 minutes, maybe, on something like that. 
+Because when we talked, we said there should be--we were in 
+about a 20-minute maximum guideline that we would need, and the 
+FBI has been meeting that.
+    Mr. Shadegg. My time obviously expired. I appreciate the 
+Chairman's indulgence.
+    I would appreciate a written response to both questions: 
+How long it takes to confirm, on average, that this is a person 
+worth looking into; and then how long it takes to dispose of 
+the matter. I think that is the concern of the average 
+American.
+    Mr. Coble. The gentleman's time has expired.
+    Prior to recognizing the gentlelady from Texas, I want to 
+welcome the three law enforcement officers who Director Bucella 
+introduced to us earlier. I failed to extend a welcome to you 
+gentlemen. Good to have you all with us.
+    And, Mr. Berman, in response to one of the questioners, I 
+don't recall who was examining you, but you indicated some 
+concern about the fact that the Department of Homeland Security 
+did, in fact, have a privacy officer, but the FBI did not. But 
+the Department of Justice, as you know, does have an Office of 
+Information and Privacy, and since the FBI is housed therein, 
+that ought to assuage--well, I shouldn't say that. I hope that 
+assuages your discomfort.
+    I am now pleased to recognize the gentlelady from Texas for 
+5 minutes, Ms. Sheila Jackson.
+    Ms. Jackson Lee. Thank you very much, Mr. Chairman. And 
+might I add my appreciation for the gentlemen as well, and 
+welcome to our Committee. I hope that you sense a great 
+curiosity and certainly a great recognition of the moment that 
+we have in terms of dealing with these questions of homeland 
+security.
+    Let me also add my appreciation to both Mr. Coble and Mr. 
+Scott, Mr. Gibbons, and Ms. McCarthy for this joint hearing. I 
+think it is really vital. I listened intently to the hearings 
+yesterday of the 9/11 commission for the time that I was in the 
+hearing room to listen to a part of two witnesses, and that is 
+Mr. Tenet of the CIA and Mr. Clarke. And I believe that even 
+though they might have been conflicted in where they were going 
+with their testimony, they were very clear that we have not yet 
+punched all the buttons on the war against terrorists.
+    In addition, I think George Tenet emphasized that the local 
+law enforcement are key and must be integrated into the system 
+extensively. And I agree with that.
+    One of the comments--and I don't want to attribute it to 
+Mr. Clarke, for my recollection may not be completely accurate 
+in that there were many witnesses--but I am not afraid to say 
+that the thrust of some of the remarks were that even if the 
+prize plum of Osama bin Laden is caught, that does not in any 
+way end the war on terrorism. The terrorist activities are 
+sufficiently diffuse and spread out, if you will, to indicate 
+to us that we might even just be beginning. And so this whole 
+question of the integration of the intelligence system and 
+having it work is a key part of our survival.
+    One of the other points, I serve as the Ranking Member on 
+the Immigration Subcommittee here on the Judiciary, and we 
+balance and complement the Homeland Security Committee's 
+issues. But I think it is well noted that one of the best 
+defenses of terrorism is to ensure if you talk about homeland 
+Security, that the terrorist never gets to your land.
+    [4:20 p.m.]
+    Ms. Jackson Lee. That is where the watchlists and other 
+integrated activities occur.
+    So I have a series of questions, and I appreciate very 
+much, Ms. Bucella, but I would also include and welcome others 
+who may wish to answer. You probably answered this three and 
+four and ten times, but answer it again, if I am correct as to 
+the Terrorist Screening Center that was supposed to be 
+operational by December 1, 2003, if I am correct, and find out 
+what is happening with that and its completeness and its 
+operations.
+    The other point that I would like to trace is the 
+utilization of this watchlist. I know there have been some 
+questions dealing with civil liberties and the privacy 
+questions. I want to ask questions about the visa operations. 
+When foreign guests attempt to secure visas in their foreign 
+posts in the United States embassies, what is the effectiveness 
+of the watchlist by that process? They attempt to secure a 
+visa. We are now sending names to a watchlist. What is the 
+turnaround or the integration of the data such that you 
+immediately are able to look at that name and coordinate it?
+    As you well know, there are a lot of Mohammeds and you can 
+be sure that I am getting a lot of complaints on the system 
+because I am not the Mohammed that people were looking for. I 
+want us to be secure, but I also want us to recognize there are 
+other elements of our life and business as well.
+    The whole concept of Field Intelligence Groups. Houston 
+happens to be one of a very few regions that has that. I think 
+it is a vital in terms of coordinating intelligence activities 
+with the local law enforcement. What is the effort of the FBI 
+to put these kinds of entities into regions, as many regions as 
+possible?
+    These questions are to you, Ms. Bucella, and to others who 
+may be able to comment on them.
+    Ms. Bucella. I first would like to comment on your question 
+regarding the visas. The visa system is still being 
+administered by the State Department. The State Department was, 
+according to the MOU--part of their function came over to not 
+only the Terrorist Threat Integration Center, but part of it 
+came over to the TSC. The State Department employees are still 
+reviewing those visa applications, but many times when somebody 
+applies for a visa, it is not real-time. It is usually a week 
+or 2 weeks. I am not sure. The expertise on the entire visa 
+program, that would be better addressed to the State 
+Department.
+    Ms. Jackson Lee. I thought you were looking at a list that 
+you comprised when they are talking about a watchlist, and my 
+understanding is that the data collection was a problem in 
+terms of interpreting and getting it up to date. I realize 
+the--if you will, the categorizing of responsibilities. I know 
+that they keep that, but they are supposed to be looking at a 
+watchlist.
+    Ms. Bucella. The names that they are looking at are at our 
+center. But the derogatory information, the underlying data, 
+that resides at the TTIC.
+    Ms. Jackson Lee. Here we have a mixture of confusion.
+    Ms. Bucella. No. Really, the function of the Terrorist 
+Screening Center is only to have the names and identifiers of 
+those known or suspected terrorists in their data base. We are 
+an unclassified database. The responsibility of who keeps the 
+derogatory information on international terrorists resides with 
+TTIC. So we have separate functions.
+    Ms. Jackson Lee. And that is who the----
+    Mr. Gibbons. The gentlelady's time has expired.
+    Ms. Jackson Lee. Could she just quickly answer those last 
+two dealing with the operations and the operational aspect?
+    Ms. Bucella. Again, the Terrorist Screening Center is 
+merely facilitating in the identities match. As to the 
+operations of field intelligence groups, I am not the person to 
+be asking here.
+    Mr. McMahon. Only thing I can say is--and I don't think 
+this would have happened prior to 9/11, the field intelligence 
+group in Albany is putting that unit into the State 
+Intelligence Center, which is like 2 miles away, instead of 
+having two stovepipe systems. So I see a great integration.
+    Ms. Jackson Lee. Thank you, Mr. Chairman.
+    Mr. Gibbons. [presiding.] Mr. Goodlatte of Virginia.
+    Mr. Goodlatte. Mr. Chairman, thank you very much for 
+holding this very important hearing.
+    I want to particularly welcome Jerry Berman, who was in 
+another life wearing the hat of the Chairman of the Internet 
+Caucus Advisory Council which is very interested in issues like 
+this as well because of the technology that is deployed and the 
+effects it has not only on the safety of our citizenry but also 
+their rights to privacy.
+    I wonder, Mr. Berman, if you might outline for me the 
+problems that exist with a multitude of different watchlists in 
+terms of protecting the privacy of citizens. Are we better off 
+with one watchlist or we better off with the alphabet soup of 
+watchlists that we have? Related to that, when we start mixing 
+watchlists so that someone who is on one watchlist for some 
+reason gets on to another database watchlist that is built 
+around another reason, is there a risk that people could be 
+confused for being suspected of something they are not 
+suspected of?
+    Mr. Berman. I think the answer is yes, yes. I think that 
+the--it is a daunting and maybe impossible task to create one 
+single, consolidated watchlist. I think that the different 
+agencies have different bureaucracies, they have their own 
+culture, they don't want to share information, and they have 
+different functions. So mixing all those watchlists into one 
+may be impossible, and it may not be necessary. It may be 
+possible to have a set of watchlists that can be responded to 
+on a computerized basis that have different levels of access 
+both to protect privacy and the security of the information, 
+but which trigger requests down line.
+    Mr. Goodlatte. It can be done in real-time. Look at all 
+those lists separately but look at them almost simultaneously.
+    Mr. Berman. There are the 200 most dangerous people who 
+ought to be identified, and that ought to be triggered and sent 
+back to an FBI agent and hit on that flag. They shouldn't have 
+to call back 24 hours later and go through a bureaucratic 
+system to find that out if it is the most dangerous people. If 
+it is someone who is not really suspected of terrorism, that 
+flag may say call back later and then call the FBI.
+    Maybe that is where the Terrorist Screening Center is 
+going. But, right now, I don't think they have the technology. 
+I don't think they have the money to use the kind of auditing 
+technology that the private sector could bring to this. I think 
+they may want to. And I don't think they have controls on the 
+civil liberties side, even if we had the right computers, on 
+the problem of what is going in the system. The Director says, 
+you know, we are trying to purge and make sure it is the right 
+information. But they have no control over what the FBI wants 
+to put on their watchlists. It is up to them.
+    Mr. Goodlatte. Let me ask any of the other panelists if 
+they want to respond to that question.
+    Ms. Bucella. One of the things that concerns I think 
+everyone is to have one master database with all the underlying 
+information being in one place. If that were ever compromised, 
+that would really hurt America.
+    However, let me tell you one of the things that we have 
+found at our center. We filled a lot of holes because of the 
+perspective of where we are sitting. We have been able to marry 
+up or facilitate the communication between many different 
+Federal agencies having pieces of investigations on the same 
+program.
+    Mr. Goodlatte. We all agree with that and we want to have 
+the access to that, but what I would like to know from you is, 
+what do you think about one of those agencies with access to a 
+watchlist or data base of another agency taking information off 
+that database and putting it on to their own database? Are 
+there protocols or standards for doing that?
+    Ms. Bucella. Right now, nobody can just pull from our 
+database. We want to make sure that all the information we have 
+on the individual is up to date.
+    Mr. Goodlatte. Let me interrupt you there. When we set up 
+the Department of Homeland Security, the Judiciary Committee 
+went through quite an extensive debate about what function the 
+State Department should serve in issuing visas. There are some 
+who wanted to have more of a law enforcement type perspective 
+on the person who is actually issuing these visas in these 
+countries around the world where applicants come in and apply 
+for a visa. Look at them from a different perspective than a 
+State Department employee who might have a political 
+consideration for why certain persons should be allowed to come 
+to the United States for diplomatic reasons.
+    Can you say to me whether you are getting adequate 
+cooperation from the State Department at those consular offices 
+around the world providing you with sufficient information so 
+that as you screen people on these watchlists, you are getting 
+the cooperation? Are you finding the right people to give you 
+data about or could that be done better?
+    Ms. Bucella. Right now, the partnership that we have with 
+the State Department has been absolutely essential not only in 
+educating us as to the visa program but, for example, if based 
+on information that an individual gets a visa and they 
+subsequently find out that there is additional information 
+coming from one of the Government agencies, they are right 
+there with us. We are able to immediately contact DHS, CBP so 
+that if the individual does come into the United States or 
+tries to come into the United States, they can be blocked 
+immediately at CBP.
+    Even if there was a visa issued based on faulty information 
+or incomplete information, if that person gets on a plane and 
+while they are in the air subsequent information is found out 
+by any Government agency, we immediately contact the National 
+Terrorist Screening Center--the National Targeting Center, 
+excuse me--and they will respond immediately at any of our 
+ports of entry, whether the person is trying to come in over 
+the border in Canada or trying to fly to the United States. 
+That has been another hole that we have been able to fill.
+    Mr. Gibbons. In view of the fact we are going to have 
+another vote coming up shortly and we want to get to a second 
+round, I am going to limit the second round of questioning to 
+one very quick question for each of the Members; and I will 
+start off with Mr. Bartoldus. Let me ask you, in the 
+advancement of technology that is going to take place in this 
+data watchlist that we are talking about, where you are going 
+from the automatic targeting system to the new ACE system, the 
+automatic commercial environment that you have, what does the 
+link between ACE and the Terrorist Screening Center look like? 
+Is that part of the consideration that you are talking about? 
+Also, how is the database for agents in the field being 
+considered when you look at this new system? How does it change 
+what you do?
+    Mr. Bartoldus. The automated targeting system is the 
+current system that is used by CBP officers to identify high-
+risk passengers or cargo in advance of arrival. It is fully 
+compatible with our mission directives under the ACE program.
+    I actually have assigned two of my staff at the National 
+Targeting Center as our ACE liaisons, and we developed the new 
+automated commercial environment as a bridge between our 
+current system and the future system. So we are fully 
+integrated and sat down with Donna's deputy in several meetings 
+so, as we develop the new system, we are developing it with an 
+eye toward TSC and immediate sharing of data.
+    Mr. Gibbons. It will improve your coordination and 
+information sharing when you go to this ACE system?
+    Mr. Bartoldus. Yes.
+    Mr. Gibbons. Mr. Scott.
+    Mr. Scott. Mr. Berman, if your name gets on the list by 
+mistake, what is the process for getting your name off?
+    Mr. Berman. I may have to bring litigation right now or 
+maybe I could call the Department but I don't know where I 
+would go. I don't know how my name got on the list right now. I 
+don't know which agency put it on. I am assuming I am stopped 
+or can't fly. I could ask the Terrorist Screening Center if 
+they have got my name on the list, but they would refer me back 
+to the agency which provided the watchlist and they may tell 
+me. But I don't know what the standard was. I may have to file 
+litigation. I mean, I would like to have a response to that. I 
+don't know what the process is.
+    Mr. Gibbons. Mr. Cox.
+    Mr. Cox. Well, I think that is an excellent question and we 
+ought to ask the rest of the panel, beginning with the Director 
+if we might, what the answer might be to that question.
+    Ms. Bucella. It does depend. If you were stopped at an 
+airport and you were on a no-fly list, the TSA has a process in 
+place in an office of the ombudsperson. If you were stopped 
+going through a secondary search--Mr. Bartoldus could speak to 
+that--but you could be, in fact, brought into secondary for a 
+whole host of reasons that have nothing to do with terrorism.
+    Mr. Cox. Let us say I am not being stopped or anything, it 
+just came to my attention while I was at home one day, somebody 
+told me I am on this list and so I want to do something about 
+it because I don't think I should be on it; what do I do?
+    Mr. Bartoldus. Speaking for CBP, you can always write a 
+letter to our headquarters in Washington, D.C. Or your local 
+office. They will fully research it, respond to you saying 
+whether or not we have a record, you know, depending--as long 
+it is not a classified record. Or if there is a record of 
+another agency, we will refer you to that other agency and they 
+almost all have ombudsmen.
+    Mr. Cox. Do I have to know which agency is a priority?
+    Mr. Bartoldus. If it was not our record and you asked us, 
+we would confer with that other agency and refer you to that 
+agency and send a letter back to you and the other agency.
+    One other quick point. If your name matches someone else 
+who is on the list, that is information we collect and we use 
+that in our screening, so that we can identify next time you 
+come across the border that you are not the person we are 
+interested in.
+    Mr. Cox. Let us say I pursued the Berman route and I file a 
+lawsuit because my letters didn't get answered or I got a form 
+letter or something. Not that you would ever do that, but let 
+us go down this path. What right would I have in discovery in 
+this litigation to obtain the records that are the basis for my 
+being included in the list? And let us assume that they are 
+classified. Somebody is going to tell me I think, well, we 
+can't tell you why you are on the list, right?
+    Mr. Bartoldus. CBP operates under the standard FOIA laws. 
+If something is classified beyond the FOIA laws, then it is not 
+discoverable.
+    Mr. Cox. Since we are dealing with terrorism here and it 
+has a big international component and it involves the 
+Intelligence Community, I would assume in a lot of these cases 
+names on the list are there because of classified information, 
+right?
+    Ms. Bucella. That would be fair to say.
+    Mr. Cox. It is reasonable to assume that if I want to get 
+my name off the list and there are well-meaning people in the 
+Government who are trying to help me, they are still going to 
+have to write me back, even if it is not a form letter, saying, 
+well, you are on the list and we can't tell you why.
+    Ms. Bucella. I would have to get an answer for you because 
+I am not quite sure that they could even confirm that you were 
+on the list.
+    Mr. Berman. Mr. Chairman, there are ways of dealing with 
+classified information in litigation, but it is going to be a 
+hard road to litigate, unless I was denied the right to travel 
+or some other benefit. But I think the larger point is that TSC 
+is not in a position to do this. It is going to refer you back 
+to any number of 14 different watchlists, which are the 
+watchlists that are supposed to be consolidated in any event. 
+The issue was to consolidate the watchlist and at least to make 
+them systematic and accessible in certain ways to resolve 
+terrorist issues, but it was also to bring us under some 
+standard and guidance so that we would have some civil 
+liberties protection. That is what DHS was set up to do. And it 
+seems to me that the system is not functioning the way Congress 
+intended it to function.
+    Mr. Cox. I think what this real-life thought exercise has 
+led us to is that, first, it is very important when we put 
+names on the list that we take every reasonable precaution to 
+make sure it is done right to begin with; and second, as Mr. 
+Berman points out, that we not have it be so variegated that it 
+depends on where it came from and who is making the decisions 
+and so on.
+    HSPD 6 is very different from the Homeland Security Act. 
+The Homeland Security Act has shot throughout the notion that 
+there is a one-stop shop, whether it is fusion of intelligence 
+and so on, or this question. It also has, as I pointed out 
+earlier, an officer for civil rights and civil liberties and a 
+privacy officer, and that officer for civil rights and civil 
+liberties is responsible for the whole Department, not just an 
+individual directorate, so that there is constancy throughout. 
+Lastly, we don't----
+    Mr. Gibbons. Mr. Cox, we have been trying to limit the 
+number of questions on this second round. I don't want to cut 
+you off unnecessarily, but in order to be fair to everyone.
+    Mr. Cox. If I may, I will just finish the sentence and say 
+if we have the Department of Homeland Security playing a more 
+significant role here, we will have somebody who can, no matter 
+how your name got on the watchlist, from what source, deal with 
+these kinds of inquiries, to not only provide the standards up 
+front, but also help people who are trying to get themselves 
+off when they think they are improperly put on and provide 
+routine standard answers that won't be different, depending on 
+where you entered the system and which agency it is.
+    I thank the Chairman.
+    Mr. Gibbons. Thank you very much, Mr. Cox, Mr. Turner.
+    Mr. Turner. Thank you, Mr. Chairman.
+    Ms. Bucella, Mr. Bartoldus, have you had a chance to see 
+the presentation of the Markle Foundation that Mr. Berman is an 
+advisory board member on, the presentation regarding the 
+integration of data, the software that would allow different 
+levels of classification to be accessible to different people 
+who may be qualified and eligible to receive the different 
+levels of classification?
+    Ms. Bucella. No, sir, I have not.
+    Mr. Turner. I would urge you to do it. And I am very 
+disturbed by what I am hearing today. I get the sense that 
+there is nobody designing a system that is capable of 
+integrating the various databases, the various information kept 
+by various agencies, integrating them in a way where they are 
+accessible in real-time. I get the feeling you are telling us 
+that by the end of the year, you will have a single database 
+constructed by collecting the data from the other 12 databases 
+that exist. But I don't sense that that is going to be 
+accomplished in a way that has a vision for an overall 
+integration of databases in developing a system that provides 
+accessibility in real-time to various levels of information 
+that should be made available.
+    Who is designing, who is in charge of developing the 
+information technology architecture for the Terrorist Screening 
+Center?
+    Ms. Bucella. Right now in the next week, we are--we have 
+been developing some requirements and reaching out to all of 
+our Federal partners to make sure that we can have some type of 
+connectivity, because by the end of the year what we want to do 
+is allow our system to be queried electronically by other 
+systems.
+    Mr. Turner. Are you going to do that internally with 
+Federal employees? Are you reaching out with a request for 
+proposals to the private sector to accomplish that task? How do 
+you intend to do it?
+    Ms. Bucella. We have been meeting with contractors.
+    Mr. Turner. Do you have any timetable when you might have a 
+request for proposal for that kind of system?
+    Ms. Bucella. No, sir.
+    Mr. Turner. I would urge you to move forward with that and 
+also urge you take a look at what the Markle Foundation has 
+produced in the process of developing that. Again, I am 
+disturbed, because as you know--and I don't place it all at 
+your feet. I mean, obviously you have been in this job since 
+December. The FBI has just been asked about that time to take 
+over the task. But we are 2\1/2\ years after 9/11, and none of 
+these programs that we are spending billions on, U.S. VISIT, 
+Caps II, none of them are going to work unless there is a 
+unified integrated database comprising all the agencies that 
+contain this data. We will never be able to stop issuing visas 
+to the wrong people unless we have it done right.
+    And I would urge the Department of Homeland Security and 
+the FBI to try to have a larger vision on what the architecture 
+should look like to get this job done in the right way and 
+effective way so that it is comprehensive, it is available to 
+the people that need to see it at the various levels, and it is 
+available in real-time.
+    Thank you, Mr. Chairman.
+    Mr. Gibbons. Thank you very much, Mr. Turner. Mr. 
+Goodlatte.
+    Mr. Goodlatte. Thank you, Mr. Chairman. I am pleased to 
+yield my one basic question to the Chairman of the Committee.
+    Mr. Cox. I actually don't want to belabor the point, just 
+say at the time we announced the creation of the TSC, I 
+applauded the effort of the consolidation for the reasons that 
+the Ranking Member, Mr. Turner, just pointed out. But I said at 
+the same time, that the screening center should be part of the 
+Homeland Security Department because it is the most appropriate 
+location for the new center, for some of the reasons that I 
+think we have been talking about here.
+    The Secretary of Homeland Security has statutory 
+obligations to provide authoritative threat assessments that 
+have major implications for the security of Americans against 
+terrorism. And to do this, he or she in the future has to have 
+the tools and the resources that centers such as the TSC are 
+going to provide. In addition, I think it is becoming clear 
+that to obtain all of the benefits that we want from 
+consolidation, we need a consolidator.
+    So I guess my final question to the Director would be, Ms. 
+Bucella--and I know this is something of a friendly question 
+inasmuch as you are technically an employee of the Department 
+of Homeland Security, is there anything--let me ask it the 
+easiest way. Is there any harm that would come from making the 
+Terrorist Screening Center part of the Department of Homeland 
+Security?
+    Ms. Bucella. I can only answer as to some of the challenges 
+that we have found in setting up the Terrorist Screening 
+Center. Because the Department of Homeland Security was not in 
+the past involved in the intelligence world, we have had a 
+very----
+    Mr. Cox. It didn't exist in any world.
+    Ms. Bucella. It is a brand new agency with 22 different 
+organizations that have been brought together, different 
+cultures, just trying to get the intercommunication done, but 
+more specifically at our center, just trying to get the people 
+with the right clearances so that they can come through the 
+door and answer the 20,000 phone calls--2,000 phone calls that 
+we have received since we have been up.
+    It has been a challenge to make sure that we can get the 
+proper background clearances. The FBI agents have had a very 
+large group of individuals that already have those clearances 
+because they have been involved in intelligence and the 
+terrorism aspect of it. But as to the future, I am not the 
+expert here.
+    Mr. Cox. So we have got the exigencies of getting such a 
+thing set up, but there is nothing in nature that would be 
+offended if all of this were ultimately reported to the 
+Secretary of Homeland Security.
+    Ms. Bucella. The Terrorist Screening Center has an 
+incredible mission that we may need to move forward on. I am 
+not looking as to the future of where it is going to be. I just 
+want it to work right. And the men and women that work with me 
+are from all different agencies, and it is something that I 
+would invite you to come see us, because it is incredible to 
+see the partnership that is occurring there on a daily basis. 
+We may have Coast Guard there with their uniforms on, but they 
+are working side by side with the FBI and the State Department 
+and it really is a cooperative effort.
+    Mr. Cox. I want to applaud you for that, and we are very, 
+very pleased with the effort that is being made and the 
+progress that is being made.
+    Mr. Berman, I can tell you want to be heard on this.
+    Mr. Berman. The argument for DHS is Representative Turner's 
+point, which is DHS could drive the vision that would break out 
+of the traditional intelligence baronies that existed prior to 
+9/11. I thought that was part of the vision. And the Markle 
+Foundation, of which I am a member, recommended that DHS take 
+the lead in driving that kind of vision, including using some 
+of the information technology that I discussed with 
+Representative Goodlatte.
+    That is not going to happen through the traditional 
+baronies. And what I am afraid has happened through the 
+creation of TTIC, TSC, and all the rest, is a new alphabet soup 
+which returns authority essentially to the traditional agencies 
+so that they maintain maybe a changed world, but a lot of the 
+status quo and power that they had originally, and that DHS is 
+not in that visionary role or driving leadership in 
+reorganizing their intelligence functions.
+    Mr. Cox. Well, that is my abiding concern as well, and I 
+think you aptly stated it.
+    Thank you, Mr. Chairman. I yield back.
+    Mr. Gibbons. Thank you very much.
+    Mr. Scott, in an order of fairness, I will grant you time 
+for an additional question or two.
+    Mr. Scott. I am a little concerned about what happens if 
+your name gets on the list by mistake, where you factually are 
+the wrong person. Certainly you would have no right to take 
+your name off if the person with your same name is properly on 
+the list.
+    I guess my question is, if you have the same name as 
+someone on the list, how do you ever make an airplane flight 
+without having missed the first one--I mean, how long does it 
+take after you have gotten a hit, show up at the airport in 
+plenty of time, you got a hit, by the time you have gotten 
+cleared you have missed your flight; is that right?
+    Ms. Bucella. Not necessarily, and especially not since the 
+TSC has been in existence. We have had occasion where not only 
+on a plane but at the border, we have encountered a person 
+actually with the same name and date of birth, but different 
+identifiers. We have now gone back to the different case files 
+systems, the case management systems, for example, the CBP, and 
+there is a notation in the file, ``Please ask the hair color 
+immediately,'' or ``Ask the weight immediately.''
+    That is going to be a long process, but that has actually 
+been in it and we have been able to make sure that people have 
+not been unduly inconvenienced and they can go through the 
+system a lot faster than they were able to previously. And Mr. 
+Bartoldus can speak a little more about that.
+    Mr. Bartoldus. When I talked to my staff before I came 
+here, I said, Is there ever a time you would not call TSC? They 
+go, ``Yeah, the frequent crossers who we have all identified 
+with TSC are the people who are not looking for it, but their 
+passport was stolen once or identity was stolen once, and the 
+stolen identity is what we are looking for.''
+    We have been able to work with the TSC and our own staff to 
+put systems in place to make sure those people are facilitated 
+when we encounter them again.
+    Ms. Bucella. Congressman Scott, what we are doing every day 
+is refining the system.
+    Mr. Scott. How long does it take from the time you buy your 
+ticket to the time you get a hit to the time you have been 
+cleared? How long does that take? When you buy a ticket, give 
+them your name, your name automatically goes through the 
+system, right?
+    Mr. Bartoldus. No. For CBP purposes, it goes through the 
+system when you are on the airplane or approaching the 
+airplane. What we do in those circumstances is, you have been 
+identified as a frequent traveler who has a name match or you 
+have been encountered before and you are not the person we are 
+looking for, we immediately identify that you usually make the 
+same flight or the same exit. The record is hard-coded and 
+improved that day by that event and captured by that event.
+    The other benefit of TSC is the information that is 
+collected by the law enforcement officer, the border crossing 
+agent, or whatever is incorporated into the field and the 
+record to constantly update it.
+    Mr. Scott. Obviously, that is the second time. The first 
+time was different.
+    Mr. Berman, did you want to make a comment?
+    Mr. Berman. There are several people who have contacted the 
+ACLU, contacted our organization, there have been stories in 
+the Wall Street Journal. And I know one person, I won't mention 
+his name, who just doesn't fly anymore because they cannot get 
+out of the system because they have the same name, and it 
+requires they get detained, and then there is a reconciliation 
+back through the system to see whether that person is the 
+person; and they don't have enough query fields on the computer 
+itself to be able to match a number of information fields. And 
+they can correct me if I am wrong, it requires calling the 
+agency and walking back the information, how tall are you, 
+because for security reasons they won't provide that 
+information up front.
+    So it is a query system. So it is not unduly 
+inconvenienced, but that can be inconvenient, not being able to 
+fly. I mean, I am prepared to hear that that is not the case.
+    Mr. Gibbons. Thank you very much, Mr. Scott.
+    We have reached the end of the day for all of you and all 
+of us on this Committee, and we want to thank each of you for 
+your time here today. The buzzer is very timely. We ignore it 
+as everyone else does. But I want to thank each of you again 
+for taking part in this Committee hearing. Your testimony has 
+been very valuable in helping us better understand this issue.
+    We may have some written questions from the Committee to 
+you, and the record will remain open for 1 week. We would 
+expect and request that you respond to those questions in a 
+timely fashion.
+    This concludes the oversight hearing on the progress in 
+consolidating terrorist watchlists, the Terrorist Screening 
+Center. The record, as I indicated earlier, will remain open 
+for 1 week. Again, thank you for your cooperation and this 
+Subcommittee stands adjourned.
+    [Whereupon, at 5 p.m., the joint hearing was adjourned.]
+
+
+                            A P P E N D I X
+
+                              ----------                              
+
+
+               Material Submitted for the Hearing Record
+
+       Prepared Statement of the Honorable Sheila Jackson Lee, a 
+Representative in Congress From the State of Texas, and Ranking Member, 
+        Subcommittee on Immigration, Border Security, and Claims
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ Prepared Statement of the Honorable Christopher Cox, a Representative 
+    in Congress From the State of California, and Chairman, Select 
+                     Committee on Homeland Security
+
+    Thank you, Chairman Gibbons and Chairman Coble, for holding this 
+important hearing--the second hearing the Homeland Security Committee 
+has held jointly with the Judiciary Committee. I join you in welcoming 
+our witnesses.
+    On December 1, 2003, at the President's direction, the Terrorist 
+Screening Center stood-up with the task of providing unified, accurate 
+terrorist screening information to screeners around the country, 24 
+hours a day, seven days a week, through a single node. The TSC will 
+serve State and local officials, as well as private sector entities 
+that manage critical infrastructure. It will even serve foreign 
+governments that have entered into immigration agreements with the 
+United States, if they are partners in the global war on terrorism. But 
+the Terrorist Screening Center's support is particularly important to 
+our nation's first responders, our border protection officials, and the 
+consular officers who adjudicate hundreds of visa applications every 
+day.
+    Our overriding objective is, after all, to prevent terrorist 
+attacks. There, the Terrorist Screening Center--TSC--represents a 
+quantum leap--in this nation's ability to keep terrorists out and to 
+pursue potential terrorists who have managed to get in--for example, by 
+giving law enforcement officers a reliable way to determine whether a 
+person stopped for a routine traffic violation is, based on all the 
+information available to the U.S. Government, involved in some way in 
+terrorist activity. It also represents another important milestone in 
+tearing down barriers to information sharing between the Intelligence 
+Community and law enforcement officials.
+    Integrating the data contained on the Government's legacy watch 
+lists is a positive step--it was needed. Historically, nine Federal 
+agencies maintained 12 disparate watch lists, the contents of which 
+were not accessible across agency lines and were not comprehensively 
+analyzed. That means we had no efficient way of accessing the 
+information we had--and as a practical matter, what you can't access, 
+you really don't know. That's one of the hard lessons of the 9/11 
+attacks.
+    But integrating the information on all those lists is a complex 
+task, even in the era of interoperable computer systems and instantly 
+searchable databases--and it must be done right. And to be the right 
+solution, TSC must not come at the price of the civil rights or First 
+Amendment freedoms of American citizens. Because we are fighting to 
+preserve our way of life--that's a fundamental part of protecting our 
+nation. And I believe it has been worth the time it has taken to get 
+TSC done right.
+    The information collected and maintained on the Government's 
+various watch lists was collected under different authorities for 
+widely divergent purposes and maintained in different formats. There 
+was no agreed upon set of discriminators to determine whether an 
+individual should be watch-listed. And the 12 legacy lists, taken 
+together, had hundreds of thousands of names. They could not just be 
+dumped into some massive, Government database of potential bad-guys. 
+Each name had to be analyzed to make sure it belonged on TSC's 
+integrated list.
+    So at this hearing, we hope to get an update on the TSC's progress 
+and relationship to the Department of Homeland Security. And, equally 
+important, we hope to be reassured that TSC, and the databases that 
+feed it, will not impinge upon the civil rights and civil liberties to 
+which we, as Americans, are entitled.
+    There are also serious questions we must ask: Is the Terrorist 
+Screening Center the solution for the present--or forever? Is it 
+structured in the most effective way? Does it work--is it fast, 
+reliable? Is it being used by those who need it most? Can a user get 
+additional information on a TSC name ``hit'' quickly and reliably? Is 
+TSC's management and supervision appropriate? How can it be improved? 
+Are civil liberties and privacy interests scrupulously safeguarded? 
+Could a name get on TSC's list erroneously? If so, how would that be 
+discovered and how corrected, quickly and certainly?
+    I look forward to hearing from each of the witnesses on these 
+important issues. Thank you, Mr. Chairman, and I yield back the balance 
+of my time.
+       Questions and Responses for the Record from Donna Bucella
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+        Questions and Responses for the Record from Jim McMahon
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+     Questions and Responses for the Record from Charles Bartoldus
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                                 <all>
+
+</pre></body></html>

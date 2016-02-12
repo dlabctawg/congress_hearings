@@ -1,0 +1,2913 @@
+<html>
+<title> - HEARING ON S. 2697--THE COMMODITY FUTURES MODERNIZATION ACT OF 2000</title>
+<body><pre>
+[Senate Hearing 106-922]
+[From the U.S. Government Printing Office]
+
+
+
+
+                                                        S. Hrg. 106-922
+
+        S. 2697--THE COMMODITY FUTURES MODERNIZATION ACT OF 2000
+
+=======================================================================
+
+                             JOINT HEARING
+
+
+                               before the
+
+                       COMMITTEE ON AGRICULTURE,
+                        NUTRITION, AND FORESTRY
+                          UNITED STATES SENATE
+
+                                and the
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             SECOND SESSION
+
+                                   ON
+
+        S. 2697--THE COMMODITY FUTURES MODERNIZATION ACT OF 2000
+
+                               __________
+
+                             JUNE 21, 2000
+
+                               __________
+
+                       Printed for the use of the
+           Committee on Agriculture, Nutrition, and Forestry
+
+
+                   U.S. GOVERNMENT PRINTING OFFICE
+69-533                     WASHINGTON : 2001
+
+
+_______________________________________________________________________
+            For sale by the U.S. Government Printing Office
+Superintendent of Documents, Congressional Sales Office, Washington, DC 
+                                 20402
+
+
+           COMMITTEE ON AGRICULTURE, NUTRITION, AND FORESTRY
+
+
+
+                  RICHARD G. LUGAR, Indiana, Chairman
+
+JESSE HELMS, North Carolina          TOM HARKIN, Iowa
+THAD COCHRAN, Mississippi            PATRICK J. LEAHY, Vermont
+MITCH McCONNELL, Kentucky            KENT CONRAD, North Dakota
+PAUL COVERDELL, Georgia              THOMAS A. DASCHLE, South Dakota
+PAT ROBERTS, Kansas                  MAX BAUCUS, Montana
+PETER G. FITZGERALD, Illinois        J. ROBERT KERREY, Nebraska
+CHARLES E. GRASSLEY, Iowa            TIM JOHNSON, South Dakota
+LARRY E. CRAIG, Idaho                BLANCHE L. LINCOLN, Arkansas
+RICK SANTORUM, Pennsylvania
+
+                       Keith Luse, Staff Director
+
+                    David L. Johnson, Chief Counsel
+
+                      Robert E. Sturm, Chief Clerk
+
+            Mark Halverson, Staff Director for the Minority
+
+                               __________
+
+?
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+
+
+                      PHIL GRAMM, Texas, Chairman
+
+RICHARD C. SHELBY, Alabama           PAUL S. SARBANES, Maryland
+CONNIE MACK, Florida                 CHRISTOPHER J. DODD, Connecticut
+ROBERT F. BENNETT, Utah              JOHN F. KERRY, Massachusetts
+ROD GRAMS, Minnesota                 RICHARD H. BRYAN, Nevada
+WAYNE ALLARD, Colorado               TIM JOHNSON, South Dakota
+MICHAEL B. ENZI, Wyoming             JACK REED, Rhode Island
+CHUCK HAGEL, Nebraska                CHARLES E. SCHUMER, New York
+RICK SANTORUM, Pennsylvania          EVAN BAYH, Indiana
+JIM BUNNING, Kentucky                JOHN EDWARDS, North Carolina
+MIKE CRAPO, Idaho
+
+                   Wayne A. Abernathy, Staff Director
+
+     Steven B. Harris, Democratic Staff Director and Chief Counsel
+
+                                  (ii)
+
+  
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+
+Hearing:
+
+Wednesday, June 21, 2000, S. 2697--The Commodity Futures 
+  Modernization Act of 2000......................................     1
+
+Appendix:
+Wednesday, June 21, 2000.........................................    47
+Document(s) submitted for the record:
+Wednesday, June 21, 2000.........................................    93
+
+                              ----------                              
+
+                        Wednesday, June 21, 2000
+                    STATEMENTS PRESENTED BY SENATORS
+
+Lugar, Hon. Richard G., a U.S. Senator from Indiana, Chairman, 
+  Committee on Agriculture, Nutrition, and Forestry..............     1
+Gramm, Hon. Phil, a U.S. Senator from Texas, Chairman, Committee 
+  on Banking, Housing, and Urban Affairs.........................     3
+Bennett, Hon. Robert F., a U.S. Senator from Utah................    25
+Fitzgerald, Hon. Peter G., a U.S. Senator from Illinois..........    21
+Grams, Hon. Rod, a U.S. Senator from Minnesota...................    30
+Harkin, Hon. Tom, a U.S. Senator from Iowa, Ranking Member, 
+  Committee on Agriculture, Nutrition, and Forestry..............     5
+Sarbanes, Hon. Paul S., a U.S. Senator from Maryland, Ranking 
+  Member, Committee on Banking, Housing, and Urban Affairs.......    11
+Kerrey, Hon. J. Robert, a U.S. Senator from Nebraska.............    23
+Schumer, Hon. Charles E., a U.S. Senator from New York...........    27
+                              ----------                              
+
+                               WITNESSES
+                                PANEL I
+
+Greenspan, Hon. Alan, Chairman of the Board of Governors of the 
+  Federal Reserve System, Washington, DC.........................     9
+Summers, Hon. Lawrence, Secretary of the U.S. Department of the 
+  Treasury, Washington, DC.......................................     6
+
+                                PANEL II
+
+Levitt, Hon. Arthur, Chairman of the Securities and Exchange 
+  Commission, Washington, DC.....................................    32
+Rainer, Hon. William, Chairman of the Commodity Futures Trading 
+  Commission, Washington, DC.....................................    34
+                              ----------                              
+
+                                APPENDIX
+
+Prepared Statements:
+    Lugar, Hon. Richard G........................................    48
+    Fitzgerald, Hon. Peter G.....................................    50
+    Santorum, Hon. Rick..........................................    56
+    Edwards, Hon. John...........................................    57
+    Craig, Hon. Larry E..........................................    59
+    Greenspan, Alan..............................................    66
+    Levitt, Arthur...............................................    73
+    Rainer, William..............................................    85
+    Summers, Lawrence............................................    60
+Document(s) submitted for the record:
+    Position statement of the Bond Market Association, submitted 
+      by Frank R. Hampton, Vice President Legislative Affairs....    94
+
+ 
+  HEARING ON S. 2697--THE COMMODITY FUTURES MODERNIZATION ACT OF 2000
+
+                              ----------                              
+
+
+                        WEDNESDAY, JUNE 21, 2000
+
+                                       U.S. Senate,
+Committee on Agriculture, Nutrition, and Forestry, and the 
+           Committee on Banking, Housing and Urban Affairs,
+                                                    Washington, DC.
+    The Committees met jointly, pursuant to notice, at 10:07 
+a.m., in room 106, Dirksen Senate Office Building, Hon. Richard 
+G. Lugar, (Chairman of the Committee on Agriculture, Nutrition 
+and Forestry,) presiding.
+    Present or submitting a statement: Senators Lugar, Gramm, 
+Bennett, Fitzgerald, Santorum, Grams, Harkin, Sarbanes, Dodd, 
+Kerrey, Conrad, Johnson, and Schumer.
+
+OPENING STATEMENT OF HON. RICHARD G. LUGAR, A U.S. SENATOR FROM 
+  INDIANA, CHAIRMAN, COMMITTEE ON AGRICULTURE, NUTRITION, AND 
+                            FORESTRY
+
+    The Chairman. This hearing of the Senate Agriculture 
+Committee and the Senate Banking Committee, held jointly, is 
+open for business. Today I would simply point out the 
+Agriculture Committee and the Banking Committees will hear 
+testimony from members of the President's Working Group in 
+regard to Senate Bill 2697, legislation to provide legal 
+certainty to the over-the-counter derivatives market and to 
+reauthorize and to reform the Commodity Exchange Act. The 
+Commodity Exchange Act expires on September 30 of this year and 
+the Senate Agriculture Committee is charged with reauthorizing 
+this statute.
+    However, we cannot accomplish this endeavor without the 
+strong assistance and cooperation of members of the Senate 
+Banking Committee. I am very pleased to have the distinguished 
+Chairman of the Senate Banking Committee, Senator Phil Gramm of 
+Texas, joining me as a cosponsor of this important legislation. 
+We look forward to working with the Banking Committee as the 
+legislation proceeds.
+    Our legislation has been several years in the making. The 
+Senate Agriculture Committee held a two-day roundtable of 19 
+industry experts in February 1999 to discuss the policies 
+surrounding CFTC reauthorization. Asked to prioritize the 
+issues of importance, most panelists thought legal certainty to 
+be the most pressing issue. Others suggested repeal of the 
+Shad-Johnson Accord and that testimony included Phil Johnson, 
+former CFTC chairman and one-half of the accord's namesake, and 
+several mentioned regulatory relief for the futures exchanges 
+as an important priority.
+    Today's hearing representing our committee's fifth public 
+forum on CFTC reauthorization in the last 18-months will hear 
+testimony regarding how all of these issues are addressed in 
+our legislation.
+    Signed into law in 1974, the modern Commodity Exchange Act 
+requires that futures contracts be traded on a regulated 
+exchange. As a result, a futures contract that is traded off an 
+exchange is illegal and unenforceable in a court of law. When 
+Congress enacted this act, the meaning of the terms ``future'' 
+and ``exchange'' were relatively apparent and the over-the-
+counter derivatives business was in its in infancy.
+    In the 26-years since the statute's creation, however, the 
+definitions of a swap and a future began to blur. In 1998 the 
+CFTC released its concept release on over-the-counter 
+derivatives, which was perceived by many as a precursor to 
+regulating those instruments as futures. Just the possibility 
+of reaching this conclusion threatened to move significant 
+portions of the business overseas. This led the Treasury 
+Department, the Federal Reserve and the SEC to ask Congress to 
+enact a moratorium on the CFTC's ability to regulate these 
+instruments until after the President's Working Group could 
+complete a study of the issue.
+    As a result, Congress passed a 6-month moratorium and in 
+November 1999 the President's Working Group completed its 
+unanimous recommendations on derivatives and presented Congress 
+with those findings. This legislation adopts many of the 
+unanimous recommendations of the Working Group's report, 
+including an exclusion for over-the-counter derivatives 
+transacted on an electronic exchange and a clarification of the 
+so-called Treasury Amendment.
+    Another important recommendation of the Working Group was 
+to authorize futures clearing facilities to clear over-the-
+counter derivatives in an effort to lessen systemic risk. This 
+bill incorporates that finding.
+    The second major section of this legislation addresses 
+regulatory relief for the futures market. In February, the 
+CFTC, under the leadership of Chairman Bill Rainer, issued a 
+thoughtful proposal that would provide relief to futures 
+exchanges and their customers. Instead of listing specific 
+requirements for complying with the act, the proposal would 
+require exchanges to meet internationally agreed upon core 
+principles. The CFTC proposal tailors regulation for exchanges 
+based on whether the underlying commodity can be manipulated or 
+whether the users of the exchange are institutional. Our 
+legislation incorporates this framework.
+    The bill's last major section addresses the Shad-Johnson 
+Jurisdictional Accord, which banned single-stock futures in 
+1982. The Working Group unanimously agreed that the accord can 
+be repealed if regulatory disparities are resolved between 
+futures and securities. In December Senator Gramm and I sent a 
+letter requesting that the CFTC and the SEC make 
+recommendations on reforming the Shad-Johnson Accord. The SEC 
+and the CFTC responded that although progress had been made, 
+the agencies could not resolve these issues before October of 
+this year.
+    Disappointment with this answer led Senator Gramm and me to 
+once again ask the agencies to attempt to resolve the problems 
+surrounding lifting the ban. Unfortunately, an agreement within 
+our legislative timeframe was not reached and we have decided 
+to move forward with our legislation.
+    This legislation would repeal the prohibition on single-
+stock users and allow these products to trade on either a CFTC-
+regulated futures exchange or an SEC-regulated securities 
+exchange. Our bill also would provide for joint jurisdiction 
+with each agency maintaining its core authorities over the 
+trading of single-stock users. The legislation would further 
+require that margin levels on these products be harmonized with 
+the options market.
+    The goal of the legislation is to ensure that the United 
+States remains a global leader in the derivatives marketplace. 
+Already the United States has lost much of its leadership role 
+in the exchange-traded futures markets in Europe and the over-
+the-counter market may not be far behind. Congress has a good 
+opportunity at this point to reverse this tide by enacting 
+sound legislation this year.
+    For my own part, I am hopeful that the Agriculture 
+Committee can mark up this legislation prior to the July 4 
+recess, namely, next week.
+    The importance of this legislation is reflected by the 
+witnesses assembled before us today and we are grateful for 
+each one of them. Our first panel consists of the head of to 
+President's Working Group, the Honorable Lawrence Summers, 
+Secretary of the United States Department of the Treasury, and 
+the Honorable Alan Greenspan, Chairman of the Federal Reserve 
+System. Our second panel will consist of the Honorable Arthur 
+Levitt, Chairman of the SEC, and the Honorable Bill Rainer, 
+Chairman of the CFTC. We look forward to their insights 
+regarding their agencies' discussions on the Shad-Johnson 
+accord, as well as on all of the other issues.
+    [The prepared statement of Senator Lugar can be found in 
+the appendix on page 48.]
+    It is now a privilege to turn to my distinguished 
+colleague, Senator Gramm, for his opening remarks.
+
+   OPENING STATEMENT OF HON. PHIL GRAMM, A U.S. SENATOR FROM 
+   TEXAS, CHAIRMAN, COMMITTEE ON BANKING, HOUSING, AND URBAN 
+                            AFFAIRS
+
+    Senator Gramm. Mr. Chairman, let me first thank you for 
+your leadership on this issue. Let me say for the record that 
+it has been a great privilege to work with you and the 
+excellent staff of the Agriculturee on this bill.
+    This is an effort that has been undertaken by the 
+Agriculture and Bamking Commmittees to do something that is 
+both important and, obviously, very difficult.
+    Whenever we work in areas that are cross-jurisdictional in 
+Congress, those differences sometimes become barriers to 
+legislative action, and I want to congratulate you for your 
+leadership in seeing that, that has not happened in this 
+important area.
+    As I see this bill, we are trying to do three simple things 
+that may not create great excitement among American consumers, 
+but they are very important and affect the well-being, 
+prosperity and financial security of everybody who works, 
+saves, invests and benefits from living and working in the 
+greatest economy in the history of the world.
+    We want legal certainty for swaps. Most people do not know 
+what swaps are. I am almost incapable of fathoming the volume 
+of swaps in dollar value. When I heard the number as we first 
+started discussing this issue, I was convinced that an error 
+had been made and that someone had mistakenly said trillions 
+instead of billions; I was wrong. This is a huge, critically 
+important markets, and we cannot allow uncertainty about the 
+enforceability of these contracts to stand.
+    We are all aware that uncertainty occurs because of the 
+off-exchange trading prohibition in the Commodities Exchange 
+Act. If the Commodities Futures Trading Commission deemed these 
+swaps to be futures, that would create this legal uncertainty.
+    I believe that a similar uncertainty could be created if 
+the SEC deemed them securities and then argued that they were 
+being traded without fulfilling the reporting requirements of 
+the Securities and Exchang4e Commission statute.
+    Also, it is important for us to note that while two of the 
+most enlightened people who have ever served now head the CFTC 
+and SEC, we have no guarantee that, that leadership is going to 
+remain in the future and regulation doth abhor a vacuum. So, I 
+think it is very important that we have legal certainty as it 
+relates to both CFTC and the SEC
+    Let me also say that we had hoped, Mr. Chairman, and I know 
+you had hoped, that we could get the CFTC and the SEC to work 
+out an agreement as to how they were going to regulate the new 
+instruments that would be created futures on individual stocks. 
+The SEC and CFTC made a legitimate effort, but they were unable 
+to reach a conclusion as to how to share this regulatory 
+authority.
+    Ultimately, I have not given up hope that this can be 
+worked out. It is important that it be worked out so that these 
+two important regulatory entities can do what they do best. We 
+need the SEC in all areas to exercise its authority on anti-
+fraud and insider trading. We need the CFTC doing the things it 
+can do. I think an agreement as to how they can share 
+regulatory responsibility on individual futures could also 
+affect areas where there are still legitimate regulatory 
+concerns concerning swaps.
+    Second, this bill does provide a new financial instrument 
+that in my opinion is long overdue. There are problems in 
+providing it in that we have to harmonize margins, we have tax 
+differences between options and futures, but none of these 
+problems is insurmountable. We try to deal with them in this 
+bill, and I am sure we will refine the bill as we go along.
+    And finally, this bill does begin regulatory relief. I am 
+hopeful that by the end of the bill, we can go further. I do 
+not believe that we have done what we should do in providing 
+regulatory relief. The world is very different today than it 
+was in 1934, when we were willing to trade tremendous 
+regulatory burden for transparency. It was the right decision 
+to make at the time, but with modern technology, with the 
+evolution of markets, we have transparency at levels that never 
+existed before.
+    We have competition from all over the world that would very 
+much like to see this goose that lays the golden egg, these 
+financial markets, roosting in their coop. They are trying to 
+do things to attract it. They are unifying markets. They are 
+reducing regulatory burden. I believe that we need to do it. No 
+one can convince me that the regulations necessary to protect 
+my parents are the same regulations that are necessary to 
+protect my children in today's financial markets.
+    We would do well, Mr. Chairman, to remember the Lincoln's 
+adage that to ask a society to live under old and out-moded 
+laws, and I think you could say the same about regulation, is 
+like asking a man to wear the same clothes he wore when he was 
+a boy.
+    We need a comprehensive review of the regulatory burden in 
+financial markets. We need to challenge every regulation and 
+every law as to benefits versus costs, and when the costs 
+exceed the benefits, we either need to change, overturn or 
+repeal that regulation as law.
+    Mr. Chairman, you have made an important start here. I want 
+to congratulate you for it. We face a difficult challenge in an 
+election year and the waning days of this Congress, but this is 
+an important issue and, Mr. Chairman, I want to commit to you 
+that I intend to work hard to try to help you be successful.
+    The Chairman. Well, thank you very much, Chairman Gramm. I 
+appreciate those comments and your testimony.
+    Let me try to lay out a format that I hope will be 
+agreeable. I am going to call now upon the distinguished 
+Ranking Member of the Agriculture Committee for an opening 
+statement and upon his appearance, Senator Sarbanes as the 
+Ranking Democratic member on the Banking Committee.
+    I will ask other members, if I may, to forego opening 
+statements so that we may hear the witnesses. We will have a 
+round of questioning with no more than 5-minutes per Senator 
+because we do have two distinguished panels and we have two 
+committees.
+    So unless there are strong objections to that format, we 
+will try to proceed on that basis and I will call now upon 
+Senator Harkin for his testimony, his opening statement.
+
+  STATEMENT OF THE HON. TOM HARKIN, A U.S. SENATOR FROM IOWA, 
+   RANKING MEMBER, COMMITTEE ON AGRICULTURE, NUTRITION, AND 
+                            FORESTRY
+
+    Senator Harkin. Thank you very much, Chairman Lugar and 
+Chairman Gramm. And we welcome Senator Sarbanes and other 
+members of the Committee on Banking, Housing and Urban Affairs.
+    I appreciate this opportunity to hear the views of the 
+Members of the President's Working Group on Financial Markets 
+concerning the legislation introduced by Senators Lugar, Gramm 
+and Fitzgerald. I especially want to commend you and thank you, 
+Chairman Lugar, for your conscientious work in crafting this 
+important legislation.
+    I have said before that when it comes to derivatives and 
+everything else that we are dealing with here in terms of 
+complexity, the subject matter of this legislation surely 
+rivals anything that ever comes before our committee, with the 
+possible exception of dairy policy. That may be more 
+convoluted.
+    The issues are indeed complicated. Their resolution has 
+tremendous ramifications in the markets. The bill that has been 
+introduced clearly reflects the hard work that Chairman Lugar 
+and his staff has put into it. And, for the most part, it 
+carefully follows the recommendations of the President's 
+Working Group, provides legal certainty for over-the-counter 
+derivatives, ensures regulatory relief for futures exchanges 
+and brings clarity to the Treasury Amendment, finally, in the 
+treatment of certain hybrid instruments, generally modernizes 
+the Commodity Exchange Act to take into account the rapid pace 
+of change in the financial markets and in technology. It seeks 
+to maintain and strengthen the protection of investors in the 
+public interest.
+    To be sure, there are a number of issues that require 
+further attention. I look forward to working with the Chairman, 
+the Regulatory agencies and other parties to resolve the 
+remaining issues.
+    As we continue to work on this legislation, we, in essence, 
+have a balancing act to perform. To be sure, there is a real 
+need for legal certainty, for modernizing and reforming 
+regulations. I just Chairman Gramm saying about the old 
+Jeffersonian quote about--in fact, it is engraved in the 
+Jefferson Monument down here, about expecting the adult to wear 
+the clothes of childhood would be the same as expecting the 
+Nation to live by the laws of its ancestors.
+    But, at the same time, we must ensure that investors are 
+protected and that we do not create disparities in regulation 
+and in competitive positions of the various types of financial 
+markets.
+    Without a doubt, we now have a truly global financial 
+market. The regulatory climate should not hinder; should 
+enhance the competitive position of U.S. markets and firms. 
+However, when it comes to international competitiveness, there 
+is also a tremendous value to the integrity, safety and 
+soundness of markets, an area where the U.S. has excelled. The 
+cost of transactions is important but over time, money will 
+flow to markets where integrity, safety and soundness are 
+adequately protected. To me, that is the bottom line. Thank you 
+very much, Mr. Chairman.
+    The Chairman. Well, thank you very much, Senator Harkin. I 
+commend you again for your thoughtfulness in working with us. 
+Members of the Democratic staff, in a bipartisan way, have been 
+working on this legislation and we appreciate that.
+    At this point it is my privilege to recognize in the order 
+that I have introduced the witnesses, the distinguished 
+Secretary of the Treasury. He has been a good friend of our 
+committee, coming before us not in each of these five 
+iterations of the CFTC but in many of them, and in his role 
+with the Working Group has already made a contribution, I 
+believe, to American financial security.
+    Secretary Summers.
+    Senator Dodd. Mr. Chairman, before you do that, I presume 
+that opening statements in which we lavish praise on you and 
+Senator Gramm are appropriate?
+    The Chairman. Oh, they would be welcome, published in full. 
+Thank you.
+    Mr. Summers.
+
+ STATEMENT OF THE HON. LAWRENCE SUMMERS, SECRETARY OF THE U.S. 
+          DEPARTMENT OF THE TREASURY, WASHINGTON, DC.
+
+    Secretary Summers. Chairman Lugar, Chairman Gramm, Ranking 
+Members Harkin and Sarbanes, members of these Committees, thank 
+you for giving me the opportunity to testify before you once 
+again on the Commodities Futures Modernization Act.
+    This is, as your opening statements recognized, an issue 
+that the President's Working Group has grappled with for some 
+time and it is an issue that these committees have been 
+grappling with for some time.
+    I believe it is a matter of great importance to the future 
+of our financial system and to the future of our economy to 
+move ahead with legislation that provides legal certainty for 
+swaps and OTC derivatives transactions. And I believe that such 
+legislation is now within our grasp, with the unanimous 
+agreement of the President's Working Group and the very 
+substantial consensus that has formed in the central area of 
+legal certainty for OTC derivatives among members of these 
+committees, members of the House of Representatives and the 
+various constituencies.
+    I believe that if anything, the events of the last year, as 
+we have seen dramatic increases in competition in the financial 
+services area across countries, only go to emphasize the 
+importance of the United States moving to provide legal 
+certainty.
+    So it is our very great hope that it will be possible to 
+move this year on legislation that, in a suitable way, goes to 
+create legal certainty for OTC derivatives while, at the same 
+time, reducing systemic risk, protecting retail customers, and 
+maintaining U.S. competitiveness.
+    And it is our belief that the central provisions contained 
+in this bill with respect to OTC derivatives make great 
+progress in achieving these goals and are provisions that we 
+can support as they follow very largely the recommendations of 
+the President's Working Group.
+    I want to address, however, three remaining issues: the 
+securities question, certain technical questions with respect 
+to regulatory relief for futures exchanges, and Shad-Johnson.
+    With respect to securities, the bill provides a broad 
+exclusion from the securities laws for swaps, including in 
+particular, swaps based on securities. As a general matter, we 
+do not believe that swaps should be regulated as securities. 
+However, it is important to preserve prohibitions against 
+insider trading, fraud, manipulation, and also to preserve 
+other measures which are demonstrably necessary to protect 
+retail customers.
+    We are concerned that the provisions as currently drafted 
+could have the unintended consequence of interfering with these 
+vital protections that are now in place for the securities 
+markets. Because the provisions as currently drafted have the 
+potential to impact the underlying securities markets, we 
+believe that it is imperative that they be amended to address 
+these concerns with respect to insider trading, fraud, 
+manipulation, and retail consumer protection.
+    I would hasten to point out that this is very much 
+consistent with the valid objective of removing unnecessary 
+regulation. I think it is worth emphasizing, however, that 
+there is one important distinction between the securities laws 
+and the commodities laws in that the application of securities 
+laws does not in any context create the kind of legal certainty 
+issues that can arise under the CEA.
+    The second concern we have is with respect to the 
+regulatory relief section that permits exempt boards of trade. 
+Let me first say that we have looked very carefully at the 
+recommendations that the CFTC has made and while we will be 
+making a formal comment down the road, I can say that we are 
+very much supportive in general of the changes that Chairman 
+Rainer has recommended and believe that they represent a 
+landmark achievement.
+    And we recognize the importance of competitive parity 
+between the exchange and off-exchange markets, particularly as 
+the status of off-exchange markets is clarified.
+    Our concern is with certain provisions that, as drafted, 
+could have the perverse consequence of creating a situation 
+where protections that are present with respect to off-exchange 
+trades could actually not be present with respect to 
+transactions that took place on an exchange. These matters are 
+particularly important with respect to the integrity of the 
+Government securities market, as any reduction in the integrity 
+of the Government securities market could lead to higher 
+financing costs for the Treasury and an increased burden on 
+American taxpayers.
+    Let me turn finally to the question of the Shad-Johnson 
+Accord. We believe that as the Working Group report states, the 
+current prohibition on single-stock futures can and should be 
+repealed if issues about the integrity of the underlying 
+securities market and regulatory arbitrage are resolved. There 
+are a number of concerns, however, that the regulatory agencies 
+consider important that have not been resolved in the 
+legislation. While we have no objection to the introduction of 
+single-stock futures, it is vitally important that the 
+integrity of the underlying markets be preserved and that these 
+instruments not be used as a means to avoid the regulation of 
+the cash market.
+    But let me be very clear on one point. We believe that this 
+issue should not be allowed to be an impediment to clarifying 
+legal certainty with respect to OTC derivatives. It is our very 
+great hope that it can be resolved in a mutually satisfactory 
+way but we do not believe that it should be allowed to defer 
+OTC derivatives legal certainty, given the overwhelming 
+importance of that issue.
+    Let me just take this opportunity to comment on an issue 
+that is not part of the bill before you today, and that is the 
+question of the treatment of OTC derivatives in instances of 
+bankruptcy and insolvency.
+    I would like to take the opportunity to strongly urge the 
+Congress to adopt the President's Working Group's 
+recommendations regarding the treatment of certain financial 
+contracts, including OTC derivatives, in cases of bankruptcy or 
+insolvency. This is a step that could have a meaningful impact 
+on the mitigation of systemic risk.
+    Mr. Chairman, let me conclude where I began. The 
+achievement of legal certainty and a modern legal and 
+regulatory framework for OTC derivatives is an issue of great 
+importance to our financial system, the competitiveness of our 
+markets and businesses and our economy. With this legislation, 
+it appears that, that goal is within our grasp. I urge this 
+committee to rapidly address the remaining concerns so that we 
+can move forward on much-needed legal certainty in the OTC 
+derivatives market. Thank you.
+    [The prepared statement of Secretary Summers can be found 
+in the appendix on page 60.]
+    The Chairman. Well, thank you very much, Secretary Summers, 
+for your comments and for your endorsement with the caveats 
+that you have given and we will take those seriously.
+    When I visited with you and with Chairman Greenspan 
+earlier, the Chairman noted a very, very large audience here 
+today for something that is very difficult to understand. I 
+would say the audience is a tribute to the two of you. You are 
+persons that are listened to. You make a difference in our 
+thoughtfulness and I call now upon Chairman Greenspan for his 
+testimony.
+
+STATEMENT OF THE HON. ALAN GREENSPAN, CHAIRMAN OF THE BOARD OF 
+    GOVERNORS OF THE FEDERAL RESERVE SYSTEM, WASHINGTON, DC.
+
+    Mr. Greenspan. Thank you very much, Mr. Chairman. I should 
+say chairmen and Ranking Members. This, incidentally, is the 
+first time in all of my years testifying before the Senate that 
+I recall, appearing before a joint committee of this nature, 
+and I must say that considering the nature and presumed 
+complexity and obscurity of this type of legislation, it is a 
+clear testament of how important this issue is to the financial 
+system of the United States, its integrity, and essentially the 
+underlying prosperity which it has been so important in 
+contributing to.
+    I am especially pleased to be here to present the Federal 
+Reserve Board's views on the Commodity Futures Modernization 
+Act of the Year 2000. My testimony today will be largely 
+identical to the testimony of my colleague Patrick Parkinson 
+delivered on behalf of the Federal Reserve Board last week to 
+the House Subcommittee on Risk Management, Research, and 
+Specialty Crops.
+    Let me say first that I wish to associate myself with all 
+of the remarks of Secretary Summers and will endeavor not to 
+repeat and go over similar grounds.
+    The Federal Reserve Board continues to believe that the 
+Commodity Futures Modernization Act of 2000, modernizing the 
+Commodity Exchange Act, is essential. To be sure, the CFTC has 
+recently proposed issuing regulatory exemptions that would 
+reduce legal uncertainty about the enforceability of OTC 
+derivatives transactions and would conform the regulation of 
+futures exchanges to the realities of today's marketplace. 
+These administrative actions by no means obviate the need for 
+legislation, however.
+    In my remarks today I shall focus on three of the areas 
+that the legislation covers: first, legal certainty for OTC 
+derivatives; second, regulatory relief for U.S. futures 
+exchanges; and third, of course, repeal of Shad-Johnson 
+restrictions on the trading of single-stock futures.
+    In its November 1999 report, the President's Working Group 
+concluded that OTC derivatives transactions should be subject 
+to the CEA only if necessary to achieve the public policy 
+objectives of the act, deterring market manipulation and 
+protecting investors against fraud and other unfair practices. 
+In the case of financial derivatives transactions involving 
+professional counterparties, the Working Group concluded that 
+regulation was unnecessary for these purposes because financial 
+derivatives generally are not readily susceptible to 
+manipulation and because professional counterparties can 
+protect themselves against fraud and unfair practices. 
+Consequently, the Working Group recommended that financial OTC 
+derivatives transactions between professional counterparties be 
+excluded from coverage of the CEA.
+    The Federal Reserve Board continues to support the Working 
+Group's conclusions and recommendations. Thus, it supports the 
+exclusions of OTC derivatives from CEA that are included in S. 
+2697 because with a few exceptions that appear readily 
+resolvable, they are consistent with the Working Group's 
+report.
+    The Working Group did not make specific recommendations 
+about the regulation of traditional exchange-traded futures 
+markets that use open outcry trading or that allow trading by 
+retail investors. Nevertheless, it called for the CFTC to 
+review the existing regulatory structures, particularly those 
+applicable to financial futures, to ensure that they remain 
+appropriate in light of the objectives of the CEA.
+    The Federal Reserve Board supports the general approach to 
+regulation that was outlined in the CFTC's recent proposals. 
+For some time the Board has been arguing that the regulatory 
+framework for futures trading, which was designed for the 
+trading of grain futures by the general public, is not 
+appropriate for the trading of financial futures by large 
+institutions. The CFTC's proposals recognize that the current 
+''one-size-fits-all'' approach to regulation of futures 
+exchanges is inappropriate, and they generally incorporate 
+sound judgments regarding the degree of regulation needed to 
+achieve the CEA's purposes.
+    Furthermore, the Board generally supports codification of 
+the CFTC's proposal so as to provide the exchanges with greater 
+certainty regarding future regulation. However, the Treasury 
+Department is concerned that the exempt board of trade 
+provisions might have unintended consequences that could reduce 
+the effectiveness of the existing regulatory framework for the 
+trading of government securities. To facilitate expeditious 
+passage of legislation, it thus may be prudent to limit the 
+codification of the exempt board of trade provisions, at least 
+so that markets currently regulated under the Government 
+Securities Act of 1986 are not affected. In such a scenario, 
+the CFTC could address any unintended consequences for the 
+regulation of government securities by changing the terms of 
+its exemptions.
+    The Working Group concluded that the current prohibition on 
+single-stock futures, part of the Shad-Johnson Accord, can be 
+repealed if issues about the integrity of the underlyng 
+securities markets and regulatory arbitrage are resolved. The 
+Board believes that S. 2697 provides an appropriate framework 
+for resolving these issues. Such instruments should be allowed 
+to trade on futures exchanges or on securities exchanges with 
+primary regulatory authority assigned to the CFTC or the SEC, 
+respectively. However, the bill recognizes that the SEC should 
+have authority over some aspects of trading of these products 
+on futures exchanges. The scope of the SEC's authority can and 
+should be resolved in negotiations between the CFTC and the 
+SEC. The Congress should continue to urge the two agencies to 
+settle their remaining differences so that investors have the 
+opportunity to trade single-stock futures.
+    If it would facilitate repeal of the prohibition, the 
+Federal Reserve Board is willing to accept regulatory authority 
+over levels of margins on single-stock futures, as provided in 
+the bill, so long as the Board can delegate that authority to 
+the CFTC, the SEC, or an Intermarket Margin Board consisting of 
+representatives of the three agencies.
+    The Federal Reserve Board understands that the purpose of 
+such authority would be to preserve the financial integrity of 
+the contract market and thereby prevent systemic risk and to 
+ensure that levels of margins on single-stock futures and 
+options are consistent. The Board would note that for purposes 
+of preserving financial integrity and preventing systemic risk, 
+margin levels on futures and options should be considered 
+consistent, even if they are not identical, if they provide 
+similar levels of protection against defaults by 
+counterparties.
+    This bill reflects a remarkable consensus on the need for 
+legal certainty for OTC derivatives and regulatory relief for 
+U.S. futures exchanges, issues that have long eluded 
+resolution. These provisions are vitally important to the 
+soundness and competitiveness of our derivatives markets in 
+what is an increasingly integrated and intensely competitive 
+global economy. The Federal Reserve Board trusts that remaining 
+differences regarding single-stock futures and the potential 
+application of the securities laws to OTC derivatives can be 
+resolved quickly and this important piece of legislation can be 
+expedited through this Congress.
+    Thank you very much, Mr. Chairman.
+    [The prepared statement of Mr. Greenspan can be found in 
+the appendix on page 66.]
+    The Chairman. Thank you very much, Chairman Greenspan.
+    We have been joined by Senator Sarbanes, the Ranking Member 
+of the Banking Committee. As the Chair announced earlier, the 
+Ranking Member will be recognized for an opening statement and 
+then we will proceed with a round of questions for the 
+witnesses.
+    Senator Sarbanes.
+
+    STATEMENT OF HON. PAUL S. SARBANES, A U.S. SENATOR FROM 
+ MARYLAND, RANKING MEMBER, COMMITTEE ON BANKING, HOUSING, AND 
+                         URBAN AFFAIRS
+
+    Senator Sarbanes. Mr. Chairman, thank you very much.
+    I will really forego an opening statement except simply to 
+observe that this is a very complex issue and I think we have 
+to proceed with considerable caution and when I have my 
+question period, I will have an opportunity, I think, to pose 
+some questions to the secretary and the Chairman in this 
+regard.
+    I think we have to work extra hard at trying to get the 
+regulators, who are, after all, the experts in this area upon 
+whom we rely, to see if they can reach a consensus on how they 
+would recommend proceeding with respect to these important 
+questions.
+    Thank you very much.
+    The Chairman. Thank you very much, Senator Sarbanes.
+    We will have questions now. I will ask that Senators stay 
+within a 5-minute limit. I will ask questions. I will then 
+defer to Chairman Gramm, then to the distinguished Ranking 
+Members--Mr. Harkin, Sarbanes--and then we will alternate back 
+and forth, republican and Democratic Senators as they have 
+appeared.
+    Secretary Summers and to some extent Chairman Greenspan has 
+reflected this, in a comment that you make on page 5 of your 
+statement you say, ``To be clear, there are provisions of the 
+bill as currently drafted which could have the perverse 
+consequences of creating the situation where protections that 
+are present with respect to off-exchange trades would not be 
+present with respect to transactions that took place on the 
+exchange. These matters have particular importance with respect 
+to the integrity of government securities markets.''
+    Could you amplify that somewhat more? That general point of 
+view of the Treasury, which has been fairly well known in the 
+securities markets for the past week or so, has brought 
+considerable consternation and I would like for you to explore 
+that more in your testimony.
+    Secretary Summers. Let me just say that I think this is an 
+important but somewhat limited issue in the following sense. We 
+are supportive of the broad program that Chairman Rainer has 
+laid out for deregulation. We are supportive of the pillar of 
+that broad program, which is the idea of exemption for boards 
+of trade.
+    Our difficulty comes from what is almost a drafting 
+question. In the way the legislation is drafted, it appears to 
+us to allow participants in the exempt boards of trade to avoid 
+the kinds of rules that we have had in place with respect to 
+the Government securities market.
+    You will recall that there was a major episode a decade ago 
+in which one major firm was involved with an excessive share of 
+a number of different Treasury auctions, subjecting the market 
+to possible manipulation. It is our intent and our desire only 
+that nothing in this legislation preclude the effective 
+enforcement of those provisions with respect to the Government 
+securities markets.
+    And my understanding is that there has been considerable 
+discussion among the affected parties and I think there is a 
+feeling that it is possible to find language that would address 
+our particular and quite narrowly focused concern, which does 
+not go to the desirability of regulatory relief for futures 
+trading, but only goes to the question of whether or not it 
+would be possible to avoid restrictions that are in place with 
+respect to cornering and the like in the Government securities 
+markets by trading on one of these exempt boards of trade.
+    The Chairman. I thank you for that response and I raise the 
+question knowing that there have been considerable efforts on 
+the department's behalf with exchanges with other parties to 
+try to clarify this language. I think Senator Gramm and I share 
+the thought that the greatest hope we have with this 
+legislation is that you and Chairman Greenspan and others are 
+still working with us. This is a work in process because these 
+clarifications are important.
+    This legislation might last for a long while and it would 
+be difficult to get everybody concentrated again, so we want to 
+do it right. But we appreciate the flexibility that you have 
+already demonstrated and I simply wanted to offer that thought.
+    Mr. Greenspan. Mr. Chairman, if I may, I think it is 
+important to emphasize, as the Secretary has just done, that 
+this is a very narrow technical amendment. It is not 
+questioning the usefulness, the potential usefulness of the new 
+board of trade vehicle. There are many different types of 
+usefulness of that vehicle and we certainly at the Federal 
+Reserve Board see advantages in it.
+    This is a very narrow issue which we fully subscribe to the 
+Treasury's position on and would like to see some amendment to 
+this particular provision to take care of the Treasury's 
+concerns.
+    The Chairman. Well, we look forward to working with you on 
+that language and your proposal would be welcome.
+    Let me just initiate a subject I suspect that Chairman 
+Gramm will get into further. With regard to legal certainty, we 
+have talked about legal certainty that arose from the so-called 
+Concept Paper on Swaps that the CFTC was responsible for, so we 
+have tried to settle that over there.
+    Now Chairman Gramm has raised the question, ``Well, what 
+about legal certainty with regard to the SEC in this sort of 
+situation?'' This seems to have kicked off tremors in various 
+directions.
+    Let me just say that what is sauce for the goose is sauce 
+for the gander. I share Chairman Gramm's thought that we need 
+to explore really where we are headed with regard to legal 
+certainty. It may have started in one agency but has picked up 
+other problems somewhere else.
+    Why has this become an element of such consternation? 
+Because obviously it is and your testimony, you mention this, 
+Secretary Summers, as a point of considerable concern.
+    Secretary Summers. Let me make three points, if I could. I 
+will preface them by saying that having spoken with Chairman 
+Gramm about this, my impression is that there are not 
+fundamental differences that cannot be bridged on this 
+question.
+    The Chairman. Well, that is reassuring.
+    Secretary Summers. Having said that, let me make three 
+points.
+    First, there is, I think, an asymmetry that we need to be 
+clear about between the securities law issues and the 
+commodities law issues and that is that were these to be 
+subject to the commodities law, there is the possibility that 
+past contracts that have been entered into would be unwound and 
+would not be legally binding. That is why we speak about legal 
+certainty.
+    There is no parallel feature of the Securities Act that 
+would enable or create any possibility or nexus for past 
+contracts to be unwound and that is why those who have been 
+concerned with the legal certainty question have, until it was 
+recently introduced into the discussion, been focused on the 
+commodities issue and not focussed on the securities issue.
+    Second, there is nonetheless, in our judgment, a valid 
+objective of responding to some of the kinds of concerns that 
+Chairman Gramm articulated in his earlier statement that we 
+cannot be assured that the prudent forbearance that the SEC has 
+exercised with respect to these issues in recent years will be 
+a permanent state of affairs.
+    And therefore it may be appropriate for there to be 
+legislative clarification that the intent of the OTC legal 
+certainty is not to shift jurisdiction from one agency to 
+another but, for the reasons that the Chairman articulated in 
+his testimony, involving the fact that it is professional 
+counterparties who are involved with one another, to provide 
+for a structure in which these transactions would not be 
+subject to extensive regulation. We recognize that as a 
+legitimate and appropriate legislative purpose, even if one 
+that is not perfectly parallel with the commodities case.
+    The third point though, and the point that I must say, Mr. 
+Chairman, we feel strongly about is that there are a number of 
+types of issues that the securities law provides that are not 
+issues that are covered by the commodities law where we believe 
+it is very important to continue to maintain protection.
+    To take what may be the easiest example to explain: 
+functionally, through a total return swap, one can do something 
+that is the equivalent of purchasing a share of stock. It would 
+not, in my judgment, be an acceptable outcome for an individual 
+who had benefitted from insider information and who would be 
+legally prohibited from buying a stock or buying an option to 
+be able to engage in a total return swap that was the 
+functional equivalent of buying that stock.
+    Insider trading, fraud, manipulation, and possibly where 
+there is a demonstrable link, questions of retail protection, 
+it seems to us need to continue to be subject to regulation, 
+not so as to extend some net of regulation to OTC derivatives 
+in a way that they are not now subject to regulation, but only 
+to assure that the basic protections we provide in our cash 
+markets do not become circumvented through this legislation.
+    And it seems to us that the valid and important objective 
+of clarifying with respect to the future the limits of 
+regulation in this area can be achieved while, at the same 
+time, respecting the very necessary functions the regulation 
+has to perform.
+    The Chairman. Thank you very much.
+    Senator Gramm.
+    Senator Gramm. Thank you, Mr. Chairman.
+    Let me first say, Mr. Secretary and Mr. Chairman, I do not 
+think there are substantive differences as to what we want to 
+do and what you are concerned about.
+    The best thing you could do about the Government securities 
+is write the language you need and give it to us so that we can 
+put it in the bill and solve that problem. If it creates other 
+problems, obviously we can work them out. But we are in a happy 
+time when government borrowing is diminishing, we do not know 
+how long that is going to last, and we want the Government to 
+be able to borrow when it needs to do so.
+    Our whole focus to this point on legal certainty has been 
+related to the CFTC and its jurisdiction because it was always 
+believed that if someone was going to claim jurisdiction over 
+swaps, it would be the CFTC. If they asserted jurisdiction, as 
+we all know from that very unhappy period when they were trying 
+to do so, then the potential existed of contracts on swaps 
+being deemed unenforceable because they were traded off the 
+exchange.
+    But what I am concerned about is the totally different 
+environment where the CFTC has been banned from exercising any 
+jurisdiction, in essence, creating what some regulation 
+innovator would see as a no-man's land, and I would see as 
+freedom but some regulator would see as a no-man's land. An 
+innovative SEC might step in and say, ``well, swaps are 
+securities and therefore this swap is illegal because the 
+security was not registered with the SEC, because the security 
+did not meet our disclosure requirements.''
+    We can deal with the anti-fraud concern and the insider 
+trading concern, but we need this dual protection. I agree with 
+the Chairman that we need to work together because in an 
+election year, the only way anything can or should become law 
+is if it is bipartisan and is supported by the administration 
+and Congress.
+    So if we want to do this, we have to work it out, and I do 
+not see any insurmountable differences. I would like to ask 
+both of your staffs to look at this concern about potential SEC 
+action in the future.
+    Let me just ask one question that is not related to this, 
+but I ask because it is a simple yes or no answer, but you can 
+elaborate in the time I have left if you want to.
+    Recently there has been a proposal by the FDIC and a lot of 
+clamoring in the banking industry to raise the FDIC insurance 
+from $100,000 to $200,000 per account. Having lived through the 
+S&L debacle and having seen it first-hand in my state, I have 
+been very reluctant to support this because it represents to me 
+a shifting of risk from the investor to the Government and 
+ultimately to the taxpayer. And I remember that era of brokered 
+deposits, and knowing now that we have Internet banking, this 
+is something that I am concerned about.
+    I know that you all have looked at it and I just wanted, in 
+a simple, straightforward way, to see what you think about the 
+proposal to raise the insurance limit to $200,000.
+    Secretary Summers. The Chairman and I have discussed this 
+and I believe we have similar views but I guess we will soon 
+see.
+    We believe that such an increase would be ill advised and 
+would represent a serious public policy error that would 
+potentially increase systemic risk by eroding market discipline 
+and it is not, in our judgment, necessary in order to protect 
+small savers. So it is not a change that we would support.
+    Mr. Greenspan. I agree with that, Mr. Chairman. Let me just 
+say that there is no question arithmetically that if one looks 
+at the change in consumer prices since 1980 when the original 
+$100,000 ceiling was instituted that for purchasing power 
+parity with the original $100,000 change, it would require a 
+very significant increase.
+    However, I think that most economists would look back at 
+that $100,000 number and say it was a mistake, probably a bad 
+mistake.
+    If you go back to the $40,000 change when, in the fall or 
+late part of the year 1974, the ceiling was raised from $20,000 
+to $40,000, and then ask what is the purchasing power of that 
+as of today, it is just a little more than $100,000. So in that 
+regard, one can very readily see that the problem really gets 
+back to a judgment as to whether the move from $40,000 to 
+$100,000 was the correct move and I think, in retrospect, that 
+the evidence very strongly indicates that it was a mistake and 
+for very much the reasons that Secretary Summers argues.
+    We are in the process now, driven largely by technology, of 
+very dramatically expanding the domestic and international 
+financial system and it is very important that our market 
+processes are sound and that they are not distorted 
+inordinately by a subsidized structure in the financial system.
+    And, as a consequence of that, I think it is quite 
+important for all of us to be certain that if we want the 
+really quite extraordinary developments in the financial 
+system, which is what we are discussing today, to effectively 
+assist in what is a change in the world economy and 
+specifically in the United States, where standards of living 
+are rising in a way which we have not seen for a very long 
+period of time, and where we have had an economy which is being 
+supported by a very increasingly sophisticated financial 
+system, we want to be certain that, the market safeguards of 
+that system are not undercut.
+    And it has been the experience of the Federal Reserve and, 
+I believe, all the remaining banking regulators, and I presume 
+the Treasury Department, as well, that the necessity of having 
+a fully functioning market pricing structure as a means for 
+containing risk is crucial to the system.
+    We regulators cannot conceivably substitute for the 
+effectiveness of containing risk that counterparty judgments 
+within the market create. It is not even a close call. Anything 
+that we can do to sustain and enhance the viability of 
+counterparty surveillance and the accordingly important 
+strengthening of the financial structure that ensues as a 
+consequence of that, we should endeavor to do.
+    Increasing that is, doubling--deposit insurance--which 
+essentially would be giving increased subsidies to upper income 
+individuals almost by definition, is, in my judgment, a 
+mistake.
+    There is a problem, however, which is associated with this 
+issue, which is discussed mainly with regard to the clear 
+difficulties that our community banks are having with regard to 
+maintaining core deposits as a consequence of a very dramatic 
+increase in mutual funds, money market mutual funds, and the 
+capital markets expansion itself. And they understandably are 
+looking for means by which they can get an increased degree of 
+liability support, if I may put it that way.
+    I certainly sympathize with their concerns and the 
+community banking system is a very important vehicle in this 
+country and I think something which is crucial to the dual 
+banking system, which I, as you have known before, very 
+strongly support.
+    I do think, however, that other means to solve that 
+particular problem must be found. To employ a major change in 
+the underlying financial structure creating weakness in that 
+underlying financial structure for the purpose of resolving a 
+real problem, but a different type of problem, in my judgment, 
+would be a major policy mistake.
+    Senator Gramm. Thank you, Mr. Chairman.
+    The Chairman. Thank you very much, Senator Gramm.
+    Senator Harkin.
+    Senator Harkin. Thank you, Mr. Chairman.
+    I would like to focus my remarks and questions on this idea 
+of a level playing field and what this legislation might do to 
+that. Early on, the futures exchanges, as we started this 
+process several years ago, were concerned that regulatory 
+relief for the swaps would put them at a disadvantage. So the 
+futures exchanges sought relief and that is basically what this 
+bill provides in that regard.
+    Summarily, Shad-Johnson, if relief is provided for single-
+stock futures trading, raises questions about the level playing 
+field for other market participants, namely the stock options 
+markets. So again it raises the general question, I think, of 
+the levelness of the regulatory playing field and I think that 
+is an important question for us and overall to the functioning 
+of our U.S. markets.
+    So I would ask both Chairman Greenspan and Secretary 
+Summers again to once again enlighten us on approaching these 
+questions of a level playing field, whether on Shad-Johnson or 
+in other areas, like swaps versus on-exchange transactions, or 
+electronic versus the traditional exchange markets.
+    Most of the input that I have had from people in these 
+fields has been along those lines. They are concerned that what 
+we do is going to skew it one way or the other. One will be 
+advantaged and one will be disadvantaged. And I just need some 
+enlightenment on that.
+    Secretary Summers. We have sought in the President's 
+Working Group recommendations and commenting on this 
+legislation to achieve exactly the principle that you stressed, 
+Senator Harkin, of a level playing field.
+    The original rationale, as you know, was legal certainty in 
+the OTC area. In my judgment, the suggestion that if one was to 
+provide legal certainty that a level playing field required 
+certain changes in the regulations regarding the exchanges was 
+valid and appropriate. And, as I indicated, the suggestions 
+that Chairman Rainer and his colleagues at the CFTC have put 
+forward seem to us to be very much broadly in the right 
+direction and to be leveling the playing field and subject to 
+the relatively minor concern around the board of trade--minor 
+but crucial, I hasten to say--concern that I highlighted. They 
+seem to us to be broadly appropriate, and I think there is a 
+good case for them being embodied in law and not just in 
+regulations.
+    So I think we are doing a good job on the level playing 
+field area in that dimension.
+    I think that if I might, the playing field slopes in many 
+different dimensions in the single-stock futures area and so 
+far, a universally agreed definition of a level playing field 
+has been illusive, precisely because you have the consideration 
+of the cash market, you have the consideration of the single-
+stock futures market, you have the consideration of the options 
+market, you have the reality that much of this is going to be 
+traded overseas in any event.
+    So I cannot tell you that a formal agreement has been 
+achieved in the Shad-Johnson area that is universally 
+recognized to represent a level playing field.
+    What I would suggest to you, however, is that it is, I 
+think, very unfortunate for the financial system if the 
+continuing debate over the precise definition of a level 
+playing field with respect to Shad-Johnson is to preclude us or 
+delay us from achieving legal certainty with respect to OTC 
+derivatives. And any of a variety of possible resolutions of 
+the Shad-Johnson issues, in conjunction with legal certainty, 
+would be in the Nation's interest relative to no movement 
+forward on legal certainty because of the outstanding Shad-
+Johnson issue.
+    That is why I very much would join the Chairman's support 
+for the Congress's encouraging the parties to reach a mutually 
+satisfactory resolution, but in any event----
+    Senator Harkin. We have been trying that for a long time.
+    Secretary Summers. But in any event, not holding legal 
+certainty hostage to the resolution of the Shad-Johnson issue.
+    Mr. Greenspan. Senator, obviously I think the issues you 
+are raising are crucial and they are very simple to state and 
+very difficult to implement. Level playing fields, 
+unfortunately, are too often in the eyes of the beholder and 
+with one tilt in an Einsteinian way, it looks like another tilt 
+if you are coming from another direction.
+    There are a number of practical issues here which really 
+get down to, for example, margins. Margin requirements in 
+commodity exchanges are markedly lower than they are in general 
+for stocks and here I think there is a legitimate concern about 
+the issue of competitiveness, but it is very important to 
+distinguish between consistent margins and the same level of 
+margins.
+    Margins basically should be constructed in a manner to 
+protect counterparties against default or nonpayment. And in 
+the commodities business or in the commodities markets, where 
+there is a far more rapid payment of cash when prices move--
+more exactly, when margins are readjusted very much more 
+quickly in the commodities markets in general and obviously 
+under those conditions, if you have a number of margin calls 
+during the day, which you generally do have on many occasions, 
+and they get paid, that clearly is an issue of having lower 
+margins than would necessarily be the case in securities 
+markets.
+    And how things are cleared and how things are basically 
+managed can differ quite significantly from one system to 
+another and yet competitively, they can turn out to be very 
+close to being identical.
+    I think at the end of the day we will only be able to tell 
+whether there are real playing field differences if we, for 
+example, see actual differences in markets as, for example, we 
+have seen a significant shift from exchange-traded derivatives 
+to over-the-counter derivatives and that is suggestive of the 
+fact that clearly there is far more regulatory burden imposed 
+on the exchanges because that is the reason that is often given 
+as to why a goodly part of businesses that could go in either 
+direction would tend to go over the counter.
+    In that case, you can see what the problems are and you can 
+address them as indeed they are addressed in this bill. But to 
+make ex ante judgments about levels of margins, merely looking 
+at the absolute percentages, is insufficient to make a judgment 
+as to whether they are consistent and indeed competitive.
+    Senator Harkin. I see my time is up but it just seems to me 
+that in the futures exchanges, where we have always had to 
+clear our margins on a daily basis, and if you have another one 
+on the option where you do not, then it skews it one way or the 
+other, it seems to me.
+    Mr. Greenspan. And it can be adjusted, however, by having 
+different levels of margins, and that is indeed what does 
+happen.
+    Senator Harkin. That may be true, yes. That is what you are 
+suggesting we do, perhaps?
+    Mr. Greenspan. Senator, that is actually what they do. And 
+the question I think we have to make a judgment on, is whether 
+the margins that are imposed by securities firms and/or 
+exchanges and commodity firms and/or exchanges are consistent. 
+And all I am saying is that is not the same statement as they 
+are identical.
+    Senator Harkin. Thank you, Mr. Chairman.
+    The Chairman. Thank you very much, Senator Harkin.
+    Senator Sarbanes. Thank you very much, Mr. Chairman.
+    Chairman Greenspan, in his statement, Secretary Summers 
+observes that the bill provides a broad exclusion from the 
+securities laws for swaps, including, in particular, swaps 
+based on securities. He then goes on to say, ``As a general 
+matter, we do not believe that swaps should be regulated as 
+securities. However, it is important to preserve prohibitions 
+against insider trading, fraud, and manipulation and also to 
+preserve other measures which are demonstrably necessary to 
+protect retail customers.''
+    I take it you agree with that position?
+    Mr. Greenspan. I do indeed, Senator.
+    Senator Sarbanes. I would like to ask both of you, what are 
+the risks of implementing the language as currently drafted in 
+the legislation?
+    Secretary Summers. I think this is an issue that is easily 
+remediable but nonetheless needs to be remedied because I think 
+the language as currently drafted would at least raise the 
+prospect of substantial evasion of existing predications with 
+respect to insider trading, with respect to fraud and with 
+respect to market manipulation and thereby could undermine the 
+integrity not just of the OTC derivatives markets but also of 
+the underlying markets with which they are arbitraged.
+    So as drafted, we would have very great concerns about the 
+language.
+    We do believe that the objective which we believe was 
+sought in drafting the legislation, which is to clarify that 
+the objective here is deregulation rather than a shift of 
+regulatory jurisdiction, is an objective that can be achieved 
+without compromising these critical objectives.
+    As we suggested earlier, I think we can all work together 
+on language that would achieve that objective, but the bill as 
+we understand it in its current form would, without amendment, 
+potentially pose a real risk to the integrity of financial 
+markets.
+    Senator Sarbanes. Mr. Chairman, do you want to add to that?
+    Mr. Greenspan. I would only like to say, Senator, that this 
+problem of the definition of swaps and securities I think is 
+getting us tangled up in verbose language.
+    I had a chance to read the legal definition of a security 
+that is in the 1933 and 1934 acts and I will tell you I 
+appreciate the difficulties that lawyers have in this world. I 
+defy anybody to read it and come up with a reasonably good 
+judgment of what it says.
+    Swaps are even worse. Not only are they difficult to define 
+but after you have defined them, you will find that everyone 
+has a different view of what constitutes a swap.
+    I think that what is important here is for the Congress to 
+look at the fundamental structures of the markets with which we 
+are dealing, try to make a judgment of what the appropriate 
+regulatory structure is, one, as Senator Harkin has said, that 
+creates a level playing field and also, as he talked in terms 
+of the integrity, safety and soundness of markets, which I 
+think is a very important issue with respect to the 
+competitiveness of the United States in the world markets.
+    I think that we should do that in trying to make judgments 
+of what is appropriate and try to eliminate this particular 
+detailed discussion of whether something is a swap or it is a 
+security, and therefore if it is a security, something should 
+happen; if it is a swap, something should happen. I think this 
+is a very difficult type of issue to get involved in and I am 
+afraid we are getting tangled up in language, and the issues 
+are very difficult as they are. If we are going to have those 
+types of problems, we are not going to get an effective 
+resolution of this issue.
+    Senator Sarbanes. That would suggest, in view of your 
+previous answer, that we should focus on insider trading, 
+fraud, manipulation, and make sure that any possibility for 
+those practices to take place is precluded under the regulatory 
+scheme. Would that be correct?
+    Mr. Greenspan. Exactly, Senator.
+    Senator Sarbanes. I think the President's Working Group on 
+Financial Markets was an important initiative and I know the 
+legislation contains a number of the recommendations that came 
+forward from the group, which represented a consensus judgment 
+by the group, unanimous, as I understand it.
+    My question is, what do you see as the prospects on those 
+remaining outstanding issues on which a consensus has not yet 
+been reached within the Working Group but which are resolved 
+one way or another in the legislation? If we continue to press 
+the Working Group to continue its discussions and 
+consultations, would they be able to come up with a consensus 
+position?
+    You have been involved in that byplay back and forth. What 
+are the prospects?
+    Secretary Summers. With the exception of Shad-Johnson and 
+possibly with the exception of the securities question that we 
+have been discussing, I believe the Working Group has 
+essentially agreed on all important aspects of this legislation 
+and that you could have full agreement on this legislation.
+    I believe with respect to the securities question, I would 
+not want to be in the position of speaking for the SEC and the 
+CFTC but I think you have seen the Chairman and I have 
+essentially identical positions with respect to that question.
+    With respect to Shad-Johnson, I would not want to 
+confidently predict that there would be a conclusion. It is an 
+issue, unlike some of the other issues, that is a very crucial 
+issue for two members of the Working Group--the SEC and the 
+CFTC. And my understanding is that they have worked in very 
+good faith to try to reach common ground and have not yet 
+succeeded.
+    I suspect that I speak for the Chairman in saying that we 
+are very much prepared to do anything we can do to facilitate 
+reaching an agreement and I thought that the Chairman's offer 
+in his testimony that the Federal Reserve would be prepared in 
+a variety of different formulations to become involved with 
+margin requirements for single-stock futures, if that would be 
+facilitating of an agreement, was a constructive and valuable 
+step. But I do not think I can honestly predict for you with 
+great optimism that an agreement will be reached in the near 
+future.
+    I would repeat the judgment that the Chairman and I both 
+expressed earlier that any of a variety of possible resolutions 
+that pave the way to the passage of this legislation would be 
+better than no resolution and a continuing risk to legal 
+certainty.
+    Mr. Greenspan. I might just add that in a certain sense, if 
+Shad-Johnson is not revised in a manner which is to the 
+interests of the American regulatory structure, it is going to 
+get revised for us because there is just little question in my 
+judgment that we are not all that far away from single-stock 
+futures on U.S. stocks trading in other countries. And if we do 
+not resolve this issue, Shad-Johnson will get resolved but not 
+in a manner which I think would be desirable for any of us.
+    I have worked with many SEC and CFTC Chairmen. I have never 
+had the pleasure of, as some of you have mentioned, working 
+with two committed individuals of the types we now have in 
+those chairmanships. If they are having trouble with this 
+issue, it is because it is a very difficult issue to meld very 
+complex regulatory structures.
+    My concern is that if they cannot get it resolved and we 
+cannot get it in a legislative vehicle, that the issue is going 
+to get resolved for us but not in the way that we would like it 
+to happen.
+    Senator Sarbanes. Mr. Chairman, I just make the observation 
+that not too long ago we were working in the Banking Committee 
+on an important piece of legislation and they said, ``Well, you 
+will never get the Treasury and the Federal Reserve to reach an 
+understanding on that issue.'' And in the last analysis, they 
+did reach an understanding, which was an important breakthrough 
+in moving that legislation forward. So, if we keep working at 
+this, maybe we can get it resolved. Thank you very much.
+    The Chairman. I thank you, Senator Sarbanes, for your 
+question and likewise both of you for your response. I will 
+just editorialize before I recognize my colleague that we 
+really are at the heart of the matter.
+    Without being chauvinistic, we are Americans talking about 
+United States markets and it is inconceivable that however 
+learned people are in various agencies, they cannot come to 
+some agreement.
+    Now, we are attempting to facilitate that, I think calmly. 
+Senator Gramm and I are not hysterical about the issue but we 
+are determined. This is very, very important for our country 
+and both of you have testified amply to that this morning in a 
+very technical way.
+
+  STATEMENT OF HON. PETER G. FITZGERALD, A U.S. SENATOR FROM 
+                            ILLINOIS
+
+    Senator Fitzgerald. Thank you very much, Mr. Chairman, and 
+I thank both of you for testifying today.
+    Mr. Greenspan, I appreciate your comments about Shad-
+Johnson and I wholeheartedly agree with you. If we do not 
+repeal Shad-Johnson, we are going to be confronted with foreign 
+nations that are offering individual stock futures on our 
+American companies. I think if we can put a man on the moon, we 
+can repeal Shad-Johnson and get an agreement between the SEC 
+and the CFTC.
+    Mr. Greenspan, maybe you could elaborate on how the 
+regulators cooperate in the banking industry. We actually have 
+many more regulators in the banking industry than just the two 
+we are talking about here--the CFTC and the SEC. You have state 
+banking examiners examining state banks. Across the street from 
+a state bank in Main Street, U.S.A. there is typically a 
+national bank that is regulated by the OCC. Both of them, if 
+they offer FDIC insurance, are subject to the regulation of the 
+FDIC. If they have holding companies, they are monitored by 
+you.
+    Now, I notice in Mr. Levitt's testimony, reading ahead, 
+that he objects to provisions in this bill that require the 
+SEC, before taking enforcement action, to ask permission of the 
+CFTC. Now I do not know if any of the banking regulators, such 
+as the FDIC or the OCC, would have to ask permission of other 
+regulators if they wanted to take an enforcement action. 
+However, I do think that they commonly notify other regulators 
+as a matter of course. I do not get the impression that, that 
+slows down the enforcement very much.
+    Would you care to comment on that?
+    Mr. Greenspan. Yes, Senator, I think that is quite correct. 
+One of the vehicles that we have is an organization of all of 
+the regulators in which we work together in a fairly formal 
+systematic way. And over the years we have recognized the 
+various problems that inevitably arise when you have a dual 
+banking system, multiple regulators, and the system will either 
+work or it will not work. And if it will not work, what is 
+going to happen inevitably is clearly the Congress is going to 
+decide to run a single regulator bill through both houses of 
+the Congress and it will get passed very readily and the issue 
+will be resolved, frankly, to the detriment of the system.
+    I think that to have different regulators effectively 
+competing in many respects and jointly endeavoring to come up 
+with new ideas as to how to integrate regulation into the 
+market structure to get maximum efficiency has been a very 
+effective tool of the American regulatory system.
+    And I think that, despite the fact that there are 
+inevitable significant disagreements, and there are 
+unquestionably unbelievable delays in getting agreements on 
+certain issues, nonetheless, at the end of the day, it works.
+    Senator Fitzgerald. What is your super regulatory body 
+called?
+    Mr. Greenspan. It is the Federal--my problem is I have so 
+many acronyms in my head, I cannot unleash----
+    Senator Fitzgerald. Did that come in after the FIRREA 
+legislation or after the S&L?
+    Mr. Mattingly. Senator, it is Federal Financial 
+Institutions Examination Council and it goes back to about 
+1978.
+    Senator Fitzgerald. 1978, okay.
+    Mr. Greenspan. That is Virgil Mattingly, our General 
+Counsel, and you can see why we find him a significant source 
+of insight.
+    Senator Fitzgerald. Well, maybe the SEC and the CFTC could 
+just jointly put some task force together with members from 
+both regulatory bodies just so that they have ongoing 
+communication. That would seem to make sense to me.
+    Well, in the interest of time, I will yield to some of my 
+colleagues for further questions.I thank you for that positive 
+encouragement about how it works in banking.
+    [The prepared statement of Senator Fitzgerald can be found 
+in the appendix on page 50.]
+    The Chairman. Thank you very much, Senator Fitzgerald.
+    Senator Kerrey.
+
+    STATEMENT OF HON. J. ROBERT KERREY, A U.S. SENATOR FROM 
+                            NEBRASKA
+
+    Senator Kerrey. Mr. Chairman, first of all, I want to thank 
+both you and Chairman Gramm for holding this hearing and I hope 
+it leads to a mark-up of the bill.
+    It seems to me the challenge of the Committee, and I put 
+this to both Secretary Summers and Chairman Greenspan, the 
+challenge for both of the Committees is that we have to 
+separate out those concerns raised by individuals who simply do 
+not want to compete because, at the end of the day, this is 
+about money and that is why this room is full of people; this 
+is about money and it is about jurisdiction that controls who 
+gets to regulate.
+    And you can see it in the pattern of lawsuits over the last 
+25-years, initiated in the early 1970s. In fact, there has been 
+a pattern. It starts with a lawsuit filed in 1975, resolved in 
+favor of the CFTC. That led to Shad-Johnson. Another lawsuit 
+filed in 1992. That leads to another piece of legislation.
+    And then the most recent lawsuit filed after the SEC 
+objected under 2(A)(1)(b) of the CEA, to an instrument that was 
+being traded on the Chicago futures in a Dow-Jones utility and 
+transportation index. So they have objected. That is in court 
+and still not settled. So I do not know; maybe there is a case 
+to be made that we should wait until this lawsuit gets settled.
+    I would not, Mr. Chairman, because I think we have to 
+separate, and I put it to you gentleman, it seems to me we have 
+to separate out those concerns that are just about money and 
+control from those legitimate concerns having to do with what 
+has been raised on several occasions--risk to investors, and so 
+forth, including, by the way, one additional risk that was 
+raised after the stock market crash. The SEC claimed that one 
+of the reasons the stock market crashed in 1987 and perhaps 
+again as a consequence of concerns for making a case so they 
+could continue to control, that it was stock market indexes 
+that caused the crash. Trading and speculating in stock market 
+indexes, the SEC argued in 1987, caused that crash.
+    So I would ask you, it seems to me that we did that. This 
+committee heard concerns that there was regulatory uncertainty 
+having to do with swaps and other instruments. They were being 
+offered, derivative instruments, offered OTC. And we listened. 
+We had hearings on it and we listened to all the concerns. It 
+was a hot issue and I think the Agriculture Committee did a 
+pretty good job of sorting out and coming up with a 
+recommendation that would create regulatory certainty, as well 
+as the other piece of our legislation that codifies a lot of 
+the regulatory changes that CFTC has put in place.
+    And it seems to me that we ought to do the final thing with 
+these stock indexes, the stock future instruments that are 
+being proposed. They were proposed first by the CFTC, 
+challenged now in court. A, we have to decide, do we want to 
+wait for the court to make a decision, or do we sort of take it 
+into our own hands and try to decide on our own? And I would 
+argue the latter, frankly, that we ought to try to separate out 
+where we think a case is being made in a legitimate way and 
+where a case is being made in an illegitimate way that these 
+instruments should not be allowed to be traded.
+    So I would just ask--seek your advice on this. Do you think 
+we should wait for the court to make a decision or do you think 
+we should, in our best judgment, now that the two chairmen have 
+gotten us together, and some have argued that it is about money 
+on our side, as well, that we are concerned about losing 
+jurisdiction between the Agriculture and Banking Committee. I 
+have personally never seen any evidence of that but maybe it 
+exists, in fact, back in the old days.
+    Would you recommend that this committee take action to try 
+to resolve this most recent conflict that is being raised over 
+individual stock futures?
+    Secretary Summers. I basically share the impulses behind 
+your question, Senator Kerrey. I do not think that waiting 
+until particular lawsuits have wended their way through the 
+courts is a good way to make public policy in this area. I 
+think case-by-case litigation is probably, as a general 
+proposition, a poor way to make public policy in this type of 
+issue, first. And second, as both the Chairman and I have 
+stressed, we think that it is important that the legal 
+certainty issue not be delayed with respect to the Shad-Johnson 
+issue.
+    So, as I have said several times now and just to make the 
+point clear, any of a number of possible approaches that this 
+bill could take to Shad-Johnson in conjunction with legal 
+certainty would be better than this bill not moving forward 
+because of Shad-Johnson.
+    To be sure, one of those approaches would be simply not 
+treating the Shad-Johnson issue within this legislation and 
+leaving it to other legislation. Another possibility would be a 
+number of different possible resolutions of this issue. But I 
+think the point on which, if I can speak for him, also, the 
+Chairman and I feel most strongly is that it would be terribly 
+unfortunate if the debate over Shad-Johnson were just to 
+continue in a way that delayed resolution of the Shad-Johnson 
+question----
+    Senator Kerrey. I must respectfully disagree. We resolved 
+the one conflict and this is basically the CFTC and the SEC 
+fighting this thing out. That is what is going on here. We are 
+concerned about risk about insider trading, fraud, 
+manipulation, leverage and risk and potential temptation of 
+stock manipulation. We will factor all that into consideration 
+but at the end of the day, the SEC and the CFTC, they are going 
+to go into court and fight this thing out.
+    So we figured the one out, the derivative issue, the Ag 
+Committee figured that out, but now we have another issue that 
+is being raised on behalf of the SEC filing a lawsuit against 
+the CFTC. So on behalf of the Ag Committee and the CFTC, I have 
+to say that we have to do both of them together.
+    And if we were able to sort out and figure out what is best 
+for the consumer and what is best for financial risk, it seems 
+to me we ought to be able to do it on this issue, as well, and 
+we should before we move a piece of legislation.
+    Secretary Summers. It would certainly be very desirable to 
+achieve. It would certainly be very desirable----
+    Senator Kerrey. All the issues having to do with insider 
+trading, fraud, manipulation, leverage and risk and the issues 
+that Senator Gramm raised about having differentials in 
+margins, the insider trader issues that are different between 
+the SEC and the CFTC, all these, the tax problems, we have high 
+enough IQs to figure this out and it seem to me that we ought 
+to figure it out and we ought to include it in the legislation.
+    Mr. Greenspan. Senator, I think, without commenting on the 
+particular suit that you are raising, in this type of issue it 
+is a mistake to leave it to the courts to decide. The reason 
+basically is that what we are dealing with at this point is a 
+changing economy and the changing necessary regulatory 
+structure that would be required with it.
+    The courts, of necessity, are required to reach judgment on 
+existing statute and on existing precedent and indeed, what 
+they are effectively measuring is the judgments that the 
+Congress made in an earlier period. And it strikes me that it 
+is terribly important when dealing with an issue such as this 
+in a rapidly evolving financial industry that the Congress 
+should address it from scratch in a sense, to take a look at it 
+de novo and make judgments of an appropriate type to determine 
+what is the structure because there is no way that the courts 
+can do that; nor should they. They are there for a 
+fundamentally different purpose and to abandon a decision of 
+this nature to legal issues, in my judgment, is a mistake.
+    Senator Kerrey. I agree. Or to wait until we have put 
+another man on the moon. The last time we put a man on the moon 
+was before Shad-Johnson. That is the other thing we could do. 
+We could wait for another man to arrive on the moon and do this 
+thing.
+    I agree with you, Mr. Chairman. It seems to me that we have 
+enough information, we have good enough judgment that we ought 
+to be able to figure this thing out and we should. And I 
+personally would object to saying well, we will do the 
+derivatives, along with codifying the changes that the CFTC has 
+made in the regulation, but we are not going to resolve the 
+single-stock issue. We can do that, as well, and I think we 
+should.
+    The Chairman. Thank you very much, Senator Kerrey.
+    Let me just comment that Senator Kerrey deserves 
+congratulations, along with our colleague, Senator Roberts. 
+They were major proponents of a crop insurance risk management 
+bill that this committee worked on--tremendously complex 
+issues. And with our House components, the president signed the 
+legislation yesterday. It was not well heralded but it should 
+have been because it is a genuine achievement in a year in 
+which not much legislation is occurring that is complex and 
+that crosses a lot of boundaries.
+    So when the Senator from Nebraska speaks, we all listen and 
+he is energized this morning. I am grateful that, that is so.
+
+    STATEMENT OF ROBERT F. BENNETT, A U.S. SENATOR FROM UTAH
+
+    Senator Bennett. Thank you, Mr. Chairman.
+    I do not have the technical background to challenge any of 
+the discussion that has gone on. Let me ask a potentially 
+stupid but hopefully big picture question.
+    This situation is fraught with turf battles between the 
+CFTC and the SEC and we are going to hear from both of those 
+gentlemen in just a moment and each one will be very articulate 
+and eloquent in defending his own agency and his own position.
+    Do either of you have a big picture kind of sense as to 
+where this regulation, the center of gravity ought to come 
+down? Is this really an SEC kind of thing or is this really a 
+CFTC kind of thing? And should most of it be on one or most of 
+it be on the other?
+    Mr. Greenspan. I have just gotten laryngitis.
+    [Laughter.]
+    Senator Bennett. It is either a really dumb question or a 
+very good one.
+    Secretary Summers. It is a very good question.
+    Mr. Greenspan. Senator, I may just say whenever you make 
+those remarks I zip up my pockets and run.
+    Secretary Summers. It is a very good question and I am 
+seeking to draw on what I have learned from watching Chairman 
+Greenspan over the years to formulate a suitably vague, a 
+suitably extensively analytical but yet nondecisive answer.
+    Senator Sarbanes. In other words, you just got laryngitis, 
+as well.
+    Secretary Summers. I think the difficulty involves, and the 
+two chairmen will speak in a much more learned way to this than 
+I can, that what you are discussing is a future, which 
+naturally falls within the ambit of the CFTC. And the issues 
+that are of concern having to do with insider trading, having 
+to do certain kinds of market integrity, are issues that go 
+to--having to do with consumer protection--are issues that 
+really go to core SEC, what have been core SEC concerns for 
+many years. I think it is that dichotomy between where the 
+instrument would tend to naturally fall and where the concerns 
+would tend to naturally fall that creates the difficulty.
+    But it does, to borrow on the kind of analogies that have 
+been used before, it does strike me that a Nation that has been 
+as successful as ours has been at mediating conflicts in a 
+range of settings internationally ought to be able to find a 
+way of mediating the tensions that exist here. But I suspect 
+the right answers will not be ones that are heavily tilted to 
+either end of the spectrum.
+    Senator Bennett. Does that mean then that both regulators 
+will stay fully involved and anybody who is in this business is 
+going to be wondering from day to day which regulator is going 
+to come down hardest? Don't we want some degree of--you talk 
+about certainty; we talk about predictability--don't we want 
+some degree of unity here where you deal with one set of 
+regulations and you know that another regulator will not come 
+in and penalize you for having done that? Or can we really 
+split the baby and say they both still are in the arena?
+    Secretary Summers. At least in my judgment, Senator 
+Bennett, any formula that resolves this will be just as the 
+agreement that Chairman Greenspan and I reached with respect to 
+the operating subsidiary issue was one of very substantial 
+complexity and I think in some ways in that complexity lay its 
+strength. It was neither fully satisfactory nor fully 
+unsatisfactory to either of us and it enabled us both to feel 
+that our core concerns had been expressed.
+    I do think that a resolution which subjects these 
+transactions to the full weight of regulation of both agencies 
+would, for the reasons you suggest, be an unfortunate outcome. 
+I also think a resolution which subjects them to whichever was 
+the least regulation of the two agencies might well apply 
+substantial pressure in a negative direction.
+    So I think some more complex formula involving certain 
+kinds of joint rule-making might prove to be most effective. 
+But I think this is a question that is really better addressed 
+to the two agencies.
+    Senator Bennett. Thank you, Mr. Chairman.
+    The Chairman. Thank you very much, Senator Bennett.
+    Senator Schumer.
+
+ STATEMENT OF HON. CHARLES E. SCHUMER, A U.S. SENATOR FROM NEW 
+                              YORK
+
+    Senator Schumer. Well, thank you, Mr. Chairmen. I very much 
+appreciate this hearing on an issue that I am very interested 
+in. It obviously affects New York in a great many ways.
+    I think this proposal has potentially profound and dramatic 
+effects on our securities and future markets and I am 
+disappointed, frankly, with the bill's treatment of Shad-
+Johnson and giving the CFTC sole jurisdiction over single-stock 
+futures. I am not opposed to single-stock futures. If we do not 
+allow U.S. exchanges to offer them we could see them offered in 
+London or Tokyo. And in general, when the market comes up with 
+new types of products, my general view is let it rip. But the 
+regulatory framework has to be right and the President's 
+Working Group recommended that Shad-Johnson be repealed and 
+that single-stock futures be allowed to be traded if and only 
+if could achieve regulatory parity for futures and their 
+underlying equities.
+    There is no way with the SEC regulating one and the CFTC 
+regulating the other that we will have regulatory parity. They 
+are different types of regulators. They have a different 
+regulatory structure. And this bill creates regulatory 
+disparity by substantially different regulatory frameworks for 
+regulation.
+    We know why we are doing this. It is always a turf war, as 
+you gentlemen are very familiar with from last year's 
+discussion of financial futures, and neither side wants to give 
+us their turf. And, at the end, we come up with this topsy-
+turvy gyro gearless solution that satisfies turf needs and does 
+not make any sense from a regulatory point of view.
+    The SEC has always been charged with protecting investors 
+and providing full and fair disclosure of corporate market 
+information and preventing fraud and manipulation. The CFTC 
+regulates commercial and professional hedging and speculation 
+in an institutional framework. CFTC cannot regulate insider 
+trading. Margin requirements are different. I hate to see 
+investors shopping as to which instrument to use or to buy for 
+that reason. So neither regulation nor the lack of it should 
+pick winners and losers among products or exchanges and fair 
+competition should.
+    Simply put, to me, the SEC cannot fulfill its legal 
+obligation to oversee the securities markets if single-stock 
+futures, which will likely have significant effect on the 
+securities markets, are solely regulated by the CFTC.
+    And today I am going to introduce legislation that would 
+provide for joint jurisdiction of single-stock futures by the 
+SEC and the CFTC, that will create a fair framework for trading 
+these products while minimizing the regulatory burden on the 
+exchanges. Specifically, it would only apply to core securities 
+laws--anti-fraud sales practice requirements and harmonize 
+margin levels to single-stock futures. I think this represents 
+a fair compromise and I would like to work with the Chairmen of 
+both committees, as well as you gentlemen, to deal with that 
+issue.
+    So having stated my views somewhat strongly, because I feel 
+strongly about the issue, I would like to ask both Chairman 
+Greenspan and Secretary Summers your view of whether the 
+present bill provides a fair and even regulatory framework, 
+specifically whether the President's Working Group 
+recommendations, that we repeal it only if we could achieve 
+regulatory parity for futures and their underlying equities--
+that is the President's own Working Group statement--is met in 
+the bill that was introduced by my two men I greatly respect 
+and work with, Chairman Gramm and Chairman Lugar.
+    So since it is the President's Working Group, I will call 
+on Secretary Summers first.
+    Secretary Summers. Thank you. As I have said a number of 
+times, Senator Schumer, we think there are a range of possible 
+outcomes that would be consistent with this bill advancing the 
+national interest, first.
+    Second, if I might just refer back to the analogy that you 
+had used of the issues that the Chairman and I worked through 
+successfully last year, I think it is tempting for those 
+looking on to these issues to see only concerns of turf, but in 
+that issue there were real concerns on both sides having to do 
+with spreading safety nets on the Fed side, having to do with 
+business choice on our side. And similarly with respect to this 
+issue, I think we are not fair to our colleagues in the two 
+agencies if we do not recognize that there were real issues of 
+principle that the agencies feel strongly about that go totally 
+behind and are outside of any question of turf that are 
+involved in these issues.
+    I have not studied as fully as I could the provisions, the 
+precise provisions of the bill as currently written but I think 
+I speak for all of us in saying that we would be more 
+comfortable with a resolution in which the SEC could feel that 
+its core interests with respect to insider trading and consumer 
+protection were addressed, and my understanding is that they do 
+not have that feeling about this legislation as it currently 
+stands.
+    On the other hand, I would hasten to stress I think it is 
+very important that there be an outcome here and that this 
+issue be resolved in a mutually satisfactory way and I would 
+not want to see us adopt a posture of handing the ability to 
+hold this issue hostage to multiple different parties and 
+therefore delaying forward movement on the OTC certainty 
+portion.
+    Mr. Greenspan. I agree with what the Secretary said and I 
+think that as you said, Senator, time is crucial here because 
+if the two agencies cannot work it out or if the Congress 
+cannot work it out, foreigners will. It is not a question of 
+whether or not there will be single-stock futures out there it 
+is only: traded where? And unless this issue is resolved, if it 
+is continuously debated endlessly, the issue will get resolved 
+but not to our advantage.
+    I think that Secretary Summers and I have recognized that 
+the Chairmen of the SEC and the CFTC are far more knowledgeable 
+than either of us on the technical details and the 
+ramifications and the unintended consequences of various 
+different types of stipulated regulatory structures and there 
+are certain types of issues which that type of expertise is 
+just not substitutable by just people's off-the-top-of-their 
+head opinions which, in my case, it would be the case.
+    So I sort of am looking to the two of them to get the issue 
+resolved because if they resolve it, in my judgment, I will 
+feel comfortable that there are no latent secondary 
+consequences that the less informed on these issues would 
+endeavor to miss.
+    Senator Schumer. I would just say, and I could not agree 
+with you more, that they ought to be resolved between the two 
+agencies. I will not ask you this but it seems to me that the 
+legislation introduced does not really attempt to resolve those 
+issues but rather, just goes to one side.
+    And I would ask both of you to use your good offices. You 
+do not have the expertise that the two agencies have. On the 
+other hand, you are both very bright people who understand 
+financial markets and who do not have, because maybe not all of 
+this is turf--clearly it is not--but it not that none of it is 
+turf. And we can argue about whether it is 50/50, 80/20, 20/80, 
+but I think you are both going to be needed to come up with 
+some kind of compromise that allows us to go forward with 
+single-stock futures which is, as I said, something I support, 
+but do it and avoid regulatory arbitrage.
+    I mean for instance, just on margins, almost inevitably you 
+will have people go to the less regulated market if you have 
+such disparities between the regulation between the one and the 
+other, and that may be a desirable outcome, it may not, but we 
+ought not to come to that conclusion by default.
+    We need your help. Both of you are reluctant to mix in but 
+my guess is we are not going to come up with a proposal that 
+both sides can work unless some folks like yourselves mix in. I 
+am gloomy about passage for this year unless some outside 
+forces help work out a compromise.
+    The Chairman. Let me just thank you very much, Senator, and 
+commend you for that request of our two witnesses. I would 
+share that desire for counsel and likewise, your own counsel 
+with regard to this.
+    I am not so gloomy. I think we need to proceed and before 
+introducing Senator Grams, I just want to mention I just 
+received word that the House Subcommittee on Risk Management 
+and Specialty, perhaps stimulated by our hearing this morning, 
+has announced a mark-up for tomorrow on their bill.
+    Senator Gramm. They have obviously solved all these 
+problems.
+    The Chairman. The full committee, Agriculture Committee of 
+the House, will mark up their work next Tuesday, so that offers 
+at least some incentive for us to move ahead.
+    Senator Grams.
+
+   STATEMENT OF HON. ROD GRAMS, A U.S. SENATOR FROM MINNESOTA
+
+    Senator Grams. Thank you very much, Mr. Chairman.
+    Gentlemen, thank you for being here, of course. Just a 
+couple of brief questions. I know you have been at the panel 
+for a long time this morning.
+    Chairman Greenspan, you indicated in your statement that 
+over-the-counter derivatives could remain free from regulation 
+so long as the transaction involved professional 
+counterparties. How do you define professional counterparties?
+    Mr. Greenspan. There are legal definitions of that but 
+essentially, somebody who is in the business of dealing with 
+securities and has sufficient net worth to segregate them from 
+what we would want to determine are retail customers whose 
+basic activities do not give them the level of knowledge which 
+people who are in the business have. By professional, we mean 
+somebody who is a professional securities or commodities 
+person.
+    Of necessity, it is clearly a somewhat arbitrary legal 
+definition, but indeed in legislation and in regulation, we do 
+make those distinctions and we make them in a very rigid form. 
+We do not always get it exact, but for 98-percent of the 
+problem that we would have with respect to making that 
+division, I suspect we are successful.
+    Senator Grams. And second, we go to some length to try to 
+assure that stock futures have a similar type of oversight as 
+do the stock options. This gets to the heart of the Shad-
+Johnson debate. When we turn our attention to legal certainty 
+for OTC derivatives, do we need to have the same level of 
+oversight for the over-the-counter swaps involving stocks or 
+other forms of equity?
+    Mr. Greenspan. Well, I think that if the basic purpose is 
+to have a sound market, the first judgment you have to make is 
+does the market structure itself have in it the means for 
+stabilization? In other words, as the issue I raised before, it 
+has been our experience that having effective counterparties in 
+transactions, people who understand the financial statement of 
+the people with whom they are dealing is unquestionably the 
+most important aspect which keeps risk at a minimum level in 
+the system.
+    Regulation can only substitute at the margins and oversee, 
+so far as over-the-counter securities are concerned, in a 
+professional manner very broad notions of guarding against 
+systemic risk. When you get to questions of retail markets, it 
+is a wholly different issue and I think there is general 
+agreement amongst all of us about how that should be handled.
+    Our major concern is to make certain that these very 
+effective over-the-counter derivatives markets which have been 
+so important to the financial development of this country can 
+operate in the most effective manner. In our judgment, that is 
+best maintained with a minimum of regulation, largely because 
+any regulation which is imposed, which would undercut 
+counterparty surveillance does, far more damage than good.
+    Senator Grams. Thank you, Mr. Chairman.
+    Secretary Summers, we have heard this morning about losing 
+derivative markets to Europe. If this bill passed, the legal 
+environment for derivatives?
+    Secretary Summers. I should give you a detailed answer, a 
+more detailed answer than I can give you right now to that 
+question in writing. But the core of that answer would be that 
+the failure to pass this bill would create a situation where 
+derivatives contracts entered into in the United States would 
+be subject to more risk, to be sure, an extremely remote risk, 
+but more risk of being arbitrarily unwound because of a 
+regulatory action than in Europe.
+    And in a world where it is easy to change the location at 
+which contracts are booked, that residual uncertainty could 
+become an important feature of competitive disadvantage. So the 
+core of the answer would be greater residual uncertainty 
+associated with OTC swaps in the United States.
+    Senator Grams. Maybe if you can provide a more detailed 
+written answer.
+    And just one final quick question. In your concern, 
+Secretary Summers, about exempting swaps from securities laws, 
+are you suggesting that all swaps be given the same treatment, 
+regardless of the underlying financial instrument involved?
+    Secretary Summers. No. I am suggesting that one craft the 
+set of provisions that are necessary to assure that--I think 
+the most prominent examples of this will be those that involve 
+individual equities--that one craft the minimal set of 
+provisions that assures that there will not be circumvention of 
+the existing regulatory protections with respect to the factors 
+that we have enumerated--insider trading, manipulation, fraud, 
+and protection of retail investors.
+    There are also, and this is not something we have commented 
+on so far, there are also certain questions having to do with 
+the technical definition of a swap in portions of this 
+legislation which on some readings could lead it to be called a 
+swap if a transaction took place in what we today regard as 
+ordinary financial instruments on an off-exchange basis and 
+would therefore nullify the regulation that would apply to 
+that. That is a concern that we believe should also be 
+addressed in clarifying the language that is contained in these 
+provisions.
+    It is not my impression that, that is anyone's intent and 
+so we do not believe that should be a difficult clarification 
+to accomplish.
+    Senator Grams. Thank you very much, Mr. Chairman.
+    The Chairman. Thank you very much, Senator Grams.
+    Secretary Summers, Chairman Greenspan, we are grateful to 
+you for your testimony, for your forthcoming responses to our 
+questions, and we look forward especially in these next few 
+days to working with you and your associates very carefully. 
+Thank you very much for coming.
+    The Chair would like to call now the Chairman of the SEC, 
+Mr. Arthur Levitt, and the Chairman of the CFTC, Mr. William 
+Rainer.
+    We are grateful that the two Chairmen are with us. We 
+appreciate your being here to hear the testimony that has 
+preceded yours, but we look especially to your thoughts this 
+morning and I would like to call upon now Chairman Levitt for 
+his testimony.
+
+STATEMENT OF HON. ARTHUR LEVITT, CHAIRMAN OF THE SECURITIES AND 
+              EXCHANGE COMMISSION, WASHINGTON, DC.
+
+    Mr. Levitt. Chairman Gramm, Chairman Lugar and members of 
+the Committees, thank you for the opportunity to address the 
+Committees concerning Senate Bill 2697. This bill would provide 
+important legal certainty for over-the-counter derivatives and 
+would lift the ban on single-stock futures. As you know, the 
+Commission fully supports both of these objectives. In other 
+important respects, however, I believe that the bill presents a 
+number of serious risks to the investing public and to our 
+securities markets.
+    As we consider the implications of the bill, it serves us 
+well to remember both the wisdom embodied in our securities 
+regulatory framework and the extraordinary prosperity it has 
+fostered. Its wisdom, I think, is simple--a recognition that 
+protecting investors is not just the right thing to do, but the 
+smart thing to do; that it is investor confidence that 
+ultimately fuels competition, that vibrant markets rest on a 
+foundation of integrity. I strongly believe that the 
+unequivocal commitment to protecting investors made by your 
+predecessors and mine has been critical to the success our 
+securities markets have enjoyed for more than half a century.
+    The bill before you, consistent with the Working Group's 
+recommendations, goes a long way towards providing greater 
+legal certainty for over-the-counter derivatives by excluding 
+certain products from the Commodity Exchange Act.
+    The bill, however, goes well beyond this objective. Indeed, 
+it would place all swap agreements beyond the reach of the 
+securities laws. In doing so, it might result in a wholesale 
+removal of SEC oversight of a wide array of securities 
+products.
+    For example, one could potentially avoid long-established 
+investor and market integrity protections applicable to equity 
+securities by merely documenting an equity transaction as a 
+``swap.'' In my judgment, the risk of this regulatory approach 
+is simply unacceptable for America's investors. Moreover, I 
+think there is no apparent public policy justification for this 
+far-reaching provision.
+    The bill also lifts the ban on single-stock futures 
+contained in the Shad-Johnson Accord. I certainly have no 
+interest in justifying the historical origins of that ban here 
+today. I have made clear my view that market demand--and not 
+regulatory fiat--should determine the availability of 
+investment vehicles. But I would hope we face squarely the fact 
+that single-stock futures are an economic substitute for the 
+underlying security. We should not ignore the fabric of 
+protections that retail securities investors rely upon and the 
+confidence that these protections engender.
+    Some may dismiss this concern as a guise for protection of 
+turf. I assure you, the questions surrounding how best to 
+ensure that regulatory disparities do not erode investor 
+confidence are profoundly serious and substantive to me.
+    Chairman Rainer and I, and our staffs, have spent a great 
+deal of time exploring how single-stock futures might trade. 
+Although we did not reach agreement on all aspects of a 
+regulatory framework, we did agree that we should jointly 
+regulate these products. Building upon that recognition, my 
+staff has crafted a plan under which these products could 
+trade. In my judgment, an enduring regulatory framework must 
+have the following elements.
+    First, single-stock futures are undeniably a substitute for 
+stocks and stock options. Thus, the framework must recognize 
+the legitimate interests of both the SEC and the CFTC in 
+regulating these products.
+    Second, the framework must encourage fair competition among 
+markets by, for example, including mechanisms to harmonize the 
+regulatory requirements across the securities and commodities 
+markets, particularly those related to margin. Competitive 
+market forces, rather than government regulation, should pick 
+winners and losers.
+    Legislation also should facilitate the listing of the same 
+single-stock futures on multiple exchanges. This avoids any one 
+market having an exclusive franchise by forcing all markets to 
+compete for investors' business. The history of our securities 
+markets makes it crystal clear that vibrant competition between 
+markets is the surest path to protecting investors as well as 
+the guardian of our global competitive edge.
+    Third, the framework must acknowledge that single-stock 
+futures will be retail products. While extremely complex 
+derivative products might not attract retail customers, a 
+simple future on a share of a blue chip stock is the type of 
+product that is sure to do so. Investor protection is therefore 
+essential, as is clear and direct SEC authority over market 
+participants that trade single-stock futures.
+    The alternative is neither workable nor wise. Consider for 
+a moment a corporate insider who learns that his company is 
+about to receive an unsolicited bid to be taken over. The 
+insider buys a substantial amount of single-stock futures on a 
+futures exchange and earns huge profits on the transaction, 
+which he plans to send to an off-shore bank.
+    Without direct authority over the futures exchange and 
+direct access to the information we need to detect insider 
+trading, the SEC might learn of the futures purchase by the 
+insider either late or never. Even if the SEC was notified of 
+the suspicious futures transactions, our enforcement staff 
+would be forced, under the current bill, to seek CFTC 
+permission to proceed. Needless to say, enforcement is an area 
+where dispatch is essential and delays are fatal to the cause 
+of securing relief.
+    Or consider the disparity in obligations that would apply 
+to a broker authorized to sell both stocks and single-stock 
+futures to clients. If he sells the future, he need provide no 
+more than a one-time risk disclosure document that, in effect, 
+tells customers that futures are risky. If he sells the stock, 
+on the other hand, he takes on a duty to tailor the 
+recommendation to the specific needs of the client. One does 
+not have to be a cynic to spot his incentive to sell the 
+product offering less protection and it is hardly apocalyptic 
+to recognize the danger. Should the protections given a 
+brokerage client really depend on which product the broker 
+chooses to sell? Ignoring these obvious questions today, it 
+seems to me, will almost certainly result in disillusioned 
+investors tomorrow.
+    Finally, the framework must avoid any harm to existing 
+capital markets. In lifting the ban on single-stock futures and 
+reopening jurisdictional issues, legislative changes should not 
+take away existing SEC authority over financial products. The 
+Shad-Johnson Accord clarified the SEC's jurisdiction over 
+securities options, and that jurisdiction should not be 
+diminished in any way. Nor should legislation eliminate the 
+SEC's existing role in evaluating products such as stock 
+indices.
+    Achieving these four principles will leave U.S. markets for 
+these products better positioned to compete against their 
+foreign counterparts. As markets around the world compete for 
+customers and capital, one overriding principle will serve as 
+our competitive advantage: the quality of our markets. 
+Unfortunately, as written, the bill ultimately does not 
+vindicate those principles.
+    I look forward to providing additional technical assistance 
+to help you reach the right answer for our markets. Thank you.
+    [The prepared statement of Mr. Levitt can be found in the 
+appendix on page 73.]
+    The Chairman. Thank you very much, Mr. Chairman.
+    Chairman Rainer.
+
+STATEMENT OF THE HON. WILLIAM RAINER, CHAIRMAN OF THE COMMODITY 
+          FUTURES TRADING COMMISSION, WASHINGTON, DC.
+
+    Mr. Rainer. Thank you, Chairman Lugar, Chairman Gramm, 
+Senator Sarbanes, Senator Harkin and Members of the Committee. 
+I am pleased to appear before you this morning and thank you 
+for inviting me as I represent the CFTC.
+    The Commission commends your efforts to modernize the 
+Commodity Exchange Act and to provide legal certainty for over-
+the-counter derivatives, remove impediments to innovation, and 
+to reduce systemic risk. This bill responds to the President's 
+Working Group's request for urgent legislative action on its 
+recommendations so that the U.S. may retain its leadership in 
+these rapidly developing markets.
+    The Commission welcomes your proposal to enhance legal 
+certainty for over-the-counter derivatives by excluding from 
+the CEA certain bilateral transactions enter into on a 
+principal-to-principal basis by eligible parties.
+    The market for derivatives has expanded dramatically over 
+the past two decades as financial institutions rely 
+increasingly on these transactions to manage interest rate and 
+foreign exchange risk.
+    The Commission has reservations, however, about the bill's 
+exclusion of OTC energy derivatives from the CEA and I would 
+like to take a moment to expand on that if I may. On this point 
+the bill diverges from the recommendations of the President's 
+Working Group, which limited the proposed exclusion to 
+financial derivatives. The Commission believes the distinction 
+drawn by the Working Group between financial and nonfinancial 
+transactions was a sound one and respectfully urges the 
+Committees to give weight to that distinction.
+    Most dealers in the financial swaps market are either 
+institutions subject to supervision by bank regulatory agencies 
+or affiliates of broker-dealers regulated by the SEC or 
+affiliates of FCMs subject to CFTC oversight. The same cannot 
+be said of trading in energy derivatives. The decision to 
+extend the exclusion in 2697 to energy derivatives would leave 
+these OTC products in a regulatory gap neither directly 
+regulated as financial products nor indirectly regulated by an 
+agency with jurisdiction over commercial participants in the 
+energy market.
+    The Working Group's recommended exclusion from CEA for 
+financial contracts focussed on the facts that such contracts 
+are not susceptible to manipulation and do not serve a price 
+discovery function. The consensus exists within the markets and 
+among financial regulators that trading in financial OTC 
+derivatives is not susceptible to manipulation. That case has 
+not been made with energy products.
+    The unanimous recommendation for an exclusion for financial 
+products resulted from months of deliberation by Federal 
+financial regulators. No comparable coordination has occurred 
+between the CFTC and any of the other Federal entities and 
+programs with jurisdiction over cash markets for energy. An 
+exclusion for trading in energy contracts may create incentives 
+for existing exchanges to convert to restricted, institutional 
+markets or, more likely, may lead large traders to migrate to 
+unregulated markets. Either event would threaten the important 
+price discovery role played by regulated energy futures. A step 
+of this magnitude should be preceded by public discussion.
+    The CFTC therefore believes that there is insufficient 
+evidence to support the bill's exclusion of energy products. 
+Regulatory relief is more appropriately provided through the 
+commission's exemptive authority. We have a substantial history 
+of responsiveness in this area.
+    For example, the commission's staff has issued two no-
+action letters within the past 6-months to electronic trading 
+platforms, the sponsors of which include several of the largest 
+participants in the energy markets. And, as the Committees are 
+aware, bilateral OTC energy trading between commercials, 
+dealing with each other on a principle-to-principle basis, has 
+been exempted from all but anti-manipulation provisions of the 
+CEA since 1993.
+    As the discussion over the treatment of energy commodities 
+progresses, the Commission will be pleased to continue working 
+with the Chairmen and members of these committees to find an 
+acceptable resolution of this issue.
+    The Commission supports 2697's exclusion for electronic 
+trading facilities for OTC financial derivatives which will 
+promote an environment in which innovative systems can flourish 
+without undue regulatory constraints. Electronic trading 
+systems have the potential to foster efficiency and 
+transparency and such systems should be permitted to develop 
+unburdened by an anticipatory regulatory structure.
+    The bill also permits clearing of OTC derivatives and 
+authorizes a mechanism for the CFTC to regulate facilities that 
+clear OTC derivative contracts. Again the President's Working 
+Group specifically recommended removing the legal obstacles to 
+the development of appropriately regulated clearing systems to 
+reduce systemic risk, and we support this recommendation with 
+the following reservation. The bill would allow securities 
+clearinghouses to clear a broader range of contracts than 
+futures clearinghouses. Futures clearinghouses would have to 
+register in a dual capacity--as futures and as securities 
+clearinghouses--to clear the same mix of contracts available to 
+securities clearinghouses holding a single registration. By 
+declining to grant futures clearinghouses equal opportunity to 
+compete, the bill may put the Government in the position of 
+determining winners and losers. We recombined that the 
+Committees avoid placing futures clearinghouses at a 
+competitive disadvantage.
+    The Commission supports the bill's revision of the Treasury 
+Amendment to make clear our jurisdiction over transactions 
+entered into between retail customs and unregulated entities, 
+including so-called bucket shops. We have long sought legal 
+clarity in this area in order to protect fully the public from 
+foreign currency fraud.
+    Earlier this month the Commission approved for publication 
+in the Federal Register its comprehensive regulatory reform 
+package which alters fundamentally the Commission's regulation 
+of futures and options markets. This bill attempts to codify 
+much of the Commission's regulatory reform proposal and we 
+welcome your support of the Commission's initiative.
+    The CFTC staff is undertaking a comparative analysis of our 
+proposed framework as released on June 8 and the relevant 
+provisions of this legislation and we would be pleased to 
+submit the results of that review to the Committees in the very 
+near future.
+    S. 2697 addresses the issue of equity futures contracts and 
+reflects efforts to develop a plan to amend the Shad-Johnson 
+Accord. The Working Group recommended, as we have heard a lot 
+today, that the CFTC and SEC work together to determine how the 
+accord should be amended. We agree in principle that equity 
+futures should be available to the marketplace. Agency staffs 
+have agreed on many specific areas related to lifting the ban, 
+such as harmonizing margin requirements, restricting dual 
+trading, testing for sales and supervisory personnel, 
+establishment of uniform listing standards for single-stock 
+futures, among others, such as notice registration for 
+exchanges and intermediaries. We acknowledge, however, a 
+fundamental disagreement concerning the appropriate legislative 
+approach.
+    The CFTC has sought to avoid creating a framework that 
+potentially could result in overregulation of markets and 
+intermediaries and therefore have advocated identifying those 
+core principles from each regulatory regime necessary to ensure 
+an appropriate level of oversight for trading these products. 
+While the agencies agreed that duplicative regulation must be 
+avoided, the CFTC staff expressed concern that an ``umbrella'' 
+approach, meaning the application of the panoply of both 
+securities and commodities regulations to these products, could 
+result in overburdensome regulation. The SEC staff insists that 
+defining equity futures products as securities is essential to 
+its regulatory functions. This fundamental difference in 
+approach has led an impasse.
+    With respect to this bill, S. 2697, we, the CFTC, have no 
+objection to the Shad-Johnson provisions that bear on 
+regulatory issues related to the CFTC's oversight of single-
+stock futures.
+    Again we appreciate the opportunity to present our views 
+and I will be happy to answer questions. Thank you.
+    [The prepared statement of Mr. Rainer can be found in the 
+appendix on page 85.]
+    The Chairman. Well, thank you very much, Mr. Chairman.
+    Let me just begin this round of questions. We will have a 
+5-minute limit again for Senators to raise questions with 
+witnesses.
+    Chairman Levitt, you mention in your testimony that the 
+Commission staff of the SEC has prepared a discussion draft 
+that incorporates the legislative goals that you have 
+enumerated in your testimony with regard to the single-stock 
+option situation, Shad-Johnson Accord repeal.
+    Unfortunately, given the pendency of this bill, as well as 
+bills in the House, the CFTC has not apparently had a chance to 
+review or comment on our draft in detail.
+    Chairman Rainer indicates, not really to respond to that, 
+that there appear to be some fundamental disagreements with 
+regard to regulation or overregulation, a panoply or umbrella, 
+as he discussed it.
+    I am just simply curious really, to both of you. It is 
+obvious this is important legislation. The Committee has been 
+intent upon moving toward conclusions and we appreciate the 
+discussions that you have held and cited the meeting of May 23 
+with Chairman Gramm and myself in which you indicated you have 
+been making headway but, as you stated last winter, I guess, it 
+was going to be this winter before you could arrive at it.
+    This is not meant, I am certain, to be disrespectful to the 
+Committee or to show a casual approach but it should have been 
+apparent to the two of you that we are intent upon passing a 
+bill.
+    Now, is the strategy you have in mind to stop the bill? Is 
+really your intent simply to indicate to members of the 
+Congress that whatever we have is unacceptable and therefore 
+you are prepared to continue at your own pace, sort of in your 
+own sweet time, to work it out--November, December, January, 
+whenever you get around to it?
+    In other words, I really cannot understand, given the 
+gravity of this situation of markets in the United States and 
+the intent of this committee to try to work with the Banking 
+Committee, why the two of you and your commissions are not 
+equally arduous, have not set a priority to get on with it and 
+to come to agreement.
+    Now obviously you have not, so we have. Now, you objected 
+to that and indicated that you are still passing papers back 
+and forth, but you are not listening to each other apparently 
+or have no intent upon reaching an agreement.
+    I just ask simply why not?
+    Mr. Levitt. Mr. Chairman, I respect the effort you have put 
+into this, and I certainly share your feeling about the 
+importance of aspects of this bill. I think Chairman Rainer and 
+I have worked very hard, as have our staffs, on dealing with an 
+issue that most of the members of the Committee agree is 
+terribly complex issues that we have not, of our own volition, 
+raised, issues that we have inherited, that courts have dealt 
+with and others have argued about for a quarter of a century.
+    I think that had we a greater amount of time, we could move 
+further toward a solution. But when, as you full well know, you 
+have the political imperatives of the process that we have, 
+together with constituent pressures, together with agency 
+habits and traditions, that makes it difficult. But I honestly 
+believe that, because of the nature of the relationship of the 
+Chairs that sit before you, we certainly do not wish to 
+frustrate the Congress or the bill. But I would say to you in 
+fairness that I regard one portion of the bill with respect to 
+certainty--legal certainty for derivatives--as being absolutely 
+critical to the national interest.
+    I place a lower priority with respect to Shad-Johnson, even 
+though I firmly support giving up the prohibitions of Shad-
+Johnson. But one is a matter, in my judgment, of great national 
+economic necessity; the other simply is not.
+    The Chairman. Chairman Rainer, do you have a comment?
+    Mr. Rainer. Yes, thank you.
+    First of all, from the CFTC's perspective, your bill is one 
+that we do not object to. We think that our interests, the 
+CFTC's interests, are adequately covered by the bill.
+    However, as you know, I have said several times that we 
+recognize the legitimate interest of the SEC and we think that 
+it would be very important for the structure that goes out the 
+door to be one that both agencies can support.
+    I guess that the longer story is that we have two wonderful 
+industries--the securities industry, with its exchanges and 
+associations, and the futures industry--and they have grown up 
+in different regulatory environments. It would be one solution 
+for the CFTC to walk away from what I consider its obligation 
+and say well, just let the SEC do it. What happens there is you 
+have opened up a potentially large--we've used the word unlevel 
+playing field several times, but a large unlevel playing field 
+because the apparatus, the costly regulatory apparatus in place 
+with the futures industry is not organized to meet SEC issues.
+    And I felt that the CFTC should do everything it could to 
+analyze those issues that would be duplicative, that we they 
+already do a good job meeting regulatory tests, and we simply 
+have not had time using the SEC approach to make sure that any 
+recommendation that the CFTC endorses for these committees is 
+the recommendation that is the least cost approach and does not 
+attach unnecessary costs.
+    Now, if there are burdens that are necessary, so be it. 
+That is just the way it is. But we have not been able to find 
+that answer yet.
+    The Chairman. Well, I thank both of you for those 
+thoughtful responses.
+    Chairman Levitt, I just disagree with you profoundly that 
+there is one aspect of this bill that has national interest. 
+That dismays me with regard to the thought about the markets in 
+this country, the importance of this. That is, I think, a very 
+narrow view, but it is an interesting one, one that you hold 
+strongly, but it leads me to believe that we have a problem 
+here.
+    Now, there is going to be a presidential election, a 
+congressional election. We may have a different president--
+probably will have, given the fact that there are two different 
+candidates running, no incumbent. A lot of new cabinet people, 
+a whole new working group, maybe some new appointees to 
+regulatory commissions, a lot of new Senators, maybe new 
+chairman.
+    Senator Gramm. Now wait a minute. You have gone too far.
+    The Chairman. Phil will still remain.
+    But it is not a cavalier approach that somehow this can all 
+be settled out in the fullness of time, given the agencies' 
+ability, their staffs to get together, to shuffle the papers 
+and think through the issues. I am confounded. This has gone on 
+for months.
+    We have had five different hearings here. We have had all 
+sorts of sessions about emergencies. So we finally come to a 
+meting and everybody is asking Chairman Greenspan, Secretary 
+Summers, to get the two of you together and somehow mediate 
+this dispute, to give their judgment. Chairman Greenspan gets 
+laryngitis at the thought of trying to mediate what seems to 
+have been an impossible predictable in Washington to do. So 
+this committee is going to try.
+    Now, you can try to stop us if you want to but by and 
+large, I think the public interest is on our side, and I hope 
+you get that picture.
+    Mr. Levitt. Mr. Chairman, I have absolutely no interest in 
+trying to frustrate the will of the Senate, but I think we must 
+recognize that what is happening in this bill with respect to 
+Shad-Johnson is taking basically an institutional product, a 
+product that has been used by professional investors, and 
+turning it into a retail vehicle.
+    At this level of the market, with the amount of leverage in 
+our system today, for me to look away from the responsibility 
+of protecting a different segment of the market than is now 
+available to these products would be irresponsible, in my 
+judgment. That is not a political judgment; that is a 
+conviction based upon my years in the securities industry and 
+my firm belief that there are limits to regulation, but that 
+protection of that individual investor is fundamental to the 
+glorious success of our equities markets.
+    And I must raise my hand if I feel that those interest are 
+being jeopardized. I believe that a Shad-Johnson bill allowing 
+investors to buy a leveraged product of that kind without the 
+basic protections that the securities laws have provided 
+through the years is just unacceptable.
+    The Chairman. Thank you.
+    Senator Gramm.
+    Senator Gramm. Mr. Chairman, thank you. I will be brief.
+    I want to thank each of you for appearing today and for 
+your hard work as we try to put the bill together.
+    Obviously, it is easy for us to ask ``why can't these two 
+guys get together and work this thing out?'' Now, I can work 
+out anything with anybody, but there are people who think they 
+have trouble working things out with me, so I have some 
+understanding of your problem.
+    I also understand that you are representing institutions 
+that have long and proud histories, and I also understand the 
+basic fact that part of what your staff is doing, and they are 
+going to be there long after you are gone, is protecting their 
+jurisdiction, their turf, and their jobs. I never understood 
+jurisdiction till I became the Chairman of a committee. I now 
+understand it very, very well. And if I forgot it, my staff 
+would remind me.
+    The only point I want to make is that this is an important 
+bill. It is easy for each of us to go down the list of items in 
+the bill and identify what we think is the most important. I 
+have my own set of priorities, but my guess is that if we are 
+going to have any success, we have to move forward with the 
+overall thrust of the bill.
+    Now, the only plea I would make--a plea instead of a 
+question--is that as we continue to move forward and work on 
+this, both of you and your two agencies continue to work 
+together. I would like to ask each of you formally to give us 
+your review of the bill and your proposed changes so that we 
+can go ahead and do the things we can agree on.
+    And, as we go through the legislative process, if you would 
+continue to pray over this thing, in an effort to work it out. 
+Also please think about the possibility of a mandate, similar 
+to the provision that we are now talking about in terms of 
+harmonization of margins, where we give the Federal Reserve, 
+working with your two agencies, the ability to set regulations 
+that harmonize margins. It may very well be at some point that 
+the best we can do--unless our prayers are answered and you 
+work these things out in advance--is to establish a mechanism 
+for you to work them out.
+    My fear is double regulation. I think that in some areas, 
+the SEC has expertise that ought to dominate in this market. I 
+do believe futures on individual stocks are predominantly 
+equities. What I would like to be able to do is work out a way 
+of sharing jurisdiction in those areas where you have a 
+legitimate legislated interest.
+    So continue to work it out. Think about ways we might 
+actually set a mandate in place that it be worked out in the 
+future if, all else failing, that is the only way we can do it. 
+It is not a terribly good way to legislate, but it is often 
+better than not legislating when there are other major items.
+    So Mr. Chairman, I want to thank you and the heads of our 
+two agencies.
+    The Chairman. Thank you, Senator Gramm.
+    Senator Sarbanes.
+    Senator Sarbanes. Mr. Chairman, I want to sort of sound 
+some words of caution here. First of all, it seems to me that 
+the quickest way to get to a solution may be to continue to 
+push hard on the track of the two chairmen before us working 
+out between themselves a resolution of this matter. That 
+essentially is what, I think, both Chairman Greenspan and 
+Secretary Summers suggested.
+    I am mindful of what Senator Gramm said at the outset, that 
+at this point in the legislative process, it is going to be 
+very hard to move legislation through if it does not rise to 
+the level of consensus.
+    Now, I happen to think that this perspective that is being 
+imposed on this difference that it is just a turf war, a fight 
+over jurisdiction, misses the mark. I frankly do not attribute 
+that basic motivation to either of these two chairmen that are 
+now before us and they obviously have a public interest to 
+serve that transcends any jurisdictional or tough turf 
+considerations. I do not think this can be viewed as well, we 
+have met the CFTC interests but we have not met the SEC 
+interests, or vice versa. The question is have we met the 
+public interest? And the premise, I think, with which most of 
+us are approaching it is that if the two agencies can reach an 
+agreement, that it is highly likely that the public interest 
+has been met, although obviously we will review that. We do 
+not, in the end, give away that judgment. But that 
+significantly heightens the ability to conclude that the public 
+interest has been met and I think investor protections are very 
+important.
+    It is all fine to talk about this thing prospectively but 
+if we do something that, in the end, results in eroding or 
+undermining the investor protections that have been at the 
+heart of making the U.S. security market so attractive and the 
+leaders worldwide, we have done real harm and real damage.
+    Now, it seems to me it ought to be possible to move ahead 
+on this issue without jeopardizing that important 
+accomplishment, which has sustained not only our markets but, I 
+think, been a tremendous boost to the functioning of our 
+economy. And if we are now going to move off on a legislative 
+path and, in effect, bring to a halt or sort of undercut the 
+effort for the agencies to see if they cannot reach an 
+understanding, and I gather they have made some progress; is 
+that correct? I gather from what you have both said you have 
+made progress from when you started out wrestling with this 
+issue. Am I correct in that assertion?
+    Mr. Rainer. That is a very safe assertion.
+    Senator Sarbanes. All right.
+    So I think that sometimes haste makes waste. Obviously if 
+there is an agreement amongst the president's committee, all 
+four of the people who appeared this morning, in the light of 
+such an agreement, it ought to be possible to move pretty 
+quickly here in the Congress.
+    Now, how quickly you can move in the Congress if you do not 
+have that agreement is another question, which I think we need 
+to be very mindful of because the issues that are at stake 
+here, in my perception, at least, are not simply some kind of 
+turf fight and we ought to sort of dismiss one or the other or 
+come down hard on both. They are issues that go to very 
+important national and public interests and I think we need to 
+be mindful of that every step of the way.
+    Thank you very much.
+    The Chairman. Well, thank you very much, Senator Sarbanes. 
+Let me just comment that I agree with you. Very clearly the 
+work of the Agriculture Committee and the Banking Committee, 
+working with the SEC and CFTC, has been to not only protect the 
+integrity of the markets, to offer protection to individuals 
+and groups, but really to recognize that the integrity of those 
+markets is our strength.
+    Now the predicament I think we all have to weigh, and this 
+is a judgment call, is that during the last year I visited the 
+New York Stock Exchange; I have visited the NASDAQ people. I 
+have been in the Chicago markets. There are a lot of changes 
+going on in these markets. People who are making a living out 
+there, tens of thousands of employees, face erosion of their 
+job potential.
+    We face competition in the world. There are other people 
+who are doing all sorts of things. In the course of our 
+hearings we had an electronic demonstration and transacted a 
+trade right in front of us on his computer on a European market 
+and demonstrated really, I suppose, the benefit of our 
+regulation one way or another was irrelevant to all of that.
+    So, on the one hand, we are trying to think through how do 
+we offer these assurances and more of them and, at the same 
+time, how do we retain at least the ability to see what is 
+going on in the world and retain the strength and the vitality 
+of our markets that have all these protections, and that is a 
+difficult thing to do.
+    Now one item that is unacceptable, it seems to me, is to do 
+nothing. If we do that, the markets will run their course 
+without regard to what the Congress has to say and there will 
+be winners and losers but I think the American people will be 
+the losers.
+    Now, the case has been made that the American people will 
+lose if somehow protections are taken away from them and that 
+is a very good point and it is an important one. But again and 
+again we have tried to come, I think, to a conclusion, are the 
+kinds of persons who are involved in the markets, as Alan 
+Greenspan said today, the countervailing market forces that 
+eyeball each other, that bring transparency, that bring 
+competition--he made the point that regulators are never a 
+match for all of the competing forces in markets, that at best, 
+they sort of have a safety net after really those who are 
+competitors have had a go at it.
+    So that is the problem.
+    Senator Sarbanes. Well, the problem is if we are going to 
+continue this dialogue, and I am quite happy to do it, the 
+problem to some extent is a process problem.
+    Now, we have this President's Working Group. I gather that 
+the President's Working Group limited the proposed exclusion to 
+financial derivatives. The bill before us now is going to 
+exclude energy derivatives, if I am correct.
+    Is that right, Mr. Rainer, as you read the bill?
+    Mr. Rainer. Yes.
+    Senator Sarbanes. You are opposed to that. Is that right? I 
+mean that is counter to the recommendation of the Working 
+Group.
+    Mr. Rainer. My position is that the case has just not been 
+made that is a good idea.
+    Senator Sarbanes. Yes. And therefore it ought not to be 
+done at this point.
+    Now, we discussed earlier the swaps question and it is very 
+clear from that conversation that significant changes have to 
+be made in the swaps provision. Everyone acceded to that.
+    Now, I understand that the CFTC put a proposal out on a 
+regulatory framework for future markets and clearing 
+organizations on June 8. Is that correct?
+    Mr. Rainer. Yes.
+    Senator Sarbanes. Now, that proposal is contained in this 
+legislation; is that right?
+    Mr. Rainer. In large part, yes.
+    Senator Sarbanes. Well, it may be all right; it may not be 
+all right. But you are putting the proposal out to have a 
+comment period. Is that right?
+    Mr. Rainer. Yes.
+    Senator Sarbanes. And further hearings.
+    Mr. Rainer. Yes.
+    Senator Sarbanes. The premise of those further hearings and 
+the comment proposal is the possibility that you would revise 
+the proposal, correct?
+    Mr. Rainer. Yes.
+    Senator Sarbanes. That is why you do that.
+    Mr. Rainer. Yes.
+    Senator Sarbanes. And you approach it with an open mind so 
+that people who make comments have confidence that they will be 
+considered on the substance and a judgment will be made.
+    Now, where does that leave you if this legislation passes 
+that contains the proposal you have submitted but does not 
+reflect the comment period and the hearings that subsequently 
+take place in shaping that? I mean it renders it all sort of 
+meaningless in a sense. Plus it then puts you in a 
+straightjacket in the future if you want to revise the 
+regulations because they have been statutorily codified. So at 
+that point if you wanted to make changes, you would have to 
+come back to the Congress and get a legislative change.
+    Now, that is only to underscore the haste makes waste 
+observation that I made earlier. But in the end, we are going 
+to come back. I appreciate that the industry wants to move and 
+I am not unsympathetic to that, but it ought to be possible to 
+do that and, at the same time, assure ourselves that these very 
+important protections for investors that have been at the 
+heart, in my judgment, at the heart of these very successful 
+markets are not lost. And to the extent we short-circuit this 
+process and make it less likely we are going to reach this kind 
+of consensus, I think the problem becomes more difficult, not 
+less difficult.
+    The Chairman. The Senator makes a good point. I would just 
+simply say that everybody is struggling, given the amount of 
+time that Senators, regulators, what have you have to give to 
+these particular issues, to get our focus. We have comment from 
+everybody today on language that might be incorporated. That is 
+a serious proposal because we are in the process of heading 
+toward a mark-up in which something is going to happen in the 
+Committee, and then we hope to proceed.
+    You have not had an opportunity to get into this round, 
+Senator Schumer. Would you like to raise questions or make a 
+comment?
+    Senator Schumer. Thank you, Senator Lugar. Yes, I have some 
+questions relating to my concern.
+    I guess the first one is to Chairman Levitt. Do you worry 
+about the effect that introducing single-stock futures will 
+have on the underlying equity markets if it SEC has no 
+jurisdiction over the product? What will be the worst case 
+scenario?
+    Mr. Levitt. I do worry about it. I worry a great deal about 
+it. I think there are some irrationalities in this process, and 
+I guess the very fact that we have two regulators regulating 
+similar segments of the market provides us with some 
+irrationalities to begin with. Then when you suggest in a bill 
+that has something as nationally urgent as giving legal 
+certainty to swaps and you combine that with creating a new 
+vehicle for investors, you have to ask yourself what is the 
+importance of that new vehicle? That new vehicle, has dramatic 
+importance to the liquidity of our markets with respect to 
+institutions that are used to trading highly leveraged 
+products. You are now opening that market to the retail 
+investor, who does not have the slightest idea about this.
+    We found in surveys, in terms of an understanding of the 
+risks of investment products, many do not understand the risks 
+of products even that have been with us for many years. We are 
+now opening up this new product, which essentially is leverage 
+on leverage.
+    Is this in the national interest to begin with? If you say 
+it is, if this new product is offering America's investors 
+something they can get no place else, which I absolutely 
+categorically deny, then you have to say are we giving them the 
+same protection that they would have when they buy IBM or 
+General Motors or any other equity?
+    And remember at what point in the market cycle we ask 
+ourselves this question. Is this the time to introduce yet an 
+even more highly leveraged product into a market which, in my 
+judgment, has an abundance of leverage today?
+    Senator Schumer. Well, there is a little ad that I would 
+like to submit for the record from--I do not know who they 
+are--Lynd Waldock. It says, ``There are lots of reasons you 
+should consider on-line stock index futures trading''--this may 
+be an example of what you are talking about for a broader-based 
+product. ``At Lynd Waldock you get''--it says, ``Stocks are 
+great for the long term but for short-term trading, try stock 
+index futures. At Lynd Waldock you get a of bang for your 
+commission buck. One stock's index future commission is 
+equivalent to trading 2,000 to 3,000 shares of stock at $30 a 
+stock at about half a penny a share.''
+    And that will be nothing compared to what happens unless we 
+have, as you say, a level regulatory field here. Does the 
+Gramm-Lugar proposal, as written, provide that field? To me it 
+certainly does not.
+    Mr. Levitt. I think it leaves the retail investor with an 
+absence of basic protections. I think, working closely with the 
+Committees and with the CFTC, it is possible for us to develop 
+such protections for investors from the things that I fear the 
+most.
+    Senator Schumer. What is the rationale for an option being 
+governed by the SEC and a future being governed by the CFTC of 
+an equity? Options are now governed by the SEC.
+    Mr. Levitt. They should not be. You know, I hate to 
+criticize a bill that has been sponsored by someone whom I 
+admire so much, but, with respect to the kind of regulation 
+that we are talking about, Senator, it is split regulation, and 
+that is very different from shared regulation.
+    Senator Schumer. Correct.
+    Mr. Levitt. And if collectively we could work toward shared 
+regulation, you would remove many of my feelings about this 
+bill, which are not motivated by any issue other than the 
+protection of investors.
+    Senator Schumer. Would you agree with that, Chairman 
+Rainer? Right now the bill has--Chairman Levitt put it right, 
+at least as far as I can tell--split regulation. Would you 
+agree that a shared regulation formula could work and would you 
+be willing to entertain that?
+    Mr. Rainer. Senator Schumer, I have been from the outset in 
+favor of both joint regulation and the ability for both 
+markets--the equity markets and the futures markets--to be able 
+to offer these products.
+    Senator Schumer. The issue is not who offers the products. 
+The issue is who regulates the product. Would you be willing to 
+say that shared regulation is, if not the best, certainly a 
+good way to go, particularly if it can break the deadlock that 
+we seem to have?
+    Mr. Rainer. Senator, I think that when I say joint 
+regulation, I mean shared regulation, but I am not 100-percent 
+sure I know what you mean by a definition of shared versus 
+split.
+    My position, which I have mentioned, is that this bill, 
+strictly from the perspective of the CFTC, adequately addresses 
+our concerns. Having said that, I have said in other venues 
+that I recognize the important and significant interests of the 
+SEC and that I believe that any final regulatory structure 
+should be one that both agencies can support.
+    Senator Schumer. OK. So you would, if Chairman Levitt has 
+in his delicate way--he is more delicate than I am--indicated 
+he has real troubles with the bill as proposed, as much as he 
+respects Chairman Lugar and Chairman Gramm, and let's put that 
+in the record 10 times, would you then encourage that we wait 
+and see if we can come up with something that you and he can 
+agree upon, provided it can be done in a relatively short frame 
+of time? Would you agree that we should not move forward with 
+this bill, which seems to me is not a shared regulatory regime 
+at all?
+    Mr. Rainer. Senator, I am going to withhold that for right 
+now. Let me get back to you on that.
+    Senator Schumer. If you could submit that in writing.
+    And one other thing I would ask that you submit in writing 
+is your comments, your objections to the--you cannot know much 
+about it yet but the proposal that I have put in today, which I 
+think is a shared regulatory regime that I think would be fair 
+and sort of go right down the middle, as opposed to this bill, 
+which I think does not really do that.
+    Mr. Rainer. Of course, Senator.
+    Senator Schumer. Great.
+    Thank you, Mr. Chairman.
+    The Chairman. Well, thank you very much, Senator Schumer. I 
+appreciate your comments likewise and will examine your 
+legislation, too. It is an important factor. I just ask from 
+you, as well as everyone else, some appreciation of the time 
+frame that we all have to work in because the Senate session 
+will be over soon, the window of opportunity to deal with this 
+at all, whatever its merit.
+    So my hope, and this is obvious in terms of trying to press 
+this issue on this morning, is that there is a certain season 
+for these things to happen. If we are not able to, why, we will 
+all have a lot of time, but there will be maybe different 
+players, a different situation and different position of our 
+markets, for better or for worse.
+    So it seems to me that this is an appropriate time for us 
+to focus as our two committees have attempted to do so this 
+morning and will be doing so in a concerted way in the next few 
+days.
+    Senator Schumer. The only thing I would say, Mr. Chairman, 
+I agree with you but I would rather--if there were a choice and 
+I agree with you I hope there is not a choice or a division, 
+but I would rather do it right than do it quickly. I am sure 
+you would agree with that.
+    The Chairman. I do agree with that and we are most hopeful 
+we can do both, always.
+    Senator Schumer. Great.
+    The Chairman. We thank both of the Chairmen for your 
+patience. It has been an extended hearing this morning but you 
+have been with us all the way and we appreciate that. Thank 
+you.
+    The hearing is adjourned.
+    [Whereupon, at 1:03 p.m., the joint Committee hearing was 
+adjourned.]
+      
+=======================================================================
+
+
+                            A P P E N D I X
+
+                             June 21, 2000
+
+
+
+      
+=======================================================================
+
+[GRAPHIC] [TIFF OMITTED] T0514.001
+
+[GRAPHIC] [TIFF OMITTED] T0514.002
+
+[GRAPHIC] [TIFF OMITTED] T0514.004
+
+[GRAPHIC] [TIFF OMITTED] T0514.005
+
+[GRAPHIC] [TIFF OMITTED] T0514.006
+
+[GRAPHIC] [TIFF OMITTED] T0514.007
+
+[GRAPHIC] [TIFF OMITTED] T0514.008
+
+[GRAPHIC] [TIFF OMITTED] T0514.009
+
+[GRAPHIC] [TIFF OMITTED] T0514.003
+
+[GRAPHIC] [TIFF OMITTED] T0514.010
+
+[GRAPHIC] [TIFF OMITTED] T0514.011
+
+[GRAPHIC] [TIFF OMITTED] T0514.012
+
+[GRAPHIC] [TIFF OMITTED] T0514.013
+
+[GRAPHIC] [TIFF OMITTED] T0514.014
+
+[GRAPHIC] [TIFF OMITTED] T0514.015
+
+[GRAPHIC] [TIFF OMITTED] T0514.016
+
+[GRAPHIC] [TIFF OMITTED] T0514.017
+
+[GRAPHIC] [TIFF OMITTED] T0514.018
+
+[GRAPHIC] [TIFF OMITTED] T0514.019
+
+[GRAPHIC] [TIFF OMITTED] T0514.020
+
+[GRAPHIC] [TIFF OMITTED] T0514.021
+
+[GRAPHIC] [TIFF OMITTED] T0514.022
+
+[GRAPHIC] [TIFF OMITTED] T0514.023
+
+[GRAPHIC] [TIFF OMITTED] T0514.024
+
+[GRAPHIC] [TIFF OMITTED] T0514.025
+
+[GRAPHIC] [TIFF OMITTED] T0514.026
+
+[GRAPHIC] [TIFF OMITTED] T0514.027
+
+[GRAPHIC] [TIFF OMITTED] T0514.028
+
+[GRAPHIC] [TIFF OMITTED] T0514.029
+
+[GRAPHIC] [TIFF OMITTED] T0514.030
+
+[GRAPHIC] [TIFF OMITTED] T0514.031
+
+[GRAPHIC] [TIFF OMITTED] T0514.032
+
+[GRAPHIC] [TIFF OMITTED] T0514.033
+
+[GRAPHIC] [TIFF OMITTED] T0514.034
+
+[GRAPHIC] [TIFF OMITTED] T0514.035
+
+[GRAPHIC] [TIFF OMITTED] T0514.036
+
+[GRAPHIC] [TIFF OMITTED] T0514.037
+
+[GRAPHIC] [TIFF OMITTED] T0514.038
+
+[GRAPHIC] [TIFF OMITTED] T0514.039
+
+[GRAPHIC] [TIFF OMITTED] T0514.040
+
+[GRAPHIC] [TIFF OMITTED] T0514.041
+
+[GRAPHIC] [TIFF OMITTED] T0514.042
+
+[GRAPHIC] [TIFF OMITTED] T0514.043
+
+[GRAPHIC] [TIFF OMITTED] T0514.044
+
+[GRAPHIC] [TIFF OMITTED] T0514.045
+
+      
+=======================================================================
+
+
+                   DOCUMENTS SUBMITTED FOR THE RECORD
+
+                             June 21, 2000
+
+
+
+      
+=======================================================================
+
+[GRAPHIC] [TIFF OMITTED] T0514.065
+
+[GRAPHIC] [TIFF OMITTED] T0514.066
+
+[GRAPHIC] [TIFF OMITTED] T0514.067
+
+[GRAPHIC] [TIFF OMITTED] T0514.068
+
+[GRAPHIC] [TIFF OMITTED] T0514.069
+
+[GRAPHIC] [TIFF OMITTED] T0514.070
+
+
+</pre></body></html>

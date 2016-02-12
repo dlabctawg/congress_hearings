@@ -1,0 +1,1613 @@
+<html>
+<title> - WHAT YOU DON'T KNOW CAN HURT YOU: S. 2590, THE FEDERAL FUNDING ACCOUNTABILITY AND TRANSPARENCY ACT OF 2006</title>
+<body><pre>
+[Senate Hearing 109-965]
+[From the U.S. Government Printing Office]
+
+
+                                                        S. Hrg. 109-965
+ 
+                   WHAT YOU DON'T KNOW CAN HURT YOU: 
+              S. 2590, THE FEDERAL FUNDING ACCOUNTABILITY 
+                      AND TRANSPARENCY ACT OF 2006 
+=======================================================================
+                                HEARING
+
+                               before the
+
+                FEDERAL FINANCIAL MANAGEMENT, GOVERNMENT
+                     INFORMATION, AND INTERNATIONAL
+                         SECURITY SUBCOMMITTEE
+
+                                 of the
+
+                              COMMITTEE ON
+                         HOMELAND SECURITY AND
+                          GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+
+                       ONE HUNDRED NINTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             JULY 18, 2006
+
+                               __________
+
+        Available via http://www.access.gpo.gov/congress/senate
+
+       Printed for the use of the Committee on Homeland Security
+                        and Governmental Affairs
+
+                              -------
+
+                     U.S. GOVERNMENT PRINTING OFFICE
+
+29-512 PDF                 WASHINGTON DC:  2007
+---------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office  Internet: bookstore.gpo.gov Phone: toll free (866)512-1800
+DC area (202)512-1800  Fax: (202) 512-2250 Mail Stop SSOP, 
+Washington, DC 20402-0001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   SUSAN M. COLLINS, Maine, Chairman
+TED STEVENS, Alaska                  JOSEPH I. LIEBERMAN, Connecticut
+GEORGE V. VOINOVICH, Ohio            CARL LEVIN, Michigan
+NORM COLEMAN, Minnesota              DANIEL K. AKAKA, Hawaii
+TOM COBURN, Oklahoma                 THOMAS R. CARPER, Delaware
+LINCOLN D. CHAFEE, Rhode Island      MARK DAYTON, Minnesota
+ROBERT F. BENNETT, Utah              FRANK LAUTENBERG, New Jersey
+PETE V. DOMENICI, New Mexico         MARK PRYOR, Arkansas
+JOHN W. WARNER, Virginia
+
+           Michael D. Bopp, Staff Director and Chief Counsel
+             Michael L. Alexander, Minority Staff Director
+                  Trina Driessnack Tyrer, Chief Clerk
+
+
+FEDERAL FINANCIAL MANAGEMENT, GOVERNMENT INFORMATION, AND INTERNATIONAL 
+                         SECURITY SUBCOMMITTEE
+
+                     TOM COBURN, Oklahoma, Chairman
+TED STEVENS, Alaska                  THOMAS CARPER, Delaware
+GEORGE V. VOINOVICH, Ohio            CARL LEVIN, Michigan
+LINCOLN D. CHAFEE, Rhode Island      DANIEL K. AKAKA, Hawaii
+ROBERT F. BENNETT, Utah              MARK DAYTON, Minnesota
+PETE V. DOMENICI, New Mexico         FRANK LAUTENBERG, New Jersey
+JOHN W. WARNER, Virginia             MARK PRYOR, Arkansas
+
+                      Katy French, Staff Director
+                 Sheila Murphy, Minority Staff Director
+            John Kilvington, Minority Deputy Staff Director
+                       Liz Scranton, Chief Clerk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Coburn...............................................     1
+    Senator Collins (ex-officio).................................     3
+    Senator Carper...............................................     4
+
+                               WITNESSES
+                         Tuesday, July 18, 2006
+
+Hon. John McCain, a U.S. Senator from the State of Arizona.......     5
+Hon. Barack Obama, a U.S. Senator from the State of Illinois.....     6
+Gary D. Bass, Ph.D., Executive Director, OMB Watch...............    14
+Eric Brenner, Director, Maryland Governor's Grants Office........    16
+Mark Tapscott, Editorial Page Editor, The Washington Examiner 
+  Proprietor.....................................................    18
+
+                     Alphabetical List of Witnesses
+
+Bass, Gary D., Ph.D.:
+    Testimony....................................................    14
+    Prepared statement...........................................    31
+Brenner, Eric:
+    Testimony....................................................    16
+    Prepared statement...........................................    47
+McCain, Hon. John:
+    Testimony....................................................     5
+    Prepared statement...........................................    27
+Obama, Hon. Barack:
+    Testimony....................................................     6
+    Prepared statement...........................................    29
+Tapscott, Mark:
+    Testimony....................................................    18
+    Prepared statement...........................................    50
+
+                                APPENDIX
+
+Article submitted by Senator McCain from the Washington Post 
+  dated July 18, 2006............................................    56
+National Taxpayers Union, prepared statement.....................    63
+
+
+                   WHAT YOU DON'T KNOW CAN HURT YOU:
+                      S. 2590, THE FEDERAL FUNDING
+                  ACCOUNTABILITY AND TRANSPARENCY ACT
+                               OF 2006
+
+                              ----------                              
+
+
+                         TUESDAY, JULY 18, 2006
+
+                                     U.S. Senate,  
+            Subcommittee on Federal Financial Management,  
+        Government Information, and International Security,
+                            of the Committee on Homeland Security  
+                                          and Governmental Affairs,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 2:31 p.m., in 
+room SD-342, Dirksen Senate Office Building, Hon. Tom Coburn, 
+Chairman of the Subcommittee, presiding.
+    Present: Senators Coburn, Collins (ex-officio), and Carper.
+
+              OPENING STATEMENT OF SENATOR COBURN
+
+    Senator Coburn. The Federal Financial Management, 
+Government Information, and International Security Subcommittee 
+of the Homeland Security and Governmental Affairs Committee 
+will come to order.
+    I would put in this note that we have three stacked votes 
+at 3:45, so we are going to try to move through this to not 
+delay anyone.
+    Two-thousand-six marks the 40th anniversary of the Freedom 
+of Information Act, also known as FOIA. The essence of FOIA is 
+to give the average citizen access to nearly all government 
+documents simply by asking for them, in the hope that with more 
+information would come more accountability. But FOIA requires 
+government staff to respond to requests for information, and as 
+the government has grown through the years, the Act has proven 
+woefully inadequate at providing citizens timely and complete 
+information on their government.
+    Today, the government continues to grow at a tremendous 
+pace. We now spend nearly $3 trillion each year to keep it 
+running. This includes $460 billion in grants and subgrants, 
+$340 billion in contracts, and hundreds of billions of dollars 
+more in loans, insurance, and direct payments. With this kind 
+of spending, transparency is more important now than it was 
+when FOIA was first passed.
+    This is why I, along with Senators Obama, Carper, McCain, 
+Sununu, and DeMint, have introduced a bill that we believe will 
+go a long way towards equipping citizens with the information 
+that they need. The Federal Funding Accountability and 
+Transparency Act of 2006 (S. 2490) would require the 
+Administration to operate a website--that anyone can access for 
+free--disclosing every recipient of Federal grants, contracts, 
+and loans. This would include how much money was given and for 
+what purpose, extending to subcontractors and subgrantees. On 
+the issue of tracking subawards, I believe it is vitally 
+important to know where the tax dollars are ultimately spent. 
+Oftentimes, grants and contracts are given to initial 
+recipients, but the money ultimately goes to organizations 
+farther down the line. I don't think it is too much for the 
+American people to ask that if they are going to supply the 
+money, they should know where the money is ultimately spent.
+    I like to think of this bill as ``Google for Government 
+Spending.'' The concept behind the bill is really quite simple: 
+Put information on government spending out there for all to see 
+and greater accountability will follow. It will also change 
+expectations of those receiving funds that they will know in 
+advance that the information will be public.
+    This is not a new concept by any means. It was espoused 
+first by Thomas Jefferson, who in 1802 had this to say about 
+the subject: ``We might hope to see the finances of the Union 
+as clear and intelligible as a merchant's books, so that every 
+member of Congress and every man of any mind in the Union 
+should be able to comprehend them, to investigate abuses, and 
+consequently to control them.''
+    The Founding Fathers believed in transparency for 
+government because even back when budgets were much smaller, 
+the possibility of abuse, waste, and malfeasance was just as 
+real. But with transparency comes accountability. Those who we 
+envision using this information would be everyone from the man 
+on the street to the watchdog organizations to media outlets to 
+government auditors. The hope of our bill is to harness the 
+power of an eager citizenry wanting to know where tax money is 
+spent by arming them with information.
+    No business or household could operate the way the Federal 
+Government does. Every entrepreneur knows that transparent 
+accounting and budgeting information is critical to keeping the 
+business afloat and knowing the decisions that need to be made. 
+I note that our government is not exactly afloat, and maybe the 
+shroud of secrecy around how money is actually spent is partly 
+to blame.
+    Federal agencies have access to money and power often 
+without the needed transparency or accountability, and so it is 
+not a mystery why abuses occur. Without the level of 
+transparency called for in the bill, the potential for waste 
+and abuse is enormous. Consider the following examples of 
+outrageous spending that we have uncovered:
+
+    <bullet> Lhalf a million dollars for a Teapot Museum in 
+North Carolina;
+    <bullet> Lhalf a million dollars in defense money for the 
+Arctic Winter Games--that is money designed to defend this 
+country;
+    <bullet> Lhalf a million dollars for the Museum of Glass in 
+Tacoma, Washington;
+    <bullet> Lhalf a million dollars for the Fort Dupont Ice 
+Arena in Washington, DC;
+    <bullet> Lmore than $2 million for the Appalachian Fruit 
+Laboratory in West Virginia; and
+    <bullet> L$5 million for the St. Louis Zoo.
+
+    All at the time that we are running record deficits. It is 
+fine that we have done that, but we should be held accountable 
+for it.
+    Each of these items was buried deep within a report not 
+readily accessible to the public or even to Members of Congress 
+who had to vote on them. The American public should know that 
+its Members of Congress are spending their money on these 
+things.
+    Some have argued that the government already operates some 
+databases and, therefore, this bill is unnecessary. Let's talk 
+about some of those.
+    For example, the Federal Procurement Data Base, which 
+tracks Federal contracts, does not provide details on what 
+Federal contractors are doing with the money they get, nor is 
+the system very easy to use. Or, again, the Federal Assistance 
+Awards Data System, which tracks grants, loans, and other 
+awards, while giving more details than FPDS, only provides 
+quarterly data and is not searchable. Even the President's 
+annual budget to Congress, which gives the most comprehensive 
+picture of what the Federal Government spends, is only an 
+estimate.
+    OMB does not collect this information. Congress does not 
+collect this information. Nobody collects this information. The 
+bottom line is there is no single source of information 
+available to the taxpayers and Members of Congress and the 
+auditors explaining where Federal money is spent and there 
+should be.
+    When I tell people about the bill, the response I usually 
+get is, ``You mean, that doesn't already exist?'' Most people 
+are astounded to hear that there is not a website available now 
+disclosing everyone who gets Federal money. The idea is just so 
+common sense that it is hard for anyone to oppose--that is, 
+unless they have something to hide.
+    As of today, the bill has been endorsed by over 100 
+organizations spanning the entire political spectrum and under 
+normal circumstances would not be able to agree on much. 
+Liberal and conservative organizations have come together 
+around this idea of sunshine. If they can agree, so can 
+Congress.
+    I look forward to hearing from our witnesses today, and I 
+want to thank them for what they have done for us thus far.
+    I would next recognize the Chairman of our full Committee, 
+Senator Collins.
+    Senator Carper. Madam Chairman, go right ahead, please.
+
+              OPENING STATEMENT OF SENATOR COLLINS
+
+    Senator Collins. OK. I know, Mr. Chairman, that you are 
+eager to hear from our witnesses, so I am going to just make a 
+few comments.
+    First, I want to applaud your leadership, Senator Carper, 
+Senator McCain, and Senator Obama, for introducing this bill. 
+It is astounding in this age of the Internet that we do not 
+already have an easily accessible, searchable web-based site 
+that the taxpayer can go to to see how our money is being 
+spent. And I think your proposal will increase accountability. 
+As you have often said, transparency is the first principle of 
+accountability. If people have no idea how their tax dollars 
+are being spent, then it is very difficult for them to hold us 
+all accountable. So I think this is an excellent concept.
+    I have been working very closely with you to refine the 
+bill, and I want to give you my personal commitment to moving 
+this bill out of Committee as soon as possible.
+    Thank you for your leadership.
+    Senator Coburn. Thank you, Madam Chairman. Senator Carper.
+
+              OPENING STATEMENT OF SENATOR CARPER
+
+    Senator Carper. I have a statement I would like to give. I 
+want to refrain from doing so until we have heard from our two 
+witnesses.
+    Mr. Chairman, you quoted our third President, and just 
+sitting here, Senator Collins, I just thought, we heard a quote 
+from our third President. It is possible in this first panel we 
+may have a future President, maybe two future Presidents, to 
+tell us why this is such a good piece of legislation.
+    I have heard Senator McCain say that in the United States, 
+everybody is assumed to be running for President unless--what 
+is it? You are indicted?
+    Senator McCain. Unless you are under indictment or 
+detoxification, you automatically consider yourself a candidate 
+for President.
+    Senator Carper. I consider that Senator Obama throwing his 
+hat in the ring as well. [Laughter.]
+    I am going to hold off. One thing I would say--you quoted 
+Thomas Jefferson. One of the things that--I think it was 
+Jefferson who said, ``If the people know the truth, they will 
+not make a mistake.'' And I really think this is what it is 
+about, trying to make sure that the folks around this country 
+know the truth, and if they do, they and hopefully we will not 
+make a mistake.
+    And with that having been said, maybe I can give the rest 
+of my statement once we have heard from our witnesses. But to 
+our colleagues, Senator McCain and Senator Obama, it is great 
+to see you sitting side by side, and it is good to hear from 
+you.
+    Thank you.
+    Senator Coburn. Let me first recognize Senator McCain. He 
+is known by his reputation as being one of the lone voices in 
+the Senate championing the cause of fiscal restraint and his 
+crusade against earmarks. His support of this bill is vital, 
+and he recognizes its importance to us as a Nation to control 
+spending that otherwise is out of control.
+    I have had the great pleasure of working with Senator Obama 
+on many issues in a bipartisan fashion to make government 
+spending more transparent, more accountable, and, therefore, 
+doing the proper job of oversight which we are entrusted with. 
+I am delighted to be working together with him on this bill, 
+and I thank both of our Senators for being here, and I would 
+recognize Senator McCain first, and then following that, 
+Senator Obama.
+
+TESTIMONY OF HON. JOHN McCAIN,\1\ A U.S. SENATOR FROM THE STATE 
+                           OF ARIZONA
+
+    Senator McCain. Thank you very much, Mr. Chairman, and I 
+want to thank you, Senator Obama, Senator Carper, and Chairman 
+Collins for your involvement in all these issues, and including 
+this specific one.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator McCain appears in the 
+Appendix on page 27.
+---------------------------------------------------------------------------
+    Mr. Chairman, I am going to make my remarks brief because 
+some of it would be repetitious from what you and Senator 
+Collins already said, so I would ask that my complete statement 
+be made part of the record.
+    Senator Coburn. Without objection.
+    Senator McCain. I will summarize by saying, as you 
+mentioned, Mr. Chairman, this bill would create a searchable 
+database, available to the public at no cost, that lists each 
+entity receiving Federal funding. It would show the amount of 
+Federal funds the entity received in each of the last 10 fiscal 
+years, an itemized breakdown of each transaction, the location 
+of the entity, and a ``unique identifier'' for the entity and 
+its parent entity. They would be very important, all of those 
+provisions, Mr. Chairman.
+    I think critics of this bill have suggested that the 
+requirements are too burdensome and that it would be too costly 
+and take too much work to collect and post this data. I do not 
+buy that argument, Mr. Chairman. In fact, if you looked at--and 
+I know you did--the front page of this morning's Washington 
+Post--and if you don't mind, I would just quote briefly from 
+it: ``On a clear, cold morning in February 2003, Nico de Boer 
+heard what sounded like a clap of thunder and stepped outside 
+his hillside home for a look. High above the tree line, the 40-
+year-old dairy farmer saw a trail of smoke curling across the 
+sky--all that remained of the space shuttle Columbia.
+    ``Weeks later, de Boer was startled to learn that he was 
+one of hundreds of East Texas ranchers entitled to up to 
+$40,000 in disaster compensation from the Federal Government, 
+even though the nearest debris landed 10 to 20 miles from his 
+cattle.
+    ``The money came from the U.S. Department of Agriculture as 
+part of the Livestock Compensation Program, originally intended 
+as a limited helping hand for dairy farmers and ranchers hurt 
+by drought.'' By drought. ``Hurriedly drafted by the Bush 
+Administration in 2002 and expanded by Congress the following 
+year, the relief plan rapidly became an expensive part of the 
+government's sprawling system of entitlements for farmers, 
+which topped $25 billion last year.''
+    Mr. Chairman, the important point--and I would ask that 
+this entire article be made part of the record.\2\
+---------------------------------------------------------------------------
+    \2\ The article referred to appears in the Appendix on page 56.
+---------------------------------------------------------------------------
+    Senator Coburn. Without objection.
+    Senator McCain. But the interesting thing is sometimes you 
+and I are derided because we talk about $75,000 for the 
+Cowgirls Hall of Fame, $50,000 for this. Mr. Chairman, this was 
+$1.2 billion that were given to cattle ranchers even if the 
+debris from the space shuttle landed 20 miles away from the 
+place where their cattle were kept.
+    Now, how did we find out about it? Because there were some 
+enterprising reporters who dug it up, who found it out. I did 
+not know about it. I doubt if any of us here knew about such a 
+program. And so why don't we have a way that people, average 
+citizens, would know about the program? That is the question 
+about these incredible excesses. The only way I think, Mr. 
+Chairman, as Senator Collins mentioned, the first step is 
+transparency. And I believe that your proposal needs to be 
+enacted. It needs to be enacted quickly.
+    As you know, Mr. Chairman, in 1994, there were 4,126 
+earmarks. In 2005, there were 15,877. The list goes on.
+    Finally, Mr. Chairman, a recent editorial in the Tennessean 
+stated, ``Congress needs to open up and shed light on its 
+business in many ways. With an accessible database of grants 
+and contracts, the public may see spending it despises, and it 
+may see spending that it approves of, down to the last penny. 
+The only reason to oppose compiling the information for public 
+use is if the government has something to hide.''
+    I thank you, Mr. Chairman, and I want to again thank the 
+bipartisanship that is associated with this bill, including 
+Senator Carper and Senator Obama. I thank you, Mr. Chairman.
+    Senator Coburn. Thank you, Senator McCain. Senator Obama.
+
+  TESTIMONY OF HON. BARACK OBAMA,\1\ A U.S. SENATOR FROM THE 
+                       STATE OF ILLINOIS
+
+    Senator Obama. Thank you very much, Mr. Chairman, Senator 
+Carper, and Senator Collins. It is a great privilege to be 
+testifying with Senator McCain, who has worked so tirelessly in 
+shedding light on some of the problems that we have seen here.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Obama appears in the Appendix 
+on page 29.
+---------------------------------------------------------------------------
+    I want to personally thank Senator Coburn, who I think has, 
+since he and I entered the Senate at the same time, been a 
+constant thorn in the side of those who want to waste our 
+money. It has been a pleasure to work with him consistently.
+    Senator Collins has done terrific work on the Governmental 
+Affairs Committee, and so I am really appreciative that you 
+have taken an interest in this bill, and I think your support 
+makes all the difference.
+    And, Senator Carper, thank you for your outstanding work on 
+it as well.
+    This year, the Federal Government will spend about $2.7 
+trillion. The overwhelming share of this spending will go to 
+fulfill America's commitments and to support our public 
+priorities. So not all money in the Federal Government is 
+waste. A lot of it is good spending. We have a whole bunch of 
+seniors who are going to be getting their Social Security 
+checks on time, as they should. We depend on government 
+spending to ensure our national defense, our homeland security, 
+to safeguard our environment, to help our children receive a 
+quality education, provide an adequate safety net for our 
+seniors and the poor. So I strongly believe that much of the 
+money that we spend here is well spent.
+    But as Senator McCain pointed out, if even a small 
+percentage of Federal spending is wasteful or lost to fraud or 
+abuse, we should be concerned. Unfortunately, based on what I 
+have seen in my relatively short time in the Senate, we are not 
+talking about a small percentage of waste, fraud, and abuse. It 
+is unacceptable, particularly at a time when this country's 
+most vulnerable citizens need to see government at its best, at 
+a time when we are running up the credit card for our children 
+and our grandchildren, to be wasting money. But I think all of 
+us have seen evidence just from reading the papers every day 
+that waste is taking place.
+    It is embarrassing to hear about the government paying 15 
+times more than the market price for plastic tarps to cover 
+damaged roofs in New Orleans, or paying five times too much for 
+debris removal or contracting with vendors for ice or 
+transportation services who do not have the relevant equipment 
+or experience.
+    How can we expect the American people to have confidence in 
+us when they hear about overcharging and overpayment, when they 
+hear about pork-barrel projects like the ``Bridge to Nowhere,'' 
+when they hear about money being wasted on frivolous expenses? 
+How can we expect them to have confidence when the 
+Administration and Congress seem unwilling or unable to hold 
+people accountable?
+    Now, remarkably, as Chairman Coburn and I have discovered, 
+it is often not possible to get good information about Federal 
+grants and contracts, even when you are a U.S. Senator. There 
+are several different databases of Federal spending 
+information, and some who have opposed or expressed doubts 
+about this legislation have suggested that it would be 
+duplicative of existing databases. But the fact is that all 
+these databases work differently. They are all incomplete. 
+There is no way to see the full picture of government spending, 
+and they are extraordinarily hard to access, even for 
+professionals whose job it is to monitor Federal spending. It 
+is certainly difficult for the average citizen. And the lack of 
+transparency over the use of Federal resources is, to my mind, 
+and I know to the minds of Senator McCain and all of you, 
+unacceptable.
+    If we, as Senators, cannot get this information, we can be 
+sure that the American people know even less. And the fact of 
+the matter is that the taxpayers have a right to know how the 
+Federal Government is managing its fiscal resources. We have 
+the right to insist upon answers to reasonable questions about 
+where and how our tax dollars are used.
+    Let me just make a few more points. This is not a partisan 
+issue, as reflected by the sponsorship of this bill. Every 
+single dollar that is wasted is a dollar that cannot be used 
+for reducing the deficit, investing in health and education, or 
+eliminating child poverty. So I think it is important for us to 
+realize that whatever our priorities, whether Republicans or 
+Democrats, those priorities are compromised and shortchanged 
+when Federal funds are not prudently managed. It also should 
+not matter whether you think that government ought to spend 
+more money or less money. We can all agree that we should spend 
+money efficiently and transparently. Democrats and Republicans 
+can all agree that wasteful spending is unacceptable, whether 
+it is by FEMA or HUD or DOD or any other Federal agency, and 
+one of the pleasures that I have had in working with Senator 
+Coburn and Senator McCain, observing the work they do on the 
+floor, is that sometimes it is our own favorite agencies that 
+need to be taken to task. And I think that is important.
+    So the first step in solving this problem has already been 
+mentioned. It is shining a little light on the issue. And to 
+me, at least, this should be a no-brainer. If government 
+spending cannot withstand public scrutiny, then the money 
+should not be spent. If a government agency is not willing to 
+be held accountable for the grants or contracts it awards, then 
+that agency should not have control over Federal resources.
+    Now, it is important to emphasize, because I have heard 
+this argument as well, and I am trying to anticipate a few, 
+because I know our time is short, that transparency by itself 
+is not enough, but it is necessary. It may not be sufficient, 
+but it is an important place to start. Transparency would not 
+have stopped FEMA from spending $880 million on temporary 
+housing trailers that are now sinking and rusting away in 
+Arkansas. Transparency by itself would not have prevented 
+Federal relief monies from being used to perform sex change 
+operations or to take Caribbean vacations. But transparency is 
+a prerequisite to oversight and financial control. And my sense 
+is that once agencies get a sense that somebody is watching 
+them and the taxpayers are watching them, they start asking 
+some tougher questions before money is spent.
+    So, in closing, Mr. Chairman, I just want to thank you for 
+your extraordinary leadership on this issue. I think that 
+anybody who doubts that this is a sensible proposition should 
+take a look at the enormous spectrum of support that this bill 
+has generated. I rarely have seen so many editorials from such 
+diverse outlets and such diverse organizations as on this 
+issue. So I think it is time for this bill to pass the Senate. 
+I applaud the Subcommittee for holding this hearing. Again, I 
+thank you very much, Madam Chairman, and the Subcommittee, as a 
+whole, for helping hopefully to shepherd this bill through.
+    Senator Coburn. Thank you, Senator Obama.
+    I just want to ask both of you, some of the critics of this 
+bill have claims that the Federal Government has no business 
+collecting information on subcontractors and subawardees. Do 
+you believe it is important for the government to track Federal 
+spending down to the point of actual use? For example, most 
+grant money actually just goes to the State, but the State 
+subgrants the money to other organizations. What is your 
+feeling on that?
+    Senator McCain. Well, Mr. Chairman, if I could just respond 
+briefly, it is the taxpayers' dollars. I think we should track 
+the taxpayers' dollars to its ultimate end. I know you know 
+there are burgeoning scandals associated with a lobbyist and a 
+group and a member and a committee, and one of the things that 
+we have seen is that entities now feel, particularly small 
+towns and cities across America feel, that they must hire a 
+lobbyist who is well connected in order to get money for 
+projects that they feel they need.
+    I am not saying they should not do that. But I am saying 
+that we should know where the money went and the entity that 
+got the money, all of it.
+    Senator Coburn. Senator Obama.
+    Senator Obama. Well, I think Senator McCain summarizes it 
+appropriately. Look, if the city of Chicago receives a CDBG 
+grant and it is going to be using those Federal dollars to fund 
+a wide range of organizations, then it should be fairly simple 
+for the city of Chicago to gather up the information about how 
+this money is going to be spent and report it back to this 
+website so that all Federal taxpayers can know, folks in Maine 
+can see, whether this money is being well spent in Chicago. And 
+if we cannot defend how that money is being spent in Chicago, 
+then the people of Maine or Delaware or Oklahoma have a right 
+to say this is a bad use of Federal dollars.
+    I think those objections particularly make no sense to me 
+given that, as it is, anybody who is applying for Federal 
+grants is already providing this information to somebody. And 
+simply making sure that it is transmitted to OMB I don't think 
+is going to be a tremendous burden on their part.
+    Senator Coburn. If they are not already supplying that 
+information or don't know the information, they should be.
+    Senator Obama. Absolutely. I mean, I don't know who is 
+getting Federal money no questions asked. If they are, then we 
+should probably stop that practice.
+    Senator Coburn. We have quite a bit of that. We are going 
+to be outlining that in this Subcommittee.
+    A couple of the concessions that we have made as this bill 
+has worked through: We have proposed a pilot program for 
+subaward reporting so we can streamline that to make it easy; 
+we have added a study on how best to implement a governmentwide 
+program to collect and report subaward data; we have added 
+provisions to minimize the burdens to grantees and contractors 
+of reporting subaward data; and, we have delayed the 
+requirement of subaward reporting from 2007 to 2009.
+    So we have answered all the questions that the subgrantees 
+and subawardees and subcontractors have had with this bill by 
+providing the mechanism where sunshine can flow and it will be 
+easily accomplished.
+    One of my thoughts when we came up with this bill was that 
+we need help doing oversight. We can have 300 million Americans 
+helping us do oversight. And the real question for Congress, in 
+declining revenues and increasing obligations that we have 
+already committed to, is how do we make the priorities? How do 
+we put what is first, what is second, what is third?
+    What are your thoughts on how this bill, if enacted and 
+when enacted, will help us do those priorities? Senator McCain.
+    Senator McCain. Well, Mr. Chairman, I just think that it is 
+the heart and soul of what government should be all about. The 
+more our constituents and our citizens know about how we do 
+business, the greater their trust will be in us. And as I am 
+sure you know from recent polls, not a lot of Americans have a 
+very high opinion of us, and I think this is one of the 
+reasons, because they do not know what we do with their tax 
+dollars.
+    I would like to make one additional point, Mr. Chairman. 
+Maybe 10 years ago this would have been a very onerous task to 
+set up this kind of a database and have everyone have access to 
+it. I am not a computer expert, but smart people have told me 
+that this is a relatively easy operation and one that is not 
+too difficult nor expensive.
+    So let's say it costs maybe a couple hundred thousand 
+dollars to set this up. Compare that with the knowledge of some 
+of the ways that this money is spent so that it will be a 
+caution to people who want appropriate money that is not for 
+useful purposes because they will know that their constituents 
+will know and not appreciate the way their tax dollars are 
+being spent. I will bet you that it justifies whatever expense 
+is associated with it in the first 5 minutes.
+    Senator Coburn. Senator Obama.
+    Senator Obama. I concur. Look, not only do I think that it 
+is a basic principle of self-government, as articulated by 
+Thomas Jefferson, that taxpayers should know where their money 
+is going; frankly, I also think this will help us Senators 
+because I think even given the vigilance of some of the 
+Senators who are here in this room, there is a lot of stuff 
+that slips by that we do not know about. None of us have the 
+time, even with our staffs, as able as they are, to track down 
+every dollar of spending. And, I think we are all constantly 
+surprised at what shows up after we have voted for a bill. This 
+website will empower citizens and organizations. It is one of 
+the wonderful democratizing aspects of the Internet that we can 
+empower a lot of people to do what maybe a few individuals 
+would have difficulty doing.
+    Senator Coburn. Senator Collins.
+    Chairman Collins. Thank you, Mr. Chairman.
+    I think that Senator McCain hit on an issue that is very 
+important, and that is the lack of public trust in government. 
+And certainly the kinds of wasteful spending projects that have 
+been discussed today contribute to that lack of trust.
+    I think there is an upside also from this website, and that 
+is in some cases people may be pleased to see what money is 
+going for. I wonder if our witnesses might comment on that as 
+well. I see this as helping to give the public more information 
+on what their taxpayer dollars are used for, and also helping 
+us to sort out the proper role of government at the Federal 
+level, what kinds of projects and programs should the Federal 
+Government be paying for as opposed to the State or local 
+level, or perhaps projects that should not have any government 
+involvement at all.
+    So I would like to ask our two witnesses to comment on that 
+issue, too. Senator McCain.
+    Senator McCain. I certainly agree, Madam Chairman, and I 
+would also like to point out that eventually, perhaps, you 
+could have this listing of what the money was spent for and all 
+the entities and subentities, but also you could have a link to 
+the department of government that is responsible for this 
+money, and they could have a website explaining exactly what 
+that program does.
+    I think it could be a tremendous educational factor for our 
+constituents, so they would know not only the name of what that 
+program is, but link up with the various agencies of government 
+who would give them a full and complete explanation.
+    Chairman Collins. Senator Obama.
+    Senator Obama. Well, I think you are right, Senator 
+Collins. To the extent that people know where dollars are going 
+that can actually serve a useful purpose. For example, I serve 
+on the Senate Foreign Relations Committee. If you were to poll 
+the average person, they might think that 25 percent of the 
+Federal budget is going to foreign aid. And when you let them 
+know that actually it is less than 1 percent, then they have a 
+better perspective in terms of why we might want to provide 
+assistance to other countries.
+    Now, they then may take a look at where some of the foreign 
+aid is going to and question whether it is appropriate or not. 
+The point, though, is that it can create better understanding, 
+a more robust conversation within our democracy.
+    I will be honest with you. One of the things that I have 
+always found to be helpful in my own office--and this was true 
+when I was a State legislator--is the more transparency there 
+is, sometimes that helps me fend off constituents who want 
+questionable projects from me. And when I explain to them that 
+we are going to have to defend this and that I have to explain 
+why this would be a higher priority than something else, it 
+helps me do my job better.
+    Chairman Collins. Thank you.
+    Senator McCain. It is always easy to explain to Dr. Coburn, 
+I have found.
+    Senator Coburn. Senator Carper.
+    Senator Carper. Sitting here this afternoon listening to 
+the testimony and the responses from our colleagues, I am 
+reminded of an older reporter, now deceased, who used to write 
+for the News Journal paper in our State. We only have one 
+statewide newspaper called the News Journal. He was a crusty 
+old reporter who became a columnist. His name was Ralph Moyed. 
+He died about 5 years ago. We used to say when I was a 
+Congressman and then governor that when we are faced with an 
+issue about whether or not to go forward and do something or 
+not and it is sort of a close call, we would always say, 
+``Imagine a front-page article in the News Journal written by 
+Ralph Moyed above the fold about this particular issue.'' And 
+we would say, ``Well, maybe we should not do that.'' 
+[Laughter.]
+    Or we would say, ``Well, maybe we should.''
+    In a way, I think of the legislation that we have all 
+cosponsored, and Senator Coburn has authored, is a little bit 
+like having a whole lot of Ralph Moyeds alive and well, looking 
+over our shoulder, and ready to blow the whistle, and then 
+whether people want to pay attention or not, that is up to 
+them.
+    I don't know that there is any silver bullet out there in 
+the fight that I think we all share, and that is a fight to try 
+to restore some fiscal sanity in this Nation of ours, at least 
+for our Federal Government. But the thought occurs to me that 
+most of what we are talking about is domestic discretionary 
+spending. And if you actually look at the budget deficit we 
+have, I think, for the last year, we could eliminate entirely 
+domestic discretionary spending, and I think we would probably 
+still have a budget deficit. So while it is part of the answer, 
+getting rid of the wasteful spending in domestic discretionary, 
+it is not the whole answer.
+    One of the things that Senator Coburn and I have been 
+working on is trying to figure out where improper payments are 
+occurring, and we have learned that there was roughly $50 
+billion or so, maybe more, in improper payments last year. 
+Mostly overpayments--that does not include the Department of 
+Defense. And among the things that we have learned is that 
+financial controls at the Department of Defense are so 
+haphazard at best that we do not know really what their 
+improper payments are.
+    I would just ask both of you, in addition to taking a step 
+like this, which I think we all agree is important, what might 
+be some other steps that we should take to rein in the deficits 
+that we all abhor and want to curtail.
+    Senator McCain. Senator Carper, I think about that all the 
+time. I think that the package of reforms that has recently 
+been proposed by Senator Gregg and cosponsored by many Members 
+of the Senate is probably a good idea. It is a package of 
+budgetary controls ranging from the line-item veto to various 
+other provisions that would enforce budgetary discipline.
+    Senator Carper. Does that include two-way PAYGO discipline?
+    Senator McCain. I think it does, but----
+    Senator Carper. I think it is one-way.
+    Senator McCain. Is it one-way? Do you know, Senator 
+Collins?
+    Chairman Collins. Yes, it is one-way. It exempts taxes.
+    Senator McCain. I think it should be two-way myself, but 
+anyway, I do think that at least it is a good framework of a 
+package of reforms. But I think the other aspect of this, as 
+you mentioned, this may be a small part of the budget we are 
+talking about, but we all know that when we have to fix Social 
+Security and Medicare, we are going to have to ask the American 
+people for some sacrifice in order to fix these systems. How 
+can you do that if we are spending their tax dollars in the 
+most profligate and obscene fashion, as we did for people who 
+had cows 10 miles from where the Columbia crashed?
+    So that is why I think we hear so much from our 
+constituents, because they just do not get it. I am sure you 
+have the same experience that I do when I mention the Bridge to 
+Nowhere. Everybody knows--they may not know the name of their 
+Senator, but they know the Bridge to Nowhere, and they are 
+offended by it. And so I think one of the reasons why we need 
+to focus on this is so that we can go to the American people 
+with clean hands.
+    Finally, could I mention, Senator Carper, I think that this 
+issue of Defense Department financial controls is really 
+something that we have to get on. As you know, the largest part 
+of the budget is defense appropriations, appropriately so. But 
+it and procurement are totally out of control, and it has to be 
+one of our highest priorities.
+    Senator Carper. Thank you. Senator Obama.
+    Senator Obama. I would echo what Senator McCain says. I 
+think all of us are aware that at some point, in order to get 
+our deficit under control, there are going to be revenue issues 
+that we have to bring up, and there are going to be spending 
+issues, and we are going to have to talk about entitlements. We 
+are going to have to control costs. And it is very difficult to 
+have that conversation, particularly at a time when Americans 
+are feeling squeezed and more vulnerable, if they think that 
+the money is being wasted.
+    Now, once the waste has been identified and some confidence 
+has been restored that we know where the money is going, then I 
+think the American people are responsive to calls to sacrifice. 
+They want to do the responsible thing for their children and 
+their grandchildren. But right now the levels of cynicism are 
+so high that it is very difficult to have these meaningful 
+conversations. And so, my hope is that this would be a first 
+step.
+    One other aspect that I would add to this--and I think this 
+dovetails into some of the legislation that has been proposed 
+to shed light on what is happening with earmarks and so forth--
+is that we do not have what I think most Americans would 
+consider a budget or a budget process. I mean, it is this sort 
+of loose, haphazard stew in which it seems like sometimes the 
+purpose is to make things obscure. And it is very hard from my 
+perspective to step back and see if we are spending each dollar 
+in accordance with our priorities since we cannot do 
+everything.
+    This kind of effort can hopefully build on other reform 
+efforts to get an overview of the budget. It may help the 
+Administration to start thinking about how we can change our 
+practices at the administrative level in order to have a better 
+overview of spending. And I think it will help put pressure on 
+Congress as a whole to defend or change those practices. As you 
+know, I am a big supporter of PAYGO as an example of a way to 
+at least stop the bleeding, but I think that this ends up being 
+just one more brick in that structure of accountability that I 
+hope we are going to be building over the next several years.
+    Senator Carper. Mr. Chairman, as our colleagues prepare to 
+go back to work, I just want to express my thanks for their 
+being here and for the leadership that they provide. I would 
+just add maybe one concluding thought.
+    I think Senator Obama made a very telling point here. As we 
+get serious in the months and years ahead about reining in 
+these budget deficits, it is going to call for some difficult 
+decisions with respect to revenue and with respect to spending, 
+both on the discretionary side and on the entitlement side.
+    One of the other things is that a lot of people in our 
+country are surprised to find out that there is a tax gap of 
+over $300 billion in revenues that are owed. In some cases, the 
+IRS has a pretty good idea who owes the revenues, but they are 
+not being collected. And for us to be able to convince the 
+American people to join us in making some of the tough 
+decisions, they want to make sure that we are doing a better 
+job in controlling discretionary spending. They want to make 
+sure that we are getting a handle on what is going on at the 
+Department of Defense, which we desperately need to do. I think 
+they want to make sure that the folks who actually owe taxes 
+are paying their fair share before anybody else is asked to pay 
+any more.
+    Again, our thanks to each of you.
+    Senator Coburn. I want to thank the Senators for 
+testifying.
+    If the next panel will please come forward. Just to clarify 
+the record, only 18 of the 32 agencies of the Federal 
+Government reported improper payments. Of the 18 that reported, 
+they documented $38 billion in overpayments in only 57 programs 
+out of the 100 programs. The biggest problem is lack of 
+compliance of the agencies with the improper payments law.
+    I would also note that it is estimated that there is a $30 
+to $35 billion improper payment in Medicaid, and their improper 
+payments are not being tracked.
+    I want to welcome our second panel: Gary Bass is the 
+Executive Director of OMB Watch. He has been with OMB Watch 
+since he founded the organization in 1983 to serve as a 
+watchdog for Federal policies on issues of transparency, 
+openness, and good government. Prior to his work at OMB Watch, 
+Dr. Bass was President of the Human Services Information Center 
+and received his doctorate in psychology and education from the 
+University of Michigan.
+    Next is Eric Brenner, Director, Maryland Governor's Grants 
+Office, the office of Governor Bob Ehrlich. Mr. Brenner became 
+Director of the Maryland Governor's Grants Office in February 
+2004. He worked with four governors in three States for both 
+Republicans and Democrats. He even worked for the Governor of 
+Illinois during Senator Obama's tenure in the Illinois State 
+Senate. He has a degree from Harvard John F. Kennedy School of 
+Government.
+    And, finally, Mark Tapscott, Editorial Page Editor of the 
+Washington Examiner. In February of this year, he was named 
+editor of the Editorial Page at the Washington Examiner. Prior 
+to taking this position, he was Director of the Center for the 
+Media and Public Policy at the Heritage Foundation. He has 
+worked as a journalist for more than 20 years and will discuss 
+with us today the effects our bill will have on the world of 
+journalism.
+    I would like to thank each of you for being here. Dr. Bass, 
+you are recognized first.
+
+  TESTIMONY OF GARY D. BASS, PH.D.\1\ EXECUTIVE DIRECTOR, OMB 
+                             WATCH
+
+    Mr. Bass. Thank you, Mr. Chairman. I would ask to have my 
+written statement put in the record.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Bass appears in the Appendix on 
+page 31.
+---------------------------------------------------------------------------
+    Senator Coburn. Without objection, all of your written 
+statements will be placed in the record.
+    Mr. Bass. Let me begin by making very clear that with 
+absolutely clear and unambiguous language, OMB Watch supports 
+S. 2590. It is the right bill to do, as we heard from the last 
+panel. The timing is right. This is a good thing to do. It 
+would be great to move this bill quickly through markup and 
+then directly to the Senate floor and try and get something 
+done, hopefully with unanimous consent, and have this behind us 
+and then work on the implementation.
+    I also want to thank you and other Subcommittee staff for 
+working with OMB Watch to improve the bill as we have moved 
+along. I think this has been a very cooperative and 
+constructive process, and I thank you for that.
+    At the same time, I think that I am going to advocate as 
+much as I can for improvements in the bill as we move along. 
+But I want to make very clear that we support the bill as it 
+was even introduced, even before you have added some changes. 
+We want this bill to pass, and we want it to pass soon. And our 
+objective is to strengthen it if we can, but we want it done. 
+So I want to be very clear about that.
+    I also want to note that we support this bill, as the two 
+Senators who spoke on the last panel did, for reasons of the 
+most importance to this country. This is about democracy. This 
+is about openness. It is not just simply a right-left 
+coalition. This is a coalition that cares about openness and 
+accountability and encourages a strengthened democracy. And as 
+you have said, Senator Coburn, all along, strengthened 
+accountability leads to a stronger democracy. And we believe 
+that. We believe that fundamentally.
+    At the same time as we believe this is a theoretical or 
+philosophical view, we are also very frustrated. You cannot get 
+the information. It is just not able to be obtained. And so 
+something needs to be done immediately to get this information 
+in the hands of the public. And I construe ``public'' in the 
+broadest sense. It is Congress. It is policymakers at the State 
+and local level. It is the news media. It is the citizenry. 
+This is going to be used by a number of people in many 
+different ways.
+    Now, having said all this, I want to raise four areas where 
+I would hope we give some concentration, as the bill is already 
+enacted, we get more and better implementation. And I want to 
+point out four areas.
+    One is the challenge is going to be getting this data up in 
+a user-friendly, searchable format. I know, because OMB Watch 
+is now in the throes of trying to put up the two key 
+databases--and we will do acronyms, since you have already 
+mentioned it--FAADS and FPDS. Contracts and the data that deals 
+with grants, loans, insurance, subsidies, we are trying to put 
+it all available through an online service by October 1. And so 
+we are wrestling with this issue of how to do it.
+    I would encourage that we create some kind of citizens 
+panel, require some kind of data testing from OMB so that we 
+ensure that we are getting it in the way that it can be used.
+    The second concern I have is the data quality. All the 
+conversation in the last panel was about obtaining information 
+that is so critically important, I would encourage in the bill 
+we start to ask OMB to make recommendations how to improve the 
+data quality.
+    The third area is to make sure we are getting all the data 
+we need. The issue is, as Senator McCain talked about--a 
+Livestock Compensation Program--we need to be sure we are going 
+to get all of that data. The way the bill might be structured, 
+we need to look at it carefully to make sure we are not going 
+to exclude certain key elements like farm subsidies or flood 
+insurance, because they go to individuals.
+    And the fourth point I would make, which you have already 
+addressed, Senator Coburn, and that is make sure it is 
+implemented. And the thorniest issue will be this issue of 
+subrecipient. I think we are strongly supportive----
+    Senator Carper. Say that again? Make sure it is what?
+    Mr. Bass. Subrecipient reporting, subgrants, subcontracts. 
+And I think the Chairman has identified some improvements 
+already talked about, and I think those go a long distance in 
+getting us there. The real issue is to touch base with the 
+players who are going to have to implement this and to make 
+sure it can be done in a way that makes sense. We just need to 
+make sure this can be done. I want to emphasize we are 
+supportive of subrecipient reporting.
+    Let me conclude with a notion that this bill is a building 
+block. It is not the be-all and end-all in transparency. A 
+number of things the last panel talked about, like earmarks, 
+mismanagement, are not going to be obtained by just simply 
+legislation that calls for greater disclosure of Federal 
+spending. Similarly, there are many other important issues like 
+tax expenditures. These are all things that need to be done, 
+and they should be added after this bill is passed. And I am 
+hoping that you, Mr. Chairman, and you, Senator Carper, will 
+lead in the efforts to enhance transparency once we move beyond 
+this.
+    So I am very excited about this bill, and I thank you for 
+letting us testify today.
+    Senator Coburn. Thank you, Dr. Bass. Mr. Brenner.
+
+  TESTIMONY OF ERIC BRENNER,\1\ DIRECTOR, MARYLAND GOVERNOR'S 
+                         GRANTS OFFICE
+
+    Mr. Brenner. Thank you, Mr. Chairman and Senator Carper. As 
+you heard, my name is Eric Brenner, Director of the Maryland 
+Governor's Grants Office, created less than 3 years ago by 
+Governor Ehrlich and Lieutenant Governor Steele, and in a short 
+period of time, we have been recognized by the National 
+Governors Association as a ``best practice,'' and we just won a 
+Special Achievement award from the National Grants Management 
+Association.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Brenner appears in the Appendix 
+on page 47.
+---------------------------------------------------------------------------
+    I think I can sort of cut to the chase pretty quickly here. 
+We just came out with our third annual report. It lists every 
+single Federal grant received by State agencies in Maryland. 
+This past year, 499 Federal grants went to all of our State 
+agencies, approximately $7 billion. We know from census data 
+that the State of Maryland receives approximately $9 billion in 
+Federal grants, so obviously $9 billiion minus $7 billion, 
+there is another $2 billion floating around that goes to 
+universities, nonprofits, and local governments.
+    As the legislators, governors, and mayors become 
+increasingly familiar with the detail we can give them on the 
+money that flows through us, there is a lot of interest in 
+where the rest of the money going. And there is also a timing 
+aspect.
+    So the first year they were happy to have anything. The 
+second year the interest picked up. And this latest report, the 
+Federal fiscal year 2004 is the most recent data we have. The 
+census produced this December 27, 2005. They came out with 
+Federal fiscal year 2004 data. So it is almost a year and a 
+half late. There are reasons why it took so long, but only 3 
+weeks later, my little office of three people was able to come 
+up with State fiscal year 2006 and even estimates for 2007 data 
+on Federal funds coming through State Government. And as I am 
+working with legislators in front of the General Assembly, they 
+ask me what is the deal here? Why can't I get this information 
+sooner? And Senator Obama hit on a real-life example from this 
+past legislative session. There was a small nonprofit, and I am 
+going to call it a YMCA. It was not, but it was something like 
+that with national recognition in the county looking for funds. 
+And the legislator said, Can you tell me if this little YMCA is 
+getting any direct Federal grants? Because if they are, maybe 
+we want to give them more money if the Feds trust them to 
+manage the money well. Maybe that is a good thing. Or maybe we 
+want to go to another group and give them money. Or maybe we 
+want to stiff them and we do not want to give them anything, 
+but we would love to help them find out what other YMCAs are 
+getting funds out there. And you are telling me you cannot do 
+this. OK. Once the session is done, go work with your friends 
+in the Federal Government and see if you can move this stuff 
+along a little bit faster, because it really is valuable. There 
+are real live policy decisions that ride on things like this.
+    This was not the first time I was told by legislators or a 
+governor to go back and talk to the Federal folks to get more 
+and better data. Back when I was working for the prior governor 
+in Illinois and Senator Obama was in the General Assembly, I 
+was charged with setting up an Illinois Federal clearinghouse, 
+and at that time the main issue was access to grant notices. At 
+the time I was charged with cobbling together a website that 
+could pull in all new Federal grants notices so State agencies 
+and nonprofits could see what the Feds were offering up.
+    That was about 7 years ago, and at that time I said, Wait a 
+minute, why are we doing this? Shouldn't this all be in one 
+place? And a couple years later of lobbying and cajoling and 
+work from Congress, Grants.gov is now working beautifully and 
+no State has to devote staff to identify what new Federal 
+grants are available. It is out there on the website. Every day 
+you flip on the machine in the morning, and you see what new 
+grants are out there. It was a real big step forward. And yet 
+even in Illinois, when we used to pull the data together, the 
+timing issue would come up all the time. Why do we only know 
+what we are getting through us? Why can't we see what else is 
+going on out there?
+    I think Governor Ehrlich is flattered that other States are 
+beginning to copy our grants office. There really are just five 
+or six or seven like this out there, but there are new ones 
+popping up all the time.
+    I got a call from Delaware in the last 3 months. A woman 
+named Maureen Querey, whom I had never met before, was charged 
+with setting up this office. She is working with Joe Hickey, 
+whom I know really well. He did the training when you were a 
+governor, and he is supposed to help her do training programs 
+on grants management. But first she has got to ask, ``What are 
+we getting? Help me pull the numbers together.'' And that is 
+going to eat up a lot of time. So as much as Governor Ehrlich 
+loves the fact that people are copying our stuff, we would love 
+to see every State have this information and free up my time so 
+I can work more with nonprofits and local officials to better 
+match resources with policy goals.
+    The last question that was addressed a bit--this is the 
+first time I have seen the revisions here, and I am speaking 
+just for the Ehrlich-Steele Administration and one State. But I 
+do work pretty closely with the State associations on this and 
+the handful of other States that have grant offices. And there 
+is a real concern that what is so close to a terrific idea can 
+somehow get bogged down on the issue of the subgrantee 
+reporting. And so many folks have wanted this for so long, and 
+even senior officials at OMB sort of went out on a limb to push 
+for this initially, and this was not popular with some of the 
+Federal agencies. I think they realized a little push was a 
+good thing. In our 499 grant programs, each one is managed 
+differently in a different statute, and we do not have a 
+statewide grants management system, nor does any State. 
+Michigan, I think, will be the first to get there in a year or 
+two, and to merge 25 different grants management systems into 
+one to get this data is going to be difficult.
+    So I would urge continued consultation with the bill's 
+sponsors in the House and OMB. There is a legitimate issue 
+here, and I think speaking for the people on this panel and a 
+lot of the State governments, the bill is terrific and we 
+really want to support it and would hate to see someone who 
+does not like the core concept of the bill use a little detail 
+like ``you mean you want every Medicaid recipient, the amount 
+of the money they got''--there are little ways you could pick 
+at this if you wanted to bring it down, and a little bit of 
+consultation I think can get over those rough spots.
+    Senator Coburn. I assure you we are already seeing that.
+    Senator Coburn. Mr. Tapscott.
+
+   TESTIMONY OF MARK TAPSCOTT,\1\ EDITORIAL PAGE EDITOR, THE 
+                 WASHINGTON EXAMINER PROPRIETOR
+
+    Mr. Tapscott. Thank you, Senator. I appreciate very much 
+the opportunity to be here, and I just want to point out that, 
+as one of your fellow Oklahomans, it is especially great to see 
+you doing all of the things that you have been doing this past 
+year on earmarks.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Tapscott appears in the Appendix 
+on page 50.
+---------------------------------------------------------------------------
+    I want to also say, particularly to my colleagues over on 
+the press table, that normally I would be over there with them 
+getting ready to ask you guys questions rather than sitting at 
+this table, hopefully answering questions from you all. But 
+this is on an issue that, like the Freedom of Information Act, 
+I believe is fundamentally important, both as an American 
+citizens and to my profession, my chosen profession. And I 
+think what is going to be possible as a result of the passage 
+of this bill is of sufficient importance that I have encouraged 
+all of the professional journalism organizations to become very 
+vocally in favor of this bill as well.
+    I want to just address the basic question that I was asked 
+to talk about, and that is, What effect would passage of this 
+legislation have on journalism? And I think the closest analogy 
+that I can think of is the effect of having campaign finance 
+data widely available to journalists and to the general public. 
+This began about 20 years ago.
+    As you all well know, there is really no such thing as an 
+anonymous donor these days, and that is very much as a result 
+of the fact that data on who is giving what to whom and which 
+special interests are doing what with their money has become so 
+widely and easily available.
+    One of the effects of that in journalism, obviously, was 
+that it enhanced the public interest in and the power of 
+political reporting specifically. But even more important than 
+that, it empowered investigative journalism about government in 
+a way that had not been previously possible, except on an 
+anecdotal basis.
+    Senator McCain mentioned the fine piece of reporting by 
+that other newspaper in town, the Washington Post. That was 
+basically done as a result of inside sources and anecdotal 
+reporting. It probably would have been done as a matter of 
+course if this database was in existence. And ``as a matter of 
+course'' is a good phrase for what I think would be an accurate 
+description of what would happen to government reporting when 
+this database becomes widely available.
+    We get no comprehensive, systematic daily reporting on 
+where tax dollars are going simply because, as has been 
+documented in abundant detail, it is basically impossible to 
+get much of the information and extraordinarily difficult to 
+get the rest of it. We are in an era when most journalism 
+organizations are cutting costs, unfortunately, cutting staff, 
+editorial staff, unfortunately, and frankly there are just not 
+enough people nor enough time to do the kind of rigorous 
+investigative reporting that government deserves and the 
+American people deserve.
+    This would make a profound difference in that because it, 
+frankly, would make it so much easier to get so much more of 
+the data. And I think that you would see every basic major beat 
+in a newsroom, from the cops beat where the junior reporters 
+start, right up to the investigative staffs, incorporating as a 
+matter of course data from this database.
+    Speaking as a professional journalist of 20 years, that 
+excites me. Speaking as a blogger, which I am also, I am even 
+more excited about what the potential effect on the new media 
+will be of this database.
+    One of my blogging colleagues, Ed Morrissey of Captain's 
+Quarters, has predicted that very soon after this database 
+becomes available, he believes there will be 10,000 blogs 
+coming into existence specifically for the purpose of exploring 
+Federal spending with regard to their particular States or 
+their particular congressional districts. I think, based on my 
+own experience with the Porkbusters bloggers in the 
+blogosphere, that Ed probably is underestimating the number of 
+blogs that will come into being as a result of this.
+    To summarize, I think that just as nobody who is in 
+politics or journalism today can afford to ignore 
+Opensecrets.org, the website where campaign finance data first 
+was made available, we are very close to a time when the 
+Federal spending database will also be of that much importance. 
+And I am sure there will be at least one website called 
+Spendingsecrets.org, and I hope I will have something to do 
+with that. Thank you very much.
+    Senator Coburn. Thank you.
+    I want to ask each of you, the bill that came out of the 
+House excluded contracts. I personally believe that is a fatal 
+error in the bill, and I would like each of your comments on 
+that.
+    Mr. Tapscott. I think having covered Federal contracting on 
+a waste and fraud beat, it makes no sense to me at all to not 
+include contracting data. As a journalist, of course, I want as 
+much information as I can get. But the point of this database 
+is to enhance the public's ability to know where the Federal 
+dollars are going. And in order to understand that, you have to 
+have information about the contracts.
+    Senator Coburn. Mr. Brenner.
+    Mr. Brenner. The State of Maryland gets about $20 billion 
+in Federal procurement each year. We only get about $9 billion 
+in grants. Most States it is the reverse. They get a lot more 
+grant money than procurement and contracts.
+    Two years ago, we did do a real brief document showing 
+which counties it goes to, which companies, and there was 
+incredible interest. We have an intern working hard this summer 
+to try to re-create it. That is all he is doing. He is working 
+really hard to pull this stuff together, and, again, it still 
+will be old data. The need is great. And it is important to 
+recognize that within the Federal Government, the grants world 
+and the contract procurement world are really different. I am 
+not sure how they grew up to be as different as they are. But 
+when you are trying to do some of the things that you and the 
+various sponsors have proposed, it really works very well right 
+away on the contract side. The grant side might take a little 
+more tweaking, but the value of the information is absolutely 
+there. I have got an audience hungry for anything I can give 
+them.
+    Senator Coburn. And that is to make good decisions at the 
+State level. You do not want the data just for the data. You 
+want the data so that you can make a better decision at the 
+State level.
+    Mr. Brenner. Right. Practical example with the base 
+closure, the BRAC process, concluding the more we know where 
+the Federal contract dollars are going, the better counties can 
+prepare school systems, the better they can do roads, the 
+better they can do job training with the welfare-to-work 
+programs. There is a real need for this so we can efficiently 
+use our money, and the longer we have to wait to get that 
+information, the more we are set back.
+    Senator Coburn. Dr. Bass.
+    Mr. Bass. I concur with my colleagues. You must have all 
+venues for expenditures. I would say down the road we also need 
+to add in tax expenditures. But one thing to keep in mind is 
+when we look at GAO and other audits that have occurred, the 
+bulk of the patterns of mismanagement are all identified in the 
+contract side. There have been no systemic patterns on the 
+grant side, although I will say there have been some questions 
+about allocations of funds under various forms of subsidies, 
+particularly in light of Hurricane Katrina. And so I think it 
+is an obvious piece to have both contracts and grants.
+    Senator Coburn. With the recent revelations of 
+congressional contracts and favors, that seems to make no sense 
+that we would not want contracts to be--to have sunshine on the 
+contracts since there is this potential conflict of interest 
+between fundraising and contracts. You all would agree with 
+that?
+    Mr. Bass. Absolutely. If I could just add, Senator, I hate 
+to use a term that I have used in other settings, but what the 
+objective should be is a real accountability matrix to bring 
+all these sources together.
+    Senator Coburn. Right. I have worked in a lot of areas. 
+Under grants, we have had flirting classes and clown 
+demonstrations and all sorts of things. So I think they are 
+both equally liable, although the vast majority of the dollars 
+have been in the contract area.
+    One final question, and then I will turn it over to Senator 
+Carper. We have worked hard to try to make the U.N. accountable 
+for our contributions in terms of both the Oil for Food scandal 
+and all the other--we had a hearing here not long ago where 
+they showed one-third of their expenditures were in waste, 
+fraud, and abuse. It is pretty hard for this government to 
+demand the U.N. be accountable in how they spend their money 
+when we are not. And so that is another reason for it. We 
+cannot claim to want to know how our money is spent elsewhere 
+if we don't know how we are spending our money. So I would make 
+that comment.
+    Senator Carper.
+    Senator Carper. Thank you, Senator. And, gentlemen, thank 
+you very much for joining us and for your testimony, and, 
+frankly, for your interest and involvement in these issues for 
+some time.
+    Mr. Brenner, thank you for your comments about Joe Hickey. 
+When I was privileged to be governor for 8 years, I worked with 
+Joe. Joe was in charge, as you suggested, of training in our 
+personnel area. He traveled more abroad in that role. Mr. 
+Chairman, I don't know how he parlayed that position into as 
+much foreign travel as he made, but he made me look like a 
+stay-at-home Mom or something, a stay-at-home Dad, with regards 
+to his travel. We should have a hearing on him. I do not think 
+he does that anymore, but----
+    Senator Coburn. Well, we will later. [Laughter.]
+    Senator Carper. He was also a lot of fun. He was fun and he 
+was quite good in his job. I will tell him his name came up in 
+vain here in this Subcommittee.
+    Dr. Bass, I want to come back to you. You were making four 
+points. The second I think involved data quality. The third was 
+getting all the data we need. Would you just review those with 
+me, with us again, please?
+    Mr. Bass. The first one is a user-friendly site, and the 
+problem----
+    Senator Carper. Even go back before that, but these are 
+four points you made with reference to?
+    Mr. Bass. To strengthening as we move along to either 
+implementation or in the final stages of marking up this bill, 
+there are things that are--I should rephrase this to say you 
+can always improve a bill, but we do not want tweaking and 
+improvements to delay the passage of S. 2590. So the comments I 
+am making are in the notion of a constructive element of how 
+can we strengthen in minor ways this bill as it is moving 
+forward to achieve unanimous consent.
+    Senator Carper. OK, good. Go ahead. Just run through those 
+again, if you would.
+    Mr. Bass. Yes. The four, very quickly, are: A user-friendly 
+website, and one of my biggest concerns is this is very complex 
+data, and as we have found in trying to put up the data, you 
+have Federal shares, you have non-Federal shares, you have 
+obligations versus what is actually spent. It is not easy to 
+penetrate. The objective is we need to do it in a way that the 
+public can really understand what our government is spending 
+money on.
+    It strikes me that one way to do that--and there may be 
+many other ways, but some suggestions I had was create some 
+kind of a citizens panel to watch how OMB is doing this and to 
+give feedback to you on whether this is meeting the need. It 
+might be temporary. It might be during the creation of it. Or 
+it may be every 3 years to assess it. A second would be to data 
+test, to test with users before the site goes live with 
+different kinds of users to make sure it is meeting the need. 
+So that is sort of one.
+    The second is the----
+    Senator Carper. Well, would you say that is the most 
+important of the four, or is there one that is more important 
+than the other?
+    Mr. Bass. Well, I think they are all equally important 
+because, in order to have it in a user-friendly way, you want 
+to make sure the quality of the data is good. If the data 
+itself is not expressing the kinds of things that you two have 
+said today you want, and the Senators before us talked about, 
+then it lacks utility.
+    I can tell you the data quality needs improvement, and I do 
+think that the public disclosure, the bill itself in passage, 
+will help to improve the quality of the data because, as Mr. 
+Tapscott talks about, there are going to be a lot of reporters 
+and others using this data. And so the government will have to 
+clean up the data.
+    Senator Coburn. Yes, that is a component of the bill. 
+Public feedback is required in the bill, and a response to that 
+is required as well.
+    Mr. Bass. Indeed, and I think that is a critical element to 
+retain. I do think maybe one notion in that response to the 
+public comment, maybe we should ask OMB to comment in its 
+annual report how they will proceed to improve the data quality 
+year after year. That might be a sub-piece of their report.
+    The third thing I talked about, which is really to the 
+heart of what the two Senators in the last panel spoke to, is 
+making sure we are getting all the data we expect we--what we 
+say in the bill, we want to make sure what we are getting. An 
+example: The Livestock Compensation Program that Senator McCain 
+mentioned we may not get because it is going to individuals, or 
+we may not get information about flood insurance that goes to, 
+say, Hurricane Katrina victims where there are some allegations 
+of abuse. So we need to find the balance here to ensure we are 
+getting all the information we definitely want, without harming 
+personal privacy.
+    And the last point I was making is really an issue about 
+the subrecipient reporting. It needs to be done in a way--it 
+should be done, and it should be done in a way that does not 
+create an overwhelming difficulty to have it done. I tend to 
+think of it----
+    Senator Carper. I am sorry. Say that again? Make sure it is 
+done in a way?
+    Mr. Bass. That it does not create an impossibility to 
+implement. Let me break it into maybe three components. One 
+issue of this bill deals with contracts and subcontractor 
+reporting, which I think can relatively easily be done. 
+Contracts have for-profit motivate built in. You can require 
+the contractor to notify about subcontractors and on down the 
+line.
+    A second kind of category of subreporting is a subgrant to 
+a nongovernmental entity, like a nonprofit. In some of those 
+cases, it may be relatively easy to do that. However, there are 
+paperwork and other kinds of burdens imposed. And as you said, 
+Senator Coburn, you want to do it in a way that ensures it does 
+not create unnecessary burden.
+    The third category is what Mr. Brenner was talking about, 
+and that is, grants that go to State and local governments, 
+which is the largest share of grants. And that is a little more 
+difficult because it is not simply like the community 
+development block grant that Senator Obama talked about. Many 
+of the grants a commingled with State monies or local monies, 
+and it is hard to pull that apart and identify what is which.
+    Senator Coburn. Let me, if I may, I want to answer those.
+    Senator Carper. Sure.
+    Senator Coburn. First of all, to be able to reply and to 
+report on this is going to make every grantee and subgrantee 
+and State and local government better.
+    Mr. Bass. Right.
+    Senator Coburn. Because if they don't have a system to know 
+where their money is going now, they are going to have to have 
+one to report under this. And they should. Every grantee, every 
+contract should know where they are spending their money. And 
+if they do not, they are going to have to have a system to be 
+able to do that, which should be a part of their grant 
+application. That is number one.
+    Number two, and I think it is relatively easy if we are 
+sending 12 percent of the money for some State program, then 
+the answer in that is here is how the money was spent, of which 
+12 percent of the money was Federal. They do not have to break 
+it out. They can say, Here is the program, you supplied this 
+much money of the total, here is how we spent the money on the 
+program. So it makes States better, so they are going to have 
+to report. If they are going to take Federal funds, then they 
+are going to have to say here is where the money went. They do 
+not have to--there is no judgment on it, but what it does is it 
+creates--this bill is going to create sunshine not just for the 
+Federal Government, but for grantees and nonprofits and for 
+States. It is going to help everybody do better, have better 
+financial control, but it is going to help everybody in this 
+country know where their tax dollars are going to be going. And 
+I do not think that is hard to do.
+    If you can get on Google today and punch anything in and 
+find out all the things associated with it, it cannot be that 
+hard for the Federal Government to do this in terms of the 
+spending of the budget. It is not hard. And there are programs 
+out there now that you can buy to give cross-references for 
+names. I mean, this is not something that has to be reinvented. 
+It has already been invented. And so it is not a difficult 
+process to achieve.
+    Mr. Bass. Well, I think your changes that you are proposing 
+go a huge distance by creating both the study you have and a 
+pilot to really test out the point you are making. And I think 
+Mr. Brenner could probably speak better to the State questions 
+than certainly I could.
+    Mr. Brenner. The fear that is out there that I think the 
+OMB folks have probably expressed is that for this to be 
+carried all the way through to the last dollars, the State 
+governments will end up carrying a large share of the burden to 
+track the dollars as they move through to counties, local 
+governments, and other places. And this year was interesting 
+because Grants.gov is in the process of making sure every 
+Federal grant has to be done online electronically. That was a 
+big deal, and they just sort of imposed that. And there have 
+been some real struggles where you are sitting there and you 
+hit the button and it does not go through, and just like that, 
+you do not have someone to call. So there have been some rough 
+spots. It is getting better, and it will be better next year.
+    So the goal is----
+    Senator Coburn. It will be hard when it starts. This will 
+not be easy when it starts.
+    Mr. Brenner. No. But, again, I know the National 
+Association of State Auditors, Comptrollers, and Treasurers 
+have some legitimate issues here. And yet for Maryland, 
+Governor Ehrlich made this a second-term priority in looking at 
+all the issues when we set it up. He knew this was going to be 
+a big deal to merge all of these financial systems together. 
+And yet it is a goal we have. So by moving to 2009, that is 
+actually within the timeline we are looking to do it. Concern, 
+again, will be the other States that have not even started to 
+pull together just the basic ``who is getting the money'' 
+piece. So there are legitimate issues, but to see this bill 
+moving is very exciting. As everyone has said today, you would 
+hate to see it pulled down over what I think are some fairly 
+minor issues.
+    Senator Carper. Mr. Chairman, I have asked Dr. Bass to kind 
+of review for us his four points that he thought would further 
+strengthen the bill, and I just want to ask Mr. Brenner and Mr. 
+Tapscott to react, if you will, to what he has laid out and 
+what you think he has suggested that makes sense and where do 
+you think that it maybe does not.
+    Mr. Tapscott. I have worked with Gary Bass on this project 
+for a long time and was, in fact, working on this project alone 
+before Gary and I began working on it. So I associate myself 
+with his first three points.
+    Senator Carper. How about that fourth one?
+    Mr. Tapscott. On the fourth point, I want to point out, I 
+have posted on this issue on my blog many times. Almost 
+invariably when I post something on this, I will be contacted 
+by a private sector computer person who says, ``What is the big 
+deal? We can do this. We do it every day in the banking 
+industry.''
+    So I am a little skeptical when I hear government people 
+saying, ``Oh, we cannot do that,'' because that is what I hear 
+from people in government all the time. My guess is it is 
+probably analogous to the situation that we had a decade ago in 
+migrating from a previous generation of computer information 
+technology to a more advanced generation.
+    Senator Carper. Mr. Brenner.
+    Mr. Brenner. I never met Gary Bass until today, and yet I 
+spoke to him once and we e-mailed back and forth on the 
+testimony. His written testimony, which is quite a bit longer, 
+has a detailed section on the subgrantee reporting, which I 
+think is, one, pretty accurate; and, two, if I was saying this, 
+it would sound pretty self-serving as here is the State 
+government guy who cannot deliver. But an organization with the 
+integrity of OMB Watch I think should be taken pretty seriously 
+on this.
+    The other fear that is out there is the issue of unfunded 
+mandates being pushed from the Federal Government onto the 
+State government, and that is one way to take a large number of 
+State people who really like this here and even seeing any 
+potential risk in language that was not even intended is a 
+chance to take what should be a 100-percent good-government 
+proposal here and cause some trouble.
+    Grants.gov, it was interesting to me how many years it took 
+to get that going. Again, if I could glue little pieces of it 
+together in State government with me working half-time--and yet 
+it got done. It just took a while. This is a magnitude of 
+complexity way beyond just putting out the new notices, and yet 
+it should be out there, and we will be doing this in Maryland, 
+especially if the governor gets re-elected. And yet it is going 
+to be a lot of work, and everybody recognizes it. You are 
+getting treasurers, you are getting comptrollers, you are 
+getting fiscal people in multiple agencies working together, 
+formula grants, block grants. Each grant is a different story, 
+and we have got a few I could comply with in half an hour and 
+call you and get you all the information run down here. But 
+then as I walk through the whole list of 500, we would squeeze 
+down to the last 10 or 15 that really are difficult, and it 
+would not be from a lack of wanting to comply.
+    Senator Carper. All right. Gentlemen, thank you.
+    Senator Coburn. You would agree, though, Mr. Brenner, that 
+will cause better government in the State of Maryland.
+    Mr. Brenner. As Governor Ehrlich has said from the first 
+day I was hired, he wants the data out there, whether it looks 
+good or bad or something else. And the more information that is 
+out there, the better for everybody.
+    Senator Coburn. And all of you supported the House bill. Is 
+that correct?
+    You did not because it did not have--but it did have 
+subgrant reporting right away, which we have changed.
+    And the final point I want to make before I thank you for 
+being here is OMB has not expressed any difficulties with this 
+bill publicly. They support this bill. They have said so. And 
+so with any change is problems, and change is difficult. Just 
+ask my wife when she talks about me changing. So I know change 
+is difficult. But the fact is it is going to be worth it. We 
+are going to have better government. We are going to have 
+better democracy. We are going to have more transparency to 
+make us more accountable, and it is going to help us solve the 
+problem that Senator Carper and I and everybody else in this 
+room are concerned about: How do we get out of the financial 
+pickle we are in? And the only way we do it is know the details 
+of the financial pickle we have got.
+    I want to thank each of you all for being here. The hearing 
+is adjourned.
+    [Whereupon, at 3:50 p.m., the Subcommittee was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 <all>
+
+</pre></body></html>

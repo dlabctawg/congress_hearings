@@ -1,0 +1,407 @@
+<html>
+<title> - H.R. 3680, TO AMEND THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1998 WITH RESPECT TO THE ADJUSTMENT OF COMPOSITE THEORETICAL PERFORMANCE LEVELS OF HIGH PERFORMANCE COMPUTERS</title>
+<body><pre>
+[House Hearing, 106 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+ 
+ H.R. 3680, TO AMEND THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL 
+   YEAR 1998 WITH RESPECT TO THE ADJUSTMENT OF COMPOSITE THEORETICAL 
+            PERFORMANCE LEVELS OF HIGH PERFORMANCE COMPUTERS
+
+=======================================================================
+
+                                 MARKUP
+
+                               BEFORE THE
+
+                            SUBCOMMITTEE ON
+                INTERNATIONAL ECONOMIC POLICY AND TRADE
+
+                                 OF THE
+
+                              COMMITTEE ON
+                        INTERNATIONAL RELATIONS
+                        HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             APRIL 6, 2000
+
+                               __________
+
+                           Serial No. 106-154
+
+                               __________
+
+    Printed for the use of the Committee on International Relations
+
+
+        Available via the World Wide Web: http://www.house.gov/
+                  international<INF>--</INF>relations
+
+                                 ______
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+67-608 CC                   WASHINGTON : 2000
+
+
+
+
+
+
+                  COMMITTEE ON INTERNATIONAL RELATIONS
+
+                 BENJAMIN A. GILMAN, New York, Chairman
+WILLIAM F. GOODLING, Pennsylvania    SAM GEJDENSON, Connecticut
+JAMES A. LEACH, Iowa                 TOM LANTOS, California
+HENRY J. HYDE, Illinois              HOWARD L. BERMAN, California
+DOUG BEREUTER, Nebraska              GARY L. ACKERMAN, New York
+CHRISTOPHER H. SMITH, New Jersey     ENI F.H. FALEOMAVAEGA, American 
+DAN BURTON, Indiana                      Samoa
+ELTON GALLEGLY, California           MATTHEW G. MARTINEZ, California
+ILEANA ROS-LEHTINEN, Florida         DONALD M. PAYNE, New Jersey
+CASS BALLENGER, North Carolina       ROBERT MENENDEZ, New Jersey
+DANA ROHRABACHER, California         SHERROD BROWN, Ohio
+DONALD A. MANZULLO, Illinois         CYNTHIA A. McKINNEY, Georgia
+EDWARD R. ROYCE, California          ALCEE L. HASTINGS, Florida
+PETER T. KING, New York              PAT DANNER, Missouri
+STEVEN J. CHABOT, Ohio               EARL F. HILLIARD, Alabama
+MARSHALL ``MARK'' SANFORD, South     BRAD SHERMAN, California
+    Carolina                         ROBERT WEXLER, Florida
+MATT SALMON, Arizona                 STEVEN R. ROTHMAN, New Jersey
+AMO HOUGHTON, New York               JIM DAVIS, Florida
+TOM CAMPBELL, California             EARL POMEROY, North Dakota
+JOHN M. McHUGH, New York             WILLIAM D. DELAHUNT, Massachusetts
+KEVIN BRADY, Texas                   GREGORY W. MEEKS, New York
+RICHARD BURR, North Carolina         BARBARA LEE, California
+PAUL E. GILLMOR, Ohio                JOSEPH CROWLEY, New York
+GEORGE RADAVANOVICH, Califorina      JOSEPH M. HOEFFEL, Pennsylvania
+JOHN COOKSEY, Louisiana
+THOMAS G. TANCREDO, Colorado
+                    Richard J. Garon, Chief of Staff
+            Michael H. Van Dusen, Democratic Chief of Staff
+            John P. Mackey, Republican Investigative Counsel
+                     Parker Brent, Staff Associate
+                                 ------                                
+
+        Subcommittee on International Economic Policy and Trade
+
+                 ILEANA ROS-LEHTINEN, Florida, Chairman
+DONALD A. MANZULLO, Illinois         ROBERT MENENDEZ, New Jersey
+STEVEN J. CHABOT, Ohio               PAT DANNER, Missouri
+KEVIN BRADY, Texas                   EARL F. HILLIARD, Alabama
+GEORGE RADANOVICH, California        BRAD SHERMAN, California
+JOHN COOKSEY, Louisiana              STEVEN R. ROTHMAN, New Jersey
+DOUG BEREUTER, Nebraska              WILLIAM D. DELAHUNT, Massachusetts
+DANA ROHRABACHER, California         JOSEPH CROWLEY, New York
+TOM CAMPBELL, California             JOSEPH M. HOEFFEL, Pennsylvania
+RICHARD BURR, North Carolina
+             Mauricio Tamargo, Subcommittee Staff Director
+        Jodi Christiansen, Democratic Professional Staff Member
+                Yleem Poblete, Professional Staff Member
+                   Victor Maldonado, Staff Associate
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+
+Markup on H.R. 3680, to amend the National Defense Authorization 
+  Act for Fiscal Year 1998 with respect to the adjustment of 
+  composite theoretical performance levels of high performance 
+  computers......................................................     1
+
+                                APPENDIX
+
+Prepared statements:
+
+The Honorable Ileana Ros-Lehtinen, a Representative in Congress 
+  from Florida, and Chair, Subcommittee on International Economic 
+  Policy and Trade, Committee on International Relations.........     8
+The Honorable Donald A. Manzullo, a Representative in Congress 
+  from Illinois..................................................    10
+
+Bill:
+
+H.R. 3680........................................................    13
+
+
+ H.R. 3680, TO AMEND THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL 
+   YEAR 1998 WITH RESPECT TO THE ADJUSTMENT OF COMPOSITE THEORETICAL 
+            PERFORMANCE LEVELS OF HIGH PERFORMANCE COMPUTERS
+
+                              ----------                              
+
+
+                        THURSDAY, APRIL 6, 2000
+
+              House of Representatives,    
+         Subcommittee on International Economic    
+                                      Policy and Trade,    
+                      Committee on International Relations,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 2:10 p.m., in 
+room 2172, Rayburn House Office Building, Hon. Ileana Ros-
+Lehtinen (Chair of the Subcommittee) presiding.
+    Ms. Ros-Lehtinen. This Subcommittee will come to order.
+    American ingenuity, creativity and talent has throughout 
+the centuries spiraled the United States into a position of 
+global leadership. It has enabled us to adapt and build upon 
+economic, political and social changes to usher in a new era of 
+prosperity and opportunity.
+    Just as Eli Whitney's cotton gin served as the catalyst for 
+the Industrial Revolution, the computer industry responsible 
+for one-third or real economic growth continues to serve as the 
+driving force behind the incredible commercial expansion that 
+the U.S. is now enjoying. However, it cannot continue this 
+unparalleled trend unless it is able to innovate and compete in 
+new markets. This goes to the heart of the legislation that we 
+are considering today.
+    H.R. 3680, introduced by our House colleagues David Dreier 
+and Zoe Lofgren takes into account emerging threats and 
+security considerations by maintaining a limited waiting 
+period. Nevertheless it offers a practical, judicious and 
+realistic solution to the challenges faced by our computer 
+industry by reducing the Congressional review period from 180 
+to 30 days. H.R. 3680 would make the waiting period more 
+reasonable and bring it into line with other review periods for 
+changing national security export controls.
+    Currently, for example, there is a 30-day waiting period 
+established by Congress to remove articles from the munitions 
+list, a list of Defense articles and services that are subject 
+to export controls including such items as artillery, launch 
+vehicles, missiles, rockets, torpedoes, warship, aircraft, and 
+tanks. Yet we maintain a 180-day waiting period for exports of 
+supercomputers.
+    From a practical perspective it does not make any sense for 
+military items or arms transfers to require less time for 
+Congressional review than that which is required for 
+supercomputers. These products and technology have broad 
+commercial application and an innovative cycle or life cycle of 
+less than 3 months. If we do not reduce the waiting period and 
+expedite the process for our computer industry, we will have a 
+situation where new export controls will be out of date by the 
+time they are approved.
+    For example, the new policy announced by the Administration 
+on February 1st of this year will be an anachronism by the time 
+the current 6-month review period expires on August 1st. It is 
+impossible for computer export control policy to keep pace with 
+the ever-changing technological and market realities unless we 
+pass H.R. 3680 to reduce Congressional review to 30 days.
+    We need to avoid a repetition of recent events. For 
+example, last Fall Apple Computers began marketing its new 
+single processor personal computer whose power exceeded the 
+computer export control threshold in effect at that time. 
+However, Apple was unable to sell any of these new systems 
+because the adjustment made by July of last year did not become 
+effective until January, 2000. IBM was in a similar situation 
+with its new Aptiva personal computer line.
+    H.R. 3680 is a bipartisan bill which provides immediate 
+relief for the computer industry, an industry which is 
+conducting landmark, cutting edge work to maintain U.S. 
+technological leadership. H.R. 3680 maintains the delicate 
+balance between national security and market considerations 
+while providing a more responsive, realistic approach to export 
+controls on supercomputers.
+    I am proud to be a cosponsor of this measure, and I am 
+encouraged by the fact that all the majority Subcommittee 
+Members have also rendered their support as cosponsors, and 
+that person needs some Florida orange juice for Dana, and I am 
+proud to recognize Mr. Robert Menendez of New Jersey, our 
+Ranking Member. Thank you, Bob.
+    [The prepared statement of Ms. Ros-Lehtinen appears in the 
+appendix.]
+    Mr. Menendez. Thank you, Madam Chairlady, and I am glad we 
+are holding this markup. I would have hoped that the 
+legislation would be as futuristic as the room is and would 
+have a few more things to it, but at least we are doing 
+something.
+    Madam Chairlady, the Republicans' impromptu inclusion of a 
+180-day Congressional notification period for increasing the 
+MTOPS level for export sales in the 1998 National Defense 
+Authorization Act handicapped the American computer industry. A 
+180-day review period has made it impossible for the U.S. 
+Government to respond quickly to the latest advances in 
+computer processing technology.
+    Last summer for example, new personal computers introduced 
+by Apple and IBM surpassed the MTOPS level for exports for Tier 
+3 countries like Israel and Egypt. It was not until after the 
+180 day notification period ended in January that these 
+computers were allowed to be sold without a license.
+    Later this year Intel is expected to introduce the Itanium 
+chip that will allow a computer that uses four chips to operate 
+at nearly 23,000 MTOPS, a level that exceeds current policy for 
+export sales to Tier 2 and Tier 3 countries. In the computer 
+industry, where the average shelf-life of a computer is no more 
+than 18 months and probably closer to 12, a 6-month delay in 
+sales is a very long time, particularly when overseas 
+competitors are nipping at the heels of American companies.
+    For this reason I strongly support this legislation. 
+However, I am disappointed that this legislation only addresses 
+the MTOPS notification period. The legislation does not address 
+other NDAA-derived problems like the 120-day notification 
+period for moving countries between tiers and burdensome post-
+shipment verification requirements.
+    More importantly, while this bill fixes one problem, it is 
+not a substitute for reauthorizing the EAA and updating our 
+Cold War export control policies.
+    I intended to offer amendments today to address these 
+issues, but in the interest of the bill's passage in the House 
+I have decided to withhold at this stage from offering any 
+amendments. It is unfortunate that there are those who cannot 
+see clear to making these very important changes that would 
+ensure America's continued leadership in the computer industry.
+    America's industry deserves laws that are responsive to 
+today's global economy and not laws that were created over two 
+decades ago to respond to Cold War era threats.
+    I know that the Chairlady shares my view that in order to 
+sustain our leadership in the global economy we must take 
+action. I hope that she and other enlightened Members of the 
+Republican caucus can talk to some of their colleagues about 
+the importance of reauthorizing the EAA. No one in the Congress 
+is advocating for changes that would undermine our national 
+security, but rather for policy changes that would ensure our 
+national security while also streamlining our export control 
+laws to focus on those countries and those exports that are of 
+greatest concern to our nation.
+    It is our obligation to address this issue and to ensure 
+that our laws reflect what is in the best interest of our 
+nation. Failure to do so keeps the Congress and its legitimate 
+role out of the issue and cedes it to the executive branch, so 
+instead of this piecemeal approach, we should consider 
+comprehensive legislation, namely the EAA, to reform our export 
+control laws, but I do urge for the purposes of solving part of 
+our problems that our colleagues support today's legislation. 
+Thank you.
+    Ms. Ros-Lehtinen. Thank you so much, Mr. Menendez. Mr. 
+Rohrabacher, Mr. Crowley, do you have opening statements?
+    Mr. Crowley. Yes.
+    Ms. Ros-Lehtinen. Yes, Mr. Crowley.
+    Mr. Crowley. Thank you, Madam Chairman.
+    I am here today to speak in support of H.R. 3680 to amend 
+the National Defense Authorization Act and reduce the waiting 
+period for the export of computers from 180 days to 30 days. I 
+am proud to cosponsor this legislation, which will enable 
+American high tech companies to compete effectively around the 
+world.
+    Currently the NDAA requires a 6-month waiting period before 
+the Administration can update Tier 3 countries' export control 
+laws. When NDAA went into effect in 1998 the bill targeted 
+computers that operated above 2000 MTOPS. Today's personal 
+computers operate in the 4000 MTOPS range and office servers in 
+the 12,000 MTOP range.
+    The current 6-month waiting period clearly does not make 
+sense for products that have a 3-month innovation cycle and are 
+widely available from our foreign competitors. I know that some 
+of my colleagues think that this legislation is not going far 
+enough. I agree with them and I am looking forward to working 
+with my distinguished colleagues on this Subcommittee to 
+overhaul the U.S. export control system in a more comprehensive 
+manner, but we also have to realize how time-sensitive the 
+passage of H.R. 3680 is.
+    The new Intel microprocessor, the Itanium, will be 
+available at midyear. A four-way Itanium processor computer is 
+projected to perform above 22,000 MTOPS, therefore the recent 
+update to a threshold of 12,500 MTOPS will already be out of 
+date when it takes effect.
+    Make no mistake, our current economic boom relies heavily 
+on the information technology industry. The IT sector 
+contributed about 35 percent to U.S. economic growth in recent 
+years and foreign sales are crucial to that success, but our 
+broken export control system threatens to cost the computer 
+industry valuable sales in some of the most critical markets in 
+the world.
+    We should concentrate our resources on controlling real 
+supercomputers and not waste them on controlling widely 
+available business computers. This bipartisan legislation is 
+supported by the Administration and the computer industry, and 
+I urge my colleagues to vote in favor of it today.
+    Thank you, Madam Chair.
+    Ms. Ros-Lehtinen. Thank you so much, Mr. Crowley.
+    Hillel, if you could pass on to the Chairman our deep 
+dissatisfaction. I had told all the Subcommittee Members that 
+our images would be portrayed as rock stars on this giant 
+screen before us, but alas, it is not to be, and I was 
+practicing my air guitar all morning.
+    Mr. Crowley. Madam Chair, I just want to let you know, I 
+think you are a rock star, no matter whether you are on the 
+screen or not.
+    Ms. Ros-Lehtinen. Aw--thank you. He's good. He's good.
+    Pursuant to notice, the Subcommittee will now turn to the 
+consideration of H.R. 3680, which the Staff Director will 
+report, Mr. Tamargo.
+    Mr. Tamargo. H.R. 3680, a bill to amend the National 
+Defense Authorization Act for Fiscal Year 1998 with respect to 
+the adjustment of composite theoretical performance levels of 
+high performance computers.
+    Ms. Ros-Lehtinen. Without objection, the Clerk will read 
+the text of the bill.
+    Mr. Tamargo. To amend the National Defense Authorization 
+Act for Fiscal Year 1998 with respect to the adjustment of 
+composite theoretical performance levels of high performance 
+computers. Be in enacted by the----
+    Ms. Ros-Lehtinen. Without objection, the bill is considered 
+as having been read and is open to amendment at this point.
+    Are there any amendments? If there are no amendments, the 
+Chair will put the question on favorably reporting the bill to 
+the full Committee.
+    So many who are in favor of the question, say aye.
+    [Chorus of ayes.]
+    Ms. Ros-Lehtinen. So many who are opposed, say no.
+    [No response.]
+    Ms. Ros-Lehtinen. The ayes appear to have it. The ayes have 
+it and the bill will be forwarded to the full Committee.
+    [The bill appears in the appendix.]
+    I thank the Members for their cooperation, and before we 
+adjourn I would like to recognize Mr. Bereuter for some 
+statements and we will be in touch with Chairman Gilman about 
+prompt consideration of this measure in the full Committee next 
+Thursday, April 13th.
+    Mr. Bereuter.
+    Mr. Bereuter. Madam Chairman, I have no comment. I just 
+want to commend you on being so expeditious and I was happy to 
+get here in time for the vote.
+    Ms. Ros-Lehtinen. Thank you so much.
+    The Subcommittee will stand in recess subject to the call 
+of the Chair. Thank you.
+    [Whereupon, at 2:25 p.m., the Subcommittee adjourned 
+subject to the call of the Chair.]
+      
+=======================================================================
+
+
+
+
+                            A P P E N D I X
+
+                             APRIL 6, 2000
+
+=======================================================================
+
+      
+    [GRAPHIC] [TIFF OMITTED] T7608.001
+    
+    [GRAPHIC] [TIFF OMITTED] T7608.002
+    
+    [GRAPHIC] [TIFF OMITTED] T7608.003
+    
+    [GRAPHIC] [TIFF OMITTED] T7608.004
+    
+    [GRAPHIC] [TIFF OMITTED] T7608.005
+    
+    [GRAPHIC] [TIFF OMITTED] T7608.006
+    
+    [GRAPHIC] [TIFF OMITTED] T7608.007
+    
+
+</pre></body></html>

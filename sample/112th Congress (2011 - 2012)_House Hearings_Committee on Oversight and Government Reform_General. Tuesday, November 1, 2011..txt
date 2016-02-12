@@ -1,0 +1,2635 @@
+<html>
+<title> - LIGHTS OUT II: SHOULD EPA TAKE A STEP BACK TO FULLY CONSIDER UTILITY MACT'S IMPACT ON JOB CREATION</title>
+<body><pre>
+[House Hearing, 112 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+ LIGHTS OUT II: SHOULD EPA TAKE A STEP BACK TO FULLY CONSIDER UTILITY 
+
+                     MACT'S IMPACT ON JOB CREATION
+
+=======================================================================
+
+
+
+                                HEARING
+
+                               before the
+
+                         COMMITTEE ON OVERSIGHT
+
+                         AND GOVERNMENT REFORM
+
+                        HOUSE OF REPRESENTATIVES
+
+                      ONE HUNDRED TWELFTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           NOVEMBER 01, 2011
+
+                               __________
+
+                           Serial No. 112-133
+
+                               __________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+
+         Available via the World Wide Web: http://www.fdsys.gov
+                      http://www.house.gov/reform
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+74-039                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+              COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                 DARRELL E. ISSA, California, Chairman
+DAN BURTON, Indiana                  ELIJAH E. CUMMINGS, Maryland, 
+JOHN L. MICA, Florida                    Ranking Minority Member
+TODD RUSSELL PLATTS, Pennsylvania    EDOLPHUS TOWNS, New York
+MICHAEL R. TURNER, Ohio              CAROLYN B. MALONEY, New York
+PATRICK T. McHENRY, North Carolina   ELEANOR HOLMES NORTON, District of 
+JIM JORDAN, Ohio                         Columbia
+JASON CHAFFETZ, Utah                 DENNIS J. KUCINICH, Ohio
+CONNIE MACK, Florida                 JOHN F. TIERNEY, Massachusetts
+TIM WALBERG, Michigan                WM. LACY CLAY, Missouri
+JAMES LANKFORD, Oklahoma             STEPHEN F. LYNCH, Massachusetts
+JUSTIN AMASH, Michigan               JIM COOPER, Tennessee
+ANN MARIE BUERKLE, New York          GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               MIKE QUIGLEY, Illinois
+RAUL R. LABRADOR, Idaho              DANNY K. DAVIS, Illinois
+PATRICK MEEHAN, Pennsylvania         BRUCE L. BRALEY, Iowa
+SCOTT DesJARLAIS, Tennessee          PETER WELCH, Vermont
+JOE WALSH, Illinois                  JOHN A. YARMUTH, Kentucky
+TREY GOWDY, South Carolina           CHRISTOPHER S. MURPHY, Connecticut
+DENNIS A. ROSS, Florida              JACKIE SPEIER, California
+FRANK C. GUINTA, New Hampshire
+BLAKE FARENTHOLD, Texas
+MIKE KELLY, Pennsylvania
+
+                   Lawrence J. Brady, Staff Director
+                John D. Cuaderes, Deputy Staff Director
+                     Robert Borden, General Counsel
+                       Linda A. Good, Chief Clerk
+                 David Rapallo, Minority Staff Director
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                               WITNESSES
+
+Cuccinelli, Hon. Kenneth, II, Attorney General, Commonwealth of 
+  Virginia
+        Oral Statement...........................................     5
+        Written statement........................................     7
+Perciasepe, Hon. Robert, Deputy Administrator, U.S. Environmental 
+  Protection Agency
+        Oral Statement...........................................   159
+        Written Statement........................................   161
+Bivens, Josh, Ph.D., Economist, Economic Policy Institute
+        Oral Statement...........................................   177
+        Written Statement........................................   180
+
+                                APPENDIX
+
+Gansler, Douglas F., Maryland Attorney General and Summers, 
+  Robert M., Secretary of the Maryland Department of the 
+  Environment Committee on Oversight and Government Reform,
+        Joint Statement of.......................................   189
+Banig, Bill, Director, Government Affairs, United Mine Workers of 
+  America, and President, UJAE; and Hunter, Jim, Director, 
+  Utility Department, International Brotherhood of Electrical 
+  Workers, and Vice President, UJAE,
+        Joint Statement of.......................................   194
+Virginia DEQ-List of orders issued between January 1, 2010 and 
+  November 1, 2011,
+        Information provided for the record by Mr. Cuccinelli....   195
+
+
+ LIGHTS OUT II: SHOULD EPA TAKE A STEP BACK TO FULLY CONSIDER UTILITY 
+                     MACT'S IMPACT ON JOB CREATION
+
+                              ----------                              
+
+
+                       Tuesday, November 1, 2011
+
+                  House of Representatives,
+              Committee on Oversight and Government Reform,
+                                                   Washington, D.C.
+    The committee met, pursuant to call, at 1:03 p.m., in 2154, 
+Rayburn House Office Building, Hon. Darrell E. Issa [chairman 
+of the committee] presiding.
+    Present: Representatives Issa, Lankford, Amash, Gowdy, 
+Cummings, Towns, Norton, Kucinich, and Connolly.
+    Staff Present: Ali Ahmad, Communications Advisor; Kurt 
+Bardella, Senior Policy Advisor; Robert Borden, General 
+Counsel; Molly Boyl, Parliamentarian; Lawrence Brady, Staff 
+Director; Joseph A. Brazauskas, Counsel; John Cuaderes, Deputy 
+Staff Director; Linda Good, Chief Clerk; Ryan M. Hambleton, 
+Professional Staff Member; Christopher Hixon, Deputy Chief 
+Counsel, Oversight; Ryan Little, Professional Staff Member; 
+Justin LoFranco, Deputy Director of Digital Strategy; Mark D. 
+Marin, Director of Oversight; Kristina M. Moore, Senior 
+Counsel; Jeff Solsby, Senior Communications Advisor; Rebecca 
+Watkins, Press Secretary; Nadia A. Zahran, Staff Assistant; 
+Beverly Fraser Britton, Minority Counsel; Claire Coleman, 
+Minority Counsel; Kevin Corbin, Minority Deputy Clerk; Lucinda 
+Lessley, Minority Policy Director Steven Rangel, Minority 
+Senior Counsel; Dave Rapallo, Minority Staff Director; and 
+Ellen Zeng, Minority Counsel.
+    Chairman Issa. The committee will come to order.
+    The Oversight Committee exists to secure two fundamental 
+principles. First, Americans have a right to know that the 
+money Washington takes from them is well spent. And second, 
+Americans deserve an efficient, effective government that works 
+for them. Our duty on the Oversight and Government Reform 
+Committee is to protect these rights. Our solemn responsibility 
+is to hold government accountable to taxpayers because 
+taxpayers have a right to know what they get from their 
+government. We will work tirelessly in partnership with citizen 
+watchdogs to deliver the facts to the American people and bring 
+genuine reform to the Federal bureaucracy. This is the mission 
+of the Oversight and Government Reform Committee.
+    Today, a debate is unfolding in America that comes down to 
+two fundamental questions about how much government do we need 
+in our lives. From this side of Capitol Hill all the way to 
+Pennsylvania Avenue, there are hearings every day and listening 
+sessions every day about the creation of jobs.
+    Today, we are going to listen about whether or not a 
+tsunami of regulations, some well intended, some expedited, 
+some perhaps in conflict with each other, are creating an 
+environment in which the economic downturn will be prolonged. 
+On one hand, the Obama administration has been stubborn in its 
+determination to issue costly regulations and paid little 
+regard to the impact these mandates will have on the broader 
+economy. On the other hand, the administration has admitted 
+that there are at least 500 regulations that need to be 
+withdrawn. They have talked in terms of duplicate regulations. 
+They have talked in terms of relieving regulatory burdens on 
+job creators. So much so that the Gallup Poll of job creators, 
+of entrepreneurs, considers the number one impediment to job 
+creation to be, in fact, regulatory excess.
+    Today, we are going to hear about Utility MACT, the 
+Environmental Protection Agency--EPA's--proposed issue of this 
+rule, which is clearly by its own terms an $11 billion rule, 
+but in fact by most of the people on both sides of the aisle 
+who are looking at the high end of what it could cost being ten 
+times that, or more. Anything which causes the price of energy 
+and its availability to suddenly change will disrupt markets, 
+will change the balance of cost effectiveness here in America, 
+because after all, if you increase the price of an essential 
+fuel like electricity, you will by definition increase the cost 
+of doing business, and particularly for manufacturing jobs, 
+which often depend on a high volume of electricity in order to 
+create efficiencies to offset advantages Third World countries 
+have in less expensive labor.
+    Whether you're in Florida or--as our first witness today, 
+Virginia--whether you're a donor of the fuel of greatest 
+choice, that being coal; or in fact you're a recipient of that 
+to power your power plants, you know that in fact the grid 
+depends, at least 51 percent, on reliable power that today 
+comes from coal.
+    We applaud the EPA for continuing a tradition to try to 
+find ways to continually clean up all of our energy sources, to 
+reduce particulates, and particularly to set a standard for 
+reducing mercury. We have no objections to the attempt to, on 
+an ongoing basis, increase the reliability of our power plants 
+to deliver clean energy. At the same time, 24 Attorneys 
+General, both Democrats and Republicans, have requested the EPA 
+to postpone issuance of its rule for 1 year.
+    Today, we will hear from one of those Attorney Generals, 
+along with the EPA and a think-tank individual, giving three 
+different views from three different perspectives. This is not 
+the last hearing we will have on the speed with which we can 
+make air and water cleaner and the cost that it will have.
+    In no case do we want anyone to misunderstand. If this rule 
+does not take place, air and water will be as clean tomorrow as 
+it is today. If this rule takes place a year from now and it is 
+different and better, it will only increase the cleanliness and 
+the reliability that comes with good clean energy here in 
+America.
+    The goal today is to hear: Is this the right time, is this 
+the right speed, is the science ready, and most importantly, 
+what will be the impact to the various States?
+    Chairman Issa. With that, I would like to recognize the 
+ranking member for his opening statement.
+    Mr. Cummings. Mr. Chairman, I'd yield to the gentleman from 
+Virginia, Mr. Connolly.
+    Mr. Connolly. I thank the ranking member.
+    It's a shame that the committee majority shows so little 
+interest in legislation that might promote technological 
+innovation and improve management of Federal information 
+technology. Instead, we are conducting another partisan hearing 
+that isn't really related to our committee's primary 
+jurisdiction.
+    Now the committee is holding a hearing to attack 
+commonsense EPA limits on mercury, arsenic, dioxin, and other 
+pollution. Consider the pressing technology related topics in 
+which this committee has not held a hearing: cloud computing, 
+data consolidation; an update to FISMA; implementation of the 
+Chief Information Office's 25-point plan; or improvements to 
+the acquisition workforce. We have not held hearings on filling 
+the gaping holes in our acquisition workforce or about how to 
+improve training for acquisition personnel. We have held 
+markups and legislation to create new unfunded mandates and 
+private sector relations--the DATA Act--but not on legislation 
+to streamline or expedite data center consolidation or the 
+shift to cloud-based data storage and processing.
+    The Republican leadership of this committee has abandoned 
+the most important issues in Federal technology and management 
+issues, which are of vital importance to one of the most 
+important job-creating sectors of our economy--technology. 
+Instead of focusing on these important topics, the committee 
+majority has decided to attack limits on mercury and other 
+toxic pollution.
+    The EPA is updating standards to regulate toxic mercury 
+pollution because the courts found that a prior rule issued 
+under the Bush administration on behalf of the polluters 
+violated law. Under the Obama administration, the EPA actually 
+is trying to do its job and reduce toxic pollution, as Congress 
+directed in 1990. As the EPA attempts to administer the Clean 
+Air Act, it is worth recalling that the Clean Air Act used to 
+have bipartisan support. It was signed into law by a Republican 
+President 40 years ago and strengthened substantially by a 
+Republican President in 1990.
+    By any empirical measure, the Clean Air Act is a wild 
+success. It saves 160,000 lives annually by preventing deaths 
+that would otherwise be caused by air pollution. Major 
+regulations implemented in the Clean Air Act have saved far 
+more money than they have cost to be implemented.
+    Since the Clean Air Act was passed, the U.S. economy has 
+grown by 200 percent and we have fostered a vibrant, new, 
+clean-energy industry that creates jobs without creating 
+diseases associated with fossil fuel production. The regulation 
+this committee majority is attacking today is typical of the 
+Clean Air Act regulations that will save lives and money. 
+According to CRS, the Utility MACT rule would save 6,800 to 
+17,000 lives per year, with a net savings of at least $48 
+billion.
+    The Republicans claim to be concerned that this lifesaving 
+public health standard will threaten the reliability of 
+electricity supply. Once again, we are presented with a false 
+chase: in this case, a false choice between electricity and 
+clear air. Those of us that have been outside today breathe 
+cleaner air right here in the Nation's Capitol as a direct 
+result of the Clean Air Act. And yes, there are far more cars 
+on the road and kilowatts of electricity being produced than 
+when Congress passed the Clean Air Act in 1970.
+    The primary Republican witness, Virginia's Attorney General 
+Ken Cuccinelli, has used his office to focus on narrow 
+ideological issues that in my view squander taxpayer 
+investment. He subpoenaed, for example, former UVA Professor 
+Michael Mann in 2010 because he believed that Mann's well-
+regarded climate research might qualify as fraud under Virginia 
+law. Not surprisingly, a circuit court disagreed. Now, Attorney 
+General Cuccinelli is appealing to the Virginia Supreme Court.
+    The witch hunt has drawn condemnation from 800 Virginia 
+scientists, the conservative Richmond Times Dispatch and almost 
+every other major newspaper in the Commonwealth, the American 
+Association of the Advancement of Science, and so many others. 
+It is appalling that taxpayer money would be squandered in a 
+vain attempt to discredit a single climate scientist.
+    In addition, litigating against his own State's premier 
+university, founded by Thomas Jefferson, he filed a lawsuit 
+against the Federal Government for the EPA's finding that 
+greenhouse gas pollution poses a danger to human health and 
+welfare. Unfortunately, as a caricature for the modern 
+Republican Party, Attorney General Cuccinelli has fulfilled the 
+predictions of the Washington Post's editorial board, 
+suggesting that given his bizarre ideas, he would very likely 
+become an embarrassment to the Commonwealth.
+    I regret that we are holding this hearing instead of going 
+into other topics that I think would be more productive and 
+would in fact create jobs.
+    With that, I yield back.
+    Chairman Issa. I thank the gentleman.
+    Chairman Issa. Members will have 6 days to submit opening 
+statements and extraneous material for the record.
+    We will now recognize our first witness, the distinguished 
+Attorney General of the Commonwealth of Virginia, the Honorable 
+Ken Cuccinelli. Pursuant to the committee rules, all witnesses 
+here will be sworn in. Would you please rise to take the oath.
+    Do you solemnly swear or affirm the testimony you are about 
+to give will be the truth, the whole truth, and nothing but the 
+truth?
+    Let the record indicate the witness answered in the 
+affirmative.
+    Chairman Issa. I am going to take a point of privilege, 
+very briefly. I appreciate your being here today. I'm going to 
+regret that there were some levels of the previous opening 
+statement that may have seemed personal, and I apologize to the 
+extent that you were offended. We appreciate your being here. 
+We recognize you're one of many Attorney Generals that is 
+involved in this. And I think on an overall committee basis, I 
+would say that we are very pleased to have you here as a 
+representative and hope that you will take the spirit of the 
+full committee without any questions that you may have from 
+other opening statements.
+    With that, you're recognized.
+
+            STATEMENT OF HON. KENNETH CUCCINELLI, II
+
+    Mr. Cuccinelli. Thank you, Mr. Chairman. Chairman Issa, 
+Ranking Member Cummings, members of the committee, I am Ken 
+Cuccinelli, Attorney General for the Commonwealth of Virginia. 
+I want to thank you for the invitation to speak about the MACT 
+rule today. One of my duties as Attorney General, as is common 
+among Attorneys General, is to serve as the attorney for 
+utility customers in my State, advocating for fair rates for 
+customers when electric utilities seek rate increases from the 
+commission that approves them.
+    As you know, public utilities that have their rates set by 
+State commissions are entitled under the U.S. Constitution to 
+recover from customers the necessary expenses they incur to 
+provide utilities. That includes expenses to comply with 
+Federal laws and regulations. That means every time new 
+environmental regulations are placed on electric utilities, it 
+is actually the customers that I represent who pay the cost. 
+This isn't to say that environmental regulations should 
+automatically be rejected because they impose some costs, but 
+it does mean the EPA should follow the proper procedures to 
+ensure the alleged benefits of the regulation outweigh the 
+real-world cost.
+    Unfortunately, the EPA hasn't been following normal 
+procedures. In its regulatory impact analysis for the MACT 
+rule, the EPA conceded that the result would increase 
+electricity prices and would cost jobs in certain sectors. Yet 
+the EPA admitted that it did not have sufficient information to 
+quantify those losses. In fact, the rule will have a huge 
+economic impact on this Nation. First, it will increase 
+electricity prices over the course of the next 5 to 10 years of 
+between 10 and 35 percent. That will vary, depending on where 
+you are and what the conditions particularly of your generation 
+and transmission are in your region. That can be a financial 
+debt blow for businesses struggling to meet payroll and 
+families on fixed incomes.
+    Second, retrofitting power plants to meet the standards 
+will, as you all know, be prohibitively expensive. So there's 
+no question that certain plants will close and the Nation's 
+electricity supply will decrease, leading to upward pressure on 
+prices and likely brownouts and possibly blackouts in strained 
+periods of use. The EPA even concedes that at least 10 
+gigawatts of electricity will be lost from the Nation's power 
+grid. Of course, FERC's initial analysis says over 80. That is 
+a pretty dramatic difference between the EPA and the people who 
+you would expect to know better.
+    Third, while the EPA says it can't quantify the number, it 
+acknowledges that jobs will be lost. Their estimates are 
+180,000 jobs per year between 2013 and 2020.
+    For Virginia, the situation is even bleaker than for the 
+rest of the Nation, though not Mr. Connolly's part of Virginia, 
+which is where I live. A majority of the electricity for 
+southside and southwest Virginia is generated from coal. Since 
+the MACT rule will significantly increase prices for 
+electricity produced from coal, the poorest part of my State 
+will face the largest price increases, including part of 
+Appalachia, one of the poorest parts of America.
+    But it gets even worse. The most important industry in 
+southwest Virginia is coal mining. These regulations make coal 
+more expensive and less desirable to use, which means the 
+economy of southwest Virginia--again, including Appalachia--
+will be devastated by the destruction of the coal industry and 
+the jobs lost along with it.
+    Whatever you think of the benefits of the MACT rule, a 
+decision about whether it's prudent policy simply can't be made 
+without considering these other impacts--and not just for 
+Virginia, but for the entire country. What's even worse is that 
+for regulation this important, the EPA set just 104 days, 
+recently extended to 134, to review the more than 960,000 
+public comments on the impact of the rule, if you compare this 
+to other significant rules where the EPA has set review periods 
+of more than a year, with less comments. This abbreviated 
+review period occurred because groups that support the EPA's 
+position sued the EPA and then, in a very friendly settlement, 
+the EPA agreed to the short review period.
+    This kind of gaming of the system is an affront to proper 
+procedure and the rule of law and it really should concern 
+people across the spectrum. This obvious attempt to rush the 
+rule through was so outrageous that, as you noted, Mr. 
+Chairman, I, along with 23 other Republican and Democrat States 
+attorney general, the Governor of Iowa, and the Territory of 
+Guam, filed an amicus brief asking the court not to approve the 
+consent decree's short time period. Given these major economic 
+issues, it's not good enough for the EPA to say that it lacks 
+sufficient information to quantify the negative effects of its 
+regulations. It needs to collect that information before 
+imposing the rule, to make sure the benefits in fact outweigh 
+the costs. If the EPA needs more time, then it should take it, 
+instead of gaming the system by entering into a consent degree 
+that shortens the time for review.
+    Thank you again for the opportunity to address these 
+issues.
+    Chairman Issa. Thank you.
+    [Prepared statement of Mr. Cuccinelli follows:]
+    [GRAPHIC] [TIFF OMITTED] 74039.001
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.002
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.003
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.004
+    
+    Chairman Issa. And even though I didn't limit you to 5 
+minutes, you were perfectly prepared to deliver for 5 minutes.
+    I will now recognize myself for 5 minutes.
+    The chart up there, I think you are probably familiar with 
+it, Attorney General. It is a little deceiving, though, for 
+anyone watching it here. That large blue line represents that 
+nearly million comments. The two others--I'll read them because 
+they look like they're not there, but there's actually lines 
+there--represent 214 comments; in the case of the middle one, 
+for which there was 344 days of intervening period to evaluate; 
+and then in the case of Casper, 3,907, in which there were 278.
+    Is there any logical reason from your experience both as an 
+attorney and as a representative of your State, that you 
+wouldn't have, for nearly a million, at least as much time as 
+you had for 214 comments?
+    Mr. Cuccinelli. No, not a logical reason. No.
+    Chairman Issa. Then what do you think the reason is?
+    Mr. Cuccinelli. Well, it's hard to escape that this is 
+being crammed forward. And I understand there's policy goals. 
+But given the impact--and I would venture to guess, having not 
+read all 960,000 comments----
+    Chairman Issa. I'm sure no one has yet.
+    Mr. Cuccinelli. I'm sure that, even combined, no team has; 
+that they probably relate primarily not to mercury, even though 
+that's where this all begins because of the massive impact 
+across the economy and across the industries that are affected.
+    Chairman Issa. I'm going to put up another piece on this. 
+This one baffled me a little bit. Perhaps you could help 
+explain it. When we're looking at health-related items in this 
+new standard, if I read correctly, that little sliver of red 
+there, that's the mercury that's going to be affected. All of 
+the blue area represents particulates. Is that your 
+understanding of basically what we're dealing with here?
+    Mr. Cuccinelli. My understanding is that nearly all--and 
+that's consistent with this graph--of any alleged health 
+benefits are going to come from the non-mercury elements of 
+this rule.
+    Chairman Issa. So most of the technology that has to be 
+developed and implemented almost overnight and most of the cost 
+is going to come from, if you will, the comparatively not 
+harmless--but particulate--not in fact mercury, as so many 
+people are alleging.
+    Mr. Cuccinelli. That's correct. The technology necessary to 
+achieve the mercury benefits, if left to stand alone, is a lot 
+simpler and cheaper to utilize than what's necessary for the 
+whole package. I'm sure that's no surprise. But it also would 
+cut dramatically, though it hasn't been quantified, into the 
+shutdowns of plants.
+    Chairman Issa. Let me ask one more question because you've 
+looked at the regulatory impact much more than anyone on the 
+dais has. My understanding is that EPA's mandate to regulate 
+particulates comes under NAAQS, a whole different discipline.
+    Mr. Cuccinelli. Right.
+    Chairman Issa. Doesn't it appear here as though they're 
+combining 99 point-some percent of this bill's effect under a 
+section and a review process that isn't appropriate?
+    Mr. Cuccinelli. Absolutely. None of this is beyond EPA's 
+reach through more explicit authority that they have elsewhere 
+in the Act. And yet it has been put in--I know there's often in 
+legislation there's sort of catch-all phrases--and whatever 
+else you think might be unhealthy kind of language. But when 
+what gets crammed in there, along with the mercury, is 
+explicitly addressed somewhere else, it seems highly 
+inappropriate to address it this way.
+    Chairman Issa. A couple of quick followups. One of the 
+ranking members from Virginia mentioned the 160,000 lives that 
+the Clean Air Act saves each year, by EPA figures. Many of the 
+estimates appear that at least 280,000 jobs will be lost as a 
+result of this legislation in its current form. How does that 
+impact your State of Virginia?
+    Mr. Cuccinelli. Well, again, I'd point to Virginia will be 
+affected differently in different parts of the Commonwealth. If 
+you go to Martinsville, where we have over 20 percent 
+unemployment, there's a lot of lost manufacturing there from 
+the NAFTA era that we are rather hopeful if we can get an 
+economic uptick and keep stable and relatively cost-effective 
+energy prices, will become a manufacturing area again. This 
+forecloses or makes it much more difficult for that to happen 
+in that poor swath of Virginia where unemployment is 
+particularly high. I already mentioned what happens in 
+southwest Virginia, which is not a rich area either.
+    Chairman Issa. You're known for clean coal, but this would 
+still be coal that would be offset.
+    Mr. Cuccinelli. Yes.
+    Chairman Issa. Back to manufacturing. I wanted to focus on 
+this because I'm a former manufacturer myself. The nature of 
+American manufacturing, as I understand it, is we take 
+affordable energy and we leverage it to compete against less 
+expensive labor in Third World countries. And this essentially 
+would take your maybe 2-cent a kilowatt an hour power and 
+increase it by maybe three or four times. It's a huge increase 
+if your base fuel is coal and it becomes natural gas. Isn't 
+that correct?
+    Mr. Cuccinelli. It certainly is. I can't speak to the exact 
+degrees of increase, but there's no question the state we're 
+in, it's much more marginal for us to become economics 
+competitive. Anything close to the types of change that you've 
+described takes us--makes us uncompetitive with large swaths of 
+the world.
+    Chairman Issa. Thank you. My time is more than expired. I 
+yield to the ranking member.
+    Mr. Cummings. Thank you very much.
+    Mr. Attorney General, it is good for you to be here. I 
+would like to put into the record--have entered a joint 
+statement from the Attorney General of the State of Maryland, 
+my State, Doug Gansler, and Robert M. Summers, the secretary of 
+the Maryland Department of Environment. The statement asserts 
+that Maryland has successfully implemented a law that required 
+major reduction in mercury emissions from coal-burning power 
+plants. Maryland power plants have already reduced mercury 
+emissions by 88 percent without affecting reliability. And in 
+doing so, has created jobs in Maryland.
+    I ask that that be a part of the record.
+    Chairman Issa. Without objection, so ordered.
+    Mr. Cummings. Thank you, Mr. Chairman.
+    Mr. Attorney General, it's been documented that exposure to 
+toxic pollution from power plants, such as hydraulic acid, the 
+mercury, arsenic, and other metals, causes a wide variety of 
+health conditions. These include asthma, which I suffer from, 
+and other respiratory ailments, developmental disorders, 
+neurological damage, birth defects, cancer, and death. Do you 
+disagree with any of those findings?
+    Mr. Cuccinelli. I'm really not in a position to give you a 
+medical assessment. I'm just here to talk about the legal side.
+    Mr. Cummings. I understand that. But you are sworn to 
+protect the people of your great State, are you not?
+    Mr. Cuccinelli. Sure am.
+    Mr. Cummings. I would think you would take into 
+consideration anything that might cause deaths, particularly 
+from all of these different things. That's why I asked you. I'm 
+not trying to take you out of your purview.
+    Mr. Cuccinelli. We certainly take those into consideration, 
+always looking for a balance
+    Mr. Cummings. Sure. It has also been reported that among 
+industrial sources in the United States, coal and oil-fired 
+power plants emit the most toxic air pollution and accounted 
+for nearly 50 percent of all pollutants in 2009. Do you 
+disagree with that?
+    Mr. Cuccinelli. I'm not in a position to disagree. I would 
+note that we have some co-located among our utilities, oil and 
+coal. One thing we'd love to have seen, because we use the oil 
+very infrequently--only when we have peak demand--if those had 
+been excluded from this rule, that's one way they might have 
+provided more flexibility for peak demand while still achieving 
+many of the pollution reduction goals that they've set here. 
+But there was no exception made for that.
+    Mr. Cummings. It has been estimated that the proposed air 
+toxic rule would save up to 53,000 lives by 2016. Have you 
+heard that? Are you familiar with that?
+    Mr. Cuccinelli. I've have heard that, yes.
+    Mr. Cummings. Do you have any reason to disagree with that 
+estimate?
+    Mr. Cuccinelli. It strikes me as quite optimistic, yes. But 
+I don't--it's such a large number, but I haven't done any 
+independent research on that, no.
+    Mr. Cummings. Mr. Attorney General, I understand that you 
+asked a Federal judge--and you testified to this--to delay the 
+final Air Toxic Rule for 1 year, making many of the same 
+arguments you made here today. Was that in the form of a brief?
+    Mr. Cuccinelli. It was, yes.
+    Mr. Cummings. And are you aware that the Air Toxic Rules 
+have been legally required by the Clean Air Act since 1990, 21 
+years ago?
+    Mr. Cuccinelli. I am aware of that, yes.
+    Mr. Cummings. I'd like to enter into the record the order 
+of the judge denying this request. The same arguments we are 
+hearing today have failed legal scrutiny, and Congress 
+shouldn't give them but so much weight. I would ask they be 
+admitted in the record.
+    Chairman Issa. Without objection, though I would note that 
+it went hand-in-hand with the 30-day extension and may not be 
+germane 30 days from now.
+    Mr. Cummings. I understand.
+    These are basically the same arguments. Is that right?
+    Mr. Cuccinelli. That same judge told the EPA that if they 
+need more time, they could come back and she'd grant it. So it 
+is not, from our perspective, a closed question.
+    Mr. Cummings. I understand.
+    With that, I yield back.
+    Chairman Issa. I thank the gentleman.
+    We now go to the gentleman from the coal-producing 
+alternate capitol, Cleveland, Ohio, Mr. Kucinich.
+    Mr. Kucinich. Happy birthday, Mr. Chairman.
+    Chairman Issa. Thanks, Dennis.
+    Mr. Kucinich. Mr. Attorney General, welcome to this 
+committee.
+    As Attorney General, isn't part of your responsibility to 
+protect the residents of Virginia and not put them at greater 
+risk for illness or even premature death due to air pollution?
+    Mr. Cuccinelli. Certainly protecting the people of Virginia 
+is an important part of my job, yes.
+    Mr. Kucinich. Is it your responsibility to protect the 
+people of Virginia from air pollution-related illnesses that 
+could cause premature death?
+    Mr. Cuccinelli. Part of what we do in my office is enforce 
+environmental laws. And we are aggressive about doing that. So, 
+yes.
+    Mr. Kucinich. How many prosecutions have you had of 
+environmental polluters since you've been in office?
+    Mr. Cuccinelli. Ordinarily, the way those are resolved is 
+with joint decrees that involve the EPA. I don't know how many. 
+I know that we have had a regular flow of them.
+    Mr. Kucinich. Have you recommended prosecution for 
+polluters; and how many have you recommended? Can you be quite 
+specific?
+    Mr. Cuccinelli. We have resolved all of them with consent 
+decrees, meaning those who are defendants----
+    Mr. Kucinich. ``We,'' meaning who, Mr. Attorney General?
+    Mr. Cuccinelli. Inevitably, it is our Department of 
+Environmental Quality which we typically are negotiating on 
+behalf of, and the EPA, with polluters----
+    Mr. Kucinich. Have you ever been involved personally in any 
+of the negotiations related to resolving pollution--complaints 
+over air pollution?
+    Mr. Cuccinelli. My personal involvement has related to 
+approving those resolutions negotiated by the attorneys in my 
+office and with the EPA and with the defendants in question.
+    Mr. Kucinich. And do you know what the outcome of those 
+have been? Have they been consent agreements on behalf of 
+communities that have had complaints about pollution?
+    Mr. Cuccinelli. Yes, that's exactly how they've been 
+resolved, with typically fines and requirements going forward, 
+enforced by court order, for additional care to be taken, 
+specific steps to be taken.
+    Mr. Kucinich. So your office has been instrumental, you're 
+saying, in causing polluters to be fined.
+    Mr. Cuccinelli. Yes.
+    Mr. Kucinich. Do you have any information you can present 
+to this committee right now about specific cases?
+    Mr. Cuccinelli. I did not bring specific cases.
+    Mr. Kucinich. But you could produce--will you produce--for 
+this committee a list of such cases?
+    Mr. Cuccinelli. I'd be glad to.
+    Mr. Kucinich. Could you tell members of this committee--and 
+I was particularly interested in some of the equations you were 
+talking about. You said that clean air standards--I'll 
+paraphrase it--that they can cost jobs. Is that your position?
+    Mr. Cuccinelli. Sure.
+    Mr. Kucinich. What kind of jobs do they cost? Can you be 
+specific as to the types of occupations?
+    Mr. Cuccinelli. For starters, the most obvious is, since we 
+are a coal State, southwest Virginia and the coal industry is 
+affected, and unlike, say, the part of Virginia where I am 
+from, northern Virginia, which has a fairly diverse economy, 
+there's not an economic alternative in southwest Virginia. So 
+there is that challenge, which is the most overt. Then comes 
+the industries and businesses reliant on energy as a major 
+component of their costs. Certainly, any manufacturing that 
+would take place which we have in Virginia, primarily though 
+not at all exclusively, in the southern part of Virginia and up 
+the western part of the State, though again it is scattered, 
+those would be----
+    Mr. Kucinich. Thank you. You're saying that they cost jobs, 
+by definition, in the coal industry. That's your position.
+    Mr. Cuccinelli. Sure. I assume that's----
+    Mr. Kucinich. Is it possible if you don't have clean air 
+standards, that it could also create health problems for 
+people?
+    Mr. Cuccinelli. Sure. That's the tradeoff here. That's the 
+tradeoff.
+    Mr. Kucinich. Now, is dirty air good for poor people?
+    Mr. Cuccinelli. Dirty air is not good for anybody.
+    Mr. Kucinich. Because there would be less poor people if 
+the air is dirty; or is it good for poor people because there 
+will be less poor people if there is dirty air?
+    Mr. Cuccinelli. Dirty air isn't good for anybody. Jobs are 
+good for everybody.
+    Mr. Kucinich. Can you tell me--if you're looking at job 
+calculations--about the jobs that are created by poor air 
+standards? Can you think of jobs that are created by poor air 
+standards?
+    Mr. Cuccinelli. The comparison that we are looking at--and 
+it isn't our own, we are sort of swallowing all the studies, or 
+as many of them being done--is compared to where we are now 
+versus what is proposed. We are not suggesting anything ought 
+to be undone, though I do think it would be far more 
+appropriate for EPA to decouple some of the elements of the 
+rule they're now proceeding on.
+    Mr. Kucinich. Thank you, Mr. Chairman. I just wondered if 
+the gentleman was including in his advocacy the jobs that are 
+created for undertakers when people don't survive as a result 
+of poor air standards.
+    Mr. Cuccinelli. No.
+    Chairman Issa. The gentleman may respond, if you would 
+like.
+    Mr. Cuccinelli. Sarcastically, or in general?
+    Chairman Issa. You're the witness.
+    Mr. Cuccinelli. No. We're trying to look at this in the 
+aggregate. As I said, the one overt industry that can really be 
+addressed from a Virginia standpoint is the coal industry and 
+the spinoffs there. After that, it becomes the energy costs 
+associated with the gradual rise in costs as those are 
+incorporated through the utilities. Because the utilities pay 
+none of this. It is the ratepayers who pay for all of this.
+    Mr. Kucinich. Mr. Chairman, I appreciate you giving the 
+gentleman a chance to respond, because he talked about the 
+aggregate, which is what we've been talking about, because 
+we're saying that 17,000 lives a year are on the line with 
+respect to these regulations.
+    Thank you, Mr. Chairman.
+    Chairman Issa. I thank you both.
+    We now recognize the gentleman from Virginia, Mr. Connolly, 
+for 5 minutes.
+    Mr. Connolly. Thank you, Mr. Chairman. And welcome, again, 
+Mr. Attorney General.
+    The National Capital Region, including northern Virginia, 
+is classified as a non-attainment region in terms of air 
+pollution. Do you know what percentage of that air pollution is 
+migrating pollution from coal-fired power plants?
+    Mr. Cuccinelli. I do not.
+    Mr. Connolly. Would it surprise you to learn that about a 
+third of the air pollution in this region is attributed to 
+those migrating pollution sources from coal-fired power plants 
+not in this region?
+    Mr. Cuccinelli. Well, I certainly wouldn't expect 
+everything we deal with this in region to have started here. I 
+grant you that. But the specific numbers, I can't really 
+suggest.
+    Mr. Connolly. But certainly as the Attorney General of 
+Virginia, representing, as you point out, all of Virginia, you 
+can understand some of the anxiety and concern in the northern 
+part of the State with respect to pollution caused by coal-
+fired power plants.
+    Mr. Cuccinelli. I don't think that concern is quarantined 
+to northern Virginia. I think it's shared across Virginia.
+    Mr. Connolly. A point well taken.
+    Mr. Cuccinelli. What is additionally shared is just a 
+desire for balance to be achieved as we gradually try to keep 
+our air cleaner and improve the standard of living in this 
+country.
+    Mr. Connolly. Mr. Attorney General, the proposition here is 
+that, should this regulation go into effect, it would have 
+devastating effects both on sources of electricity and on jobs. 
+In 1990, with the Clean Air Act amendments, similar arguments 
+were made. Do you know what happened to the price of 
+electricity in the Commonwealth of Virginia?
+    Mr. Cuccinelli. Not in 1990, no.
+    Mr. Connolly. No. In the intervening 21 years, did it go up 
+or down?
+    Mr. Cuccinelli. I can speak to you back to the last decade 
+or so but I can't go back to 1990.
+    Mr. Connolly. Would it surprise you to learn that actually 
+electricity rates in the Commonwealth of Virginia in that time 
+period have actually fallen by 35.6 percent?
+    Mr. Cuccinelli. It would not entirely surprise me.
+    Mr. Connolly. Well, does that not call into question 
+perhaps, then, the claims that in this particular case, that 
+won't work and in fact electricity rates are going to go up? 
+Given the experience we've had in the last 21 years, why should 
+we put credence in such an argument?
+    Mr. Cuccinelli. Certainly it would be a lot easier to 
+analyze that argument if there were more than 134 days to look 
+at 960,000 comments, presumably not all of which are 
+substantive, but if you just compare them to other rules. You 
+all had your own here from this committee. I would look at some 
+others, like the chemical recovery combustion was 2\1/2\ years; 
+reciprocating internal combustion engine, a year and a half. 
+For cement, the Portland cement manufacturing. We're looking at 
+4\1/2\ months to consider the very questions you all are 
+lobbing this way with assumed answers.
+    Mr. Connolly. Mr. Cuccinelli, unfortunately, my time is 
+limited. Certainly, the Clean Air Act amendments of 1990 were 
+far more sweeping than what's in front of us now. What happened 
+to electricity rates, for example, in other States with coal-
+fired power plants--and I'll list them: West Virginia, North 
+Carolina, Pennsylvania, Ohio, Kentucky, and Alabama. Are their 
+electricity rates in the intervening 21 years since that 
+sweeping set of amendments, are they higher or lower relative 
+to 1990?
+    Mr. Cuccinelli. I don't study other States' electricity, 
+specifically. I study the national and compare it to Virginia, 
+unless something borders Virginia and we have a rate case where 
+that's relevant.
+    Mr. Connolly. Would it surprise you to learn they're also 
+cheaper?
+    Mr. Cuccinelli. No, I wouldn't be surprised either way, not 
+knowing it.
+    Mr. Connolly. Mr. Cuccinelli, correct me if I'm wrong, I 
+was under the impression that, for example, under the Health 
+Care Reform Act, the Affordable Care Act, you were an advocate 
+for nullification. You supported legislation in the General 
+Assembly of Virginia that made universal mandates illegal under 
+the Commonwealth of Virginia. Is that not correct?
+    Mr. Cuccinelli. ``Nullification'' is an incorrect term and 
+it suggests you don't know history. ``Nullification'' is when a 
+State says we're not going to obey your Federal law. That isn't 
+what happened in Virginia. The General Assembly on a bipartisan 
+basis passed a law. Two weeks later, the President signed 
+PPACA, and those two were in conflict. As our constitutional 
+structure provides, we went to court to resolve the disputes of 
+authority related to those two laws. That is not 
+``nullification,'' Congressman.
+    Chairman Issa. If the gentleman would suspend.
+    Attorney General Cuccinelli, you can answer any question 
+you choose to answer. However, you're only bound to answer 
+questions that are within the germaneness of the subject for 
+which you were brought here.
+    You may continue.
+    Mr. Connolly. Mr. Chairman, if I may--The purpose of my 
+question was not to focus on health care. I wanted to give the 
+opportunity to the Attorney General to explain his position, 
+because my question has to do with whether--you don't like 
+``nullification.'' I'll call it preemption. Does the 
+Commonwealth of Virginia have a similar preemption right, if 
+you don't want to use the word ``nullification,'' with respect 
+to this regulation, in your view as the Attorney General of 
+Virginia?
+    Mr. Cuccinelli. I think the commerce clause very clearly 
+gives the Congress, and therefore the Federal Government, the 
+broad power to address something like pollution across State 
+lines. Whereas, if you compare that to the health care example, 
+ordering a particular individual to go buy a product; not 
+regulating them once they're in commerce, but ordering them 
+into commerce, is a completely different comparison. I have no 
+constitutional complaints with what is going on in terms of the 
+exercise of Federal authority here. My concerns are policy 
+concerns and legal process concerns.
+    Mr. Connolly. So you see the two as different.
+    Mr. Cuccinelli. Oh, absolutely. We put those processes in 
+place to protect not only the rights but to achieve the best 
+policy outcomes. And I know, regardless of the opinions here, 
+everyone would like to achieve the best possible outcomes for 
+this country. I think that we are more likely to do that if we 
+actually take a legitimate amount of time to consider the 
+material that is now before us that is simply it is not humanly 
+possible to consider all the comments that are now before us on 
+this rule in the incredibly short time frame.
+    Mr. Connolly. Thank you, Mr. Attorney General.
+    Chairman Issa. I'd now ask unanimous consent that we be 
+able to place in the record the details of the 1990 Clean Air 
+Act, showing a 5-year period for rulemaking exception. 
+Additionally, I'd ask unanimous consent that the statement by 
+the Unions for Jobs and the Environment--these are all union 
+organizations combining--that says EPA data implied that no 
+coal unit in the United States meets all the proposed new 
+sources, HAPS standards, regardless of the type of coal 
+consumed or the effectiveness of its pollution control devices.
+    Again, that's Unions for Jobs and the Environment public 
+comments.
+    [The information follows:]
+    [GRAPHIC] [TIFF OMITTED] 74039.034
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.035
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.036
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.037
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.038
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.039
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.040
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.041
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.042
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.043
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.044
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.045
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.046
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.047
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.048
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.049
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.050
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.051
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.052
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.053
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.054
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.055
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.056
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.057
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.058
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.059
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.060
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.061
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.062
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.063
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.064
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.065
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.066
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.067
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.068
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.069
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.070
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.071
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.072
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.073
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.074
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.075
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.076
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.077
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.078
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.079
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.080
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.081
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.082
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.083
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.084
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.085
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.086
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.087
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.088
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.089
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.090
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.091
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.092
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.093
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.094
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.095
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.096
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.097
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.098
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.099
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.100
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.101
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.102
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.103
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.104
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.105
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.106
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.107
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.108
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.109
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.110
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.111
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.112
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.113
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.114
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.115
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.116
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.117
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.118
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.119
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.120
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.121
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.122
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.123
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.124
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.125
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.126
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.127
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.128
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.129
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.130
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.131
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.132
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.133
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.134
+    
+    Chairman Issa. With that, I would now recognize the former 
+chairman of the committee, Mr. Towns.
+    I apologize. I now recognize the distinguished lady from 
+the District of Columbia, Ms. Norton.
+    Ms. Norton. That's all right, Mr. Chairman. I thank you.
+    Welcome, Mr. Attorney General.
+    There appear to be two separate forks to your complaint. 
+One is the process; the time for the process. I'd like to get 
+to the substance, because it would appear that some States 
+already implement stringent mercury emission limits that are 
+even more stringent mercury emission limits than EPA is now 
+proposing. So I went to a set of States close by, by the way: 
+Connecticut, New Jersey, New Hampshire, Massachusetts, and New 
+York.
+    Now, here is what the Massachusetts Department of 
+Environmental Protection said: Experience in Massachusetts in 
+imposing stringent emission limits for mercury and other 
+pollutants clearly shows that EPA's proposed limits are 
+achievable and effective. For example, although Massachusetts' 
+mercury emission limits for existing coal-fired power plants 
+are considerably more stringent than those proposed by EPA, 
+Massachusetts facilities have been able to install control 
+equipment with no impact on reliability of electric power and 
+have demonstrated consistent compliance with the limits.
+    Mr. Attorney General, aren't those the same technologies 
+available to the State of Virginia, for example?
+    Mr. Cuccinelli. Well, presumably they're available 
+everywhere, Congresswoman.
+    Ms. Norton. Well, have you considered the possibility of 
+using those very same technologies to achieve the results in 
+Virginia that have been achieved even beyond those that the EPA 
+is proposing by nearby States?
+    Mr. Cuccinelli. Congresswoman, I think you're focusing on 
+what amounts to less than 1 percent of what the EPA is doing--
+and that is the mercury piece of this. The mercury piece is a 
+lot more achievable with a lot less damage than if you pile 
+everything else on top of it. All of your statements with 
+respect to mercury, I'd just accept them as stated and would 
+suggest that it wouldn't cause nearly, not on an order of 
+magnitude, the kind of challenge that the whole rule that EPA 
+is advancing.
+    Ms. Norton. But, Mr. Attorney General, the Northeast States 
+for Coordinated Air Use says of EPA's proposed rule--and here's 
+what they say of the rule itself: The successful track record 
+demonstrates that there are no unsurmountable technology 
+costs--emphasis on cost, or at least I put the emphasis there, 
+as you appear to--or timing barriers to achieving EPA's 
+proposed mercury and air toxic standards.
+    They are speaking beyond the mercury standards. Do you 
+disagree with that statement?
+    Mr. Cuccinelli. I'm not quite sure what they mean by the 
+air toxics. I assume they mean the acid gases. You've got the 
+mercury acid gasses, you've got the particulate matter. So if 
+you take the----
+    Ms. Norton. They say ``air toxics,'' so I assume they're 
+talking about all the air toxics.
+    Mr. Cuccinelli. Well, if they're talking about all of them, 
+then no, I would not agree with that statement. If they were 
+strictly speaking of the mercury piece----
+    Ms. Norton. Well, they're not strictly speaking of that.
+    Mr. Cuccinelli. I do think the mercury piece is probably 
+within reach.
+    Ms. Norton. And you think Virginia, in fact, could move 
+forward on the mercury piece.
+    Mr. Cuccinelli. If you strip the other stuff out and----
+    Ms. Norton. These people went ahead on their own, Mr. 
+Attorney General, because they care about the health and 
+welfare of their people. And they are beyond what EPA is now 
+proposing. So you're going to wait for EPA?
+    Mr. Cuccinelli. No, ma'am, they are not. They are beyond 
+what EPA is proposing in the area of mercury, and mercury 
+alone.
+    Ms. Norton. So they are beyond what they are proposing in 
+mercury alone.
+    Mr. Cuccinelli. Yes.
+    Ms. Norton. They went ahead before EPA proposed. I'm asking 
+you, don't you think Virginia might go ahead on mercury alone, 
+since you think that is achievable?
+    Mr. Cuccinelli. Virginia could do that, but it obviously 
+has made the policy decision not to do that. I would note that 
+this all has, as I said before, the balancing consequences. We 
+have a much lower unemployment rate than any State you just 
+named. We have a higher economic growth rate than any State you 
+just named. Despite the economic challenges----
+    Ms. Norton. Mr. Attorney General, I don't know if that is 
+the case. And I will not accept that until I look at those 
+figures. Let's look at your concern with the process----
+    Chairman Issa. I ask the gentlelady have an additional 30 
+seconds.
+    Ms. Norton. I thank the gentleman.
+    Are you aware that the rule finalized--apparently, to be 
+finalized in December, you'd not have to comply with until 
+2015, and then extensions could be gotten after that if you 
+demonstrated that an extension was necessary?
+    Mr. Cuccinelli. I'm aware that if the rule goes into 
+effect--or is approved in mid-December, it would go into effect 
+in January and have a 3-year implementation timeline. I also 
+know what it takes to replace, to permit, to do all the steps 
+necessary for the utilities in my State to replace certain 
+power generation that will have to be withdrawn in that time 
+period. And we can't match the two up. We can get kind of 
+close, but not match them up.
+    Ms. Norton. In which case an extension, it seems to me, 
+would be justified.
+    Thank you, Mr. Chairman.
+    Mr. Cuccinelli. The extensions would undoubtedly be 
+helpful. That is always true. However, there is a limit on the 
+EPA's authority to just extend. And relying on that from a 
+business planning standpoint is not something that I can argue 
+before my State Corporation Commission when the utilities come 
+in and say we have to meet this. They don't have to rely on the 
+extension. And the law of Virginia, as dictated by the U.S. 
+Constitution, because they are granted a right of return, is 
+that those rates will pass through to all of our citizens--
+poorest, richest, and everyone in between.
+    Chairman Issa. I thank the gentlelady. And I thank the 
+Attorney General.
+    With that I recognize the former chairman of the full 
+committee--I'm sorry, Mr. Chairman, you're going to have to 
+wait 5 more minutes. With that, I recognize the gentleman from 
+Oklahoma for 5 minutes, Mr. Lankford.
+    Mr. Lankford. Thank you Mr. Chairman. I do apologize for 
+taking a little bit of the former chairman's time.
+    Chairman Issa. We'll make it up to him.
+    Mr. Lankford. That would be great.
+    Thank you for being here, Attorney General. Glad for you to 
+be able to be here.
+    My concern is that if I went back 35 years ago, Congress 
+was conducting hearings and conversations about pushing power 
+generation out of natural gas into coal and into nuclear 
+because we were ``running out'' of natural gas. And so, no more 
+natural gas power plants out there. Folks that were using that 
+need to go into coal.
+    Now, plus 35 years, now the Federal Government is saying, 
+no, coal might not be a good idea; let's try natural gas and 
+see how that works and see if that's better. Or, see if we can 
+use wind. As we continue to adjust the preferences to the 
+Federal Government and now use a series of studies to be able 
+to justify how we want companies to be able to move, that is 
+very difficult on power generation, who can't just plan for 
+next year, they have to plan on the next decade for what they 
+are going to construct. My concern is the cumulative effect of 
+all those regulations and if that has been evaluated.
+    Is it your opinion, of all the things that are coming 
+down--and I've got 3 pages worth of different regs that are 
+coming down right now out of EPA on power generation, whether 
+it be 316(b), whether it be the cross-State rules, whatever it 
+may be from coal--and there's a whole litany of different 
+issues from coal, from the time it comes out of the ground, all 
+the way until it's fly ash at that point at the end--do you 
+feel like that has been adequately studied in this hurry to be 
+able to get through this almost a million different comments 
+that have been made? Was the cumulative effects also evaluated 
+in this?
+    Mr. Cuccinelli. If you're asking if I think it was done 
+adequately, absolutely not. This hasn't even gone to OMB yet 
+and they are still setting a finalization date in the middle of 
+December. That's normally itself a 90-day process. Of course, 
+it's November now. So that isn't going to happen if they're 
+going to keep to the schedule they've laid out. That has 
+absolutely not been looked at.
+    You mentioned something that triggered a thought, and my 
+Congressman had mentioned it earlier, with respect to 
+greenhouse gases. I think of the switching of fuels. The fact 
+that we had sued EPA over their improper process over the 
+greenhouse endangerment finding was raised earlier. And what's 
+interesting about this is if that's so important, this makes it 
+worse. That hasn't been looked at either in any serious way. Or 
+maybe it's buried in those 960,000 comments. But it seems the 
+timeline has been set up so that they won't be reviewed, not so 
+that they will.
+    Mr. Lankford. That is my concern is there has not been 
+enough time to able to go through this. The President has been 
+very urgent to say we need to look at cumulative effects of 
+regulations, if that has not occurred, to be able to gather 
+cumulative effects of all these different regs that are coming 
+down and the speed that they're coming down, and the size of 
+them.
+    One of the statements that was made by EPA was that this 
+may have a potential of, what is it, $10.9 billion in annual 
+costs on the economy. Just that one regulation alone, $10.9 
+billion. Then you start adding to it all the different areas of 
+316(b) and everything else that's coming down on it. It's 
+fairly significant, what's happening.
+    And I understand previous comments that have been made to 
+say we continue to add regulations to the power industry but 
+the power continues to go down. I would presuppose at some 
+point that doesn't work anymore. You can't just throw in a 
+thousand regulations and say, We're going to continue to drive 
+the costs down by adding more regulations. It doesn't work that 
+way. At some point, you've got to have some common sense. Agree 
+or disagree with that comment?
+    Mr. Cuccinelli. I would certainly agree with that. And I 
+would also note that Executive Order 13-563 requires EPA and 
+other regulators, ``to tailor its regulations to impose the 
+least burden on society consistent with attaining regulatory 
+objectives, taking into account the costs of cumulative 
+regulations.'' And EPA has not performed a cumulative 
+regulation cost analysis for the Utility MACT.
+    Mr. Lankford. What about the effect on reliability of power 
+in the days to come?
+    Mr. Cuccinelli. I understand that is widely debated here. 
+It's not much debated in Virginia. We're looking at, just for 
+one of our utilities, probably $250 million of transmission 
+infrastructure costs. Again, those by law pass right through to 
+the ratepayers. On top of that, from a public policy 
+standpoint, I was in the State senate. These are the ones 
+people scream about. This is where power lines are going to be 
+built across 50, 60 miles of people's backyards that do not now 
+exist, and are going to be necessary to provide the flexibility 
+in the grid to meet the reliability requirements that you'd 
+expect of a modern electrical grid. So we're also looking at 
+that challenge. We haven't talked about that at all.
+    Mr. Lankford. I would say again, if we're going to make a 
+major decision that is going affect billions of dollars and 
+it's going to affect future planning, we better make it right. 
+You go back 35 years ago when we said, Let's go to coal, 
+because that's more abundant than it is for natural gas. Now 
+we're trying to reverse that. Obviously, we should have done 
+more studies 35 years ago instead of doing a knee-jerk 
+reaction. If we do the same knee-jerk reaction again, we're 
+going to have the same kind of consequence if we don't do this 
+right.
+    So with that, I yield back.
+    Chairman Issa. I thank the gentleman from a major natural 
+gas-producing State.
+    Mr. Lankford. Absolutely.
+    Chairman Issa. With that, we recognize the former chairman 
+of the full committee, whose picture adorns the area just 
+behind us, Mr. Towns, for 5 minutes.
+    Mr. Towns. That only means I've been here a long time.
+    Chairman Issa. Okay. We'll make it 6 minutes.
+    Mr. Towns. Mr. Attorney General, you testified today that 
+one of the impacts of the Air Toxic Rule would be closure of 
+coal-fired power plants, which will in turn cause job loss. Is 
+that correct?
+    Mr. Cuccinelli. And with the increased electricity costs 
+that come with it, yes.
+    Mr. Towns. But evidence from our previous hearings on this 
+subject before the Subcommittee on Regulatory Affairs suggests 
+that many of these coal-fired power plants are older and would 
+have gone out of business anyway. What's your answer to that?
+    Mr. Cuccinelli. I think that you are certainly accelerating 
+the retirement of part of the coal fleet I don't think in a way 
+that the utilities envision, necessarily. But certainly that 
+will be where they try to sacrifice some of their generation. 
+That's just logic.
+    Mr. Towns. Let me ask you this. At a meeting on June 1 with 
+investors, the chairman of American Electric Power, a gentleman 
+by the name of Michael Morris, told investors the following: 
+``As you know, those are high-cost plans. Throughout almost all 
+of 2009, those plants probably didn't run 5 percent of the time 
+because of natural gas prices. When we shut those down, there 
+will be some cost saving as well, and on balance we think that 
+that is the appropriate way to go.''
+    What is your response to that? Do you agree or disagree?
+    Mr. Cuccinelli. Our second biggest utility is one of their 
+subsidiaries. APCO is an AEP subsidiary.
+    The 5 percent comment. We have some plants that fit in the 
+category he described. I use the oil-fired as an example. Mind 
+you, there is some value to keeping fuel flexibility. Even if 
+they are dirtier plants, even if they aren't what you'd want 
+run all the time, to have them available for peak time in the 
+winter and summer is, I would suggest, of great value on both a 
+cost basis and a reliability basis that far outweighs the 
+benefits you might get by shutting them down permanently, which 
+is, as his comments suggest, what is going to happen.
+    I think when you--moving them perhaps from a run 24/7/365 
+position to using them as peak power would be a great 
+alternative for America. It would achieve, even if you just 
+accept all the health claims, everything, without disputing any 
+of that, just moving them from one position to the other would 
+be a huge boon, with tremendous cost savings from an 
+opportunity cost perspective that aren't dropped on ratepayers 
+because you move them over instead of shutting them down. But 
+that is not an option under this rule, it is not an option 
+under this rule. It is in fact the opposite, where you'd have 
+to put in all the upgrades whether you use them 100 percent of 
+the time or five, for a 5 percent plan, so of course you're 
+going to shut it down.
+    Mr. Towns. AEP plans to close two plants in Virginia, I 
+think Clinch River and Glen Lyn; is that true?
+    Mr. Cuccinelli. Well, I can't speak for AEP, but I 
+certainly would expect that they are on the block, yes, for 
+this.
+    Mr. Towns. And AEP agreed to retire those plants under a 
+2007 consent decree over violations of environmental laws; 
+isn't that right?
+    Mr. Cuccinelli. I don't know that shutting them down was 
+part of any consent decree.
+    Mr. Towns. I know my time is about to expire. Mr. Attorney 
+General, it seems to me that your testimony before us today is 
+a transparent attempt to blame the government for the fact that 
+many high-cost, dirty coal plants could not compete in today's 
+market even before the air toxins rule goes into effect.
+    Mr. Cuccinelli. Then they'd be shut down of their own 
+course.
+    Mr. Towns. You know, I know your answer has been that you 
+only represent Virginia, but when you--actually in the position 
+of Attorney General, you have to look at what happens in other 
+States as well, and then you make an opinion--actually to 
+evaluate was it good, bad, or indifferent, you have to compare 
+it with something. So I want you to know you have to look at 
+other States; you can't just look at Virginia.
+    Mr. Cuccinelli. Yeah. My comment to that effect was only 
+with respect to the specific data from those particular States. 
+I agree with you that you have to draw from the experiences of 
+other parts of the country and other States, and I do do that 
+in trying do what's best for Virginia.
+    Mr. Towns. I yield back and thank you very much for coming 
+to testify.
+    Mr. Lankford. Let me make just a quick comment as well. I 
+will just take a quick moment, and I will yield to Mr. Connolly 
+a quick moment, and then we are going to conclude this panel so 
+we can make a transition as well.
+    Just a comment. There are 25 other States, obviously, that 
+are represented in this brief. It is not just Virginia we're 
+talking about at this point. So this is not just a single State 
+issue, this is a national issue on all that is happening, and 
+that currently what is in place on this is not just dealing 
+with a small group of plants that are very out of date, but 
+there are no coal plants that can abide by this nationwide; no 
+one is at that standard at this point. So that is the 
+challenge, to try to figure out what do we do with this that no 
+single utility will not be affected by this process on it.
+    A quick question for the Attorney General on it as well, 
+and that is dealing with the combined regulations. As we talked 
+a little bit before about the cumulative effects of this, the 
+American Coalition for Clean Coal Electricity estimated that 
+some of the combinations here we're talking about an increase 
+of electricity somewhere between 12 and 23 percent. I know we 
+were guessing earlier on some figures. Twelve to 23 percent 
+hits the poor pretty tough, especially. What numbers have you 
+seen, what estimates would you----
+    Mr. Cuccinelli. In our last round of utility rate cases, 
+and I'm in--we're now awaiting orders in what is the sound 
+round since I've been Attorney General. In the last round, we 
+actually analyzed the rate increases as it related to Federal, 
+not State, just the Federal environmental regulation, and about 
+35 to 40 percent of the base rate increases were a pass-through 
+of these environmental costs.
+    In Virginia unlike, say, North Carolina, our utilities can 
+absorb these costs as they incur them on a rolling basis. In 
+North Carolina, utilities can't incur them until they flip the 
+switch and throw the new plant on line, which of course builds 
+up cost and it keeps their rates a little lower for a while and 
+then they spike. So it happens a variety of different ways but 
+it goes up.
+    I've only had to have a couple of town hall meetings as 
+Attorney General and they were both on utility rates in the 
+poorer parts of our State, because it is hard to describe from 
+people who are not from poor parts of the State what utility 
+rates mean to the people in these households. When you talk 
+about 10 bucks a month or 20 bucks a month more, it's real 
+money. It's real money in a small house that's pulling maybe 
+1250 kilowatts, which is an APFO average. That's big dollars to 
+them. It hurts when they are on fixed incomes, as a large swath 
+of that portion of Virginia is relative to the rest of 
+Virginia. We see that a lot, again in the poorest parts of 
+Virginia.
+    And make no mistake about it. There are going to be 
+economic consequences. There's always a trade-off. You all make 
+these decisions all the time about where thee trade-offs should 
+land. But make no mistake about this: The people hurt first and 
+the people hurt worst economically are the poor. They are the 
+poor. That's who you're going to hurt first and that's you're 
+going to hurt the worst.
+    Thank you, Mr. Chairman.
+    Mr. Lankford. Thank you. With that I yield 3 minutes to Mr. 
+Connolly.
+    Mr. Connolly. Thank you, Mr. Chairman. I would note that 
+the Attorney General's view of history and mine might be 
+slightly different with respect to utility rates in even the 
+poorer parts of Virginia. Many of the rate increases he's 
+referring to occurred subsequent to the reregulation 
+legislation passed by the General Assembly of Virginia, highly 
+favorable to industry, not particularly favorable to consumers.
+    Mr. Attorney General, let me ask you just one question. You 
+talked about utilities. The largest utility in the Commonwealth 
+of Virginia is Dominion Resources. Has Dominion Resources 
+requested that you challenge the air toxic rule legally or that 
+legislation be introduced to try to prevent it from being 
+implemented?
+    Mr. Cuccinelli. No. As I mentioned earlier on your 
+mischaracterization of nullification, Virginia isn't in a 
+constitutional position to step in on Federal environmental 
+regulation of this type, with a constitutional objection. Even 
+if we had legislation, the supremacy clause of the Constitution 
+has Federal law trumping State law. The health care case you 
+asked about earlier, the supremacy cause contains an exception 
+when the Federal law is not constitutional. No one I'm aware of 
+is alleging that what EPA here is doing here is 
+unconstitutional. Inappropriate, incredibly unique in terms of 
+the speed, particularly in light of the volume of the comments 
+and the potential impacts which, even if you accept the EPA's 
+perspective, are still wildly in dispute.
+    Mr. Connolly. So the answer is that so far that largest 
+utility in the Commonwealth has not asked you to seek to 
+overturn the rule? I mean in the Federal level?
+    Mr. Cuccinelli. I'm sorry, you mean in the what?
+    Mr. Connolly. At the Federal level. I'm not referring to 
+nullification. Have you received as the Attorney General of 
+Virginia any communication or indication from the largest 
+utility in the Commonwealth that it would like you or others to 
+in fact try to seek to overturn this pending rule?
+    Mr. Cuccinelli. No. My concern is more with the ratepayers 
+than it is with the utilities.
+    Mr. Connolly. Thank you. Mr. Chairman, I would just end--my 
+colleague from Virginia and I do disagree in terms of 
+interpretation and history. Frankly, when a State seeks to 
+preempt Federal law and to argue on its own that that law is, 
+in advance, unconstitutional, is ``nullification'' by any other 
+sense of the word.
+    Mr. Cuccinelli. Not if you know what you're talking about.
+    Mr. Connolly. I think I do know what I'm talking about and 
+I think you have an agenda, Mr. Attorney General. It is just 
+one I happen to disagree with. With that, I yield back.
+    Chairman Issa. Mr. Chairman?
+    Mr. Lankford. Yes.
+    Chairman Issa. Before you end the hearing or recess the 
+hearing, I wanted to take just a moment if I may.
+    Mr. Lankford. Certainly may. We had 3 minutes going all the 
+way around so.
+    Chairman Issa. Thank you.
+    Mr. Attorney General, I want to thank you for your presence 
+here. I want to thank you for working for the interest, like 
+nearly half of all Attorneys General have, to try to make sure 
+that we get this new regulation right. I appreciate your being 
+calm and deliberative in explaining what your goal is, what 
+Virginia could do more expeditiously, and, quite frankly, the 
+need to have nearly a million public comments evaluated in the 
+way that it is appropriate before we set a regulation that 
+people may ask for extensions on, but which may in fact be a 
+different regulation than if all these comments are properly 
+viewed in a public way.
+    So your attention here, your willingness to come on short 
+notice, we very much appreciate. And, again, I appreciate 
+people willing to come before this committee. It is not always 
+pleasant, but your testimony was essential. I yield back.
+    Mr. Lankford. Thank you, Mr. Chairman. With that we will 
+take a short recess so we can shift to the next panel.
+    [Recess.]
+    Chairman Issa. [Presiding.] The hearing will reconvene. We 
+now recognize the Honorable Robert Perciasepe. He's the deputy 
+administrator of the United States Environmental Protection 
+Agency, and it's an honor and a pleasure to have you here 
+today.
+    Pursuant to the committee rules all witnesses are to be 
+sworn. Would you please rise to take the oath. Would you raise 
+your right hand.
+    Do you solemnly swear or affirm that the testimony you are 
+about to give will be the truth, the whole truth, and nothing 
+but the truth?
+    Thank you. Let the record reflect the witness answered in 
+the affirmative. Pursuant to the normal routine, I know you 
+have 5 minutes or more to give, your entire statement will be 
+placed in the record. You may read off of it or you may 
+summarize it, and we'd only ask that you try to remain fairly 
+close to the 5 minutes to allow time for questions. And with 
+that, you're recognized for 5 minutes.
+
+              STATEMENT OF HON. ROBERT PERCIASEPE
+
+    Mr. Perciasepe. Thank you, Mr. Chairman and Representative 
+Connolly and members of the committee. I appreciate the 
+opportunity to appear before you today on the mercury and air 
+toxic standards.
+    Chairman Issa. Is your microphone on? Can you hear?
+    Mr. Perciasepe. I'll move in a little closer.
+    EPA's clean air power plant rules are necessary to protect 
+public health and the environment from pollution produced by 
+these plants, especially the oldest and dirtiest and least 
+efficient of them all. The EPA will issue a final mercury and 
+air toxic standard, which is the topic of today's hearing, on 
+December 16, 2011.
+    We are not the first administration to recognize the need 
+to clean up power plants and to issue rules to address that 
+need. In fact, since 1989, when President George H.W. Bush 
+proposed what became the Clean Air Act amendments of 1990, 
+power plant cleanup has been the continuous policy of the 
+United States Government under two Democratic and two 
+Republican presidents.
+    While past EPA rules have made progress in reducing the 
+harmful effects of pollution, more remains to be done to ensure 
+all Americans have the clean environment to which they are 
+entitled.
+    The two clean air power plant rules, the mercury and air 
+toxic standard and the cross-State air pollution rule, 
+finalized earlier this summer, will achieve major public health 
+benefits for Americans that are significantly greater than the 
+cost. These pollution reducing rules are affordable and they 
+are technologically achievable.
+    There's tremendous public support for moving forward with 
+these rules. Since March, we have received hundreds of 
+thousands, as has already been mentioned, of comments from the 
+public urging us to reduce mercury emissions from power plants.
+    The mercury and air toxic rule have a significant public 
+health benefit. For example, it will reduce mercury, which can 
+cause neurological damage in children who are exposed before 
+birth. The rule, as proposed, also is protective to avoid 
+thousands of premature deaths, thousands of nonfatal heart 
+attacks, and hundreds of thousands of asthma attacks. This rule 
+would provide Americans with 5- to $13 in health benefits for 
+each dollar it costs.
+    Our analysis and past experience indicate that warnings 
+from some of dire economic consequences of moving forward with 
+these important rules are exaggerated. While not as focused, 
+the mercury and air toxic standard rule has the potential to 
+improve productivity and provide jobs. We estimate that the 
+proposed rule would result in 850,000 fewer workdays missed due 
+to illness, and could support 31,000 job years of short-term 
+construction work, the net of $9,000 of long-term utility jobs.
+    Monies spent on pollution control at power plants provide 
+high-quality American jobs in manufacturing steel, cement, and 
+other materials needed to build the pollution-control 
+equipment, installing the equipment, and in operating and 
+maintaining the equipment. And many of these jobs are jobs that 
+will not be and cannot be shipped overseas. In fact, the United 
+States is the leading exporter of pollution-control equipment.
+    Our publicly available analysis shows that the EPA rules 
+affecting power plants are affordable. This is corroborated by 
+other outside groups and some in industry who recognize that 
+issuing the rules in the same time frame helps provide power 
+companies with the certainty they need to make smart and cost-
+effective decisions.
+    As we did more than 2 decades ago, we are also hearing 
+claims that our rules will lead to potential adverse impacts on 
+electric reliability. EPA's analysis projects that the agency's 
+rules will result in only a modest level of retirements that 
+are not expected to have an adverse impact on electric 
+generation resource adequacy. Our rules will not cause the 
+lights to go out.
+    While there are some industry studies suggesting that these 
+rules will result in substantial power plant retirements, in 
+general they share a number of serious flaws. Most notably, as 
+the Congressional Research Service emphasized in August, these 
+studies often make assumptions about requirements of the rule 
+that are inconsistent with and dramatically more expensive than 
+the EPA's actual proposals. In some cases, the analyses were 
+performed before many of the regulations in question were even 
+proposed.
+    In closing, I would like to suggest that the committee 
+should be clear about what is at stake here, and those who have 
+stalled in cleaning up their pollution--those who have stalled 
+in cleaning up their pollution call for further delays. Delay 
+encourages companies to avoid upgrading America's 
+infrastructure and putting people to work modernizing their 
+facilities. And, most importantly, delay means the public 
+health benefits of reducing harmful pollution are not realized.
+    Thank you and I look forward to answering your questions.
+    Chairman Issa. Thank you.
+    [Prepared statement of Mr. Perciasepe follows:]
+    [GRAPHIC] [TIFF OMITTED] 74039.135
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.136
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.137
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.138
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.139
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.140
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.141
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.142
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.143
+    
+    Chairman Issa. I want to recognize myself for the first 5 
+minutes.
+    I will take your opening statement in reverse order. If I 
+understand the nature of every time there is one of these 
+pollutant standards, I just want to understand, you really 
+don't usually do much to the overall facility. It's normally a 
+bolt on some additional cleaning equipment. Isn't that true in 
+this case?
+    Mr. Perciasepe. Yes, but obviously from an engineering 
+perspective, it has to be integrated into the operation of the 
+facility.
+    Chairman Issa. That begs the bigger question. Isn't it true 
+that today there is no utility that you can show us that is 
+able to implement this entire standard today? I know there are 
+pieces of it in various places, but no utility is currently 
+able to implement it; isn't that true?
+    Mr. Perciasepe. I don't believe that that is correct. I 
+believe we look at the best performing plants around the 
+country----
+    Chairman Issa. But we looked at that, and you looked at 
+each plant and you put together various plants and said, If you 
+do this and this and this, like Frankenstein, you can get one 
+person. But you make the assumption that you can put together 
+the best of all these plants. Some of these plants have 
+different non-combinable operations at the current time; isn't 
+that true?
+    Mr. Perciasepe. I believe that the plants can meet these 
+standards, and some do. But I would like----
+    Chairman Issa. Is there any plant that meets this standard 
+today? You said some do.
+    Mr. Perciasepe. I believe they do.
+    Chairman Issa. If you would answer for the record of a 
+single plant that meets this standard today, we would be 
+thrilled to hear that. Because we just had an Attorney General, 
+one of 25--24, I'm sorry, who have asked for a delay, as you 
+know, in order to get public comment; but most importantly, 
+have asserted as does--and I'll put it into the record--the 
+Unions for Jobs and the Environment Public Comments, a union--a 
+combined trade union organization who believe that today there 
+are--there is no standard.
+    Isn't it not uncommon that the EPA believes that a standard 
+will be--- compliance for the standard can be achieved within 
+the time parameter and that it might be--and I want to give the 
+benefit of the doubt--it might be that they could achieve it by 
+2015. Isn't that part of the assumption? Not that it exists 
+today, but if you take all of the analysis, that they could 
+achieve it by 2015?
+    Mr. Perciasepe. The air toxic standards that we are 
+proposing for power plants has to be based on available 
+technology that is currently performing at the level that we 
+are proposing.
+    Chairman Issa. Okay. So if you will, for the record, have 
+the EPA deliver us one power plant of, let's just say, a 
+megawatt or above, that uses coal that currently meets the 
+standard, we would appreciate having that for the record. We 
+will hold the record open.
+    Mr. Perciasepe. Thank you.
+    Chairman Issa. Now, if we could put back up the pie chart. 
+Earlier we had one of those 24 Attorneys General who said, 
+although he's not a scientist skilled in this area, but that he 
+believed that when it came to the area that would be under this 
+normal regulatory process, which is the mercury, that 
+incredibly small sliver of pink, that if this standard were 
+only affecting mercury, he believed that a shorter comment 
+period with a great likelihood of achievement was possible.
+    Do you agree with that, that mercury is not what's driving 
+most of the objections, from what you can tell?
+    Mr. Perciasepe. That is the--that chart is correct, the 
+best I can tell, Mr. Chairman.
+    Chairman Issa. Okay. I mean from your analysis, but we 
+couldn't resist using your own figures because they seem 
+compelling.
+    So isn't it disingenuous, a term we like to use here in 
+Washington more often than maybe we should, but isn't it 
+disingenuous for the EPA to talk endlessly about mercury and 
+its effects, all of which we're very concerned about, when in 
+fact the vast majority of this regulation has to do with 
+particulates and, if not 920 out of 960,000 comments, the vast 
+majority of those comments are about the mercury portion, a 
+portion which is probably achievable well within the time 
+parameter.
+    Mr. Perciasepe. The effects of mercury on children affects 
+their neurological----
+    Chairman Issa. No, no, no. My question is very narrow. It's 
+not about the effects of mercury. It's if, in fact, the 
+technology exists today, or can predictably exist in time to 
+meet the 2015 as to mercury, isn't the combining of 
+particulate, normally covered by another part of your 
+authority, a fairly disingenuous use of the benefits? Because 
+the benefits of reducing the mercury and the technology to 
+reduce the mercury appears not to be in widespread conflict. In 
+fact, if this was a mercury-only standard, you might likely 
+have much quicker--much greater support for a much quicker 
+implementation.
+    Mr. Perciasepe. You have to let me try a little bit here to 
+answer that question.
+    Chairman Issa. Of course.
+    Mr. Perciasepe. First of all, we can't quantify all those 
+benefits from those neurological impacts on children. Those are 
+not completely quantifiable as we are able to quantify some of 
+the fine-particle co-benefits. And the reason we have co-
+benefits is because the pollution-control equipment that you 
+would use for mercury, for arsenic, for nickel, chromium, and 
+the acid gases, which are all regulated under the air toxic 
+program, all of which have public health implications--we think 
+having co-benefits is a good thing and that those co-benefits 
+also have substantial public health benefits.
+    So it is those same pollution-control--it is that same 
+pollution-control equipment that is making those reductions in 
+fine particles. It isn't like we have asked for a separate 
+control for fine particles. These are the controls that will 
+reduce those other emissions.
+    Chairman Issa. With that, I recognize the ranking member 
+from Virginia, Mr. Connolly.
+    Mr. Connolly. Thank you, Mr. Chairman. If you want to 
+continue, I would certainly yield to the chairman.
+    Chairman Issa. Very quickly. I just want to run one 
+followup. I thank the gentleman.
+    As I understand it, roughly 90 percent of the benefits that 
+you're claiming under this regulation would already occur under 
+particulate reduction under MACTs; isn't that true? In other 
+words you're double-counting. You have another regulation that 
+would cover 90 percent of this. You're counting 100 percent of 
+the reduction in particulate when, in fact, 90 percent is going 
+to occur--and most of the benefit.
+    So I guess for the record, would you tell us what that 
+last--the differential between the two standards, that last 10 
+percent on particulate, what portion of the co-benefit would 
+actually occur? In other words, the numbers for what is the 
+last little fraction of reduction?
+    Mr. Perciasepe. Did you say MACTs?
+    Chairman Issa. By the MACTs program. In other words, the 
+amount of reduction here, and the cost, my understanding is 
+that about 90 percent of the particulate reduction under that 
+part of the regulatory authority is already ordered, basically.
+    Mr. Perciasepe. All I can--what I have to answer here is 
+this rule is aimed at reducing the toxic--air toxic emissions. 
+Those air toxic emissions that I mentioned, those metals and 
+acid gases are--associate the same control technologies are 
+used----
+    Chairman Issa. No, I understand that. But here's the point. 
+Much of this standard for particulate is below what you say is 
+safe by your own figures. So under NAAQS, when you say you get 
+down to this level, you now have clean air. You've defined 
+``clean'' and ``safe.'' And yet in this regulation, you're 
+regulating a standard lower than what you say is necessary. In 
+a nutshell, isn't it true that your regulatory authority ends 
+at the point in which air is safe?
+    Mr. Perciasepe. We are----
+    Chairman Issa. Now, wait a second. Your staff is shaking 
+``no'' behind you. So if you can answer that you think you have 
+a regulatory authority beneath a threshold which is safe by 
+your own standard, I would like to hear it.
+    Mr. Perciasepe. Two quick points. We are regulating air 
+toxics here, and it's a technology standard that's looking at 
+the best available technology, the maximum available control 
+technology--that's what the MACT stands for--those air toxics. 
+It gets those benefits, it gets those co-benefits of reducing 
+fine-particle pollution which we think is great, and there are 
+health benefits even below the standards.
+    Chairman Issa. The ranking member has been very generous. 
+Then why is it you have 15 milligrams per cubic meter per 
+billion, et cetera, et cetera. You have this 15-milligram 
+standard, and yet you're your new standard, you're now 
+setting--that's what you considered safe on one hand. And then 
+you come in below 11.5 milligrams, M3. I can't think in terms 
+of that small, but I agree that particulates, even in these 
+small amounts, are important to look at. But why wouldn't you 
+change your standard, support it with science, change your 
+standard to an amount below 11.5 before regulating before 11.5 
+and claiming benefits below 11.5.? Doesn't it seem like you 
+declared clean as 15, and you're regulating below that and 
+taking credit for cleaner--I'm not a scientist, and I will not 
+claim to have any expertise in this. I can just look and say 
+there is an inconsistency, like a set of books that don't 
+balance, you may not know where the missing money is, but if 
+they don't balance, you go looking for it. Why not have a 
+standard that is adjusted based on science to match this 
+greater regulatory request you're making?
+    Mr. Perciasepe. We are regulating the air toxics here, the 
+nickel, the arsenic, the mercury, the acid gases. The control 
+technologies that we use----
+    Chairman Issa. But you're claiming the benefits from the 
+particulate.
+    Mr. Perciasepe. But those benefits are real. Those benefits 
+will accrue to the American public.
+    Chairman Issa. Then why not lower the standard to 11.5 or 
+below, so that you're consistent in what you say you want to 
+reduce the particulate level?
+    Mr. Perciasepe. The National Ambient Air Quality Standard 
+is set under a science process where we have science advisors 
+that advise us on what level is adequate--adequate for the 
+protection of public health. It doesn't mean that there aren't 
+public health benefits below that level, and that's what we are 
+looking at here. These are co-benefits from controlling the air 
+toxics. That is the objective of this particular rulemaking.
+    Chairman Issa. Well, it's clear as mud, but I thank you for 
+your efforts. I now recognize the ranking member.
+    Mr. Connolly. I thank the chair. Mr. Perciasepe.
+    Mr. Perciasepe. Perciasepe.
+    Mr. Connolly. I'm sorry, Perciasepe.
+    The chairman asked you the question of whether any coal-
+fired power plants in the United States could possibly be 
+compliant with the proposed new rule. I have a list in front of 
+me of existing coal-fired power plants--it's a partial list--
+that are already fully compliant with EPA's proposed rule, 
+including four in my native State of Virginia. Despite the 
+testimony of the previous witness that nobody in Virginia could 
+be compliant, I have got four coal-fired power plants that are 
+fully compliant today. Are you aware of this list?
+    Mr. Perciasepe. I know there are some that are in 
+compliance with the rules. I just don't----
+    Mr. Connolly. I would ask, without objection, this list be 
+entered----
+    Mr. Perciasepe. I do know there is a new one under 
+construction in your State at Virginia City.
+    Mr. Connolly. Mr. Chairman, I'd ask unanimous consent that, 
+to the extent it exists, it be provided for the record.
+    Mr. Gowdy. [presiding.] Without objection.
+    Mr. Connolly. I thank the chair.
+    Is it not also true that nearly 60 percent of all coal-
+fired power plants that report emissions to EPA are compliant 
+currently with EPA's proposed limit for mercury?
+    Mr. Perciasepe. I don't know the exact number. Perhaps my 
+staff behind me have an exact number.
+    Mr. Connolly. Again, I would ask that this be entered into 
+the record.
+    Mr. Perciasepe. To be clear, we can't base the standard on 
+something that hasn't been met by an existing----
+    Mr. Connolly. Correct. My point in asking you this question 
+is that this notion that the hobnail-booted government is going 
+to destroy industry and consumers and cut off the source of 
+electricity in the United States is a false premise, given the 
+fact that 60 percent are already compliant on the mercury 
+standard. Is it not further true that 73 percent of all 
+reporting units are already compliant with the proposed limit 
+for HCI?
+    Mr. Perciasepe. It's likely.
+    Mr. Connolly. I would ask that be entered into the record, 
+too.
+    Mr. Connolly. And almost 70 percent of all units comply 
+with the EPA'S proposed limit for PM, particulate matter?
+    Mr. Perciasepe. True.
+    Mr. Connolly. So what we're trying to do is make at the 
+margin an improvement for those not compliant, some of which, 
+as we already heard in previous testimony, are all the plants 
+that are probably on the chopping block anyhow, and would serve 
+both consumers and the breathing public if they sort of used 
+this occasion to perhaps move on.
+    We also heard from the chairman concerns about, well, why 
+didn't you just take a lower level? Didn't the previous 
+administration try that tack, and wasn't there a court ruling 
+that it was--it required more rigorous enforcement?
+    Mr. Perciasepe. On fine particles? I think it was on ozone 
+that there might have been a court ruling or court activity, 
+but I don't know about fine particles. The bottom line is that 
+there are health benefits, you're talking about this rule?
+    Mr. Connolly. Yes, this rule.
+    Mr. Perciasepe. Yes. The previous administration--first of 
+all, there's a 20-year----
+    Mr. Connolly. Please finish your sentence.
+    Mr. Perciasepe. There is a 20-year history here.
+    Mr. Connolly. You were about to say, ``The previous 
+administration''----
+    Mr. Perciasepe. The previous administration proposed 
+controls for mercury in 2004.
+    Mr. Connolly. And what did a court of law----
+    Mr. Perciasepe. The court threw those out because they did 
+not comply.
+    Mr. Connolly. Yes,, that is the answer to the chairman's 
+question. Why are you doing this? It is not unique to the Obama 
+administration. The previous administration tried doing what 
+the chairman suggested: Why not just settle for a lower level? 
+And a court of law said ``not good enough,'' and it told EPA in 
+a court suit, you have to come up with new regulations that are 
+tougher than that; is that not correct?
+    Mr. Perciasepe. The court said that the--yes, that's 
+correct.
+    Mr. Connolly. Yes.
+    Mr. Perciasepe. It had to be regulated under a different 
+part of the Clean Air.
+    Mr. Connolly. Thank you. So that's the answer to why you 
+are doing what you are doing today. A court told you you had 
+to. And throughout the Bush administration attempt to look to 
+have a lower standard.
+    It isn't because you just in some lab somewhere decided to 
+just be a pain in everyone's side by coming up with tough, 
+hard-to-reach regulations, and as the data shows, they aren't, 
+since the majority of units reporting already meet one or more 
+of the regulations.
+    Was this standard on toxic pollutants envisioned or 
+incorporated in the 1990 Clean Air Act amendments?
+    Mr. Perciasepe. Yes.
+    Mr. Connolly. Why did it take 21 years, then, to implement 
+the law passed in 1990, signed into law by a Republican 
+President?
+    Mr. Perciasepe. Well, it's hard to imagine that it has 
+taken 21 years to get to this particular point, which obviously 
+flies in the face that we're going too fast. It has been looked 
+at numerous times by EPA. There have been proposed regulations 
+that were not properly completed. And we are in the situation 
+now in this administration of having to be guided by the 
+judicial branch toward the end that we are now aiming at.
+    Mr. Connolly. Thank you, Mr. Perciasepe. Thank you, Mr. 
+Chairman.
+    Mr. Gowdy. I thank the gentleman.
+    Social studies was a long time ago for me, civics. I'm 
+familiar with the legislative branch, I'm familiar with the 
+executive branch, and even occasional executive branch 
+overreach. ``Sue and settle'' was new to me until I got here. 
+Does EPA ever encourage groups to sue them?
+    Mr. Perciasepe. No. In fact, usually we get sued when we're 
+not doing what Congress asks us to do, and that usually is what 
+results in us getting on a schedule that's different than the 
+schedule that Congress set.
+    Mr. Gowdy. So you never invite lawsuits?
+    Mr. Perciasepe. No.
+    Mr. Gowdy. And there would never be anything to indicate 
+that you had suggested that someone sue? A friendly lawsuit, 
+shall we say?
+    Mr. Perciasepe. No.
+    Mr. Gowdy. Never?
+    Mr. Perciasepe. Not that I know of.
+    Mr. Gowdy. What is so talismanic about December 2011?
+    Mr. Perciasepe. Twenty-one years waiting, health benefits 
+denied, the----
+    Mr. Gowdy. If we waited 21 years and we have almost a 
+million comments, wouldn't you think we ought to wait maybe 22 
+so we can fully digest all 1 million comments?
+    Mr. Perciasepe. It might be good to say something about 
+those million comments since they've come up, if you would 
+appreciate that. Of those million comments, 960,000, the vast 
+majority are in favor of the rule. And of those million 
+comments, as you know, as some people have systems that they 
+can reply, only about 22,000 are unique as opposed to 
+duplicates of comments.
+    Mr. Gowdy. Well, 22,000 is still a lot. It's not a million. 
+Twenty-two thousand seems like a lot to digest between now and 
+Christmas.
+    Mr. Perciasepe. It is a lot, but it's not between now and 
+Christmas. Again, we've been working on this rule for a long 
+time. The comment period, we left the comment period open 
+longer than we normally do so that we would--we expected to get 
+a lot of comments.
+    Mr. Gowdy. Have you asked the court for more time?
+    Mr. Perciasepe. Pardon?
+    Mr. Gowdy. Have you asked the court for more time?
+    This is a court decree, I assume.
+    Mr. Perciasepe. That's correct.
+    Mr. Gowdy. A judgment?
+    Mr. Perciasepe. And we recently asked the court for another 
+30 days to finish the work. We have read every one of those 
+comments, and we will be replying to every one of those 
+comments in the Response to Comments document that we are 
+currently working on. We knew that we would get a lot of 
+comments, because we left the comment period open longer than 
+we normally do, and therefore we put the staff to task that we 
+would need to be able to review those comments.
+    Mr. Gowdy. Did you have an opportunity to listen or watch 
+the President's joint address to Congress several weeks ago?
+    Mr. Perciasepe. I did.
+    Mr. Gowdy. He mentioned regulations and he mentioned some 
+that are having a deleterious, pernicious effect on industry. 
+Then he said we should have no more regulation than is 
+necessary for the health, safety, and security of the American 
+people. I think he's identified 500 that--at least 500 that can 
+be done away with.
+    It strikes me as curious--let me ask before I say it 
+strikes me as curious. Are you arguing that the imposition of 
+this regulation is actually going to create jobs?
+    Mr. Perciasepe. We believe that construction jobs and then 
+the operation and maintenance jobs will be a net positive in 
+this sector.
+    Mr. Gowdy. How many coal jobs do you think will be lost?
+    Mr. Perciasepe. You know, we expect--you know, one of the 
+things you have to realize, we're investing in--we, the 
+country, not me, EPA--we are investing with this rule in coal-
+fired power plants. We are going to make a major capital 
+investment----
+    Mr. Gowdy. I probably didn't ask my question artfully. How 
+many coal jobs do you think we'll lose? You think we're going 
+to add some construction jobs. How many jobs will be lost? 
+Because neither one of us are naive enough to believe there 
+aren't going to be jobs lost.
+    Mr. Perciasepe. I expect that the amount of coal that is 
+used will be roughly flat. The plants that we will invest in 
+here, which will be many----
+    Mr. Gowdy. What analysis----
+    Mr. Perciasepe. --will then lock in the fact that we're 
+going to be using coal for many, many years.
+    Mr. Gowdy. What analysis did EPA do with respect to job 
+loss?
+    Mr. Perciasepe. We have a range that we've identified; 
+9,000 permanent job gains is in the middle of the range. There 
+are some that go just slightly below zero----
+    Mr. Gowdy. I am just asking about job loss. I haven't 
+gotten a jobs gain. What analysis did EPA do about job loss?
+    Mr. Perciasepe. Best estimate of the net gain is 9,000.
+    Mr. Gowdy. So EPA did factor in the losses to the coal 
+industry and others?
+    Mr. Perciasepe. Yes.
+    Mr. Gowdy. Okay. My time's up, sorry. We want to thank you 
+on behalf of Mr. Connolly and myself. Give me one second.
+    Thank you, and we will be briefly in recess as the third 
+panel approaches.
+    Mr. Perciasepe. We will provide the information, as I 
+suggested to the chairman, in followup. And, of course, every 
+question that you all have we'll follow up with as quickly as 
+possible. Thank you for your time and I appreciate the 
+questions.
+    Mr. Gowdy. Very well, thank you.
+    We will be in recess for 5 minutes.
+    [Recess.]
+    Chairman Issa. [Presiding.] The hearing will now reconvene. 
+We now welcome Mr. Josh Bivens, he's an economist at the 
+Economic Policy Institute. Mr. Bivens, I noticed that you were 
+here for the previous panel, so you recognize that pursuant to 
+our rules all witness are sworn. Would you please rise to take 
+the oath. Raise your right hand.
+    Do you solemnly swear or affirm that the testimony you are 
+to give will be the truth, the whole truth, and nothing but the 
+truth?
+    Once again, let the record reflect the witness answered in 
+the affirmative. And once again, the witness is recognized for 
+5 minutes for his opening statement.
+
+  STATEMENT OF JOSH BIVENS, PH.D., ECONOMIST, ECONOMIC POLICY 
+                           INSTITUTE
+
+    Dr. Bivens. I thank the committee for the invitation to 
+testify today. My name is Josh Bivens. I'm an economist at the 
+Economic Policy Institute in Washington, D.C.
+    My professional, peer-reviewed research standard for the 
+ratio of benefits to costs of the EPA's air toxics rule are 
+very large. But somewhere along the way the debate moved on to 
+the grounds of job creation, which is a little odd, because 
+regulatory changes just aren't big drivers of job growth.
+    But in my testimony, and especially in my written 
+testimony, I sketch out how regulatory change in general and 
+the air toxics rule specifically can affect job creation and 
+unemployment. I conclude that the air toxics rule, like almost 
+all related regulatory changes, will have trivial effects on 
+job growth over the longer run, but that over the next couple 
+of years, particularly if the unemployment rate remains high, 
+the rule will actually on net create jobs and lower the 
+unemployment rate.
+    Further, it's precisely because the unemployment rate is 
+high today that the rule, as implemented, as planned, would 
+have clearly positive impacts on job creation. So in short, 
+calls to delay implementation of the rule based on vague 
+appeals to wider economic weakness, have the case entirely 
+backward. There is no better time than now, from a job creation 
+perspective, to move forward with these rules.
+    My research which I summarize in my written testimony 
+indicates the adoption of the air toxics rule would lead to the 
+net creation of about 28,000 to 158,000 jobs between now and 
+2015. The primary economic impact of these rules will be in 
+significantly boosting health and quality of life, leading to 
+benefits that are at least five to ten times larger than the 
+cost. But since we are here to talk about jobs, or at least 
+that's why I've been asked here today is to talk about jobs, 
+let me just say a couple of words on it.
+    The job impacts of regulatory changes depend on the wider 
+macroeconomic context. When the economy is functioning well, 
+job impacts from regulatory changes are going to be quite small 
+for two main reasons. The most important reason is just that in 
+a well-functioning economy, the Federal Reserve can neutralize 
+any boost or drag on overall employment growth that may result 
+from regulatory changes through their conventional monetary 
+policy measures. They can raise or lower short-term interest 
+rates.
+    We may criticize the specific targets that the Fed adopts 
+at given times. But in a well-functioning economy they will be 
+able to hit these targets. Moreover, the direct first-round 
+impact of regulatory change on employment growth are going to 
+be modest anyway, because they carry offsetting influences. So 
+the Fed won't even have to do that much to counterbalance them: 
+On the one hand, employment, because of regulatory changes, 
+boosted because of the extra investments needed to bring 
+producers into compliance, so power plants, purchasing and 
+installing scrubbers; on the other hand, a rise in the price 
+level of energy because of the regulatory change may be 
+transmitted to the overall economy by causing a slight rise in 
+overall prices, and this may cause a reduction in spending.
+    But it is clear that the first-round impacts, before the 
+Federal Reserve decides to neutralize them, of regulatory 
+change are indeterminate. It's important to note that even 
+regulations that have large measured compliance costs are no 
+more likely to lead to job losses than those with smaller 
+compliance costs. Compliance costs go on both sides of the job 
+creation ledger. They represent both the scales, investments 
+needed to bring firms into compliance, and they represent sort 
+of the potential increase in prices that may result from them.
+    When the economy is not functioning well, especially at a 
+time like today when unemployment is high, even as the short-
+term policy interest rate controlled by the Fed sits at zero, 
+this analysis changes. The most important way it changes is 
+that the Fed can no longer neutralize any effect of regulatory 
+changes on employment growth. So instead of the Fed 
+counterbalancing any change, these changes are actually likely 
+to have multiplier effects so they will ripple through the 
+economy.
+    The briefing paper that my written testimony is based on 
+assesses the positive and negative first-round effects as well 
+as the effect of the likely multipliers to the economy. And it 
+comes to the finding that positive effects dominate. I just 
+want to point out quickly that estimates are awfully 
+conservative. Basically they are conservative because the only 
+real adjustment to the results I make is the assumption that 
+the Fed can't or won't lean against whatever happens to 
+employment because of regulatory changes. But actually there's 
+plenty of reason to think that there will be very little scope 
+for the overall price level to actually rise, given how much 
+slack demand is in the economy today. Basically the idea that 
+the capacity utilization rate of utilities is at the lowest 
+rate on record, that regulatory changes will lead to large 
+price spikes, is a very hard thing to believe.
+    And second, when you have economies with high rates of 
+unemployment, chronic excess supply, they often see rapid 
+disinflation. That's what the U.S. economy is seeing, basically 
+since what we now call the ``Great Recession'' started. And 
+this disinflation actually leads to real interest rates rising, 
+even while the Federal Reserve is trying to keep them down, and 
+this provides a break on economic growth. So even if the price 
+increase and the power generating sector is passed on to the 
+overall general price level, this will actually arrest the 
+upper pressure on real interest rates and this would be as 
+likely as not to be positive for overall demand. I don't 
+include this latter consideration an effect in my paper.
+    So in short, I think my estimates of the likely job impacts 
+of the air toxics rule by 2015 actually allow the widest scope 
+possible for the negative impacts to run free. So I think they 
+are very conservative.
+    To conclude, I want to be clear, this is not a major jobs 
+program. It's something that should be done because it will 
+help Americans' health, but it will not reduce job growth.
+    [Prepared statement of Dr. Bivens follows:]
+    [GRAPHIC] [TIFF OMITTED] 74039.144
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.145
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.146
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.147
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.148
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.149
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.150
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.151
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.152
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.153
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.154
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.155
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.156
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.157
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.158
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.159
+    
+    Chairman Issa. I thank the gentleman and yield myself 5 
+minutes. First of all, I want to compliment you. I have never 
+seen an economist with so many ``ands.'' I tried to listen to 
+your opening statement and it was pretty amazing, because it 
+did balance so many but, but, but, but--so I will look forward 
+to going through your conclusions once again after the hearing 
+and see if I can't reconcile them.
+    But let me go through a few things that I think are 
+appropriate to your presence here today. First of all you're 
+here, funded by the Blue-Green Alliance; is that right?
+    Dr. Bivens. No.
+    Chairman Issa. No.
+    Dr. Bivens. I'm an employee of the Economic Policy 
+Institute.
+    Chairman Issa. Do you work with the Blue-Green Alliance?
+    Dr. Bivens. Yes, I have.
+    Chairman Issa. Would you say it is fair to say that a 
+coalition of unions and environmentalists are essentially the 
+people that you work with closely?
+    Dr. Bivens. I have worked with closely, yes.
+    Chairman Issa. Would it surprise you to know that the 
+International Brotherhood of Electric Workers, the AFL-CIO, 
+opposed the implementation of this standard at this time?
+    Dr. Bivens. I did know that.
+    Chairman Issa. Without objection, I would like to enter 
+that letter into the record. Without objection, so ordered.
+    Chairman Issa. I'm not an economist. I don't have a Ph.D., 
+So I'm going to try and make everyone who looks at the record 
+of this hearing a little bit simpler. And I appreciate the 
+breadth of your knowledge and capability to balance it. I'm not 
+taking away from it, but I just think that most of us have to 
+understand this a little differently.
+    This standard does not create new, less expensive energy; 
+is that correct?
+    Dr. Bivens. No, it does not do that.
+    Chairman Issa. It does, however, when fully implemented in 
+2015, reduce pollutants and thus has positive health benefits; 
+is that right?
+    Dr. Bivens. That's my understanding.
+    Chairman Issa. Okay. And although there are some jobs 
+created as a result of implementing this standard, those jobs 
+are by definition either temporary, the 37,000 or so, or 
+permanent. The permanent ones are, by definition, greater 
+ongoing costs to producing the same amount of electricity; is 
+that correct?
+    Dr. Bivens. Yeah, I think that's correct.
+    Chairman Issa. Okay. So to put it in terms that my 
+economist--economics professor at Kent State would have said, 
+those are rocks in the knapsack. The benefit is you get cleaner 
+air, and whatever you get from that is fine. But your ability 
+to walk long distances are impeded by the rock in the knapsack. 
+And this is an additional burden, an additional ongoing costs 
+to producing the same amount of electricity. Would you say 
+that's correct?
+    Dr. Bivens. With one caveat. We're using more labor to 
+produce the same amount of energy, but we are producing cleaner 
+energy than we would have without that layer.
+    Chairman Issa. And the benefit of cleaner energy would be 
+the health care benefits clearly, and we all agree to that. So 
+on one hand you have got a rock in a knapsack; you've got this 
+cost, and the cost is at least 9,000 permanent greater jobs, 
+estimated to be about $1 billion by what we might call the low 
+side, the EPA's own estimate of best case. We will forget about 
+the dollars. Just understand that you will have 9,000 more jobs 
+to produce the same amount of electricity, and those jobs will 
+add forever to the cost of producing that energy.
+    So with that assumption, as we look at the speed with which 
+they want to implement this, 3 years after only basically a 3-
+month look-see period, now extended by about a month, what if 
+100 percent of the mercury and 90 percent of the particulate 
+worked out to be an answer which could be implemented with more 
+available technology today?
+    In other words, what if you could get 99 percent of the 
+benefit, all of the mercury reduction, and 90 percent--and I'm 
+using that as a hypothetical figure--of the particulate 
+reduction, you could get that for a fraction of the cost. Let's 
+say $1 billion in additional costs, representing only hundreds 
+of additional workers, hypothetically. If that were the case, 
+as an economist wouldn't you want that cost-benefit looked at, 
+vast majority of the savings perhaps in health benefits, 100 
+percent, because at some point as you reduce particulates, you 
+have a drop-off in the health care benefit improvement. I grew 
+up in Cleveland, a place that all the walls were black, you 
+could see the air when I was a young man. So I'm very aware of 
+improvements made since the sixties.
+    So my question to you is: Wouldn't you as an economist want 
+to have that information at your disposal to make a calculation 
+of cost-benefit to the economy on a long-term basis?
+    Dr. Bivens. Yes. Basically what you're saying is could we 
+achieve the same goals more productively, less labor needed. I 
+would say in the long run that sounds exactly right. I would 
+say in the short run we have a jobs crisis in the country, 
+everyone agrees with that. And actually those compliance costs 
+over the next 4 years represent job-creating investments that 
+will be made, that the corporate sector is showing no sign of 
+making any other way. Instead they are showing signs of sitting 
+on massive amounts of savings without seeing any need to do 
+those job-creating investments.
+    And so that to me is why now is the time, assuming we have 
+done all the due diligence about whether or not these rules 
+should be done, and if that is the case, and it strikes me it 
+is the case, now is the time to do them. It is what will help 
+solve the job crisis we have over the next couple of years.
+    Chairman Issa. I don't if you were here earlier, but in the 
+earlier testimony, what we had explained to us is it was 5 
+years of rulemaking and implementation after the passage of the 
+Clean Air Act in 1990. There has been as much as a full year 
+for less controversial, less expensive proposed rules, while 
+this one enjoyed roughly 3 months, now extended by a month.
+    So the question would be, not as an economist, but from a 
+standpoint of wanting to know, if going through nearly a 
+million comments and evaluating those and evaluating the cost-
+benefit that comes from those suggestions, if that would get 
+you 90 percent for 10 percent, and of course allow additional 
+technology to get the rest, wouldn't that be advisable for your 
+finding the optimum benefit to the economy in the way of 
+affordable energy, cleaner air, and, of course, job creation, 
+on both sides?
+    Dr. Bivens. Yes, it would be useful to know if that was a 
+possible scenario.
+    Chairman Issa. Well, we hope it is. With that, I recognize 
+the ranking member.
+    Mr. Connolly. I thank the chairman. By the way, Mr. 
+Chairman, you had asked earlier whether there were any coal-
+fired power plants that might meet this new standard. I think 
+maybe you were out of the room when I entered into the record a 
+list of coal-fired power plants right now that would in fact 
+fully meet the standard, including four in my native Virginia, 
+which contradicts the previous testimony.
+    I now have been corrected. There are actually at least six. 
+The Chesterfield power station and the Virginia City plant, 
+both run by Dominion Resource, would be fully compliant today.
+    Chairman Issa. Well, hopefully the EPA will take and codify 
+that list as exactly that. And I appreciate the gentleman.
+    Mr. Connolly. I thank the chairman, and I would also point 
+out for the record that all of the at least six coal-fired 
+power plants in the Commonwealth of Virginia that would be 
+compliant are south of Rappahannock. They are not in Northern 
+Virginia.
+    Chairman Issa. You don't get to represent them?
+    Mr. Connolly. I don't get to represent them, but our first 
+witness does. You may recall his concern for poor communities 
+bearing this brunt.
+    Dr. Bivens, following up on the chairman's question about 
+trying to follow testimony, you're now our third witness, and 
+we've had actually three different sets of data in terms of job 
+numbers.
+    Our first witness cited an industry-funded study that 
+claimed that perhaps as many as 180,000 jobs could be lost. Our 
+second witness from EPA said that the midpoint in their 
+analysis was 9,000 jobs would be created. And you just 
+indicated, if I heard you correctly, somewhere between 28,000 
+and as many as 150,000 net positive jobs created between now 
+and 2015 if this rule were to go into effect.
+    To what do you attribute the variance in these estimates? 
+It is awfully hard as a Member of Congress to sort of make the 
+right decision policy-wise with such a wide array of job loss 
+or creation estimates.
+    Mr. Bivens. I can speak pretty clearly between the 
+difference between my estimates and EPA. The industry-funded 
+study is pretty opaque, so I can only guess what is driving it. 
+The difference between mine and EPA's is EPA restricted itself 
+to looking only at the likely job impact within the utility 
+sector itself, and with one supplying industry--steel--that is 
+going to supply the scrubbers. I think they're missing a good 
+chunk of the likely job impacts by not looking at the full 
+range of jobs created by the investment spurred by the need to 
+meet the regulatory change. So that is what my study tries to 
+do. It tries to look at, both within the utility sector and 
+outside it, looking at both the positive and the negative.
+    The industry studies that I've seen that have chalked up 
+big losses regarding this rule I think make two big common 
+problems, generally. Each one is a little different. The first 
+one is there seems to be a big discordance between their 
+compliance costs and their price implications. So basically 
+they have compliance costs that look relatively vague; say, two 
+times as large as the EPA. But then they have price spikes that 
+are like four times as large.
+    Given that the compliance costs, that dollar value, is the 
+scale of investments that actually support jobs, those should 
+actually move pretty much in tandem with the price increases. 
+Because the only reason you have to raise prices in response to 
+regulatory change is if you have to hire new people in order to 
+do the stuff you have to do to comply with the new regulatory 
+regime. And so I think that they have consistently had price 
+increases that are well out of line with what the rest of the 
+study looks at.
+    The other thing they don't do, I think, is properly account 
+for the very different macroeconomic environment we're in right 
+now. They basically assume it's kind of what would these 
+investments do, dropped into the U.S. economy at a normal point 
+in time. We're not at a normal point in time. We've had 9 
+percent unemployment for 3 years, even while the Fed short-term 
+interest rates are stuck at zero. In the jargon that's called a 
+liquidity trap. It's a really important context for how the 
+U.S. economy is operating right now.
+    Mr.Connolly. My time is limited. So let me ask you this 
+question. Thank you.
+    We've heard assertions made that this kind of regulation is 
+a job killer, going to crush industry, going to actually pass 
+on significant costs to consumers. And yet when one looks at 
+the data of the record of implementation of the Clean Air Act 
+since 1970, and the Clean Air Act amendments since 1990, the 
+data suggests the opposite. I wonder, as an economist, would 
+you comment?
+    Dr. Bivens. I agree with that characterization. I would 
+urge people to look at a paper my Institute did by Isaac 
+Shapiro and John Irons. They looked exactly at that; sort of 
+forecast for what regulatory changes were going to do to jobs, 
+price increases, things like that; and consistently, in the 
+end, the cost of the regulation was almost always much smaller 
+than what was forecast ahead of time.
+    Mr. Connolly. And the price of electricity?
+    Dr. Bivens. I'm not sure if they looked at the price of 
+electricity. I would say I think the best estimate for what's 
+going to happen to the price of electricity is the EPA's--and I 
+see a lot of the other studies out there--that look far out of 
+line.
+    Mr. Connolly. Just for the record, I'd repeat, in my native 
+State, the Commonwealth of Virginia, since 1990 the net cost of 
+electricity has actually gone down by 35.6 percent.
+    With that, I yield back, Mr. Chairman.
+    Chairman Issa. I thank the gentleman. But if I can ask the 
+gentleman a question about your State. In Virginia, for those 
+to go down, I'm presuming that since it's a rate base on their 
+cost, that in fact that's a matter of efficiency. In order to 
+reduce costs over that same period of time, they produced more 
+electricity at lower cost, where they're getting a return on 
+their capital--a regulated return on their capital. So in this 
+case, where the EPA, by its own estimates, has a cost of 
+implementation, those costs would be passed on. So there would 
+be at least a temporary spike in what otherwise is a cost-
+benefit reduction that they have been achieving for that period 
+of time.
+    Mr. Connolly. I think the chairman makes a fair point that 
+obviously that could happen. I would only point out, though, 
+that contrary to our first witness' testimony, the reason for 
+price spikes in especially rural parts of Virginia, has to do 
+with the reregulation of the industry, a bill that was written 
+by the industry, in the General Assembly of Virginia. It had 
+nothing to do with Federal regulation.
+    Chairman Issa. I appreciate that explanation. I will tell 
+you that as somebody who's seen our State go through 
+deregulation, dramatic reduction in cost, and then blackouts, 
+and we have partial reregulation, although not complete, it is 
+one of the challenges--do we give the regulated utilities--and 
+this is what I'm going to ask one last question to the 
+witness--regulated utilities, when they're given a cost-plus 
+situation, they love cost. They often do not complain about 
+cost drivers because they can pass it on, which essentially 
+grows the benefit to their stockholders, while at the same time 
+they will say they want a free market system, but not unless it 
+gives them greater profit margins.
+    I think the gentleman has a good point in your State, as I 
+do in mine.
+    Mr. Connolly. I agree with the chairman.
+    Chairman Issa. At this point, I should adjourn. But I want 
+to thank the witness. Dr. Bivens, you were very helpful. Your 
+entire statement will be there.
+    Additionally, because you had not as many witnesses but you 
+had some questions related to some economic hypothetical that 
+may be beyond what even in your thorough comments you provided, 
+any additional for the next, let's say, 7 days, and if you need 
+longer, let us know, we'll keep the record open so that 
+anything you believe are missing analyses, either on the upside 
+or the downside, we'd appreciate having.
+    Additionally, if you could do me a personal favor, or the 
+committee a personal favor, to the extent that you could try to 
+deliver us a timeline cost of money; in other words, the cost 
+of a delay as they just had of 30 days in the implementation, 
+and the benefit that is potentially there from slight 
+adjustments in the final standard, how you think the parameters 
+of best case of a slight change and worst case of a slight 
+change; because delay has a cost to cleaner air. Well, getting 
+it right may have a benefit to lower cost and ultimately 
+greater affordability. I didn't see that in your earlier stuff. 
+It is kind of esoteric. But I think for all of us who want to 
+weigh--not just on this bill but in future hearings--do we 
+delay to get it right? What is the cost of delay? Something 
+that since we are talking about 1990 until today, I think we 
+have to put in that perspective.
+    I would yield to the ranking member.
+    Mr. Connolly. Mr. Chairman, I support your request. And I 
+think in the endeavor to try to better understand the economics 
+of that, that would be helpful.
+    I wonder if the chairman would also entertain asking Dr. 
+Bivens to provide a little more analysis on his answer to the 
+question about the job number variation we've heard in this 
+hearing, because we've heard three different sets of numbers. I 
+certainly would welcome Dr. Bivens taking some time to help us 
+better understand the different methodologies that led to those 
+different sets of numbers.
+    Chairman Issa. Absolutely, to the extent that you could.
+    The ranking member said it maybe more artfully than I did, 
+because we do see where one side is looking at the costs of 
+jobs--higher utility costs, and so on--and the other side, 
+self-servingly and rightfully so, is looking at the jobs 
+created. And obviously we want to look at the balance, 
+particularly in regulated utility States. I think the doctor's 
+comments were exactly right on. In a free-market regulatory 
+State, much of this could be a compression of profits of the 
+utilities. Well, in those States that are cost-plus or 
+regulated, it is going to be passed on. I think that is one of 
+the things the ranking member made such a good point of.
+    With an affirmative yes, we stand adjourned.
+    [Whereupon, at 3:15 p.m., the committee was adjourned.]
+    [GRAPHIC] [TIFF OMITTED] 74039.160
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.161
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.162
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.163
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.164
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.165
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.166
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.167
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.168
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.169
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.170
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.171
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.172
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.173
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.174
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.175
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.176
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.177
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.005
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.006
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.007
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.008
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.009
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.033
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.010
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.011
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.012
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.013
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.014
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.015
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.016
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.017
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.018
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.019
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.020
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.021
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.022
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.023
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.024
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.025
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.026
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.027
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.028
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.029
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.030
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.031
+    
+    [GRAPHIC] [TIFF OMITTED] 74039.032
+    
+
+</pre></body></html>

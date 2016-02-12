@@ -1,0 +1,1650 @@
+<html>
+<title> - SAFE AND FAIR SUPERVISION OF MONEY SERVICES BUSINESSES</title>
+<body><pre>
+[House Hearing, 112 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+ 
+                      SAFE AND FAIR SUPERVISION OF
+                       MONEY SERVICES BUSINESSES
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                 SUBCOMMITTEE ON FINANCIAL INSTITUTIONS
+
+                          AND CONSUMER CREDIT
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                      ONE HUNDRED TWELFTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             JUNE 21, 2012
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 112-139
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+76-110                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office, 
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail, gpo@custhelp.com.  
+
+
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                   SPENCER BACHUS, Alabama, Chairman
+
+JEB HENSARLING, Texas, Vice          BARNEY FRANK, Massachusetts, 
+    Chairman                             Ranking Member
+PETER T. KING, New York              MAXINE WATERS, California
+EDWARD R. ROYCE, California          CAROLYN B. MALONEY, New York
+FRANK D. LUCAS, Oklahoma             LUIS V. GUTIERREZ, Illinois
+RON PAUL, Texas                      NYDIA M. VELAZQUEZ, New York
+DONALD A. MANZULLO, Illinois         MELVIN L. WATT, North Carolina
+WALTER B. JONES, North Carolina      GARY L. ACKERMAN, New York
+JUDY BIGGERT, Illinois               BRAD SHERMAN, California
+GARY G. MILLER, California           GREGORY W. MEEKS, New York
+SHELLEY MOORE CAPITO, West Virginia  MICHAEL E. CAPUANO, Massachusetts
+SCOTT GARRETT, New Jersey            RUBEN HINOJOSA, Texas
+RANDY NEUGEBAUER, Texas              WM. LACY CLAY, Missouri
+PATRICK T. McHENRY, North Carolina   CAROLYN McCARTHY, New York
+JOHN CAMPBELL, California            JOE BACA, California
+MICHELE BACHMANN, Minnesota          STEPHEN F. LYNCH, Massachusetts
+THADDEUS G. McCOTTER, Michigan       BRAD MILLER, North Carolina
+KEVIN McCARTHY, California           DAVID SCOTT, Georgia
+STEVAN PEARCE, New Mexico            AL GREEN, Texas
+BILL POSEY, Florida                  EMANUEL CLEAVER, Missouri
+MICHAEL G. FITZPATRICK,              GWEN MOORE, Wisconsin
+    Pennsylvania                     KEITH ELLISON, Minnesota
+LYNN A. WESTMORELAND, Georgia        ED PERLMUTTER, Colorado
+BLAINE LUETKEMEYER, Missouri         JOE DONNELLY, Indiana
+BILL HUIZENGA, Michigan              ANDRE CARSON, Indiana
+SEAN P. DUFFY, Wisconsin             JAMES A. HIMES, Connecticut
+NAN A. S. HAYWORTH, New York         GARY C. PETERS, Michigan
+JAMES B. RENACCI, Ohio               JOHN C. CARNEY, Jr., Delaware
+ROBERT HURT, Virginia
+ROBERT J. DOLD, Illinois
+DAVID SCHWEIKERT, Arizona
+MICHAEL G. GRIMM, New York
+FRANCISCO ``QUICO'' CANSECO, Texas
+STEVE STIVERS, Ohio
+STEPHEN LEE FINCHER, Tennessee
+
+           James H. Clinger, Staff Director and Chief Counsel
+       Subcommittee on Financial Institutions and Consumer Credit
+
+             SHELLEY MOORE CAPITO, West Virginia, Chairman
+
+JAMES B. RENACCI, Ohio, Vice         CAROLYN B. MALONEY, New York, 
+    Chairman                             Ranking Member
+EDWARD R. ROYCE, California          LUIS V. GUTIERREZ, Illinois
+DONALD A. MANZULLO, Illinois         MELVIN L. WATT, North Carolina
+WALTER B. JONES, North Carolina      GARY L. ACKERMAN, New York
+JEB HENSARLING, Texas                RUBEN HINOJOSA, Texas
+PATRICK T. McHENRY, North Carolina   CAROLYN McCARTHY, New York
+THADDEUS G. McCOTTER, Michigan       JOE BACA, California
+KEVIN McCARTHY, California           BRAD MILLER, North Carolina
+STEVAN PEARCE, New Mexico            DAVID SCOTT, Georgia
+LYNN A. WESTMORELAND, Georgia        NYDIA M. VELAZQUEZ, New York
+BLAINE LUETKEMEYER, Missouri         GREGORY W. MEEKS, New York
+BILL HUIZENGA, Michigan              STEPHEN F. LYNCH, Massachusetts
+SEAN P. DUFFY, Wisconsin             JOHN C. CARNEY, Jr., Delaware
+FRANCISCO ``QUICO'' CANSECO, Texas
+MICHAEL G. GRIMM, New York
+STEPHEN LEE FINCHER, Tennessee
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    June 21, 2012................................................     1
+Appendix:
+    June 21, 2012................................................    27
+
+                               WITNESSES
+                        Thursday, June 21, 2012
+
+Bortner, Deborah, Director of Consumer Services, Washington State 
+  Department of Financial Institutions, on behalf of the 
+  Conference of State Bank Supervisors...........................     7
+Daly, Timothy P., Senior Vice President, Global Public Policy, 
+  The Western Union Company......................................     5
+Levine, Ezra C., Counsel, The Money Services Round Table.........     8
+Suleiman, Hersi, General Manager, Amal USA, Inc., on behalf of 
+  the Somali-American Money Transmitters Association (SAMSA).....    10
+
+                                APPENDIX
+
+Prepared statements:
+    Ellison, Hon. Keith..........................................    28
+    Bortner, Deborah.............................................    30
+    Daly, Timothy P..............................................    45
+    Levine, Ezra C...............................................    51
+    Suleiman, Hersi..............................................    57
+
+              Additional Material Submitted for the Record
+
+Ellison, Hon. Keith:
+    Written statement of Adeso...................................    62
+    Written statement of Oxfam America...........................    64
+Renacci, Hon. James:
+    Written statement of The Clearing House Association L.L.C., 
+      et al......................................................    67
+
+
+                      SAFE AND FAIR SUPERVISION OF
+                       MONEY SERVICES BUSINESSES
+
+                              ----------                              
+
+
+                        Thursday, June 21, 2012
+
+             U.S. House of Representatives,
+             Subcommittee on Financial Institutions
+                               and Consumer Credit,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 9:32 a.m., in 
+room 2128, Rayburn House Office Building, Hon. James Renacci 
+presiding.
+    Members present: Representatives Renacci, Pearce, 
+Luetkemeyer, Huizenga, Canseco, Grimm, Fincher; Maloney, Watt, 
+Baca, and Scott.
+    Also present: Representatives Ellison, Perlmutter, and 
+Green.
+    Mr. Renacci [presiding]. This hearing will come to order. 
+Chairwoman Capito is running a little late, so we are going to 
+go ahead and get started.
+    I would first like to start with opening statements. And 
+the first opening statement will be from Ranking Member 
+Maloney.
+    Mrs. Maloney. First of all, I want to thank Chairwoman 
+Capito and the Republican Majority for scheduling this hearing 
+on a very important issue that affects the community that I 
+represent and, literally, communities across the country. And I 
+would like to welcome all of the panelists, particularly Mr. 
+Daly, who has appeared before this panel several times on this 
+issue and played a constructive role in trying to find a 
+solution.
+    And I would like unanimous consent for the gentleman from 
+Minnesota, Mr. Ellison, to participate in this hearing, as it 
+is an area of grave concern to him and his constituents.
+    Mr. Renacci. Without objection, it is so ordered.
+    Mrs. Maloney. Okay. Great. Thank you.
+    I have been working to find a solution to a very real 
+problem for several Congresses now, which concerns money 
+services businesses (MSBs) being denied access to banking 
+services. We want to be expanding banking services, not 
+contracting them.
+    Without a banking relationship, MSBs are unable to provide 
+financial services to communities, making it difficult for 
+millions of Americans to pay their bills, send money or 
+remittances or cash checks. The fact is that banks believe that 
+it is simply too burdensome to keep track of the customers of 
+the money services businesses they serve. And the concern about 
+liability in the case of a money services business failing to 
+comply with Anti-Money Laundering and Bank Secrecy Act 
+statutory requirements has led to a termination of these 
+accounts.
+    We know that many accounting and tracking bills were put in 
+place--and laws in place after the 9/11 terrorist attack to 
+track terrorist money after the financial crisis. And many 
+banks or financial institutions are saying they do not want to 
+comply. It has gotten so challenging in the great City of New 
+York that literally only one bank is now supplying this service 
+that is needed for the money services businesses. So this is 
+really, I would think, almost a crisis for this industry.
+    I would like to point out that my colleague, Keith Ellison, 
+has highlighted a very real problem that he hears about from 
+his Somali constituents who rely on remittances to send money 
+back to Somalia. So I am pleased we have a witness here today 
+who can speak to this and possible, potential solutions.
+    I do understand that Federal regulatory agencies 
+recognizing the problem facing MSBs have sought to address the 
+issue through agency guidance and regulatory changes and they 
+say they support them. But it has had very little effect. My 
+concern has been that if this issue is left unaddressed, the 
+viability of money services businesses will be compromised, 
+potentially pushing many of the transactions underground and 
+untraceable to law enforcement.
+    There have been a few legislative proposals over the years 
+that have sought to address the concerns that both the banks 
+and the MSBs have. I sponsored a bill in the last Congress and 
+it literally passed in that Congress, in the Congress before, 
+that would have enabled money services businesses to self-
+certify that they are in compliance with the Bank Secrecy Act 
+and the Anti-Money Laundering Act and that they had the Ant-
+Money Laundering regime in place. This was a bipartisan bill 
+that I would like to work on again with my colleagues.
+    But there are also proposals that would delegate the 
+registration process to the States using a model that has 
+worked for mortgage lenders, as well as proposals that create a 
+self-regulatory organization for MSBs. So I will be interested 
+to hear from the witnesses today as to whether they believe the 
+denial of access to bank services is something that can be 
+fixed through legislation or whether it really is something 
+that can be fixed through additional regulatory guidance.
+    I think we would like to see a solution to this problem. 
+And I hope we can work together to find it. I look forward to 
+the witnesses' testimony today, and I really feel that this is 
+an important challenge, so I thank everyone who is working on 
+it.
+    I yield back.
+    Mr. Renacci. Thank you, Mrs. Maloney.
+    I now want to recognize Mr. Scott for 3 minutes for his 
+opening statement.
+    Mr. Scott. Thank you very much, Mr. Chairman. And thank you 
+for this very, very important hearing.
+    Money services businesses play an important role for many 
+Americans. Check-cashing services, money orders, and traveler's 
+checks all play vital roles within the jurisdiction of what we 
+know as MSBs. And their services are utilized by different 
+areas of the population in different ways.
+    Many individuals who are underbanked or completely unbanked 
+utilize MSBs. MSBs are their lifeline for critical and crucial 
+financial transactions, many of which are time-sensitive and 
+are emergency situations. And they permit convenient access to 
+cash.
+    This is very, very important for millions and millions of 
+Americans. So we have to ensure that these consumers are 
+provided the proper and adequate protection and give 
+appropriate financial education to them before transactions are 
+completed. And this is especially true as the money services 
+business industry continues to grow and its services become 
+more accessible to potential customers.
+    MSBs are regulated at both the Federal and the State levels 
+by means of a complex structure of varying spans of reach, and 
+therein lies a part of perhaps the challenge.
+    Some of these agencies, namely the IRS, ensures that the 
+money services businesses comply with the Bank Secrecy Act. And 
+MSBs are required to register with the Financial Crimes 
+Enforcement Network (FinCEN) within the Treasury Department.
+    And so with this comes a key question that we might want to 
+examine today and that is, how successful is the coordination 
+between all of these regulatory systems. And what is the 
+prospect for improvement and moving ahead?
+    And then a specific question: Are money services 
+businesses, such as money transmitters, categorically 
+determined to be too high a risk?
+    So as our economy continues to move towards recovery, 
+Americans need reassurances that the financial services they 
+choose to utilize are stable and are operating in a sound 
+manner. And this holds especially true for many of my 
+constituents and the constituents of members of this committee 
+who rely on the services of money services businesses to pay 
+monthly bills and even to help family members in need of 
+immediate financial support, especially in these tough economic 
+times.
+    So it is an important hearing. Thank you, Mr. Chairman. I 
+look forward to the panel.
+    Mr. Renacci. Thank you, Mr. Scott. And I recognize Mr. 
+Ellison for 3 minutes for an opening statement.
+    Mr. Ellison. Thank you, Mr. Chairman, and thank you Ranking 
+Member Maloney.
+    In Minneapolis, MSBs are not a foreign policy issue. They 
+are a local issue. In Minneapolis, what happens in Somalia is 
+not a foreign policy issue for me as a Representative, it is a 
+domestic policy--it is a domestic issue--it affects my 
+constituents directly. My district is home to over 30,000 
+Somali-Americans, but also many people from the Horn and all 
+over the world who have immigrated to our great country and our 
+great State.
+    And we are very proud of this community. There are four 
+Somali-American police officers, one popularly elected school 
+board member, several people who have run for office, not 
+necessarily successfully, but have run well, and there are a 
+number of businesses that have opened up, and a number of 
+nonprofits. We are very proud of our Somali community.
+    In fact, the Somali community is probably largely 
+responsible for the over $400 million that was sent to Somalia 
+and the Horn to sustain their families. And global remittances 
+are one-third of the Gross Domestic Product of Somalia today. 
+But remittances to Somalia are, unfortunately, very complex. 
+The bottom third of Somalia is a failed nation--the bottom 
+third. And there is no functional government, no functional 
+financial system.
+    And Al-Shabaab, a terrorist organization, controls large 
+pieces of the country. It is important that the United States 
+have anti-terrorism financing controls in place to protect the 
+United States and the rest of the world from the dangers of 
+these people. But having had many years of experience now with 
+the Bank Secrecy Act and anti-terrorism financing laws, I think 
+it may be time to review which of these laws really protects us 
+and which of them we passed with good intentions but not 
+understanding the impact that these may cause.
+    It is important to understand, Mr. Chairman, as I wrap up, 
+that no government, to my knowledge, has ordered any bank to 
+cease and desist. There has been no government action stopping 
+the financial services sector from doing these MSB 
+transactions. What has happened is, because of the regulatory 
+burden and the fear of exposure to risk of regulatory or even 
+prosecutorial action, the financial services institutions, 
+including Wells Fargo Bank, Sunrise Bank, and others, have just 
+come to a hard-nosed business decision that they would 
+terminate the facilitation of these transactions, although they 
+readily admit that 99 percent of the people who do the 
+transactions are good, decent Americans who are simply trying 
+to help their family members. But the risk--the regulatory 
+burden is maybe too high.
+    Now, I know my friends on the Republican side say--Ellison, 
+you are talking about too high of a regulatory burden? Let me 
+assure you, I am still a very proud bleeding heart liberal. But 
+I do think it is important for us to recognize that perhaps we 
+don't need more regulation. But maybe we need to review the 
+regulations that we have in place and take a hard-nosed look at 
+whether they are really protecting us from the harm we are 
+trying to stop, and whether we really need those regulations 
+into the future. I think what we really need is to look at 
+taking away some things, as opposed to adding more.
+    Thank you.
+    Mr. Renacci. Thank you, Mr. Ellison. And you notice I let 
+you go on a little bit because you were talking about 
+overregulation, so--
+    [laughter]
+    I now recognize Mr. Baca for 1 minute for an opening 
+statement.
+    Mr. Baca. Thank you very much, Mr. Chairman, and Ranking 
+Member Maloney, for calling this hearing.
+    I also want to thank the witnesses for being here this 
+morning and offering their insight.
+    Over the years, this committee has examined the issue of 
+regulation of money services businesses and remittances. Recent 
+studies have shown that remittances have grown constantly, even 
+in spite of the recession of 2008.
+    So that tells us that our President is doing a good thing, 
+because he is still allowing us to do a lot of remittance. And 
+people make money because they are sending money somewhere, so 
+the transaction is happening. So I thank the President for his 
+initiatives and what he has done.
+    In fact, last year, $351 billion globally was sent through 
+remittance and $62 billion to Latin America and the Caribbean, 
+and that was last year. As the minority population continues to 
+grow in our country, more and more Americans may need to send 
+money internationally to support their families. And that is 
+critical, because they rely on these funds, not only to take 
+care of their families, but their businesses, to create hope, 
+to create dignity, and to create an opportunity for them. That 
+plays an important part in allowing this to happen.
+    The MSB industry is very complicated and there are many 
+moving parts that cross over into many different levels of the 
+State and Federal jurisdiction. However, as we examine this 
+industry and the products, this committee has been constantly 
+struggling with the need to provide--and I say, to provide--a 
+safe and sound regulation with a need to ensure these services 
+are allowed. It is clear that there is still work to be done.
+    The unfortunate recent trend of the banks discontinuing 
+services by MSBs rather than dealing with the tight security 
+regulation is troubling because it only seems to make the 
+problem worse. In the past, this committee has worked on 
+legislation that has received bipartisan support--and I say, in 
+the past--bipartisan support. And I hope we are able to do that 
+again. And we come together because that is what the American 
+people want to see us doing, working on a bipartisan solution.
+    Again, I want to thank the Chair and the Ranking Member for 
+calling this hearing and the witnesses for being here. I yield 
+back the balance of my time.
+    Mr. Renacci. Thank you. Before we welcome the witnesses, I 
+would like to ask unanimous consent to insert the following 
+statements in the record: a letter from the Clearing House 
+Association; and the opening statement of Mrs. Capito.
+    I will now move on to welcoming our witnesses. And I 
+believe Mr. Perlmutter would like to introduce our first 
+witness.
+    Mr. Perlmutter. Yes. And I thank Chairwoman Capito and 
+Ranking Member Maloney for allowing me to sit in on the hearing 
+today.
+    I want to welcome Western Union. It is a Colorado company 
+with a worldwide reach. And my friend, Tim Daly, with whom I 
+have practiced law--against, mostly, but somebody whom I have 
+known for at least a couple of decades--is a good friend of 
+mine. And we are glad to have you here in Washington and look 
+forward to your testimony. So, good to have you, Tim.
+    Mr. Daly. Thanks.
+    Mr. Renacci. Thank you. And I will recognize Mr. Daly for 5 
+minutes.
+
+  STATEMENT OF TIMOTHY P. DALY, SENIOR VICE PRESIDENT, GLOBAL 
+            PUBLIC POLICY, THE WESTERN UNION COMPANY
+
+    Mr. Daly. Thank you, Congressman Perlmutter, for the kind 
+words. I appreciate it. And you are right, it was against, and 
+I won't disclose that I was usually the loser. So, thank you. 
+Congressman Perlmutter is a very accomplished attorney.
+    Good morning, Mr. Chairman, Ranking Member Maloney, and 
+members of the subcommittee. I am Tim Daly, senior vice 
+president for global public policy for Western Union. I am 
+pleased to be here today to discuss the regulatory environment 
+for money services businesses.
+    Western Union is a leader in global payment services. 
+Western Union provides consumers and businesses with fast, 
+reliable, and convenient ways to send and receive money around 
+the world.
+    Today, Western Union operates from approximately 500,000 
+locations in 200 countries and territories across the globe. As 
+a large, geographically diverse business, Western Union 
+operates in a complex and sometimes cumbersome regulatory 
+environment that involves multiple State and Federal agencies. 
+Western Union and other money transmitters are licensed by the 
+individual States in which we do business. States are 
+responsible for the day-to-day regulatory supervision and 
+oversight of money transmitters.
+    States conduct regular on-site examinations of money 
+transmitters. These examinations review financial condition, 
+check for regulatory compliance, and monitor the maintenance of 
+financial reserves.
+    Western Union is subject to examination by each State in 
+which it is licensed. In 2011, Western Union was examined by 11 
+State banking departments. Money transmitters like Western 
+Union must also register every 2 years with the Financial 
+Crimes Enforcement Network (FinCEN). Both FinCEN and the IRS 
+have enforcement authority over Western Union's compliance with 
+BSA requirements.
+    A welcome development over the past several years has been 
+the enactment of memoranda of understanding (MOUs) among the 
+IRS, FinCEN and the State banking departments to share 
+information and resources in the examinations of money 
+transmitters whose operations cross State lines. State 
+examiners can monitor and enforce compliance with the Bank 
+Secrecy Act and other Federal anti-money laundering laws, as 
+well as examining for safety and soundness.
+    FinCEN retains its authority over the legal and practical 
+interpretation of the Bank Secrecy Act. The IRS, FinCEN, and 
+State regulators have agreed on a joint examination manual for 
+money transmitters that focuses on BSA compliance issues.
+    The States have also entered into agreements with each 
+other to coordinate and consolidate examinations of money 
+transmitters on an interstate basis. Under these agreements, 
+teams of examiners from several States participate in a 
+coordinated examination, with one State agency serving as the 
+lead. Western Union's experience with these multi-State 
+examination teams has been positive, and we support the 
+continuation of this effort to coordinate and consolidate 
+supervision across State lines. We appreciate the efforts of 
+the Money Transmitter Regulators Association to develop and 
+deploy joint examination protocols for consolidated multi-State 
+examinations, in which a lead State would have the authority to 
+act on behalf of up to 10 other States.
+    We are also encouraged by the development of a pilot 
+program that would adopt the National Mortgage Licensing System 
+(NMLS) to cover State licensing of money transmitters. States 
+would still make their own decisions about whether to award a 
+license, but this system would eliminate duplication of effort 
+and opportunities for error.
+    As the committee considers further modernization of the 
+regulatory structure for money transmitters, we encourage the 
+advancement of coordinated, consolidated supervision between 
+and among the relevant State and Federal agencies, together 
+with certainty and consistency within the examination process.
+    Thank you again for inviting Western Union to testify 
+today. I look forward to answering any questions you may have.
+    [The prepared statement of Mr. Daly can be found on page 45 
+of the appendix.]
+    Mr. Renacci. Thank you, Mr. Daly.
+    I now want to recognize Ms. Deborah Bortner, director of 
+consumer services, Washington State Department of Financial 
+Institutions, on behalf of the Conference of State Bank 
+Supervisors, for 5 minutes.
+
+ STATEMENT OF DEBORAH BORTNER, DIRECTOR OF CONSUMER SERVICES, 
+   WASHINGTON STATE DEPARTMENT OF FINANCIAL INSTITUTIONS, ON 
+       BEHALF OF THE CONFERENCE OF STATE BANK SUPERVISORS
+
+    Ms. Bortner. Good morning, Mr. Chairman, Ranking Member 
+Maloney, and distinguished members of the subcommittee. My name 
+is Deborah Bortner, and I am the director of non-depositories 
+at the Washington State Department of Financial Institutions. I 
+am pleased to testify today on behalf of the Conference of 
+State Bank Supervisors.
+    I want to thank you and the members of the subcommittee for 
+holding this hearing on money services businesses. I appreciate 
+the opportunity to discuss the regulation of MSBs by State 
+regulators.
+    State and Federal regulators and policymakers have worked 
+together to make non-depository supervision more comprehensive, 
+more consistent, and more efficient. Specific initiatives under 
+way include the expansion of the Nationwide Mortgage Licensing 
+System and registry, the NMLS, for the licensing of other 
+financial services, enhanced multi-State exams and enforcement 
+actions, and ongoing efforts to improve State-Federal 
+coordination.
+    Before I discuss the State supervision of MSBs, I would 
+like to provide a little background on what we have done in the 
+mortgage area, because it may provide a roadmap for what we 
+hope to achieve in MSB supervision.
+    Well over a decade ago, State mortgage regulators 
+recognized the need to work together to enhance supervision of 
+the mortgage industry. One of the cornerstones of State 
+mortgage supervision is the NMLS. State mortgage regulators 
+began the development of the NMLS in 2004.
+    In 2008, Congress, through the leadership of Representative 
+Bachus, embraced and codified NMLS into Federal law through the 
+SAFE Act. The SAFE Act created a comprehensive, State-Federal 
+approach to licensing and registration of mortgage loan 
+originators. There are certain elements of the mortgage 
+supervisory framework that could improve supervision of non-
+depositories, including MSBs.
+    Recently, State regulators have begun to use the NMLS for 
+other non-depository providers besides mortgage lenders. In 
+several States, including my own, these expanded license types 
+will include MSBs. By the end of 2013, we anticipate that at 
+least 16 States will be using the NMLS to manage their MSB 
+licenses.
+    State regulators have been overseeing MSBs through 
+licensing and by conducting on-site exams for a number of 
+years. Generally, the State licensing process requires 
+background checks on directors and officers, financial 
+statements, surety bonds, BSA policies, and proof of 
+registration with FinCEN, if appropriate.
+    Examiners in the fields review compliance with BSA, 
+reporting and recordkeeping, capital and permissible 
+investments. Through CSBS and the Money Transmitter Regulators 
+Association (MTRA), State regulators have also been working 
+together to increase regulatory efficiency in supervising MSBs 
+that operate in multiple States.
+    In 2002, the MTRA formed a foundation for multi-State exams 
+by establishing the groundwork for States to coordinate MSB 
+examinations and information-sharing. We currently are building 
+upon those agreements to further promote coordination, 
+consistency, and efficiency, while ensuring safety and 
+soundness in consumer protection.
+    States are also working closely with our Federal 
+counterparts to coordinate supervision of MSBs. Coordinated 
+State-Federal efforts include jointly developed exam procedures 
+and quarterly calls between the IRS and State regulators to 
+discuss current initiatives and supervisory issues.
+    MSBs are local in touch and national in scale, so State and 
+Federal regulators must work together to ensure effective and 
+consistent supervision, which benefits regulators, licensees, 
+and consumers. The evolution of State mortgage regulation 
+demonstrates that uniform infrastructure and Federal policy 
+should support, not supplant, State regulation. As the SAFE Act 
+has shown, combined State-Federal regulatory regimes can 
+promote consistent and comprehensive regulation without losing 
+the benefit of having States serve as the cops on the beat.
+    Thank you for the opportunity to testify before you today. 
+I look forward to answering any questions you may have.
+    [The prepared statement of Ms. Bortner can be found on page 
+30 of the appendix.]
+    Mr. Renacci. Thank you, Ms. Bortner.
+    I now want to recognize Mr. Ezra Levine, counsel, the Money 
+Services Round Table, for 5 minutes.
+
+STATEMENT OF EZRA C. LEVINE, COUNSEL, THE MONEY SERVICES ROUND 
+                             TABLE
+
+    Mr. Levine. Thank you. And good morning, Mr. Chairman, 
+Ranking Member Maloney, and members of the subcommittee.
+    I am Ezra Levine, with the law firm of Morrison and 
+Foerster, here in D.C., and I am also counsel to the Money 
+Services Round Table.
+    The Money Services Round Table was founded in 1988 as an 
+information-sharing and advocacy group for the Nation's leading 
+non-bank money transmitters. Our members provide electronic 
+money transmission, payment instruments like money orders and 
+traveler's checks, and stored value services. Our members are 
+State-licensed and are treated as financial institutions under 
+the BSA.
+    Money transmitters operate in a complex regulatory 
+environment, as you have already heard. While States are the 
+prudential regulator, both the IRS and the States examine money 
+transmitters for BSA compliance. We have been working towards a 
+more coordinated, consistent regulatory structure for money 
+transmitters, and we are pleased with the progress State 
+regulators have made under the leadership of the Money 
+Transmitter Regulators Association, known as the MTRA. We 
+support continued efforts to streamline this process and 
+improve the consistency of application and enforcement of laws 
+governing money transmitters.
+    The regulatory process has been evolving. In the early 
+1990s, State supervision of money transmitters took its first 
+steps toward coordination and uniformity with the development 
+by the MTRA of its ``model legislation outline,'' which served 
+as the basis for new, more uniform, and updated safety and 
+soundness licensing laws in about 30 States. However, also 
+during this period, States began to include BSA compliance as 
+part of the on-site exam protocols and, increasingly, our 
+members were subject to multiple duplicative and uncoordinated 
+on-site exams. You heard Mr. Daly talk about 11 exams.
+    In part as a response to this proliferation of State exams 
+having a BSA component, about 10 years ago, the IRS, FinCEN, 
+and the State banking departments entered into MOUs to promote 
+more effective BSA exams by the States. In short, States now 
+monitor and enforce BSA compliance, as an adjunct to examining 
+for safety and soundness exams. But FinCEN retains the 
+authority, the overall authority, to interpret the BSA. In 
+addition, in recent years, to provide substantive BSA guidance, 
+the IRS, FinCEN, and the State regulators, working together 
+through the MTRA, adopted an MSB exam manual.
+    Finally, the States, through the MTRA, have begun to 
+coordinate multi-State exams of money transmitters. In this 
+useful program, teams of examiners from several States 
+participate in the exam, with one State agency as lead. Now, 
+the ultimate goal of this initiative is a system in which a 
+lead State regulator performs one exam for each licensee, each 
+year, and then that exam is shared with all the other States.
+    In sum, State exams probably will continue to be the most 
+effective means of monitoring BSA compliance by money 
+transmitters. However, without coordination, inconsistency and 
+duplication are sure to occur. Therefore, we urge continued 
+work toward uniform application of the BSA and more 
+coordination of State exams and enforcement activities.
+    The Money Services Round Table looks forward to further 
+discussions as we all work together towards a more effective 
+and efficient regulatory structure that protects our entire 
+financial system. Thank you again for inviting us to testify 
+today. I look forward to answering any questions you have. 
+Thank you, again.
+    [The prepared statement of Mr. Levine can be found on page 
+51 of the appendix.]
+    Mr. Renacci. Thank you, Mr. Levine. I want to now recognize 
+our last witness, Mr. Hersi Suleiman, general manager, Amal 
+USA, Inc., for 5 minutes.
+
+ STATEMENT OF HERSI SULEIMAN, GENERAL MANAGER, AMAL USA, INC., 
+ON BEHALF OF THE SOMALI-AMERICAN MONEY TRANSMITTERS ASSOCIATION 
+                            (SAMSA)
+
+    Mr. Suleiman. Thank you, Mr. Chairman, and Ranking Member 
+Maloney. I greatly appreciate the opportunity to testify here 
+today.
+    I am here on behalf of the Somali-American Money 
+Transmitters Association. I also would like to thank 
+Congressman Ellison for his leadership with this issue and also 
+in the Minnesota delegation.
+    I am here today because it is our firm conviction that the 
+solutions to our problems lie in amicable discussions and 
+sharing of information. We Somali-Americans own business 
+transmissions across the country. We are regulated by both 
+Federal and State. We register a license in multiple States. We 
+also register with FINCA.
+    We also have independent CPAs who audit us on a yearly 
+basis, on top of both Federal and State regulations. We have 
+independent compliance auditor reviewers who also audit our 
+books on a yearly basis.
+    I am very, very excited that Ms. Deborah Bortner from 
+Washington State is here today. We have been dealing with 
+Washington for a long, long, long time, and they have been 
+helpful to us.
+    The issue in front of us today has been going on for a 
+long, long, long time. National banks, State banks assisted us 
+in doing business a long, long, long time ago. We have been 
+using the small community banks, credit unions, helping us to 
+continue banking with our banking relationships. However, that 
+became dead-ended recently, and we can no longer continue with 
+our banking relationships.
+    We are here to ask you--to bring your attention that this 
+issue is a humanitarian issue. We are all aware of the 
+situation in Somalia. We are all well aware this is beyond 
+financial support. It is a humanitarian issue that is affecting 
+us here in the United States.
+    We follow all the rules, all the compliance imposed on us, 
+both at the Federal and the State level. And we do conduct 
+thorough customer service in terms of knowing our customer. We 
+follow, again, all the rules and regulations. We know our 
+customers.
+    A personal story that I would like to share with you. I, 
+myself, being here in the United States for nearly 30 years, 
+have a family back home. My sister and her children and my 
+nephews, whom she takes care on a daily basis, I send money 
+every month. They use that money for shelter, for food, and for 
+medicine. It is extremely important that they receive that 
+money. The only way they can receive that money is through a 
+money transmitter.
+    As you all aware, there is no banking system in Somalia--no 
+financial institutions in Somalia. This is the only way. I 
+greatly appreciate you taking a hard look at this issue and 
+helping us to somehow, somewhere solve this banking crisis we 
+are facing.
+    I now I look forward your questions and thank you for your 
+time.
+    [The prepared statement of Mr. Suleiman can be found on 
+page 57 of the appendix.]
+    Mr. Renacci. Thank you, Mr. Suleiman.
+    We now move on to questions from Members. I will first 
+recognize myself for 5 minutes. I do want to thank all of the 
+witnesses for being here today.
+    Ms. Bortner, I believe having a single point of contact for 
+money transmitter license applicants is a reasonable idea and 
+will allow for an efficient sharing of information. You mention 
+in your written testimony that the NMLS is a natural 
+possibility for collecting and sharing this information. Could 
+you go over again what current efforts are in place to expand 
+NMLS to also manage money services businesses, and also 
+describe why the NMLS would be a good fit for this industry?
+    Ms. Bortner. Mr. Chairman, for many years, we have been 
+licensing in each State--49 States currently license MSBs. And 
+it is kind of like looking through a peephole--we know what 
+that industry is in our State, and we share information amongst 
+States.
+    But I think having the NMLS, which is currently adding 
+those types of licenses to the NMLS--having them have a single 
+portal for all States to be able to license their MSBs--it is 
+just a portal. We make all the licensing decisions at the State 
+level, but there is this portal, just like mortgage lenders and 
+securities brokers have the very same national portal to 
+license.
+    And before we can really effectively regulate this 
+industry, I think we need to know who they are in one place, 
+where it can be shared by Federal and State regulators. And I 
+think that would really increase the efficiency. For one thing, 
+if you need fingerprints in one State, you can share those 
+fingerprints. If you need some sort of credit reporting or 
+anything like that, it is shared in one place and everybody 
+sees the same document.
+    So that is really what is really going on right now--States 
+are beginning to transition onto the NMLS. But the SAFE Act 
+required us all to get on it. It made us all get on within a 
+very short period of time. And I think that is a very efficient 
+way to deal with this issue.
+    Mr. Renacci. Thank you. What specific changes in Federal 
+law are necessary to ensure that NMLS remains effective and 
+will allow it to expand into other industries? Do you have any 
+suggestions?
+    Ms. Bortner. We have--the NMLS is available for licensing 
+and the SAFE Act required all States to provide that mechanism. 
+And it was a very easy way of providing a Federal law that 
+created minimum standards for licensing of mortgage loan 
+originators. And we all had to get on it, either that or HUD 
+was going to take over the regulatory process for loan 
+originators.
+    So amazingly, in 1 year, 49 of the States adopted laws 
+consistent with the SAFE Act, and that created the efficiency 
+by getting all the loan originators onto the NMLS over a short 
+period of time.
+    Mr. Renacci. I am sorry. I was referring to the privilege 
+and the CFPB. I am sorry.
+    Ms. Bortner. Oh, okay. I am sorry. One of the benefits of 
+having the SAFE Act was to create the confidentiality amongst 
+the States and with the Federal regulators. That means that if 
+Ohio shares information with me, then I have to protect that 
+information as if I am Ohio. And that is the confidentiality 
+provision that was in the SAFE Act.
+    It also provided an opportunity for us to share our exams 
+and make us more efficient because we could work together as a 
+result of that.
+    Mr. Renacci. And I have been working with your organization 
+on the legislation to go along in that fashion. I would hope to 
+introduce a bill in the next couple of days.
+    I yield back the remainder of my time. And I recognize Mrs. 
+Maloney for 5 minutes.
+    Mrs. Maloney. Thank you very much. And I welcome all the 
+panelists. Many of you talked about the regulatory burden, and 
+what I am hearing from my constituents is not so much the 
+regulatory burden, but the absolute lack of access to banking 
+services to be able to process and run their business. That is 
+the absolute crucial problem.
+    I did want to share, in response to Mr. Daly's and Ms. 
+Bortner's and Mr. Levine's testimony about the regulatory 
+burden, that some areas or the category of businesses are 
+working with their regulators to come up with one form that 
+solves all of their problems and answers. Some are working to 
+computerize it. It is not so much providing the information. It 
+is the paperwork and time of employees to put it together. They 
+are putting computer systems together that will then shoot that 
+information out every month, so that the burden is not so much, 
+and compiling it so that it all comes together. The technology 
+is there. It is a matter of working to make it happen.
+    But I would like my question to go to the central point of 
+getting to banking services. If you can't process your money, 
+you are out of business. Don't worry about the regulation. You 
+are out of business.
+    MSBs are an important part of the financial services in the 
+community I represent and in many communities, because many 
+people do not want to pay the bank fees or they feel 
+uncomfortable or they don't speak English or for whatever 
+reason, they want to go to an MSB. And it is a huge source of 
+banking in New York City. But all of the banks, save one, have 
+said they will not process their business. Now, that is a huge 
+problem. We live in America. Businesses can make decisions. And 
+they are basically saying that the compliance laws and the 
+oversight laws are too onerous. They don't want to take the 
+risk in any way, shape, or form.
+    So in the bill I offered in the last Congress, it tried to 
+take the risk away from financial institutions, so that--and 
+by--and incidentally, the banking industry supported the bill, 
+because they are concerned about being sued or violating any 
+Federal law. So it is just easier for them to just say, no, I 
+don't even want any of your business. And so, if you could get 
+a self-regulatory system going, where the liability is not on 
+the bank, maybe some of the banks would provide this service.
+    I would just like to ask all the panelists how you really 
+handle the central issue, which is lack of access to the banks. 
+Now, the bank supervisors say, oh, we are not doing anything to 
+encourage any financial institution not to provide financial 
+services or to service MSBs. We are not in any way, shape or 
+form; yet, the financial institutions are making this decision 
+on their own. So, it is really at a crisis point.
+    I think, Ms. Bortner, you told me that no bank now in 
+Washington State will process MSBs. Is that correct?
+    Ms. Bortner. Congresswoman Maloney, we lost the largest 
+bank that was supporting the Somali community just recently, as 
+a result of a Federal investigation on a compliance officer 
+that was a part of a very small MSB.
+    So I think what one of the issues is, is the reputational 
+risk. And I think the banking institutions just aren't willing 
+to take that reputational risk when they see--one issue 
+happens, and they say, I have to get out of this business 
+because we don't want people thinking that we support terrorism 
+or money laundering.
+    The interesting part of that investigation is that none of 
+the transmissions occurred at that money transmitter. It 
+occurred all outside that money transmitter. So it would be 
+impossible to detect that as a regulator, but it is also--I 
+don't think, as a regulator, I don't blame a banking 
+institution for that either.
+    Mrs. Maloney. I agree with you. And I would like the 
+chairman, if he would, to yield time for the panelists to 
+respond to my question, which I think is a central issue. How 
+do you get access to banking services? What if--okay, just--if 
+Mr. Daly and Mr. Levine and Mr. Suleiman, if you have any 
+answer to that? That is the central issue. And in many States, 
+it is totally drying up, so that there is no place to go.
+    Mr. Daly. Thank you, Congresswoman Maloney. As you can 
+imagine, Western Union, as a global company with a robust and 
+complex compliance department, doesn't face the same issues as 
+the smaller providers do, because banks have comfort in our 
+services.
+    But as Ms. Bortner said, banks can be risk-averse when 
+dealing with smaller providers. And some of these smaller 
+providers, by the way, are our agents. We operate through 
+different agents around the country. In the United States, we 
+have 60,000 agent locations. So, it is an issue that we are 
+concerned about.
+    We did support the bill last session, which as you said, 
+would have addressed this issue. And it was a bipartisan bill 
+that passed the House. It did not pass the Senate. And I think 
+that bill would have been a good approach, because it would 
+have given banks some comfort. Because I think, as Ms. Bortner 
+said, their issue is they are worried about the risk. And it 
+would have allowed banks to rely upon the certification of 
+companies that they were compliant and that certification would 
+be under oath. So, that is our perspective.
+    Mr. Renacci. Before the rest of the witnesses go, can we 
+please try and hold it to 20 seconds only, because we are 
+trying to keep the meeting going because of votes.
+    Mr. Levine. Thank you, Mr. Chairman. In response, the Money 
+Services Round Table, as Mr. Daly indicated, actively supported 
+your bill, Mrs. Maloney. We thought it was terrific. We thought 
+it would fix the problem. And it didn't go anywhere in the 
+Senate. It would have given a safe harbor to banks. The real 
+problem is that banks are risk-averse.
+    As Ms. Bortner said, the Federal Financial Institutions 
+Examination Council (FFIEC) examination manual since the year 
+2002 has indicated that MSBs are ``risky businesses.'' Now, 
+while the OCC and others say it is an urban myth, that in fact, 
+banking examiners are winking an eye, telling local banks, 
+``Hey, listen. Stay away from MSBs.'' In fact, that is the 
+evidence. And that is what is happening nationwide. And it is 
+happened now for 10 years.
+    Mr. Suleiman. I would like to add that I agree with Mr. 
+Levine 100 percent. FFIEC--any time they go and visit a bank, 
+the first question they ask you would be, do you have MSB 
+account. And if the bank says, yes, they take that account and 
+spend a great deal of time simply looking at all the 
+transactions for that particular MSB account. It happened to us 
+recently. And as a result, a small community bank, which we had 
+a relationship with for a long period of time, called us and 
+said, I can't take this--simply can't take this.
+    So there is pressure coming from the top to the banks, even 
+though we are providing all the necessary documentation showing 
+that we are in compliance at both the Federal level and the 
+State level.
+    Mrs. Maloney. Okay. Thank you.
+    Mr. Renacci. Thank you, Mrs. Maloney. I just want to make 
+note that we have votes schedule for approximately 10:45. So as 
+we ask questions, as you get to your last question, I would 
+allow that--when you get to 5 minutes, that the question just 
+be answered and we move to the next Member, so everybody has a 
+chance to ask questions.
+    I now recognize Mr. Luetkemeyer for 5 minutes.
+    Mr. Luetkemeyer. Thank you, Mr. Chairman. I thank all of 
+you for being here today. And certainly--a comment on Mr. 
+Ellison's testimony today as well. I have outside my district 
+and within the district as well, a large eastern European 
+group, which has the same problem his folks have, so I am very 
+interested in this issue.
+    I want to approach it a little bit differently. I know that 
+the Consumer Financial Protection Bureau recently published a 
+rule back in February that seems to have a very negative effect 
+on the institutions in my area, with regards to being able to 
+continue to provide services. Would you like to comment on that 
+or are you aware of the rule? I am sure you probably are.
+    Mr. Daly?
+    Mr. Daly. Thank you, Congressman. That is a question every 
+money transmitter is dealing with today. The general premise of 
+the rule, as you know, is that consumers should have adequate 
+information to make a purchase decision. They should know what 
+the fees are and what the exchange rates are. And we agree with 
+that premise. We believe an informed consumer is a good 
+consumer.
+    As you can imagine, though, in the implementation of a rule 
+like this, there are some complexities. And there are a couple 
+of issues that companies like Western Union and banks and 
+credit unions are struggling with in the rule. One issue is, in 
+addition to fees disclosed by companies, which I think was 
+Congress' intent that we disclose the fees we charge, the rule 
+also requires us to disclose lifting fees--so fees that are 
+charged by banks on international bank transactions. For 
+Western Union, the vast majority of our transactions are cash-
+to-cash transactions. But we do have some transactions that 
+involve bank accounts. And in those transactions, we incur 
+these lifting fees.
+    The challenge we face and that banks face on that issue is 
+these lifting fees are not known at the time the transaction is 
+sent. And the path these transactions take often changes. So, 
+there is literally no way for us to know those fees to disclose 
+them. On that issue, compliance isn't difficult; it is 
+impossible.
+    We have raised this issue with the Bureau and we have met 
+with them multiple times. We are working with them on the 
+issue. But that--
+    Mr. Luetkemeyer. During the course of the rulemaking 
+process, were you a part of the rulemaking process? Do they 
+contact you and you give your views, the unintended 
+consequences of what would happen if they went forward with 
+this proposal?
+    Mr. Daly. Yes, Congressman, on this and other issues, we 
+filed extensive comments with both the Federal Reserve, who the 
+rulemaking started with, and then with the Bureau. And we have 
+met with and continued to meet with the Bureau, as they address 
+this particular issue.
+    Mr. Luetkemeyer. Are you aware--did they do a cost-benefit 
+analysis of this rule to see, one, if it is practical; is this 
+going to be cost-effective for the people who are going to have 
+to implement it, such as yourself? Are you aware of that?
+    Mr. Daly. As far as a specific cost-benefit analysis, I am 
+not, sir.
+    Mr. Luetkemeyer. Okay.
+    To follow up, Mr. Levine, I am just kind of curious. I know 
+you represent a whole group of folks who provide these 
+services. If we wind up, as we continue to go down this road of 
+not allowing our--or not permitting or continuing to dwindle 
+with the number of folks who can provide these services, what 
+happens then? Is there a black market that occurs? And if so, 
+how does that work? Can you just briefly give me some ideas of 
+the seriousness of this and how we can be driving people in the 
+wrong direction for our services that they really need?
+    Mr. Levine. Congressman, thank you. That is a great point. 
+One of the points we always argue is that when you foreclose 
+services from honest vendors--so you foreclose the opportunity 
+for decent citizens to transmit money--likely, what happens is 
+the money is going to move anyway. It is just going to move 
+underground.
+    And from a law enforcement and public policy standpoint, 
+the last thing you want is to encourage with economic 
+incentives, in effect, the growth of underground money 
+transmitters--hawalas and others. Hawalas has become a 
+pejorative term--
+    Mr. Luetkemeyer. Basically, what you are doing is probably 
+chasing the good money underground--
+    Mr. Levine. Exactly.
+    Mr. Luetkemeyer. --with the bad money.
+    Mr. Levine. Right.
+    Mr. Luetkemeyer. Is that a fair statement?
+    Mr. Levine. Yes. Yes. Absolutely. And then, there is no 
+transparency.
+    Mr. Luetkemeyer. Right. Okay. Fantastic. I appreciate your 
+comments today.
+    And I will yield back the balance of my time. Thank you, 
+Mr. Chairman.
+    Mr. Renacci. Thank you, Mr. Luetkemeyer.
+    I recognize Mr. Watt for 5 minutes.
+    Mr. Watt. Thank you, Mr. Chairman. If Mr. Scott wants to go 
+first, that is fine with me. Do you want me to go? Okay. Thank 
+you, Mr. Chairman. And thank you for convening the hearing.
+    Like most members of this committee, I have a number of 
+MSBs in my congressional district, and certainly a lot of them 
+operating in the State of North Carolina. And we have had a 
+number of opportunities just to hear from them about the 
+regulatory burdens and costs that they face. They, of course, 
+are regulated by the IRS, FinCEN, the State of North Carolina, 
+and now, the CFPB. And they clearly have a case for asserting 
+that the regulations are burdensome. I don't reach, 
+necessarily, the same conclusion that some of my colleagues on 
+the committee might reach that is an argument for no 
+regulation, but I do think we have an obligation to regulate in 
+as efficient and as good a way as we can without being 
+burdensome.
+    Mr. Daly, Ms. Bortner, and Mr. Levine, in particular, in 
+light of the memorandum of understanding between the IRS, 
+FinCEN, and the States, do you see opportunities for the 
+consolidation of the supervisory functions, first? And in light 
+of the CFPB's involvement in the issue now, would it be 
+necessary for the IRS to continue to have the role that they 
+have traditionally had or might some of that role be logically 
+transferred to the CFPB?
+    Mr. Daly. Thank you, Congressman. That is a good question. 
+I would say this--first of all, I think on the question of 
+consolidation, we have made a lot of progress.
+    Mr. Watt. Is that through the MOU?
+    Mr. Daly. Through the MOU and increased coordination 
+between and among the States and the Federal Government. Yes, 
+sir. It is a result of that and we are making progress on that 
+front.
+    To your question of on the Federal side, I think it is 
+important to remember that we are dealing with AML regulation, 
+safety and soundness regulation, which has traditionally been 
+in the province of the States. And then the CFPB, really their 
+function is consumer protection. So I think we need to continue 
+to recognize the separate focuses of each of those agencies.
+    Mr. Levine. And Congressman, one reason for the MOUs--and 
+this was about 10 years ago--was the fact that the IRS with 
+scarce resources was really spread very thin, particularly 
+after the USA Patriot Act, when insurance companies and others 
+were brought into the ambit by the Congress of the Bank Secrecy 
+Act. The IRS is the regulator.
+    Therefore, since the States were already on scene, it made 
+sense for FinCEN and the IRS to really say to the States--look, 
+you are already doing on-site exams. Some of the States were 
+already doing BSA as an adjunct to the safety and soundness 
+exam, so why not do that officially. They are doing it 
+officially and the trend--I think Ms. Bortner will testify to 
+this--is for the States, on their own, to get together, because 
+in fact, it is far more efficient. We want to encourage that. 
+We like that. It is a good thing.
+    Mr. Watt. Maybe I should ask the question--are there 
+additional things that can be done to either streamline or 
+consolidate the regulation here that you all would suggest?
+    Ms. Bortner. Congressman, I think that this is a work in 
+progress. And I think Mr. Daly--
+    Mr. Watt. I am trying to figure out where we ought to be 
+trying to progress to, I guess, is--
+    Ms. Bortner. Yes. The progress is to eventually--and I 
+don't speak for any of my other State colleagues--we would have 
+one exam and yearly, and then some of us who couldn't be on 
+that exam or didn't feel the necessity to be on that exam, 
+would accept that exam.
+    I think we are headed in that direction. And I think that 
+would make it much more efficient and--
+    Mr. Watt. Would that exam be headed by a State or would it 
+be headed by a Federal agency?
+    Ms. Bortner. Yes, it would be headed by the State, because 
+the State exams are much broader than the Federal exams. When 
+Congress passes an act, we enforce it. So, we have been 
+enforcing BSA. And that is part of our exam process. We also 
+have consumer protection and we also have financial stability. 
+And so we enforce that across-the-board. So that is what makes 
+our exams, I think, broader, and I would like to think it is 
+very important to make sure the industry is stable and that 
+consumers are protected.
+    Mr. Watt. Thank you, Mr. Chairman. I yield back.
+    Mr. Renacci. Thank you, Mr. Watt.
+    I now recognize Mr. Canseco for 5 minutes.
+    Mr. Canseco. Thank you, Mr. Chairman.
+    Ms. Bortner, a number of banks are leaving the money 
+services business and discontinuing their partnerships with 
+MSBs. Can you give us some idea as to the characteristics of 
+banks that are leaving the businesses, versus the ones that are 
+staying in it, as far as size, location, category, that sort of 
+thing?
+    Ms. Bortner. Congressman, it has been my experience that 
+starting a number of years ago, the larger institutions started 
+dropping the MSBs. The regional banking institutions took them 
+up, and now some of those regional banking institutions have 
+dropped them. And now, some of the very smallest institutions 
+are trying to bank MSBs, but it isn't quite as efficient as 
+having some of the larger financial institutions, which have 
+better systems to get money places. It isn't as efficient as 
+having the bigger institutions.
+    Mr. Canseco. Mr. Levine, do you have anything to add to 
+that?
+    Mr. Levine. No, I think that is exactly right. The larger 
+institutions generally backed out first--again, about 10 years 
+ago. But there were one or two of them--Wells Fargo in 
+particular, which has a very, very active--and I don't do any 
+work for Wells Fargo--but Wells Fargo has a very, very active 
+MSB program, where they spend a lot of money vetting all MSB 
+accounts. So it is possible, I suppose, but in fact, it is 
+trickling down now even to the community banks. It is a bad 
+trend.
+    Mr. Canseco. Thank you.
+    Ms. Bortner, with more banks leaving the business, how does 
+this affect the monitoring of the MSBs?
+    Ms. Bortner. Congressman, I agree with Mr. Levine. Our 
+ability to monitor is consistent with our ability to have a 
+license. If they don't have a legitimate way to get money, 
+where it is being transferred, then that money is going to go 
+underground. And we are not going to be aware of how they get 
+it there, how much, to whom it is given. And I think having 
+that capability is very, very important for us to make sure 
+that there is no money laundering and money is not going to 
+terrorists.
+    Mr. Canseco. Let me ask you another question, Ms. Bortner. 
+As costs increase for MSBs, there runs the risk that more of 
+these transactions could be pushed underground and that more 
+fraudulent transactions could take place. So how best can 
+policymakers strike a balance between the continuation of these 
+services and the protection of Americans from criminals or 
+terrorists?
+    Ms. Bortner. Congressman, as far as the cost goes, I think 
+the States are very sensitive about the cost of examination and 
+regulation. We actually changed our systems so that we don't 
+charge for exams and we charge other ways. And some of the cost 
+has been shifted to the bigger money transmitters to pay for 
+the cost of that regulation, which I think is to their benefit, 
+too. So I think we are sensitive to it and we are trying to 
+deal with it.
+    Mr. Canseco. Do you see in the MSB industry some of the 
+same things that we see in the banking industry--that costly 
+regulation or confusing regulation can drive businesses to less 
+regulated operators?
+    Ms. Bortner. Congressman, I think that, as we try to 
+regulate them in the most efficient way, we are trying to deal 
+with some of those issues. And I don't think that--obviously, 
+the less legitimate folks who are in this industry who aren't 
+licensed--if you have to get your money somewhere and there is 
+no legitimate banking industry that is going to help you, help 
+the Somali community, for instance, then that is problematic.
+    Mr. Canseco. Mr. Levine, do you have anything to add to 
+that?
+    Mr. Levine. No, I don't. I agree with what Ms. Bortner 
+said. I think it is really a problem. It does--in fact, the 
+entire bank closure problem, the regulatory burden problem, 
+cost, in fact, often--maybe not often, but at least sometimes--
+drives money underground--just a bad thing. It strengthens 
+underground transmitters and then you worry about who is 
+using--what are the vehicles Al Qaeda and others are going to 
+use?
+    Mr. Canseco. So how do we reverse that?
+    Mr. Levine. One thing is--we come back to almost how we 
+started with Mrs. Maloney's bill. Mrs. Maloney's bill which 
+passed the House would have given banks, frankly, the cover--
+the safe harbor they need to be able to back off the Federal 
+regulators--the banking regulators. I think that is a safe 
+statement from looking at my regulator colleague here. And that 
+would have worked, but short of something like that, I don't 
+see how you push the banks into accepting MSBs. And in fact, 
+without a bank, you can't do MSB business. I think we all agree 
+on that.
+    Mr. Canseco. Thank you, very much. My time has expired--
+    Mr. Levine. Thank you.
+    Mr. Canseco. --and I appreciate your candor.
+    Mr. Renacci. Thank you, Mr. Canseco.
+    I now recognize Mr. Scott for 5 minutes.
+    Mr. Scott. Thank you very much, Mr. Chairman.
+    Let me ask--on the issue of anti-money laundering, 
+terrorists are financing--in my capacity as vice chairman of 
+the Foreign Affairs Subcommittee on Nuclear Non-Proliferation 
+and Terrorism, I went over into--with the Special Ops--into 
+Somalia and into Kenya and Yemen--very hot spots. And one of 
+the issues that came up is the use of monies coming in to 
+finance terrorism, particularly with Al-Shabaab, that you may 
+be familiar with in Somalia.
+    We have Somalia citizens here who have challenges and 
+others. I would like for you to address how serious this is, 
+because those concerns were raised. And what kinds of 
+difficulties are placed upon legitimate citizens in the United 
+States who have the desire to send money transmitters into 
+these regions, and especially with the requirement as some 
+banks are having. The banks are saying it is important for us 
+not just to know our customers, but to know the customers of 
+our customers. And so, we on this committee would be interested 
+to know what we can do to address this issue. Is this a 
+challenge? How serious is this, and particularly, in that hot 
+spot region?
+    Mr. Suleiman, perhaps you could--yes, sir?
+    Mr. Suleiman. Congressman, thank you. That is a legitimate 
+question and it is a concern we as Somali-Americans also have.
+    Al-Shabaab, as we all know, is a terrorist organization. We 
+are fighting as a Somali, in a way, and as Somali-Americans. 
+They are an enemy to all of us. And somehow, somewhere, we need 
+to defeat them. However, it is true that Somalia, Kenya, and 
+Yemen are very hot spots, as the Congressman suggested.
+    First of all, we are knowing our customer, identifying our 
+customer. We also have agents where the recipient, anywhere 
+that money is sent, we have an agent also follow the due 
+diligence of customer acknowledgement and customer 
+identification to make sure the person--the beneficiary of that 
+particular money receives that amount of money.
+    As I said earlier, I send money to my sister, and she is 
+the one who gets that money. The Somali-American Money 
+Transmitters Association (SAMSA) consists of 14 companies. 
+Those 14 companies--we are taking steps to, number one, improve 
+our system. We are in the process of making our system work. It 
+cannot be somewhere interrupted or hacked--or make it efficient 
+to track or conduct it--the sender and the receiver.
+    In addition to that, most of our customers are repeat 
+customers. I would say about 80 to 85 percent of customers are 
+repeat customers--sending money to the same person every month. 
+And we track that way and that person is the one who is 
+receiving the money.
+    Mr. Scott. So you believe then that there is enough 
+certainty for the banks, in terms of serving MSBs, that we can 
+provide them, while being careful not to undermine the 
+effectiveness of the Bank Secrecy Act in stopping any money 
+laundering or terrorism.
+    What I am trying to get at here is that--is this something 
+this committee needs to look into? Is there something more we 
+can do to make sure that all of this is a tight network that is 
+put in, so that our constituents who may be Somalians or may be 
+Kenyans or people from this--who are citizens--are not held to 
+a different standard simply because their homeland is in these 
+hot spots? I just want to know, is there anything more you 
+think that we on the committee can do to give this certainty to 
+banks?
+    And also to any of you, particularly Western Union, and any 
+of you--do you feel that we are in good enough shape in 
+securing the necessary pieces to make sure that our citizens 
+are not held to a different standard that--in terms of--in 
+their efforts of trying to get money to their relatives in 
+these hot spots?
+    Mr. Suleiman. Congressman, I think what the committee can 
+do is, number one, to pass Ranking Member Maloney's 
+legislation. And also, there is uncertainty out there that the 
+banks are afraid of. So if we--if the Congress can ease that 
+uncertainty.
+    Mr. Renacci. Mr. Suleiman, we really have to move on--
+    Mr. Scott. Thank you.
+    Mr. Renacci. --only because of votes.
+    Mr. Scott. Sorry, Mr. Chairman. Thank you so much.
+    Mr. Suleiman. Okay.
+    Mr. Renacci. I want to recognize Mr. Grimm for 5 minutes.
+    Mr. Grimm. Thank you, Mr. Chairman. And I would like to 
+thank the panel for testifying today.
+    I am very interested in following up on what my colleague 
+was just talking about. So if the gentleman would like to 
+complete his answer, that would be fine with me.
+    Mr. Suleiman. Thank you, Congressman. What I was going to 
+say was there is uncertainty out there that the banks are 
+afraid of. And that is what all the witnesses alluded to 
+earlier, that there are some regulations out there that 
+really--if the banks can get uncertainty--and look at the 
+situation a little more--I think the banks will be a little 
+more reluctant to work with us. But it is the uncertainty in 
+regulations that they are afraid in terms of their risk 
+assessment, and that risk assessment can be regulations imposed 
+on the banks.
+    Mr. Grimm. Just to follow up on that--very perfunctory, do 
+you think, in your view, that most MSBs are aware of the U.S. 
+anti-money laundering statutes? Do you think that they are up-
+to-speed at the level they should be?
+    Mr. Suleiman. Absolutely. Yes.
+    Mr. Grimm. Okay. This is open to the panel. What questions 
+have we not asked today that you think we need to know? Is 
+there something that we haven't discussed that you feel is 
+relevant that you would like this committee to know about? And 
+I open that up to the panel.
+    No? Wow, we must have hit on everything.
+    [laughter]
+    Ms. Bortner. Congressman, I think that we have covered most 
+of the issues that we wanted to cover. But, I think that 
+Congress could create some sort of uniformity by setting 
+minimum standards and protecting the confidentiality of 
+information.
+    I think that Congressman Renacci--sorry--I really want to 
+compliment you on focusing in on that issue, because I think 
+that is a very, very important issue to allow us to really work 
+together and be as effective and efficient as we can.
+    Mr. Renacci. Point well taken.
+    Mr. Levine. All I would say, Congressman--and we really 
+have talked about it--but in the whole construct of the Bank 
+Secrecy Act, there is a balance between--because it is risk-
+based, and that is all post-USA Patriot Act. There was a 
+shift--oh, I am sorry. Yes, I am sorry. There was a shift to 
+risk-based. Everything is now subjective. And so what banks are 
+looking at, if you look at it from the standpoint of the bank, 
+and I am not here to support banks or represent banks; what 
+they are told is, you not only look at your customer, but you 
+also look at where the money is going--to geography.
+    So as your colleague indicated before, if you look at hot 
+spots, as he mentioned, banks are going to say, wait, there is 
+more risk, not only because it is a hot spot, but there are 
+customers who--many customers who may be semi-anonymous or 
+sending money to a hot spot. Therefore, the regulators are 
+going to say, what enhanced due diligence are you doing, bank? 
+And the bank is going to say, well, what can we do? It is going 
+to a hot spot, of which there are many.
+    And I am not sure how you solve that dilemma, except if you 
+go back to--how do you give the bank some sort of protection? 
+And that is what this all comes back to, I think, which is why, 
+again, Mrs. Maloney has not pushed me to say this, but it is 
+really true. Her bill was the perfect response to this.
+    Mr. Suleiman. I would like to add that we at the Somali-
+American Money Transmitters Association--this affected us more 
+than any other money transmitter companies out there. And we 
+are right now in a dead-end where all the banks have ceased to 
+do business with us--all over. We are using only very, very few 
+of the smallest small banks and credit unions right now in all 
+States. And I ask you to take a hard look at this issue, 
+particularly with Somali-Americans.
+    Mr. Grimm. My time has expired. I yield back.
+    Mr. Renacci. Thank you, Mr. Grimm.
+    I recognize Mr. Ellison for 5 minutes.
+    Mr. Ellison. Thank you, Mr. Chairman.
+    First, I would like to ask for unanimous consent to insert 
+into the record letters from Oxfam and Adeso.
+    Mr. Renacci. Without objection, it is so ordered.
+    Mr. Ellison. My question is simply this: have there been 
+any government enforcement actions against a financial 
+institution, like a bank, that caused them to get out of the 
+MSB business? My understanding is that there haven't been. Am I 
+right?
+    Mr. Suleiman. I think so, yes.
+    Mr. Ellison. It is not a trick question. The reason I ask 
+the question that way is because I think that this situation 
+that we are in as a system is to try to find ways to coax banks 
+to do the MSB work. No one has told them not to do it. Nobody 
+has been prosecuted. We haven't seen the big punch from the 
+government. What we have seen is banks making an assessment of 
+risk and coming to the conclusion it is too much; we have to 
+back out. Am I right about that?
+    Ms. Bortner. Congressman, I think that banks have a variety 
+of ways that they interpret what their regulators are saying 
+and it doesn't really take, on the bank side, an enforcement 
+action, but those conversations go on in a confidential manner 
+in the exchange of information during the exams.
+    Mr. Ellison. Right.
+    Ms. Bortner. So I think that is--just because we have not 
+seen--
+    Mr. Ellison. Right. And I can see how you could think that 
+I am trying to catch somebody. I am not trying to cross-examine 
+you. I am just trying to ascertain that this is a bank 
+assessment of its risk and a decision it has made. So 
+therefore, if government can affect the situation, it is going 
+to have to do something to create greater comfort. Can you 
+agree with that?
+    Ms. Bortner. That is fair.
+    Mr. Ellison. So if that is true--let me just share a quick 
+anecdote with my limited time. A banker whom I cannot name 
+contacted me and told me confidentially--they didn't tell me 
+this confidentially, they wanted their identity to be 
+confidential, they said--look, I am a big banker in town. I 
+have 60 people working on the Bank Secrecy Act and the Patriot 
+Act compliance. They are not making minimum wage, okay? We are 
+talking about accountants, compliance personnel, lawyers.
+    I guess my question is--complying--the regulations might be 
+perfectly legitimate. I am not questioning the value of the 
+regulations, but they are expensive. Is this a fair statement? 
+Yes or no.
+    Mr. Daly. Congressman, yes. We--Western Union--spend about 
+$40 million a year and have about 400 people dedicated to our 
+AML compliance function, which we consider one of the most 
+critical functions that we provide.
+    Mr. Ellison. Is one of the reasons you expend that kind of 
+money because of the risk of civil and even maybe criminal 
+penalties if the regulations are not fully complied with? Do 
+you expend that kind of money because you are trying to prevent 
+an even greater harm, which could be civil penalties or maybe 
+even criminal penalties if you don't have full compliance?
+    Mr. Daly. Actually, Congressman, it is a good question. But 
+from Western Union's perspective, we spend the money to try and 
+make sure bad people--whether or not they are terrorists--don't 
+use our services. It is a challenging--
+    Mr. Ellison. Mr. Daly, thank you for responding. And 
+forgive my jumping in here, because they only give us 5 
+minutes, and I want to make sure that my colleagues get a 
+chance.
+    So you are doing it to protect the American public. But I 
+guess here is my root question: We have had the Bank Secrecy 
+Act and the Patriot Act in place for a while. Are there ways to 
+consolidate or maybe even repeal without risking any of the 
+protections that are in place right now? I guess I am asking, 
+can we do what we need to do, which is to protect the American 
+public, less expensively by consolidating regulation; maybe 
+even by eliminating some that we thought would be helpful, but 
+maybe experience has shown aren't necessary, but still cost 
+money?
+    Mr. Daly. Congressman, that is a very good question. And we 
+have thought about it. On the AML front, I don't know that 
+there is anything I would change.
+    I think the greatest potential for savings from our 
+perspective is the kind of thing we have talked about, which is 
+the increased consolidation of the exam process and other 
+regulatory structures. In fact, in the past, we have testified 
+in support of a Federal license for money transmitters. So 
+uniformity at some level is what I think would lead to the 
+greater cost savings.
+    Mr. Ellison. I am out of time. Let me thank all the 
+panelists, particularly Mr. Suleiman. I appreciate all your 
+work.
+    Mr. Renacci. Thank you, Mr. Ellison. I want to recognize 
+Mr. Fincher for 5 minutes.
+    Mr. Fincher. Thank you, Mr. Chairman.
+    Ms. Bortner, I have a question for you. I thank the panel, 
+also, for being with us today.
+    The manufactured housing industry is big in our State. And 
+in your testimony, you talked about the SAFE Act a lot. There 
+seems to be some confusion about some of the language in the 
+SAFE Act. And in the manufactured housing industry at home, 
+some of the customers are having some issues getting capital. 
+Can you comment on maybe some of the confusion or clarification 
+in the SAFE Act in moving forward on the State level or back to 
+what I am alluding to?
+    Ms. Bortner. Congressman, I think we have tried to work 
+with our manufactured housing folks in our State, in the State 
+of Washington, to clarify when we expect licensing and when we 
+don't expect licensing. And we work with them on seller 
+financing and whether or not they would be required to license.
+    I think you would find that if you talk to the manufactured 
+housing folks in Washington, they would be pleased as to how we 
+have enforced the SAFE Act when necessary, and backed off away 
+from the SAFE Act when we haven't thought it was necessary--and 
+still enforcing the SAFE Act, but interpreting it in a way that 
+is consistent with protection of consumers in that arena.
+    Mr. Fincher. I guess what I am getting at is that maybe the 
+interpretation or maybe misinterpretation from different States 
+to others. Do you think there is something that needs to be 
+done at the Federal level to make sure that we are all 
+following the same statute?
+    Ms. Bortner. Congressman, since I haven't heard any of the 
+complaints from any of our manufactured home providers, I don't 
+really know how to answer that question.
+    Mr. Fincher. Okay. Thank you. I yield back.
+    Mr. Renacci. Thank you, Mr. Fincher.
+    I recognize Mr. Green for 5 minutes.
+    Mr. Green. Thank you, Mr. Chairman. I thank the ranking 
+member as well. Thank you for allowing me to be a part of the 
+hearing. I serve on the full committee, but I am not a part of 
+this subcommittee, so thank you.
+    Let me start with my friend from Somalia. Thank you for 
+appearing. I appreciate some of the great difficulties your 
+country is contending with. These are difficult times. And my 
+hope is that we will be able to do as much as we can to assist 
+you, not only with this issue but many other issues.
+    And I am a believer in the notion that when you cannot do 
+enough, and we may not be able to do enough, you should do all 
+that you can. And I think this government has demonstrated a 
+willingness to do all that it can and I hope that we will 
+continue to do this.
+    Now, with reference to this specific issue, it appears to 
+me that some of the concern emanates from the notion that, 
+candidly, banks don't want to do a lot of policing. They don't 
+get in the business of banking to do policing. So they just 
+really--they understand the necessity. They understand that we 
+don't want to in any way promote, promulgate money laundering, 
+but banks don't want to be in the business of policing if they 
+can avoid it, just as doctors, by the way, don't want to get in 
+the business of policing certain things that we assign them to 
+police.
+    Given that this is something that they don't find a great 
+comfort zone with, they do it because it is patriotic to do so. 
+The law requires it, so they want to be patriotic and they want 
+to follow the law. My suspicion is that your business--you 
+didn't get into the business of transference of money 
+remittances to try to police some other things, but you 
+understand it is something you have to do.
+    So now, with this degree of reluctance, the question for me 
+becomes, first of all, how do we establish a greater comfort 
+zone for the industry, so that they understand that this is 
+really not about overregulation? Because I know that there is 
+this belief that we push too hard; we impose too many 
+regulations. We are trying as best we can to protect the 
+country so that we can continue to engage in the business that 
+makes the country as vibrant as it is.
+    Is just saying to you, that we want to help you, enough? 
+What do we have to do to help businesses understand that we are 
+not really antithetical to business? And I say this as it 
+relates to both sides of the aisle, because my suspicion is 
+that when we produce things that business doesn't see as 
+exactly beneficial, they don't just look at one side of the 
+aisle. They say that the Congress is doing this.
+    Is the bill that Mrs. Maloney has going to give you the 
+comfort that you are looking for? I have heard one person 
+comment, I believe--Mr. Levine, did you comment on it? Does 
+that bill give you the comfort zone that you are looking for? 
+Maybe it is not perfect. But does it help you to the extent 
+that you will feel comfortable moving forward?
+    Mr. Levine?
+    Mr. Suleiman. Thank you, Congressman. We as Somali-
+Americans are well aware of the generosity of the American 
+government and the American people towards Somalia, which is 
+unwavering. We do appreciate that. I am here as a Somali-
+American to appreciate it--the American government and the 
+American people to help--the support in Somalia.
+    To go back to your question--yes, I do believe that Ranking 
+Member Maloney's bill is a good start.
+    Mr. Green. Let me just intercede, because I have 31 seconds 
+left.
+    Mr. Levine would you kindly give a yea or a nay, as to the 
+Maloney bill?
+    Mr. Levine. Yea.
+    Mr. Green. Let me just go right on down the line.
+    Madam, I am sorry, I can't read your name from here. Ms. 
+Bortner--is that correct?
+    Ms. Bortner. Yes. I don't think the organization has taken 
+a position on the bill, but from what I read of it, personally, 
+it looks like it is a good step.
+    Mr. Green. Thank you. I appreciate your answer.
+    Yes, sir. If you would--Mr. Daly?
+    Mr. Daly. Yes, Congressman. As I indicated earlier, Western 
+Union is not directly impacted by the bank account closure 
+issue, but many of our agents are, so we have supported the 
+Maloney bill in the past.
+    Mr. Green. Thank you very much. I yield back any time that 
+I have left. And I thank you, Mrs. Maloney, as well.
+    Mr. Renacci. Thank you, Mr. Green.
+    And I want to thank the panel and all the witnesses for 
+their testimony today. The Chair notes that some Members may 
+have additional questions for this panel, which they may wish 
+to submit in writing. Without objection, the hearing record 
+will remain open for 30 days for Members to submit written 
+questions to these witnesses and to place their responses in 
+the record.
+    This hearing is adjourned.
+    [Whereupon, at 11:02 a.m., the hearing was adjourned.]
+
+
+                            A P P E N D I X
+
+
+
+                             June 21, 2012
+
+
+[GRAPHIC] [TIFF OMITTED] T6110.001
+
+[GRAPHIC] [TIFF OMITTED] T6110.002
+
+[GRAPHIC] [TIFF OMITTED] T6110.003
+
+[GRAPHIC] [TIFF OMITTED] T6110.004
+
+[GRAPHIC] [TIFF OMITTED] T6110.005
+
+[GRAPHIC] [TIFF OMITTED] T6110.006
+
+[GRAPHIC] [TIFF OMITTED] T6110.007
+
+[GRAPHIC] [TIFF OMITTED] T6110.008
+
+[GRAPHIC] [TIFF OMITTED] T6110.009
+
+[GRAPHIC] [TIFF OMITTED] T6110.010
+
+[GRAPHIC] [TIFF OMITTED] T6110.011
+
+[GRAPHIC] [TIFF OMITTED] T6110.012
+
+[GRAPHIC] [TIFF OMITTED] T6110.013
+
+[GRAPHIC] [TIFF OMITTED] T6110.014
+
+[GRAPHIC] [TIFF OMITTED] T6110.015
+
+[GRAPHIC] [TIFF OMITTED] T6110.016
+
+[GRAPHIC] [TIFF OMITTED] T6110.017
+
+[GRAPHIC] [TIFF OMITTED] T6110.018
+
+[GRAPHIC] [TIFF OMITTED] T6110.019
+
+[GRAPHIC] [TIFF OMITTED] T6110.020
+
+[GRAPHIC] [TIFF OMITTED] T6110.021
+
+[GRAPHIC] [TIFF OMITTED] T6110.022
+
+[GRAPHIC] [TIFF OMITTED] T6110.023
+
+[GRAPHIC] [TIFF OMITTED] T6110.024
+
+[GRAPHIC] [TIFF OMITTED] T6110.025
+
+[GRAPHIC] [TIFF OMITTED] T6110.026
+
+[GRAPHIC] [TIFF OMITTED] T6110.027
+
+[GRAPHIC] [TIFF OMITTED] T6110.028
+
+[GRAPHIC] [TIFF OMITTED] T6110.029
+
+[GRAPHIC] [TIFF OMITTED] T6110.030
+
+[GRAPHIC] [TIFF OMITTED] T6110.031
+
+[GRAPHIC] [TIFF OMITTED] T6110.032
+
+[GRAPHIC] [TIFF OMITTED] T6110.033
+
+[GRAPHIC] [TIFF OMITTED] T6110.034
+
+[GRAPHIC] [TIFF OMITTED] T6110.035
+
+[GRAPHIC] [TIFF OMITTED] T6110.036
+
+[GRAPHIC] [TIFF OMITTED] T6110.037
+
+[GRAPHIC] [TIFF OMITTED] T6110.038
+
+[GRAPHIC] [TIFF OMITTED] T6110.039
+
+[GRAPHIC] [TIFF OMITTED] T6110.040
+
+[GRAPHIC] [TIFF OMITTED] T6110.041
+
+[GRAPHIC] [TIFF OMITTED] T6110.042
+
+[GRAPHIC] [TIFF OMITTED] T6110.043
+
+[GRAPHIC] [TIFF OMITTED] T6110.044
+
+[GRAPHIC] [TIFF OMITTED] T6110.045
+
+[GRAPHIC] [TIFF OMITTED] T6110.046
+
+
+</pre></body></html>

@@ -1,0 +1,3265 @@
+<html>
+<title> - EXAMINING THE U.S. PUBLIC HEALTH RESPONSE TO SEASONAL INFLUENZA</title>
+<body><pre>
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+
+ 
+                    EXAMINING THE U.S. PUBLIC HEALTH RESPONSE 
+                              TO SEASONAL INFLUENZA
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+              SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+
+                                 OF THE
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED FOURTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                            FEBRUARY 3, 2015
+
+                               __________
+
+                            Serial No. 114-6
+                            
+                            
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                            
+
+
+
+      Printed for the use of the Committee on Energy and Commerce
+
+                        energycommerce.house.gov
+                        
+                               _____________
+                               
+                               
+                     U.S. GOVERNMENT PUBLISHING OFFICE
+94-848 PDF                WASHINGTON : 2015                   
+                       
+________________________________________________________________________________________ 
+For sale by the Superintendent of Documents, U.S. Government Publishing Office, 
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, gpo@custhelp.com.  
+                       
+                        
+                        
+                        
+
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+
+                          FRED UPTON, Michigan
+                                 Chairman
+
+JOE BARTON, Texas                    FRANK PALLONE, Jr., New Jersey
+  Chairman Emeritus                    Ranking Member
+ED WHITFIELD, Kentucky               BOBBY L. RUSH, Illinois
+JOHN SHIMKUS, Illinois               ANNA G. ESHOO, California
+JOSEPH R. PITTS, Pennsylvania        ELIOT L. ENGEL, New York
+GREG WALDEN, Oregon                  GENE GREEN, Texas
+TIM MURPHY, Pennsylvania             DIANA DeGETTE, Colorado
+MICHAEL C. BURGESS, Texas            LOIS CAPPS, California
+MARSHA BLACKBURN, Tennessee          MICHAEL F. DOYLE, Pennsylvania
+  Vice Chairman                      JANICE D. SCHAKOWSKY, Illinois
+STEVE SCALISE, Louisiana             G.K. BUTTERFIELD, North Carolina
+ROBERT E. LATTA, Ohio                DORIS O. MATSUI, California
+CATHY McMORRIS RODGERS, Washington   KATHY CASTOR, Florida
+GREGG HARPER, Mississippi            JOHN P. SARBANES, Maryland
+LEONARD LANCE, New Jersey            JERRY McNERNEY, California
+BRETT GUTHRIE, Kentucky              PETER WELCH, Vermont
+PETE OLSON, Texas                    BEN RAY LUJAN, New Mexico
+DAVID B. McKINLEY, West Virginia     PAUL TONKO, New York
+MIKE POMPEO, Kansas                  JOHN A. YARMUTH, Kentucky
+ADAM KINZINGER, Illinois             YVETTE D. CLARKE, New York
+H. MORGAN GRIFFITH, Virginia         DAVID LOEBSACK, Iowa
+GUS M. BILIRAKIS, Florida            KURT SCHRADER, Oregon
+BILL JOHNSON, Ohio                   JOSEPH P. KENNEDY, III, 
+BILLY LONG, Missouri                 Massachusetts
+RENEE L. ELLMERS, North Carolina     TONY CARDENAS, California
+LARRY BUCSHON, Indiana
+BILL FLORES, Texas
+SUSAN W. BROOKS, Indiana
+MARKWAYNE MULLIN, Oklahoma
+RICHARD HUDSON, North Carolina
+CHRIS COLLINS, New York
+KEVIN CRAMER, North Dakota
+
+                                 7_____
+
+              Subcommittee on Oversight and Investigations
+
+                        TIM MURPHY, Pennsylvania
+                                 Chairman
+DAVID B. McKINLEY, West Virginia     DIANA DeGETTE, Colorado
+  Vice Chairman                        Ranking Member
+MICHAEL C. BURGESS, Texas            JANICE D. SCHAKOWSKY, Illinois
+MARSHA BLACKBURN, Tennessee          KATHY CASTOR, Florida
+H. MORGAN GRIFFITH, Virginia         PAUL TONKO, New York
+LARRY BUCSHON, Indiana               JOHN A. YARMUTH, Kentucky
+BILL FLORES, Texas                   YVETTE D. CLARKE, New York
+SUSAN W. BROOKS, Indiana             JOSEPH P. KENNEDY, III, 
+MARKWAYNE MULLIN, Oklahoma               Massachusetts
+RICHARD HUDSON, North Carolina       GENE GREEN, Texas
+CHRIS COLLINS, New York              PETER WELCH, Vermont
+KEVIN CRAMER, North Dakota           FRANK PALLONE, Jr., New Jersey (ex 
+JOE BARTON, Texas                        officio)
+FRED UPTON, Michigan (ex officio)
+
+                                  (ii)
+                             C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hon. Tim Murphy, a Representative in Congress from the 
+  Commonwealth of Pennsylvania, opening statement................     1
+    Prepared statement...........................................     3
+Hon. Diana DeGette, a Representative in Congress from the State 
+  of Colorado, opening statement.................................     5
+Hon. Fred Upton, a Representative in Congress from the State of 
+  Michigan, opening statement....................................     6
+    Prepared statement...........................................     7
+Hon. Frank Pallone, Jr., a Representative in Congress from the 
+  State of New Jersey, opening statement.........................     9
+
+                               Witnesses
+
+Anne Schuchat, M.D., Director, National Center for Immunization 
+  and Respiratory Diseases, Centers for Disease Control and 
+  Prevention, Department of Health and Human Services............    11
+    Prepared statement...........................................    14
+    Answers to submitted questions...............................   112
+Karen Midthun, M.D., Director, Center for Biologics Evaluation 
+  and Research, Food and Drug Administration, Department of 
+  Health and Human Services......................................    26
+    Prepared statement...........................................    28
+Robin A. Robinson, Ph.D., Director, Biomedical Advanced Research 
+  and Development Authority, Office of the Assistant Secretary 
+  for Preparedness and Response, Department of Health and Human 
+  Services.......................................................    37
+    Prepared statement...........................................    39
+    Answers to submitted questions...............................   115
+Anthony S. Fauci, M.D., Director, Nationa Institute of Allergy 
+  and Infectious Diseases, Nationl Institutes of Health..........    51
+    Prepared statement...........................................    53
+
+                           Submitted Material
+
+Subcommittee memorandum..........................................    99
+Letter of February 2, 2015, from Mr. Pallone, et al., to Mr. 
+  Upton, et al., submitted by Ms. DeGette........................   109
+
+
+    EXAMINING THE U.S. PUBLIC HEALTH RESPONSE TO SEASONAL INFLUENZA
+
+                              ----------                              
+
+
+                       TUESDAY, FEBRUARY 3, 2015
+
+                  House of Representatives,
+      Subcommittee on Oversight and Investigations,
+                          Committee on Energy and Commerce,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to call, at 10:02 a.m., in 
+room 2123 of the Rayburn House Office Building, Hon. Tim Murphy 
+(chairman of the subcommittee) presiding.
+    Members present: Representatives Murphy, McKinley, Burgess, 
+Blackburn, Griffith, Bucshon, Flores, Brooks, Mullin, Hudson, 
+Collins, Cramer, Upton (ex officio), DeGette, Schakowsky, 
+Castor, Tonko, Clarke, Kennedy, Green, Welch, and Pallone (ex 
+officio).
+    Also present: Representative Ellmers.
+    Staff present: Charlotte Baker, Deputy Communications 
+Director; Sean Bonyun, Communications Director; Leighton Brown, 
+Press Assistant; Noelle Clemente, Press Secretary; Brad Grantz, 
+Policy Coordinator, Oversight and Investigations; Brittany 
+Havens, Legislative Clerk; Charles Ingebretson, Chief Counsel, 
+Oversight and Investigations; Emily Newman, Counsel, Oversight; 
+Alan Slobodin, Deputy Chief Counsel, Oversight and 
+Investigations; Peter Bodner, Democratic Counsel; Elizabeth 
+Letter, Democratic Professional Staff Member; and Nick Richter, 
+Democratic Staff Assistant.
+
+   OPENING STATEMENT OF HON. TIM MURPHY, A REPRESENTATIVE IN 
+         CONGRESS FROM THE COMMONWEALTH OF PENNSYLVANIA
+
+    Mr. Murphy. Good morning. Today we convene the first 
+meeting of this session of the Subcommittee on Oversight and 
+Investigation of the 114th Congress. I welcome back Members who 
+served here last session, particularly, my friend and 
+colleague, Diana DeGette, the ranking member from Colorado, and 
+the new members from the 114th Congress, which we hope, as we 
+come up, you may introduce them today, and I will introduce 
+ours on our side.
+    The subcommittee is here to examine a very serious U.S. 
+public health response to seasonal influenza. America is 
+experiencing a severe flu season with an unstable predominant 
+strain that could result in one of the deadliest and costliest 
+flu seasons in recent memory. An estimated 50,000 people will 
+die. Over 200,000 will be hospitalized, and most of these will 
+be senior citizens.
+    Last February, when public health officials needed to 
+decide what strains would go into this year's seasonal flu 
+vaccine, the FDA bet on the wrong predominant strain. Just a 
+few weeks after the FDA's decision, doubts were already 
+beginning to creep in the scientific community about the FDA's 
+decision. By September, the U.S. vaccine was such a poor match 
+for the dominant strain of flu that the World Health 
+Organization, with consultation from the CDC, revised the 
+vaccine formula, but not for the United States. It was changed 
+for the Southern Hemisphere nations. In other words, the 
+American people were stuck with a vaccine that wasn't going to 
+work for nearly 4 out of 5 people, and for nearly 9 out of 10 
+seniors. Despite a growing body of knowledge that the vaccine 
+for the United States would not be effective, production went 
+forward anyway for a number of reasons that we hope to discuss 
+today.
+    With a mismatched strain, this year's vaccine is estimated 
+to be only 23 percent effective. It is even lower for the 
+elderly at 12 percent. While this season's vaccine has a lower-
+than-usual effectiveness, CDC is still recommending 
+vaccinations for everyone 6 months or older. In addition to 
+vaccination, CDC has also recommended that all high-risk 
+patients should be treated with antiviral drugs as soon as 
+possible when influenza is suspected.
+    So what are agencies doing to communicate with the public? 
+Many are choosing not to vaccinate against the flu because they 
+hear the vaccine doesn't work, so why bother. We are seeing a 
+similar result with measles vaccinations but for very different 
+reasons, and now we are paying the piper for more than 100 
+cases have been stricken with a disease of measles that had 
+once been eradicated from our shores.
+    False rumors still exist that vaccines and a preservative 
+for multi-dose vaccines, which once used a microscopic amount 
+of mercury as a preservative to prevent bacteria growth, led to 
+autism. There is no credible evidence to support that claim. In 
+fact, mercury is not used as a preservative in the MMR vaccine, 
+and in developing nations where vaccination rates have 
+increased, autism rates have not changed. So in addition to 
+understanding why this year's flu vaccine missed so badly, and 
+what should be done to protect the public in future years, I 
+hope we can use this platform to educate the public and advance 
+vaccine development in the interest of public health.
+    Now on to the flu vaccine. We must know: Did the Federal 
+Government do everything it could at the right time to respond 
+to the challenge of this year's flu season? As I noted, the CDC 
+knew in late September that there was a significant mismatch, 
+as great as 50 percent, with the U.S. vaccine, however, the CDC 
+did not issue a health advisory in response to this mismatch 
+until more than 2 months later. Did the CDC make the right 
+public health decision to delay the health advisory, especially 
+on delaying a recommendation to treat high-risk patients with 
+antivirals? Could vaccine manufacturers have developed a new 
+vaccine for high-risk groups? The CDC and the FDA tell us that 
+the significant change in the strain could not have been 
+addressed any earlier than September 2014, way too late to make 
+changes in the U.S. vaccine. However, one flu expert at the 
+University of Utah School of Medicine has stated on the record 
+that there was a pretty good indication that the drifted strain 
+by April or May 2014, that probably would have led to a 
+decision to change at that time if strain selection decisions 
+for manufacturing were made in May instead of February.
+    In hindsight, it was a bad decision, and thousands will 
+die. Surely there are lessons to be learned here to do 
+something different in the future, and we want to know how we 
+can partner with these agencies to come up with some solutions.
+    In 2009, when there was a similar outbreak of the swine 
+flu, Federal agencies declared a public health emergency and 
+responded by producing a monovalent, or single strain, vaccine 
+to protect the public in a very short time. In only 12 weeks, 
+they had developed this new vaccine. Here, we must know, was a 
+monovalent rescue vaccine targeting the drifted strain a 
+possible response? Who made the decision to not go forward with 
+a different vaccine? If not, was this partly because the FDA 
+and other agencies lacked emergency authority to respond? Did 
+they recognize the problem and ask for authority to respond 
+quicker? If an astounding 50,000 deaths and 200,000-plus 
+hospitalizations does not equal an emergency then what is? 
+Shouldn't we be treating this problem with more urgency, and is 
+there even a backup plan in the event a vaccine mismatch to a 
+deadly strain exists?
+    HHS has set a goal for vaccines to vaccinate 70 percent of 
+their population as part of the Healthy People 2020 
+initiatives, but overall vaccination rates in the U.S. have 
+been around 45 to 46 percent in the last few years. CDC has not 
+even met its target of 50 percent. Does the CDC have an 
+effective strategy to increase vaccination rates, or is there a 
+better strategy for reducing flu deaths than seeking further 
+increases of vaccination rates in all subgroups?
+    So we are here today to challenge some of the policies and 
+decisions, but in the spirit of us all working together to make 
+improvements in the public health response to seasonal flu. I 
+am encouraged by the potential of ongoing research and 
+innovation. We appreciate the cooperation and attendance of 
+these excellent witnesses from the CDC, the FDA, NIH, and 
+BARDA. We need your input to help us decide how we change this 
+system for the better. I welcome our witnesses today, and thank 
+them for help in this inquiry.
+    [The prepared statement of Mr. Murphy follows:]
+
+                 Prepared statement of Hon. Tim Murphy
+
+    Today we convene the first meeting of the Subcommittee on 
+Oversight and Investigations in the 114th Congress. I welcome 
+back members who served here last session, particularly my 
+friend and colleague, Diana DeGette, the ranking member, and 
+our new members for the 114th Congress.
+    The subcommittee is here to examine the U.S. public health 
+response to seasonal influenza. America is experiencing a 
+severe flu season with an unstable predominant strain that 
+could result in one of the deadliest and costliest flu seasons 
+in recent memory. An estimated 50,000 people will die. Over 
+200,000 will be hospitalized, most of these will be senior 
+citizens.
+    Last February, when public health officials needed to 
+decide what strains would go into this year's seasonal flu 
+vaccine, the FDA bet on the wrong predominant strain. Just a 
+few weeks after the FDA's decision, doubts already were already 
+beginning to creep in the scientific community about the FDA's 
+decision. By September, the US vaccine was such a poor match 
+for the dominant strain of flu that the World Health 
+Organization, with consultation from the CDC, revised the 
+vaccine formula--But, not for the United States. It was changed 
+for the Southern Hemisphere nations.
+    In other words, the American people were stuck with a 
+vaccine that wasn't going to work for nearly 4 out of 5 people 
+and nearly 9 out of 10 seniors. Despite a growing body of 
+knowledge that the vaccine for the United States would not be 
+effective, production went forward anyway for a number of 
+reasons we will discuss today.
+    With a mismatched strain, this year's vaccine is estimated 
+to be only 23 percent effective. It's even lower for the 
+elderly (12 percent).
+    While this season's vaccine has lower-than-usual 
+effectiveness, CDC is still recommending vaccination for 
+everyone 6 months or older. In addition to vaccination, CDC has 
+also recommended that all high-risk patients should be treated 
+with antiviral drugs as soon as possible when influenza is 
+suspected. What are agencies doing to communicate to the 
+public?
+    Many are choosing not to vaccinate against the flu because 
+they hear the vaccine doesn't work, so why bother. We're seeing 
+a similar result with measles vaccinations but for very 
+different reasons, and now we're paying the piper as more than 
+100 have been stricken with a disease of measles that had once 
+been eradicated from our shores.
+    False rumors still exist that vaccines and a preservative 
+for multi-dose vaccines, which once used a microscopic amount 
+of mercury as a preservative to prevent bacteria growth, led to 
+autism. There is no credible evidence to support that claim. In 
+fact, mercury is not used as a preservative in the MMR vaccine, 
+and in developing nations where vaccination rates have 
+increased, autism rates have not changed.
+    So in addition to understanding why this year's flu vaccine 
+missed so badly--and what should be done to protect the public 
+in future years--I hope we can use this platform to educate the 
+public and advance vaccine development in the interest of 
+public health.
+    Now on the flu vaccine, we must know: Did the Federal 
+Government do everything it could at the right time to respond 
+to the challenge of this year's flu season?
+    As I noted, the CDC knew in late September that there was a 
+significant mismatch--as great as 50 percent--with the U.S. 
+vaccine. However, the CDC did not issue a health advisory in 
+response to this mismatch until more than two months later. Did 
+the CDC make the right public-health decision to delay the 
+health advisory, especially on delaying a recommendation to 
+treat high-risk patients with antivirals? Could vaccine 
+manufacturers have developed a new vaccine for high risk 
+groups?
+    The CDC and the FDA tell us that the significant change in 
+the strain could not have been addressed any earlier than 
+September 2014, way too late to make changes in the U.S. 
+vaccine. However, one flu expert at the University of Utah 
+School of Medicine has stated on the record that there was a 
+pretty good indication about the drifted strain by April or May 
+2014, that ``probably'' would have led to a decision to change 
+at that time if strain selection decisions for manufacturing 
+were made in May instead of February. In hindsight it was a bad 
+decision--and thousands will die. Surely there are lessons to 
+be learned here to do something different in the future.
+    In 2009, when there was a similar outbreak of the swine 
+flu, Federal agencies declared a public health emergency and 
+responded by producing a monovalent--or single strain--vaccine 
+to protect the public in a short time. In only 12 weeks they 
+had developed this new vaccine. Here we must know--was a 
+monovalent ``rescue'' vaccine targeting the drifted strain a 
+possible response? Who made the decision not to go forward with 
+a different vaccine?
+    If not, was this partly because the FDA and other agencies 
+lacked emergency authority to respond? Did they recognize the 
+problem and ask for authority to respond quicker?
+    If an astounding 50,000 deaths and 200,000-plus 
+hospitalizations does not equal an emergency then what is? 
+Shouldn't we be treating this problem with more urgency?
+    Is there even a backup plan in the event of a vaccine 
+mismatch to a deadly strain?
+    HHS has set a goal for States to vaccinate 70 percent of 
+their population as part of the Healthy People 2020 initiative, 
+but overall vaccination rates in the U.S. have been around 45 
+to 46 percent the last few years. CDC has not even met its 
+target of 50 percent vaccination. Does CDC have an effective 
+strategy to increase vaccination rates? Or is there a better 
+strategy for reducing flu deaths than seeking further increases 
+of vaccination rates in all subgroups?
+    So we're meeting here today to challenge some aof the 
+policies and decisions, but in the spirit of us all working 
+together to make improvements in the public health response to 
+seasonal flu. I am encouraged by the potential of ongoing 
+research and innovation. We appreciate the cooperation and 
+attendance of witnesses from CDC, FDA, NIH and BARDA. We need 
+your input to help us decide how we change this system for the 
+better.
+    I welcome our witnesses today and thank them for their help 
+in this inquiry.
+
+    Mr. Murphy. And I recognize the ranking member for 5 
+minutes.
+
+ OPENING STATEMENT OF HON. DIANA DEGETTE, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF COLORADO
+
+    Ms. DeGette. Thank you so much, Mr. Chairman. I am really 
+happy that our first hearing of this new Congress is on an area 
+of bipartisan concern and interest. And I want to join you in 
+welcoming our new members on both sides of the aisle to this 
+committee. This is a venerable committee that has a long 
+history of bipartisan investigations, and I think it is going 
+to be a really important year to continue this trend.
+    Flu preparedness and response is incredibly important, and 
+this committee has a long history of hearings and 
+investigations on this issue. What we need to do is come 
+together in support of a strong public health infrastructure 
+that prevents outbreaks, and responds quickly and appropriately 
+when they occur.
+    These past several months have been a harsh reminder that 
+infectious disease is all around us. Last October and November, 
+this subcommittee convened hearings on the Ebola outbreak and 
+the dire situation in West Africa. We saw and, frankly, 
+continue to see, the deadly consequences of a breakdown in the 
+public health infrastructure there. Fortunately, we are now 
+seeing the lowest number of new Ebola cases since last June, 
+largely because of international efforts both to build and 
+operate effective Ebola treatment centers, and also education 
+of local populations on Ebola prevention and control. But, you 
+know, it is interesting because as much attention as we have 
+given to Ebola in this country, far more people die every month 
+from influenza than they do of Ebola, and this is a continuing 
+problem.
+    This month, we are hearing about the measles outbreak, 
+which was linked to Disneyland in California and has now spread 
+to at least 14 States. Infectious disease experts at the CDC 
+and the State health departments have mounted a fast and 
+aggressive response to prevent this highly contagious disease 
+from spreading.
+    And, Mr. Chairman, I know you have received a letter from 
+me and Ranking Member Pallone and Ranking Member Green asking 
+this committee to hold a targeted hearing on the measles 
+outbreak and the urgent public health threat. I would like to 
+make a copy of that letter part of the record, Mr. Chairman.
+    [The information is available at the conclusion of the 
+hearing.]
+    And, while that letter is pending, I want to commend you, 
+Dr. Fauci. I saw you on the news last night telling all of the 
+families in America to get their measles vaccine, and I really 
+appreciate that. I want to add from this podium, as the mother 
+of two daughters, one of whom is immunocompromised: Vaccinate 
+your children against measles. There is no reason not to, and 
+there is every reason that they could be a threat to themselves 
+and other children if they don't get that vaccine. So I just 
+want to pile onto that. It is very, very important.
+    But on to the flu, which is the topic of this hearing, the 
+predominant strain of flu is H3N2, which is resulting in 
+increased hospitalizations, particularly for vulnerable 
+populations like seniors and young children. And the CDC 
+announced several weeks ago that the flu vaccine has only 23 
+percent effectiveness. That is significantly lower than in 
+recent years, and as the chairman mentioned, it is largely due 
+to changes in the virus that have resulted in a mismatch 
+between the strain of the virus used in vaccine production and 
+the one actually circulating. But even with a 23 percent 
+effectiveness, we still need to protect ourselves as much as we 
+can. Dr. Frieden reminded us several weeks ago that even a 
+vaccine with 23 percent effectiveness will still prevent 
+millions of people from getting sick. And so, therefore, as the 
+chairman said, people also need to get this vaccine. And it is 
+not too late; flu season is still going on. We have to do 
+everything we can to protect our vulnerable populations; young 
+children, seniors, pregnant women, and others with compromised 
+immune systems.
+    So I am looking forward to hearing from our wonderful 
+witnesses today about what we can do to mitigate the effects of 
+this flu season, and how doctors and hospitals are prepared to 
+respond. I also want to look to the future. What can we do to 
+inform our prevention and response efforts in future flu 
+seasons? I want to hear about the research and technological 
+developments in diagnostics, antiviral treatments, and 
+vaccines.
+    In our last hearing on this topic in February 2013, we 
+heard about FDA approval of quadrivalent vaccines and cell base 
+technology. Today, I am hoping our witnesses can give us 
+encouraging news about the development of a universal flu 
+vaccine.
+    So regardless of the particular effectiveness rate in a 
+given season, the flu vaccine remains the best tool that we 
+have to protect as many people as possible, and we need to have 
+ongoing work on that. This flu season reminds us that it is 
+almost impossible to predict what the strain will be, but it 
+underscores the importance of a strong public health 
+infrastructure.
+    And so, Mr. Chairman, I just want to say I appreciate the 
+witnesses coming today. I hope we can all work together to move 
+the country toward better flu preparedness.
+    Mr. Murphy. I thank the gentlelady. And now recognize the 
+chairman of the full committee, Mr. Upton, for 5 minutes.
+
+   OPENING STATEMENT OF HON. FRED UPTON, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF MICHIGAN
+
+    Mr. Upton. Well, thank you, Mr. Chairman.
+    This is an important issue, that is for sure, and it has 
+been an especially harsh flu season, and preliminary estimates 
+show that this year's vaccine is only 23 percent effective in 
+preventing folks from going to the doctor for treatment, even 
+lower for high-risk groups, which is often the case I know.
+    Usually, the flu vaccine is about 50 to 60 percent 
+effective, and I, like many folks back in Michigan and across 
+the country, would like to see us do better in addressing this 
+major public health threat.
+    Every year, between 5 and 20 percent of Americans get the 
+flu. In a severe flu season like this one, there could be more 
+than 50,000 deaths, over 200,000 hospitalizations, and more 
+than $10 billion spent on direct medical costs. The flu is and 
+should be a top priority for all of U.S. public health.
+    This year's vaccine, we know, is less effective because it 
+is not a good match for the flu strain that has become 
+dominant. The flu virus strain changed significantly during the 
+6 months after the strain selection decision for the U.S. was 
+made. The World Health Organization, in September, recommended 
+changing the flu vaccine for the Southern Hemisphere to use in 
+their upcoming flu season that starts in April but by the time 
+the change in virus was evident, it was too late to change the 
+U.S. vaccine.
+    Now, it is worth pointing out that the CDC continues to 
+recommend vaccinations in the U.S., even with a lower 
+effectiveness, and that high-risk patients should be treated as 
+soon as possible with all antiviral drugs.
+    When we learned that there was a shift in the virus, what 
+options were available to respond to the mismatch in viruses? 
+Was there a way to deploy a rescue vaccine targeting just the 
+changed virus? Was there a way to improve the effectiveness of 
+this year's vaccine by adding substances to boost the immune 
+response? Those are some of the questions that we need to have 
+answered as we proceed with this hearing.
+    And I appreciate the folks that are testifying today and 
+yield to Dr. Burgess and then to Marsha Blackburn.
+    [The prepared statement of Mr. Upton follows:]
+
+                 Prepared statement of Hon. Fred Upton
+
+    Thank you, Mr. Chairman, for convening this hearing on the 
+U.S. public health response to seasonal influenza. We remain in 
+the midst of a particularly harsh flu season and preliminary 
+estimates show that this year's vaccine is only 23 percent 
+effective in preventing folks from going to the doctor for 
+treatment, even lower for high-risk groups. Usually, the flu 
+vaccine is about 50-60 percent effective. I, like many folks 
+back in Michigan and across the country, believe we can do 
+better in addressing this major public healththreat.
+    Every year between 5 percent and 20 percent of Americans 
+get the flu virus. In a severe flu season like this one, there 
+could be up to 50,000 deaths, over 200,000 hospitalizations, 
+and more than $10 billion spent on direct medical costs. The 
+flu is, and should be, a top priority for U.S. public health.
+    We understand that the reason this year's vaccine has lower 
+effectiveness is because it is no longer a good match for the 
+flu strain that has become dominant. The flu virus strain 
+changed significantly during the six months after the strain 
+selection decision for the U.S. vaccine was made, and we have 
+been told it was too late to change the vaccine for the U.S. As 
+a result of the evidence of change in the virus, the World 
+Health Organization in September 2014 recommended changing the 
+flu vaccine for the Southern hemisphere to use in their 
+upcoming flu season that starts in April. The CDC continues to 
+recommend vaccination in the United States, even with the lower 
+effectiveness, and that high-risk patients be treated as soon 
+as possible with anti-viral drugs.
+    While it is difficult to know when or how seasonal flu 
+viruses are likely to change, leading to a need to change the 
+vaccine for that year, we have made significant improvements in 
+the past 10 years and it seems like we should be able to do 
+better. There were known weaknesses in the surveillance system. 
+In 2011, the World Health Organization conference found that a 
+key test used to check for flu virus changes was not very 
+effective in detecting evidence of changes in the deadliest flu 
+strain. Our understanding is that this same test is still used. 
+What tests were used as an alternative to the inadequate test?
+    And when we learned that there was a shift in the virus, 
+what other options were available to respond to the mismatch in 
+viruses? Was there a way to deploy a rescue vaccine targeting 
+just the changed virus? Was there a way to improve the 
+effectiveness of this season's vaccine by adding substances 
+that boost the immune response?
+    Improving our response to a severe flu season with a 
+mismatched vaccine could mean saving thousands of lives. My 
+concerns and questions do not diminish my admiration and 
+support for the dedication of the U.S. public health agencies 
+working on flu preparedness. It is because of their talent and 
+hard work that I believe improvement is really possible. We can 
+work together to make that happen. I am also eager to learn 
+about the latest research and innovation, and how we can better 
+support and leverage these advances to improve our response to 
+seasonal influenza.
+    I welcome all our witnesses, and look forward to their 
+testimony.
+
+    Mr. Burgess. I thank the chairman for yielding. And, Mr. 
+Chairman, thank you for holding the hearing today.
+    In fiscal year 2014, the estimated Federal investment in 
+seasonal flu preparedness exceeded $850 million. The public-
+private partnership driving research and development has had 
+successes, but we must do better.
+    First, communication between agencies and with the public 
+must improve. If there is a mismatch in the vaccine, which 
+became apparent in May or even as late as September, it is 
+unacceptable that advisories were not issued until December. 
+Second, there must be transparency and consistency in the 
+regulatory pathways for innovation in vaccines. Experts have 
+recognized the promise of adjuvanted flu vaccines for over a 
+decade, yet not one is licensed in the United States, and no 
+guidance has been issued. Third, greater emphasis must be 
+placed on modernizing the development and manufacture of flu 
+vaccines. I would add my acknowledgement to the ranking member 
+of the subcommittee, I too at one time was promised a universal 
+flu vaccine, I think in this committee at a hearing just like 
+this. That was probably in 2004 or 2005. We are still waiting. 
+We want to see it.
+    So I appreciate the opportunity to be able to speak on 
+this. I look forward to hearing from our witnesses.
+    And I will yield the balance of the time to Mrs. Blackburn, 
+Vice Chair of the full committee.
+    Mrs. Blackburn. Thank you, Mr. Chairman. And I want to 
+continue our conversation about vaccinations. And, yes, we are 
+talking about flu today, but there is another issue out there 
+and Ms. DeGette mentioned this. Vaccine politics injected into 
+2016, measles outbreak infects politics and debate.
+    Now, this is far too serious an issue to be treated as a 
+political football. People still die from measles. And the CDC 
+Web site tells us it was eliminated from the U.S. in 2000, but 
+yet we are seeing this outbreak. And I have to tell you, it is 
+of tremendous concern to me as a mother and a grandmother. I am 
+hearing so much about this from my constituents, and they want 
+to know some answers, they want to know how you all are 
+addressing this. And I will tell you, when I hear about 
+counties in California that have lower immunization rates than 
+the Sudan and Chad, this is something that is of concern to me.
+    I am a Rotarian. We have invested decades into eliminating 
+and wiping out polio, and then to hear this about the U.S., I 
+am concerned.
+    We know the measles outbreak started in California. It has 
+affected over 100 people in 14 States, and that most of those 
+people were not vaccinated. So we do want to veer off and ask 
+you some questions in this realm today.
+    And I yield back.
+    Mr. Murphy. The gentlelady yields back. I now recognize Mr. 
+Pallone for 5 minutes.
+    Mr. Pallone. Thank you, Mr. Chairman, and thanks for 
+holding this hearing today.
+    I have to tell Ms. DeGette that this is actually the first 
+time that I have been a member of the O&I Subcommittee, so I am 
+very happy.
+    Ms. DeGette. And we are happy to have you, Mr. Pallone.
+    Mr. Pallone. Thank you.
+    Mr. Murphy. Welcome aboard. It is the best subcommittee in 
+Congress.
+
+OPENING STATEMENT OF HON. FRANK PALLONE, JR., A REPRESENTATIVE 
+            IN CONGRESS FROM THE STATE OF NEW JERSEY
+
+    Mr. Pallone. Thank you. So this year, we are seeing a 
+severe flu season. Across the country, hospitalization rates 
+are higher, especially for seniors over age 65, and for young 
+children, and public health experts predict these flu activity 
+levels will continue and even increase in the next few weeks.
+    The Centers for Disease Control and Prevention continues to 
+recommend that we all get the flu vaccine. Initial estimates 
+show that this year's flu vaccine is 23 percent effective, 
+meaning that 23 percent of those vaccinated for the flu will 
+still have to visit a doctor because of the flu. But despite 
+being less effective this year than the recent past, flu shots 
+will still protect against and decrease the severity of flu-
+related illnesses. Moreover, flu shots don't only protect the 
+vaccinated, they also protect those who have not been 
+vaccinated from getting sick, and as members of Congress, I 
+think we all have to play a role to ensure that message gets 
+out and it is not too late to get your flu vaccine.
+    This hearing is also a good opportunity to talk about how 
+we can improve vaccination rates. We took important steps in 
+the ACA to provide coverage for preventative services like 
+immunizations. Since the law went into effect, nearly 76 
+million Americans have received no-cost coverage for 
+preventative services, and as millions more receive coverage 
+through the ACA, we hope to see the vaccination rate improve so 
+that we can realize the benefits of a better-protected 
+population. However, we still must improve public awareness, 
+and continue to improve access to these preventative services. 
+This is especially of concern as we hear reports of the measles 
+outbreak that began at Disneyland, and is now spreading 
+throughout the country. Just yesterday, the President urged all 
+parents to get their children vaccinated against measles, and I 
+would certainly echo his comments.
+    Dr. Tom Frieden, who heads the CDC, is warning that the 
+U.S. could see a large outbreak of measles. There are now over 
+100 cases in 14 States, and measles is extremely contagious, 90 
+percent of those exposed to the disease will be infected unless 
+they have been vaccinated. According to Dr. Frieden, there has 
+been growing evidence that more parents are not vaccinating 
+their children against measles, and that these lower 
+vaccination rates have led to the latest increase in measles 
+cases. The CDC is further assuring families, and parents 
+especially, that the measles vaccine is safe and effective, and 
+we were able to eliminate measles in the U.S. in 2000, largely 
+because of a highly effective vaccination program. So it is 
+important to reiterate that measles is a preventable disease 
+for which there are safe, effective and available vaccines.
+    So I look forward to hearing from our public health 
+officials today about how we can improve vaccination rates for 
+the flu, but we also need to learn how we can improve 
+vaccination rates for the future for other infectious diseases, 
+including measles.
+    I know that Ms. DeGette mentioned that both herself and Mr. 
+Green and myself sent a letter yesterday asking for a hearing 
+with regard to the measles public health emergency, and I hope 
+that we can actually see that occur. I think it would be very 
+important. And I just want to thank everyone.
+    And I would now yield the balance of my time to 
+Representative Castor.
+    Ms. Castor. Well, thank you for yielding the time, and good 
+morning. Thank you, Mr. Chairman and Ranking Member DeGette, 
+for holding this important hearing to better understand the flu 
+and the flu vaccine.
+    Vaccines are incredibly valuable tools to protect and 
+improve the health of all of our neighbors. And as we have seen 
+with the recent and surprising measles outbreak, vaccines 
+protect lives. According to reports, there have been 102 cases 
+of measles reported across 14 States, and those who do not 
+vaccinate their children are putting them at risk, and they are 
+putting others at risk. Vaccines are safe and effective.
+    I want to give particular thanks to Dr. Schuchat from the 
+Centers for Disease Control for traveling to the Tampa Bay area 
+a few months back to raise awareness with another important 
+vaccine, the anti-cancer vaccine of HPV. Thank you for meeting 
+with our public health students, and anti-cancer advocates to 
+explain. See, Florida had one of the lowest rates of HPV 
+vaccines, and we can save lives and prevent cancer if people 
+will understand the importance of the HPV vaccine. Your visit 
+was a great boost to our efforts to prevent cancer through the 
+HPV vaccine, so thank you again for the work you do to educate 
+the public on vaccinations.
+    You know, we are so fortunate to live in America where we 
+have studied and investigated and tested all of these vaccines 
+to ensure that they are safe and effective. So thank you to all 
+the panelists for all the work you do, and I look forward to 
+your testimony.
+    I yield back.
+    Mr. Murphy. Thank you.
+    I would now like to introduce the witnesses on the panel 
+for today's hearing. First is Dr. Anne Schuchat. Did I 
+pronounce that correctly? The director of the National Center 
+for Immunization and Respiratory Diseases at the Center for 
+Disease Control and Prevention. Dr. Karen Midthun is the 
+director for the Center for Biologics Evaluation and Research 
+at the U.S. Food and Drug Administration. Dr. Robin Robinson, 
+the director of Biomedical Advanced Research and Development 
+Authority, otherwise known as BARDA, within the Office of the 
+Assistant Secretary for Preparedness and Response. And Dr. 
+Anthony Fauci is the director of the National Institute of 
+Allergy and Infectious Diseases at the National Institutes of 
+Health. I welcome you all here and we look forward to your 
+testimony.
+    I will now swear in the witnesses.
+    You are aware that this committee is holding an 
+investigative hearing, and when doing so, has the practice of 
+taking testimony under oath. Do any of you have any objections 
+to testifying under oath? Seeing no objections, the Chair then 
+advises you that under the rules of the House and the rules of 
+the committee, you are entitled to be advised by counsel. Do 
+any of you desire to be advised by counsel during your 
+testimony today? Everybody has said no. In that case, if you 
+would please rise and raise your right hand, I will swear you 
+in.
+    [Witnesses sworn.]
+    Mr. Murphy. Thank you. You are now under oath, and subject 
+to penalties set forth in Title XVIII, section 1001 of the 
+United States Code. You may each now give a 5-minute summary of 
+your written statement. Make sure you pull the microphone close 
+to you, and watch that red light.
+    Dr. Schuchat, you can begin.
+
+ STATEMENTS OF ANNE SCHUCHAT, M.D., DIRECTOR, NATIONAL CENTER 
+FOR IMMUNIZATION AND RESPIRATORY DISEASES, CENTERS FOR DISEASE 
+    CONTROL AND PREVENTION, DEPARTMENT OF HEALTH AND HUMAN 
+ SERVICES; KAREN MIDTHUN, M.D., DIRECTOR, CENTER FOR BIOLOGICS 
+    EVALUATION AND RESEARCH, FOOD AND DRUG ADMINISTRATION, 
+  DEPARTMENT OF HEALTH AND HUMAN SERVICES; ROBIN A. ROBINSON, 
+ PH.D., DIRECTOR, BIOMEDICAL ADVANCED RESEARCH AND DEVELOPMENT 
+ AUTHORITY, OFFICE OF THE ASSISTANT SECRETARY FOR PREPAREDNESS 
+  AND RESPONSE, DEPARTMENT OF HEALTH AND HUMAN SERVICES; AND 
+ANTHONY S. FAUCI, M.D., DIRECTOR, NATIONAL INSTITUTE OF ALLERGY 
+     AND INFECTIOUS DISEASES, NATIONAL INSTITUTES OF HEALTH
+
+                   STATEMENT OF ANNE SCHUCHAT
+
+    Dr. Schuchat. Good morning, Mr. Chairman, and members of 
+committee. I am Dr. Anne Schuchat, Director of the National 
+Center for Immunization and Respiratory Diseases at the Centers 
+for Disease Control and Prevention.
+    Influenza virus is a formidable adversary. Influenza's 
+propensity to change presents unique challenges. New flu 
+vaccines must be developed each year based on the predictions 
+of which viruses are likely to be most common during the next 
+season. Vaccine development is complex and time-consuming, 
+typically requiring vaccine candidates that grow well in eggs 
+and provide immunity in humans. And while we tackle seasonal 
+flu, we must conduct constant global surveillance and prepare 
+for the emergence of dramatically changed or shifted influenza 
+virus that could trigger the next pandemic.
+    Over the past decade, we have made significant improvements 
+in our ability to detect, prevent, and respond to influenza, 
+yet, despite our improvements, the current severe influenza 
+season has been difficult. My colleagues and I represent 
+agencies that work together to respond to seasonal and pandemic 
+flu. The NIH supports research on vaccines, diagnostic tools, 
+and antiviral drugs for seasonal and pandemic influenza. The 
+Food and Drug Administration regulates influenza vaccines, 
+convening public health and influenza disease experts to 
+recommend which influenza virus strains should be included in 
+FDA-licensed vaccines.
+    The Biomedical Advanced Research and Development Authority, 
+BARDA, supports advanced research, development, and procurement 
+of innovative medical countermeasures to address manmade and 
+emerging infectious diseases, including influenza pandemics. 
+And at CDC, we support surveillance and diagnostic capacity to 
+rapidly detect, prevent, and respond to annual influenza 
+epidemics, and novel and pandemic influenza threats.
+    Our CDC systems provide the scientific basis for global 
+vaccine virus selection for seasonal flu, vaccine as well as 
+for pandemic vaccine stockpiling. We monitor for genetic 
+changes in the flu virus, and identify how these changes affect 
+disease transmission and severity. We build public awareness 
+and provide our knowledge about prevention and early treatment, 
+and support public sector delivery of routine and emergency 
+immunizations.
+    The 2014/15 influenza season has proven a particularly bad 
+season. The virus that is predominant, H3N2, is associated with 
+more severe disease. The vaccine we are using is not well 
+matched to circulating H3N2 strains. Antivirals can be 
+important aids in some patients, but clinicians are 
+underutilizing them.
+    How do we find ourselves with vaccine that isn't well 
+matched to the circulating H3N2 viruses? When the 2014/15 flu 
+vaccine strains were selected last February, the drifted virus 
+we are seeing now was not yet detected. A small number of these 
+drifted viruses were first detected in March 2014, and CDC 
+continued to monitor them throughout the summer, looking for 
+genetic patterns and geographic spread.
+    In September 2014, when we began promoting seasonal 
+vaccination, about \1/2\ of the H3N2 viruses circulating were 
+like the vaccine component. When the influenza season took off 
+at the end of November, only \1/3\ of the H3N2 viruses CDC 
+detected were like the vaccine component. Our early vaccine 
+effectiveness estimate found people vaccinated had about 23 
+percent lower risk of influenza infection requiring a medical 
+visit. While this is lower than we usually see, the vaccine is 
+providing some protection.
+    Influenza viruses follow their own schedules, not ours. New 
+strains can emerge at any time. Some appear and die out, and 
+others persist and spread. Our actions are proportional to 
+risks. We work year-round to detect and characterize viruses of 
+concern that circulate globally, monitor their emergence and 
+geographic spread, and develop viable vaccine candidates for 
+drift viruses as they occur. When we detected relatively small 
+numbers of the drifted H3N2 strain late last spring, CDC began 
+preparing candidate vaccine virus strains.
+    As the Nation's public health agency, we are committed to 
+provide the information people need to protect their patients' 
+and families' health, and to be transparent in our assessments 
+and the evidence base that supports our recommendations.
+    As a physician and a public health professional, I too wish 
+we could guarantee better protection each year, yet, we have 
+made significant advances on several fronts. Our surveillance 
+network is characterizing more viruses with improved methods. 
+Significantly more Americans get flu vaccine each year, and 
+information on viruses, disease, and vaccination is released 
+more rapidly.
+    In closing, this flu season has caused more suffering and 
+serious disease than many previous years, and there will be 
+more challenging seasons ahead, but collaboration across the 
+agencies, and with our public and private partners, holds 
+promise for the future, including progress toward development 
+of universal influenza vaccines, since better, broader, and 
+long-lasting protection could transform our approach to this 
+challenging virus.
+    [The prepared statement of Dr. Schuchat follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT] 
+    
+    Mr. Murphy. Thank you.
+    Dr. Midthun, you are recognized for 5 minutes. Thank you. 
+Make sure the microphone is turned on and it is close to you. 
+Thank you. You still have to turn it on. Press the--there you 
+go.
+
+                   STATEMENT OF KAREN MIDTHUN
+
+    Dr. Midthun. Thank you. Mr. Chairman and members of the 
+subcommittee, I am Dr. Karen Midthun, Director of the Center 
+for Biologics Evaluation and Research, the center within FDA 
+that is responsible for regulating vaccines. Thank you for the 
+opportunity to be here today to discuss our role in a highly 
+collaborative, multi-partnered effort in preventing influenza 
+through vaccination in the U.S.
+    Influenza viruses continually undergo changes in their 
+genetic makeup, and the resulting proteins that interact with 
+the immune system. Due to these continuous changes, the 
+composition of influenza vaccines must be periodically updated 
+so that they are effective against what are anticipated to be 
+the predominant circulating viruses in the upcoming influenza 
+season.
+    The strains of virus in the vaccine include 2 distinct 
+subtypes of influenza A, H1N1, and H3N2, and 1 or 2 influenza B 
+strains, depending upon whether the vaccine is trivalent or 
+quadrivalent. To identify virus strains likely to cause illness 
+during the upcoming season, the World Health Organization 
+convenes influenza and public health experts to study recently 
+circulating influenza viruses from around the world, and recent 
+global disease patterns. After careful evaluation of the 
+assessment, WHO makes recommendations on the composition of the 
+influenza vaccines, usually in late February for the upcoming 
+season in the Northern Hemisphere, and in September for the 
+upcoming season in the Southern Hemisphere. The recommendations 
+must be made months in advance because of the time required for 
+manufacturing, testing, lot release, and distribution of a very 
+large number of vaccine doses.
+    Each year, following the WHO recommendations, FDA convenes 
+its vaccines and related biological products advisory 
+committee, typically in late February or early March. The 
+committee considers the WHO recommendations and reviews 
+information regarding viruses that caused illness in the 
+previous year, how these viruses are changing, and disease 
+trends. Based on the data available at the time of the meeting, 
+the committee makes recommendation for the composition of the 
+influenza vaccines licensed by FDA for the upcoming season in 
+the U.S. Once the strains are selected, candidate influenza 
+viruses that are adapted for high growth are generated and 
+accepted by WHO collaborating centers, and are provided to 
+manufacturers who generate the seed viruses for manufacturing 
+vaccines. The manufacturing demands are tremendous and the 
+timelines are tight. No other vaccine is produced, FDA approved 
+and distributed every year across the U.S. within a six-month 
+time frame.
+    This season, more than 150 million doses were manufactured. 
+Given the yearly need for a new vaccine, there is limited 
+flexibility in the timelines of vaccine manufacturing and 
+availability. And parallel with vaccine manufacturing, FDA 
+develops and calibrates reagents which are used by both FDA and 
+the manufacturers to test vaccines for potency and identity 
+before FDA approves the new formulation for distribution. 
+Manufacturers submit their vaccine testing results, along with 
+samples from each lot, to FDA for lot release. As FDA releases 
+lots, the manufacturers can make these lots commercially 
+available throughout the U.S.
+    In February 2014, when the strain selection recommendation 
+for the current influenza season was made, it reflected the 
+circulating viruses. The drifted H3N2 viruses were first 
+detected in March 2014 and were uncommon. Over the ensuing 
+months, the drifted strains gradually increased. By late 
+September, when WHO made its recommendations for the 2015 
+Southern Hemisphere influenza vaccine, the drifted H3N2 strains 
+were common, prompting a recommended change in the upcoming 
+Southern Hemisphere vaccine composition. Because of the 
+manufacturing time required, there was not enough time to make 
+a similar change for the current Northern Hemisphere influenza 
+season. The drifted strains have caused the majority of 
+influenza cases this season, however, vaccination is still 
+important to prevent disease and minimize the public health 
+burden of influenza. Influenza vaccines contain three or four 
+influenza viruses, so even when there is a less than ideal 
+match or lower effectiveness against one virus, the vaccine may 
+protect against the other viruses.
+    FDA has made progress in our preparedness efforts and 
+collaboration with BARDA, CDC, NIH, manufacturers, and other 
+stakeholders, and we thank Congress for your support of these 
+efforts. New influenza vaccines have been licensed, including 
+cell-based, recombinant protein vaccines and quadrivalent 
+vaccines. To enhance pandemic preparedness, FDA licensed an 
+adjuvanted H5N1 avian influenza vaccine, and has worked with 
+U.S. Government partners and manufacturers to facilitate the 
+development of candidate vaccines directed at H7N9 avian 
+influenza. Surveillance efforts are more extensive than ever 
+before, and offer the potential for early detection of emerging 
+viruses. The number of candidate vaccine virus strains 
+available to manufacturers has greatly increased over the last 
+few years, providing them with more options to increase vaccine 
+yields. We continue efforts with our Government partners to 
+develop high-yield candidate vaccine strains, as well as more 
+modern, faster testing methods for vaccine potency and 
+sterility. To further address the challenges presented by the 
+constantly changing nature of influenza viruses, scientists and 
+Government laboratories, academic institutions, vaccine 
+manufacturers, are all working to develop new generation 
+vaccines that might provide longer-lasting and broader 
+protection against influenza viruses, including drifted 
+strains. Although these development efforts are still in early 
+stages, some may have the potential to increase and broaden 
+protection against influenza.
+    FDA will continue to work with its Government partners, 
+manufacturers, and other stakeholders to facilitate development 
+of new vaccines, and identify methods that have the potential 
+to speed the manufacturing process for existing vaccines. Our 
+goal is to better protect the American public against 
+influenza.
+    Thank you.
+    [The prepared statement of Dr. Midthun follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]   
+        
+    Mr. Murphy. Thank you.
+    Now, Dr. Robinson, you are recognized for 5 minutes.
+
+                 STATEMENT OF ROBIN A. ROBINSON
+
+    Dr. Robinson. Good morning, Chairman Murphy, Ranking Member 
+DeGette, and distinguished members of the subcommittee. Thank 
+you for the opportunity to speak with you today. I am Dr. Robin 
+Robinson, Director of the Biomedical Advanced Research and 
+Development Authority, and Deputy Assistant Secretary for 
+Preparedness and Response, as well as a former developer of 
+influenza vaccines in industry.
+    BARDA is the Federal Government agency mandated to support 
+advanced research and development, and procurement of novel and 
+innovative medical countermeasures such as vaccines, 
+therapeutics, diagnostics, and medical devices for the entire 
+Nation to address the medical consequences of manmade and 
+naturally occurring threats like the H1N1 pandemic, the 2013 
+H7N9 influenza outbreak, and the current Ebola epidemic.
+    Pandemic influenza is one of our primary concerns. We 
+understand that preparedness for pandemic influenza is directly 
+tied to seasonal influenza. Medical countermeasures for 
+seasonal influenza underpin the vaccines, antivirals, and 
+diagnostics used for pandemic influenza. BARDA has invested in 
+the advanced development of medical countermeasures that have 
+utility for both seasonal and pandemic influenza preparedness.
+    BARDA transitions medical countermeasures from early 
+research and development at NIH, into advanced development 
+toward FDA approval and potential procurement. BARDA has funded 
+and successfully managed the advanced development of more than 
+60 medical countermeasures for pandemic influenza. More than 20 
+of these medical countermeasures for influenza have been FDA 
+approved, with 6 receiving approval in the last 3 years, as Dr. 
+Midthun indicated. Additionally, BARDA developed and procured 
+vaccines and antivirals used in the 2009 H1N1 pandemic, and 
+stockpiled vaccines for preparedness against H5N1 and H7N9 
+viruses. BARDA, through partnerships with NIH, CDC, FDA, 
+industry, and academia, has met and overcome many but not all 
+of the challenges inherent to making medical countermeasures 
+associated with seasonal and pandemic influenza. Specifically, 
+BARDA, with our partners, has made major progress in the 
+following pandemic areas.
+    First, modernization of influenza vaccine manufacturing 
+through the development and licensure of new cell- and 
+recombinant-based influenza vaccines, and antigen-sparing 
+pandemic vaccines with adjuvants towards meeting our strategic 
+goal of more and better influenza vaccines sooner. These new 
+vaccines were part of our successful H7N9 response in 2013.
+    Second, shortening influenza vaccine manufacturing time by 
+weeks, effected through the Influenza Vaccine Manufacturing 
+Improvement initiative, as recommended by PCAST, to optimize 
+the generation of high-yielding vaccine seed strains, and 
+alternative potency and sterility assays. Many of these 
+improvements, such as biosynthetic technology, were employed 
+during the H7N9 vaccine response in 2013, which was the fastest 
+on record.
+    Third, establishment and maintenance of pre-pandemic 
+influenza vaccine stockpiles for H5 and H7N9 viruses that may 
+be used to immunize tens of millions of persons at the onset of 
+an influenza pandemic with these viruses.
+    Fourth, and last, multi-fold expansion of domestic pandemic 
+influenza vaccine production capacity, afforded by retrofitting 
+of older manufacturing plants, building new state-of-the-art 
+manufacturing facilities for making 21st century influenza 
+vaccine, and establishing three centers for innovation and 
+advanced development and manufacturing, with rapid, nimble, and 
+flexible manufacturing capabilities through public-private 
+partnerships with industry.
+    The new national infrastructure responded in 2013 to the 
+H7N9 outbreaks, and today, in the Ebola epidemic. Despite these 
+significant accomplishments, our pandemic preparedness work is 
+not over. Making a more effective influenza vaccine remains a 
+significant scientific challenge. Indeed, progress towards more 
+effective influenza vaccines has been noted in recent years, 
+but much more is needed.
+    Going forward, there is reason for hope that more effective 
+influenza vaccines may be within our grasp. The discovery of 
+new influenza viral targets within the last 4 years has renewed 
+interests and efforts to develop new universal influenza 
+vaccine candidates.
+    Developing more effective pandemic influenza vaccines is 
+one of our top priorities, and BARDA will support new methods 
+based on evolutionary biology that may help forecasting and 
+selection of new seasonal and pandemic influenza vaccine 
+strains.
+    In parallel, we are launching this month an initiative to 
+support advanced development of new, more effective influenza 
+vaccine candidates that may elicit greater, broader, longer 
+immunity in all populations against divergent influenza virus 
+variants, and that may serve as primers for pandemic influenza 
+vaccines.
+    In conclusion, influenza viruses with pandemic potential 
+continue to evolve and change, infect animals and man, and pose 
+significant threats to global and domestic public health. This 
+year's limited seasonal influenza vaccine effectiveness, and 
+the arrival of the first human case of H7N9 virus in North 
+America underscore our urgent need to complete this mission. To 
+be better prepared, our Nation must continue to invest in 
+domestic pandemic preparedness, and work with key global 
+partners.
+    I thank you for this opportunity to discuss how we can be 
+better prepared for seasonal and pandemic influenza, and I look 
+forward to your questions.
+    [The prepared statement of Dr. Robinson follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mr. Murphy. Thank you, Dr. Robinson.
+    Dr. Fauci, you are recognized for 5 minutes.
+
+                 STATEMENT OF ANTHONY S. FAUCI
+
+    Dr. Fauci. Mr. Chairman, Ranking Member DeGette, members of 
+the committee, I appreciate the opportunity to discuss with you 
+today very briefly the role of the National Institute of 
+Allergy and Infectious Diseases in research addressing both 
+seasonal and pandemic influenza.
+    [Slide shown.]
+    As shown on this slide, the NIH research agenda is really 
+based on the traditional approach that the NIH has taken with 
+all diseases; namely, fundamental basic research, clinical 
+research, and field research, the provision of research 
+resources both to the academic community, as well as to the 
+biotech and pharmaceutical companies. The endgame is to 
+ultimately produce interventions in the form of diagnostics, 
+therapeutics, and vaccines. You have heard about the 
+diagnostics and therapeutics. We can talk about them a little 
+bit later. I want to focus the remainder of my remarks on a 
+subject of obvious importance; namely, the development of 
+influenza vaccines.
+    [Slide shown.]
+    Traditionally, the classic what we call platforms, or the 
+way you develop the vaccine, have been based on growing the 
+virus itself either in eggs, which is somewhat cumbersome, or 
+more recently using it in cell lines, which are a bit more 
+predictable. You either have a live attenuated vaccine or an 
+inactivated vaccine, and that has been the traditional approach 
+towards vaccines. It is cumbersome, it takes a long period of 
+time because you have to grow the virus.
+    [Slide shown.]
+    Our researchers, both at the NIH and our grantees and 
+contractors, over the last several years have been attempting, 
+with some success, to make a conversion to what we call a 
+recombinant DNA technology, molecular-based approach that would 
+obviate the need to actually continue to grow the virus to make 
+a vaccine. Several of these are illustrated on this slide. We 
+don't have time to go into each and every one of them, but they 
+are particularly suited to develop a vaccine that we are all 
+hoping for, and that Dr. Burgess mentioned in his 5-minute 
+remarks, and that is a universal influenza vaccine.
+    [Slide shown.]
+    This is the cover of a Nature Medicine article that I wrote 
+with my colleague, Dr. Gary Nabel, the former director of the 
+Vaccine Research Center, namely, how we can induce what I 
+called unnatural immunity; namely, immunity that a normal 
+vaccine induction or the virus itself doesn't induce, and that 
+is broad protection against subsequent exposures to different 
+types of influenzas that have a tendency to drift over a period 
+of years, and sometimes to even shift, which gives us a 
+pandemic.
+    [Slide shown.]
+    Now, the reason we can do this, and I just want to point 
+out on this slide, on the lower right is a blown-up schematic 
+of the influenza virus. The proteins that coat the outside are 
+referred to as hemagglutinin, and that is where we get the H 
+for H3, H2, or H1. It is a designation of a major protein. The 
+other one is N for neuraminidase. But notice how those proteins 
+are clustered on the surface of the virus, so that what the 
+immune system sees generally is just the top, what we refer to 
+as the head or the bulb of that protein.
+    [Slide shown.]
+    If you look at this slide, that head is where most of the 
+antibodies that protect you and me against influenza are made. 
+That is the good news. The sobering news is that is a variable 
+region, which tends to change as influenzas drift from season 
+to season and change an awful lot when it goes to a pandemic.
+    If you look at the little stem, the thin part of that 
+protein, that the immune system doesn't see very well, 
+interestingly, we found out several years ago that that is the 
+part--that is what we called highly conserved. It doesn't 
+change from necessarily a Texas H3N2 to a different type, a 
+Singapore or a variety of others. They stay the same, which 
+means that if you can induce an immune response against that 
+unchangeable one, you might be able to get what we call a 
+broader reactivity.
+    [Slide shown.]
+    And over the last several years, we have made considerable 
+progress as shown on this slide here, where a number of 
+candidates have used molecular techniques to essentially show 
+the body predominantly the part of that protein that doesn't 
+change. And there are a number of ways of doing that. Instead 
+of giving the body the entire virus, either killed or 
+attenuated, by molecular techniques, you show the body only the 
+part that you want it to respond to, unencumbered by the 
+physical structures that don't allow the body to see it. And we 
+now have done this in several candidates--in mice, in ferrets, 
+and what we call phase one studies in humans--which means we 
+know it is safe, we know it can induce the kind of response 
+that is more broad. In collaboration with BARDA, we are now 
+starting to produce that to go into larger trials. And as Dr. 
+Burgess said, we are not there yet, but we are clearly many 
+steps further than what we were the last time I testified 
+before this committee.
+    So I will stop there and be happy to answer any questions.
+    [The prepared statement of Dr. Fauci follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mr. Murphy. Thank you.
+    I will now recognize myself for opening questions for 5 
+minutes.
+    But let me just start off, and I know that a lot of 
+concerns about vaccines and autism. As a psychologist, I have 
+seen many a child with autism. It is a deeply concerning 
+problem with the families. Past publications have been 
+discredited, and data was deemed fraudulent. Multiple studies 
+said there is no link between developmental disorders such as 
+autism and vaccines.
+    I want to ask each of you, do you agree, Dr. Schuchat? Dr. 
+Midthun, do you agree? Dr. Robinson, do you agree? Dr. Fauci, 
+do you agree? And--yes, you can say this verbally. Should 
+parents have their children vaccinated? Dr. Schuchat?
+    Dr. Schuchat. Vaccines save lives and are the best way for 
+parents to protect their children----
+    Mr. Murphy. Yes, right.
+    Dr. Schuchat [continuing]. From vaccine-preventable 
+diseases.
+    Mr. Murphy. Dr. Midthun, yes or no? Yes?
+    Dr. Midthun. Yes. I have three children, and they were all 
+vaccinated on time with all the recommended vaccines.
+    Mr. Murphy. Dr. Robinson?
+    Dr. Robinson. Absolutely.
+    Mr. Murphy. Dr. Fauci?
+    Dr. Fauci. Definitely.
+    Mr. Murphy. OK. Dr. Schuchat, flu expert Dr. Andrew Pavia 
+at the University of Utah School of Medicine said, ``By April 
+or May, there was good evidence of the drifted A/Switzerland 
+strain. It wasn't clear it was going to be a dominant strain, 
+but there was a pretty good hint, we probably would have chosen 
+the vaccine differently.'' Dr. Schuchat, do you agree that 
+there was good evidence of the drifted strain by, say, April or 
+May of this last year?
+    Dr. Schuchat. We were certainly keeping a close eye on this 
+drifted strain last May, and that is when the CDC began to 
+develop a candidate vaccine virus, but as you know, it can be 
+very challenging to develop candidate vaccine viruses, and to 
+take it from a candidate to all the way to production of 
+vaccine, all the way to production of hundreds of millions of 
+doses of vaccine.
+    Mr. Murphy. But by May, there was evidence of a 17 percent 
+mismatch. Do you think that 17 percent mismatch was a concern 
+at that point, and were there any discussions about that at 
+CDC?
+    Dr. Schuchat. Yes, there were. In fact, in March, we 
+started to reach out to the global community, the international 
+WHO collaborating centers, when we saw the first handful of 
+this drifted strain to ask others were they seeing it.
+    I think it is important to realize that strains emerge and 
+can disappear, and in the spring, it is very difficult to know 
+which ones will still be around in the summer or fall. We 
+actually respond to these new drifted strains by working on 
+candidate vaccine viruses, but it is very difficult with 
+influenza to predict what strains will dominate, whether it is 
+going to be an H3N2 year or a H1N1 year. And so we continue to 
+go through the routine seasonal flu work while we are also 
+developing the candidate vaccine virus----
+    Mr. Murphy. Well, let me ask about this pattern. We have 
+here, I am looking at the mismatch notes, by March there is 
+about a 10 percent mismatch drift, by May, 17 percent. We 
+understand by September it was already up to 50 percent. Do we 
+know in these gaps of April or June or July or August what 
+those drift rates were? Was there a problem by those times that 
+was being seen?
+    Dr. Schuchat. Yes, we have information for the summer. It 
+is important to remember that there is very limited influenza 
+circulating here in the U.S. in the summer, and it takes off in 
+the fall. That is one of the reasons we do global worldwide 
+surveillance----
+    Mr. Murphy. Sure, but right here----
+    Dr. Schuchat [continuing]. And we have greatly increased 
+the numbers there.
+    Mr. Murphy. But here in September, a decision was made for 
+the World Health Organization to change this for the Southern 
+Hemisphere. And so I am wondering, because there are big gaps 
+here, were there discussions between all your agencies that we 
+ought to be doing something differently other than telling 
+people to have some kind of an antiviral medicine?
+    Dr. Schuchat. Thanks. I think it is important--Dr. Fauci 
+talked about the idea of drift and the idea of shift, and I 
+think the members remember in 2009 where, in the spring of 
+2009, we did decide it was important to go forward with a 
+monovalent vaccine----
+    Mr. Murphy. Right.
+    Dr. Schuchat [continuing]. Against a pandemic. We think of 
+pandemics as having catastrophic risk because they generally 
+are defined by a new strain that the population has no 
+protection against at all. It is so differing from----
+    Mr. Murphy. But you could do that fairly quickly during 
+that--the issue of the Swine--from 2009. Once it reached this 
+level where we are now only 23 percent effectiveness, and about 
+12 percent for senior citizens, a high-risk group for death, 
+for mortality and morbidity, why not move forward at this point 
+with at least a monovalent strain for high-risk groups and 
+high-risk geographical areas?
+    Dr. Schuchat. The time between developing a candidate 
+vaccine virus, which we started working on in May, and the 
+ability to have a lot of doses is about 6 months. So it really 
+wouldn't be available----
+    Mr. Murphy. But you did it in 12 weeks in 2009.
+    Dr. Schuchat. The large amounts of vaccine were only 
+available in November in 2009, after having really started in 
+May.
+    Mr. Murphy. But you did it in a much shorter time, but not 
+the 6 months. My point is, when you identify something that is 
+going to have that level of mortality and morbidity, and it can 
+be done in a short period of time, were your agencies talking 
+with each other and saying--clearly, a decision was made in 
+September, hey, for the Southern Hemisphere, we need to change 
+that, but for the Northern Hemisphere it says let us keep going 
+with what we have, recognizing that it is only effective for 1 
+out of 5 people and 1 out of 10 seniors. It seems to me that 
+you need a different decision-making process.
+    Dr. Schuchat. Thanks. I think another point that is 
+important to make is the difference between the laboratory 
+mismatch and the clinical protection. In 2003/04, we had a 
+laboratory mismatch. It turned out that when we measured 
+clinical protection, protection was about 50 to 60 percent in 
+different populations. So seeing that in the lab in that 
+hemagglutinin inhibition testing that there is drift or that 
+there is a difference between the strain and the vaccine, and 
+the strains that are circulating, doesn't perfectly predict how 
+the vaccines will work in practice. So I think it is very 
+important to differentiate that decision to make a monovalent 
+vaccine against a pandemic where we know there is not going to 
+be the widespread protection because people haven't seen the 
+strain before, and where it is a race against time in terms of 
+the--although it is challenging with current technology, the 
+value of trying to make a vaccine is worth it.
+    Mr. Murphy. I am way over time. I need to----
+    Dr. Schuchat. By which--OK.
+    Mr. Murphy [continuing]. Pursue other members.
+    I recognize Diana DeGette for 5 minutes.
+    Ms. DeGette. Thank you very much, Mr. Chairman.
+    Well, following up on the chairman's question, Dr. 
+Schuchat, would it be fair to say, and really yes or no would 
+work here, would it be fair to say that the way we are going to 
+be able to substantially reduce the time between when we 
+identify a strain and developing the vaccine will be what Dr. 
+Fauci is talking about, which is development of new platforms 
+and ways to get the vaccine?
+    Dr. Schuchat. Absolutely.
+    Ms. DeGette. Now, Dr. Fauci, I want to turn to you because, 
+over the years, you have come and talked about the development 
+of these vaccines. I remember when we had a hearing in this 
+committee when we were trying to move from the egg to the cell 
+vaccine. And now you say you have the cell techniques, but you 
+also say that you are getting ready to go into larger clinical 
+trials on these new platforms, is that correct?
+    Dr. Fauci. That is correct, Ms. DeGette. The important 
+point is that we really think that anything that needs to grow 
+the virus----
+    Ms. DeGette. Right.
+    Dr. Fauci [continuing]. And produce it just is a time sink. 
+So that is the point that I made on the----
+    Ms. DeGette. Right.
+    Dr. Fauci [continuing]. Slide.
+    Ms. DeGette. No, and we actually, even those of us who only 
+took high school biology, understood that point.
+    Dr. Fauci. Yes.
+    Ms. DeGette. So----
+    Dr. Fauci. Yes.
+    Ms. DeGette [continuing]. Good work again. But what I want 
+to know is now that you have done your phase 1 trials, and you 
+are trying to move beyond that, what is your time frame for 
+that?
+    Dr. Fauci. Well, you know, it is going to really depend on, 
+first of all, testing it in a season to show that even though 
+you don't specifically have it against this particular strain, 
+that it is covering that strain. So when you are trying to 
+prove universality, you want to test it in a season in which it 
+is a broader response. One of----
+    Ms. DeGette. Right.
+    Dr. Fauci. Yes. One of----
+    Ms. DeGette. So would that be like next season----
+    Dr. Fauci. Well, we----
+    Ms. DeGette [continuing]. Do you think?
+    Dr. Fauci [continuing]. Actually are going to try now, in 
+collaboration with BARDA, to make enough of that new concept to 
+be able to test it----
+    Ms. DeGette. Test it in this season.
+    Dr. Fauci [continuing]. In the following season.
+    Ms. DeGette. Dr. Robinson, you are----
+    Dr. Fauci. Following season.
+    Ms. DeGette [continuing]. You are nodding your head, yes. 
+Is----
+    Dr. Robinson. Yes, the following season.
+    Ms. DeGette. OK. So what can Congress do to help you with 
+that? Do you need additional resources? What do you need to be 
+able to start to expedite that research?
+    Dr. Fauci. Well, I mean, obviously, you ask a scientist if 
+they need resources, the answer is an automatic knee-jerk----
+    Ms. DeGette. Well----
+    Dr. Fauci [continuing]. Of course we can do better with 
+more resources, but we actually need your continued support to 
+keep the focus on the need for this, because when we do these 
+tests, remember, we don't have control over the companies that 
+make the contracts with the various----
+    Ms. DeGette. Right.
+    Dr. Fauci [continuing]. Health organizations that 
+distribute this, but I think the focus that this committee has 
+continually put on this has been very helpful to us.
+    Ms. DeGette. Now, in your written testimony, you talk about 
+the difference between seasonal flu and pandemic flu. Can you 
+briefly explain that to us?
+    Dr. Fauci. So I mentioned in my oral testimony a few 
+moments ago that influenza viruses tend to change slightly. We 
+call that a drift.
+    Ms. DeGette. Right.
+    Dr. Fauci. Right.
+    Ms. DeGette. Every season.
+    Dr. Fauci. That is a little bit. Now, if it changes 
+slightly, even if you don't get the vaccine match right, there 
+is enough background immunity in the community against similar 
+viruses that the vast majority of the population are not going 
+to have a catastrophic outbreak where people would be 
+completely unprotected.
+    Ms. DeGette. Right.
+    Dr. Fauci. When you have an influenza that has what we call 
+a shift, not a drift, that means major changes, so when you 
+look at the general population, the overwhelming----
+    Ms. DeGette. Right. They don't have that.
+    Dr. Fauci [continuing]. Majority don't have any background 
+protection. So it is almost as if you are totally naive to this 
+new----
+    Ms. DeGette. And that is what happened in----
+    Dr. Fauci [continuing]. Virus.
+    Ms. DeGette [continuing]. 2009 and 2010.
+    Dr. Fauci. Indeed. The bad news, it happened in 2009. The 
+somewhat comforting news is that it wasn't a particularly 
+virulent----
+    Ms. DeGette. Right. Exactly. And that is what we----
+    Dr. Fauci [continuing]. Virus. So we----
+    Ms. DeGette [continuing]. Were worried about.
+    Dr. Fauci [continuing]. Were lucky.
+    Ms. DeGette. So, Dr. Robinson, now, you said in your 
+testimony that there remains significant technical challenges 
+before a substantially better influenza vaccine is available, 
+and I would assume that the biggest concern for both of you 
+gentlemen, well, for all four of our witnesses, would be that 
+if we don't develop that significantly better vaccine system, 
+and we get a virulent pandemic flu, is that right, Dr. 
+Robinson?
+    Dr. Robinson. That is right. I mean, as Dr. Fauci pointed 
+out, we actually have new ways to actually make these vaccines 
+by looking at a different portion of one protein. We normally 
+make the vaccines against the hemagglutinin and our immunities 
+to that, the head of that, and now we can actually look at the 
+stalk which we are making these candidates. We may be able, 
+that way, to protect against many different drifted strains and 
+serve as a primer for a pandemic so that you have one dose of 
+this, so you only need one dose of pandemic vaccines instead of 
+maybe two.
+    Ms. DeGette. Yes, and so what we are concerned about, or 
+what I am concerned about, what keeps me awake at night, is if 
+we don't do enough, both Congress and also our research 
+institutions, to be able to have that vaccine available if we 
+get a virulent pandemic flu. Dr. Fauci?
+    Dr. Fauci. So another important point besides the fact that 
+all of the issues, the advantages of this universal flu 
+vaccine, namely, molecular biology rather than growing----
+    Ms. DeGette. Right.
+    Dr. Fauci [continuing]. The critical issue is if you--if we 
+get it right, you could actually stockpile it.
+    Ms. DeGette. Right.
+    Dr. Fauci. So we wouldn't have to worry about the chart 
+that the chairman put up about it changing and trying to keep 
+up with it----
+    Ms. DeGette. Right.
+    Dr. Fauci [continuing]. Because if you stockpile it, you 
+could stockpile it the same way you stockpile polio vaccine, 
+measles vaccine, et cetera. That is really the endgame.
+    Ms. DeGette. Thank you. Thank you very much, Mr. Chairman.
+    Mr. Murphy. Thank you.
+    Now recognize Mrs. Blackburn, vice chair of the full 
+committee, for 5 minutes.
+    Mrs. Blackburn. Thank you, Mr. Chairman. And as I said 
+earlier, I want to focus on measles because we are hearing so 
+much about this. And bear in mind, I have a daughter who has 
+two children. They are in kindergarten and pre-K, and I can 
+tell you, and I am sure you all and your teams, are fully aware 
+that a lot of the mommy blogs are focused on this issue right 
+now. And it is a big issue with our constituents.
+    And, Dr. Schuchat, let me come to you first. I just want to 
+be sure what the known knowns are about the measles virus. If 
+you would elaborate for just a second. We are hearing 102 
+cases, that out of these only five had a vaccination against 
+measles. Do you know what the rate is how they are affecting 
+elderly as well as children? If you will give us just 1 minute 
+on this.
+    Dr. Schuchat. Yes, so far, there have been 102 people from 
+14 States that have developed measles in 2015. There are 
+another 11 cases of measles from the end of 2014 that were 
+linked to the Disneyland outbreak. Not all of the 102 cases 
+this year are linked with Disneyland, but the majority are.
+    The majority of people in these outbreaks so far have not 
+been vaccinated. Only a small number are known to have been 
+vaccinated. Important to remember that there are about 20 
+million measles cases around the world each year, and so 
+measles is literally a plane ride away. When it gets into 
+communities like the United States now, in certain pockets 
+where a lot of people are unimmunized, it has a chance to 
+spread. And so that is why California is really working day and 
+night to follow every lead and put an end to it there. And that 
+is why the health departments in every State are really on 
+alert right now.
+    Mrs. Blackburn. OK. Let me ask you this. As a physician, 
+and a representative of our Nation's public health agency, if 
+you are talking to a parent, should they be more fearful of the 
+disease, measles, or the measles vaccine?
+    Dr. Schuchat. Every parent wants their child to be healthy 
+and safe, and I absolutely respect that. As a physician and as 
+a public health expert, I can tell you the measles, mumps, 
+rubella, or MMR, vaccine is very effective and very safe.
+    Measles can be serious, and I would hate for a parent to 
+think that everything will be fine, and have a bad outcome with 
+their child. So I strongly recommend people talk with their 
+physicians and get the right information, but personally, I 
+would definitely have my child vaccinated.
+    Mrs. Blackburn. Thank you.
+    Dr. Fauci, same question to you.
+    Dr. Fauci. Same answer from Dr. Schuchat. There is no 
+doubt, if you do a risk/benefit of the vaccine versus the 
+disease, I think it is very, very clear that you have one of 
+the most highly effective vaccines against any virus, and you 
+have a highly contagious disease, measles, that can have 
+serious complications, so to me it is really a slam dunk what 
+the decision would be.
+    Mrs. Blackburn. So if it were your child or grandchild, you 
+would say vaccinate?
+    Dr. Fauci. Without a doubt, and I have done that with my 
+three children.
+    Mrs. Blackburn. Excellent. Thank you, sir.
+    Dr. Robinson, I am going to let you off the hook today. I 
+usually have quite a group of questions for you. And I do, I 
+have some questions on Tamiflu and on the stockpile and the 
+shortage, but as one of my researchers from Vanderbilt told me 
+this weekend, we don't always get the flu right and had a way 
+of terming how we go about looking at this. I am going to, in 
+the interest of time, submit these and would love a response 
+from you.
+    And I yield back.
+    Mr. Murphy. Thank you. The gentlelady yields back.
+    Now Mr. Pallone is recognized. Thank you.
+    Mr. Pallone. Thank you, Mr. Chairman. I wanted to start out 
+with Dr. Midthun. I am concerned about the low flu vaccine rate 
+for children. By November 2014, only 42 percent of children 
+between the ages of 6 months and 17 years have been vaccinated 
+for the flu, and I think we need to change this. And, of 
+course, the measles outbreak raises more concerns about 
+childhood vaccination. Yesterday, we mentioned that Ms. 
+DeGette, Mr. Green, and myself called for a separate hearing on 
+the outbreak, and the importance of vaccination to prevent the 
+spread of measles.
+    I am sorry, actually, my question is of Dr. Schuchat. What 
+can we do to increase childhood vaccination rates, both for the 
+flu and for other infectious diseases?
+    Dr. Schuchat. You know, I think that parents' decisions to 
+vaccinate their kids are often related to their sense of the 
+threat and their sense of the value of the intervention. And we 
+are so fortunate in this country that our disease rates have 
+been quite low, that many parents don't realize these diseases 
+are still out there, and that if their children aren't 
+vaccinated, they will come back. So with the measles outbreak, 
+I think most parents who weren't vaccinating didn't realize 
+measles was still around and could be dangerous.
+    In terms of the value of the intervention, it is important 
+for parents to have all the information they need about the 
+safety, the effectiveness, the risks, and benefits. It is 
+important to me that parents know that the immunization system 
+is deeply committed to transparency, to monitoring vaccine 
+safety, to sharing information about risks when we determine 
+them, and to updating our recommendations whenever there is new 
+data. Right now, we know that the vaccines we are giving are 
+saving lives and saving money. For each dollar we put in, we 
+get about $10 back for the childhood immunization series.
+    So what we do to try to support and promote immunization is 
+a strong public-private partnership between healthcare 
+professionals, doctors and nurses, and pharmacists, and 
+community groups and consumer groups, to get information where 
+it is needed, when it is needed, in many different formats. We 
+know that most people trust their doctors and nurses more than 
+they trust me or other public figures, and so we really try to 
+support the doctors, nurses, pharmacists, that are that 
+frontline.
+    Mr. Pallone. Well, thank you. Let me continue with you. I 
+know that the flu activity began in early December, and 
+continued to increase through the end of 2014. Has the flu 
+activity peaked for this year, and what data do you evaluate to 
+make that determination?
+    Dr. Schuchat. We are well along in the season, but it is 
+difficult to say whether there will be a long tail or not. In 
+many areas it is flattening off but not deeply declining yet. 
+And sometimes later in the season, we see another strain 
+increase. We have had many seasons where one of the H1N1 or 
+H3N2 starts off the season, and one of the B strains will be 
+quite common later on. So we are not out of the woods. It is 
+important for people to be thinking about this. And we 
+particularly want people to know that if they develop flu-like 
+symptoms, and they are pregnant or they are very elderly, or 
+have other immuno-compromising conditions, early treatment with 
+antivirals could be very helpful to them. So they should speak 
+with their clinician.
+    Mr. Pallone. All right, let me go back now. I did have a 
+question of Dr. Midthun. The flu vaccine comes in different 
+forms. There is the high-dose shot recommended for seniors, a 
+quadrivalent nasal spray recommended for young children, and a 
+recombinant trivalent, I don't know if I am pronouncing it 
+right, recombinant trivalent shot recommended for those with 
+egg allergies. How do you communicate to different groups about 
+the variety of vaccines, and can the greater number of options 
+for vaccines increase the rates?
+    Dr. Midthun. As you point out, there are a number of 
+different options now, and what we try to do is really 
+communicate clearly the information that we provide on our Web 
+site in our package inserts as to what groups were studied and 
+for which age groups the product is indicated. So, for example, 
+the high-dose vaccine you were referring to was actually 
+evaluated in individuals 65 years of age and older, and was 
+shown to decrease the rate of influenza by 23 percent, relative 
+to those who got the normal dose vaccine. And likewise, 
+quadrivalent vaccines are now available for four different 
+manufacturers; three are inactivated and one is the live 
+attenuated. They are indicated for somewhat different groups 
+across that spectrum, and again, that information is put 
+forward.
+    The recombinant vaccine that you mentioned has only so far 
+been evaluated and shown to be safe and effective in 18 years 
+of age and above, and so again, our prescribing information 
+will reflect that. But I think I should really turn to Dr. 
+Schuchat because that is really the advisory committee on 
+immunization practices, which is an advisory committee for the 
+CDC that then recommends how these vaccines should be used.
+    Dr. Schuchat. And just briefly, we recommend people get 
+vaccinated with the vaccine that is available. And so while 
+providers and pharmacists get all that information about the 
+different types, it is much more important to get a vaccine 
+than to worry about which one is there.
+    Mr. Pallone. All right, thank you. Thank you, Mr. Chairman.
+    Mr. Murphy. Thank you.
+    I now recognize the vice chairman of the subcommittee, and 
+welcome aboard as vice chairman, Mr. McKinley of West Virginia.
+    Mr. McKinley. Thank you, Mr. Chairman. Just a quick 
+observation on this--what I have heard and read in your 
+testimony and done a little research is, this whole process of 
+designating which vaccine we are going to come up with in 
+September just seems archaic. In fact, it seems more of a game 
+of chance and probability. And by virtue of us continuing this 
+process, erroneously now with this mismatch, we have 50,000 
+Americans who are going to die this year. Fifty thousand 
+Americans. That is more than died in combat in Vietnam, over a 
+decade of that warfare. And they are going to die because of a 
+game of chance and probability.
+    I am just astounded by that. I wonder what better 
+techniques can we use to predict ahead. And that leads me then 
+to the second question perhaps, or maybe associated with that, 
+is that the high-dose vaccine has been found to be 24 percent 
+more beneficial to senior citizens, and you have a meeting 
+coming up late in February and it is not on the agenda as a 
+possibility for September. Could one of you explain just 
+briefly why that is not on the agenda if it has been proven to 
+be helpful for senior citizens?
+    Dr. Schuchat. Yes. Let me answer sort of both parts. The 
+high-dose vaccine is one of the licensed vaccines that is 
+recommended, and the company that makes it doesn't make enough 
+of it for all people 65 and over----
+    Mr. McKinley. Um-hum.
+    Dr. Schuchat [continuing]. But they have been increasing 
+the production. So it is included in the September and February 
+recommendations. The recommendations are really just which 
+vaccines to--which virus strains to target, and then there are 
+all these different formulations like high-dose.
+    The other thing I just wanted to comment on about is sort 
+of the mismatch. I want to just point out that in the past 20 
+years, this is the fourth time that we have had an important 
+mismatch between one of the circulating viruses and the vaccine 
+and what dominates. So it is very disturbing when we have this 
+and we have excess disease burden, but the vast majority of 
+recommended strains have actually been on track. Even though, 
+when we have a good match, a well-matched vaccine type, we have 
+a lot of morbidity and mortality from influenza, and I think it 
+is one of these diseases that we as scientists take very 
+seriously, but the American public takes a bit for granted. So 
+we wish that we had more people vaccinated each year, and that 
+we wish that people who need to get the antivirals would get 
+them early, but we have work to do in terms of the medical 
+community and the public----
+    Mr. McKinley. Thank you.
+    Dr. Schuchat [continuing]. And in having them take----
+    Mr. McKinley. Thank you, doctor. Is----
+    Dr. Schuchat [continuing]. It seriously.
+    Mr. McKinley. I want to build a little bit of background 
+for the chairman and his chart. When it was discovered first in 
+May, I guess it was, that--or March, there was some anomaly 
+showing up. May, 17 percent, September, 50 percent. It was 
+obvious there was a problem with it. So if I go back to 
+Robinson's testimony, he said that the PCAST report recommended 
+improving vaccine manufacturing to meet a national goal of 
+making the first dose within 12 weeks. Now, yes, it would have 
+taken to go to a national supply to go 6 months, which again, 
+is a real concern about the production, and some of the 
+techniques that we can use to reduce that--but if we could have 
+produced a vaccine, knowing in September it was 50 percent, so 
+September, October, November, the 1st of December, we could 
+have had a modified drug, even if it is limited supply, that we 
+could have tried--whether it is an antigen or a new vaccine 
+entirely, wouldn't you have recommended let us try this and do 
+trials, see what the result is, did we solve it, can we do this 
+in 12 weeks and the next time? So my question: Did you do it? 
+Did you try to do anything to modify the vaccine that was 
+wrong?
+    Dr. Schuchat. Um-hum. I want to stress that we were not----
+    Mr. McKinley. It is a yes or no, isn't it?
+    Dr. Schuchat. There were many activities taken to address 
+the emergence of drifted strain, including preparing a 
+candidate vaccine virus----
+    Mr. McKinley. Did you try and modify it?
+    Dr. Schuchat. The issue of protection is both what strains 
+are dominant, what efficacy the vaccine has, and how many 
+people can get the vaccine. So a highly effective vaccine with 
+very few doses available may not be as good as a moderate- or a 
+low-efficacy vaccine and a lot of doses available.
+    Mr. McKinley. I will take your answer----
+    Dr. Schuchat. I don't think that----
+    Mr. McKinley [continuing]. As a no, that you didn't try 
+and----
+    Dr. Schuchat. No, what I am saying is that we did begin to 
+prepare the candidate vaccine virus so that companies would be 
+able to produce a vaccine against the drifted strain. This 
+particular strain has been quite challenging to produce 
+vaccines against.
+    Mr. McKinley. Thank you. Fifty thousand Americans died.
+    Mr. Murphy. Now recognize Ms. Castor for 5 minutes.
+    Ms. Castor. Thank you very much.
+    Dr. Schuchat, on average, maybe take the last 10 or 20 
+years, how many Americans suffer each year from influenza, how 
+many are hospitalized, and how many die?
+    Dr. Schuchat. Thank you. Yes, for the past 5 years or so, 
+we have ranged between 19 and 35 million cases of influenza 
+illness each year, between 110,000 and almost 600,000 
+hospitalizations each year, and 5,300 to 39,000 deaths 
+attributable to influenza. Those are in the past 5 years. In 
+that same period, the vaccination efforts we have had have been 
+reducing the full burden by about 16 to 17 percent. You know, 
+we would have more disease, deaths, and hospitalizations 
+without vaccination, but it is not as high a prevented----
+    Ms. Castor. Um-hum.
+    Dr. Schuchat [continuing]. Fraction as we see for measles, 
+where we are preventing 99 percent, you know, of the disease. 
+And that is partly because we don't have high coverage.
+    Ms. Castor. How many are vaccinated?
+    Dr. Schuchat. Well, we have gone from 19 percent of 
+Americans getting vaccinated against flu, to 46 percent. So 
+that is a big improvement, but it is not the majority yet. The 
+other factor though besides the coverage is the effectiveness, 
+and even in a good year, we are seeing vaccines that work about 
+60 percent efficacy, and so that is why we are very committed 
+to the interagency work on developing vaccines that could have 
+higher effectiveness, particularly in the most vulnerable 
+populations.
+    Ms. Castor. And when it comes to the deaths, what age 
+range? We know the elderly are more vulnerable, but what are 
+the----
+    Dr. Schuchat. Yes, you know, the vast majority of deaths 
+are in seniors, but unfortunately, we do have children die 
+every year. More than 60 children have died so far this flu 
+season, and I fear that is not going to be the end of it. So we 
+know that statistics say if you are elderly, if you have 
+medical immunocompromising conditions, if you are under 2, you 
+have more chance of being hospitalized or dying from flu, but 
+many parents can tell you that their child was perfectly 
+healthy and they actually lost a child. So I really want 
+parents and the general public to know to take flu seriously.
+    Ms. Castor. And this year, it is a particularly severe flu 
+season with higher rates of hospitalization and mortality. This 
+is especially worrisome for those vulnerable populations; 
+children, the elderly, pregnant women, and others with weakened 
+immune systems. Dr. Midthun, the severity of this year's flu 
+can be partially attributed to the fact that it is an H3N2 
+predominant year. Tell us what that means in simple terms. The 
+fact that this is an H3N2 predominant year. Dr. Midthun.
+    Dr. Midthun. I think oftentimes in H3N2 prevalent years, 
+there may be more morbidity and mortality, although I think it 
+is very important to remember that all influenza can cause 
+morbidity and mortality. H1N1 was responsible for 2 pandemics, 
+1918 and the one in 2009. And also B strains can be very 
+serious, especially for children, and cause very serious 
+outcomes. But Dr. Schuchat may want to add to that.
+    Dr. Schuchat. Yes. Overall, the H3N2 serious years have 
+higher total morbidity and mortality, but as Dr. Midthun says, 
+the H1N1 has a predilection for younger people.
+    Ms. Castor. Uh-huh. So you were talking about the 
+effectiveness of the current vaccine before this year's flu 
+vaccine shows 23 percent effectiveness. I want to hear more 
+about how we assess the flu vaccine effectiveness, and better 
+understand this. How do we gather information on infections and 
+mortality and then test for vaccine effectiveness?
+    Dr. Schuchat. One of the things that the investments in 
+influenza have permitted, the resources that CDC has gotten 
+over the past several years, is expansion of the systems by 
+which we track influenza, and track influenza vaccine coverage, 
+and track influenza vaccine effectiveness. So we have much 
+better data today than we had several years ago. We are able to 
+provide estimates in the middle of the year of how many people 
+have gotten vaccinated, as well as how well the vaccine is 
+working so far.
+    We work with State and local health departments in the 
+surveillance systems, and we work with academic university 
+partners in measurement of influenza vaccine effectiveness, 
+essentially, comparing people who have influenza laboratory-
+confirmed disease with others to look back at their vaccination 
+history and basically quantify the vaccine effectiveness that 
+way. We release our data every week on something called 
+FluView. It is on our Web site. And so you can essentially look 
+in October 3 and see the first information about the drifted 
+strain. So every week as that comes out, you can follow what is 
+going on. But in mid-January, in fact, we sped up the vaccine 
+effectiveness estimates so that the public would know them as 
+quickly as possible.
+    Ms. Castor. Well, I know I marched my whole office down to 
+get the flu vaccine, but I think this is very important that 
+people understand what the experts are saying today, that this 
+mismatch, parents with children need to be especially careful 
+because of the predilection for younger folks. But in America, 
+if we only have 46 percent, and that is kind of high watermark 
+for flu vaccinations, we can do a whole lot better. So thank 
+you very much.
+    Mr. Murphy. Thank you.
+    And now I recognize Dr. Burgess for 5 minutes.
+    Mr. Burgess. Thank you, Mr. Chairman.
+    And, Dr. Schuchat, let me just pick up for a moment on what 
+you were discussing with the vice chair of the subcommittee, 
+Mr. McKinley. Now, you had a drifted strain that kind of 
+appeared on the scene. The Southern Hemisphere designation is 
+out of phase with what the vaccine release in the Northern 
+Hemisphere, correct? So you had identified the drifted strain 
+when the recommendation was made for the inclusion in the 
+vaccine that was released in the Southern Hemisphere, is that 
+correct?
+    Dr. Schuchat. Yes, that is right.
+    Mr. Burgess. So why not then come forward with a 
+recommendation for a booster shot or some additional protection 
+for people in the Northern Hemisphere if we already were 
+developing a different vaccine based on a drifted strain for 
+the Southern Hemisphere? Your neighbors to the north might have 
+been interested in that, don't you think?
+    Dr. Schuchat. You know, the manufacturing capacity to 
+respond in September to vaccine strain recommendations in large 
+number of doses would get us a large number of doses probably 
+February or so. So I mean Dr. Robinson might be able to comment 
+a little bit more, but the ability for us to make a Northern 
+Hemisphere recommendation for a vaccine in September, and have 
+doses in time for the flu season, would be very low. And we 
+take that type of step when we are worried about a pandemic, 
+and I think the committee is raising the question of should we 
+take that type of step when it is not a pandemic situation but 
+a drift.
+    Mr. Burgess. We would like you to react with a little bit 
+more clarity and be flexible when so many lives are on the 
+line, as Mr. McKinley outlined. And I mean, look, we are 
+dealing with a, what, a 40 percent uptake of the vaccine as it 
+is. If people read the headlines and say only 1 in 5 are 
+protected anyway, I would just as soon not get stuck.
+    Dr. Schuchat. Yes.
+    Mr. Burgess. So I would think you, as an agency, you would 
+want to have that flexibility and want to show utility for 
+people that we are on top of this, we are working on this 24 
+hours a day, 7 days a week, 12 months out of the year. We are 
+monitoring your health and your safety when it comes to the flu 
+virus, and we can't be perfect every time, but when we are not, 
+we are going to be there to help you stave off the effects. I 
+mean, again, that is what I am hearing as a result of this 
+hearing. And as Dr. Fauci acknowledged, we have had these 
+hearings before. We had a hearing when we only had a trivalent 
+vaccine, and we talked about a quadrivalent vaccine. I mean 
+these things, they are important, people do pay attention to 
+them. Our vaccine rates for influenza are lower than they 
+should be for the country.
+    Dr. Schuchat. Um-hum.
+    Mr. Burgess. I have gotten my flu shot every year except 
+2004 when it was politically inadvisable for a Member of 
+Congress to receive a flu shot because there was a shortage----
+    Dr. Schuchat. Right.
+    Mr. Burgess [continuing]. Because of the serratia 
+contamination that occurred in one of the manufacturing labs. 
+Separate story, but every other year I step up and get the 
+vaccine because I meet a lot of people every day, I ride on an 
+airplane twice a week, this is just a commonsense reaction to 
+what is an inevitability on the ground.
+    I want to shift gears for just a moment, and I do feel 
+obligated to talk about the measles issue because it has 
+achieved so much in the way of headlines, and I am going to 
+breach--I am going to violate HIPAA, and I just want to tell 
+HHS that I am going to violate HIPAA. I am going to release 
+sensitive clinical information about myself. So I never had the 
+measles vaccine. I didn't have it because I was too old. I mean 
+I was--well, when I was a child in the '50's, it hadn't--it 
+wasn't there, it wasn't available. I don't remember every 
+scraped knee, every sniffle from my childhood, but I remember 
+the measles.
+    Dr. Schuchat. Um-hum.
+    Mr. Burgess. It was bad. I mean you can see--and I see in 
+Harrison's here online, hard, shaking chills. I mean that--it--
+yes, hard, shaking chills doesn't even begin to describe it. 
+The chills are so hard they are painful. You want to cover up, 
+you want to pull a blanket around yourself, but you don't want 
+anything touching your skin. That is measles. I mean it is a 
+different disease. And we had forgotten about it, quite 
+frankly, because, you know, you just never see it, and now we 
+are faced with the prospect that we are seeing it. It is 
+important for parents to have their children vaccinated.
+    Dr. Schuchat. Um-hum.
+    Mr. Burgess. There are things that can happen to you as a 
+consequence of having had the measles. I remember in medical 
+school learning about subacute sclerosing panencephalitis, and 
+I remember asking at the time why do I have to learn about 
+this, no one is going to get it anymore. But, in fact, people 
+may get it because it is a consequence of having had an 
+infection with measles. So these issues are important.
+    Now, if I recall correctly, and suddenly somehow this is 
+interjected into presidential politics, which is inappropriate 
+because, if I recall correctly, since President Gerald Ford, 
+there has not been a Federal mandate for any vaccination. And I 
+will ask that question generally to the panel, Dr. Fauci, am I 
+correct on that?
+    Voice. Microphone.
+    Dr. Fauci. When President Ford essentially mandated through 
+the department that there be massive vaccination for the 1976 
+influenza, that famous catastrophic event with the Guillain-
+Barre, but I don't think there has been official mandating 
+about----
+    Mr. Burgess. Correct. So these are State-mandated vaccines 
+that people have to take before attending public schools, and 
+there is a reason for that. It should be a State mandate. There 
+is no one asking for a Federal mandate. It doesn't mean that 
+the vaccination is not important. And for people who are 
+listening and paying attention today, please have your children 
+vaccinated.
+    Thanks, Mr. Chairman. I will yield back.
+    Mr. Murphy. Thank you.
+    I now recognize Mr. Green for 5 minutes.
+    Mr. Green. Thank you, Mr. Chairman. Thank our panel for 
+being here.
+    Data from the National Immunization Survey found that fewer 
+than half of children and adults are vaccinated by November of 
+this current flu season. My numbers said 40.3 percent, but, 
+doctor, you said 46 percent. Forty-six percent of the people 
+and 6 months or older received the flu vaccine. These numbers 
+seem similar to what we have seen in the last few years.
+    I wanted to hear why these vaccination rates continue to be 
+so low and what we can do to improve it, although I have to 
+admit, the recent news that it is only 20 percent--23 percent 
+effective, and those of us who are much older it may only be 12 
+percent, that would probably tell people not to get it. But 
+somehow along the way, we need to do it, and encourage much 
+more than 46 percent to be able to get that. The data showed 
+that nearly 60 percent of the people had not taken advantage of 
+it. Is that accurate?
+    Dr. Schuchat. The 46 percent that are vaccinated is based 
+on last year's end of season, so the 40-some percent was the 
+early, you know, by November, how many had gotten vaccinated.
+    You are right that the majority still haven't gotten the 
+flu vaccine, and this is something that we think is going to 
+take years of work. Part of the issue is whether there is a 
+concern about the disease, and part of the issue is whether 
+there is confidence in the intervention. And as you know, the 
+intervention has different efficacy, different years. So it is 
+not a simple message and it is one that we work hard to 
+communicate honestly and clearly.
+    Mr. Green. Well, I guess part of the problem is if we think 
+it is bad now with the news coverage about the less 
+effectiveness, what can we do to make sure that next year we 
+have, one, an effective flu vaccine--I know it is almost like 
+throwing darts against the wall--and that way we will convince 
+more people to get it, because, again, the more people 
+vaccinated, the more we will defeat it.
+    Dr. Schuchat. The vaccine prediction is most of the time 
+good. So out of the last 20 years, this is the fourth time 
+where there has been an important mismatch. And in some of the 
+previous times where there has been mismatch, there has still 
+been much higher efficacy than what we are seeing this year. 
+This year will be a difficult year to follow in terms of our 
+messaging. We do want people to know that influenza can be 
+serious, and that the vaccine is still the most effective way 
+to reduce your risk, but we also want people to know about 
+antivirals, because we think those are also underutilized and 
+could actually reduce the duration of the illness, and even 
+reduce the chance of being hospitalized in some patients. And 
+so we think it is important to get both messages out.
+    Mr. Green. Is there anything that Congress could do 
+because, when you found out that the effectiveness was so low--
+I know there were some questions earlier from Dr. Burgess 
+saying, OK, we need a booster for those of us who got the 
+vaccine--are there resources available where you could do that 
+and make it an issue, saying, you know, it is only 23 percent 
+but this booster will get you to 50 percent?
+    Dr. Schuchat. You know, I think the resources that have 
+been provided have been incredibly valuable, and there is both 
+a short-term and a long-term strategy. You know, the short-term 
+strategy, to use available tools better, and to make 
+incremental improvements in the production and distribution of 
+vaccine, and the long-term strategy that Dr. Fauci and Dr. 
+Robinson were talking about with the research and investments 
+in universal vaccines. So I think we can't just do one or the 
+other, we really have to do both, but it will be years before 
+there is that really much, much, much better flu vaccine. And 
+we are fortunate that we have a lot of options now and a much 
+better supply horizon than we have had, you know, 5 or 10 years 
+ago. So I think we really need to just stick with it and make 
+those incremental improvements, and make sure that the public 
+gets the correct information, the accurate information, that we 
+are honest when he have a year like this where it is quite 
+difficult. And unfortunately, the vaccine is only preventing 
+about 23 percent of what it might be, but that is still 
+significant protection.
+    Mr. Green. Well--and again, since the percentage is lower 
+for the most vulnerable population of the elderly, we need to 
+encourage the elderly to--even if it is only, I don't know what 
+percentage it was, 12 percent, because it still gives them that 
+12 percent. But we would sure like to see it up above the 
+efficiency much better.
+    Dr. Schuchat. Yes. Ironically, the elderly are the best at 
+getting vaccinated. It is about 70 percent or so of them, but 
+the vaccine works the worst in that population. And they really 
+do rely on the rest of the population being protected to have 
+more confidence that they will be safe too. So it is one of 
+those vaccine-preventable diseases where the more people that 
+are immunized, the better. And, of course, in the future we 
+hope that we will have even more effective tools.
+    Mr. Green. I know this has come up before, but----
+    Mr. Murphy. Thank you.
+    Mr. Green [continuing]. Ranking Members Pallone and DeGette 
+yesterday talked about the measles outbreak in Disneyland, and 
+I know that is a concern too that--to do it. And let me just 
+follow up, Mr. Chairman, I remember when I was in the fifth 
+grade, the whole county, we got a polio vaccine. Was that 
+mandated by the Federal Government?
+    Dr. Schuchat. You know, in that era, you didn't need to 
+mandate polio vaccines. People were lining up. I think the 
+whole country was so thrilled that there was a polio vaccine 
+licensed----
+    Mr. Green. Um-hum.
+    Dr. Schuchat [continuing]. In 1955 because that was such an 
+incredible scourge. The mandates, the school requirements, 
+really were shown in the 1980's to massively reduce the risk of 
+measles outbreaks in schools, and it was really only when 
+States required kindergarten entry to have measles vaccine 
+documentation that we started to get a better handle on----
+    Mr. Green. Thank you.
+    Dr. Schuchat [continuing]. Measles, and then----
+    Mr. Green. Yes.
+    Dr. Schuchat [continuing]. Of course, in 2000, we were able 
+to eliminate native measles here in the U.S.
+    Mr. Murphy. The gentleman's time has expired. Thank you.
+    I now recognize Mr. Griffith of Virginia for 5 minutes.
+    Mr. Griffith. Thank you, Mr. Chairman.
+    Let me try to get some blanks filled in here. I don't have 
+the answers. The meeting took place with WHO in CDC and FDA and 
+others in February. In March, we know that there was a drift 
+that was picked up of about 10 percent, is that correct?
+    Dr. Schuchat. Actually, it was lower than that.
+    Mr. Griffith. About 7 percent I think I saw in your 
+testimony.
+    Dr. Schuchat. It was like 4 percent.
+    Mr. Griffith. OK. Do we know what April was, because we 
+have a few numbers on the chart but we have a lot of question 
+marks? And if you don't----
+    Dr. Schuchat. In April----
+    Mr. Griffith [continuing]. You can provide it----
+    Dr. Schuchat [continuing]. Fourteen viruses were shown that 
+had reduced susceptibility to the strain, and that was out of 
+127, so that would be 11 percent.
+    Mr. Griffith. OK. And then we have a number from May. Then 
+June and July, we don't have another number on this chart until 
+September. What were you all seeing in June, July and August?
+    Dr. Schuchat. In June, July, and August, there were 88 
+viruses identified from the whole world that had reduced 
+reaction, and so that comes to 36 percent.
+    Mr. Griffith. OK.
+    Dr. Schuchat. With reduced, you know, that were mismatch.
+    Mr. Griffith. And then there is another meeting, and there 
+is a different Southern Hemisphere recommendation made, and we 
+don't make the--I think that is five. If you can get us the 
+other numbers just so we can kind of track it, that would be 
+great. But then----
+    Dr. Schuchat. Absolutely.
+    Mr. Griffith [continuing]. My question comes up, and I am 
+happy for anybody to answer it, why didn't we have the 
+manufacturing capacity for the virus to do turn somewhere in 
+this process, I think you said by June, July, we were in the 36 
+percent range, recognizing that flu season doesn't generally 
+hit in a big way for another fair number of months, why does 
+the United States lack that manufacturing capacity, and as a 
+subpart of that, if there was the capability of producing, and 
+I am trying to pronounce this correctly, monovalent vaccine, 
+why didn't we do so? And if you all could focus on that. Any 
+member of the panel please.
+    Dr. Schuchat. Yes, maybe I can start and let Dr. Robinson 
+continue.
+    I think one thing to recognize in the summer is that we 
+were looking at increasing proportions of H3N2 that were not 
+well matched to the vaccine, but we still had the other 2 or 3 
+different strains that were in the vaccine. So the concept of 
+producing a monovalent vaccine--we might have been asking the 
+American public to take a monovalent vaccine plus the tri or 
+quadrivalent seasonal vaccine. As we have been hearing, the 
+American public isn't all that keen to get one flu vaccine a 
+year. Would they really be lining up to get 2? But there are, 
+of course, major limitations in the manufacturing capacity to 
+make 2 different products for the same season. So I will let 
+Dr. Robinson answer that.
+    Mr. Griffith. Dr. Robinson?
+    Dr. Robinson. Thank you. During the manufacturing season, 
+they are producing three or four vaccine strains all the way to 
+June, maybe even July if it is a tough year for them. At that 
+time--and most of those are egg-based. At that time, they 
+within the summer are putting those together, we call them 
+blending and putting together, to go forward with the vaccine 
+that was released in September to go out on the shelves.
+    The ability to have what was called a competent vaccine 
+that could be very quickly--that is certainly true, it can be 
+maybe faster than some of the egg-based vaccines, but the 
+capacity that we have right now with the licensed vaccine, the 
+only one recombinant-based vaccine, is very, very small. It 
+would have only been able to produce maybe hundreds of 
+thousands of----
+    Mr. Griffith. OK. Let me----
+    Dr. Robinson [continuing]. Doses.
+    Mr. Griffith. Let me ask the why on that. Is it because 
+there is not a profit----
+    Dr. Robinson. No, no.
+    Mr. Griffith [continuing]. To be made?
+    Dr. Robinson. One instance, it is a new vaccine----
+    Mr. Griffith. OK.
+    Dr. Robinson [continuing]. And, two, since it is a new 
+vaccine, they are just scaling up to the market. This is an 
+incumbent market, very competitive, and they were licensed in 
+2013. We are actually supporting their efforts in building a 
+much larger facility to produce maybe tens of millions of 
+doses, and so that they actually can going forward be able to 
+produce, say, 50 million doses in 4 months of a monovalent 
+vaccine for a pandemic or, maybe in this case, another 
+influenza vaccine.
+    Mr. Griffith. So you anticipate that our capacity will be 
+greater in the next couple of years than it is today to react?
+    Dr. Robinson. Indeed, it will be, because we will actually 
+have the cell-based influenza vaccine facility down in North 
+Carolina that has a large capacity, and we will be able to have 
+that product on the market. But again, they are limited in that 
+they are making seasonal flu vaccine at the same time that we 
+may have wanted to do that.
+    The other thing is that these manufacturers also produce 
+vaccines for the Southern Hemisphere. So when they came off of 
+making the vaccine for the Northern Hemisphere, then they 
+started back to actually making the vaccine for the Southern 
+Hemisphere. So we would have had to make a decision and tell 
+them in September, stop doing that and go forward with the new 
+vaccine. And we know that that is a difficult midcourse shift.
+    Mr. Griffith. But if we----
+    Dr. Robinson. The future will be----
+    Mr. Griffith. But we could have done that even in, say, 
+July when we knew we were at 36 percent that had drifted?
+    Dr. Robinson. It would have been very, very difficult, sir.
+    Mr. Griffith. OK. All right. I appreciate it. I see my time 
+is up and yield back.
+    Mr. Murphy. All right, I want to clarify something. So you 
+said 36 percent, June, July, and we have a 50 percent cutoff. 
+So some time in September the 50 percent number was significant 
+enough to say, OK, we need to do something different in the 
+Southern Hemisphere. What is the magic number where you say we 
+need to make a change here?
+    Dr. Schuchat. Actually, it wasn't that there was something 
+different, it is that every September the strains are reviewed 
+worldwide. All----
+    Mr. Murphy. Why not----
+    Dr. Schuchat [continuing]. Of them.
+    Mr. Murphy. Why not August? What I am concerned about is, 
+we want to break through, if there is some bureaucratic 
+hurdles, this committee wants to help----
+    Dr. Schuchat. Thank--yes.
+    Mr. Murphy [continuing]. But if you say, well, we don't 
+look at this until--we don't really meet and discuss this until 
+September, that is not a lot of solace for what Mr. McKinley 
+was raising for the hundreds of thousands of seniors who are 
+going to be sick. What--what is--what do we do?
+    Dr. Schuchat. Right. In September every year, the groups 
+convene to review all the data for the Southern Hemisphere 
+production, and that is because it takes that long to get 
+vaccine that will be ready by that time. It is not----
+    Mr. Murphy. I am not----
+    Dr. Schuchat [continuing]. Because we are not looking all 
+the way between.
+    Mr. Murphy. Yes, but you have already said you can get a 
+vaccine ready in 12 weeks when you need a monovalent strain 
+when there was a pandemic.
+    Dr. Schuchat. Not----
+    Mr. Murphy. Wasn't that done in 2009, you did something 
+quickly----
+    Dr. Schuchat. No.
+    Mr. Murphy [continuing]. Dr. Robinson?
+    Dr. Robinson. OK, go ahead.
+    Dr. Midthun. No----
+    Mr. Murphy. I want to be clear.
+    Dr. Midthun [continuing]. I think in 2009 the virus emerged 
+in April. In May it was recognized that it was causing 
+significant disease, and at that time a decision was made 
+across the HHS that a monovalent vaccine would be pursued. And 
+so all stops were pulled out to do that, but in point of fact, 
+the first vaccine was not available from--for that H1N1 
+monovalent until the end of October, and the bulk of vaccine 
+was not available until late December, into January. So just 
+point taken that the manufacturing process itself takes many 
+months, and although we----
+    Mr. Murphy. To get to the critical number. I know it is Mr. 
+Tonko's turn, but we are talking about just to start to give it 
+to some seniors and high-risk group.
+    Mr. Tonko, you are recognized for 5 minutes.
+    Mr. Tonko. Thank you, Mr. Chair. And welcome to the panel.
+    There has been much discussion here today about parents and 
+the advice they get about having their children vaccinated or 
+not vaccinated. I would like to ask it from yet another 
+perspective. Yesterday, a United States senator asserted that 
+routine vaccinations could cause, and I will quote, ``walking-
+talking normal children to wind up with profound mental 
+disorders.''
+    And so my request of the panel is a simple yes-or-no 
+response. Is there any shred of credible evidence that shows 
+that this, in fact, is the case? Dr. Schuchat?
+    Dr. Schuchat. Not the vaccines we are using today.
+    Mr. Tonko. Dr. Midthun?
+    Dr. Midthun. No, not for the vaccines we are using today, 
+although I think it is important to note that any vaccine can 
+have some safety issues associated with it, but typically, they 
+are very rare, and that is why we also have the Vaccine Injury 
+Compensation Program.
+    Mr. Tonko. Dr. Robinson?
+    Dr. Robinson. I am in agreement with Dr. Schuchat and Dr. 
+Midthun.
+    Mr. Tonko. Dr. Fauci?
+    Dr. Fauci. Agree.
+    Mr. Tonko. Pardon me?
+    Dr. Fauci. Agree with my colleagues.
+    Mr. Tonko. Thank you for clarifying.
+    In addition to promoting vaccination, Dr. Schuchat, how 
+else does the CDC work to prevent spread of the flu? For 
+example, does the CDC recommend symptomatic individuals to stay 
+home from work?
+    Dr. Schuchat. Yes, we have a multipronged approach to 
+prevention. The best protection is to get vaccinated. We also 
+recommend sensible measures like washing your hands, covering 
+your cough, staying home when you are sick, staying away from 
+other people when you are sick. And then, of course, if you are 
+ill, and particularly those with underlying conditions or the 
+elderly, we think prompt antivirals can be important, and so 
+talk to your clinician about that.
+    Mr. Tonko. Are there any data showing how many flu 
+transmissions occur in the workplace when symptomatic 
+individuals do come to work?
+    Dr. Schuchat. I don't have that data, but there have been 
+analyses showing the value of vaccination to reduce workplace 
+absenteeism and to improve productivity.
+    Mr. Tonko. Um-hum.
+    Dr. Schuchat. So we think it is a good thing for health, 
+and it is also a good thing for the workplace to be protected 
+against flu. To stay home for when you are sick for a variety 
+of conditions is good counsel.
+    Mr. Tonko. I do know that in speaking with my constituents, 
+there are a number of working moms and dads who can't afford to 
+take time off of work because it would mean they are not paid, 
+and so they attempt to come to work even though they really 
+shouldn't. In your opinion, would paid leave policies help to 
+prevent the transmission of the flu and other illnesses by 
+encouraging more workers to stay home when they are indeed 
+sick?
+    Dr. Schuchat. We think the easier it is for people to do 
+the right thing, the better.
+    Mr. Tonko. OK, thank you.
+    Dr. Midthun, the FDA has licensed a number of new vaccines 
+since the year 2009. How have these new vaccines contributed to 
+preparedness efforts in the last several years?
+    Dr. Midthun. Thank you for that question. I think what they 
+have done, especially with regard to the cell-culture-based 
+vaccine and the recombinant protein vaccine, is they offer an 
+alternative manufacturing platform relative to the egg-based 
+manufacturing that was the basis for the vaccines that had been 
+approved up until that time. And it is always important to have 
+a diversified way in which you can manufacture vaccines. It 
+also widens the platform available in the event of a pandemic 
+because, typically, the pandemic vaccines are made on the same 
+manufacturing platforms that the seasonal vaccines are made on, 
+and so it really provides greater diversity and more 
+resilience.
+    Mr. Tonko. And, doctor, in your testimony you talked about 
+work to speed up the manufacturing process for existing 
+vaccines. Can you tell us more about that work?
+    Dr. Midthun. Yes. It is actually a very strong 
+collaboration between BARDA, CDC, NIH, and ourselves, and it 
+looks at a number of different aspects. One aspect is to look 
+at the potency testing that is done for vaccines. Right now, 
+that relies on reagents that are made by immunizing sheep, you 
+develop antiserum, this usually is a process that can take up 
+to 2 months. And so, obviously, having potency assays that are 
+much more rapid would really decrease the time that it takes to 
+do this, to make these reagents. And so there are some 
+approaches using more modern platforms, and in conjunction with 
+some of our colleagues, there actually are some tests that are 
+being planned that will be embarked upon later this year to 
+compare some of these newer assays to the standard assay that 
+is used right now, the radial immunodiffusion test, to see how 
+these compare to each other in actual testing of vaccine 
+samples that the manufacturers are providing to us. And some of 
+the manufacturers have actually expressed interest in also 
+participating in the testing to see what the feasibility is. So 
+that is one aspect that we are working on.
+    Another one that has been very important, and that the CDC 
+and others have really done a lot of work on, but we have also 
+contributed to, is to try to identify high-growth viruses that 
+will lead to good yield when you grow the virus in the eggs or 
+in the cell culture. As you recall, Dr. Fauci was referring to 
+the fact that that can often be a rate-limiting step. And so 
+trying to develop viruses that you know will yield high growth 
+when these new strains emerge could really facilitate and take 
+time off that process.
+    And then also there was the sterility testing, and the FDA 
+actually changed its regulations in 2012 to allow for more 
+flexibility in sterility testing. Up until that time, it was 
+very prescriptive and this 14-day test by USP had to be used, 
+but now manufacturers can come in with novel testing, and we 
+actually know that some, you know, testing that has been 
+described in the literature could actually be accomplished in 
+5, 6 days potentially.
+    Mr. Tonko. Thank you.
+    Mr. Murphy. Thank you.
+    Mr. Tonko. I yield back, Mr. Chairman.
+    Mr. Murphy. Thank you.
+    I now recognize a new member of the subcommittee, Dr. 
+Bucshon, who is a cardiothoracic surgeon by training, and is 
+here from Indiana. Welcome to the subcommittee, and you are 
+recognized for 5 minutes.
+    Mr. Bucshon. Thank you, Mr. Chairman. First of all, I would 
+like to associate myself with the unanimous comments of our 
+expert panel in recommending that parents get their children 
+immunized to prevent childhood diseases. All my children are 
+immunized.
+    Based on the testimony we have heard today, it seems like 
+we could have had a monovalent vaccine available by maybe 
+December, and if that is true, Dr. Schuchat, do you lack the 
+authority to make that happen in that way, because through the 
+testimony, I think a lot of members have asked what can we do 
+to help, but for us, for Congress, to help, we have to have a 
+specific thing to help with. So is there new authority or any 
+other authority that would be helpful to make this happen?
+    Dr. Schuchat. I don't believe so. The key issues is a risk 
+assessment and trying to predict the most likely course of 
+events, but I believe there are authorities if the decision is 
+made to go ahead with the monovalent, whether for pandemic or 
+for drift.
+    Mr. Bucshon. OK. As a healthcare provider, I know that, you 
+know, liability is a significant issue in our American 
+healthcare system, and not only physician malpractice, but 
+product liability is a substantial issue, I know, that has an 
+effect on the healthcare industry. Anyone can comment on this. 
+Do product liability issues affect our ability to act in a more 
+nimble way when it comes to vaccines, because you do have 
+private companies that produce these. And so let us start with 
+that and then I will spearhead off from there.
+    Dr. Schuchat. The Vaccine Injury Compensation Program 
+exists so that product liability won't be a factor, so that we 
+can make sure that we have vaccines made but the people who are 
+injured by vaccines are compensated. And so the funding from 
+that comes from an excised tax on every vaccine dose that is 
+sold, so that we know that vaccines are very safe, but there 
+are sometimes rare, important complications, and the Injury 
+Compensation Program exists for those families who have been 
+injured.
+    Mr. Bucshon. OK. Thanks for clarifying that, and I think 
+that is important to understand.
+    Dr. Midthun, from the FDA's standpoint, is there--how do I 
+want to say this--a risk-averse regulatory process? It seems 
+like at the FDA, you know, over a number of years--but for a 
+variety of reasons have--I think been, in my view, sometimes 
+overly cautious with new products or changing quickly. Do you 
+see that as an issue, you know, and that comes into the 
+liability issue again, is there resistance or reluctance to 
+quickly move based on the concern about these type of things?
+    Dr. Midthun. No, I don't see that. I think in the influenza 
+domain, we, every year, are primed to approve the new vaccine 
+strains that are recommended for inclusion in the vaccine those 
+years. I think also our record of having approved since 2003--I 
+think in 2003 we had three licensed influenza vaccines. Today 
+we have 16 licensed influenza vaccines, including our cell-
+based, recombinant-based, quadrivalent, high-dose, and also I 
+should point out that many of those we actually approved using 
+accelerated approval, which actually allows us to approve 
+something based on the new response that is likely to predict 
+clinical benefit. And so we have used accelerated approval 
+regulations to approve many of those and get them to market 
+more quickly. So I think we--and also I should point out we 
+approved the novel adjuvanted H5N1 vaccine in 2013. So I think 
+that we really looked very carefully, and balanced the benefits 
+and the risks, and are really very flexible.
+    Mr. Bucshon. Great. That is good to hear.
+    There is a recent CDC study that looked at clinician 
+practices on patients that come to the emergency room with--and 
+the data is striking, only 16 percent of patients with 
+laboratory-confirmed influenza were prescribed antiviral drugs.
+    So the first question I have, do they work? Do the 
+antiviral drugs work?
+    Dr. Schuchat. Yes, last week there was a new meta-analysis 
+of all the published and unpublished randomized control trial 
+data on Oseltamivir, and it shed new light on the benefits as 
+well as potential risks that--there is----
+    Mr. Bucshon. So they----
+    Dr. Schuchat [continuing]. Benefit for the work.
+    Mr. Bucshon. Short answer, they do work, because I am 
+running out of time.
+    Dr. Schuchat. Yes.
+    Mr. Bucshon. Because surprisingly, 30 percent of the 
+patients with laboratory-confirmed influenza were--30 percent 
+were prescribed one of three common antibiotics, which are for 
+bacteria, not viruses. Is there anything that we can do to 
+better, you know, as a physician, better make the, you know, 
+change that practice? Maybe Dr. Fauci can answer that.
+    Dr. Fauci. Yes, that is another whole issue of 
+antimicrobial resistance, which we have even discussed before 
+this committee. So certainly, over the last year, there has 
+been an extraordinary effort on the part of the Congress and 
+the administration in everything from executive orders to 5-
+year plans to counter the kinds of practices that lead to 
+antimicrobial resistance, and one of the most common, as I am 
+sure you are aware, sir, is that someone comes in with a viral 
+infection and they get an antibiotic. That is very, very 
+common, unfortunately.
+    Mr. Bucshon. I yield back, Mr. Chairman.
+    Mr. Murphy. Thank you.
+    I now recognize a new member to the committee, Ms. Yvette 
+Clarke, who represents--Ms. Schakowsky is next? I am sorry, I 
+thought Clarke was next.
+    Ms. Schakowsky. I was here earlier.
+    Mr. Murphy. All right, thank you.
+    Ms. Schakowsky. Thank you, Mr. Chairman.
+    So if the vaccine that we are using now has been viewed as 
+23 percent effective, and usually in the past it has been 50 to 
+60 percent effectiveness, are we seeing--maybe it is Dr. 
+Schuchat, are we seeing a commensurate increase in the 
+incidents of flu?
+    Dr. Schuchat. Yes. When we compare this season with 2 years 
+ago, the 2012/13 season, the last big H3N2 season, much of the 
+pattern is similar, but our hospitalizations in the elderly are 
+much higher at the same time this year. So we will get the end-
+of-season statistics, but it has been a very bad year for the 
+elderly.
+    Ms. Schakowsky. I see. So the lab tests predicted 23 
+percent----
+    Dr. Schuchat. Um-hum.
+    Ms. Schakowsky [continuing]. But you are seeing it actually 
+out in the country, that it is also much higher?
+    Dr. Schuchat. Right. Yes, we are seeing, you know, both the 
+lab mismatch and then our vaccine effectiveness low estimate, 
+and then the incidents of the hospitalizations is high.
+    Ms. Schakowsky. OK. With the passage of the Affordable Care 
+Act in 2010, we took important steps on preventive medical 
+coverage for free, and since the law went into effect, 
+approximately 76 million Americans have received no-cost 
+coverage for preventive services. So I am wondering if we are 
+seeing that there actually was an impediment to getting these 
+preventive services, vaccines, because of the cost, and now 
+without the cost, that more people are making that available to 
+themselves.
+    Dr. Schuchat. For influenza vaccine, I think it is too soon 
+for us to see, but we do know that there are important 
+disparities in influenza vaccination coverage, and that insured 
+people have been more likely to be vaccinated than uninsured. 
+So I think that over the years ahead, we may start to see some 
+progress there.
+    Ms. Schakowsky. So we do think, although we don't have the 
+new data----
+    Dr. Schuchat. Um-hum.
+    Ms. Schakowsky [continuing]. That cost has been a barrier 
+in the past----
+    Dr. Schuchat. That is right. We----
+    Ms. Schakowsky [continuing]. Is that what you think?
+    Dr. Schuchat. And we know even for the workplace, for 
+instance, when workplaces will offer flu vaccine for free for 
+workers or, particularly for healthcare workers, the uptake is 
+better than when it is out-of-pocket, off-site, need-to-seek 
+vaccine.
+    Ms. Schakowsky. I think it is great that we are having this 
+hearing today because this whole question of vaccines, as many 
+of my colleagues have mentioned, has really been in the news, 
+and it is disturbing that a number of high-profile political 
+figures have weighed in on this in a negative way, I would say, 
+that this is, you know, parents should make the decision, and I 
+have seen some children that have been deeply affected by 
+vaccines in a negative way. What I am wondering is, what is the 
+public health outreach effort to make sure that--you heard my 
+colleague Marsha Blackburn talking about the mom blogs. I mean 
+there is a lot that is going on, not only on television, and I 
+am glad you were on, Dr. Fauci, and that is very important that 
+we get the message out in every medium, but I am just wondering 
+if we are also just looking at how people are communicating 
+with each other in the social media and getting the facts out.
+    Dr. Schuchat. Yes, we spend quite a bit of time and 
+attention monitoring the social media as well as the general 
+media, and we work closely at the national level, but also at 
+the State and local level, on communication, both direct to 
+consumer as well as through clinicians and other trusted 
+partners, because we think getting information that speaks to 
+you close to where you are is really important in your health 
+behaviors.
+    I would just like to say that the vast majority of parents 
+vaccinate their kids against most of the recommended diseases 
+on time, and yet there are some minor voices that get a lot of 
+attention.
+    Ms. Schakowsky. Exactly. I think maybe we need to make sure 
+we communicate with all political voices as well that are out 
+there to make sure that we are communicating the science, the 
+facts, that suggest that all parents should vaccinate their 
+children.
+    So I yield back.
+    Mr. Murphy. All right, now we recognize Mr. Flores from 
+Texas, who is also new to this committee. Third term in 
+Congress, and we welcome him to this subcommittee.
+    Mr. Flores. Thank you, Mr. Chairman. I also want to thank 
+the panel, particularly for your positive comments regarding 
+the benefits of having children vaccinated for measles. I have 
+an extended family member who has not done that for her 
+children yet, and it just baffles me why she can't do that. And 
+so I hope she is hearing this today, that she heard your 
+comments, and that she will do so.
+    I want to talk about the weakness in the strain selection 
+process, and talk about the opportunities to mitigate that 
+weakness. And I want to focus my questions to you, Dr. 
+Robinson, because BARDA is a tool, I think, that we have to do 
+this.
+    And so my first question is this. Is BARDA funding any 
+projects or initiatives to develop two things: one, better 
+testing technologies, or two, better approaches for making the 
+vaccine candidates?
+    Dr. Robinson. So the answer is yes on both. In my 
+testimony, I identified that we were supporting the development 
+of evolutionary biology methods that would actually help the 
+existing methods inform what strains are out there. There are 
+only so many ways a virus can mutate.
+    Mr. Flores. Right.
+    Dr. Robinson. And we know that you can do the experiments 
+to show which ones would predominate, and that may actually 
+inform which ones we may see the next season. And certainly, 
+the underpinning of that the NIH has funded over the years, and 
+so we are moving forward primarily for our pandemic purposes, 
+but certainly could be used in seasonal. So that is one way 
+towards the selection, and then informing new vaccine designs.
+    Mr. Flores. OK.
+    Dr. Robinson. Secondly, with the technologies, we have 
+supported with our colleagues here from NIH, CDC, and FDA, new 
+technologies to make these vaccines, whether it be cell-based 
+or recombinant. And working with the NIH, we are looking at 
+universal flu vaccine candidates with a number which Dr. Fauci 
+enumerated of going forward. It is not because those 
+technologies haven't been tried before, but as he explained, 
+there is a limitation in how the body actually sees these viral 
+proteins. And so there are some new ways now that we can do 
+that, we couldn't do before.
+    Mr. Flores. And in terms of looking at BARDA's priorities, 
+where would you say that getting these better technologies for 
+the strain selection process is in your sort of list of all the 
+things you have to do on your wish list?
+    Dr. Robinson. Yes. Well----
+    Mr. Flores. Is it in the top third, or the middle, or the 
+bottom, or----
+    Dr. Robinson. No, it is at the top.
+    Mr. Flores. OK.
+    Dr. Robinson. Yes.
+    Mr. Flores. Great. Sounds like we should keep it there, 
+from what I am hearing today.
+    The third question is how can we expedite the development 
+and deployment of better technologies, say, use of genetic 
+sequencing, to detect virus change, which you have talked 
+about, to ensure that the U.S. has a vaccine that can be 
+matched to a drifted H3N2 strain?
+    Dr. Robinson. Certainly, one of the ways that we actually 
+have employed with biosynthetic technology work with the Craig 
+Venter Institute and then one of the manufacturers. We did that 
+in 2013 with H7N9 to actually come up--what we didn't need the 
+traditional way of having the virus actually sent from one 
+laboratory to another. We actually had the nucleotide sequences 
+available, then using that, and actually made the virus seed 
+strains and went forward with H7N9. Regardless of if it is an 
+egg-based or cell-based or recombinant, we can do that.
+    Mr. Flores. OK.
+    Dr. Robinson. And we are moving forward with those efforts 
+also.
+    I just want to say one other thing that Dr. Midthun had 
+talked about, and that is high production yield seed strains. 
+Why is that important? It means that the virus doesn't have to 
+be passaged to eggs or cells or medium many times because, very 
+early on, we can actually have high production seed strains, 
+and that is why the manufacturers keep passaging the virus to 
+get high production. If we had that immediately, then the virus 
+that actually is in the vaccine is going to be very similar to 
+the circulating virus.
+    Mr. Flores. Um-hum.
+    Dr. Robinson. Much more so.
+    Mr. Flores. OK. And then the last question I have: I have 
+always been fascinated with the initiatives to try to develop 
+the universal flu vaccine, and I appreciate what Dr. Fauci 
+talked about today, and educating the committee and 
+subcommittee on how to do that.
+    What role does BARDA play in the development, deployment 
+and stockpiling of a universal flu vaccine?
+    Dr. Robinson. So certainly hand in hand with the NIH, we 
+are moving forward with the development, not only for seasonal, 
+as I had pointed out, for pandemic purposes. It may serve as a 
+primer for future pandemic vaccines. Again, you may only need 
+one dose of the pandemic vaccine as opposed to two which you 
+normally would need. And so we can stockpile that vaccine or 
+actually have it as part of our commercial products that are 
+out there every year.
+    Mr. Flores. OK. Thank you for your responses. As you know, 
+this is important to me because you have a facility in my 
+district that I think is doing some great work.
+    Mr. Chairman, I yield back.
+    Mr. Murphy. Thank you.
+    And now I recognize Ms. Clarke of New York, the Brooklyn 
+area, as a new member of the subcommittee. Welcome. You are 
+recognized for 5 minutes.
+    Ms. Clarke. Thank you very much, Mr. Chairman.
+    Being the low one on the totem pole, oftentimes, it comes 
+with the territory.
+    Let me welcome our panelists as well, and pick up on some 
+of the line of questioning that my colleague Mr. Tonko raised 
+with respect to research.
+    So, Dr. Fauci, your testimony discussed the potential for a 
+universal flu vaccine that could provide protection against 
+numerous strains of the flu over several seasons. What can you 
+tell us about the research on this vaccine?
+    Dr. Fauci. OK. So the research on this vaccine, as I had 
+mentioned, really starts off with the fundamental basic 
+observation that a part of the protein that is the target of 
+the vaccines that we have developed over decades is one that, 
+unfortunately, has a component of it that tends to change from 
+season to season. We refer to that as a drift. Big change is 
+the shift. The part that doesn't change is the part that we 
+have just recently recognized on the thin stem part of the 
+protein that we now know that if you show it to the immune 
+system in a certain way, and you can only do that by molecular 
+biological techniques because, generally, when you show the 
+immune system the whole virus, the part that you really wanted 
+to make an immune response is crowded out and covered by the 
+larger part. So now you are essentially teasing it out and 
+showing the immune system just the part that you want to make a 
+response again. And we have done that. We have done it with a 
+number of different platforms, and we have shown now in a small 
+animal, in a ferret, and now even in a human, that, A, it is 
+feasible, B, it is safe, and C, it does induce the kind of 
+response that you would predict would have a much broader 
+effect.
+    So that is the real first solid step. We have to perfect 
+that, and then we have to show in a broad study that it 
+actually does protect against multiple strains.
+    Ms. Clarke. That sounds very promising, Dr. Fauci.
+    Dr. Robinson, you mentioned in your testimony a new 
+initiative to support development of new flu vaccine candidates 
+that offer broader, longer-lasting immunity. Can you tell us 
+more about this initiative?
+    Dr. Robinson. Certainly. We are working with Dr. Fauci with 
+many of the candidates that he has talked about, and in 
+addition, there are other ways in which we can broaden the 
+immunity. Some might be with adjuvants, and other designs of 
+the vaccines going forward, and not only for seasonal but for 
+pandemic purposes.
+    Ms. Clarke. So it sounds like we are moving into the 21st 
+century.
+    Dr. Robinson. Yes.
+    Ms. Clarke. Very well. Very well. I would like to shift a 
+bit to the idea of strains, the strain selection process, Dr. 
+Midthun. Can you outline the role of the FDA's Vaccines and 
+Related Biological Products Advisory Committee in the strain 
+selection process, and when does this process actually begin?
+    Dr. Midthun. The process is actually year-round. CDC and 
+other WHO collaborating centers for influenza are monitoring 
+influenza strains year-round to be looking for trends, changes, 
+emerging situations, so that is going on all the time. Then you 
+have----
+    Ms. Clarke. How does the advisory committee arrive at its 
+recommendations on the selection of a strain?
+    Dr. Midthun. OK. So what happens in usually February or 
+early March, when the Vaccines Advisory Committee meets, is 
+that we have experts come and present the data on the influenza 
+strains that have been circulating over really the last year, 
+and those strains are evaluated to see which appear to be 
+prevalent, and really based on those data a decision is made 
+about which vaccine strains should be included in the vaccine 
+manufacturing. And then once that recommendation is made, of 
+course, the manufacturers then use that information to start 
+manufacturing their vaccines. But I think a very important 
+point to note is that, typically, manufacturers actually start 
+manufacturing the vaccine before the advisory committee is even 
+held. They usually start in January. Why? Because they are 
+aware of the data also. As I mentioned, this is an ongoing 
+process year-round, and so they will usually anticipate what 
+they think will be the strain that is not going to change. They 
+do this at risk, but the point is that----
+    Ms. Clarke. That is what I was going to ask----
+    Dr. Midthun [continuing]. It is a process----
+    Ms. Clarke [continuing]. Has there ever been an incident 
+where perhaps the advisory committee did not necessarily agree 
+and the manufacturer is already proceeding?
+    Dr. Midthun. Yes, that can happen. I mean you would have to 
+ask individual manufacturers----
+    Ms. Clarke. Yes.
+    Dr. Midthun [continuing]. But I suspect that that has 
+definitely happened, although, typically, I think they will go 
+with something that they think, based on the data, is unlikely 
+to change. But it really is a process where we make the 
+recommendation in February, but clearly, there is a lot of work 
+that precedes that and there is a lot of work that continues 
+after that to actually have vaccine available. And usually 
+vaccine becomes available in July, August, that time frame, and 
+then it is continued to be released really throughout the end 
+of October. So you can see it is a process that, even though 
+you do a recommendation in February, and much work starts 
+before that even, it really does take many, many months to 
+actually have vaccine available for the influenza season----
+    Mr. Murphy. Thank you.
+    Dr. Midthun [continuing]. Which, you know, typically can 
+begin, you know, October, November, although sometimes not 
+until later.
+    Mr. Murphy. Thank you.
+    Ms. Clarke. Thank you.
+    Mr. Murphy. Thank you.
+    Now I recognize another new member for the committee, Susan 
+Brooks of Indiana, who has a second term of Congress. 
+Previously she was in the Homeland Security Committee and was a 
+U.S. Attorney. We look forward to you being a part of this 
+committee. You are recognized for 5 minutes.
+    Mrs. Brooks. Thank you, Mr. Chairman. I do want to thank 
+all of the witnesses for your work with respect to the public 
+health and safety of our citizens. On Homeland Security, I 
+chaired the subcommittee on emergency preparedness response and 
+communications, and this is something that we know everyone is 
+passionate about. I think, obviously, when we have an epidemic 
+the way we have right now, the public pays a lot more attention 
+to it, but I think the public also expects us to get it right. 
+And the public is expecting us to leave no stone unturned and 
+to continue to ask the questions and figure out how can we do 
+it better, how can we do it faster, what mistakes have we 
+learned from in the past, and what do we do to keep our country 
+safe.
+    This year is a much higher death toll, as you have said. In 
+Indiana, there were 72 deaths statewide. The year before, 70. 
+We have already had 108 deaths in Indiana, and it is just the 
+end of January, and the flu season, as I understand it, goes 
+often in through May, so we have a lot that we are very, very 
+concerned about. I spoke with the head of our Marion County, 
+which is Indianapolis' Public Health Department, and she has 
+indicated that the flu has gotten so severe in Indianapolis 
+that she is barring anyone under the age of 18 from visiting 
+hospitals. So if you are 15 years old and your mom is in the 
+hospital, you can't visit your mom. So we have reached, just to 
+let you know, as I am sure you know, and you are very focused 
+on this, but these types of precautions are obviously being 
+taken for the safety of the patients, but we also know, as we 
+have heard, vulnerable, you know, whether they are children or 
+seniors, are so vulnerable. But yet one of the things she also 
+shared with me, and she was explaining the ag. culture 
+technology that we use, and it takes a long time, but yet she 
+shared the new cell mediated technology that you have mentioned 
+in production is faster, but yet it is not widely used. And so 
+I would like to explore why.
+    You mentioned a cell-based facility in North Carolina. Can 
+we please talk a bit more about if these technologies are out 
+there, why are they not being more widely used? And I don't 
+know if, Dr. Schuchat, you want to start, and Dr. Robinson.
+    Dr. Schuchat. Yes, I will just make an overview comment 
+that production of flu vaccine has been increasing over the 
+past decade, with more, you know, factories in the U.S., more 
+companies, more products, but we also have to work on demand, 
+and the more vaccine we use every year, the more the companies 
+will make. They don't make lots of vaccine at a risk. And so it 
+is a cycle that is interdependent. But Dr. Robinson can talk 
+about the cell-based plant and some of the other manufacturing 
+efforts.
+    Mrs. Brooks. And is that correct, that a cell-based 
+technology would allow vaccines to be produced faster? Is that 
+correct or is that not correct?
+    Dr. Fauci. Not significantly faster. The cell-based is more 
+consistent, whereas eggs, you know, it depends on supply of 
+eggs, whereas you can keep growing up cells. I think that is a 
+common misconception that there is a game-changing difference 
+in the amount of time it takes. And the answer to that, and I 
+am sure Robin will verify that, isn't the case. You both have 
+to grow the virus, that is the problem, as opposed to in a 
+recombinant DNA or molecular technology, be able to make it 
+more quickly. So even though we welcomed the transition, and 
+hope we even do more from egg to cell, the answer for the time 
+frame itself is not going to be solved by cell-based 
+technology.
+    Mrs. Brooks. What is the answer to shorten the time of 
+production?
+    Dr. Fauci. And that is what I just said when I was talking 
+about changing from a need to grow the virus, to the ability to 
+do it from a molecular way where you actually develop a vaccine 
+by recombinant DNA technology, which doesn't require your 
+having to grow the virus. That is really the major 
+transformation from one platform to another.
+    Mrs. Brooks. Dr. Robinson, how do we----
+    Dr. Robinson. No, I agree with them. I mean that is where 
+we see the biggest savings in time is with recombinant 
+vaccines, but they are new and they are just with very limited 
+capacity, they will grow in time. With the cell-based vaccines, 
+we may even be able to shave a couple of weeks off than what we 
+have with the standard egg-based vaccines at this time.
+    The other issue is that it is a new product, and this is a 
+very competitive industry, and they are trying to get their 
+market share at this time. And as they improve to be equal to 
+or better, then they will actually become more commonplace in 
+the overall vaccine supply.
+    Mrs. Brooks. So are you saying that there is just one 
+manufacturer that is manufacturing in that manner?
+    Dr. Robinson. That is cell-based in the U.S., there is only 
+one licensed manufacturer.
+    Mrs. Brooks. Is there any issue in the licensing process?
+    Dr. Midthun. No, there is no issue in the licensing 
+process. We have approved one cell-based manufacturer and one 
+recombinant-based manufacturer. We basically work with anyone 
+who wants to come in and make a product, and we are there to 
+facilitate that process, but it really is up to, you know, the 
+sponsor to come in and say we would like to do this. Certainly, 
+you know, BARDA has done much to support some of these new 
+technologies, and certainly, again, we are grateful for the 
+support you have given in that regard.
+    Mrs. Brooks. OK.
+    Mr. Murphy. Thank you.
+    Mrs. Brooks. Thank you.
+    Mr. Murphy. We now recognize another new member of the 
+committee, Markwayne Mullin of Oklahoma. We welcome you, and 
+you are recognized for 5 minutes.
+    Mr. Mullin. Thank you, Mr. Chairman.
+    Dr. Robinson, my State of Oklahoma has been hit 
+particularly hard this year. According to Walgreens, Oklahoma 
+City is the number one place for prescriptions to be issued out 
+for Tamiflu. Tulsa is number five. I think we have had 
+somewhere like 50 deaths, and in the neighborhood of 1,300 
+individuals being hospitalized. My family was hit real hard 
+this year. Out of my five kids, four got it. My fourth 
+daughter, who is 6, received actually two different strains of 
+the flu. My wife and all my family missed the swearing in 
+because of the flu. And now it is kind of ironic that I am 
+sitting up here talking about this.
+    Just some follow-up questions. My understanding is, part of 
+the challenge of being able to respond to the mismatch vaccine 
+is the burden of regulations, but underneath declaration of 
+maybe an emergency, those regulatory burdens change. Is that 
+correct?
+    Dr. Robinson. Certainly, if a public health emergency is 
+declared then we can move forward, but there are regulatory 
+issues, I think Dr. Midthun may want to testify----
+    Mr. Mullin. No, I just wanted a yes or no on it. If it is 
+declared an emergency, those regulatory burdens change quite a 
+bit, right? OK.
+    In 2009, the President declared a public emergency during 
+the swine flu, or the H1N1, crisis. That is correct, right?
+    Dr. Robinson. Correct.
+    Mr. Mullin. How many cases of swine flu had been confirmed, 
+not deaths but had been confirmed in the U.S., when the 
+President declared that public emergency?
+    Dr. Robinson. I think Dr. Schuchat can answer that.
+    Dr. Schuchat. I don't have the numbers, but there was a----
+    Mr. Mullin. It was 20.
+    Dr. Schuchat [continuing]. An enormous change in the 
+epidemiology----
+    Mr. Mullin. We do have the number, there were 20 of them 
+that was in that----
+    Dr. Schuchat. Well, but instead of flu coming down, it was 
+going up after the season----
+    Mr. Mullin. Right.
+    Dr. Schuchat [continuing]. With a completely different 
+strain.
+    Mr. Mullin. But there was----
+    Dr. Schuchat. So----
+    Mr. Mullin. But there was an emergency declared with only 
+20 confirmed cases in the U.S. There has already been 50 deaths 
+in just my State of Oklahoma.
+    Dr. Schuchat. Um-hum.
+    Mr. Mullin. So I am trying to make a comparison here.
+    I believe the flu season goes through May in the Northern 
+Hemisphere, is that correct? Right?
+    Dr. Schuchat. It can extend to May. It can end earlier.
+    Mr. Mullin. OK, what exactly is the definition of a public 
+health emergency? Dr. Robinson, do you want to take that? What 
+are the criteria of us meeting a public emergency?
+    Dr. Schuchat. Yes, a public health emergency is not a 
+black-and-white definition.
+    Mr. Mullin. So there is no set of specific criteria that we 
+can look at, like the number of deaths or hospitalization to 
+determine what is in the public's best interest as far as a 
+health emergency?
+    Dr. Schuchat. Yes, the issue with a pandemic is that the 
+potential impact is exceptionally greater than the normal 
+range. It----
+    Mr. Mullin. So it doesn't matter how many deaths we have, 
+it is just 100 percent of----
+    Dr. Schuchat. One would be----
+    Mr. Mullin [continuing]. CDC to make that----
+    Dr. Schuchat. One would be declaring that much in advance 
+of seeing the deaths, because of the time needed to take steps 
+to intervene.
+    Mr. Mullin. Would it help if Congress or you guys could 
+come up with maybe some criteria that we could look at that 
+could maybe trigger it, rather than just waiting for the next 
+crisis to happen, or, honestly, a public outcry?
+    Dr. Schuchat. I think we could probably provide the 
+language about a public health emergency. What I was trying to 
+say was that it is not the same for each condition, for each 
+disease or----
+    Mr. Mullin. I understand there is some type of flexibility 
+and, you know, there has got to be a little bit of more 
+understanding of what we are dealing with, but it seems odd 
+that there is no criteria at all for us to understand it----
+    Dr. Schuchat. Yes, I----
+    Mr. Mullin [continuing]. When something like the swine flu, 
+that just had 20 cases in the country, was declared an 
+emergency by the President, and yet we have a pandemic going on 
+right now with the flu, and we could have maybe changed some of 
+this with the regulatory burdens going through if we would have 
+declared it an emergency faster, where maybe we could have got 
+help to individuals.
+    Dr. Schuchat. In 2009, a new strain emerged from animals 
+that had genetic re-assortment that was completely unique to 
+humans. And so what we are dealing with with the drift is 
+slight changes, a very different scenario. But what you 
+indicate is correct that the ultimate burden of disease from a 
+drifted H3N2 strain may end up being greater than a completely 
+new to humans re-assortment like the H1N1----
+    Mr. Mullin. So----
+    Dr. Schuchat [continuing]. Swine-origin pathogen in 2009.
+    Mr. Mullin. Could you maybe help us maybe draw some type of 
+criteria that needs to be laid out so the next time this 
+happens, we could have something to compare it to?
+    Dr. Schuchat. We would be happy to provide follow-up on the 
+public health emergency and how that is defined. Sure.
+    Mr. Mullin. Thank you. I yield back.
+    Mr. Murphy. Thank you. Gentleman yields back.
+    I now recognize another new member of our committee and 
+subcommittee, Chris Collins of New York, a second term in 
+Congress. Welcome aboard, and you are recognized for 5 minutes.
+    Mr. Collins. Thank you, Mr. Chairman.
+    I will be as quick as I can to get the information really 
+directed more at Dr. Fauci and Dr. Schuchat.
+    And I appreciate your issue of the jump on swine flu, the 
+same thing we were worried about with the bird flu, that didn't 
+happen. That is the good news of RNA viruses, they don't jump 
+off to--but if they do, it can be devastating. So my question 
+is really on the universal vaccine discussion. And I don't 
+think it has been made clear here. We have DNA viruses and we 
+have RNA viruses. And when we talked about the vaccine for HPV, 
+the vaccine for herpes, smallpox, chickenpox, those are all DNA 
+vaccines. And it is relatively straightforward to get a vaccine 
+for a DNA-based virus. Then you have your RNA viruses; HIV, 
+Ebola, West Nile, SARS, influenza. They mutate a lot, that is 
+what they do, but they don't jump species much.
+    So my question is this: Since we are talking about an RNA 
+virus, so you can't compare influenza with HPV, you can't 
+compare influenza with herpes, and I don't think that was made 
+clear, but now that we are talking about an RNA-based virus, I 
+guess my question is this, because they mutate, drift so often, 
+that is the insidious nature of RNA viruses, which is why the 
+answer to a lot of the questions coming here is more because 
+they do mutate, that is the basis of that virus. So how is it 
+that since measles is an RNA virus, polio is an RNA virus, 
+rubella is an RNA virus, and so is mumps, so you have mumps, 
+measles, rubella, and polio on the one hand, RNA, and we have 
+vaccines for them, what is the difference in the reason we 
+don't have vaccines for things like influenza?
+    Dr. Fauci. You have asked a very complicated question, and 
+I can tell you that there is not a one-to-one relationship of 
+whether you can or cannot get a vaccine, whether it is an RNA 
+or a DNA vaccine. And also, RNA viruses do jump species. I mean 
+the----
+    Mr. Collins. Rarely.
+    Dr. Fauci. Yes--well, HIV, influenza, I mean, there is the 
+fowl virus that jumps, HIV, the chimp virus that jumps, so----
+    Mr. Collins. Yes, but much less----
+    Dr. Fauci. Yes.
+    Mr. Collins [continuing]. Likely than a DNA virus.
+    Dr. Fauci. But the things that go into whether or not--your 
+point is very well taken, that if you have in general, and----
+    Mr. Collins. Um-hum.
+    Dr. Fauci [continuing]. You have to be really careful when 
+you pick this one or the other one, in general, a virus that 
+has a proofreading mechanism, which RNA viruses have----
+    Mr. Collins. Right.
+    Dr. Fauci [continuing]. They don't correct their mistakes 
+when they mutate, allows it to do what influenza does----
+    Mr. Collins. Right. Right.
+    Dr. Fauci [continuing]. Drift. It allows it to do what HIV 
+does. If you give it one drug, it will mutate to be resistant 
+unless you give it----
+    Mr. Collins. Sure.
+    Dr. Fauci [continuing]. Three drugs.
+    Mr. Collins. Sure.
+    Dr. Fauci. You are perfectly correct on that. However, it 
+really isn't specifically that. These are easy to make one 
+against, and these are difficult. It just doesn't work that way 
+because there are a lot of other things that go into whether or 
+not you are going to have a successful vaccine. But the 
+fundamental principles that you mentioned are correct.
+    Mr. Collins. So how did we end up with one for measles, 
+polio, and why has it been so god-awful, if not impossible, to 
+get one for HIV or influenza? Is there any----
+    Dr. Fauci. Well, the body makes a very good immune response 
+against measles, even when it is a serious disease. Ultimately, 
+the body will completely clear measles in the----
+    Mr. Collins. Right.
+    Dr. Fauci [continuing]. Overwhelming majority of people. So 
+we already know the body has the capability of inducing an 
+effective immune response, therefore, you follow what the body 
+does and you induce the same response that natural infection 
+does. With HIV, the body does not make an adequate immune 
+response against HIV, so there is no proof of----
+    Mr. Collins. Yes, but now, HIV, that is where the immune 
+system doesn't even see the viral particles.
+    Dr. Fauci. Well----
+    Mr. Collins. Now, that is different than influenza.
+    Dr. Fauci. Well, I am sorry, sir, it does see it, it just 
+doesn't make a good response.
+    Mr. Collins. It doesn't react to it.
+    Dr. Fauci. It doesn't make a good response----
+    Mr. Collins. Right.
+    Dr. Fauci [continuing]. Against it.
+    Mr. Collins. Right, but that is what is unique about HIV.
+    Dr. Fauci. Exactly. You need the body's ability to do it 
+naturally to mimic it. That is what vaccines are all about; 
+mimicking natural infection without----
+    Mr. Collins. Sure.
+    Dr. Fauci [continuing]. Hurting the host.
+    Mr. Collins. So one real quick question for Dr. Schuchat. 
+They use adjuvant-based vaccines in Europe. We don't do it 
+here. The question on the monocrobial, if we did that with an 
+adjuvant, we could extend that production, we could produce 
+much less, extend it, because you were saying production is the 
+big issue. If it was adjuvant-based, you wouldn't need as much. 
+Should we be looking at that as a natural part of the 
+monocrobial?
+    Dr. Schuchat. You know, I think that adjuvanted influenza 
+vaccines hold a lot of promise, and I know that the FDA has 
+licensed one so far in the U.S. In terms of extending the 
+supply and also----
+    Mr. Collins. Right.
+    Dr. Schuchat [continuing]. And also potentially expanding 
+the immune response. As you heard from some of the measles 
+discussions, here in the U.S. our population has a lot of 
+questions about vaccines and about their safety, and they have, 
+even in 2009 when we were doing community engagement around 
+H1N1 vaccination, we had lots of questions about whether there 
+would be adjuvants in those vaccines or not. In Europe, they 
+use adjuvanted----
+    Mr. Collins. Right.
+    Dr. Schuchat [continuing]. H1N1 vaccines and we didn't. Our 
+public really needs to come along with us in the scientific 
+endeavor, and so I think that is an area where the FDA is 
+really critical in reviewing the safety data.
+    Mr. Collins. Yes. Thank you very much.
+    Yield back, Mr. Chairman.
+    Mr. Murphy. Thank you, Mr. Collins.
+    And now as a tradition of this committee, if another member 
+of the committee wishes to be part of this, we will welcome 
+back a former member of the subcommittee for this special 
+visit, Mrs. Ellmers of North Carolina. You are recognized for 5 
+minutes.
+    Mrs. Ellmers. Thank you, Mr. Chairman, and thank you to our 
+ranking member also, for allowing me to be part of this 
+important subcommittee hearing on this very timely issue. And 
+to our panel, thank you for being here today.
+    And I just want to point out a couple of things. One, in 
+October, looking at this issue and knowing the importance of it 
+moving forward, especially when it comes to vaccine production, 
+I had the honor of hosting a roundtable discussion in the 
+Research Triangle. Dr. Midthun and Dr. Robinson, thank you 
+again for participating in that very important discussion. We 
+learned a lot from that. As we all know, Chairman Upton is 
+leading the 21st Century Cures Initiative, and the vaccine 
+space fits right in there. And I am working on very important 
+legislation right now to actually bolster vaccine production 
+and bring vaccines to market. As we know, it is very, very 
+important. And I have also the honor of having the facility in 
+Holly Springs, North Carolina, which has been referred to 
+already, which will be addressing the issue of seasonal and 
+pandemic vaccine production, using the cell culture technology. 
+Very important to my district. And I also want to point out, 
+and I think this is something that we need to look at into the 
+future when we are trying to solve these problems. This was a 
+public-private partnership between Novartis, HHS, and BARDA. 
+So, again, thank you all for your input today. This is a very, 
+very difficult situation, but I believe that we can get ahead 
+of it and we can move forward, and we can identify ways that we 
+can improve upon this process.
+    Dr. Schuchat, I have a question for you. In the legislation 
+that I am working on right now, my bill, we create mechanisms 
+to help increase the communication and sharing between the CDC 
+and industry, and ways that we can get that information out to 
+impact public health. In your opinion, how can the CDC work 
+more closely in partnership with industry to reduce the risk 
+and uncertainty of investing in the novel vaccines?
+    Dr. Schuchat. We appreciate the chance to work closely with 
+industry as they are doing their early development and 
+research.
+    Mrs. Ellmers. Um-hum.
+    Dr. Schuchat. We welcome companies to come meet with us to 
+share their ideas, and we----
+    Mrs. Ellmers. Um-hum.
+    Dr. Schuchat [continuing]. Share all of the information----
+    Mrs. Ellmers. Um-hum.
+    Dr. Schuchat [continuing]. We have in terms of the public 
+health burden----
+    Mrs. Ellmers. Um-hum.
+    Dr. Schuchat [continuing]. Need and likely interest in 
+terms of public or providers.
+    Mrs. Ellmers. Um-hum.
+    Dr. Schuchat. So we do that regularly, and we welcome the 
+opportunity to do it systematically.
+    Mrs. Ellmers. Dr. Midthun, again, thank you for being here, 
+and again, thank you for being a participant in the roundtable 
+discussion that I had back in the District in October. As we 
+are looking at vaccine manufacturers to more readily export 
+vaccines from the U.S. and make them available to people around 
+the world, again, the legislation that we are working on right 
+now helps to expedite the licensure process. In addition to 
+expediting export licenses, what else can the FDA do to help 
+speed up production and approval on delivery of flu vaccine 
+availability?
+    Dr. Midthun. No, I think we currently use all the expedited 
+pathways that are available. So we can use accelerated 
+approval, which we----
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun [continuing]. Have done for numerous influenza 
+vaccines.
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun. We also did recently for the 2 meningococcal B 
+vaccines that we approved; one in October and one just last 
+month. We also used the breakthrough designation which 
+basically means that there is a very concerted interactive 
+approach early on and throughout the process with industry to 
+really accelerate the development of products. So we use all of 
+these tools, and they are very important. They, of course, do 
+rely on having certain science.
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun. So, for example, to use----
+    Mrs. Ellmers. Sure.
+    Dr. Midthun [continuing]. Accelerated approval, you 
+typically rely on what we call a surrogate endpoint. Usually in 
+the case of a vaccine it would be some immune response. But you 
+need to have information that actually indicates that this 
+immune response is----
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun [continuing]. Is really likely to predict 
+clinical benefits. So there is also a scientific piece that is 
+very, very important that others, for example----
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun [continuing]. In industry, NIH, and other 
+partners, need to work on----
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun [continuing]. To make that kind of----
+    Mrs. Ellmers. Um-hum.
+    Dr. Midthun [continuing]. Process available, but we work 
+very closely, obviously, with our sponsors to facilitate 
+whatever their development plans are.
+    Mrs. Ellmers. Thank you. And one last comment that I would 
+like to make, Mr. Chairman, if you would indulge me. One of the 
+concerns that was raised by Mr. Tonko from New York, having to 
+do with the issues that our families are dealing with, with 
+sick children and having to take time off of work, I would 
+advocate for my good friend, Martha Roby from Alabama, she has 
+a wonderful bill, Working Families Flexibility Act, that 
+actually addresses this issue and allows our workforce to be 
+able to take part in the availability and ability to use 
+overtime and bank it so that in the event that pediatric 
+appointments need to be made, or any of these things, families 
+can make those choices. So I would advocate to the co-
+sponsorship of that bill. It is a very good bill, and it 
+addresses the very issues that we are talking about today.
+    Mr. Murphy. Thank you.
+    Mrs. Ellmers. So thank you, Mr. Chairman, and I----
+    Mr. Murphy. Thank you.
+    Mrs. Ellmers [continuing]. Yield back.
+    Mr. Murphy. And I want to thank the panelists. Look, I 
+think we are all frustrated, we need to be speeding up this 
+process and the science, and if there are other legislative 
+things we need to do, please let us know. This is the day after 
+Groundhog Day, and I don't want to be here with another 
+Groundhog Day a couple of years from now running into the same 
+problems, with the same issues, and having the same crisis with 
+so many Americans getting sick and dying for whatever this is. 
+So I ask----
+    Ms. DeGette. Would the gentleman yield for one second?
+    Mr. Murphy. Yes.
+    Ms. DeGette. I completely agree with the Chairman, but I 
+will say I want to commend this panel and others at the CDC and 
+NIH because, having been on this committee now for 18 years, we 
+really have made advances from when we first started with those 
+early hearings on egg-based technologies. We just need to 
+accelerate that. So anything we can do to help, we are here to 
+help. Thank you.
+    Mr. Murphy. Appreciate that. I ask unanimous consent that 
+Members' written opening statements be introduced into the 
+record, and without objection, the documents will be entered in 
+the record.
+    In conclusion, thank you again to the witnesses and Members 
+that participated in today's hearing. I remind Members they 
+have 10 business days to submit questions for the record, and I 
+ask that all witnesses agree to respond promptly to those 
+questions.
+    And with that, this committee is adjourned. Thank you.
+    [Whereupon, at 12:34 p.m., the subcommittee was adjourned.]
+    [Material submitted for inclusion in the record follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+    
+                             [all]
+</pre></body></html>

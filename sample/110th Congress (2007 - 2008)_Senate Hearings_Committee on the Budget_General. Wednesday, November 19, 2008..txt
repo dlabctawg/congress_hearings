@@ -1,0 +1,2222 @@
+<html>
+<title> - THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS</title>
+<body><pre>
+[Senate Hearing 110-884]
+[From the U.S. Government Printing Office]
+
+
+
+
+                                                       S. Hrg. 110-884
+
+ 
+             THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                        COMMITTEE ON THE BUDGET
+                          UNITED STATES SENATE
+
+                       ONE HUNDRED TENTH CONGRESS
+
+                             SECOND SESSION
+
+                               ----------                              
+
+
+    November 19, 2008--THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS
+
+                                    
+                                     
+
+
+
+             The Economic Outlook and Options for Stimulus
+             THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS
+
+
+                                                        S. Hrg. 110-884
+
+             THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                        COMMITTEE ON THE BUDGET
+                          UNITED STATES SENATE
+
+                       ONE HUNDRED TENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+
+    November 19, 2008--THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS
+
+                                     
+                                     
+
+
+
+
+           Printed for the use of the Committee on the Budget
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+47-518                    WASHINGTON : 2009
+-----------------------------------------------------------------------
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092104 Mail: Stop IDCC, Washington, DC 20402�090001
+
+
+                        COMMITTEE ON THE BUDGET
+
+                  KENT CONRAD, NORTH DAKOTA, CHAIRMAN
+
+PATTY MURRAY, WASHINGTON             JUDD GREGG, NEW HAMPSHIRE
+RON WYDEN, OREGON                    PETE V. DOMENICI, NEW MEXICO
+RUSSELL D. FEINGOLD, WISCONSIN       CHARLES E. GRASSLEY, IOWA
+ROBERT C. BYRD, WEST VIRGINIA        WAYNE ALLARD, COLORADO
+BILL NELSON, FLORIDA                 MICHAEL ENZI, WYOMING
+DEBBIE STABENOW, MICHIGAN            JEFF SESSIONS, ALABAMA
+ROBERT MENENDEZ, NEW JERSEY          JIM BUNNING, KENTUCKY
+FRANK R. LAUTENBERG, NEW JERSEY      MIKE CRAPO, IDAHO
+BENJAMIN L. CARDIN, MARYLAND         JOHN ENSIGN, NEVEDA
+BERNARD SANDERS, VERMONT             JOHN CORNYN, TEXAS
+SHELDON WHITEHOUSE, RHODE ISLAND     LINDSEY O. GRAHAM, SOUTH CAROLINA
+
+
+                Mary Ann Naylor, Majority Staff Director
+
+                Denzel McGuire, Minority Staff Director
+
+                                  (ii)
+
+
+                            C O N T E N T S
+
+                               __________
+
+                                HEARINGS
+
+                                                                   Page
+November 19, 2008--The Economic Outlook and Options for Stimulus.     1
+
+                    STATEMENTS BY COMMITTEE MEMBERS
+
+Chairman Conrad..................................................     1
+Ranking Member Gregg.............................................    11
+
+                               WITNESSES
+
+Simon Johnson, Senior Fellow, Peterson Institute for 
+  International Economics........................................47, 50
+John B. Taylor, Mary and Robert Raymond Professor of Economics, 
+  Standford University, and Senior Fellow, Hoover Institute......    64
+Mark Zandi, Chief Economist and Cofounder, Moody's Economy.com...13, 18
+
+
+             THE ECONOMIC OUTLOOK AND OPTIONS FOR STIMULUS
+
+                              ----------                              
+
+
+                      WEDNESDAY, NOVEMBER 19, 2008
+
+                                       U.S. Senate,
+                                   Committee on the Budget,
+                                                    Washington, DC.
+    The committee met, pursuant to notice, at 10:04 a.m., in 
+room 608, Dirksen Senate Office Building, Hon. Kent Conrad, 
+chairman of the committee, presiding.
+    Present: Senators Conrad, Murray, Nelson, Cardin, Sanders, 
+Whitehouse, Gregg, and Sessions.
+
+              OPENING STATEMENT OF CHAIRMAN CONRAD
+
+    Chairman Conrad. The hearing will come to order. I want to 
+welcome everyone to the Budget Committee. Today's hearing will 
+focus on the nation's economic outlook and the options for 
+stimulus. We have birds chirping there, birds chirping in the 
+sound system.
+    I hope that this hearing proves timely because this is very 
+central to the discussion and debate about what needs to be 
+done to stimulate the economy, both during this truncated 
+session, but also when Congress resumes, and we are being told 
+that we will be right back at it during the first part of 
+January, so no one should expect that the usual rhythm of this 
+place will be the rule.
+    I would like to particularly welcome our witnesses this 
+morning, Mark Zandi, who has testified before this committee 
+before and whom we see as a very valuable resource for this 
+committee. He is the Chief Economist and co-founder of Moody's 
+Economy.com.
+    Simon Johnson, Senior Fellow at the Peterson Institute for 
+International Economics and Professor of Entrepreneurship at 
+MIT's Sloan School, welcome. It is good to have you here.
+    And John Taylor, Senior Fellow at the Hoover Institution 
+and Professor of Economics at Stanford University, my alma 
+mater. I was there with our grandson this summer and I was 
+showing him around and we had a wonderful time.
+    This is a distinguished panel and I very, very much 
+appreciate your being willing to come and share your thoughts 
+with us.
+    Let me just start with a few charts to put our current 
+circumstance in some perspective. The downturn has featured a 
+dramatic collapse in the housing market. All of us know that. 
+We can see what has happened to the home foreclosure rate. It 
+remains at the highest level ever. The housing decline rippled 
+through the rest of our economy and helped trigger the 
+financial market crisis.
+
+[GRAPHIC] [TIFF OMITTED] T7518.001
+
+
+    Let us go to the next slide, if we can. Credit markets were 
+essentially frozen from late September through mid-October. 
+This chart shows the clearest measure of what happened to our 
+credit markets.
+
+[GRAPHIC] [TIFF OMITTED] T7518.002
+
+
+    This is the so-called TED spread, the difference between 
+the interest rate at which banks can borrow from each other 
+based on the London Interbank Overnight Rate and the rate on 
+U.S. Treasury bills. It shows that the typical difference 
+between the two, which is relatively modest, has absolutely 
+skyrocketed. In fact, it went up ninefold before now falling 
+back after all of these dramatic policy interventions, but 
+still remains very high by historical standards.
+    Third, we have lost 1.4 million private sector jobs since 
+December of last year, with 263,000 jobs lost in October alone.
+
+[GRAPHIC] [TIFF OMITTED] T7518.003
+
+
+    Fourth, the economy is expected to contract further. We saw 
+the economy shrink by three-tenths of 1 percent of GDP in the 
+third quarter of this year. The blue chip consensus is that it 
+will shrink by 2.8 percent of GDP in the fourth quarter.
+
+[GRAPHIC] [TIFF OMITTED] T7518.004
+
+
+    Fifth, retail sales have plummeted, falling 2.8 percent in 
+October. What we are hearing from retailers around the country 
+is that retail sales continue to slide. I am very pleased to 
+report in my home State of North Dakota, retail sales are 
+actually increasing during this period. So if anybody is 
+looking for a job or economic opportunity, we welcome you to 
+North Dakota.
+
+[GRAPHIC] [TIFF OMITTED] T7518.005
+
+
+    The unemployment rate has now climbed to 6.5 percent, so 
+clearly the economy is struggling and we have to act. That is 
+why we are here discussing a stimulus package today.
+
+[GRAPHIC] [TIFF OMITTED] T7518.006
+
+
+    There are several options to be considered. Many economists 
+are urging that a package must be large enough to have an 
+impact. We have heard estimates anywhere from, at the low end, 
+1 percent of GDP of a stimulus package to 3 percent of GDP. 
+Just to put that in some perspective, we have about a $14 
+trillion economy, so we are talking about a stimulus package of 
+anywhere from $140 billion to $420 billion. We have even heard 
+some say that a stimulus package should be as much as $500 
+billion. We have seen what China has done with a package of 
+well over $500 billion on a much lower base in terms of the 
+size of our economy than ours.
+
+[GRAPHIC] [TIFF OMITTED] T7518.007
+
+
+    In terms of specific options, we could extend unemployment 
+insurance. That is considered stimulative because it goes to 
+people who need it the most and who are most likely to spend 
+those dollars. We could also do the same with Food Stamp 
+assistance, broaden it, extend it. Again, those are dollars 
+that are considered highly stimulative.
+    Third, we could fund ready-to-go and near-term 
+infrastructure projects. Typically, that is looked on somewhat 
+dimly by those in the economic profession because often those 
+packages are too slow to get into the economy to be considered 
+timely. I think in this circumstance, we need to look again at 
+infrastructure projects.
+    I have just done community forums in 50 communities in 
+North Dakota. It was very interesting, the reaction. It was 
+overwhelming--overwhelming--in support of infrastructure 
+projects as a means of stimulating the economy.
+    And we could provide aid to homeowners. That is another 
+option.
+    The argument against infrastructure being effective, 
+because it can be often delayed, I think may be contradicted by 
+what we see as ready-to-go projects around the country. The 
+American Association of State Highway and Transportation 
+Officials has said that they have more than 3,000 ready-to-go 
+highway and bridge projects across the country. The group's 
+Executive Director said, and I quote, ``If Congress wants to 
+support small business, create thousands of jobs here at home, 
+and stimulate the economy, it should invest in the more than 
+3,000 ready-to-go highway projects that could be under contract 
+within the next 30 to 90 days.''
+
+[GRAPHIC] [TIFF OMITTED] T7518.008
+
+
+    I asked my own Transportation Director in North Dakota, 
+what is their circumstance. He told me they have in my small 
+State $300 million of projects ready to go. Engineering is 
+completed. Design is completed. Land is acquired. They are 
+ready to let contracts if they have the money.
+    I am very interested in hearing the views of our witnesses, 
+and with that, I want to turn to my very able colleague, 
+Senator Gregg.
+
+               OPENING STATEMENT OF SENATOR GREGG
+
+    Senator Gregg. Thank you, Mr. Chairman. Thank you for 
+calling this hearing and I appreciate the panel, which is an 
+expert panel, to say the least, participating also.
+    Obviously, we are confronting an economic situation which 
+is extraordinarily difficult and for a period, well, this is a 
+precipice which would have been potentially unique in our 
+experience and also catastrophic, with the potential meltdown 
+of our financial sector. We are still working through that 
+process of how we make sure that our financial sector remains 
+at least strong and substantive during these very difficult 
+times.
+    There has been some discussion, of course, as to what we 
+should do with the additional TARP money, which it appears it 
+will be $350 billion on the table for the next administration 
+to use. I believe Secretary Paulson has made it fairly clear 
+that at a minimum, that is what will be left available for use. 
+I think that is a good decision by Secretary Paulson, to allow 
+President-Elect Obama to make the decision as to how those 
+additional funds will be moved in the area of protecting and 
+promoting and strengthening our fiscal year structure.
+    I would like to hear the panel's comment as to what they 
+think should be done with those dollars, because those are 
+ready dollars, so to say, to quote Phil Gramm but in a 
+different context. What is important in my opinion is that we 
+put the dollars on the problem, and the problem is foreclosures 
+and stability of the real estate industry and the real estate 
+markets.
+    The decision by the Secretary to move the initial dollars 
+directly into capital restructuring of the financial 
+institutions which were at risk, I think was also the right 
+decision, because it was fairly clear that getting those 
+dollars out the door into the purchasing of non-performing 
+assets was going to be very difficult. Pricing those assets was 
+going to be extraordinarily difficult. Setting up the auction 
+process appeared to be extremely complex.
+    And although the Chairman and I worked very hard through a 
+long 48-hour period to put the bill together with the 
+expectation that it would be developed as a bill that would be 
+focused on troubled assets and getting those off the books of 
+the financial institutions, the decision to go directly to 
+capital infusion, I think, was a correct decision and has 
+stabilized those institutions and more institutions to come.
+    But the question now is with the additional $350 billion, 
+is there a structure which would allow us to use those dollars 
+effectively to get at the underlying problem of the real estate 
+pricing in this country and the overhead of inventory and 
+specifically at allowing people who are in their home as 
+homeowners, not as speculators, but are in their home as 
+homeowners to stay in their homes through some sort of 
+restructuring using those dollars, and does that have a 
+stimulus effect and does that help the situation if we did 
+that.
+    The second issue which is on the table right now, of 
+course, is the issue of dealing with the automobile companies 
+and their weakened situation, which is more than weak, it 
+appears, and whether or not it is appropriate for the Federal 
+Government to go beyond what is the already $25 billion that is 
+in the pipeline or whether that $25 billion should be 
+reoriented in some way to be gotten out the door faster and in 
+a more immediate way, as it appears to be at the present time 
+delayed. I would be interested in the thoughts of the panel on 
+that and what is the proper role relative to the question of 
+the automobile companies and should this include not only the 
+issue of compensation at the executive level, which it 
+obviously should include if the Federal Government steps in, 
+but also the issue of employee compensation and especially 
+retiree compensation.
+    I read, regrettably in my opinion, that the UAW has 
+rejected out of hand any action in that area as an element of 
+the taxpayers stepping forward. They appear to be willing to 
+let the taxpayers take the risk, but not their membership. It 
+would seem to me that any restructuring is going to have to by 
+definition, in order for these companies to survive, include 
+some sort of restructuring in the area of compensation, not 
+only at the executive level, but on the line, and so I would be 
+interested in your views on that.
+    Obviously, the Chairman has alluded to various types of 
+stimulus packages which are in consideration, the usual 
+suspects of the Keynesian philosophy, which is unemployment 
+extension and Food Stamps and initiatives in those areas, which 
+have a checkered history of actually creating economic 
+stimulus. In fact, we don't have to go too far back to see how 
+checkered that history is when we look at the first stimulus 
+package, which this Congress did this year earlier under the 
+$60 billion, the vast majority of which was simply a direct 
+repayment, rebate, whatever you want to call it, to Americans 
+of $600 or more and which I would be interested in the reaction 
+of this panel to what that stimulus package did and whether we 
+got value for our dollars.
+    It would seem to me, at the time, I said we should have 
+spent that money on the problem, which again was real estate 
+and stabilizing the real estate markets, especially ownership 
+by individuals who are in a home who are finding themselves 
+stressed by the fact the value of the home has dropped and the 
+cost of the mortgage has reset. But we decided not to take that 
+route. We decided instead to simply throw $600 in various 
+packets out of a helicopter across this country which was then 
+used to purchase Chinese goods, which may have stimulated the 
+Chinese economy but I don't think stimulated ours all that 
+much.
+    So I would be interested in getting the panel's view as to 
+what type of stimulus really does stimulate in the short term. 
+The Chairman has made the argument for infrastructure. I don't 
+have any argument or disagreement with the belief that 
+infrastructure in the long term is a good capital investment 
+for a nation. Building better roads, sewage systems, water 
+systems, transportation systems is a good investment for our 
+nation. But is it a short-term stimulus? That is a good 
+question. In fact, if you look at the proposals, it looks like 
+less than 20 percent of the dollars that are actually proposed 
+for infrastructure stimulus would actually be spent in 2009. If 
+that is the case, is it really a stimulus or is it a capital 
+improvement program for the long term?
+    So these are the questions which we are going to have to 
+answer as a Congress. I do agree with the President-Elect and 
+with the Chairman that a stimulus package is necessary, but how 
+do we do it? How do we do it right, and where should it be 
+focused? Should it be focused on the problem--obviously, I am 
+asking rhetorically--which is the real estate issue? Should it 
+be focused on the more philosophical approach, which would be 
+Keynesian philosophy? Or should it be focused on infrastructure 
+or some combination? And how do we deal with the real issue 
+that is immediately on our table, which is the question of the 
+automobile manufacturers, the American automobile 
+manufacturers?
+    So again, Mr. Chairman, I thank you for setting this 
+hearing up so that we can get some answers to these questions.
+    Chairman Conrad. Excellent questions that the Ranking 
+Member has laid out, and I want to again thank him and his 
+staff for their cooperation in setting up this hearing.
+    And with that, we will proceed to Dr. Zandi. Welcome.
+
+   STATEMENT OF MARK ZANDI, CHIEF ECONOMIST AND CO-FOUNDER, 
+                      MOODY'S ECONOMY.COM
+
+    Mr. Zandi. Well, thank you. Thank you, Mr. Chairman and the 
+rest of the committee, for the opportunity to be here today.
+    I strongly support the idea of a fiscal stimulus package 
+for early 2009 into 2010 for two broad reasons. First, the 
+economy is suffering a very severe recession that without 
+stimulus will last through 2009 well into 2010 and it will be, 
+in my judgment, the worst recession since the Great Depression, 
+not in the league of the Great Depression, but the worst since 
+that very dark time.
+    Second, I think monetary policy, while working very hard to 
+stimulate the economy, has been effectively neutered by the 
+collapse in the financial system. It is very difficult for the 
+lower interest rates and the liquidity that the Fed is 
+providing to the economy to actually have an impact quickly 
+because it only works through the financial system and the 
+system is broken, so credit is not flowing and the cost of 
+credit is not falling. Therefore, monetary policy is 
+particularly ineffective at this point in time, and therefore 
+that requires a fiscal stimulus response.
+    I think the stimulus package should be large, I think at 
+least $400 billion, which would be two-and-a-half, 3 percent of 
+GDP. I think that would be a good starting point. I think it 
+should be predominately temporary government spending 
+increases. I do think the tax cuts, while helpful, get diluted 
+in this environment because consumer confidence is completely 
+shot and people are going to save the money. They are not going 
+to spend it, and it is not going to be helpful near-term 
+stimulus, and probably that is what happened with the first 
+stimulus package.
+    I think aid to State government to help in their operating 
+expenses is absolutely vital. I think they are on the verge of 
+significant cuts to everything that they do, and that would be 
+very counterproductive in the current environment.
+    And I think infrastructure spending is a good idea. It has 
+a big bang for the buck, and I do think there are projects on 
+the table that can get started relatively soon that will have a 
+good measurable impact on the economy.
+    I think some tax cuts are also in order, and I will go 
+through that in a little bit more detail in a few minutes.
+    Let me just say, before I dive into a PowerPoint to 
+illustrate these points in more detail, I do think a much 
+broader foreclosure mitigation plan is necessary, that the 
+efforts to date, from FHA Secure to HOPE NOW to Hope for 
+Homeowners, are good steps, but they are significant 
+impediments for them to work in a significant way, and the 
+foreclosure problem is very, very serious and will get much 
+more serious next year and undermine all the good things that 
+we are trying to do and you are trying to do unless we keep 
+more people in their homes.
+    I also think that help for the auto makers is essential, 
+because I think they employ 250,000 people in the United 
+States, but 2.5 million jobs are at risk if they go into 
+bankruptcy, because if they go into bankruptcy, it is likely 
+going to be a liquidation. We will see a lot of shuttered 
+operations and a lot of lost jobs at just the wrong time. But I 
+do think the best way to help them would be a prepackaged 
+bankruptcy where the government would guarantee the financing 
+in bankruptcy, so that the bankruptcy court would be 
+responsible for restructuring the auto makers and making sure 
+that they are viable institutions, companies going forward. I 
+think that would be the most logical and best way to do it.
+    OK. Now having said that, let me just reinforce some of 
+these points with a few slides.
+    First, I think stimulus is needed because the economy is in 
+a very severe recession. Job loss has been serious. We have 
+lost, as you can see here, jobs since the beginning of the 
+year. This is the month-to-month change in jobs since January 
+of 2007 through October of 2008. We have lost 1.2 million jobs 
+since the beginning of the year.
+    The job losses are very broad-based across all industries. 
+The only industries that are adding to payrolls in a consistent 
+way are health care and educational services, a little bit of 
+defense, some ag, a little bit of energy, but that is it.
+    The job losses and the problems are very broad-based across 
+the country. Unlike other recessions, where the recessions were 
+very regionally focused, this is coast to coast. This shows the 
+States that I think nationwide that are in recession. They are 
+in red. There are 30 States in all. The States that are in 
+orange, they are not in recession but they are at risk. Not all 
+of them will fall into recession. I don't think North Dakota 
+will fall into recession. Wyoming, I doubt it. Texas probably 
+will skirt by. But many of these States will end up in 
+recession, and this is very disconcerting because in other 
+recessions, people who got unemployed, let us say in 
+California, had a place to go for a job. They could move to 
+Phoenix or Las Vegas or Oregon. Now there is no obvious place 
+to go. You are really stuck, and that is, I think, one of the 
+reasons why consumer confidence is as weak as it is.
+    The other distinguishing feature of this recession is that 
+it is being led by consumers. Most other recessions have been 
+led by over-leveraged businesses that got caught when the 
+economy turned and had to pull back and cut hiring and 
+investment. This go-around, it is being led by over-leveraged 
+consumers, and you can see consumers are under severe financial 
+pressure. This is data based on credit files that we collect 
+from Equifax. The last data point is for the last week of 
+October, so it is very timely data.
+    As of the last week of October, there was $860 billion in 
+household liabilities that were in delinquency or in default, 
+so first mortgages, second mortgages, student loans, vehicle 
+loans, credit cards, everything. In this data set, that 
+accounts for 7.5 percent of all household liability, so it 
+gives you a sense of the stress that consumers are under.
+    I think the recession we are in, which in my view began 
+over a year ago, without stimulus will continue on through 2009 
+into 2010 and there are three links between what is going on in 
+the financial system and the economy that are going to weigh on 
+the economy seriously over the next--over a year.
+    The first link is credit. The credit spigot has been 
+closed. Credit markets have collapsed. The banking system is 
+under severe stress. And you can see the collapsing credit 
+here. This shows the growth, annualized percentage change 
+growth in debt of households and non-financial businesses on a 
+real basis after inflation. You can see that in the decade from 
+1998 to 2007, although there is volatility, if you look 
+through, it is about 6 percent annualized growth pretty 
+consistently. Now, it is in negative territory, so it means 
+debt is actually falling on a real basis, and the last time 
+that happened was for a very brief period in 1990-1991 when the 
+savings and loan crisis hit.
+    The second link is confidence has been completely 
+shattered. Consumer and business confidence is at record lows. 
+Consumer confidence is shown here in the red line. This is a 
+survey conducted by the Conference Board. It is an index, and 
+you can see that it has collapsed in the last month, and this 
+is a record low and this data goes all the way back into the 
+1960's. It has never been as low as it is today.
+    Small business confidence, this is from a survey conducted 
+by the National Federation of Independent Businesses. That is 
+the blue line. That is the right-hand scale, another index. And 
+it, too--it is not a record low, but it is very close. And I 
+think recent events are going to be extraordinarily scarring. I 
+don't think confidence comes back easily. People are very 
+nervous for lots of different reasons and that is going to 
+weigh on the economy for a considerable period of time.
+    The third link is we are all less wealthy and we are going 
+to be a lot less wealthy for a long time to come. Total 
+household net worth has fallen over $12 trillion from the peak, 
+which was a year ago, and of that $12 trillion, $4 trillion is 
+housing wealth, $8 trillion is stock wealth, and it is having 
+an impact on consumers. Retail sales are sharply falling. You 
+can see the relationship between retailing and house prices as 
+a measure of wealth here.
+    The blue line, right-hand scale, is the percent change a 
+year ago in retail sales, core retail sales excluding vehicles 
+and gasoline, so this is like Christmas sales. I have taken a 
+3-month moving average of the data just to smooth out the 
+volatility and get to the underlying trend.
+    The red line is house price growth. That is year-to-year 
+price growth in home values. That is the left-hand scale. The 
+twist here is that house prices lead retailing by 6 months. So 
+what happened in the housing market 6 months ago is saying 
+something about retailing today, and what is going on in the 
+housing market today is giving you a forecast for retailing 
+over the next 6 months. And you can see the forecast. It shows 
+nominal retail sales growth over the next 6 months of one to 2 
+percent. Given inflation of a couple percent, that is real 
+declines in retail sales through Christmas. So this will be the 
+worst Christmas since the 1992 Christmas, and perhaps even the 
+1982 Christmas.
+    So three links from what is going on in the financial 
+system to the economy, credit, confidence, and wealth. All 
+three of those forces are going to weigh very heavily on the 
+economy for a considerable period of time, well into 2010. So 
+this does call--I am running a little bit out of time, so I am 
+going to skip over monetary policy issues to give other 
+speakers a chance.
+    But this calls for a stimulus package. And just to give you 
+a sense of what a large stimulus package could mean for the 
+economy is this particular graphic that shows the rate of 
+unemployment assuming no economic stimulus, that is the red bar 
+in the chart, and with an economic stimulus package, the $400 
+billion package that I mentioned and will just illustrate in a 
+little bit more detail in the next slide. This is based on a 
+simulation of our model of the national economy, and so we 
+produce forecasts for clients and we can use this for 
+simulation purposes to try to understand the impact of these 
+kinds of things.
+    You can see the unemployment rate with no economic stimulus 
+will rise to 10 percent by the early part of 2010. That would--
+ten percent, that is a large increase, the largest increase 
+since the Great Depression.
+    If we have a good, large, well-timed, well-structured 
+stimulus package along with some other steps by policymakers, 
+you can see the peak will still be very high, 8 percent in 
+early 2010, but a measurable difference in the economy's 
+performance.
+    And here, just to illustrate, this is the package that I 
+put together to illustrate the point. This is a $400 billion 
+package distributed from 2009 to 2010. This is composed of $230 
+billion of temporary government spending, $100 billion of which 
+is State aid, UI benefits, Food Stamps, and another $100 
+billion in infrastructure spending. And then $170 billion worth 
+of tax cuts. The investment tax credits that were in the first 
+stimulus package will expire at the end of this year and it 
+makes sense to just extend them so that businesses don't cut 
+investment early in 2009, a pretty simple, not very costly, 
+thing to do.
+    And I am also proposing some housing tax credits to 
+stimulate home sales to work off some of the excess inventory 
+and to provide some support to the housing market and house 
+prices in 2009. And a temporary tax cut. Here, I just put in a 
+payroll tax holiday, and we can talk about the merits and 
+disadvantages of that if you care to.
+    But you can see the impact. This shows the annualized 
+growth in GDP, real GDP, from the first half of 2008 through 
+the second half of 2010. You can see the impact of the first 
+stimulus. It was positive, but it was small. And then the 
+impact of the second stimulus, if it is well-timed and 
+structured in the way that I have designed it here.
+    So just to end, the point would be that I think a stimulus 
+is vitally necessary. Without a stimulus, I think the economy 
+is going to suffer an extraordinarily severe recession, and 
+with it, it will still suffer a severe recession, but it will 
+be measurably more manageable. Thank you.
+    [The prepared statement of Mr. Zandi follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T7518.009
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.010
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.011
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.012
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.013
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.014
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.015
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.016
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.017
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.018
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.019
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.020
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.021
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.022
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.023
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.024
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.025
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.026
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.027
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.028
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.029
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.030
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.031
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.032
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.033
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.034
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.035
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.036
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.037
+    
+
+    Chairman Conrad. Thank you, Dr. Zandi.
+    Dr. Johnson.
+
+ STATEMENT OF SIMON JOHNSON, SENIOR FELLOW, PETERSON INSTITUTE 
+                  FOR INTERNATIONAL ECONOMICS
+
+    Mr. Johnson. Thank you. I would just like to supplement my 
+written testimony by making three points, if I may. The first 
+is about the unprecedented global nature of the financial and 
+economic problems we are facing.
+    The second is the case for fiscal policy or fiscal stimulus 
+despite the very high level of uncertainties we face about 
+exactly what is happening in the economy, what will happen, and 
+how fiscal policy will work.
+    And the third point is to argue strongly that we must not 
+overdue the fiscal stimulus. Medium-term fiscal consolidation 
+remains vitally important. If anything, this crisis reminds us 
+that we must preserve our financial firepower for when we 
+really need it, which is during a crisis like this.
+    But first, on the global point, I think in the remarks 
+which have already been made by Senator Conrad and Senator 
+Gregg and by Mr. Zandi, I think you very clearly laid out the 
+picture in the United States. What I would like to stress is 
+that this is not just a U.S. problem, as you know. It is not 
+just a problem in the U.S. and in Europe and in other 
+industrialized countries. It has now spread through various 
+mechanisms to almost every country in the world, including 
+major emerging markets and now poorer countries.
+    And I think in terms of the synchronization of the slow-
+down, and certainly the synchronization is contraction of bank 
+lending and now, of course, it is a fall in the demand for 
+credit around the world, this is unprecedented. I do not think 
+we have ever seen in the history of modern capitalism anything 
+like this at all, where every economy and every credit system 
+around the world, pretty much at the same time, contracts.
+    Now, we don't know how far this goes. We don't know what 
+levels of leverage the system will stabilize at. I am 
+supportive of many, if not all, of the dramatic actions taken 
+by the Federal Reserve and other leading central banks in this 
+context. I am skeptical of their ability to stop this process 
+or to--I think the market will find its own level of leverage, 
+and this may come with a much bigger contraction in the global 
+economy and global trade than we can now imagine.
+    I would, with a great deal of respect, disagree with the 
+Secretary of the Treasury, Mr. Paulson. I do not think the 
+TARP, Troubled Asset Relief Program, has been a success. I do 
+not think the situation in the financial system is yet 
+stabilized. And if you look at the current developments in 
+major U.S. banks, the banks at the very core of the program, 
+they are still regarded by the market, I think correctly, as 
+having deep problems that are not fully resolved.
+    I think, just in that context, in passing, the meeting of 
+the G-20 which was held last weekend in Washington achieved 
+very little and potentially actually worsened the situation in 
+ways I can elaborate on later if you're interested.
+    My second point is about fiscal policy. If we are facing 
+such a dramatic slowdown around the world and we are in a 
+situation which is really unchartered in terms of the dangers 
+ahead, what are the right policy responses? And I think the 
+answer is that you have to try everything that you can. I think 
+this is the approach of Mr. Bernanke at the Federal Reserve. I 
+think the amount of credit provided or underwritten by the Fed 
+is now at record levels. We will see how much effect that has.
+    I completely agree with the remarks already made about the 
+need to make progress on housing, on mortgage restructuring, 
+and I think in terms of the flow of foreclosures, or foreclosed 
+properties onto the market, we also need to make more progress.
+    But I also think that in this context, there are ways to 
+use government spending wisely, both in the shorter term and in 
+the longer term. I would actually stress not just the likely 
+debt to the recession we are facing, but the fact that the 
+recovery will almost certainly be quite slow without government 
+action. I think we are looking at a problem not of 2 years, but 
+more likely of three or 4 years, and that is just in the United 
+States. I would expect the U.S. economy to recover more quickly 
+than most of our trading partners around the world. So I don't 
+think you should look to exports any time soon to pull us out 
+of this.
+    I think in this context you could make a case for many of 
+the forms of spending that have already been discussed. In the 
+short term, direct aid to State and local governments makes a 
+lot of sense. They are already contracting. That is where a lot 
+of the job losses are occurring. You can extend unemployment 
+benefits. I think there is a lot of agreement on that. Expand 
+Food Stamp aid. And the loan modification for distressed home 
+owners, I think also can give you relatively good value for the 
+money.
+    I would also want to express some more positive words about 
+tax rebates or temporary tax cuts. I don't think we should get 
+too hung up on the idea that if consumers don't spend the 
+money, somehow it is wasted. We need consumers to rebuild their 
+balance sheets. That is important for them. It is very 
+important for the financial system, too. So the money that is 
+saved is also a contribution to the economic recovery and to a 
+faster, more sustainable recovery.
+    In terms of longer-term spending, I support the ideas for 
+both immediate spending on improving maintenance for 
+infrastructure in the United States and projects that are ready 
+to go. I think over a longer period of time, we can find more 
+sensible uses of money on infrastructure.
+    I think there is also good use of money, again, over a 
+longer period of time--I am not saying we rush the money out, 
+it is to try to get a strong, sustained recovery here--job 
+training programs. Student loans are, as you know, under 
+tremendous pressure because of what is happening in the credit 
+market, as are small business loans, and those are both worth 
+serious consideration in the longer-term context.
+    And I also think that investment in alternative energy 
+through various means typically used to support technology 
+development is also a good long-term investment.
+    I think the amount of fiscal stimulus that you can justify 
+in these terms, in terms of what you can spend wisely, and I 
+would include the tax cuts, if you want to put tax cuts in this 
+overall number, is about 3 percent of GDP. That is a very large 
+stimulus. I think there are some other proposals that are now 
+being put forward.
+    Let me say, when we first put this forward, it was a large 
+stimulus. Now, it seems more in the middle of the range that is 
+being proposed, and I think some of the numbers being talked 
+about, up to $800 billion, are too large. I think there are 
+risks here. There is a risk of doing nothing. There are risks 
+of doing too much. And there are no risk-free proposals. I 
+think that the appeal of temporary spending and temporary tax 
+cuts is that it can help us more quickly get back on the route 
+to medium-term fiscal consolidation.
+    And my last point is that all the proposals put forward to 
+try to deal with asset price bubbles in the future, in terms of 
+monetary policy or in terms of regulation, I think are good 
+proposals worth consideration. They are very unlikely to be 
+successful. I think given the nature of the financial system 
+that we have created in this country and around the world, 
+unless something very unpleasant happens at a global level, 
+which I am not expecting, I think we will keep that same 
+financial system. That financial system will have crises. The 
+only way to deal with crises is to have a very large amount of 
+financial firepower available in the form of the U.S. 
+Government balance sheet.
+    So you run a careful fiscal policy. You try and keep debt 
+low. You avoid the temptation of overspending in good times so 
+that in bad times, when things are very difficult, when the 
+risks are really mounting, you have the financial firepower 
+available for direct support of the financial system, for other 
+forms of direct support, and for fiscal stimulus. Thank you 
+very much.
+    [The prepared statement of Mr. Johnson follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T7518.038
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.039
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.040
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.041
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.042
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.043
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.044
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.045
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.046
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.047
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.048
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.049
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.050
+    
+
+    [GRAPHIC] [TIFF OMITTED] T7518.051
+    
+
+    Chairman Conrad. Thank you.
+    Dr. Taylor.
+
+STATEMENT OF JOHN B. TAYLOR, MARY AND ROBERT RAYMOND PROFESSOR 
+ OF ECONOMICS, STANFORD UNIVERSITY, AND SENIOR FELLOW, HOOVER 
+                          INSTITUTION
+
+    Mr. Taylor. Thank you, Mr. Chairman, and thanks to you and 
+Senator Gregg and other members of the committee for giving me 
+the opportunity to be here to talk about the economic situation 
+and the need for a stimulus.
+    I agree, these are tough economic times. We are in a 
+recession. Last quarter had negative growth and this quarter 
+will most likely have the number of minus-three percent that 
+you put up, Mr. Chairman. I think the recession will be--
+already--is longer and deeper than the previous two recessions 
+we had in the United States and most likely more along the 
+lines of the recessions we had in the 1970's and the early 
+1980's in terms of the magnitude and length.
+    I think the source of this really goes back to the boom and 
+bust in housing. I will come back to that in a minute. There 
+was a period of time where we had excessive stimulus, if you 
+like, from the monetary side. It led to a run-up in housing 
+prices that was unprecedented, spread around the world, and now 
+the resulting bust has led to many foreclosures. People are 
+underwater; the securities were put together into derivatives 
+that were sold to banks and others and that has caused the 
+financial crisis that we are facing in the United States and 
+the rest of the world.
+    So the story is pretty clear about how we got here, and now 
+getting out. Clearly a good topic for discussion is how we get 
+out of this. I think the first thing I would look at if I were 
+you, in terms of considering a second stimulus, is to look as 
+carefully as possible at the first stimulus, if you like, the 
+Economic Stimulus Act of 1980.
+    I have had a chance to look at this a bit, and I brought a 
+chart. I am going to only have one chart in my presentation. It 
+is in my testimony. I don't know if it is in front of the 
+Senators. But it is simply just going back to the major part of 
+the Stimulus Act, and that was, as Senator Gregg mentioned, the 
+rebate checks or direct deposits into people's accounts.
+    The idea, you recall, was that by giving people more 
+income, more disposable income, they would spend more. It would 
+give a boost to consumption demand, and that would boost 
+aggregate demand which in turn would jump-start the economy. 
+That is the logic.
+    Well, we can look at what happened with this chart. As you 
+can see, the top line is--well, it is on the chart here, so 
+thank you. The top line is what we call disposable personal 
+income, and this is the amount of money in the aggregate that 
+people have to spend after the government takes taxes and gives 
+money back in the form of transfers.
+    You can see there is a big blip in that line. It started in 
+May when the rebate checks were sent out, or money was 
+deposited in people's accounts. It stayed high in June, July, 
+and now it is basically back to the previous trend it was. So 
+that is basically the stimulus package right there, at least on 
+the consumer side.
+    Now, again, the purpose was to stimulate consumption so the 
+economy would get a jump-start. The lower line is what we call 
+personal consumption expenditures. It is the total amount of 
+consumption by the same people in the aggregate that were 
+getting the rebate checks. As you can see, it is very hard to 
+see that there was any impact of this stimulus on what it was 
+advertised to affect. It seems to me that is something to 
+consider seriously when you think about a second stimulus 
+package.
+    You might think it is surprising this happened. Actually, I 
+think this is what economic theory will tell you would happen. 
+Economic theory has something called the permanent income model 
+developed by Milton Friedman, or the lifecycle hypothesis 
+developed by Franco Modigliani at MIT, and these are the ideas 
+that people's consumption behavior is largely influenced by 
+their views about their permanent income. It is a famous and 
+well-researched idea.
+    It seems to me that that is what you are seeing in this 
+picture, exactly what you'd expect, a temporary burst of 
+income. People save almost all of it in this case. We can 
+debate whether maybe it was offsetting some other things, like 
+the high energy prices, but nonetheless, it seems to me that 
+this is a verification of that theory.
+    Now, it is because of that view of temporary rebates that 
+the idea of stimulus, countercyclical fiscal stimulus, actually 
+fell by the wayside until roughly 2000, 2002. I have some 
+quotes in my testimony from distinguished economists who said 
+there was a consensus that this approach doesn't work. I think 
+the consensus broke down as, of course, evidenced by lots of 
+testimony you heard earlier this year when you were considering 
+the economic stimulus package. I think it broke down because in 
+2001, there were checks sent to people and that did seem to 
+have some impact. But remember, that was the first installment 
+on a longer-term multi-year tax cut. So effectively, that was 
+viewed as permanent by so many people who were getting those 
+checks. Logically, that is what they would think. So in that 
+sense, that is not surprising that had more impact.
+    So in my last minute and a half, what are the lessons from 
+this? It seems to me the lessons are pretty clear. We had in 
+many of the debates last January-February the mantra that 
+packages should be temporary, targeted, and timely. It seems to 
+me we should think about changing that mantra, those 
+principles, when you think about this next package. I like to 
+stick with the alliteration, since that seems to be catchy, but 
+I will choose a different alliteration.
+    I would like to think of the stimulus being permanent, 
+pervasive and predictable. Permanent will have more of an 
+effect, obviously. By pervasive, I mean forget targeting. Try 
+to make it as broad as possible. Don't worry about targeting so 
+much, thinking it is going to have more of a stimulus. You need 
+to be, if you like, broad-based if you don't like the word 
+pervasive.
+    And predictable seems so important to me. Many of the 
+criticisms that we are hearing about policy these days is it is 
+ad hoc. It seems to be changing all the time. The mere fact 
+that we are considering a second stimulus so soon after the 
+first stimulus is an indication of that, it seems to me.
+    So what kind of policies would be permanent, pervasive, and 
+predictable? There are many, quite frankly, that fit those 
+principles. But the one that I would like to suggest is, No. 1, 
+committing through legislation not to increase any tax rates 
+for the foreseeable future, whatever you define as permanent. 
+Put it in the books. No tax rate increases anywhere.
+    Second is to go ahead with President-Elect Obama's proposal 
+to have a workers' tax credit of 6.2 percent of wages, up to 
+$8,000 in wages. Make it permanent, though. Forget about one-
+time rebates. Just make it permanent. It will have more of an 
+effect. So that is the pervasive aspect. It is across the 
+board, but it is helping additional people.
+    On the spending side, I think the most important thing is 
+to lay out a spending path for the next few years to show how 
+you are going to get from where you are now with the stimulus 
+back to balance. And if you want to bring forward some of that 
+spending as best you can, maybe things that are already on the 
+books, that is fine, but the important thing is to lay out a 
+path to get back to a balanced budget.
+    And fourth, I would remind you all that we have a stimulus 
+program automatically in this country. It is called the 
+automatic stimulus, automatic stabilizers, and that is the fact 
+that spending automatically increases in recession and revenues 
+automatically come down. I estimate that the stimulus from the 
+automatic side is going to be about 2.5 percent of GDP this 
+fiscal year. So make that part of the package. You don't have 
+to pass legislation to get that 2.5 percent, but that is there 
+and it is part of the whole stimulus.
+    The questions that Senator Gregg asked, I will just answer 
+briefly. We can come back to them. I do think that some of the 
+TARP money should be used directly for the borrowers and the 
+homeowners to help directly the foreclosure problem that we 
+have, but I do not think additional funding or loans are 
+appropriate for the automobile industry. Thank you.
+    [The prepared statement of Mr. Taylor follows:]
+    Chairman Conrad. Thank you. I am going to go to Senator 
+Sanders. I am going to reserve my time and go to Senator 
+Sanders first on our side, then come back to Senator Gregg, 
+then Senator Murray, then Senator Nelson on our side.
+    Senator Sanders.
+    Senator Sanders. Thank you very much, Mr. Chairman. I don't 
+know that I have any profound questions, but I want to thank 
+you for holding this hearing. We are dealing, as I think our 
+very able panelists have told us, with something that is almost 
+unprecedented. It is very frightening and we are all going to 
+have to scramble to figure out how we come up with some 
+sensible solutions.
+    Just a few points that I want to throw out and maybe the 
+panelists can comment on it later. We have talked about the 
+immediate impact of the financial downturn in terms of 
+increased unemployment and foreclosures and so forth, but one 
+point, Mr. Chairman, I want to reiterate, one of my real 
+frustrations with the Bush administration, well before the 
+immediate financial crisis, is their refusal to address the 
+reality that even before the crisis, the middle class in this 
+country was in serious decline. So this didn't happen a few 
+months ago.
+    We have had--and the reality is, and we have to put this 
+out on the table, is that in the United States, among all of 
+the other industrialized nations, we have the dubious 
+distinction of having the highest rate of childhood poverty. 
+Forget the immediate financial crisis. Eighteen percent of our 
+kids are living in poverty. We have the highest overall poverty 
+rate. We have the highest infant mortality rate. We have the 
+highest incarceration rate. We spend $50,000 a year to keep 
+people in jail, and if anyone thinks that is not related to 
+having a very high poverty rate, I would seriously question 
+your judgment.
+    We have also, Mr. Chairman, and I think we have to address 
+this issue, as well, how does the grossly unequal distribution 
+of income and wealth play into this financial crisis? According 
+to at least some analysts, the top one-tenth of 1 percent earn 
+more income than the bottom 50 percent, and we are moving in 
+the direction of Brazil, of Russia, of very unindustrialized 
+countries in terms of that discrepancy. Do we address that 
+issue? How is it related to the crisis that we face?
+    And, of course, we are the only major country on earth 
+without a national health care program.
+    So I want to maybe throw into the hopper here for further 
+discussion some of these longer-term problems that our economy 
+is facing, how that ties into the financial crisis, how do we 
+address that.
+    Mr. Chairman, I agree with much of what you laid out in 
+terms of what a package would include, a stimulus package, but 
+I agree with, I think, it was Dr. Zandi talking also about the 
+need to move us to sustainable energy. I think there is 
+enormous job creation in energy efficiency. I was just in the 
+United Kingdom last week. They are talking about creating a 
+whole lot of jobs in energy efficiency and I think we can do 
+that. Maybe the panelists can discuss the impact on our economy 
+of importing $700 billion a year of foreign oil and why not 
+investing in sustainable energy--wind, solar, geothermal, 
+biomass.
+    The other things that I think we may want to also throw on 
+this table for discussion is I think the loss of faith. We talk 
+about loss of confidence from an economic perspective. I think 
+there is a deeper loss of faith in corporate America in 
+general. I could tell you that in my State, people are furious. 
+People are struggling to keep their heads above water and the 
+idea of placing at risk $700 billion of taxpayer money to bail 
+out people on Wall Street who in the past have made just huge 
+amounts of money investing in very reckless, exotic financial 
+packages, that brings about the issue of re-regulation. It 
+brings about the issue of greed in our society.
+    Are we in a healthy state when so much money is being 
+played about in the financial sector while our manufacturing 
+sector is in rapid decline? Doesn't it make a lot more sense to 
+maybe put money into producing products that the American 
+people consume so, in fact, we don't have to import everything 
+from China rather than have guys make huge sums of money 
+playing on Wall Street?
+    The other point that I want to make, we have heard some 
+statistics about unemployment. There is a question about the 
+validity of unemployment. For example, I believe we have about 
+ten million people who are unemployed today, roughly speaking. 
+We have another seven million people who are underemployed, 
+i.e., who want to work full-time who are working part-time. Is 
+that something that we should throw into the hopper? Is, in 
+fact, the economic situation a lot worse? Do we have Ph.D.s out 
+there who are driving taxicabs or working as waiters or 
+waitresses? Is the problem even worse than we are suspecting it 
+is?
+    So, Mr. Chairman, those are a few of the issues. I think 
+this has been an excellent presentation. I think you have 
+different philosophical points of view and I think they all 
+have something to say, so I just wanted to throw out some of 
+those ideas to further the discussion. Thank you, Mr. Chairman.
+    Chairman Conrad. I would give, if the panel wants to react 
+to any of that, I would give them the opportunity. Mr. Zandi?
+    Mr. Zandi. Sure. I do agree that the unemployment rate, 
+where you ended your remarks, is not an adequate measure of the 
+stress in the labor market and the job market. It is 6.5 
+percent, but if you do add in discouraged workers, so-called 
+discouraged workers who aren't even looking for work, that 
+aren't counted as unemployed, and you consider those that are 
+working part-time for economic reasons, certainly 
+underemployed, and also some of the self-employed people whose 
+payroll job end and they try to make it by becoming self-
+employed, then we are already into the double-digits, 11, 12 
+percent already there.
+    Senator Sanders. Do you think, by the way, and I know that 
+is out of the jurisdiction of this committee and maybe it is in 
+the Health and Education Committee, that we might want to take 
+a look at reconfiguring how we determine real unemployment in 
+America?
+    Mr. Zandi. I think the Bureau of Labor Statistics actually 
+has different measures of stress in the labor market. We focus, 
+we the economists focus on the unemployment rate, the 6.5 
+percent, but in the monthly report that the BLS puts out, they 
+have different measures of underemployment and you can measure 
+it and you can see it and----
+    Senator Sanders. The point you are making, though, is the 
+economic situation is really perhaps a lot more severe than 
+that 6.5 percent.
+    Mr. Zandi. Yes. I think the 6.5 percent understates the 
+stress and the change in the level of stress that is occurring.
+    And again, just to reinforce a point, this is--one of the 
+unique features of what we are in is how broad-based the 
+problem is. It is across all industries. It is across all 
+occupations. It is across all regions of the country. In other 
+downturns and recessions, you had industries that were doing 
+reasonably well. You had occupations that were OK. You had 
+regions that were fine, so that people had some options. They 
+could move from Michigan to Florida. They could move from 
+California to Arizona. They could try to go get retrained for 
+another job in the tech sector or in the health care industry. 
+But those options are much more limited and I think that is 
+weighing very heavily on the collective psyche. So the problems 
+are much broader based.
+    Senator Sanders. Say a word about income and wealth and 
+equality. Can you have a sustainable strong economy when so few 
+have so much and so many have so little?
+    Mr. Zandi. My view is that income inequality is a problem. 
+Income and wealth inequality is a problem, and a problem in the 
+sense that there is a skewing of the distribution of income and 
+wealth and the skewing hasten worse over time, and the forces 
+at work creating this are firmly in place. So it suggests that 
+it is not going to get any better, it is going to get worse 
+going forward.
+    I don't think it is a major contributing factor to the mess 
+we are in right now, but I do think it is going to be a very 
+serious problem that we are going to have to tackle in the 
+future in that we have very significant long-term fiscal 
+problems that we are going to have to address and I don't think 
+we can address those problems without putting it through the 
+prism of what it means for the distribution of income and 
+wealth.
+    Senator Sanders. Thank you.
+    Dr. Johnson.
+    Mr. Johnson. Yes. I would like to take up this--I agree 
+with what Mr. Zandi is saying, the points he made, but I would 
+like to take up the inequality point a little bit more. I 
+actually think it does matter today and I think this feeds into 
+what I think we can see developing as a bailout fatigue in the 
+U.S. People are very annoyed, as you say, with the leadership 
+that got them into this, and they are not really happy with 
+some of the unions who are involved in the auto industry, as 
+well. There are some issues there about differences in pay.
+    Mostly, I think, though, there is a lot of pent-up 
+frustration. This is a big problem, because unfortunately, in 
+this very difficult situation where the credit system is 
+collapsing, we have to consider bailouts or rescues for all 
+kinds of different things. We are not going to hopefully do all 
+of them, but some of them--they want to do things that we 
+wouldn't ordinarily do and not be comfortable with, and that is 
+going to make people very angry because of the inequality.
+    I think the way to address that going forward is by working 
+on education. I think a lot of the inequality comes from the 
+fact that the income difference between people with high school 
+education and college education is getting wider and wider, 
+probably because of technology----
+    Senator Sanders. Should we follow the route of many of the 
+European countries and make college free or virtually free, 
+does that make sense to you, for those who are qualified to get 
+in?
+    Mr. Johnson. I think what you want to do is find ways to 
+make sure that people who leave high school have better, 
+stronger technical skills, which is also what they do in 
+Europe, without necessarily requiring or pushing them to go 
+into a college education program.
+    The other point I would like to make----
+    Senator Sanders. I think my time has long expired, so----
+    Mr. Johnson. On energy efficiency, I think investing in 
+technology development would address exactly your concerns 
+there. I think that makes sense.
+    Senator Sanders. Thank you very much, Mr. Chairman.
+    Chairman Conrad. Senator Gregg.
+    Senator Gregg. Thank you. We could get into the education 
+debate and spend hours on it, but your point, which is that in 
+Europe, they basically two-track people in high school and you 
+get to choose which track you want to take, a technical high 
+school or a liberal arts high school, has always been a matter 
+of considerable debate in the Education Committee, which I also 
+serve on and had a chance to chair for a while.
+    I was interested in your chart, Dr. Zandi, which showed the 
+drop in the debt, because I am wondering if there might 
+actually be a bright side to that in that we clearly, as a 
+result of monetary policy over the last 6 years where money was 
+made so available at such a cheap rate that there was an excess 
+amount of debt put out there, it is clear that what we are 
+going through now is an economic event which is a function of 
+that excess debt being worked out of the system. How close are 
+we?
+    We heard in testimony in this committee that there was $2 
+to $3 trillion of excess debt in the system, most of it in the 
+real estate accounts, that had to be worked out of the system, 
+and that that was what this event was all about, or not all 
+about, but that was at the core of this event. How close are we 
+to that work-out? I mean, are we at a point where--you had that 
+line that came down rather dramatically. Are we at a point 
+where we actually may be in a situation where we have shaken 
+out the excess debt or close to it so that you can start a 
+recovery based off of assets which have value as versus assets 
+which are overvalued due to excess debt? Is that the bright 
+side here, hopefully, or is that an overstatement?
+    Mr. Zandi. Well, no, there are some rays of sunshine. You 
+might have found one of the rays. We are working through our 
+excesses rapidly. Let me just give you some numbers to sort of 
+benchmark that.
+    The financial system as a whole has written off about $650 
+billion worth of assets, and that is U.S.-based assets. Those 
+are assets that are held by U.S. financial institutions and 
+overseas institutions, but they are all U.S.-based assets. Most 
+of those are residential mortgage assets, so mortgage 
+securities, mortgage loans. I think we have made a significant 
+amount of progress there with respect to working off those bad 
+assets, but because the economy is eroding and house prices are 
+falling and we are going to see more foreclosures, we are not 
+done. We have more work to do there.
+    But the real problem is there are a lot of assets to be 
+written off elsewhere in the financial system. Those would be 
+credit cards, vehicle loans, other consumer finance. That would 
+include commercial real estate loans, which are only now 
+starting to go bad. That would include corporate debt that we 
+have struggled with. And if you look at estimates of the losses 
+there, I have done some, the IMF-World Bank have done some, 
+that would suggest that we have at least another $700 or $800 
+billion to go, that that is what is in train that we think we 
+are going to have to----
+    Senator Gregg. So the $2 trillion number we heard earlier 
+is approximately in the ballpark?
+    Mr. Zandi. It is in the ballpark, and we are not----
+    Senator Gregg. We are halfway through that number----
+    Mr. Zandi. If we are lucky, we are halfway through the 
+number. Now, just one other point. I am sorry.
+    Senator Gregg. Can you make it quickly?
+    Mr. Zandi. Yes. I was just going to say, that is a moving 
+target, right, because as the economy worsens, people lose 
+jobs.
+    Senator Gregg. Right.
+    Mr. Zandi. Two trillion is----
+    Senator Gregg. Dr. Johnson, you made the point that the 
+banking industry may not be stabilized, or the financial houses 
+may not yet be stabilized. The financial houses are gone. We 
+are back to the banking industry. That the universal banks are 
+not stabilized yet. I think there has been some--certainly, 
+Secretary Paulson has said that he thinks we are past the 
+systemic meltdown period threat, that we still are into an 
+extraordinarily serious recession. Are you still of the view 
+there is a potential for a systemic meltdown?
+    Mr. Johnson. I think that is the right question, and that 
+is still the question of the day. I think that the period of 
+default by major U.S. banks has gone down, and that is 
+reflected in the market view, for example, from the credit 
+default swap spreads, which you are probably familiar with.
+    However, the view in the market at the same time is that 
+while the debt is probably OK, these banks' business models of 
+profitability is going to erode, and the counterpart of the 
+losses you were just discussing with Mr. Zandi is big hidden 
+losses, or not yet disclosed losses or not yet understood 
+losses on the balance sheets of these very large banks.
+    So in other words--so, for example, one large U.S. bank I 
+prefer not to name in public has a market capitalization 
+substantially below its Tier I capital right now. So how is 
+that possible? It is possible because the market view is they 
+have a lot of losses. About half the Tier I capital is going to 
+be wiped out based on what the market was seeking yesterday by 
+the losses that you were talking about, when they take those 
+write-downs.
+    So is it a systemic crisis if the value of all the banks in 
+the U.S. goes to zero at the same time as they continue to 
+service their debts and the creditors are OK? It is not a 
+classic systemic crisis. It is not a classic bank failure, but 
+it is pretty bad because it will feed into a continuing 
+downward contraction of credit.
+    And remember, the key problem of the 1930's, the onset of 
+the Great Depression we think of as being about bank runs and 
+bank collapses. What it was really about was the collapse of 
+credit. Now, credit can collapse either because banks fail and 
+you don't rescue them, or because the banks just shrink their 
+balance sheets down dramatically and they are basically putting 
+themselves out of business. They wind down. Nobody wants to 
+invest in them. And then you are faced with a very difficult 
+situation, which is what do you do with these banks? Does the 
+government come in and recapitalize them? I know that is not 
+the question yet of the day, but I think it will be soon.
+    And I think, going back to your original question about the 
+top, which I didn't fully answer, I think you should save that 
+money for recapitalizations that you are going to need to do if 
+the recession becomes substantially worse.
+    Senator Gregg. Well, that is a very optimistic view.
+    [Laughter.]
+    Senator Gregg. Dr. Taylor, I liked your three words. I 
+think that those are the ones we should be focused on. You 
+suggested that the Obama proposal should be made permanent. Do 
+you include in that the Obama proposal to raise the top rate?
+    Mr. Taylor. No. Actually, my list of items explicitly says 
+we should commit now not to increase any tax rate, and that 
+includes tax rates on small businesses, that includes tax rates 
+on capital gains, that includes tax rates on dividends. 
+Absolutely, I think that would be a mistake to increase those 
+taxes. So the first part of my proposal, and I believe it would 
+be a stimulus, it would be a stimulus that you might not count 
+in terms of money because right now, if you just commit not to 
+raise those taxes, if anything, it is going to raise revenue 
+because it will stimulate the economy. So in terms of your 
+measure of costs, it is really cheap.
+    I would do that if you could possibly do it, and that is 
+why I mentioned the second part, add to that President-Elect 
+Obama's proposal to have a tax cut, rate cut--this is a rate 
+cut. You take 6.2 percent of your wages and refund that and 
+make it permanent. You could limit it as he proposes to $8,000. 
+That is fine. But that would actually broaden the idea of this 
+permanence of the tax cut.
+    So I think combining those has a lot of appeal. First of 
+all, it is bipartisan, if you like, because there are different 
+parts of the aisle liking both of those. Second, there is this 
+broadness, pervasiveness that I have--and it is permanent. So I 
+think there is some appeal there.
+    Senator Gregg. I appreciate that and I agree with that 
+actual approach.
+    I am sorry my time is up, but I do have one more issue that 
+I think has to be asked, which is the elephant in the room that 
+nobody has mentioned. If you put $400 billion of stimulus onto 
+the Federal books, we are taking the Federal deficit over one 
+trillion dollars. That is probably somewhere in the seven to 8 
+percent range of GDP next year. What does that mean? Or doesn't 
+that matter in the context of what we are facing relative to 
+the economic slowdown?
+    Mr. Taylor. See, in my view, it certainly matters. In fact, 
+it seems to me you should be thinking of the stimulus not so 
+much in is it going to be how big the deficit has increased, 1 
+percent, 3 percent, but really what it is going to do to the 
+economy. Just my example of the rebates, you could say, oh, 
+that was $100 billion, a certain fraction of GDP, but it didn't 
+do anything and I am giving you a proposal which would do a lot 
+and wouldn't cost anything. So I don't think you should be 
+measuring these by how much it is a share of GDP or increases 
+the deficit.
+    And I do agree that just flagrant ignoring a one trillion 
+dollar deficit is a mistake. It is a concern, a very serious 
+concern, and I think whatever the deficit is you decide, 
+remember, it is going to be more than that because of the 
+recession, 2 percent, 2.5 percent of GDP because of the 
+recession. So you have to think about a glide path, a serious 
+part of any proposal, it seems to me, to get back to balance, 
+and you decide the new debates and the new administration will 
+decide the debates. But it is very important for credibility to 
+see we are on a glide path to stop this deficit spending.
+    Mr. Johnson. Could I just add one point on the very 
+important issue of automatic stabilizers Professor Taylor 
+raised before. The U.S. does have automatic stabilizers, but it 
+has the weakest automatic stabilizers of any major 
+industrialized country because we have a relatively small 
+government. So in most other industrialized countries, they 
+don't have to have this conversation that we are having because 
+they have a larger automatic stabilizer from all of the factors 
+that Professor Taylor was talking about.
+    So the question is, should the U.S. top that up with a 
+discretionary decision that you would have to make, or should 
+we rely on what we have, automatic stabilizers that are 
+relatively weak compared to what other countries in our 
+position rely on.
+    Senator Gregg. Dr. Zandi.
+    Mr. Zandi. Yes. I think deficits matter, but I think this 
+is a very good time to deficit finance because no one else is 
+borrowing. The private credit markets have completely shut 
+down. Seriously, in a normal, quote-unquote, ``normal'' year, 
+credit markets raise $5 trillion worth of capital. Right now, 
+there is zero private capital. So you can borrow and borrow 
+very cheaply and this would be a good time to do it.
+    But this is important, and this is why temporary is 
+important because that signals that in the longer run, you are 
+very concerned about the fiscal situation. If you make all the 
+tax cuts permanent, that is a permanent increase in our long-
+term deficit situation, which is going to get very serious in 
+the not-too-distant future. So that is the downside of 
+permanent and why temporary is important and why I think we 
+should be very careful about permanent or temporary.
+    Chairman Conrad. Senator Murray.
+    Senator Murray. Thank you very much, Mr. Chairman. This has 
+been an excellent hearing. I can't say it has been uplifting, 
+but it has certainly been, I think, an important one for all of 
+us to understand why we are where we are and what the 
+possibilities are trying to move us forward and what our 
+responsibilities are in moving forward.
+    I certainly agree with you, Mr. Chairman, on transportation 
+infrastructure. It seems to me the best thing to do is to have 
+people at work getting a paycheck, having a skill, creating 
+economic development. I know my State has $98 million worth of 
+highway infrastructure projects ready to go. I am sure every 
+State does, and like yours, they don't have the capacity today 
+to do that. We will have to work hard on that, obviously, over 
+the next several months to put a package forward, but I hope 
+that that is part of it.
+    I did want to ask the panel a few questions? You outlined 
+for us why we are where we are and consumer confidence. Housing 
+foreclosures clearly got us to where we are in the tight credit 
+market, but consumer confidence, it seems to me, is really 
+keeping us here in a very difficult place. How do we increase 
+consumer confidence, or consumer spending? Dr. Taylor, you said 
+the rebate checks were essentially not going to get us there. 
+What is it that we can do to increase consumer confidence? Dr. 
+Zandi, let me start with you.
+    Mr. Zandi. I think that requires a very concerted, 
+consistent, overwhelming policy response, and that is fiscal 
+stimulus, that is aid to homeowners, that is expanding out the 
+use of TARP, not only for homeowners but for more capital 
+infusions, and I personally believe that giving up on asset 
+repurchases is a very significant mistake because that is 
+necessary for price discovery, which is what you need to get 
+private capital back into the financial system. So I think that 
+should be also pursued.
+    Senator Murray. The toxic asset purchases that we 
+originally----
+    Mr. Zandi. Exactly. I think abandoning that idea is a very 
+significant mistake, yes.
+    Senator Murray. And define for me why you think that again?
+    Mr. Zandi. Because I don't think you are going to get 
+private capital coming back into the financial system until 
+they understand the value of the assets that are on the balance 
+sheets of these institutions, and you are not going to get that 
+until you get price discovery, until they know what the price 
+is, and you are not going to get that unless you have a buyer 
+for the assets, and there are no buyers except for the Federal 
+Government, at least not in the foreseeable future.
+    Senator Murray. So you are saying consumer confidence, 
+dealing with the housing market has to be part of that----
+    Mr. Zandi. I think it has to be all of those things. I 
+think it has to be overwhelming. In my view, in times of 
+crises, the only way out is overwhelming government response in 
+a very concerted, consistent, and comprehensive way, and it is 
+all of the above very quickly.
+    Senator Murray. Dr. Johnson.
+    Mr. Johnson. I think the way to think about your question 
+is what is going to happen to spending? Whose spending is going 
+to be affected by this very deep recession unless you have the 
+fiscal stimulus? And I think this also--you want to take on 
+board the points that Professor Taylor is making, which is, is 
+somebody liquidity constrained? Is somebody really short of 
+money? They didn't get their paycheck. They just got laid off. 
+They have other problems.
+    And I think there is a set of measures that you can take, 
+both with the aid to State and local governments, because they 
+are cutting back and they are laying people off directly. You 
+know, that is going to have a big effect on spending by their 
+employees. The unemployment benefit, extension of unemployment 
+benefits, I think there is a lot of agreement that this is 
+something that will support spending as well as being a good, 
+fair idea. Food Stamp aid, again, does the same thing. If you 
+can find ways to help the distressed homeowners, potentially, 
+this is a way to affect spending, also.
+    These are immediate things. These are things that will 
+happen right away. These are people who are going to spend less 
+money for the holidays because of the difficulty of the 
+situation. So I think that even recognizing that there is a 
+great deal of uncertainty, that nothing will work exactly as 
+intended or hoped in this kind of situation, I think these 
+things will really move spending.
+    And I would just like to add, I would respectfully disagree 
+with Mr. Zandi's view on top. I actually think not buying those 
+distressed assets at this point was a good--actually, I never 
+thought it was a good idea, to be totally honest. There is a 
+private market for these assets. It has a very low price on 
+them because their value is declining because the real economy 
+is falling. And if, contrary to some of the initial hopes 
+expressed for that program, if the economy goes down far 
+enough, if house prices fall enough, then those assets are 
+going to be worth essentially zero.
+    The key thing is support the real economy. It is a very 
+hard thing to do in this situation. The measures that we are 
+proposing, which are pretty big--include a pretty big fiscal 
+stimulus, may not work. It may not be enough. It may not save 
+us from a very deep, prolonged recession. But I think it is 
+worth trying.
+    And I do also, on the point about budget deficits, I do 
+worry about the budget deficit. I am not somebody who has ever 
+previously argued in favor of big deficit spending in this kind 
+of situation. I mean, this is a very unusual situation. This is 
+why you saved the U.S. balance sheet. Save it for when you need 
+it. Now, you need it.
+    Senator Murray. Dr. Taylor, how do we increase consumer 
+confidence?
+    Mr. Taylor. The biggest drop in consumer confidence is just 
+in the last month or so. The October numbers just fell like a 
+rock. And I think in terms of what government can do, it seems 
+to me is to, just as you were saying, be as clear as possible 
+about the understanding of where this problem came from, 
+articulate that. I think people still don't understand it. You 
+know, your constituents are confused. The more that you can 
+explain, and we in the private sector can explain it, the 
+better.
+    But I think in terms of instilling confidence, the more--I 
+would say this, going back to this predictability thing, the 
+more that you can outline a strategy for the longer term and 
+don't keep changing it all the time and don't look ad hoc but 
+look predictable and be predictable, the more confidence people 
+will have in their government. When they see a testimony asking 
+for $700 billion with apparently little documentation for that, 
+that worries them. When they see the markets reacting 
+negatively to that, it is very visible, of course, the stock 
+markets.
+    So I would say, to me, the most important thing--that is 
+why I am stressing here today, yes, do something, but make sure 
+that it is a strategy that you are not going to have to come 
+back to in another 6 months. It is so important.
+    Senator Murray. Are you going to break the tie here on 
+whether we should purchase toxic assets on this panel?
+    Mr. Taylor. Well, I think, and let me just say about it, 
+this is another example where changing itself has some 
+problems, OK. Obviously, you want to change when things aren't 
+working or when the circumstances have changed. But I think 
+people look at that change and they say, well, what did change 
+between the testimony of Secretary Paulson here on the Hill 
+with Chairman Bernanke and the new--what changed? Why did they 
+do that?
+    And so I think more explanation for it. I actually think a 
+more balanced use of those funds, you mix it here and there, so 
+you keep the toxic assets as a possibility. You keep the equity 
+injections. You add in what Senator Gregg asked about, direct 
+assistance to the borrowers, the home mortgage holders, the 
+people that are underwater. Try to fix them. They are the heart 
+of the problem. That is why the derivative securities are such 
+a problem, because those payments aren't being made.
+    And I would add a fourth one which doesn't cost much at 
+all, is just to require more disclosure of what is in those 
+toxic assets right now. You know, you try to tell someone, 
+well, I have this CMO filled with a thousand or 10,000 
+mortgages. We don't know what the status of the payments are on 
+those mortgages. We should require that it be posted on the 
+websites, what is in those things. Then people would begin to 
+have a market for them. So I would add that as a fourth----
+    Senator Murray. The unknown is contributing, as well.
+    Mr. Taylor. Yes.
+    Senator Murray. And I am absolutely out of time, but I just 
+want to say, Mr. Chairman, we have focused a lot on what we 
+need to be doing. I agree, it needs to be very focused, very 
+clear, very predictable. But I also hope we have some point we 
+can talk about what is happening in the global marketplace, 
+too. I think several of you mentioned that in your opening 
+remarks. What happens if other countries don't respond equally 
+as we hope we will do.
+    Chairman Conrad. Thank you, Senator Murray.
+    Senator Sessions.
+    Senator Sessions. Thank you, Mr. Chairman. I would just ask 
+the panel if you agree with the statement that was in a USA 
+Today editorial a month or so ago that said an economy founded 
+on excessive personal debt, excessive government debt, and a 
+huge trade deficit is an economy in trouble. Would you 
+fundamentally agree with that? I don't see any disagreement, so 
+I assume you would agree with that. Dr. Johnson?
+    Mr. Johnson. I am sorry. I think it is rather too 
+simplistic a statement. I think there are serious issues in the 
+United States, including longer-term issues of poverty and 
+inequality. I think you have to be very careful in terms of 
+managing the fiscal accounts, and it is certainly the case that 
+some consumers obviously went too much into debt.
+    But I would like to emphasize that in the middle of 
+September, or at the beginning of the second week of September, 
+this economy was not in serious major recession. We did not 
+have a global contraction of credit underway. The problems, the 
+severity--we had these underlying problems. We had mortgages. 
+We had issues with financial institutions. But the problem was 
+nowhere near this size of this--the magnitude of this problem, 
+the enormity of this problem and the global nature of it was 
+caused by a crisis of confidence triggered by the way the U.S. 
+Government, I am afraid to say, handled Lehman and then AIG. 
+They created the strong impression that AAA credits were no 
+longer secure anymore. This causes a massive loss of confidence 
+in credit, and so everybody who has debt, even a little bit of 
+debt, around the world has major problems right now.
+    Senator Sessions. Well, one commentator wrote in 2006, that 
+housing prices cannot continue to increase at a rate double 
+that of GDP when wages are flat. Now, that is a bubble. That 
+has been going on for some time. And when people's credit cards 
+are at their limit, they can't keep spending. And when the 
+trade deficit is enormous, it creates economic uncertainty in 
+people who are buying our debt. And I don't think we can buy 
+our way out of this one, Dr. Johnson.
+    Dr. Taylor, do you have any view of it?
+    Mr. Taylor. No, I agree with the general philosophy of what 
+you are saying, Senator. In some sense, maybe you are always 
+looking for silver linings here, I think a few people asked 
+already. And one perhaps is that we will in the United States 
+get our saving rate up----
+    Senator Sessions. It is going up a little.
+    Mr. Taylor. It is going up, yes.
+    Senator Sessions. Last year, we had zero savings. This 
+year, I think we have had two or 3 percent savings.
+    Mr. Taylor. I hope it doesn't go so fast, but it has to 
+be--if it is adjusting, that is a silver lining and that will 
+affect our trade deficit and our borrowing from abroad, or will 
+bring both of those down, which is a good thing.
+    So ultimately, we probably had to make this adjustment and 
+the difficult thing is it is happening so abruptly and with so 
+much destruction. But the idea of gradually raising our saving 
+rates, personal as well as government, reducing the trade 
+imbalances, which always cause risk, reducing the amount of 
+assets, of American assets, U.S. Treasuries held by foreign 
+central banks and other governments, all those are good things 
+if we can get to those.
+    Over the long run, I think if again, making sure--before 
+you came in, Senator, I said, let us be sure that we have 
+agreement on some kind of a glide path when we get out of this 
+that we are going to get back to a zero deficit. Put that in 
+the plan, whatever stimulus plan it is you come up with, so 
+that will include building up some confidence, as Senator 
+Murray was asking about.
+    Senator Sessions. Doctor, I will just comment on that. One 
+commentator said recently--Mr. Chairman, I think I shared this 
+with you--that during the decline of a nation's fiscal 
+responsibility and discipline, the government and the leaders 
+cite the old verities while doing just the opposite. So I am 
+hearing people say, well, I wish we didn't have to go in so 
+much debt. I wish we didn't have to bail this private company 
+out. I wish we didn't have to do this, while we are pell mell 
+doing it, and I don't think it is good policy.
+    At a most fundamental level, Dr. Zandi, just one more 
+thing. I do believe there are things government can do to 
+minimize the destruction that you referred to. I am open to 
+that, but I do think those actions need to be as targeted and 
+as narrow as possible. Your comments, Doctor?
+    Mr. Zandi. No, I agree with you that the fundamental 
+problem is we took on too much debt as consumers--not all 
+consumers, but a fair share of consumers, and that that debt is 
+going bad and it is choking the financial system and the 
+broader economy.
+    I think, though, that wrong needs to be righted in an 
+orderly way, and right now, it is being righted in an 
+extraordinarily unproductive way that is hurting everybody, 
+even the people who didn't borrow, because their housing values 
+are falling, their stock portfolios are depreciating. They are 
+losing their jobs. They are not getting credit, even though 
+they are, under any normal circumstance, good credits.
+    So that is, unfortunately, the situation we are in and it 
+is becoming very self-reinforcing. If there isn't a response to 
+that, then you run the risk of it all sort of devolving, and 
+that is why I think we are at a very unusual point where it is 
+very important for policymakers to be aggressive to try to 
+short-circuit that cycle so that this righting of the wrong, 
+which you are absolutely right about, happens in an orderly--a 
+reasonably orderly way.
+    Senator Sessions. Dr. Zandi and to you other panelists, let 
+me just say to you that it is easy for business people and 
+economists and theoreticians to announce all these things and 
+you tend not to consider the deep fundamental philosophical 
+problems we are creating when we do this. I heard Barney Frank 
+on the TV today cite the 100-and-something billion dollar 
+bailout of AIG in support of his belief that we should do 
+another $25 billion on top of the one we are talking about for 
+the automobile dealers.
+    So when the floodgates are open, guys, I mean, I know if 
+you could just run this economy and you could manipulate it 
+all, you think you could do better than Secretary Paulson. I 
+think you probably could, but----
+    [Laughter.]
+    Senator Sessions [continuing]. Once you start down that 
+road, it creates a lot of problems. In the long run, I think we 
+will look back and see that we would have been better being 
+much more modest than our actions today would suggest.
+    Chairman Conrad. Senator Nelson.
+    Senator Nelson. Thank you, Mr. Chairman.
+    In a few hours, we are going to vote on whether to proceed 
+to a bill on auto bailout. It is $25 billion and it has some 
+restrictions, I really don't know what restrictions, but any 
+advice?
+    Mr. Taylor. Well, I will just mention in answer to Senator 
+Gregg's question, I think the $25 billion you have already 
+decided on is there and should be used.
+    Senator Nelson. That is in the past. It is in the past.
+    Mr. Taylor. It is in the past. And so with respect to an 
+additional amount, no, I don't think that is the way that you 
+should go.
+    I read the testimony of the three CEOs from yesterday and I 
+read it very carefully with respect to the current economic 
+situation. The main rationale they have, if you look for it, of 
+course, they indicate why their companies are doing well and 
+they are winning this award and that award, but they also 
+mention that the reason they need this money is because of this 
+credit crunch, the credit crunch that we all talked about in 
+this testimony.
+    Well, why not every company in the United States who is 
+experiencing--you know, what about the small guys? What about 
+the small businesses who are facing exactly the same credit 
+crunch things? Why--and if you add them up around the country, 
+there are more workers involved. So that is my----
+    Senator Nelson. OK. Let me, with the limited amount of 
+time, let me get the other two. Dr. Johnson?
+    Mr. Johnson. I think that this is a terribly difficult 
+decision, because I think you are in danger of opening the 
+floodgates. The only case that I can see for--two cases I can 
+see for this are if you believe that Chapter 11 bankruptcy 
+would actually lead to the closure of the businesses and 
+massive disruptions through the suppliers, which is what they 
+claim. It is very hard for outsiders to evaluate fully. Some, I 
+think, smart analysts think that that might be a possibility, 
+and the question is do you want to take the risk in this 
+situation.
+    The second point is, why them and why not others? I think 
+they could potentially be systemic. They owe a trillion dollars 
+in debt. In fact, you could argue they have run their--at least 
+car companies have been run rather like banks that gave away 
+cars below cost as some sort of a very strange incentive 
+program. They made money on the loans. All of these loans have 
+now gone bad. Well, ordinarily, they should face the music and 
+ordinarily they should have to restructure. I think that is 
+where this is heading. Do you want to make them do it right 
+now? Do you want to gamble with that at this moment in the U.S. 
+economy and the global economy, with the importance of those 
+jobs in the U.S. economy?
+    I think it is really an unpleasant place to be in. But 
+unfortunately, at this moment, I think you have to get them 
+through the next few months. Then they have to do a Chrysler-
+type deal. With or without officially going bankrupt, they have 
+to have concessions from everybody, including the suppliers, 
+including the executives, including the workers. That is the 
+only way they are getting out of this.
+    And they have to push through restructuring. GM cannot 
+explain why they still have so many brands and so many models. 
+There are a lot of things that still don't make sense about the 
+way they run their business. I don't think we can afford to 
+have them collapse right now.
+    Senator Nelson. And the problem is, the collapse of 
+Chrysler, which I voted on years ago as a young Congressman, we 
+had a Lee Iacocca who offered some leadership. There are no Lee 
+Iacoccas today. As a matter of fact, the way that they have 
+conducted themselves over the years makes me doubt anything 
+that they are saying, so that when they say, well, we will go 
+into Chapter 11, well, I really don't know that that is true.
+    Dr. Zandi, do you know if that is true?
+    Mr. Zandi. I think there is a very good chance they will go 
+into bankruptcy.
+    Senator Nelson. Between now and January?
+    Mr. Zandi. Yes, a reasonable probability that they would, 
+just looking at their cash and how quickly they are burning 
+through their cash. But I don't know that I would vote--I don't 
+think I would vote for this legislation. I think bankruptcy is 
+the appropriate way to go and I think when they got into 
+bankruptcy, if they were having trouble getting financing to 
+have an orderly bankruptcy, which would be why they would go 
+from a Chapter 11 to an effective 7, a liquidation, and that is 
+when you would see the massive layoffs, it would be at that 
+point that I think you might want to respond, either through 
+some kind of guarantee to that financing or it may even be a 
+place, and I don't know this for sure, but it may even be a 
+place for the Federal Reserve to enter in. They may be able to 
+provide some guarantees on that financing.
+    Because I think you are right. If you give them the money, 
+it would be very surprising to me if they don't come back for 
+more money. And it would also be very surprising to me that 
+they could go through the restructuring that they need to to 
+become viable companies in the long run. The only way that is 
+going to happen, I think, is if they go through the very 
+painful bankruptcy process, because that is going to bring all 
+of the stakeholders of these companies together, the creditors, 
+the management, the shareholders, the unions, and they are all 
+going to have to make those tough choices together, and I don't 
+think those are choices that they are going to make outside of 
+bankruptcy.
+    Senator Nelson. Let me go back a few weeks ago when we were 
+told--we were all on a conference call on our Democratic Caucus 
+with Paulson and Bernanke. The Republican Caucus had done the 
+same thing. They, those two, told us that there could be a 
+complete economic meltdown by Monday, when this was a Friday 
+conference call. Was that accurate? They said there could be 
+unless we signaled that we were going to do something, which we 
+did. Was that true?
+    Mr. Zandi. In my view, that was a very significant risk and 
+threat, that the financial system broadly was literally on the 
+precipice of collapse, meaning that you would have a lot of 
+major institutions failing and it would shut down the system 
+completely. Yes, I think that was a reasonable threat, yes, 
+risk.
+    Mr. Johnson. You didn't say which Friday it was, but if I 
+can guess which Friday it was----
+    Senator Nelson. Yes, it was when all this stuff started.
+    Mr. Taylor. It was September 19.
+    Senator Nelson. Yes.
+    Mr. Johnson. Then I think their assessment on that day was 
+correct, and I think--remember how they got there, or remember 
+that the week before, they had declined to save Lehman and many 
+people, including myself, thought that was a very brave move 
+and I thought they must have done the math very carefully and I 
+presume that they knew that the consequences would not be 
+severe, and I don't know what they knew and they didn't know, 
+but 2 days later, they had to save AIG because of the way these 
+things are interconnected and the way that the financial system 
+is structured.
+    That is the danger here, is that you can make a decision 
+about not saving an entity that is very interconnected, has a 
+huge amount of debt, and 2 days later, you have to put a lot 
+more money into preventing the system from collapsing.
+    Senator Nelson. And we are still putting money into the 
+black hole of AIG.
+    Mr. Johnson. And I think you will be for some time.
+    Senator Nelson. Did you have a comment, Dr. Taylor, and 
+then I will----
+    Mr. Taylor. Yes. I remember September 19 very well. I 
+wasn't, unfortunately, privy to the conference calls or however 
+the meetings took place here so I can't really assess what 
+Chairman Bernanke or Secretary Paulson said that day----
+    Senator Nelson. Well, they said just what I said.
+    Mr. Taylor. I do feel that a lot of the things that 
+happened, if you look at the TED spread that the Chairman put 
+up or look at the chart in my picture, a lot of that happened 
+after September 19, OK, so it was after the decision to go 
+ahead and do something. So I think, again, going back to 
+Senator Murray's question, there are a lot of questions about 
+how the response to that took place and the confidence problems 
+that that response itself created. It was the whole month of--
+the rest of September and October were the worst performance we 
+have had in these markets in a long, long time.
+    Senator Nelson. Thank you, Mr. Chairman.
+    Chairman Conrad. Thank you, Senator Nelson.
+    Let me just reclaim my time, then we will go to Senator 
+Whitehouse.
+    Senator Nelson. You were very gracious, by the way, to 
+defer so that your other members of the committee can ask 
+questions first. That should be noted for the record.
+    Chairman Conrad. Thank you.
+    I was on that call, as well, and I remember, in fact, I 
+thought the whole conversation was so striking, I wrote it 
+down. I can't remember if it was a Thursday or a Friday, and we 
+were told, I remember very, very clearly, No. 1, if you don't 
+act, the following things are going to happen. No. 2, No. 1, 
+there will be massive additional failures. No. 2, the stock 
+market will collapse. No. 3, the country will enter a deep and 
+possibly protracted recession.
+    And those statements were notable for their absence of 
+hedge words. There was no, this might happen, this could 
+happen. These were declarative statements. There will be 
+massive additional failures. The stock market will collapse. 
+And this nation will enter a deep and possibly protracted 
+recession, and I took that down as they talked because I 
+thought it was historically an important conversation.
+    Let me go back to how did we get in this mess. I have been 
+asked--I have just done 50 community forums in my State and I 
+was asked, what is the root cause of all this? And I know so 
+much of the talk is housing, and I know, Dr. Zandi, you are a 
+housing specialist. My own reaction has been my belief is that 
+at the root of all this in terms of government responsibility 
+is simultaneously, we had a very loose monetary policy and a 
+very loose fiscal policy. Unusual if you look at economic 
+history to have a very loose fiscal policy, a very loose 
+monetary policy simultaneously, and we understand the roots of 
+it.
+    Dr. Taylor, you referenced the monetary policy side of it. 
+We had the Federal Reserve go to 1 percent on the discount rate 
+because of 9/11 and stayed there a long time. Simultaneously, 
+we were running massive budget deficits. My own belief is that 
+created a seedbed for bubbles. And we didn't get just a housing 
+bubble. We certainly got that, but we also got an energy 
+bubble. We got a commodity bubble. I mean, wheat went to $18 a 
+bushel. These things all happened and they happened together, 
+and I believe they had a common genesis.
+    Coupled with that was deregulation. Coupled with that was 
+individuals taking on debt they had no business taking on. 
+Coupled with that, lenders making loans they had no business 
+making, no documentation loans, liars' loans as they call them. 
+So we really cooked a stew.
+    So on the one hand, my own belief is that created the 
+climate for bubbles to collapse, and when bubbles collapse, 
+there is a lot of economic wreckage.
+    So how do we get out of it? Short-term, I believe you do 
+have to have stimulus. You have to have lift to this economy. 
+Only the Federal Government can do it because credit markets 
+are still debilitated and you have very serious falling demand, 
+aggregate demand. So you have to give lift.
+    On the other hand, I also believe that if we don't send a 
+signal and enter a process to get us back to fiscal 
+responsibility, we will lose credibility and we will have the 
+danger of even greater long-term damage.
+    So my view is, and this is what I would like your reaction 
+to and response to----
+    Senator Gregg. Can we, Mr. Chairman, before they react, put 
+that opening statement by yourself in bold letters and 
+distribute it to our membership, because you just hit the nail 
+on the head, in my opinion.
+    Chairman Conrad. Well----
+    Senator Nelson. Amen.
+    Chairman Conrad. I hope I have hit the nail on the head. We 
+will see. I think it is so important that at the time we do 
+another stimulus package, we also enter into a process to 
+restore fiscal discipline. I think this whole exercise is not 
+going to have much credibility, and I liked, Dr. Taylor, very 
+much some of the words that you applied here. Dr. Zandi, I 
+liked very much your specific proposals. Dr. Johnson, I liked 
+your bringing to our attention, remember, this is global. This 
+is unlike what we have seen before.
+    But how about that basic construct, that while we do 
+stimulus, simultaneously we set in place a process to restore 
+fiscal discipline? Dr. Zandi, I would just go right down the 
+line.
+    Mr. Zandi. Yes, I think that is vital, because on the 
+immediate other side of the crisis will be the next crisis, and 
+that is our long-term fiscal problems, that we will be right 
+into the middle of Medicare, Medicaid, Social Security, and the 
+math is very daunting. So there is not--I had thought before 
+the crisis that we would have a bit of a window where we could 
+put a process together and really think about this carefully. 
+But unfortunately, that is not the cards we have been dealt. So 
+we are going to have a trillion-dollar deficit this year. We 
+are going to have a trillion-dollar deficit next year. Even if 
+the economy recovers reasonably well, we are going to have very 
+large budget deficits unless we make real changes.
+    One thing you could do in the fiscal stimulus package with 
+respect--I think all the spending, which is very important for 
+near-term stimulus, should be temporary and it should be very 
+clear that this is temporary. And I think that provides a very 
+large bang for the buck. It creates a lot of jobs and that 
+fills the hole left by the pull-back by consumers.
+    On the tax side, I do think it might be worthwhile to make 
+permanent the lower tax rates for current lower-middle-income 
+households, and then for upper-income households, tell them 
+exactly how their tax rates are going to rise and when they are 
+going to rise. It probably shouldn't be 2011, and I am not sure 
+what date it should be, 2012, 2013, and it phase in over a 4-
+year period, but it becomes very clear, to go to Dr. Taylor's 
+predictable, that you know exactly when those tax rates are 
+going to rise and people can plan for it.
+    And all of the tax dollars that are generated from that 
+should go to deficit reduction, that it shouldn't be used for 
+anything other than this is going to be a starting point for 
+paying for those big deficits we know we are going to face in 
+the out years after we get by this crisis.
+    But I think as part of the stimulus, if you can do that, I 
+think it creates predictability and it also is at least a good 
+start to trying to address the long-term fiscal problems.
+    Chairman Conrad. Dr. Johnson.
+    Mr. Johnson. I agree very much with what you are saying and 
+I would reinforce it in the following way. I think because of 
+the global nature of the economy and our global financial 
+system, you have to expect that there will be bubbles, again, 
+either somewhere else or actually in the United States. The 
+capital will come in, and this is a little bit about the 
+capital flows we talk about through financing the trade 
+deficit, but much more than that, it is the gross capital 
+flows. Capital comes in and goes out every day. The amount of 
+capital that can come in whenever it sees an attractive 
+opportunity in the United States is enormous and you will not 
+stop it.
+    The Federal Reserve will not stop the bubbles, I am afraid, 
+just that is the nature of these things. The regulators, even 
+though I am sure you will end up with much stronger, better 
+regulators, they also are not likely to prevent all asset 
+bubbles from developing.
+    So the only thing you have is the balance sheet, the 
+government balance sheet, and the willingness to deploy it when 
+necessary, but only when necessary, and that you only have the 
+balance, you only have the credibility if you preserve it in 
+the good times.
+    So I am a little reluctant to commit to exactly the glide 
+path Mr. Zandi laid out because I don't know how long this 
+recession is going to be. I need a bit more time, 6 months at 
+least, to see where this is going. But I think the general idea 
+that you are expressing and that Professor Taylor was talking 
+about is right, that you want to keep the debt at sustainable 
+levels. You want to preserve your financial firepower for when 
+you need it.
+    And I think you don't need it very often, all right. You 
+need it in the aftermath of the collapse of these massive, 
+massive bubbles. I don't know if that is once every--I hope it 
+is not more than once every 10 years. That is the point of 
+fixing the regulation. I think you need it now, but you also 
+need to address the fiscal consolidation absolutely as a 
+priority going forward.
+    Chairman Conrad. Dr. Taylor.
+    Mr. Taylor. Yes, I would just add that one way to add to 
+the credibility that you rightly want to convey would be as 
+disciplined as possible in the package itself. In other words, 
+look for things, and I gave some suggestions, where you can 
+stimulate the economy without increasing the deficit. And the 
+more you--or even stimulate the economy and reduce the deficit. 
+So the more you can do to demonstrate currently fiscal 
+discipline, the more credibility you are going to have for the 
+future.
+    With respect to the tax rates, I see no reason to do 
+anything except to commit to keeping those rates from rising. 
+They are going to rise in 2010 right now in the law. I think 
+that has people worried. Again, it is more than 50 percent of 
+small business income is going to get a tax increase by current 
+law. It is more than 50 percent of capital gains income is 
+going to get a tax increase. And that can hurt--it is already, 
+in my view, hurting the economy.
+    So you can stimulate this economy by somehow, and I agree, 
+you have a political problem here, somehow committing that we 
+are not going to raise those taxes. We are going to put them 
+and make it as permanent as you can, plus do the things that I 
+mentioned that President-Elect Obama suggested.
+    Chairman Conrad. Senator Whitehouse.
+    Senator Whitehouse. Thank you, Mr. Chairman.
+    It appears that we all agree with the need for a 
+significant stimulus and soon. It also appears that we all also 
+agree that whatever stimulus we go forward with, it will 
+increase the deficit, whether it is tax cuts that reduce our 
+revenues and add to the deficit or additional spending that 
+adds to our spending and adds to the deficit. That is the 
+predicament that we have here. It seems to be the consensus 
+that right now, the stimulus is more important than the deficit 
+issue in an immediate sense, but the deficit debt problem is 
+one that is very significant, I think probably safe to say even 
+dangerous.
+    In balancing the stimulus that we require against the 
+deficit that we create, it strikes me that infrastructure has a 
+characteristic that is particularly valuable here, and that is 
+that you end up with an asset when you are done with the 
+spending. And if you presume for a moment that the asset was 
+necessary in the first place, that the bridge had to be built, 
+that the water treatment plant needed to be improved, that the 
+highway needed to be repaved, that the school needed to be 
+cleaned up, then in many respects, if you are doing that 
+spending now, it strikes me that you are really accelerating a 
+future liability and moving a cash asset into a physical asset 
+more than you are pure deficit spending, the way you would if 
+you just sort of threw it out there.
+    Do you agree? I see heads nodding. Do you agree that that 
+is an attribute of infrastructure stimulus, that it has a kind 
+of an inherent counterbalance or mitigating effect with respect 
+to the debt and deficit problem that we have?
+    Mr. Zandi. Yes, I strongly agree with that statement. The 
+only rap against infrastructure spending is it takes, at least 
+historical rap, is that it takes a long time to really have a 
+benefit to the economy. You have to do the plans. You have to 
+cut the checks. You have to hire the people. That could be a 
+year or two from now.
+    Senator Whitehouse. Let me jump in on you there on that, 
+because an enormous--I am not expert in this and you all, of 
+course, are, but an enormous amount of what I hear talked about 
+in this context is confidence. And it strikes me that if a 
+Rhode Island carpenter or a Rhode Island laborer or a Rhode 
+Island plumber knows that a significant contract for a 
+significant project just got let and he has a job there for the 
+next two or 3 years as that project gets built, that 
+individual's confidence and their appreciation and their sense 
+of relief that they might make it through this thing improves 
+day one, even if the actual funding doesn't come through in the 
+future. Isn't there some value to that?
+    Mr. Zandi. Yes, I think that is a very reasonable argument. 
+I was just going to make the other argument that the problems 
+that we are in are longer-term. They are not the next 6 months. 
+They are not even 12 months. This seems to be a two-, 3-year 
+problem----
+    Senator Whitehouse. Yes.
+    Mr. Zandi [continuing]. That even if the money gets into 
+the economy in 2010, that is going to do us a lot of good.
+    Senator Whitehouse. Yes.
+    Mr. Zandi. The other thing to consider, just from a pure 
+mathematical perspective, if the Treasury borrows at 4 percent, 
+I think most estimates, academic estimates I have seen on the 
+return on public investment, public infrastructure, is much 
+greater than 4 percent. So it almost makes sense from just a 
+purely investment perspective. So it gives you the stimulus, 
+and as you say, you get an asset that yields a return that is 
+higher than the cost of the financing.
+    Senator Whitehouse. And let me add one more factor in 
+there. What if we were to focus the infrastructure in areas 
+that were of added societal benefit? I mean, one of the things 
+when we think about infrastructure, we very often think about 
+things that the Romans could build, you know, roads, bridges, 
+aqueducts, water facilities. But we need to transition to a 
+green economy. If we do so, there will be substantial rewards 
+in terms of the reduction of our reliance on foreign oil and 
+the hemorrhaging of our funds to oil-producing countries.
+    If we invest in, for instance, a health information 
+technology infrastructure, almost every expert agrees that that 
+investment will help turn around the direction of health care 
+costs. It may even reduce them substantially.
+    Is it worth, in the context of the infrastructure, looking 
+beyond Roman infrastructure and looking at other elements that 
+may provide added both economic and social benefit, 
+particularly in the environmental/energy and health care areas?
+    Mr. Zandi. I think it is very reasonable. That was your 
+point.
+    Mr. Johnson. Yes. I think that that is a very good 
+additional point to think about. Investment in new technology 
+often overlaps with infrastructure. I think that is what you 
+are saying. And I think this is a very important opportunity 
+because we are facing a longer-term problem and not a 1-year 
+problem. But I think we are agreeing it is a two-, three-, or 
+4-year problem. Now is the right time to make some sensible 
+decisions.
+    I would stress the need to be careful. There are countries 
+out there that are spending a lot of money on infrastructure, 
+countries like Japan, that end up spending a lot of money on 
+bridges to nowhere. I don't think U.S. is in that situation. I 
+think we have some very pressing infrastructure needs in terms 
+of upgrading and doing proper maintenance on existing Roman 
+infrastructure, Roman-type infrastructure, and then investing 
+further in that kind of more traditional infrastructure. I 
+would support that as long as it is done carefully. And you do 
+have time to do it now.
+    Senator Whitehouse. Yes, and the premise of my question was 
+that this was, in fact, necessary infrastructure and not 
+bridges to nowhere.
+    Mr. Johnson. Well, the other point I would emphasize is 
+that low oil prices, low commodity prices actually give you 
+good value for money in terms of infrastructure spending now. 
+Building bridges and roads now is much cheaper because oil 
+prices are low and they are going to be lower, and other input 
+prices are going to be lower. So this is actually a very good 
+time in terms of the global cycle to make those kinds of 
+investments. You get good returns.
+    Senator Whitehouse. Dr. Taylor, I am down to 43 seconds. Do 
+you have anything to add? I am sorry, we have kind of run you--
+--
+    Mr. Taylor. Just very quickly, it seems to me that if you 
+do believe that the decisions are being made correctly about 
+what infrastructure we need and that there have been decisions 
+made, bring those forward as much as you can, the ones that 
+already are authorized or even appropriated. Bring those 
+forward. That is, to me, the place to start. And it goes back 
+to the idea of looking for ways to stimulate without adding to 
+the deficit, which is, really, we need to be doing that as much 
+as possible.
+    And I just say, when you talk about public sector, jobs 
+created by the public sector, don't forget the private sector 
+is by far the biggest source of job creation, and anything you 
+can do to help create jobs at private firms should be the 
+highest priority.
+    Senator Whitehouse. Understood. I appreciate the witnesses' 
+answers and I appreciate the Chairman's courtesy, Mr. Chairman.
+    Chairman Conrad. I thank you Senator.
+    Senator Gregg, would you like----
+    Senator Gregg. I want to thank the panel. It has been 
+extraordinarily informative.
+    Chairman Conrad. I first of all want to thank Senator Gregg 
+very much for helping us organize this panel. I think this has 
+been really exceptionally good. We have had different 
+perspectives from each one of you, very valuable to the work of 
+this committee and more broadly to the work of the Senate in 
+the days ahead. I am certain we will be calling on you in the 
+future. I hope that you are available to us. I think you have 
+provided a lot of food for thought here, and I want to thank 
+you all very, very much.
+    The hearing is adjourned.
+    [Whereupon, at 11:55 a.m., the committee was adjourned.]
+
+                                 <all>
+
+</pre></body></html>

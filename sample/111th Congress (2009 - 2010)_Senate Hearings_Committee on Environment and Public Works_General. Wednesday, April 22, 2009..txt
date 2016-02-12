@@ -1,0 +1,1815 @@
+<html>
+<title> - OVERSIGHT OF THE GSA AND ENERGY EFFICIENCY IN PUBLIC BUILDINGS</title>
+<body><pre>
+[Senate Hearing 111-1187]
+[From the U.S. Government Publishing Office]
+
+
+
+
+ 
+ 
+
+                                                       S. Hrg. 111-1187
+
+                        OVERSIGHT OF THE GSA AND
+                 ENERGY EFFICIENCY IN PUBLIC BUILDINGS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+                      ENVIRONMENT AND PUBLIC WORKS
+                          UNITED STATES SENATE
+
+                     ONE HUNDRED ELEVENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             APRIL 22, 2009
+
+                               __________
+
+  Printed for the use of the Committee on Environment and Public Works
+
+
+
+       Available via the World Wide Web: http://www.gpo.gov/fdsys
+
+                              
+                               _________
+
+
+                     U.S. GOVERNMENT PUBLISHING OFFICE 
+
+94-029 PDF                     WASHINGTON : 2015 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Publishing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001    
+                          
+                          
+               COMMITTEE ON ENVIRONMENT AND PUBLIC WORKS
+
+                     ONE HUNDRED ELEVENTH CONGRESS
+                     
+                             FIRST SESSION
+
+                  BARBARA BOXER, California, Chairman
+MAX BAUCUS, Montana                  JAMES M. INHOFE, Oklahoma
+THOMAS R. CARPER, Delaware           GEORGE V. VOINOVICH, Ohio
+FRANK R. LAUTENBERG, New Jersey      DAVID VITTER, Louisiana
+BENJAMIN L. CARDIN, Maryland         JOHN BARRASSO, Wyoming
+BERNARD SANDERS, Vermont             MIKE CRAPO, Idaho
+AMY KLOBUCHAR, Minnesota             CHRISTOPHER S. BOND, Missouri
+SHELDON WHITEHOUSE, Rhode Island     LAMAR ALEXANDER, Tennessee
+TOM UDALL, New Mexico
+JEFF MERKLEY, Oregon
+KIRSTEN GILLIBRAND, New York
+ARLEN SPECTER, Pennsylvania
+
+                    Bettina Poirier, Staff Director
+                 Ruth Van Mark, Minority Staff Director
+                 
+                 
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+
+                             APRIL 22, 2009
+                           OPENING STATEMENTS
+
+Boxer, Hon. Barbara, U.S. Senator from the State of California...     1
+Cardin, Hon. Benjamin L., U.S. Senator from the State of 
+  Maryland, prepared statement...................................   130
+Inhofe, Hon. James M., U.S. Senator from the State of Oklahoma, 
+  prepared statement.............................................   131
+
+                               WITNESSES
+
+Prouty, Paul F., Acting Administrator, General Services 
+  Administration, Accompanied by: Tony Costa, Acting 
+  Commissioner, Public Buildings Service; Bill Guerin, Recovery 
+  Executive, Recovery Program Management Office, Public Buildings 
+  Service; and Kevin Kampschroer, Acting Director, Office of 
+  Federal High-Performance Green Buildings.......................     1
+    Prepared statement...........................................     5
+    Responses to additional questions from Senator Carper........    10
+    Response to an additional question from Senator Lautenberg...    20
+    Responses to additional questions from:
+        Senator Cardin...........................................    21
+        Senator Whitehouse.......................................    24
+        Senator Inhofe...........................................    26
+Gatlin, Doug, Vice President, Market Development, U.S. Green 
+  Building Council...............................................    57
+    Prepared statement...........................................    60
+    Response to an additional question from Senator Carper.......    72
+    Responses to additional questions from Senator Inhofe........    72
+Burt, Lane, Energy Policy Analyst, Natural Resources Defense 
+  Council........................................................    77
+    Prepared statement...........................................    79
+    Response to an additional question from Senator Carper.......    91
+    Responses to additional questions from Senator Inhofe........    91
+Bryan, Harvey, Professor, School of Architecture and Landscape 
+  Architecture, School of Sustainability, Arizona State 
+  University.....................................................    97
+    Prepared statement...........................................    99
+    Response to an additional question from Senator Carper.......   114
+    Responses to additional questions from Senator Inhofe........   114
+
+                          ADDITIONAL MATERIAL
+
+Testimony of Associated Builders and Contractors.................   133
+Statement from the American Forest & Paper Association...........   142
+An Analysis of the Financial Performance of Green Office 
+  Buildings in the USA...........................................   148
+Statement from Independent Electrical Contractors................   190
+Testimony of the National Association of Home Builders...........   193
+Testimony of the National Energy Management Institute............   200
+Information from the Sustainable Forestry Initiative.............   208
+Study of the Effects on Employment of Public Aid to Renewable 
+  Energy Sources.................................................   214
+Research paper on Green Jobs Myths...............................   263
+
+ 
+     OVERSIGHT OF THE GSA AND ENERGY EFFICIENCY IN PUBLIC BUILDINGS
+
+                              ----------                              
+
+
+                       WEDNESDAY, APRIL 22, 2009
+
+                                       U.S. Senate,
+                 Committee on Environment and Public Works,
+                                                    Washington, DC.
+    The full committee met, pursuant to notice, at 10 a.m. in 
+room 406, Dirksen Senate Office Building, Hon. Barbara Boxer 
+(chairman of the full committee) presiding.
+    Present: Senators Boxer, Inhofe, Lautenberg, Klobuchar, 
+Udall, and Merkley.
+
+           OPENING STATEMENT OF HON. BARBARA BOXER, 
+           U.S. SENATOR FROM THE STATE OF CALIFORNIA
+
+    Senator Boxer. Good morning. Happy Earth Day to all.
+    We are going to skip opening statements because we want to 
+get right to our panel. We have two purposes this morning. One 
+is to see how we are doing on the Recovery Act, because there 
+was a good chunk of money that we provided to GSA to convert 
+their facilities to high-performance green buildings. We want 
+to know how that is coming. That is the first thing.
+    The second panel, we will hear from building and energy 
+efficiency experts from outside of Government regarding the 
+progress that has been made to date and the barriers to further 
+improvement. We are working across the aisle to write some 
+legislation to see if we can do more to move even faster and 
+further on our GSA efficiency efforts.
+    So with that, I am very happy to open it up and glad to 
+have those of you here. There is a lot going on today. I think 
+Al Gore is over on the other side of the building talking about 
+global warming, and John Kerry, I just left a hearing, he is 
+talking about the progress on the international side, of the 
+treaty that we are working on global warming.
+    So Mr. Prouty, why don't you go ahead and proceed.
+
+
+  STATEMENT OF PAUL F. PROUTY, ACTING ADMINISTRATOR, GENERAL 
+  SERVICES ADMINISTRATION, ACCOMPANIED BY: TONY COSTA, ACTING 
+ COMMISSIONER, PUBLIC BUILDINGS SERVICE; BILL GUERIN, RECOVERY 
+EXECUTIVE, RECOVERY PROGRAM MANAGEMENT OFFICE, PUBLIC BUILDINGS 
+  SERVICE; AND KEVIN KAMPSCHROER, ACTING DIRECTOR, OFFICE OF 
+            FEDERAL HIGH-PERFORMANCE GREEN BUILDINGS
+
+    Mr. Prouty. Thank you very much.
+    Good morning, Madam Chair, Ranking Member Inhofe and 
+members of this Committee. My name is Paul Prouty and I am the 
+Acting Administrator of the General Services Administration.
+    Thank you for inviting me to appear before you on Earth 
+Day. It is a fantastic opportunity for us to talk to you about 
+the things we are doing to make our Federal buildings more 
+energy efficient.
+    I am pleased to discuss GSA's contribution to our Nation's 
+economic recovery through green building modernization and 
+construction. The funds Congress provided GSA through the 
+American Recovery and Reinvestment Act are a sound investment 
+in many respects. First, the money will help GSA reduce energy 
+consumption and improve the environmental performance of our 
+inventory.
+    Second, the funds in large part will be invested in 
+existing infrastructure. This will help reduce our backlog of 
+repair and alteration needs and increase asset value, 
+prolonging their useful life and ultimately further conserving 
+our Country's resources.
+    Third, the money will lessen our reliance on costly 
+operating leases by providing more Government-owned solutions 
+for long-term client requirements.
+    Finally, we will stimulate job growth in the construction 
+and real estate sectors and prompt long-term improvements in 
+alternative energy solutions and green building and energy-
+efficient technologies.
+    Today, I will describe the steps we have taken to carry out 
+the public buildings services portion of the Recovery Act. With 
+me today are Tony Costa, Acting Commissioner of the Public 
+Buildings Service; Bill Guerin, the recovery executive in our 
+newly established Recovery Program Management Office; and Kevin 
+Kampschroer, our Acting Director of the Office of Federal High-
+Performance Green Buildings.
+    It is not business as usual at GSA. We are moving forward 
+with speed, tempered by careful consideration of our 
+procurement responsibilities and our ultimate accountability to 
+the citizens. To streamline business processes and provide 
+tools and resources to assist GSA's regional recovery project 
+delivery, we have established a nationally managed, regionally 
+executed Project Management Office. The PMO works closely with 
+counterparts in the core PBS organization to leverage resources 
+and expertise.
+    The PMO office develops and maintains consistent processes, 
+policies and guidelines, manages customer requirements and 
+expectations at the national level, drives successful project 
+oversight and management, ensures accurate tracking and 
+reporting of the Recovery Act funds, manages cross-agency 
+resources, and enables PBS to adopt leading practices.
+    PBS and the Program Management Office have moved forward 
+quickly. On March 31, GSA on behalf of the Administration, 
+delivered to Congress a list of 254 projects in all 50 States, 
+the District of Columbia, and two U.S. territories to be 
+completed with funds provided by the Recovery Act. These 
+projects fall in the following categories: new Federal 
+construction, full or partial building modernizations, and 
+limited scope, high-performance green building projects.
+    In the new Federal construction category, we will invest $1 
+billion in 17 projects. In the building modernization category, 
+we will invest $3.2 billion in 43 projects. And in the limited 
+scope green buildings category, we will invest $806 million in 
+194 projects.
+    GSA selected the best projects for accomplishing the goals 
+of the Recovery Act, based on a detailed analysis of a number 
+of factors. Our goals in developing the list were to put people 
+back to work quickly and to dramatically increase the 
+sustainability of our buildings.
+    Many of the projects in the new Federal construction and 
+building modernization categories have previously received 
+partial funding. We can start construction quickly on these 
+projects, while also identifying ways that existing designs can 
+be improved.
+    These categories include projects such as the Bishop Henry 
+Whipple Federal Building in Fort Snelling, Minnesota, a multi-
+tenant office building project where heating, ventilation and 
+air conditioning, plumbing, electrical and life safety 
+improvements are expected to deliver a 23.6 percent energy 
+savings. This is over and above the 20 percent in energy 
+savings we have achieved in this building in recent years.
+    Examples of the ways in which we will improve new 
+construction and major modernization projects we have selected 
+include thicker insulation than required by the newest energy 
+codes in climates where it makes sense; installing variable 
+frequency drives to reduce energy and extend the life of 
+mechanical equipment; converting parking structure lighting to 
+light emitting diode LED, which dramatically lowers energy 
+consumption, improves safety and visibility, and reduces 
+maintenance; retrofitting or replacing less efficient windows; 
+and specifying dual flush toilets and waterless or low water 
+urinals to save water and reduce demand on aging city sewer 
+systems.
+    An example of the innovative improvements we will be making 
+in some of the construction and modernization projects is the 
+Edith Green-Wendell Wyatt Federal Building in Portland, Oregon. 
+As part of this project, GSA will install a new high-
+performance double glass enclosure over the entire building, 
+which will dramatically enhance energy performance and blast 
+resistance. On the west facade, vegetative fins will provide 
+shade, and reduce the load of the new high-efficiency heating, 
+ventilation and air conditioning system that will be installed.
+    These are just some of the green improvements that GSA will 
+make as part of this project. We expect the building to attain 
+a LEED gold rating.
+    By using well-established contracting techniques, we can 
+start work quickly and make simultaneous improvements on 
+existing designs.
+    In the limited scope category, we have identified a number 
+of basic projects that can rapidly be deployed in many 
+buildings at once, buildings as varied as Oklahoma City Federal 
+Building, the Burlington Federal Building, U.S. Post Office and 
+Courthouse, and the J. Caleb Boggs Courthouse and Federal 
+Buildings in Wilmington, Delaware.
+    Through these basic projects, we can make significant 
+improvement to the energy performance of a building and also 
+improve the working conditions for the people in them.
+    Three examples of these improvements are installing 
+intelligent lighting systems that provide daylight and controls 
+for occupants to adjust for ambient light versus task light; 
+replacing flat roofs with ENERGY STAR membranes, integrated 
+photovoltaic panels bonded to the membrane or planted roofs; 
+accelerating the installation of advanced meters, which is 
+required to be completed by 2012 under the Energy Policy Act. 
+Advanced meters enable us to better manage buildings by 
+instantaneously providing information on buildings' energy use 
+and encouraging immediate operational changes.
+    For these projects, we have developed standard national 
+scopes of work, some of which were provided by the national 
+laboratories run by the Department of Energy. DOE's Federal 
+Energy Management Program, in conjunction with the National 
+Renewable Energy Laboratory has provided specifications for the 
+four most common types of solar installation. The Commercial 
+Buildings Program at DOE and the Pacific Northwest National 
+Laboratory have provided specifications for three classes of 
+lighting and control strategies. We have also developed 
+standards using GSA's past projects as models.
+    Today, I have described the unprecedented and exciting 
+opportunity that lies before us to contribute to our Nation's 
+economic recovery by investing in green technologies and 
+reinvesting in our public buildings.
+    Greening our buildings will be an ongoing process. As the 
+Committee knows, the Energy Independence and Security Act of 
+2007 and other laws require GSA, among other things, to reduce 
+its energy consumption by 30 percent by 2015; reduce fossil 
+fuel generated energy consumption in our new buildings by 
+increasing amounts from 55 percent in 2010 to 100 percent in 
+2030; and to green an even greater portion of our inventory. 
+Although the Recovery Act will accelerate our progress in these 
+areas, it alone will not enable us to meet these goals.
+    We look forward to working with you and Members of this 
+Committee as we engage in this important work.
+    Madam Chair, Ranking Member Inhofe, this concludes my 
+prepared statement. We will be pleased to answer any questions 
+that you or any other members of this Committee may have. I 
+would like to request that Messrs. Costa, Guerin, and 
+Kampschroer join me for the questions.
+    [The prepared statement of Mr. Prouty follows:]
+    
+    [GRAPHIC] [TIFF OMITTED] 
+    
+    Senator Boxer. Well, Mr. Prouty, I just want to say I am 
+very excited about your presentation. Would you like to 
+introduce the people you brought with you?
+    Mr. Prouty. I would very much like to do so.
+    This is Tony Costa. He is the Acting Commissioner of the 
+Public Buildings Service. This is Bill Guerin, who is running 
+our recovery work for the Public Buildings Service. And Kevin 
+Kampschroer, who is head of our Green Program.
+    Senator Boxer. Wonderful.
+    I am so happy we have been joined by Senator Lautenberg, 
+who is such a leader in the whole area of green buildings and 
+worked so hard to get some of those laws passed that you talked 
+about.
+    I want to just say people don't realize, and Senator 
+Lautenberg, you and I know this, buildings are 39 percent of 
+the problem when it comes to greenhouse gas emissions. So when 
+we make a building green, we are not only saving money, we are 
+not only improving air quality, but we are absolutely 
+confronting head on the issue of greenhouse gas emissions and 
+global warming.
+    I have long believed, and you have, Senator, and I am sure 
+you have all out there believed that the Federal Government 
+ought to be a model when it comes to the environment. And today 
+is Earth Day, and the reason I held this hearing is I want to 
+make sure that you are on track with this stimulus bill. It 
+sounds very good. And Senator, I am going to make available to 
+you a list of all their projects that they have already decided 
+they are going to do under the Stimulus Act.
+    And what I also wanted to say just for the record is that 
+GSA is the lessee or owner of over 354 million square feet of 
+space in 8,600 buildings located in more than 2,200 communities 
+nationwide. And you know, frankly, we have lost this 
+opportunity before, but now this new President and this 
+Congress believe that we can make a real difference if we take 
+the lead here, not only in the actual improvements that will be 
+made to the buildings, our buildings, the people's buildings, 
+but also showing that yes, there is a model for everyone else 
+to follow. I want us to be that model.
+    So I will make sure that everybody has this list. I am 
+looking to see what is going on in New Jersey. Yes, the 
+Paterson, the Robert A. Roe Federal Building in Paterson, New 
+Jersey is getting a big hunk of the stimulus money to make it 
+energy efficient.
+    Senator Lautenberg. The fact that I was born in Paterson 
+has nothing to do with it.
+    [Laughter.]
+    Senator Boxer. Well, I am sure it is just a coincidence 
+here, but you know, there is so much room for improvement.
+    So I have just a couple of questions. Is there anything in 
+particular, and I would ask all of you if you have a point, 
+that this Committee can do to ensure the successful execution 
+of the stimulus bill, otherwise known as the American Recovery 
+and Reinvestment Act? Are you experiencing any problems, 
+issues? And in your answer, could you tell me if most of these 
+improvements are being done in-house or are they contracted out 
+to the outside work force? And how is the new National Recovery 
+Executive Office operating to ensure that all these projects 
+are on track? Have you had any interaction with them, because 
+this Committee needs to oversee GSA.
+    We want to make sure, A, any problems you are having on 
+execution, how this National Recovery Executive Office is 
+working, and are you contracting out for most of these things 
+or doing them in-house?
+    Mr. Prouty. First of all, as far as any help we might need, 
+we at this point think that we quite frankly have all the help 
+that we need in all regards.
+    Senator Boxer. Good.
+    Mr. Prouty. This is a massive amount of funding and it is a 
+huge opportunity and we are up for the task.
+    As far as who is going to be doing the work, it is 
+primarily contracted out. Obviously, we have a staff that 
+manages the contracts for that.
+    Senator Boxer. So this is a boon to a lot of our businesses 
+across this Country. Is that correct? Out of all the 
+contracts--and I know I am interrupting you, but I am sorry--
+out of all the contracts you will be letting, how many have 
+been let already, do you think? Probably a small percent, I 
+would think at this point.
+    Mr. Costa.
+    Mr. Costa. Madam Chair, our plans are to award over $1 
+billion worth of project contracts by August, and so far----
+    Senator Boxer. A billion of the 4 billion?
+    Mr. Costs. A billion of the $5.5 billion.
+    Senator Boxer. OK. By August? And the rest?
+    Mr. Costa. The rest throughout the 18 months that we have 
+to spend the rest of the money.
+    Senator Boxer. Well, let me just say to you, and I know our 
+President has said this, the point of the stimulus bill is to 
+be a stimulus to this economy. In my State, I can only tell 
+you, 11.2 percent, the fifth worst unemployment. So we need 
+these funds to get out there, and we are going to be working. I 
+know that President Obama's team also believes that.
+    So that leads me to his National Recovery Executive Office. 
+Tell me, how is that working? Are they working in a good way 
+with you?
+    Mr. Costa. From the standpoint of outside of GSA, the 
+recovery?
+    Senator Boxer. Yes.
+    Mr. Costa. They have provided great support. We work 
+closely with them in two basic areas. As you know, there is a 
+lot of reporting that goes beyond anything we are used to that 
+we are going to be responding to. We think that is a great 
+thing because it will be not only better for us to manage our 
+own work, but letting the public and our stakeholders know how 
+we are doing actually is a great continuing check for us. So we 
+are looking forward to that and we have been working closely 
+with the recovery folks on doing that.
+    GSA is actually helping to manage recovery.gov, the 
+mechanism that is being used to pull all that information 
+together. So we are both involved.
+    Senator Boxer. Well, let me just say as Chairman of this 
+Committee, and I know I speak for Senator Inhofe on this, if 
+you run into any difficulties making this happen in any way, 
+you need to let us know. We want to encourage you to move 
+quickly, of course carefully, but quickly because the point of 
+the stimulus is just that. You know, to get a billion out by 
+August is good, but that leaves you with the bulk of the funds, 
+so we encourage you.
+    I guess my last question to Mr. Prouty at this point is, do 
+you have enough staff to get this done? I trust you are using 
+some of this to staff up. Is that correct?
+    Mr. Prouty. That particular money is not going to be what 
+we use for staffing, but we do have funding for additional 
+staff. We have been working with the Office of Personnel 
+Management to look for opportunities. We are going to bring 
+back people who previously worked for us.
+    Senator Boxer. Good.
+    Mr. Prouty. Obviously, there are some contracting vehicles. 
+We don't expect a large increase in permanent staff, but 
+temporary staff we do expect.
+    Senator Boxer. I think that is key, because otherwise, the 
+funds won't get there.
+    Now, I will tell you that I am working on a bill now with 
+my colleagues on both sides of the aisle to do even more with 
+GSA. I know our staff has been in close touch with you, and we 
+are just about ready to get that bill done. Is that correct, 
+Bettina? And so we will run it by you to make sure that it is 
+right where you want it to be and it is a reasonable bill. But 
+you know, my view is very strongly felt that we can be the 
+model, and that is what we should be.
+    We can't talk the game and not, you know, really walk the 
+walk. So I am very happy with what you have said today. I am 
+very happy at the spirit that I feel. I feel this is a new 
+time, new challenges. Everything you do will be marked. As 
+Chairman, I intend to go to visit some of these programs as 
+they get down the road a bit just to make the point of what we 
+are doing.
+    So with that, let me call on Senator Lautenberg.
+    Senator Lautenberg. Thank you, Madam Chairman.
+    Thank you, Mr. Prouty and your team, for doing the work 
+that you are. We are very encouraged by the early signs, I must 
+tell you. It is not the most glamorous part of assignments in 
+the Government. On the other hand, it is because there is a 
+question of believability in the public's minds whether or not 
+green can be that good for you. When a person has lost a job or 
+the economy is so shaky in front of us, it is a little hard to 
+say, OK, we are going to swap that kind of reality for a green 
+mission, one that will make our Country healthier, our 
+families.
+    As a matter of fact, I think Earth Day ought to have been 
+perhaps called something like Good Health Day, or Save the 
+Children Day, something that connotes a little more directness 
+and serious tone to things.
+    So I was happy, Madam Chairman, that the legislation that I 
+wrote in 2007 established the targets, established the mission, 
+established the Office of Federal High Performance Green 
+Buildings at GSA.
+    What kind of a role, Mr. Prouty, has that office taken on 
+to help get the reductions that are already there? We are using 
+26 percent less energy than we did just few years ago. That is 
+a major victory, or a major step forward. What did that office 
+have to do with it?
+    Mr. Prouty. Excuse me, if I may. That office obviously has 
+a large role Government-wide and also a large role in GSA. 
+Kevin Kampschroer is leading that office. If I might, I would 
+like to have him answer that question.
+    Mr. Kampschroer. For the last year when the office was 
+created by the Energy Independence and Security Act, and then 
+by the Administrator of General Services shortly thereafter, we 
+have been working with other Federal agencies to make sure that 
+the work of every agency is in concert with the others, both in 
+energy reductions and the improvement of high-performance green 
+buildings across the Government.
+    With regard to the application of those things, the work 
+that we did for the year enabled us to be poised when the 
+Recovery Act was passed to be able to make some very good 
+judgments very quickly on the projects that would be most 
+likely to yield the greatest returns in high-performance 
+improvements in the buildings. And those were the sets of 
+criteria that we were able to use.
+    We made use of the national labs, as the Administrator 
+mentioned in his statement, to help us analyze these data, and 
+also yield the limited scope, high-performance green building 
+projects that comprise the bulk of the number of projects on 
+the list, which are really focused on making the highest return 
+improvements both in the areas of building tune-up, building 
+mechanical systems improvements, and the lighting. Lighting in 
+particular because the technology has changed so significantly 
+over the last decade in lighting that we can make significant 
+improvements even in the case of a retrofit that might have 
+been done 10 or 15 years ago, which many were in our buildings.
+    And last, we are using in the case of roof replacement sort 
+of the judicious application of every form of renewable energy 
+generation that is appropriate both for the geographical 
+location and the physical configuration of the roof. So we have 
+some 20-odd projects where photovoltaic, for example, 
+generation will be included at the same time as dealing with a 
+significant infrastructure problem within our inventory, that 
+is to say leaking roofs and about 40 or so leaking roofs across 
+the Country. As a part of the Recovery Act, we will be 
+repairing every major leaking roof in our entire inventory.
+    Senator Lautenberg. I am sure that would be good news to 
+lots of people around the Country.
+    How many jobs might you think were created as a result of 
+that effort, this reduction in energy use? Were these jobs that 
+were handled within it sounds like a relatively simple program 
+because of the changes in technology in light bulbs and so 
+forth? How much of that was responsible for the reduction? And 
+did we have any significant job gain out there as a result of 
+this?
+    Mr. Kampschroer. Senator, we estimate based on a couple of 
+different studies that we researched, and we are not 
+economists, but based on the models that we have read about, we 
+believe that for every billion dollars of Recovery Act funding 
+in the construction arena, there will be 28,000 jobs created 
+across the Country in all different categories. They might be 
+construction jobs. They might also be design jobs in many 
+different professions. And that is a rough estimate. It is 
+maybe not the world's best economic model, but it is what we 
+were able to find.
+    Senator Lautenberg. So that is a future expectation. I am 
+really struck by this reduction in energy use of 26 percent. 
+That is over a period of a couple of years. Is that right?
+    Mr. Kampschroer. Nearly 30, yes, sir.
+    Senator Lautenberg. Nearly 30 years?
+    Mr. Kampschroer. Yes.
+    Senator Lautenberg. Oh, so we are going back a lot further 
+than I thought. Did we start in a serious way 30 years ago 
+trying to install less energy, lower energy projects?
+    Mr. Kampschroer. Between 1985 and 2005, in GSA's inventory 
+we reduced the overall energy consumption compared to the 
+baseline by 30 percent, and the Government as a whole by 26 
+percent during that same period.
+    Senator Lautenberg. OK. So this wasn't induced by the 
+legislation that was passed in these last couple of years. This 
+was a continuation of programs that were begun before.
+    Mr. Kampschroer. That is correct. And since the legislation 
+was passed in the last several years, beginning with the Energy 
+Policy Act in 2005 and the Energy Independence and Security Act 
+of 2007, the goals were increased first double and then triple 
+what they had been in previous laws. So now whereas we reduced 
+by 30 percent in 30 years under the old laws, our goal today is 
+30 percent in 10 years. And GSA is currently on track to meet 
+that goal as well. So we have significantly increased our 
+efforts in energy reduction even before the Recovery Act was 
+passed.
+    Senator Lautenberg. Yes. Because one of the things that we 
+see in the testimony is that GSA, among other things to reduce 
+energy consumption, the goal is 30 percent by 2015. Now, is 
+that a goal that was established based on the energy 
+consumption of 2007? Are we looking at a 2-year reduction? I am 
+sorry, in the 8-year period a reduction of 30 percent in fossil 
+fuel use?
+    Mr. Kampschroer. There are two interrelated goals in the 
+law. First of all is to reduce by 30 percent in 10 years with a 
+baseline of 2003 consumption in the buildings. So we reset the 
+baseline in 2003. As a part of that resetting the baseline, we 
+also increased the number of buildings that are being measured.
+    And second, we have a goal of reducing compared to private 
+sector the fossil fuel consumption of our buildings by 55 
+percent for those buildings that are under design today, either 
+new construction or major modernization, and then that number 
+between 2015 and 2030 ratchets up from 55 percent below to 100 
+percent below. So by 2030, our goal will be to design and 
+deliver buildings that consume no fossil fuel energy.
+    Senator Lautenberg. That is a terrific target. We hope you 
+don't miss it.
+    Mr. Kampschroer. Every project on the major modernization 
+list is being designed to use 55 percent less fossil fuel than 
+the commercial equivalents.
+    Senator Lautenberg. And one last thing. You talk about 
+releasing $1 billion by August for projects. What would you say 
+would be the principal programs that would help you achieve 
+your goal that this $1 billion will foster? And how long might 
+it be before we see that return on the $1 billion that we can 
+talk about?
+    Mr. Guerin. Senator, we have a series of things that we are 
+working on. We have several large projects that we are getting 
+ready to award that were designed and on the shelf ready to go. 
+An example of that would be the Austin Courthouse. We have a 
+series of programmatic activities, as Kevin was describing. The 
+single system projects in buildings that we will be pursuing in 
+the short term to get those awarded as well.
+    Senator Lautenberg. What are the single system projects?
+    Mr. Guerin. Like photovoltaics or the new roofs that Kevin 
+was referring to earlier. Those types of projects that can be 
+installed fairly quickly into buildings, we are going to design 
+and get those awarded as quickly as we can.
+    And then finally, we have a series of additional phases and 
+completions of projects that were waiting for funds, and we are 
+awarding those very quickly as well.
+    Senator Lautenberg. And this $1 billion will respond to the 
+formulas as we heard. How many jobs are created with each $1 
+billion expended?
+    Mr. Kampschroer. Roughly 28,000, sir.
+    Senator Lautenberg. Thanks.
+    Thank you, Madam Chairman.
+    Senator Boxer. You have gone almost 5 minutes over. I am 
+trying to get to the next panel because of their time 
+constraints.
+    Senator Lautenberg. Fine. Thank you.
+    Senator Boxer. And Senator Lautenberg, I think pressing on 
+this is important because we are going to see job creation, 
+green job creation right here.
+    So we want to thank all of you.
+    And Kevin, will you do me a favor and just put into the 
+record your recommendations of what more we can do as a 
+Committee to give you even more resources for more green in our 
+buildings, as we write our new legislation?
+    Mr. Kampschroer. Thank you. I would be happy to do so.
+    Senator Boxer. Thank you so much.
+    And thank you all. We are very proud of the work you are 
+doing. We love this attitude of yes we can. Who said that?
+    [Laughter.]
+    Senator Boxer. Who says, yes we can?
+    Senator Lautenberg. [Phrase in Spanish].
+    Senator Boxer. [Phrase in Spanish]. It sounds even better 
+in Spanish.
+    Will our next panel come up? Very happy to have you here.
+    And now we are going to have a vote, Senator Lautenberg, on 
+our global warming legislation.
+    I move it. Is there a second?
+    Senator Lautenberg. I second.
+    Senator Boxer. OK. I don't see Senator Inhofe here. What a 
+shame.
+    [Laughter.]
+    Senator Boxer. OK. Just have to have a little sense of 
+humor as we move forward. Thank you.
+    Our second panel: Doug Gatlin, Vice President, Market 
+Development, U.S. Green Building Council; Lane Burt, Energy 
+Policy Analyst, Natural Resources Defense Council; Harvey 
+Bryan, Ph.D., School of Architecture and Landscape, School of 
+Sustainability at Arizona State.
+    Are all three of our folks here? Yes, good. And we are very 
+happy to have you here. What we really want is to follow your 
+leadership on what more do you think we can do to make the 
+Government a real model of green. If we do that, I know I speak 
+for Senator Lautenberg and myself, we think this is a great way 
+to not only make measurable progress on greenhouse gas emission 
+reductions, but also to be a model.
+    So Mr. Gatlin, would you like to start off? U.S. Green 
+Building Council, Market Development, thank you.
+
+ STATEMENT OF DOUG GATLIN, VICE PRESIDENT, MARKET DEVELOPMENT, 
+                  U.S. GREEN BUILDING COUNCIL
+
+    Mr. Gatlin. Madam Chair, thank you very much, and Ranking 
+Member Inhofe, on behalf of the U.S. Green Building Council's 
+20,000 organizational members and 78 local chapters. We would 
+very much like to thank you and the Committee for the 
+opportunity to testify about the role that the U.S. General 
+Services Administration can play in improving the energy 
+efficiency and sustainability of Federal buildings.
+    My name is Doug Gatlin and I am the Vice President of 
+Market Development for the U.S. Green Building Council.
+    We have an opportunity before us as a Nation, an 
+opportunity to reach out and grab from an enormous pool of 
+untapped resources lying virtually under our noses. I am 
+referring to the flows of energy, water and materials that are 
+consumed in our buildings and homes each day. By marshaling a 
+combination of new efficiency technologies, integrated design, 
+and targeted building management practices, we can tap into 
+these flows and collectively achieve a 30 percent or greater 
+reduction in energy consumption and even more substantial 
+reductions in water consumption and solid waste generation.
+    As you know, buildings are responsible for 38 percent of 
+U.S. greenhouse emissions every year and consumer 13.6 percent 
+of all fresh drinking water, as well as 40 percent of raw 
+materials globally. Recognizing this impact, green buildings 
+are an essential element of both an energy security strategy 
+and a climate change response.
+    The potential returns are tremendous. According to a 2007 
+report by McKinsey and Company, improvements in the efficiency 
+of buildings and appliances could generate $160 billion in 
+cumulative savings by the year 2030. Now, tune-ups to building 
+systems and equipment known as existing building commissioning 
+present opportunities for greater savings without any new 
+capital investment. Commissioning of existing buildings can 
+improve energy efficiency by roughly 15 percent additional at a 
+median cost of only 27 cents per square foot. This offers an 
+attractive payback of roughly 6 months.
+    In the Federal sector, this could translate into some $650 
+million in annual savings if the entire Federal stock were 
+simply to be recommissioned or tuned up. Again, that is for 
+roughly 25 cents per square foot in buildings that typically 
+costs hundreds of dollars to build, and three to five dollars a 
+square foot just to operate. And this will create thousands of 
+new highly skilled jobs in the buildings trades and in 
+particular in the mechanical service contracting arena because 
+it is a virtually new service.
+    With an inventory of more than 1,500 Government-owned 
+buildings and 7,000 leased spaces, GSA is a critical partner in 
+the effort to reduce the environmental impact of our buildings. 
+GSA has already taken several significant steps to improve its 
+stock, including requiring that all new capital projects and 
+major renovation projects earn LEED certification. These 
+projects are yielding significant results. A 2008 GSA study of 
+12 green buildings in its portfolio found that the buildings 
+achieved a 30 percent reduction in energy usage and a 13 
+percent decline in average maintenance costs.
+    And last month, USGBC certified the world's first LEED 
+platinum-level building under our new existing buildings 
+operations and maintenance rating system. It is occupied by the 
+FBI in Chicago and it is leased through GSA. Numerous other 
+Federal projects have made similarly impressive strides.
+    Green building efforts stand to become an even greater 
+focus of GSA through the work of GSA's Office of Federal High-
+Performance Green Buildings, coupled with the $5.5 billion 
+received by GSA through the American Recovery and Reinvestment 
+Act. Importantly, the bulk of GSA's Recovery Act funds are 
+dedicated to a mix of new construction and major renovation 
+efforts in approximately 60 key projects.
+    The remaining funds for limited scope upgrades can be 
+augmented even further to greater ends through public-private 
+partnerships in the form of energy saving and green performance 
+contracts, and we recommend an increased adoption of these 
+measures by GSA. This is crucial, as the average age of the 
+Federal building stock is now currently right at 50 years on 
+average. So significant opportunities exist.
+    Green performance contracting draws upon an integrated 
+approach to encompassing energy and water-saving measures, as 
+well as features designed to improve the indoor health and 
+environmental quality of the buildings. Combining this model 
+with third party verifications such as that provided by the 
+LEED system can ensure that the buildings are both sustainable 
+and achieve optimal cost reductions. Expanding GSA's authority 
+to enter longer renewable power purchase agreements presents 
+similar opportunities for greening the Federal sector.
+    On Monday, April 27, the U.S. Green Building Council will 
+be launching our newest version of the LEED rating system. We 
+call is Version 2009, and we will also be adding a new customer 
+data entry platform which can accommodate up to one million 
+registered building projects. All told, this is for our 
+organization a more than 1,000 percent increase in our current 
+system capacity and we are doing this because of the enormous 
+exponential growth in demand for green building certification.
+    In sum, green building improvements to our existing stock 
+are so good that we really just can't afford not to do them. 
+They are cheap. In fact, they are profitable. They are good for 
+the planet and they are available immediately.
+    Thank you for your time and I would be happy to take any 
+further questions.
+    [The prepared statement of Mr. Gatlin follows:]
+    
+    [GRAPHIC] [TIFF OMITTED] 
+    
+    Senator Boxer. Thank you.
+    Mr. Burt.
+
+    STATEMENT OF LANE BURT, ENERGY POLICY ANALYST, NATURAL 
+                   RESOURCES DEFENSE COUNCIL
+
+    Mr. Burt. Thank you, Madam Chair, Senator Inhofe, and 
+members of the Committee. Thank you for inviting me to testify 
+on energy efficiency in public buildings. My name is Lane Burt 
+and I am an Energy Policy Analyst with the Natural Resources 
+Defense Council. I am NRDC's principal advocate for Federal 
+policies that promote building and equipment efficiency.
+    The topic of discussion today is extremely timely as we 
+continue to discuss how to reduce global warming pollution 
+while contributing to our economic recovery. Energy efficiency 
+can do both of these things. Energy efficiency is the fastest, 
+cleanest and cheapest energy resource that we have and it can 
+help us fight global climate change and reduce our addiction to 
+oil and revitalize our economy.
+    The opportunity for energy efficiency in our buildings is 
+tremendous. U.S. buildings are the largest single source of 
+global warming pollution in the United States and the site of 
+countless opportunities for efficiency improvements.
+    I would like to call your attention to this chart on the 
+left--your right, excuse me--that NRDC has developed from the 
+2007 study by McKinsey and Company, detailing the cost and 
+scope of reducing global warming pollution. The column on the 
+far left, highlighted in red, represents building efficiency. 
+The building efficiency measures not only have the largest 
+potential emission reductions of any option, but they also have 
+net negative costs, making money over time.
+    The conclusion is clear: building efficiency makes sense no 
+matter when or why it is being considered. In the context of 
+global climate change, building efficiency is imperative.
+    As the owner of a huge portfolio of buildings, the Federal 
+Government has a vital role to play in reducing emissions from 
+the buildings sector. We can cut emissions and keep future 
+taxpayer dollars from being unnecessarily wasted on energy if 
+we pursue efficiency opportunities. The GSA, as the Federal 
+Government's landlord, should lead the charge for all Federal 
+agencies on increasing energy efficiency.
+    Improving commercial buildings is faster and results in 
+larger savings per building than retrofits in the residential 
+sector, making this sector ideal for near-term investment. 
+Federal facilities are nearly three times the size of the 
+average commercial building, making the opportunity even 
+greater.
+    Reducing costs to taxpayers is important, however there are 
+additional benefits to be had as the GSA is an ideal laboratory 
+for cutting edge building improvements that could generate even 
+greater savings in the private sector. Agencies can utilize 
+emerging technologies and design strategies, thereby increasing 
+their market penetration and helping to bring down the price.
+    Water efficiency is also vital, as the economic 
+consequences of shortages demonstrate that water is more than 
+an environmental issue. To maximize energy and water savings in 
+the Federal facilities and lead the private sector, the GSA and 
+all Federal agencies should prioritize efficiency improvements 
+with their recovery funds. GSA has already demonstrated 
+impressive improvements in complying with the requirements of 
+the Energy Independence and Security Act of 2007 and they 
+should continue this progress with the use of ARRA funds.
+    Specifically, we suggest that GSA release savings targets 
+for energy, water and emissions in each project and document 
+their success in meeting those targets. Documenting the savings 
+in every building is the best way to oversee the progress of 
+the agency, identify problems, and demonstrate success.
+    The GSA should also create a strategy for attaining all the 
+remaining cost-effective energy efficiencies in their 
+facilities, share best practices with State and local 
+governments and the private sector, and share its most 
+effective building energy management strategies across agencies 
+to encourage further improvements.
+    There are also opportunities for GSA to lead by utilizing 
+new tools. NRDC has developed, with stakeholders from all 
+aspects of commercial real estate, an energy efficiency lease 
+that seeks to properly allocate the costs and benefits of 
+efficiency improvements between owners, tenants and brokers. 
+This is intended to address the market barrier of split 
+incentives where the owner cannot profit from efficiency 
+improvements because the tenants pay the energy bills. The GSA 
+and other agencies should offer this lease structure to its 
+building tenants, while requesting this structure of building 
+owners in spaces it leases.
+    The Federal tax deduction for energy efficient commercial 
+buildings can also be utilized by Federal facilities because it 
+contains an option to assign the deduction to the designer or 
+engineer responsible for the improvements. GSA should consider 
+utilizing the deduction in all projects.
+    In conclusion, Federal facilities should lead by pursuing 
+all cost-effective energy efficiency measures to reduce the 
+energy costs of these facilities. We welcome the Committee's 
+leadership on Federal building energy efficiency and I thank 
+you for allowing me to present these views.
+    This concludes my testimony.
+    [The prepared statement of Mr. Burt follows:]
+    
+    [GRAPHIC] [TIFF OMITTED] 
+    
+    Senator Boxer. Thanks, Mr. Burt.
+    Dr. Bryan.
+
+ STATEMENT OF HARVEY BRYAN, PROFESSOR, SCHOOL OF ARCHITECTURE 
+ AND LANDSCAPE ARCHITECTURE, SCHOOL OF SUSTAINABILITY, ARIZONA 
+                        STATE UNIVERSITY
+
+    Mr. Bryan. Chairman Boxer, Ranking Member Inhofe and 
+Members of the Committee, thank you for this opportunity to 
+honor Earth Day by participating in this hearing on behalf of 
+the Green Building Initiative or GBI, and the Green Globes 
+rating system.
+    I am a founding member of the GBI Board and Chairman of the 
+Energy Committee. My background is included in the written 
+submittal.
+    I am a specialist in energy issues and served on the ASHRAE 
+Committee responsible for developing the 90.1 national energy 
+standard. While currently active in the development of Green 
+Globes, I have also been active in the U.S. Green Building 
+Council. I am a LEED-accredited professional, and helped 
+shepherd several buildings through the LEED process, and was 
+founding member and was board member of the Arizona USGBC 
+chapter.
+    As an active member of the Green Buildings community, I 
+chose to support the development of the Green Globes system in 
+the United States because I believe strongly that the 
+marketplace needs multiple tools and approaches to achieve 
+high-performance buildings.
+    GBI commends the Committee for creating this opportunity to 
+testify about GSA and energy efficient issues, and we are 
+honored to be on this panel.
+    GSA has certainly been a leader in applying green building 
+practices and has made considerable progress. There are many 
+lessons to be gained from this experience. We also understand 
+that the Committee is interested in ensuring that dollars spent 
+on energy efficiency through the stimulus package results in 
+measured savings. To this end, we would like to address two 
+primary topics.
+    First, one of our greatest challenges is that many 
+buildings designed to be energy efficient fall short once 
+operational. GSA has many successes to its credit, but it is 
+not immune to this fact. A key to solving this problem will be 
+to shift the mind set of people who design, construct and 
+operate buildings so that form follows function and 
+performance, and become fundamental considerations from initial 
+concept through design, construction and operations.
+    The second issue is measuring and specifically the fact of 
+measuring buildings before and after they undergo renovations 
+must be a priority. To this end, the Green Globes system is a 
+good example of how practical and affordable tools can play 
+that important role.
+    Regarding the first issue of performance shortfalls, the 
+answer is better information, tools and education. Whether 
+planning for a new or major retrofit, decisions should be based 
+on the best performance data available. This is the area where 
+we as an industry have fallen short. We rely too heavily on 
+benchmarking to code. For instance, GSA has, as I understand, 
+an arsenal of data available on the energy performance of its 
+standard building pipes and has conducted baseline research on 
+occupant comfort in many of the buildings. And so this should 
+be used as the primary data base, rather than building better 
+than code.
+    It is worthwhile to note that innovative States such as 
+California have created new building performance data bases to 
+facilitate more accurate prediction because it is important to 
+have accurate historical performance data. In fact, the 
+Department of Energy's commercial building energy consumption 
+survey should receive more funds for investment.
+    With regard to education and training, portfolio managers 
+need tools to create baselines and interpret these results and 
+prioritize improvements. For many building managers, this type 
+of evaluation requires new tools.
+    Unfortunately, GSA has, in conjunction with DOE, has 
+recently written a policy that calls for the use of only one 
+rating system, LEED, for all Federal buildings that seek green 
+building certification for either major retrofit or new 
+construction. This approach not only supports a federally 
+mandated sole source contract with one organization, the USGBC, 
+the owner of the LEED system, but also stifles benefits and 
+competition, which there are many.
+    Because of the affordability and ease of use, Green Globes 
+has been used to evaluate a number of public and private sector 
+buildings. Federal agencies such as DHHS, Interior, Veterans 
+Affairs and State Department have used Green Globes.
+    In conclusion, GBI applauds GSA's leadership in applying 
+green building technology and practices. We hope that the 
+important part of the agency's plan will be to measure before 
+and after performance of buildings. We encourage Congress to 
+examine public policy in regards to new laws encouraging 
+benchmarking tools such as CBECS data base.
+    Last, we ask the Committee to give direction to GSA to 
+support the use of multiple rating systems and private sector 
+solutions to encourage competition in the marketplace.
+    Thank you for this opportunity today.
+    [The prepared statement of Mr. Bryan follows:]
+    
+    [GRAPHIC] [TIFF OMITTED] 
+    
+    Senator Boxer. Thank you, sir.
+    I would like to say, of course we need to measure. That is 
+absolutely essential. We want to make sure that when we spend a 
+dollar, we get more than that over time, and that is something 
+that I think everyone agrees with. Otherwise, we are wasting 
+our time and money.
+    I wanted to announce here, and Senator Lautenberg you would 
+be interested in this, Wal-Mart just put out a press release 
+just now that to broaden their sustainability efforts, they are 
+expanding their solar power program in California over the next 
+18 months at 10 to 20 additional Wal-Mart facilities. It is 
+very exciting because we know the jobs that will go with this. 
+They say increasing the use of solar is the right thing to do 
+for the environment and makes tremendous business sense, 
+especially in these economic conditions.
+    I think it is important to note a lot of my colleagues are 
+saying this isn't the time to do anything. It is the opposite. 
+When you move toward energy savings, it is going to be better 
+for the economy, for job creation. And they say that they are 
+committed to expanding their solar presence in California. I 
+would say it is because California's laws are so incentivizing 
+to putting in solar, wind and geothermal.
+    Mr. Gatlin, you mention in your testimony that GSA has 
+adopted your organization's green building rating system, which 
+I support. And it has set a goal for each project to receive at 
+least the silver certification. Now, there are two higher 
+certifications.
+    Is there any reason, and I would ask Mr. Burt the same, why 
+we shouldn't shoot higher for a platinum or a gold?
+    Mr. Gatlin. Well, I will just say that the USGBC has 
+attempted to set a benchmark target for green performance 
+without being prescriptive in any way about what measures or 
+pathways that organizations have to take. So we actually have 
+four certification levels, including basic, silver, gold and 
+platinum.
+    In a post-occupancy study that the New Buildings Institute 
+conducted for us 2 years ago, they found almost a lockstep 
+correlation of energy savings and the increased certification 
+levels on LEED, with platinum buildings achieving typically 40 
+percent energy savings.
+    So given the principle that the savings will actually pay 
+for the up-front investment, it in many cases is a good 
+investment. I think that GSA is simply setting a target that 
+they think is achievable, given that platinum buildings in many 
+cases require an all-out effort to use all available new 
+technologies and practices. So I think they would rather go 
+broad and achievable, rather than set a target that may be only 
+for a subset of their portfolio.
+    Senator Boxer. Mr. Burt, what is your feeling? If you are 
+retrofitting, is it really too hard to get to the platinum, but 
+we should have that for our new buildings? What is your 
+feeling?
+    Mr. Burt. I think it is important to document which part of 
+the different LEED categories we are emphasizing. So if we have 
+an overall target of LEED silver, but a very aggressive target 
+for energy and water savings, then you may find that eventually 
+in constructing a new building or renovating a new building, 
+you actually may certify higher than silver to a gold or 
+platinum level, and you have prioritized those measures which 
+will provide the most return on investment.
+    Senator Boxer. That is not my question. Do you think that 
+we should shoot for higher than silver in our efforts?
+    Mr. Burt. Yes. I think it is possible to shoot for higher 
+than silver. I think there are precedents across the Country 
+where different cities have pointed to LEED silver as a 
+possible code target, which means that the enhanced performance 
+should be above this bar.
+    Senator Boxer. And am I right in saying it is obviously 
+easier to get to platinum if you are building a new building, 
+because then you could--you don't have to go backward?
+    Mr. Gatlin. That is not necessarily the case. I would also 
+just like to comment that we hope that GSA will embrace the 
+LEED system for operations and maintenance. It is a 
+benchmarking system for green operations and maintenance just 
+as aggressively as they have embraced our system for design and 
+construction.
+    Senator Boxer. Well, that is good.
+    Mr. Gatlin. There are just so many different paths to get 
+there. We did have a case study of a building in California 
+owned by the Adobe Company that was built to Title 24 
+California energy efficiency standards, had utility rebates, 
+and yet they were still able to identify an additional $1 
+million in green investments. They have made that existing 
+building platinum. It paid for itself in 10 months.
+    Senator Boxer. Wow. That is a fabulous, I know Adobe 
+Systems.
+    Well, what I am going to do is hand the gavel to Senator 
+Lautenberg. If he has to go, leave, then he can hand the gavel 
+to Senator Merkley. And if Senator Merkley promises me, if 
+another colleague comes, he stays for that, and then close it 
+down. I don't know how long Senator Lautenberg can stay.
+    So I am going to hand the gavel over to you, Senator.
+    I want to thank this panel very much, all of you, for your 
+sage words. We are going to move further. We are going to have 
+a bill here ready for mark up on the 7th of next month. We are 
+going to move even further because this is energy saving. This 
+is savings in the pockets of taxpayers. So thank you very much.
+    Senator, here is the gavel.
+    Senator Lautenberg [presiding]. Thank you. I take the gavel 
+without ceremony, Madam Chairman.
+    [Laughter.]
+    Senator Lautenberg. Thank you for this awesome 
+responsibility.
+    One of the things that I see happening is that as we talk 
+about product reductions in energy use, cleaner air emissions, 
+et cetera, we still I think fail to have the public understand 
+exactly what our mission is. When we talk about saving lives or 
+saving quality of life, or permitting those who may be impaired 
+with a respiratory disease, what it means.
+    I come on this sort of full boat because one of my 
+grandchildren is asthmatic, and I know the trials that my 
+daughter goes through to make sure that Alexander has, that she 
+knows where the nearest clinic is when they go to emergency 
+clinic, when they go for him to participate in an athletic 
+event. And she is conscious of his wheezing and the sensitivity 
+of his ability to deal with these things.
+    I lost a sister to asthma in a sudden attack when she was 
+53 years old. Yes. And so I think the picture has to be even 
+more clearly presented, that we are talking about, again, 
+saving lives. And even as we talk about saving money, saving 
+quality of life that permits people to go about the things they 
+must do or enjoy doing.
+    And so I commend you all. I think you are on a mission of 
+great importance to the human race. I believe that climate 
+change is something compared to a plague, perhaps the 11th 
+plague. The Old Testament lists 10 plagues. This is a plague if 
+we don't take care of this, that could overcome mankind, 
+humankind. And again, you are acting as good soldiers in this, 
+and I really respect that your organizations are on the right 
+track.
+    Isn't there a way of examining the emissions coming from 
+the buildings that go beyond simply energy efficiency? How 
+about the products that are used in building materials, more 
+the kind of boards that are used so commonly--pressboard and 
+other materials that in themselves, we talk about saving kids 
+from materials that are plastics, that have a different 
+metabolism when they are mixed with certain food products, et 
+cetera.
+    So is there a concern about that? Mr. Burt, does your 
+organization look to these things as well?
+    Mr. Burt. Certainly, that is an extremely important 
+concern. I would say that in an existing building when you take 
+a look at the materials that are in there, you need to make 
+sure that all the materials and everything in the building is 
+up to health and safety standards, and is a healthy environment 
+for the occupants, and then go and invest in the energy 
+efficiency and the water efficiency measures.
+    I would also point out that in the LEED rating system, 
+there is a category for indoor environmental quality, which 
+covers the off-gassing of chemicals and toxins from the 
+products and also makes sure that there is adequate ventilation 
+in the building.
+    Senator Lautenberg. And is there an official recognition of 
+products now, an examination of these things, and perhaps a 
+label that says yes, this meets a green standard? What do you 
+think, Mr. Bryan?
+    Mr. Bryan. Yes. There are several organizations that are 
+now testing all products in the building industry for 
+emissions. Green Seal and Green Guard are two organizations 
+that are doing that. Both the Green Globes system and LEED also 
+acknowledges those as protocols for use within the indoor air 
+quality section.
+    Senator Lautenberg. Is the Green Globes, is that a 
+lighting?
+    Mr. Bryan. No. Green Globes is a system that I have been 
+talking about which is sort of a parallel system to some of the 
+other rating systems like LEED and other systems that are out 
+there that are in the marketplace today.
+    Senator Lautenberg. I see. No, because immediately when you 
+think of globe, you think of----
+    Mr. Bryan. I understand.
+    Senator Lautenberg. Yes.
+    Mr. Bryan. But again, Green Seal and Green Guard are two 
+protocols, both systems used to acknowledge material impact. 
+The Green Globes system also does a material life cycle 
+assessment calculation that actually does comparisons between 
+products on both embedded energy, as well as impact to the air, 
+water and disposal landfill. And so it is a very robust 
+calculator that gives designers that information about the 
+impact those materials have on the occupants of those 
+buildings.
+    Senator Lautenberg. Is there interest in those using 
+products--this is stepping outside the building opportunities--
+products that have to be dealt within trash disposal and so 
+forth? All of these things combine to make a threatening 
+environment. In this case, we are talking about something where 
+we see an ability to control it. The Government, there is a lot 
+of might that is included in the suggestion that the Government 
+has a standard.
+    But when we look around, again I see this as the perhaps 
+most important problem that mankind faces, and that is 
+protecting an environment, protecting nature and its being when 
+we see all of the--I am a tree hugger and have been for a long 
+time. When you see what is happening with the disappearance of 
+species, with things in the sea that are changing, and their 
+ability to afford sea life nutrition and nourishment.
+    So we have a war on our hands that we must win. And so, 
+once again I thank you for being here. The fact that we are 
+light in attendance doesn't mean that we are light in interest. 
+The record will be kept open for questions that will be 
+conveyed to you, and please if you get these questions, answer 
+as thoroughly and as quickly as you can.
+    With that, I go to the fact that Senator Merkley is in the 
+last seat doesn't mean that his views or his knowledge is any 
+different than those who are sitting up in the front.
+    Senator Merkley.
+    Senator Merkley [presiding]. Thank you very much, Senator.
+    I wanted to ask a question about carbon sequestration. It 
+has been pointed out at various times that when you build 
+buildings with wood, you are taking a significant amount of 
+carbon and taking it out of cycle, if you will. I was just 
+wondering if any of you from the LEED system or the Green 
+Globes system can comment on how that calculates, or if it is a 
+factor in how you evaluate buildings.
+    Mr. Gatlin. I am not sure that I can give you a specific 
+estimate of the carbon sequestration of wood in buildings. We 
+can certainly research that and provide that in follow up. But 
+I would just mention that the committee that oversees our LEED 
+rating system--again our products are all member-driven, 
+consensus-based, and it is an open transparent system in the 
+market--has spent the last year aligning the credit categories 
+within the LEED rating system to the known environmental 
+impacts and sort of the weighting between those environmental 
+impacts.
+    So carbon emissions comes up as the most significant aspect 
+of the certification simply because of the magnitude of the 
+climate change. We are looking at not only the energy 
+associated with operations of the building, but the energy that 
+it took to create the materials in the buildings, life cycle 
+assessment if you will.
+    So I do not have the specific figure on the carbon 
+sequestration of wood, but it is within our Scientific Advisory 
+Committee's goal of aligning the credits as much as possible 
+with the ultimate environmental impacts.
+    Senator Merkley. OK, thank you.
+    Mr. Burt or Bryan.
+    Mr. Bryan. Yes. The Intergovernmental Climate on Climate 
+Change has determined a 100-year life cycle for dealing with 
+products. If wood products in a building has less than a 100-
+year life cycle, it is considered to be a closed loop. That 
+means in its growth or absorption of CO<INF>2</INF>, and its 
+eventual decay, that it will be a closed system. If it has 
+longer than 100 years, it has to be accounted for, at least in 
+their system, and I think most of the environmental rating 
+systems and system systems are assuming that protocol.
+    Wood looks very good generally when we do comparisons with 
+other material for this reason. However, there are in larger 
+buildings, you are dealing with structural issues and wood 
+tends to have problems when you deal with multiple-story 
+buildings because of the structural issues. Like for small 
+buildings, wood is a very, very appropriate product. While we 
+don't encourage any one material, when you go through the 
+process very often those better materials from a carbon 
+sequestering standpoint will shine.
+    Senator Merkley. OK. Second, and thank you for your 
+answers. A second question I wanted to ask about is in terms of 
+GSA and the enormous number of buildings and enormous number of 
+rooftops that they have, is the GSA fully engaged in perhaps 
+the type of contracts energy--savings contracts where, 
+subcontracts, if you will, out the installation of the solar 
+panels, and then you basically get them installed for free, if 
+you will, and over time come to own them.
+    Has the GSA been proactive? Is there a tremendous amount 
+more they can do? What is your sense of that?
+    Mr. Gatlin. I will take a quick crack at that. I believe 
+that GSA has been proactive, especially using its construction 
+funding and its modernization funding to expand the adoption of 
+green roofs, either light-colored roofs or vegetative roof 
+systems which not only have heat island reduction benefits, but 
+also stormwater mitigation benefits.
+    I believe that with its existing stock, it has not moved 
+aggressively yet to tap into the types of performance 
+contracting vehicles that would allow them to take the savings 
+stream from their utility bill payments and essentially front 
+load them to some capital improvement efforts that could very 
+well include those green roof upgrades.
+    I believe the Department of Energy has handled the Federal 
+energy performance contracting specifications and has vehicles 
+that are more than available to do that within GSA stock.
+    Senator Merkley. OK, great. Any other comments?
+    Mr. Burt. GSA has prioritized the rooftop photovoltaics 
+with some of the limited scope projects that they have released 
+for the recovery funding, but I wouldn't be able to speak to 
+the financial vehicle for making that happen.
+    Senator Merkley. OK.
+    Mr. Bryan. I think they are doing a very good job. I think 
+on a couple of issues, I think all buildings should be what I 
+call solar ready, even though they may not be putting on the 
+system right now; that they keep the stairwells, elevator 
+shafts, things like that, from protruding into the, let's say, 
+unobstructed portions of the roof; try to gang them along the 
+northern side of the building. Also vents and other types of 
+things, we have a lot of problems with our air filters and 
+ventilation fume hoods, things like that.
+    Again, some buildings on my campus I know are completely 
+inappropriate for solar, even though we have wonderful access 
+in Arizona for solar energy, because of the design of the 
+rooftop. And so I think we can develop some protocols to 
+actually be solar ready and be available for solar in a few 
+years if we can't do it right now.
+    Senator Merkley. I think my time is up, but Senator 
+Whitehouse has arrived. No wait, Senator Udall has arrived. 
+Sorry, looking right past you.
+    [Laughter.]
+    Senator Udall. Thank you, Mr. Chairman. I appreciate it.
+    Thank you to the panel, and great having all of you here 
+today.
+    I believe that one of the most productive things that the 
+GSA could do to promote renewable energy would be to expand its 
+efforts to install photovoltaic solar systems on the roofs of 
+Federal buildings.
+    In regards to solar power, we have great technology and 
+manufacturing ability in the U.S., but we need to expand the 
+demand for it in order to bring down the cost. What should 
+Congress and GSA do to encourage solar installation on Federal 
+buildings?
+    Mr. Gatlin. One of the things that I mentioned in my 
+testimony was extending the lifetime of renewable power 
+contracts. Now, much of that will be for green-certified power 
+through the grid, but there also are arrangements where the 
+owner of the buildings can actually lease out the rooftop to 
+the utility for the application of those.
+    I don't know specifically within the acquisitions 
+legislation what, if anything, needs to be changed, but I do 
+know that there was some discussion on the House side about 
+extending the time of those power purchase agreements to go 
+beyond the current 10-year cap and that will actually allow for 
+more dedicated development of green energy resources for 
+Federal buyers.
+    Mr. Burt. I think the extension of the power contracts 
+period and the development of solar-ready buildings are both 
+excellent ideas. I would also point out that it is important 
+for GSA to make sure that they are doing the efficiency in the 
+building as well so that a greater portion of the building's 
+power can be provided by solar, either right away or eventually 
+if they are solar-ready.
+    Mr. Bryan. Yes, on my campus at Arizona State University, 
+we put in only in about 9 months almost two megawatts of 
+photovoltaics, and this year we are planning about eight more, 
+so we will possibly by the end of the year 10 megawatts of 
+installed power.
+    And we did notice a lot of the problems. We had some 
+limitations on our State constitution about public-private 
+contracts that we had to get around to extend our period to 
+deal with some of these power purchasing requirements. And so 
+we had to take some sort of creative, or creative sort of cuts 
+at that. And as I was saying, I would assume the same kinds of 
+restrictions and inertia that exists within some Federal laws 
+that I would like to think could be reviewed so we can take 
+advantage of this third-party financing because it is very hard 
+to get capital, particularly in State government, for any of 
+these types of projects.
+    Senator Udall. The GSA has decided to use LEED 
+certification for its green building branding efforts, but we 
+have been told that there are other significant green building 
+certification standards. Should GSA choose one standard to 
+allow a Federal building to be called green, to the exclusion 
+of other equivalent standard-setting organizations?
+    Mr. Gatlin. Since both of us on either side of Mr. Burt 
+represent the two standards, we will look to him to be an 
+objective arbiter. But I would just say that within our LEED 
+system, we have set up a new organization called the Green 
+Building Certification Institute which will be equipped to 
+scale up the certification to tens of thousands or even 
+hundreds of thousands of buildings.
+    The demand for primarily LEED certification in the 
+commercial building marketplace, both private and publicly 
+owned, has grown exponentially since 2006, I think due to the 
+realization not only of the cost savings and health benefits, 
+but in many cases private buildings are simply worth more as an 
+asset that are green-certified.
+    So I would say that our system, I believe our third party 
+certification system is the most robust. It is the furthest 
+along and most established, and now through the Green Building 
+Certification Institute, we have 10 global certification bodies 
+that will be expanding our capacity many-fold. All of them are 
+very familiar with the ISO requirements for certification--
+International Standards Organization.
+    So through those partnerships, I think our certification 
+institute is very well equipped to handle the market demand.
+    Mr. Bryan. Much of my testimony addressed or sort of 
+countered that with the attributes of the Green Globes system. 
+However, there are I think about last time I counted, there are 
+seven other systems in operation and three in the works. So why 
+do we go with one? I don't understand that. A government should 
+not be giving any system, no NGO, a sort of leg up on any other 
+system until we really go to the market and really shake these 
+systems down.
+    I think it is very important to take advantage of all the 
+building inspectors out there. Over 100,000 building inspectors 
+work for municipal governments. The International Code Council, 
+which is a major body that develops building codes, have just 
+completed the ICC 7000, which is the national green building 
+standard. It is a residentially oriented standard, but that 
+process is going to allow the training of building officials to 
+do this inspection process in the field where they are in their 
+own local jurisdictions.
+    Green building is not rocket science. You don't need any 
+very highly specialized persons to do it. A well-trained 
+building inspector who knows the industry, has been working in 
+the industry for some time, can do these inspections.
+    Also, the State of California is developing their own green 
+building standard. The ASHRAE 189 is developing a standard that 
+will probably be introduced into the International Code Council 
+process and be codified, so it actually could be then 
+administered by building inspectors.
+    And the other aspect, Green Globes is web-based and all we 
+need to expand is adding more service. We do have the third-
+party verification system in place, and that is being 
+administered by the CSA America, which is an ISO certification 
+organization.
+    So we have a third-party hands-off process of certifying 
+the verifies for the Green Globes system. I just want to 
+underline the need to incorporate many stakeholders that are 
+already doing a very effective job in building the industry, 
+try to bring them into the system, particular the building 
+inspectors.
+    In doing green buildings, we are talking about thousands 
+and thousands of buildings that we have to go through this 
+process. We have to scale that up at a very high level of 
+certification and verification, and we cannot do that by 
+developing new organizations. We should use the existing 
+manpower we have in the field.
+    Mr. Burt. The most important thing here is saving the 
+energy and saving the water in the buildings, and verifying 
+that this is done correctly. So it shouldn't be necessarily a 
+question of which tool or this tool or that tool. We need to 
+make sure that the tools we are using are actually resulting in 
+the savings that we need to have.
+    I am not nearly as familiar with Green Globes as I am with 
+LEED, and I can see that LEED does a very good job of that.
+    Senator Udall. Thank you very much.
+    Senator Merkley. I wanted to follow up on Senator Udall's 
+question. Why are so many organizations forming? The LEED 
+organization existed and Green Globes has jumped in, and you 
+mentioned that there are seven, and that there are three more 
+forming. What is the impetus behind so many different groups 
+jumping into this conversation about how to identify a green 
+building, if you will?
+    Mr. Bryan. Well, I think there is tremendous demand out 
+there, and again, organizations like ASHRAE have been in place 
+for a number of years. The International Code Council has been 
+in place for a number of years. They know the industry very 
+well, and they want to make sure they are positioned as sort of 
+the ramp-up is happening, which I think is happening now, 
+especially with the stimulus money and the various other 
+activities going on nationally.
+    So these organizations I don't think have a hidden agenda. 
+These are working. Both ASHRAE and ICC and Green Globes are 
+working with the ANSI, the American National Standards 
+Institute, consensus process. So these are open committee 
+meetings that decide the various protocols for these documents. 
+These are not closed activities being done by a member-only 
+organization.
+    Senator Merkley. Let me frame the question a little bit 
+differently. Is it primarily differences in ideology as you 
+balance different environmental components that drive the 
+proliferation of organizations? Or the issue of how you ramp up 
+to meet the demand, if you will, to get certification through 
+the pipeline, if you will? I will just expand that to anyone.
+    Mr. Burt. I think it is important to note that not all of 
+the programs mentioned are actually direct competitors. They 
+have arisen to occupy different niches in the green building 
+industry. ASHRAE and ICC are putting things out in code 
+language, which is slightly different from what LEED does, 
+where it is an exceptional label, basically. You are 
+documenting that you are far above the code level.
+    There are also different systems that are focused on 
+existing buildings and operations than are focused on new 
+construction. So they are not all direct competitors.
+    Also, for example, EPA's portfolio manager is directly tied 
+into many of the other programs, so there is a lot of 
+communication going on across all the borders as well.
+    Mr. Gatlin. Senator, USGBC was set up as a member 
+organization. Our members are companies, governments and 
+institutional owners and managers of buildings. And we have 
+been absolutely astonished that even while the construction 
+market and other industries have had a significant downturn, 
+that the growth in our membership has actually continued at a 
+pace in excess of what it was in 2006 and 2007.
+    The fastest-growing source of our members is building 
+contracting professionals. I just want to add that it has 
+always been in our foundations and our bylaws to have a 
+completely open, transparent process. The rating system is 
+developed by the industry experts who populate our membership, 
+the 20,000 companies and organizations, and also has to be 
+balloted--any of those changes to the rating system have to be 
+balloted by our membership and approved.
+    So we do not have a staff-driven rating system. We do not 
+have a lobby interest-driven rating system. There is true 
+balance across all sectors of the building industry.
+    Senator Merkley. Thank you.
+    Senator Udall.
+    Senator Udall. Thank you, Chairman Merkley.
+    As you all know, the Congress put in place the Energy 
+Independence and Security Act of 2007, which has specific 
+targets in it that we have been talking about today, this 55 
+percent in 2010 and then 100 percent in 2030. I would be 
+interested in your opinions that we could accelerate those 
+targets. I mean, the way we are proceeding at this point and 
+from your vantage point, do you think those could be 
+accelerated or moved up?
+    Mr. Gatlin. It is our opinion that more can be done in the 
+existing buildings arena from a green building perspective. The 
+broad scope measures called I believe in Mr. Prouty's 
+testimony, some of the generic measures that they are 
+installing in buildings, are really the ticket there on the 
+existing building side.
+    Through every financing means necessary, whether it is 
+through appropriations or whether it is through third-party 
+financing vehicles such as performance contracting, there is a 
+significant amount of opportunity in the Federal sector.
+    And as was mentioned before, even when there has been a 
+lighting or HVAC system upgrade within the last 10 years, there 
+has been such technology innovation even within the last 5 to 
+10 years that there will be many more cost-effective upgrades 
+to go back to some of those buildings that were upgraded as 
+recently as 10 years ago.
+    Mr. Burt. I agree with what was just said. We can't 
+necessarily predict when the technological innovations will 
+happen. We are very confident that it will happen. So we have 
+to be careful about setting hard goals and deadlines too far 
+out in the future because we don't know the exact timing.
+    That said, one thing I talked about in my testimony is the 
+need for GSA to identify all the remaining cost-effective 
+energy efficiency in the rest of the facilities and strategize 
+how do we go about getting that. And I think if they did that, 
+we would have a lot better sense of when it can be done, how it 
+can be done, and how soon, and how much we can accelerate the 
+process.
+    Mr. Bryan. I also agree. However, I have seen in the 
+industry in the past, from the private sector, is the first 
+couple of years there seems to be a fairly good downward 
+sloping that they are on a trajectory, beating the trajectory. 
+That is because they are going at the low-hanging fruit, the 
+easy things. Lighting, variable speed motors, things like that 
+are easy things to do and retrofit. The harder things are re-
+glazing, reinsulation, large fit-out of large mechanical air 
+conditioning systems. Those are the big ticket items.
+    So my recommendation is that we have to be diligent. We 
+have to look to the long term. We have to have the resources 
+there for the long term, the heavy lifting, and going beyond 
+the low-hanging fruit as far as the conservation and efficiency 
+efforts are concerned.
+    Senator Udall. Thank you very much, and thank you, Chairman 
+Merkley. I see we have been joined by Senator Klobuchar.
+    Senator Klobuchar [presiding]. Thank you very much.
+    Thank you all for being here. We are doing a lot of work 
+with green buildings in my State, the State of Minnesota. 
+People don't always think of it as a solar State given how cold 
+it is, but we are doing a lot with that, as well as wind and 
+other things.
+    I just want to talk in more detail about the LEED 
+certification process. I know you just mentioned that, Dr. 
+Bryan. I have heard a lot about that from our people, the cost 
+associated with it and potential improvements to it. Could you 
+talk about the costs associated with it? How much you estimate 
+it is? And what we could do to improve it?
+    Mr. Bryan. Well, again, I was sort of countering the LEED 
+system with another system that I felt is actually more cost 
+effective because it is a much lower first entry cost into the 
+system. It is web-based. It is very low cost, with ability to 
+interact with the system. Documentation is minimum because we 
+have onsite verification of a third party verifier.
+    So this reduces the cost. Much of the LEED cost is not the 
+direct cost as far as paying for the system. It is the indirect 
+cost of the documentation and a lot of the stuff you need to 
+collect for submittal to get your certification.
+    And as I mentioned, the Green Globes system has an onsite 
+third party reviewer that basically helps alleviate a lot of 
+that stuff. The material still has to be there, but it is done 
+onsite in a kind of a day-long walk through the building. When 
+you see something you know it is in there, rather than just 
+something in a specification that is submitted as a submittal.
+    So that is one of the major differences. So I think it is a 
+little bit more cost effective for that reason.
+    Senator Klobuchar. Anyone want to add anything?
+    Mr. Gatlin. Senator, if I may, representing the U.S. Green 
+Building Council. We have had to make enhancements to our 
+system and also expand our contractor pool substantially, as 
+there are now over 20,000 buildings in the pipeline. So that 
+20,000 buildings has scaled up dramatically from just fewer 
+than 5,000 about 4 years ago.
+    Our fees for providing the certification essentially are 
+just directly to cover the review expenses. It comes in at 3.5 
+cents per square foot, where typically the green building 
+improvements yield a dollar or more per square foot in direct 
+operating savings, and even indirect savings in many cases, as 
+GSA showed in its post-occupancy study, a 13 percent reduction 
+in maintenance costs down the line.
+    So they are fairly small. I think extremely small relative 
+to the benefits. And I think what you don't get by simply 
+referencing the rating system as opposed to pursuing 
+certification is the added impetus to do it right once you know 
+you are going to go through a third party review. And that has 
+in many cases sort of flushed out some mistakes in the process 
+that can go back and be corrected.
+    Senator Klobuchar. You know, I hear it over and over again 
+that they are not doing LEED because it is just too expensive. 
+Maybe when you described it as three cents, that is probably 
+the best way to describe it. For them, they are looking at how 
+much of a cost it would be when they are trying to do the 
+environmentally right thing, so on the margin it is maybe more 
+expensive to build, and then they look at this LEED thing, so 
+they don't do it. They go to ENERGY STAR or some other thing.
+    So that is what I am trying to grapple with here, because I 
+think nearly every building that I have been to, except the few 
+that did the LEEDs in our State, say we are not going to do it.
+    So I just think it is an issue. I have been surprised at 
+how much it has come up when I have been out and about, really 
+all over the Country.
+    The other thing I am trying to figure out as we try to push 
+for more green buildings, more energy efficient buildings, what 
+the factors are that make some metropolitan areas have more of 
+them. I am asking this question very openly, not because I know 
+the answer, but is it State laws? What is it, like Portland is 
+No. 1; Minneapolis-St. Paul is number 25; Atlanta is No. 3. You 
+know, what is the thing that makes incentives for more green 
+buildings?
+    Mr. Gatlin. I think in Portland, in Chicago, and several 
+cities around the Country, almost 50 cities--I am sorry, in 
+almost 35 States and over 100 jurisdictions there are 
+incentives. And those certainly helped in the early days. The 
+early adopters were either in cities with incentives or where 
+governments through their own took on an executive order 
+mandate to have green buildings.
+    In Atlanta and in other cities, we have seen a really 
+robust commercial market embrace LEED. There is increasing 
+empirical studies, as well as evidence through broker 
+transactions that green buildings, LEED-certified buildings, 
+sell at higher transaction costs, actually have more attractive 
+rental rates. So there is a market demand as well.
+    Senator Klobuchar. Mr. Burt.
+    Mr. Burt. I think the incentives are very helpful, 
+especially when they are structured in a way that they set a 
+performance target and tell the industry to go do it, because 
+then the industry responds. They learn how to do it, and they 
+learn how to do it well. They bring the costs of doing it down 
+so that we get a nice feedback cycle where we continue to learn 
+about how to do the buildings.
+    I think it is also very helpful once the process has 
+happened that the market then values those buildings greater 
+because they realize this is a better building, it is a better 
+space, and it is much better across the board. And that is how 
+you get a continuing cycle of green building.
+    Senator Klobuchar. Thank you.
+    Mr. Bryan. As an educator, I think education is a major 
+force. I know I am training the next generation of students who 
+will be architects and engineers. They are really hungry for 
+this information, and I know they are going to go out and do a 
+good job because they are getting well trained. I think all our 
+universities have courses on green buildings now, among all the 
+architectural and construction schools and many of the 
+engineering schools across the country. It is an exciting area.
+    I think also on the local level, again education by again 
+professional organizations or their membership, the American 
+Institute of Architects, ASHRAE, National Association of--all 
+these organizations I think are doing a much more effective job 
+than they did a few years ago on educating their membership to 
+these issues.
+    As I mentioned before, it is not rocket science, but there 
+is some good preparation and understanding, especially in the 
+use of computer modeling, computer simulation. We have gotten 
+in a lot of trouble, a number of people have been using tools, 
+predicting performance and we have not seen that performance in 
+reality, and that has given, I think, some of the systems a 
+questionable--some of the systems have been put into question 
+because of some poor consultants using some tools that they 
+shouldn't have even had a driver's license before using a 
+computer program like DOE-2 or one of those other programs out 
+there.
+    So there is a lot we have to do in education to ramp up 
+everybody's level of expertise.
+    Senator Klobuchar. All right. Thank you.
+    All right. Well, that is a good end. I want to thank all of 
+you for being here, and the hearing is adjourned.
+    [Whereupon, at 11:30 a.m. the committee was adjourned.]
+    [Additional statements submitted for the record follow:]
+
+          Statement of Hon. Benjamin L. Cardin, U.S. Senator 
+                       from the State of Maryland
+
+    Madam Chairman, thank you.
+    Over the last 2 years we have heard testimony from a number 
+of individuals. A little over a year ago, for example, we heard 
+from Dr. Pachauri, and we are grateful that he has come back to 
+provide us with a further update on the science of global 
+warming.
+    I want to thank Chairman Boxer for her work in keeping the 
+focus on sound science as this debate continues.
+    While the list of witnesses has included the occasional 
+obligatory nay-sayer, we have seen a steady stream of 
+scientists who have provided a remarkably consistent set of 
+facts regarding:
+     the state of the global climate system,
+     projections on how the climate system is changing, and
+     the likely impacts these changes will have on health and 
+human welfare, agriculture, transportation systems, and 
+important ecosystems like the Chesapeake Bay.
+    Much of the testimony has been informed by the latest, 
+peer-reviewed science and represents a consensus of the 
+scientific community on the nature of the climate system's 
+warming, the causes for that warming, and the degree to which 
+this warming will continue.
+    Climate change will likely have an impact on our Nation's 
+treasure, the Chesapeake Bay. Possible impacts for the 
+Chesapeake include increased sea-levels, lower dissolved oxygen 
+levels, more precipitation, and changes in various species' 
+abundance and migration patterns. Many species will deal with 
+the interaction of several climate change effects, which could 
+impact their ability to survive in the Bay region.
+    It is not only wildlife that are threatened by climate 
+change--the EPA has found that increasing greenhouse gas 
+concentrations pose a threat to human health due to a number of 
+factors including more deaths attributed to heat and the 
+increase in vector-borne diseases. In Baltimore, the EPA 
+projects that a 3 degree Fahrenheit overall increase in air 
+temperature could increase the heat-related death toll by 50 
+percent from 85 to 130 people annually.
+    The research upon which these findings are based is rooted 
+in an extensive, careful analysis of past and present 
+observations of the atmosphere and ocean coupled with advanced 
+numerical predictive models.
+    The science record is remarkable in another key aspect. 
+Time is not on our side. The scientific community consistently 
+warns us that the longer we wait to take aggressive action to 
+curb greenhouse gas emissions, the steeper the climb will be to 
+meet our targets.
+    Thankfully, today we have not simply a strong scientific 
+consensus on the issue. We also have an increasing body of 
+evidence that our efforts to address climate change will result 
+in a number of net positives for America and the world.
+     Our national security is enhanced as we reduce our 
+reliance on foreign sources of oil.
+     Our economy will be recharged as we move to a sustainable 
+energy system and the thousands of green jobs it will produce 
+in solar, wind and bio-energy development and energy efficiency 
+projects.
+     And, lowering greenhouse gas pollution will almost 
+certainly also result in a lowering of other air pollutants, 
+meaning our citizens will be breathing cleaner air.
+    Thankfully, today we have both an Administration in the 
+White House as well as the congressional leadership we will 
+need to tackle this extraordinary challenge.
+    I look forward to hearing from today's witnesses and 
+learning more about the latest climate science research.
+    And I look forward to using this hearing as a strong 
+springboard for us as we confront one of the greatest 
+challenges of our age. With your strong leadership, I look 
+forward to drafting and passing a climate change bill this 
+year. Let's get started.
+    Thank you, Madam Chairman.
+
+            Statement of Hon. James M. Inhofe, U.S. Senator 
+                       from the State of Oklahoma
+
+    Thank you, Madam Chairman, for holding this hearing. I am 
+pleased to have the opportunity once again to discuss energy 
+efficiency within our committee.
+    Using less to do more is a fundamental economic principle 
+that American industry has practiced with great success. Its 
+application has helped the United States rise in prosperity 
+and, I believe, will be a key element of our economic recovery. 
+Moreover, increased productivity in the form of energy 
+efficiency and innovation--along with developing new domestic 
+sources of energy and ensuring a diverse energy supply--are 
+essential to strengthening our Nation's energy and financial 
+security. For these reasons, it is important to pursue 
+opportunities for energy efficiency and innovation in our 
+public buildings.
+    While I was not a supporter of the Stimulus bill, it did 
+contain some productive elements. For example, it provides an 
+unprecedented opportunity for GSA to make investments in the 
+existing stock of Federal buildings. It is extremely important 
+that GSA's decisions make these buildings more energy efficient 
+and that such improvements are cost-effective. It is also 
+important that the choices GSA and other Federal agencies make 
+to ``go green'' deliver measurable performance results.
+    It's my understanding that so-called ``green'' buildings 
+don't always perform as intended. This raises serious concerns 
+for me, and it also raises fundamental questions: What research 
+still needs to be done on the actual benefits of green 
+buildings? What standards and benchmarks are currently being 
+used for various aspects of building design and certification? 
+How can the Government make sure that we are spending money on 
+the efforts that ensure we are meeting our energy goals and not 
+creating unintended burdens on our taxpayers and communities?
+    I am concerned that GSA selected LEED as its only category 
+of ``green'' building for new construction. I believe that the 
+increased interest in green buildings and advances in 
+technology in recent years have and are creating new building 
+rating systems. These systems should be allowed to compete in 
+the market and Government agencies should be able to determine 
+which system meets their performance requirements. I do not 
+think that GSA should be in the business of selecting one 
+system over another. Additionally, we need to practice careful 
+oversight to ensure that the best rating systems are being used 
+in Government decisions.
+    I am pleased to have Dr. Harvey Bryan, Professor at the 
+Arizona State University School of Architecture and Landscape 
+Architecture with us today on behalf of the Green Building 
+Initiative. He will share his expertise with us today and 
+update us on what GBI has been doing since our last hearing. I 
+am also looking forward to hearing from Acting Administrator 
+Paul F. Prouty as well.
+    Thank you again, Madam Chairman, for this opportunity.
+
+    [Additional material submitted for the record follows:]
+    
+    [GRAPHIC] [TIFF OMITTED] 
+    
+                                 [all]
+                                 
+</pre></body></html>

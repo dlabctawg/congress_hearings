@@ -1,0 +1,2906 @@
+<html>
+<title> - Y2K MYTHS AND REALITIES</title>
+<body><pre>
+[House Hearing, 106 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+
+                        Y2K MYTHS AND REALITIES
+
+=======================================================================
+
+                             JOINT HEARING
+
+                               before the
+
+                       SUBCOMMITTEE ON TECHNOLOGY
+
+                                 of the
+
+                          COMMITTEE ON SCIENCE
+
+                                and the
+
+                            SUBCOMMITTEE ON
+                         GOVERNMENT MANAGEMENT,
+                      INFORMATION, AND TECHNOLOGY
+
+                                 of the
+
+                              COMMITTEE ON
+                           GOVERNMENT REFORM
+                        HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                            NOVEMBER 4, 1999
+
+                               __________
+
+                       Science Serial No. 106-61
+
+                  Government Reform Serial No. 106-67
+
+                               __________
+
+ Printed for the use of the Committee on Science and the Committee on 
+                           Government Reform
+
+
+                               __________
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+61-629                     WASHINGTON : 2000
+
+
+                          COMMITTEE ON SCIENCE
+
+            F. JAMES SENSENBRENNER, Jr., Wisconsin, Chairman
+SHERWOOD L. BOEHLERT, New York       RALPH M. HALL, Texas, Ranking 
+LAMAR SMITH, Texas                       Minority Member
+CONSTANCE A. MORELLA, Maryland       BART GORDON, Tennessee
+CURT WELDON, Pennsylvania            JERRY F. COSTELLO, Illinois
+DANA ROHRABACHER, California         JAMES A. BARCIA, Michigan
+JOE BARTON, Texas                    EDDIE BERNICE JOHNSON, Texas
+KEN CALVERT, California              LYNN C. WOOLSEY, California
+NICK SMITH, Michigan                 LYNN N. RIVERS, Michigan
+ROSCOE G. BARTLETT, Maryland         ZOE LOFGREN, California
+VERNON J. EHLERS, Michigan           MICHAEL F. DOYLE, Pennsylvania
+DAVE WELDON, Florida                 SHEILA JACKSON LEE, Texas
+GIL GUTKNECHT, Minnesota             DEBBIE STABENOW, Michigan
+THOMAS W. EWING, Illinois            BOB ETHERIDGE, North Carolina
+CHRIS CANNON, Utah                   NICK LAMPSON, Texas
+KEVIN BRADY, Texas                   JOHN B. LARSON, Connecticut
+MERRILL COOK, Utah                   MARK UDALL, Colorado
+GEORGE R. NETHERCUTT, Jr.,           DAVID WU, Oregon
+  Washington                         ANTHONY D. WEINER, New York
+FRANK D. LUCAS, Oklahoma             MICHAEL E. CAPUANO, Massachusetts
+MARK GREEN, Wisconsin                BRIAN BAIRD, Washington
+STEVEN T. KUYKENDALL, California     JOSEPH M. HOEFFEL, Pennsylvania
+GARY G. MILLER, California           DENNIS MOORE, Kansas
+JUDY BIGGERT, Illinois               Vacancy
+MARSHALL ``MARK'' SANFORD, South 
+    Carolina
+JACK METCALF, Washington
+                     COMMITTEE ON GOVERNMENT REFORM
+
+                     DAN BURTON, Indiana, Chairman
+BENJAMIN A. GILMAN, New York         HENRY A. WAXMAN, California
+CONSTANCE A. MORELLA, Maryland       TOM LANTOS, California
+CHRISTOPHER SHAYS, Connecticut       ROBERT E. WISE, Jr., West Virginia
+ILEANA ROS-LEHTINEN, Florida         MAJOR R. OWENS, New York
+JOHN M. McHUGH, New York             EDOLPHUS TOWNS, New York
+STEPHEN HORN, California             PAUL E. KANJORSKI, Pennsylvania
+JOHN L. MICA, Florida                PATSY T. MINK, Hawaii
+THOMAS M. DAVIS, Virginia            CAROLYN B. MALONEY, New York
+DAVID M. McINTOSH, Indiana           ELEANOR HOLMES NORTON, Washington, 
+MARK E. SOUDER, Indiana                  DC
+JOE SCARBOROUGH, Florida             CHAKA FATTAH, Pennsylvania
+STEVEN C. LaTOURETTE, Ohio           ELIJAH E. CUMMINGS, Maryland
+MARSHALL ``MARK'' SANFORD, South     DENNIS J. KUCINICH, Ohio
+    Carolina                         ROD R. BLAGOJEVICH, Illinois
+BOB BARR, Georgia                    DANNY K. DAVIS, Illinois
+DAN MILLER, Florida                  JOHN F. TIERNEY, Massachusetts
+ASA HUTCHINSON, Arkansas             JIM TURNER, Texas
+LEE TERRY, Nebraska                  THOMAS H. ALLEN, Maine
+JUDY BIGGERT, Illinois               HAROLD E. FORD, Jr., Tennessee
+GREG WALDEN, Oregon                  JANICE D. SCHAKOWSKY, Illinois
+DOUG OSE, California                             ------
+PAUL RYAN, Wisconsin                 BERNARD SANDERS, Vermont 
+HELEN CHENOWETH-HAGE, Idaho              (Independent)
+DAVID VITTER, Louisiana
+
+
+                      Kevin Binger, Staff Director
+                 Daniel R. Moll, Deputy Staff Director
+           David A. Kass, Deputy Counsel and Parliamentarian
+                      Carla J. Martin, Chief Clerk
+                 Phil Schiliro, Minority Staff Director
+                                 ------                                
+
+   Subcommittee on Government Management, Information, and Technology
+
+                   STEPHEN HORN, California, Chairman
+JUDY BIGGERT, Illinois               JIM TURNER, Texas
+THOMAS M. DAVIS, Virginia            PAUL E. KANJORSKI, Pennsylvania
+GREG WALDEN, Oregon                  MAJOR R. OWENS, New York
+DOUG OSE, California                 PATSY T. MINK, Hawaii
+PAUL RYAN, Wisconsin                 CAROLYN B. MALONEY, New York
+
+                               Ex Officio
+
+DAN BURTON, Indiana                  HENRY A. WAXMAN, California
+          J. Russell George, Staff Director and Chief Counsel
+                  Matthew Ryan, Senior Policy Director
+    Bonnie Heald, Communications Director/Professional Staff Member
+                          Chip Ahlswede, Clerk
+           Trey Henderson, Minority Professional Staff Member
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                            November 4, 1999
+
+                                                                   Page
+Opening Statement by Representative Constance A. Morella, 
+  Chairwoman, Subcommittee on Technology, U.S. House of 
+  Representatives................................................     1
+Opening Statement by Representative James A. Barcia, Ranking 
+  Member, Subcommittee on Technology, U.S. House of 
+  Representatives................................................     7
+Opening Statement by Representative Debbie Stabenow, Subcommittee 
+  on Technology, U.S. House of Representatives...................     8
+Opening Statement by Representative Jim Turner, Subcommittee on 
+  Government Management, Information, and Technology, U.S. House 
+  of Representatives.............................................     9
+Opening Statement by Representative Judy Biggert, Subcommittee on 
+  Technology, U.S. House of Representatives......................    82
+Opening Statement by Representative Steve Horn, Subcommittee on 
+  Government Management, Information, and Technology, U.S. House 
+  of Representatives.............................................    85
+
+                               Witnesses
+
+The Honorable John A. Koskinen, Special Assistant to the 
+  President, Chairman, Y2K Conversion Council:
+    Oral Testimony...............................................    11
+    Prepared Testimony...........................................    14
+    Biography....................................................    19
+The Honorable Joel Willemssen, Director of Civilian Agencies 
+  Information Systems, United States General Accounting Office:
+    Oral Testimony...............................................    20
+    Prepared Testimony...........................................    22
+    Biography....................................................    73
+The Honorable Barry F. Scher, Vice President of Public Affairs, 
+  Giant Food, Inc.:
+    Oral Testimony...............................................   101
+    Prepared Testimony...........................................   104
+    Biography....................................................   108
+    Financial Disclosure.........................................   110
+The Honorable J. Patrick Campbell, Chief Operating Officer and 
+  Executive Vice President, The Nasdaq-Amex Market Group, Inc.:
+    Oral Testimony...............................................   111
+    Prepared Testimony...........................................   113
+    Biography....................................................   126
+The Honorable Ronald Margolis, Representing the American Hospital 
+  Association, Chief Information Officer, University of New 
+  Mexico Hospital, Health Sciences Center:
+    Oral Testimony...............................................   127
+    Prepared Testimony...........................................   129
+    Biography....................................................   139
+
+                                Appendix
+
+Booklet:
+    Y2K and You, Prepared by the President's Council on Year 2000 
+      Conversion, Federal Emergency Management Agency, Federal 
+      Trade Commission...........................................   157
+
+ 
+                        Y2K MYTHS AND REALITIES
+
+                              ----------                              
+
+
+                       THURSDAY, NOVEMBER 4, 1999
+
+        House of Representatives, Subcommittee on 
+            Government Management, Information, and 
+            Technology, Committee on Government Reform, 
+            Joint with the Subcommittee on Technology, 
+            Committee on Science,
+                                                    Washington, DC.
+    The Subcommittees met, pursuant to call, at 2:15 p.m., in 
+room 2318, Rayburn House Office Building, Hon. Constance A. 
+Morella (Chairwoman of the Subcommittee on Technology) 
+presiding.
+    Chairwoman Morella. I am going to gavel the joint 
+subcommittees' hearing to order.
+    You just heard the beeper; we're going to have a series of 
+about four, probably maybe even five votes. But I thought I 
+would give an opening statement and then return right after the 
+votes. There is also a markup taking place in Government 
+Reform, which is where our co-chair is right now, and that is 
+why you do not have the members here. They will return. But I 
+will at least comment on what we are here today to listen to 
+and what the topic is of the meeting.
+    I want to welcome all of you to the House's Y2K Working 
+Group, that is comprised of the Science Committee's Technology 
+Subcommittee and the Government Reform Committee's Government 
+Management, Information, and Technology Subcommittee.
+    With the anticipated adjournment of the first session of 
+this 106th Congress looming before us, this hearing is expected 
+to be the culmination of our House Y2K Working Group efforts 
+before the January 1, 2000, deadline.
+    It is sometimes hard to believe that we have focused on 
+this issue ever since the spring of 1996. When our two 
+subcommittees held the first congressional hearings 3\1/2\ 
+years ago on the then little publicized year 2000 computer 
+problem, the millennium bug seemed to be more suited to the 
+realm of exterminators than Congress. But our Y2K review 
+revealed some troubling news. At that time, our Nation was 
+simply not moving forward with the required dispatch to 
+effectively respond to the devastating effects of the 
+``mother'' of all computer glitches, potentially crippling 
+vital Government functions, critical industry performance, and 
+our robust economy.
+    We in Congress attempted to step up to the plate by raising 
+awareness about the problem and by pushing Federal agencies and 
+private industry toward immediate corrective measures. We did 
+this through a series of comprehensive hearings, vigilantly 
+exercised our oversight authority, and enacted laws that 
+required the creation of a national Federal strategy and 
+prohibited the purchase of Federal information technology that 
+was not Y2K compliant.
+    It was clear, however, that despite our congressional 
+powers, the legislative branch alone was ill-suited to lead our 
+Nation's Y2K efforts. We desperately needed the help of the 
+President's executive powers. We were frustrated by what seemed 
+to be the lack of leadership. It was clear to us that without 
+greater urgency and aggressive agency management, Federal 
+agencies were at risk of being unable to provide services or to 
+perform functions that are critical to its mission and vital to 
+the American public.
+    We spent a year urging the President to personally embrace 
+the need for Federal action and to appoint a Y2K czar to 
+oversee the Nation's public and private sector initiatives, 
+until he finally appointed a very capable man, who is here 
+today, John Koskinen, to chair the Year 2000 Conversion 
+Council. Given the late start in his appointment, John, who was 
+lured out of retirement to take on this herculean task, 
+obviously had his work cut out for him. And while we have not 
+necessarily agreed on all aspects of our Nation's Y2K strategy, 
+I want to say to John that your extremely competent 
+achievements, performed with such a high level of professional 
+dedication and commitment to public service, really do deserve 
+recognition.
+    Since John's appointment, we in Congress have successfully 
+worked together to require greater Federal and private sector 
+disclosures, provide a special Federal appropriation solely for 
+Y2K efforts, raise Y2K awareness throughout the country, and 
+enact laws to improve Y2K readiness, and to curb the number of 
+frivolous glitch-related law suits.
+    Yet, as we now move toward the remaining 50 days before the 
+unforgiving and immovable Y2K deadline, Americans still have a 
+number of questions about how, in the midst of all their 
+millennium celebrations, they will be affected, if at all, by 
+the year 2000 problem. We know the American people are counting 
+on us.
+    This hearing is designed to respond to some of those 
+questions. I am pleased that we have a distinguished panel of 
+witnesses that seek to help us provide some of those answers 
+today.
+    Finally, before I turn to our ranking member of the 
+Technology Subcommittee, I want to thank, on behalf of both of 
+us including Chairman Horn, who will be with us later, to all 
+of our fellow colleagues on the House Y2K Working Group, I want 
+to thank them for their leadership, support, and participation. 
+It is also important to note that our Y2K efforts have been 
+bipartisan. I want to commend our ranking members, Mr. Barcia 
+of Michigan, who is here with us, Mr. Turner of Texas, Mr. 
+Gordon of Tennessee, Mrs. Maloney of New York, Mr. Kucinich of 
+Ohio.
+    And now I would be very happy to recognize the Ranking 
+Member of the Technology Subcommittee, Mr. Barcia, for any 
+opening remarks before we go vote.
+    [The prepared statement of Hon. Constance A. Morella 
+follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1629.001
+
+[GRAPHIC] [TIFF OMITTED] T1629.002
+
+[GRAPHIC] [TIFF OMITTED] T1629.003
+
+[GRAPHIC] [TIFF OMITTED] T1629.004
+
+    Mr. Barcia. Thank you, Chairwoman Morella. I want to return 
+the compliment and thank you for the leadership and the 
+bipartisan nature in which you have conducted the hearings of 
+this subcommittee, and the tremendous amount of energy and time 
+that you have invested in this Y2K issue and its importance to 
+the citizens across the country.
+    I want to join my colleagues on the subcommittee in 
+welcoming our distinguished panel to this last hearing of the 
+year 2000 computer bug.
+    Over the past 3 years, we have held hearings on almost 
+every aspect of the Y2K problem; on Federal agencies' efforts, 
+international issues, State and local government efforts, the 
+impact on industry, and liability. Although confident with the 
+strides made by Federal agencies, we continue to be hampered in 
+our assessment of the impact of the year 2000 problem on State 
+and local governments and industry because there is still a 
+lack of factual information on Y2K readiness.
+    I urge our panelists today to provide us with as much 
+specific information as possible about the overall level of Y2K 
+readiness in the United States and abroad, if you can. If we 
+are to calm public fears, we must provide the public with 
+facts.
+    This series of hearings has served to educate the public 
+about the magnitude and scope of the Y2K problem. And although 
+it has been my experience that most people are aware of the Y2K 
+issue, they still do not have a good understanding of its 
+potential impact or lack of impact. I am concerned because, 
+unless we get the message out, the level of public fear could 
+rise.
+    What could be the single largest public awareness 
+announcement, a November 21st made for television movie, 
+entitled, ``Y2K: The Movie.'' According to news reports, this 
+movie has the U.S. Government grounding all airplanes, the 
+Eastern seaboard experiencing a major power outage, and even 
+worse problems yet to come. In the absence of facts, what is 
+designed to be entertainment could achieve the saddest effect.
+    As this is the last hearing, I would like to commend Mr. 
+Joel Willemssen and the staff of GAO for the outstanding work 
+that they have done during the past 3 years. I would also like 
+to commend Mr. Koskinen for the coordination role his office 
+has provided in the administration's Y2K efforts. And, of 
+course, finally, I want to thank the witnesses for appearing 
+before us. I look forward to hearing your comments.
+    Thank you, Madam Chair.
+    [The prepared statements of Hon. Debbie Stabenow and Hon. 
+Jim Turner follow:]
+
+[GRAPHIC] [TIFF OMITTED] T1629.005
+
+[GRAPHIC] [TIFF OMITTED] T1629.006
+
+[GRAPHIC] [TIFF OMITTED] T1629.007
+
+    Chairwoman Morella. Thank you, Mr. Barcia.
+    As you probably know from the timing, we have got to go 
+over to vote. We have got about 6 minutes, if even that, before 
+the vote. There are going to be about five procedural votes.
+    Mr. Koskinen, I know you must leave here shortly. So what I 
+will do is go over and vote and, if there is a 15 minute 
+interval, come back so we can hear some of your oral testimony. 
+Will there be somebody else here who could also respond to any 
+questions we may have when you have to leave?
+    Mr. Koskinen. Well, with all these wonderful witnesses, 
+someone will know. But there is no one else from my office.
+    Chairwoman Morella. And you have a written testimony for 
+us, too, which will be part of the record.
+    So I shall return after our first vote when we have a 15 
+minute interval. For the rest of you, it will probably be about 
+three-quarters of an hour before we reconvene fully the hearing 
+beyond Mr. Koskinen. Thank you.
+    [Recess.]
+    Chairwoman Morella. I am going to reconvene the joint 
+hearing.
+    I am going to ask Mr. Koskinen and Mr. Willemssen, in the 
+tradition of the Science Committee, if they would please stand 
+and raise their right hands. Do you swear that the testimony 
+that you are about to give is the truth, the whole truth, and 
+nothing but the truth?
+    [Witnesses respond in the affirmative.]
+    Chairwoman Morella. The record will show an affirmative 
+response.
+    Mr. Koskinen, we are delighted that we will have you give 
+us your comments at this very last meeting of the year 1999 of 
+the Joint Y2K Working Group.
+
+   TESTIMONY OF HON. JOHN KOSKINEN, SPECIAL ASSISTANT TO THE 
+     PRESIDENT, CHAIRMAN, PRESIDENT'S COUNCIL ON YEAR 2000 
+ CONVERSION; AND JOEL C. WILLEMSSEN, DIRECTOR, CIVIL AGENCIES 
+      INFORMATION SYSTEMS, U.S. GENERAL ACCOUNTING OFFICE
+
+    Mr. Koskinen. Thank you. Good afternoon, Chairwoman 
+Morella. I am pleased to appear before you today to discuss the 
+year 2000 issue, or Y2K, as it is known. Let me begin by 
+thanking the Chairwoman for her very kind comments which I 
+genuinely appreciate.
+    The subcommittees themselves deserve great credit for their 
+continuing interest in the Y2K issue. Your efforts have helped 
+to increase the visibility of this important challenge within 
+the Federal Government and the country as a whole.
+    With your permission, I will submit my full statement for 
+the record and summarize it here.
+    Chairwoman Morella. Hearing no objections, so ordered.
+    Mr. Koskinen. In keeping with the title for this hearing, 
+let me begin with what I believe are some of the more important 
+myths and realities regarding the Y2K issue.
+    One of the more troubling Y2K myths is the notion that 
+January 1 is a seminal date on which everything, or nothing, 
+Y2K-related will occur. As you know, year 2000 challenges can 
+happen any time a computer that is not Y2K-compliant comes into 
+contact with a year 2000 date, before or after January 1. In 
+fact, a number of businesses and governments have already had 
+to use year 2000 dates in their automated operations. 
+Information technology professionals are well aware that the 
+Y2K challenge is not limited to January 1 and they will be 
+monitoring systems well into the New Year for flaws in billing 
+and financial cycles and possible slow degradations in service.
+    Another important myth deals with the reporting of Y2K 
+readiness data. It goes something like this: Self-reported Y2K 
+information is not valid since people will not voluntarily 
+report problems, so virtually everything we have heard in terms 
+of industry and Government progress reports cannot be believed. 
+This is not true for several reasons. Most organizations have 
+structures in place whereby independent authorities have been 
+reviewing the results of Y2K testing. In some industries, such 
+as electric power, Government agencies have conducted selected 
+audits of the reported information and found no major 
+discrepancies. And, most importantly, the industry surveys done 
+for the President's Council have been conducted pursuant to the 
+Year 2000 Information and Readiness Disclosure Act provisions, 
+which the Congress passed at our urging last year. This act 
+guarantees individual companies that their responses to these 
+surveys will be treated confidentially, such substantially 
+increases the likelihood of candid responses.
+    In the interest of time, let me now move to a discussion of 
+the operation of the Council's Information Coordination Center, 
+or ICC, as it is known.
+    The ICC will be the Federal Government's central point for 
+coordinating a wide range of information on system operations 
+and events related to the Y2K transition that will be collected 
+by Government emergency centers and the private sector. The ICC 
+will gather information about system operations in Federal 
+agencies; among State, local, and tribal governments; in 
+critical areas of the private sector; and internationally.
+    To accomplish this task, we are relying to the greatest 
+extent possible on existing structures and expertise. 
+Domestically, information on systems operations will be 
+collected by the States and provided through normal channels to 
+FEMA which will review the reports and pass them on to the ICC. 
+In addition, the ICC will receive reports from national 
+information centers established, many for the first time, by 
+the private sector. The status reports will be provided to 
+appropriate lead agencies. We presently have agreements with 
+the electric power, banking, finance, telecommunications, oil, 
+gas, airline, pharmaceutical, and retail industries to operate 
+information centers during the rollover period and to share 
+information on the status of their members with the ICC.
+    The ICC will receive international status reports from the 
+State Department, the Defense Department, the intelligence 
+agencies, private sector information centers, and national Y2K 
+coordinators around the world. In addition, the ICC will work 
+with the National Infrastructure Protection Center and Computer 
+Emergency Response teams here and around the world to monitor 
+unauthorized intrusions into systems.
+    Information gathered by the ICC will be the basis for 
+complete, regularly updated national and international status 
+reports that will be provided to all Federal agencies and 
+organizations sharing information with the center. These 
+reports will help agency decision makers determine what, if 
+any, Federal actions are appropriate in response to Y2K-related 
+difficulties. Status reports will also be provided on a regular 
+basis to the Congress and to the public.
+    As I mentioned earlier, based on available information, we 
+do not believe the Y2K issue will create significant problems 
+in the United States. But no one can rule out the possibility 
+that there will be temporary disruptions in some services. This 
+week we published ``Y2K and You,'' an information booklet on 
+the Y2K issue as well as a ``Y2K Preparedness Checklist,'' 
+which I am submitting as part of the record. Our suggestions 
+include preparing for the long holiday weekend by having at 
+least a 3 day supply of food and water, keeping copies of 
+important financial records before and after January 1, 2000, 
+and checking with manufacturers to make sure that home 
+electronic equipment is Y2K ready.
+    Perhaps most importantly, whatever people are going to do 
+to prepare, they should do it early. If everyone waits until 
+the last moment to take even modest precautions, supply systems 
+could be overwhelmed.
+    When I appeared before you in January of this year, I 
+closed by saying that overreaction by the public to real or 
+perceived Y2K risks was in some ways our greatest challenge. I 
+still believe that. On the other hand, our goal is not public 
+complacency. All of us need to encourage the public to take the 
+appropriate steps to be ready for the date change. As I said in 
+January, the way to achieve this delicate balance is to provide 
+people with as much information as possible about Y2K readiness 
+efforts, the good and the bad.
+    Thank you for the opportunity to continue this process of 
+information sharing here today. I would be pleased to answer 
+any questions you may have now or in the future.
+    [The prepared statement of Mr. Koskinen follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T1629.008
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.009
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.010
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.011
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.012
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.013
+    
+    Chairwoman Morella. Thank you, Mr. Koskinen.
+    I am now pleased to recognize Mr. Willemssen. But as I do, 
+I just want to comment on the fact that the GAO mission is to 
+independently audit all Federal Government agencies and we have 
+worked very closely with GAO over the past 3\1/2\ years on the 
+year 2000 computer problem. Just as John Koskinen has 
+demonstrated an exemplary dedication and commitment to public 
+service, so has Joel Willemssen. He has always been ready to 
+assist. His contributions to our House Y2K Working Group's 
+efforts cannot be understated. He has been very much 
+appreciated. And while he may have been a thorn in the side of 
+agencies that required greater congressional attention, he is 
+also one of the reasons that those agencies have redoubled 
+their efforts to comply with the Y2K computer glitch. So, in 
+welcoming Mr. Koskinen, I welcome Mr. Willemssen for his 
+comments.
+
+                TESTIMONY OF JOEL C. WILLEMSSEN
+
+    Mr. Willemssen. Thank you very much, Chairwoman Morella. 
+Thank you for inviting us to testify today. And as requested, I 
+will briefly summarize our statement.
+    In early 1997, we identified Y2K as a high risk area for 
+the Federal Government. Since that time, we have observed 
+substantial progress in the Federal Government's Y2K readiness. 
+While this progress has been significant, it has not been 
+uniform among all Federal agencies. Some agencies have long had 
+strong Y2K programs, others have made dramatic improvements, 
+while still others must continue to be monitored carefully.
+    For example, on one end of the spectrum is the Social 
+Security Administration, which started its program 10 years 
+ago, has been very responsive to any issues that have surfaced, 
+and has been a government-wide leader in such areas as 
+contingency planning and day one planning. Departments such as 
+Veterans Affairs and Education have made major strides in 
+readiness after relatively slow starts. Other agencies and 
+departments have also made major progress, but still need to be 
+monitored closely because of the criticality of information 
+systems to their missions and the work that remains 
+outstanding. These agencies would include: the Health Care 
+Financing Administration, the Department of Defense, FAA, and 
+IRS. For example, DOD reports that it still has 31 mission 
+critical systems that are not Y2K compliant, 6 of these are not 
+expected to be compliant until December.
+    Beyond the compliance of individual systems, significant 
+progress has also been made in improving the Government's 
+overall approach. For example, OMB has identified 43 high 
+impact programs as the Government's top priorities. Further, 
+agencies are performing end-to-end testing of multiple systems 
+supporting key business functions, and they have developed 
+business continuity and contingency plans and day one 
+strategies.
+    Regarding State governments, the available information 
+indicates that States have greatly improved their readiness 
+during this year, with only 4 States now reporting less than 75 
+percent of mission critical systems completed compared to 40 
+States reporting this status earlier this year. Nevertheless, 
+there is still much work to do for many of these States. For 
+example, as we testified last month, many States were not 
+planning to be compliant for some key human services programs, 
+such as Medicaid, Food Stamps, and Child Support Enforcement, 
+until last quarter of 1999.
+    Y2K is also a challenge for the public infrastructure and 
+key economic sectors. Our work has identified sectors that are 
+clearly leaders on Y2K, while others are lagging behind. For 
+example, banking and finance have clearly been a Y2K leader. 
+Among the areas most at risk, however, are health care and 
+education.
+    For health care, we have testified on numerous occasions on 
+the risks facing Medicare, Medicaid, and biomedical equipment. 
+We remain concerned about the overall readiness of this sector.
+    Regarding education, recent surveys conducted by the 
+Federal Department of Education show that many school districts 
+and post-secondary institutions are not yet compliant. In 
+September, our report on the Y2K readiness of 25 of the 
+Nation's largest school districts revealed that only 7 believed 
+that all their mission critical systems were compliant, and 9 
+said they didn't plan to finish until December.
+    That concludes a summary of my statement. I will be pleased 
+to address any questions you may have. Thank you.
+    [The prepared statement of Mr. Willemssen follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T1629.014
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.015
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.016
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.017
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.018
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.019
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.020
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.021
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.022
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.023
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.024
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.025
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.026
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.027
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.028
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.029
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.030
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.031
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.032
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.033
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.034
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.035
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.036
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.037
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.038
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.039
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.040
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.041
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.042
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.043
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.044
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.045
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.046
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.047
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.048
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.049
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.050
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.051
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.052
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.053
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.054
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.055
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.056
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.057
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.058
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.050
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.060
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.061
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.062
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.063
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.064
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.065
+    
+    Chairwoman Morella. Thank you, Mr. Willemssen.
+    I know that Mr. Koskinen is going to have to leave us soon, 
+and we have another vote.
+    Mr. Koskinen. No, I am actually here till 3:30.
+    Chairwoman Morella. Till 3:30. Very good. I guess I will 
+start off with the concept that I have heard from some 
+quarters, that there has been a little criticism from the Y2K 
+community, maybe because you represent the Government, but the 
+criticism has been that you have been overly optimistic about 
+your assessments and that what you say should sort of be taken 
+with a grain of salt. I wonder, how do you respond to those 
+critics? You base a lot of your assessments on self-reporting. 
+I wonder how much faith do you have in these self-reported 
+data, and picking up also on what Mr. Willemssen had said about 
+the areas of education and health.
+    Mr. Koskinen. Well, there are a few things to note. First 
+of all, there is a very small minority of people out there who 
+are in the activist community who do think that, in fact, we 
+are going to confront much greater damage and challenges than 
+the evidence supports. None of those people have any evidence 
+that disputes any of the surveys that have been presented, any 
+of the information provided by the private sector or the 
+Government.
+    So, at this point, our view is, and continues to be, that 
+we have an obligation to the public to provide them all the 
+information we have, the good information and the areas we are 
+troubled about. Those who have been concerned about whether we 
+are too overly optimistic have been unhappy that we think that 
+the critical infrastructure in this country, indeed, is going 
+to work. Power, telecommunications, banking, finance, air 
+traffic systems, all have been demonstrated to be ready.
+    But they have ignored the fact that we have in fact for 
+some time, certainly in the last year, have been pointing to 
+areas where we are concerned. We have been concerned about 
+developing countries abroad, as Mr. Willemssen has noted, we 
+have been concerned about and our surveys have demonstrated the 
+risks involved in smaller institutions in health care and 
+education, in small businesses, at the local government level. 
+So that I think what you have to do is take with a grain of 
+salt those people who are concerned about whether we are over 
+optimistic or under optimistic.
+    The real issue is what are the facts as we know them, what 
+are the facts as industries have them, and then people need to 
+respond accordingly. Our view has been all we are doing is 
+telling you what we know, what we have been told. I talked in 
+my prepared statement and my oral statement about why we have 
+reasonable confidence in the survey data that has been provided 
+because it has been provided confidentially. And as noted, if 
+people were going to make it up, they would have made up total 
+compliance some time ago, and the surveys have not done that.
+    Chairwoman Morella. I do notice that organizations, 
+businesses, and even communities are coming out with their Y2K 
+checklists, and obviously we have yours. I received one 
+recently from an area that I represent. It is a little bit 
+troublesome the list of items that they say one must need. You 
+must change from standard incandescence to compact fluorescence 
+and halogen, replace all appliances' solar panels and wind 
+generators, composting toilets, reflector-powered ovens, crank-
+powered radio, et cetera. It goes on and on with a whole list 
+of things.
+    Do you think, again on the other side, that there are areas 
+or people that are actually contributing to panic?
+    Mr. Koskinen. Well, there are clearly those from the start, 
+over the last 3 to 4 years, who have for one reason or another 
+been predicting the end of the world as we know it on the 
+ground that this is a massive problem, which indeed it is, but 
+their prediction has been we will never be able to solve it. My 
+disagreement with them has not been that it is a massive 
+problem, it has been with whether we will be able to solve it.
+    I think there are still people pushing that if you do not 
+buy a lot in New Mexico and leave town, at a minimum, you ought 
+to be prepared with three to six months supplies, which I think 
+there is no evidence to support. On the other hand, there are 
+concerned civic groups that think that more than 3 days 
+supplies are necessary.
+    Our view has been, and our brochure talks about, at least 3 
+days supply. And we stress that people need to take a look at 
+their own circumstances. In the community conversations we have 
+run across the United States, when I was in Miami, there they 
+were talking about preparations of 7 to 10 days because that is 
+their experience with hurricanes. In Los Angeles, their 
+standard is a week.
+    What we have said is everyone needs to take a look at what 
+their own personal situation is, what the situation is where 
+they live. If you are in a rural community and it takes longer 
+to find you, you will have a different approach to it. If you 
+live in Minnesota, your approach will be different than if you 
+are in Florida.
+    And so what we think is important, again, is for everybody 
+to decide in light of the facts as they see them what they feel 
+most comfortable about. Clearly, we think if the whole country 
+decided that they wanted to at the last minute have months of 
+supplies of food and water, or in fact take a lot of other 
+activities, that by itself could create a problem where there 
+is no basis for one.
+    Chairwoman Morella. You have been trying to create a 
+balance, I can see.
+    Mr. Wu, the gentleman from Oregon, who is on our 
+subcommittee, may not be able to return after the next vote. So 
+I am going to let him ask a question.
+    Mr. Wu. Thank you, Madam Chairwoman.
+    I would like to ask the panel, as you all know, the 
+Securities and Exchange Commission has for some time required 
+that private companies which are publicly held make disclosure 
+of Y2K vulnerability in their annual statements on form 10K. 
+How satisfied are you that these publicly held companies have, 
+as they say, made full and fair disclosure of their Y2K 
+vulnerabilities under the circumstances as warranted?
+    Mr. Koskinen. We have not made a judgement about that. We 
+have not reviewed those in any detail. We have been more 
+comfortable and confident with the information we have 
+collected through the industry associations because, again, 
+that is information provided with a guarantee under the statute 
+that it is confidential, it cannot be reached by litigants or 
+even the Federal Government.
+    There is a dispute, some companies are held up as models of 
+disclosure in the SEC filings, others are held up as models of 
+obfuscation. I think it obviously runs across the spectrum. But 
+the judgements about the adequacy of that I think are 
+appropriate judgements for the SEC to make since it is their 
+regulations and their filings.
+    Mr. Willemssen may have a different view.
+    Mr. Willemssen. Congressman, we have not done an analysis 
+of those submissions. So I am not in a position to address that 
+question.
+    Chairwoman Morella. Gentlemen, we are going to recess for 
+probably about 15 minutes and then we will return.
+    [Recess.]
+    Chairwoman Morella. The subcommittee will come to order.
+    I would now like to recognize Mr. Bartlett for his 
+questioning.
+    Mr. Bartlett. Thank you very much.
+    When you listed the items that you suggested people have in 
+preparation, I noticed it was food and water primarily. January 
+1 is in the northern part of our country very cold. It is also 
+just a few days after the shortest day in the year, with a lot 
+of darkness. A few flashlight batteries probably will not 
+suffice. What advice do you give relative to heat and light?
+    Mr. Koskinen. At this point, we do not advise anybody to 
+take power into their own hands and go buy generators, again, 
+unless you are out in the rural area, if you are at risk in the 
+winter time from long term power outages. If Y2K is the first 
+time you ever decide to deal with that, that is important to do 
+it. But we do not think, in light of what we know, that there 
+is any risk.
+    The power industry will operate that weekend normally at 50 
+percent of capacity. They will have all of the capacity or most 
+of it spinning that weekend. So we can lose a lot of power 
+companies, which we do not expect to lose any of them, before 
+we will run out of power. The oil and gas industry is basically 
+at close to 95 percent done with their work. They will, in 
+fact, have oil and gas readily available.
+    So, at this juncture, we do not see any indication that we 
+are going to have any outages, there will be glitches, that 
+will last more than a few minutes. So the question about what 
+happens if the power goes out in the winter time is a long term 
+question people need to address regularly. We have ice storms 
+and blizzards and your chances of having power outages are, in 
+fact, greater I think because of an ice storm or a blizzard 
+than Y2K.
+    And the question is ``What do you do in those circumstances 
+in your communities?'' There have been places in the United 
+States in the northeast in blizzards and ice storms that have 
+had power outages for days rather than hours. And the answer is 
+whatever their emergency plans and backup systems are for those 
+situations obviously would be applicable here. We do not think 
+there is a Y2K necessity to change to deal with those issues 
+beyond what you normally deal with.
+    Mr. Bartlett. My personal feeling is that it will come and 
+go and we will hardly notice it. But I also think that tonight 
+will come and go and my house will not burn. But still I have 
+fire insurance on my house. So as a prudent person, I think it 
+is incumbent on us to have the equivalent of fire insurance for 
+this possibility.
+    Looking at it that way, what would you say would be the 
+equivalent of the fire insurance policy you have on your home 
+for Y2K?
+    Mr. Koskinen. We think the equivalent of fire insurance on 
+your home is the checklist we have put out. Again, as I say, if 
+you think you are at risk of power going out, I think your 
+greater risk is in an ice storm and you ought to be prepared 
+for this weekend the same way you are prepared for the 
+possibility of an ice storm. What happens in ice storms is 
+people go to shelters, power is usually not out everywhere and 
+they go to places where there is power. We have not had a 
+problem from any of the great blizzards or ice storms in this 
+country with people suffering because of the lack of heat or 
+power. And whatever those processes are, the emergency managers 
+around the United States are prepared with their normal 
+precautions. We have, in fact, been in close contact with them 
+and they are prepared to respond as they always do in the 
+winter time if there are any outages.
+    Mr. Bartlett. What concerns many people about the power 
+grid is that it tends to fall back on itself. A minor problem 
+in one place can, like dominoes, cause major problems in other 
+places--the great northeast blackout and subsequent blackouts 
+that were supposed to be fixed and could not happen, yet they 
+did happen.
+    Do we have contingency plans so that this kind of thing 
+will not happen?
+    Mr. Koskinen. The power industry is prepared. As I say, 
+first of all, we will have substantial excess capacity. In 
+fact, if there is any challenge to the grid, it will be lowered 
+load demand rather than increased load demand to make sure we 
+have stability. They, as I say, will have most of their systems 
+spinning, not producing power on the grid but basically 
+available to fill in if need be. They will make sure that there 
+is room on the transmission lines to transmit power from area 
+to area in case there is any need for that to be done. So they, 
+in fact, have run two national contingency plan exercises 
+testing how to run power plants without telecommunications, 
+what their other contingency plans are, and they have gone 
+through all of that with virtually every major power company in 
+the United States in April and September. They are extremely 
+confident. Their business is reliability. Their responsibility 
+is responding to emergencies. And they are prepared to do that.
+    Mr. Bartlett. How do they simulate the embedded chip 
+problem? I understand with computers, we should be having some 
+problems now because of Y2K because many computers are looking 
+ahead several months.
+    Mr. Koskinen. Right.
+    Mr. Bartlett. I am not seeing any problem, so I suspect 
+that in terms of the programming that has been pretty well 
+fixed. But what about the concern about embedded chips where 
+there is no way to test them ahead of time? If it is a generic 
+chip and you are not using the time function, that if it has a 
+date code in it, the chip, as I understand, could shut down 
+anyhow. How are they testing for embedded chips? And are they 
+prepared to wire around these tens of thousands of embedded 
+chips that are in components that they really cannot test for?
+    Mr. Koskinen. Embedded chips have been an issue that the 
+industries generally, in addition to electric power, have been 
+focused on. At this point, no one has found an example even 
+though the web pages and the doomsayers continue to say there 
+are functions in there for clocks that even if you are not 
+using them are going to shut you down. No one yet has been able 
+to provide a case where functionality not being used actually 
+shut the production down. And in fact, the power companies have 
+not found a Y2K problem failure that would shut down 
+production.
+    But what they are all doing is they have reviewed those 
+chips, they know where they are. They have reviewed them with 
+manufacturers. Wherever they can, they have rolled the control 
+systems and other systems forward to see what will happen. But 
+the bottom line is, the reason we are all talking about nobody 
+can guarantee perfection, is until we actually roll through 
+either Greenwich Mean Time--some are set by Greenwich Mean 
+Time, some are set on midnight--until we roll through those, we 
+will not be able to conclusively demonstrate there is no 
+problem. But at this point, I would stress no one has reported 
+a problem where you could track it to a system that had that 
+hidden clock problem that you are talking about.
+    Mr. Bartlett. Greenwich Mean Time is 7 p.m. here, is that 
+correct?
+    Mr. Koskinen. It is 7 p.m. New Year's Eve.
+    Mr. Bartlett. So if there is going to be an embedded chip 
+problem, you will expect it at 7 p.m., and not midnight?
+    Mr. Koskinen. No. It depends on how the systems are 
+structured and where they take their time derivation.
+    Mr. Bartlett. But for all of those chips that have 
+Greenwich Mean Time, it will be 7 p.m.?
+    Mr. Koskinen. It will be 7 p.m. So, 7 p.m. New Year's Eve 
+we will know a lot. We will actually know a lot starting at 7 
+a.m., New Year's Eve because New Zealand will go into the Year 
+2000 at 7 a.m., Australia will go at 9 a.m., and we will 
+monitor how the world is doing. And if there are going to be 
+systemic problems, we will have plenty of warning in terms of 
+whether they are systemic and occurring.
+    Mr. Bartlett. My last question. Several months ago the 
+power industry testified before this committee. They told us 
+then that because of the tens of thousands of embedded chips 
+that they probably would not be ready, but they were sure they 
+could wire around it. Has that changed?
+    Mr. Koskinen. All I know is what the public information 
+surveys from them are, and that is that they are prepared. They 
+think that they have done now 100 percent of their work, 
+including looking and working on embedded chips and being able 
+to respond. And we have no information that any power company 
+is not prepared for the rollover.
+    Mr. Bartlett. Thank you very much.
+    Chairwoman Morella. Thank you, Mr. Bartlett.
+    I now want to ask Mr. Baird from the State of Washington if 
+he wants to ask any questions.
+    Mr. Baird.
+    Mr. Baird. Thank you, Madam Chair.
+    One of the concerns I have is I sort of did a mental 
+checklist of my district and said what are the various 
+potential problems. For example, we have large chemical 
+manufacturing plants not that far away from residential areas. 
+And one of the questions I had was let us suppose the worst 
+case scenario; let's suppose a power outage comes along that 
+impairs certain procedural machines or something within the 
+chemical processor, they begin to have a breakdown, dangerous 
+chemicals are released into the environment, we have got 
+communications problems and transportation problems. I am not a 
+doomsdayist by any means, but if I were a local community, I 
+would like to have run through those various scenarios.
+    To what extent do you believe local communities have done 
+that? And what should we do if they have not done it yet?
+    Mr. Koskinen. I think some communities have and, 
+unfortunately, some communities have not. We held a White House 
+Round Table on chemical manufacturing. We had a press 
+conference, it produced a lot of information. We are trying to 
+reach out. I have written a personal letter to every Governor 
+in the United States drawing their attention to the problem, to 
+the programs that California and New Jersey have for reaching 
+out to the local levels.
+    But, clearly, it is exactly as you note, an emergency 
+preparedness problem at the local level. We have encouraged the 
+companies to be in touch with their local emergency planners. 
+But the local emergency managers and public officials need to 
+make sure that they know, they should know beyond Y2K purposes, 
+where those plants are, what the emergency preparedness is, 
+and, most importantly I think, is to ensure that people are on 
+alert over that weekend and people know immediately how to get 
+in touch with each other and what the plans are if there are 
+any difficulties, whether, again, it is from Y2K or for some 
+other purpose.
+    Mr. Baird. I personally see Y2K as a potential benefit in 
+the sense that it helps us improve our emergency readiness. Are 
+there particular checklists or steps they should go through, 
+for example, a community working with the chemical industry and 
+how would we get hold of that for our own districts?
+    Mr. Koskinen. EPA and the chemical manufacturers produced a 
+manual of the items that are at risk for a smaller chemical 
+facility that they should be checking. That is available on the 
+EPA web site. I am sure you can get that through the Council 
+web site of www.Y2K.gov. That material has been provided to 
+every State. FEMA and the emergency managers have it. So I 
+think my suggestion to a community would be their local 
+emergency manager should contact their State or FEMA to get any 
+additional scenario development or testing that should go on so 
+they can ensure that they are ready for that particular kind of 
+problem.
+    And I think you are right, the emergency managers across 
+the United States think that Y2K is a great opportunity for 
+individuals as well as organizations to review their emergency 
+planning and preparedness and, in fact, to be better prepared 
+than they may have been generally.
+    Mr. Baird. Thank you very much. Thank you, Madam Chair.
+    Chairwoman Morella. Thank you, Mr. Baird.
+    Mr. Ose, do you have any questions? As a matter of fact, 
+before we ask that question, I was on a panel with a Red Cross 
+representative who said, and you reminded me of it, Mr. Baird, 
+is that what we should have on hand is what we should always 
+have on hand.
+    Mr. Koskinen. Right.
+    Chairwoman Morella. I think that is something that makes us 
+take inventory.
+    Mr. Ose from California.
+    Mr. Ose. Thank you, Madam Chair.
+    A couple of questions. Some weeks ago we had a hearing, I 
+think Mr. Willemssen was there, regarding the FAA and the 
+relative responses we have had from some of our international 
+partners. At that time, we were able to ferret out information 
+about a number of countries that had not yet responded to our 
+Y2K circular questioning their preparedness or inquiring of it. 
+I think the total number of countries at that time was 34 or 
+35. I am curious whether or not there has been any update to 
+that list of 34 or 35.
+    Mr. Koskinen. There has been. The Department of 
+Transportation and the FAA both have web sites now listing the 
+information they have about preparedness internationally as 
+well as domestically. I do not know what the number now is, but 
+there has been an increase in the response. Transportation has 
+now been able to categorize the nature of those responses and 
+any concerns they have about particular airports so that the 
+public or travel agents have direct access to that.
+    Mr. Ose. Madam Chair, the reason I bring this up is I want 
+to take a moment, and I hope no one falls over here in shock, I 
+want to take a moment to express my appreciation to Mr. 
+Koskinen and Mr. Willemssen and the others who work in the 
+Federal Government because we had this hearing on like a 
+Tuesday or a Wednesday and we were asking for this information, 
+and the agencies of the Federal Government, in response to the 
+requests from Members of Congress, were able by Friday to 
+refine the list from approximately 110 countries to 34 or 35 
+that had not responded.
+    The reason that is important is that, as with many people, 
+my wife and I travel a great deal, and people in the United 
+States travel a great deal. And the uncertainty that existed 
+prior to the refinement of that list relative to these 70 or 80 
+other countries that were on the list were creating quite a bit 
+of havoc relative to people's travel plans because they need to 
+plan ahead, sometimes as much as 90 to 120 days.
+    So I want to take this moment to express my appreciation to 
+these two gentlemen and to the others who could not join us 
+today for making that list public, for helping the American 
+public define where it might be safe to go and where it might 
+not be safe to go. They really did the people's business and 
+they deserve our applause, wherever you call it.
+    The FAA does have a web site on which this data is posted. 
+If I understand correctly, it is fly2K.gov?
+    Mr. Koskinen. Correct.
+    Mr. Ose. I would encourage everyone to visit that who is 
+planning on traveling over the turn of the millennium.
+    And, finally, one little tidbit, Madam Chair, if I could. 
+The businesses that I used to run before I came to Congress, we 
+have any number of security features in each of those 
+businesses. We did a little test of our own about our Y2K 
+preparedness. We, in effect, took the calendars on our 
+computers and rolled them forward to where they were like five 
+minutes prior to midnight on the 31st and we were essentially 
+doing our self-testing. And to those people who have not done 
+that, I would encourage you to do that now rather than wait 
+until the last week of December. We were fortunate. We were in 
+compliance. But it is just a little self-test everybody might 
+engage in.
+    With that, I yield back.
+    Chairwoman Morella. Thank you, Mr. Ose. And you reflect the 
+views of both subcommittees in commendation to the agencies, 
+Mr. Koskinen, and Mr. Willemssen, and all of the others that 
+responded so promptly. I think we have all found that to be the 
+case.
+    I am now pleased to recognize Ms. Rivers, the gentlewoman 
+from Michigan.
+    Ms. Rivers. Thank you, Madam Chair.
+    I have only a very brief question. There are a number of 
+materials that are interesting and useful here in preparation 
+and also the GAO information on evaluating how things are 
+going. Most of us have web sites that our constituents visit on 
+a regular basis. Are we free to link to your web sites or to 
+use any of these materials on our sites?
+    Mr. Koskinen. We would be delighted to have you link. We 
+would be delighted to have you take anything on the web site 
+and put it on your web site.
+    Ms. Rivers. Okay. Mr. Willemssen?
+    Mr. Willemssen. Certainly.
+    Ms. Rivers. Great. Thank you.
+    Chairwoman Morella. Thank you, Ms. Rivers.
+    I am now pleased to recognize Mrs. Biggert, the gentlewoman 
+from Illinois.
+    Mrs. Biggert. Thank you, Madam Chair.
+    If I might ask unanimous consent to enter my statement into 
+the record.
+    Chairwoman Morella. Without objection, so ordered. I am 
+also going to, without objection, have Chairman Horn's opening 
+statement included in the record.
+    [The prepared statements of Hon. Judy Biggert and Hon. 
+Stephen Horn follow:]
+
+[GRAPHIC] [TIFF OMITTED] T1629.066
+
+[GRAPHIC] [TIFF OMITTED] T1629.067
+
+[GRAPHIC] [TIFF OMITTED] T1629.068
+
+[GRAPHIC] [TIFF OMITTED] T1629.069
+
+    Mrs. Biggert. This has been an unusual day. I apologize for 
+missing your statements. I would like to ask, have you heard 
+rumors about Y2K that you would like to dispel? Is there 
+something that you hear out there that you would have concern 
+about?
+    Mr. Koskinen. I appreciate that question. In my formal 
+statement, we have listed the myths and the rumors that 
+generally we are concerned about. I suppose, and it goes back 
+to the Chairwoman's question, the ultimate rumor I would like 
+to dispel is that somehow we have information in the Federal 
+Government or in the President's Council that we are not 
+sharing with the public. There is no evidence, nobody has ever 
+established something we know that we have not told. And, in 
+fact, our strategy for now going onto 2 years has been to share 
+with the public everything we have as we get it.
+    So, as I say, I think the rumor that there is this secret 
+information that we are somehow afraid to release is just that, 
+a rumor. Our goal in life is to have the American public feel 
+they know everything I know and can then decide how to respond 
+appropriately.
+    Mrs. Biggert. Okay. Mr. Willemssen?
+    Mr. Willemssen. I would also echo Mr. Koskinen's comment. 
+Obviously, we come at this from an audit and evaluation 
+perspective. We have seen all the data as best as I know that 
+Mr. Koskinen has available. To the extent that we identify that 
+data, we take the opportunity to publicize it in our reports 
+and testimonies. That is why one thing we wanted to do today in 
+our testimony was reflect the broad nature of everything we 
+have done and the kind of progress that has been made, while at 
+the same time pointing out some residual risks.
+    Mrs. Biggert. Certainly, we have spent a lot of time, had a 
+lot of hearings. I would like to commend the two chairmen of 
+these two committees for everything that they have done, and 
+certainly started long before I got here this year, working on 
+this.
+    Is there anything that you think we as the Congress have 
+missed doing that we should have done on the Y2K problem?
+    Mr. Koskinen. I do not think so. We have had, I think the 
+Chairwoman was right, this has been a very bipartisan issue. We 
+have not had any concern in either house of Congress about any 
+kind of political issues entering into this. We have had great 
+support. We have obviously had a very good working relationship 
+with GAO as well working on behalf of the Congress. So if we 
+had to do it again, there is nothing that we have asked of the 
+Congress that has not been granted to us. I think it has been a 
+very good example of the cooperation between the legislative 
+and the executive branch dealing with what is a serious 
+national challenge.
+    Mrs. Biggert. Mr. Willemssen?
+    Mr. Willemssen. Looking forward, I would say the one thing 
+that the Congress can still be of great benefit to the 
+citizenry is reminding the citizens what the facts are. I think 
+as we are into November and we turn into December, there is 
+going to be the opportunity for some to view this in 
+survivalist terms, if you may, that it really is going to be 
+much worse than it actually will be. So I think the Congress 
+can still serve a very useful role in informing the public of 
+what the facts are, what the readiness is, where we do have 
+some risks, but the overriding fact is we are in a much better 
+prepared state today than we have been.
+    Secondly, to the extent that problems do occur, major 
+Federal agencies and most private organizations are planning 
+detailed day one strategies to be prepared in the event that 
+disruptions occur.
+    Mrs. Biggert. I think there was something in the paper the 
+other day that everyone should not get on the phone at 12:01 to 
+say everything is okay because it is going to jam the 
+telecommunication lines.
+    Mr. Koskinen. That is right. We refer to it in our 
+checklist, too. There is likely to be Mother's Day by multiples 
+if everybody both celebrating the millennium and also just 
+checking in does that at one time. At a minimum, what people 
+should understand, if you do not get a dial tone immediately or 
+you get a rapid dial, it is very likely not to be a Y2K problem 
+but to be the fact that your neighbors and everybody else have 
+joined you on the phone at the same time.
+    Mrs. Biggert. Right. Thank you very much for all your hard 
+work. Thank you Madam Chairman.
+    Chairwoman Morella. Thank you, Mrs. Biggert.
+    Mr. Koskinen. Madam Chairman, I am afraid I have over 50 
+people on this conference call that I noted I need to join. I 
+hate to deprive your co-chair here of his chances----
+    Mr. Horn. I do not think you are going to deprive me.
+    Mr. Koskinen. But I am going to have to leave. I would be 
+happy to take a question or two, and then I am going to have to 
+go.
+    Mr. Horn. Fine. All right. If you had to do it over again, 
+when you were appointed in February 1998 and you started in 
+April 1998, what would you advise Congress and a President to 
+do in terms of the type of structure or communications or 
+whatever? Say we had something similar to this where all of our 
+computers were crashing because of people that were using sort 
+of economic terrorism, if you will, how would you deal with 
+that, and would you deal any differently than you have done?
+    Mr. Koskinen. I would not change, certainly for the Y2K 
+issue, anything that we have done. I think, again, we have had 
+great cooperation with the Congress. I think our basic approach 
+has been validated by the amount of progress that has been 
+made. I think there is no way, as some suggested, that we could 
+legislate our way out of this problem, to in fact start telling 
+everybody how to do it. What we needed to do was marshall the 
+expertise and the energy of the people in the private sector as 
+well as the public sector.
+    I think your point is well taken in terms of going forward; 
+and that is, we are going to become more reliant, rather than 
+less, on information technology in the future, which means we 
+will be more vulnerable, rather than less, to terrorists, to 
+hackers, to others who want to in fact disrupt our systems. 
+And, therefore, I think we do need to be prepared for that. But 
+at this juncture, I do not have a proposal as to how we ought 
+to move from this issue to that in terms of structuring to deal 
+with it. All I can tell you is I think the structure worked 
+very effectively for the crisis we knew we were facing when I 
+took on this role.
+    Mr. Horn. Well, in terms of getting the work done in a 
+timely way, do you think February 1998 was a little late? And 
+shouldn't the early Clinton Administration and the Bush 
+Administration been involved in this? After all, Social 
+Security showed the way and they did 100 percent.
+    Mr. Koskinen. Well as I said when you asked me that 
+question over a year ago, we will know the answer to that in 
+terms of how we get through this process effectively. As I say, 
+at this point, the Federal Government is over 99 percent done. 
+I do not think there are any risks in the Federal processes 
+that would have been avoided otherwise.
+    As you know, when I was in the Government before, we 
+started a cross-government issue dealing with this in 1995. So 
+that hindsight is always interesting, but at this point we do 
+not have a view that we would be in a whole lot different 
+shape. It might have been a little less hectic if we could have 
+gotten people's attention. But you have to understand, as you 
+remember when you were one of the lone voices raising this 
+issue back when we were working on it----
+    Mr. Horn. April 1996. And nothing much happened until 
+February 1998.
+    Mr. Koskinen. Yes, 1998. Well, what we both had, and I had 
+that same experience, is in 1995 and 1996, even for people who 
+should have known better, the year 2000 seemed like a long way 
+off. And it was our biggest challenge, even when we all started 
+working together in February 1998, the biggest challenge was 
+getting people to understand they needed to pay attention to 
+this, not just as another issue, but as their top priority in 
+terms of the threat it made to their ability to operate. And I 
+think you started early, the Government started early, but I 
+think it is human nature not to focus on things any earlier 
+than you can make people do that.
+    Mr. Horn. Well I know a lot of Government operates just 
+like universities do--your neck has to be in the guillotine or 
+you are pushed against the wall and then finally something 
+happens.
+    Mr. Koskinen. A lot of people in the private sector still 
+have not even gotten there yet. So it is not just a Government 
+or university problem.
+    Mr. Horn. That is my next question to you.
+    Mr. Koskinen. This will have to be the last one. I really 
+am late.
+    Mr. Horn. All right. In August, you reported confidence and 
+concerns in various public and private sectors. For example, 
+the Council expressed ``High degree of confidence'' in major 
+domestic areas like financial institutions, electric power, and 
+the Federal Government. However, the Council expressed concerns 
+with local governments, health care, education, and small 
+businesses.
+    The President's Council plans to issue its final Y2K report 
+next Wednesday. I guess I would ask you, in foreshadowing your 
+forthcoming report, what domestic and international areas are 
+you still concerned with?
+    Mr. Koskinen. Again, we are pulling that report together 
+and we still have some information being provided by some----
+    Mr. Horn. Just whisper me----
+    Mr. Koskinen. Just whisper any. Basically, we do not have 
+new sectors that we are now any more concerned about than we 
+were. What is hardest for us to measure is how much progress is 
+being made in the areas we are concerned about. Last week, we 
+had an event with the Department of Education in which it was 
+noted that educational institutions, for instance, have made 
+substantial progress. They have gone from about a third 
+readiness of the organizations to two-thirds, which is the good 
+news. The bad news is that still means a third of them are not 
+prepared at this time, both higher education and elementary and 
+secondary.
+    So that I think the best way to summarize the difference 
+between August and November will be that progress continues to 
+be made but there are still going to be organizations that are 
+at great risk because they are going to be talking about 
+finishing their work in December and that does not give them 
+any margin for error. Which means that they, of all people, 
+need to have contingency plans and backup plans because, if you 
+are planning to finish your work in December, there is a 
+reasonable chance something will not work well, you will not 
+have time to test adequately, you need to be prepared with a 
+backup plan.
+    Mr. Horn. Will the Council be pushing for that right up to 
+December 31st?
+    Mr. Koskinen. We will push testing. Our view is you need to 
+keep working on remediation, on testing, re-testing, and on 
+contingency plans with every day and every hour you have left 
+in this year, even if you think you are done today.
+    Mr. Horn. I think you will recall a couple of months ago I 
+sent a letter to the Secretary of Education, copied you, and 
+talked to you about it. I have not heard much action. Is 
+anything happening? I heard some press release or something the 
+Secretary did that, gee, it is tough with K-12.
+    Mr. Koskinen. We have written, the Secretary and I, to 
+every superintendent of education, every State department, we 
+have written to local superintendents. We have had meetings 
+since then. We have provided technical information. The 
+Department since then has done another telecommunication to 
+sites all around the United States. Again, at some point it is 
+a little like our problem with some small businesses--you can 
+lead them to water, but you cannot make them fix their systems.
+    Mr. Horn. Well, I was looking for the Secretary to say, 
+look, it is going to take X amount to help K-12. Let me 
+reprogram the money. I think Congress would have permitted him 
+to reprogram the money. So that is what has bothered me. It 
+just seems like a little bit of drift.
+    I will let you off on that happy note.
+    Mr. Koskinen. Thank you. Thank you all very much. I 
+apologize.
+    Mr. Horn. We appreciate your work.
+    Chairwoman Morella. Mr. Turner will be asking his question 
+of Mr. Willemssen.
+    Are you going to be the media spokesperson in the ICC?
+    Mr. Koskinen. I am going to be the media spokesperson. I 
+will be there.
+    Chairwoman Morella. You will be the one that will contact 
+us. We will be in touch. Thank you very much.
+    Mr. Koskinen. I get all the good jobs. Thank you all very 
+much, and I apologize for having to leave.
+    Mr. Horn. Thank you, John.
+    Chairwoman Morella. Thank you for the good work that you 
+have done. We look forward to staying in touch with you now.
+    Mr. Willemssen, do you mind staying here with the next 
+panel? Would that be all right?
+    Mr. Willemssen. Certainly.
+    Chairwoman Morella. Excellent. Thank you. You have been 
+very patient from the beginning to the end. Great.
+    I am going to ask the next panel if they would come 
+forward. We have Mr. Campbell, Mr. Scher, Mr. Margolis. Mr. 
+Robert Kringley, unfortunately, could not be joining us today.
+    And so, leading off on the second panel is Mr. Pat 
+Campbell, the chief operating officer of the NASDAQ stock 
+market, the largest stock market in the world in terms of 
+dollar value of shares traded, and whose composite index hit an 
+all time high, cresting at over 3,000 just yesterday. Mr. 
+Campbell is going to discuss with us some of the concerns 
+affecting investor confidence in the stock market.
+    Next on our panel is Mr. Barry Scher, who is the vice 
+president of Giant Food, the largest retail food/pharmacy chain 
+serving the mid-Atlantic region. We have asked Mr. Scher to 
+talk about Y2K marketing and what Americans can expect as they 
+go to the stores before and after January 1, 2000.
+    And rounding out our second panel is Mr. Ronald Margolis, 
+the chief information officer of the University of New Mexico 
+Hospital in Albuquerque. Mr. Margolis is also speaking on 
+behalf of the American Hospital Association that represents 
+nearly 5,000 hospitals, health systems, networks, and other 
+providers of care. Mr. Margolis will discuss with us some of 
+the strong Y2K collaborations with hospitals, emergency 
+services, and the government that he helped to create in 
+Albuquerque. He will also help us to review some of the 
+concerns dealing with hospitals and whether Americans can 
+expect to receive necessary medical treatment as we begin the 
+new millennium.
+    Additionally, the American Medical Association has 
+submitted written testimony. I seek unanimous consent to insert 
+it into the record. Hearing no objections, so ordered.
+    [The prepared statement submitted by the American Medical 
+Association follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1629.070
+
+[GRAPHIC] [TIFF OMITTED] T1629.071
+
+[GRAPHIC] [TIFF OMITTED] T1629.072
+
+[GRAPHIC] [TIFF OMITTED] T1629.073
+
+[GRAPHIC] [TIFF OMITTED] T1629.074
+
+[GRAPHIC] [TIFF OMITTED] T1629.075
+
+[GRAPHIC] [TIFF OMITTED] T1629.076
+
+[GRAPHIC] [TIFF OMITTED] T1629.077
+
+[GRAPHIC] [TIFF OMITTED] T1629.078
+
+[GRAPHIC] [TIFF OMITTED] T1629.079
+
+    Chairwoman Morella. Gentlemen, will you also rise and raise 
+your right hands and I will administer the oath. Do you swear 
+that the testimony you are about to give is the truth, the 
+whole truth, and nothing but the truth?
+    [Witnesses respond in the affirmative.]
+    Chairwoman Morella. Again, the record will show an 
+affirmative response.
+    What we traditionally do is allow about 5 minutes for any 
+opening statement that you may have, recognizing the fact that 
+any written statement you have given us in its entirety will be 
+included in the record.
+    So we will then start off with, if you have no particular 
+preference, Mr. Scher.
+
+TESTIMONY OF BARRY S. SCHER, VICE PRESIDENT, GIANT FOOD, INC., 
+WASHINGTON, D.C.; J. PATRICK CAMPBELL, CHIEF OPERATING OFFICER 
+  AND EXECUTIVE VICE PRESIDENT, THE NASDAQ-AMEX MARKET GROUP, 
+     INC.; AND RONALD MARGOLIS, CHIEF INFORMATION OFFICER, 
+  UNIVERSITY OF NEW MEXICO HOSPITAL, HEALTH SCIENCES CENTER, 
+        REPRESENTING THE AMERICAN HOSPITALS ASSOCIATION
+
+                  TESTIMONY OF BARRY S. SCHER
+
+    Mr. Scher. Thank you very much. My name is Barry Scher and 
+I am vice president for Giant Food. We operate 175 stores in 
+Virginia, Maryland, the District of Columbia, New Jersey, and 
+in Delaware. We are also a part of the Royal Ahold family----
+    Chairwoman Morella. Mr. Scher, I think that we had already 
+said that Mr. Campbell would go first. I was simply looking at 
+the manner in which we were seated.
+    Would you prefer to go first, Mr. Campbell?
+    Mr. Campbell. No. Let him go.
+    Mr. Scher. Either way.
+    Chairwoman Morella. Thank you very much. He is a good 
+friend; he understands. Thank you.
+    Mr. Scher. Giant is a part of the Royal Ahold family, a 
+Netherlands-based international food retailer. In the United 
+States alone, Ahold owns, aside from Giant Food, Stop & Shop 
+based in Boston; Tops based in Buffalo; BI-LO from Maulden, 
+South Carolina; and Giant Food Stores in Carlisle, 
+Pennsylvania.
+    Our preparations for Y2K at Giant have been going on since 
+1996. We have been checking our numerous systems, one-by-one, 
+to certify them as Y2K compliant. Although our administrative 
+tests have given us a very high level of assurance that we will 
+enter Y2K without system failures, our certifications test 
+could not test how the systems would work together, as they do 
+every day at Giant, when we enter the new year.
+    These early Y2K certifications were performed on system 
+environments that were virtually identical to those that we use 
+every day.
+    In August, these Y2K workhorses took on a new role at 
+Giant. We ran our systems in a computer lab that simulated all 
+the computer systems in a real store environment. There, our 
+team moved the test systems' clocks to December 31st. As the 
+minutes and hour ticked away, the systems were used and 
+monitored as they would be in a real store to see how they 
+would operate as we entered the new year. We also wanted to see 
+how they would handle the leap year day, February 29, 2000.
+    In the lab, everything worked just fine. We could place 
+orders, ship, select, receive, weigh, and scan product, keep 
+track of everyone's time and attendance, process prescriptions, 
+and so on. Yet, there still loomed a larger question: Would all 
+of these systems--stores, security, non-store environments--
+work together when the clock struck midnight and the new 
+millennium began?
+    We decided that what we needed at Giant was a fully 
+integrated test, doing exactly what we did in the lab; that is, 
+advance the clock to the end of the year in an actual working 
+store, while all of the systems were being used. Our concern 
+was the potential impact that we would have on our business and 
+the inconvenience to our customers if we field tested as 
+customers shopped. Then, as so often happens, out of adversity, 
+opportunity knocked.
+    In early September, we closed a store in Valley Forge, 
+Pennsylvania. With no buyers available, the store was vacated 
+and all the remaining product was shipped to a neighboring 
+store. But before tearing out the computer systems and scales, 
+our Y2K team was able to utilize this empty, but fully 
+operational store to test our company's IT systems.
+    On September 28th, Giant put the computer systems to the 
+ultimate Y2K test. They all passed. All of them, from EBT to 
+DSD to POS, and these are food industry terms meaning such 
+things as electronic benefit transfer, direct store delivery, 
+and POS, which is point of sale or the front-end checkouts. The 
+whole alphabet passed with flying colors.
+    While we are very confident in our own IT systems, we 
+realize that there is always a chance that something could go 
+wrong on January 1, 2000. As a result, we have developed a very 
+comprehensive set of Y2K contingency plans that have been 
+distributed just today, as a matter of fact, to all of our 
+store and non-store management associates.
+    Now, in anticipation of peaks in consumer demand for 
+certain products, we are also developing specific merchandising 
+plans that include buying and distribution strategies. The 
+focus will be on spreading the expected increased demand across 
+the next few months by offering exciting promotions for certain 
+products prior to the holidays. And when the holidays arrive, 
+Giant's support system will not go on vacation. An expanded 
+team of support associates will be on hand at Landover, where 
+we are headquartered, and others will be on-call to address any 
+and all issues that might arise come January 1, 2000.
+    We have also developed an internal and external 
+communications plan. Our objective has been to inform and 
+educate a number of stakeholders about our Y2K readiness. Just 
+to cite some of the examples of our educational and 
+informational activities:
+    We have developed a Y2K brochure, you should have it in 
+front of you, I will hold it up in the event you do not. This 
+brochure was given to all of our stores and distributed free to 
+our customers. We have also been asked to send it to area 
+schools and other institutions. We have done so.
+    We have also placed newspaper advertisements in the 
+Washington Post and Baltimore Sun. This is a copy of one. This 
+was also placed in other major weekly newspapers throughout our 
+marketing area.
+    We also decided to send personal letters to business, 
+civic, and government leaders to inform them about our Y2K 
+readiness. And, finally, we addressed business and civic 
+groups, as we were often requested to do.
+    Plus we have done a great deal more--all with the objective 
+of informing our customers and the general public that at Giant 
+Food we are ready for Y2K.
+    And I mentioned earlier, Mrs. Morella, that I am speaking 
+on behalf of the Ahold companies. All of the other Ahold 
+companies are also ready. We are a member of the Food Marketing 
+Institute, which is an international association representing 
+food retailers. They have also testified before Congress. The 
+food industry is, indeed, ready. Thank you.
+    [The prepared statement of Mr. Scher follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T1629.080
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.081
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.082
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.083
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.084
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.085
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.086
+    
+    Chairwoman Morella. Thank you very much, Mr. Scher. I do 
+think this is an excellent pamphlet. It is colorful, it is 
+accessible, it is understandable. And I commend you for it.
+    I am now pleased to recognize Mr. J. Patrick Campbell, 
+chief operating officer of the NASDAQ stock market. Thank you, 
+Mr. Campbell.
+
+                TESTIMONY OF J. PATRICK CAMPBELL
+
+    Mr. Campbell. Thank you, Madam Chair. I am pleased to be 
+here.
+    The SEC, the National Association of Security Dealers, the 
+securities industry associations, and other firms, exchanges, 
+and utilities have been leading the way in an industry-wide 
+effort to be Y2K ready. The NASD and each of its companies are 
+prepared to transition successfully into the 21st century, 
+along with the rest of the securities industry. We are 
+confident that our business systems, infrastructure, vendors, 
+contingency plans, and transition command centers are ready. 
+Investors should know that we have invested heavily to ensure 
+that we are ready for the year 2000. In fact, the U.S. Senate 
+and the GAO has given our industry its highest rating for Y2K 
+preparedness.
+    The NASD began in 1996 to ensure that the business systems 
+of the NASD companies will transition to the year 2000 
+successfully. We believe that our capital markets in the United 
+States, our national treasures, and their integrity is 
+paramount.
+    The NASD has spent $55 million, dedicated more than 100 
+staff to the effort. The NASD's year 2000 program has 
+remediated over 300 applications, 11 million lines of code in 
+mainframe, mid-range, and desktop systems. The securities 
+industry has treated the problem just as seriously and has 
+spent billions of dollars to meet the challenges that it poses.
+    Our programs have been focused in three areas: The 
+readiness of NASD internal and market systems, the readiness of 
+our 5,600 member broker-dealers, and, as important as anything, 
+keeping investors well informed.
+    The first aspect of the NASD's year 2000 program deals with 
+its internal systems, especially its market systems. The NASDAQ 
+stock market and the American Stock Exchange, as well as all 
+the other exchanges, participated in a series of successful 
+Year 2000 industry-wide tests conducted over four weeks in 
+March and April of this year. These full-cycle tests simulated 
+the securities transactions process for the dates of December 
+29, 30, and 31, 1999, and for January 3, 2000.
+    The NASD tested its services with other participants, all 
+the way from our NASDAQ workstation terminals through our 
+network into our data center and back, end-to-end. The systems 
+executed more than 170,000 simulated transactions for nine 
+different security products over the tested dates. After this 
+rigorous testing, we are confident that there will be no 
+serious disruptions in our services and our markets, and that 
+investors will be protected.
+    In addition to systems testing, we have also made extensive 
+contingency plans to ensure business as usual, and to protect 
+our computing and communications systems as well as our 
+physical facilities. As part of these efforts, the NASD has 
+established corporate and business line command centers that 
+will operate from late December through the first week in 
+January 2000. We will pre-position staff, resources 
+strategically in each of these centers, as well as around the 
+country, to ensure rapid, fast response to protect investors' 
+interests. These centers will be linked to the SEC and other 
+industry organizations.
+    A second major area of NASD focus has been on its broker-
+dealer members. In 1998, the Securities and Exchange Commission 
+adopted a rule requiring all broker-dealers to report their 
+readiness through two successive filings. We use this 
+information to help our firms meet the Y2K challenge.
+    We have held over 90 educational workshops, coordinated 
+with extensive update materials. A year 2000 help desk has 
+responded to member questions, approaching 20,000 in the last 2 
+years. We also have allowed firms to post letters dealing with 
+their readiness on our web site to assure their investors that 
+they can keep their money and assets safe.
+    The third major area of NASD Y2K focus has been on investor 
+education. A comprehensive investor education program has 
+resulted in a coordinated campaign with all the major markets, 
+the SEC, the Securities Industry Association, and the 
+President's Council on Year 2000. This coordinated campaign has 
+communicated the readiness of the industry, as well as 
+practical tips for investors preparing their personal finances 
+for the transition.
+    Examples of these effort include a year 2000 investor kit, 
+which has been made available to the members of the committee, 
+and is also posted on our world-wide web, as well as an open 
+investor letter, that ran today, by coincidence, in the Wall 
+Street Journal. We will continue to run these letters by all 
+the markets in the country basically expressing our Y2K 
+position. This open letter outlines the industry's preparations 
+and repeats the advice to investors found in our investors kit.
+    We appreciate this opportunity to testify. And you should 
+take comfort that we have since 1996 exercised I think our 
+fiduciary responsibility to the Nation and the people who are 
+investors in our capital markets. Thank you.
+    [The prepared statement of Mr. Campbell follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T1629.087
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.088
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.089
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.090
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.091
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.092
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.093
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.094
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.095
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.096
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.097
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.098
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.099
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.100
+    
+    Chairwoman Morella. Thank you, Mr. Campbell, for your 
+testimony and for what has been done. And thank you for being 
+such a great constituent.
+    Mr. Campbell. Thank you.
+    Chairwoman Morella. I am now pleased to recognize Mr. 
+Ronald Margolis, chief information officer at the University of 
+New Mexico Hospital in Albuquerque, and also representing the 
+American Hospital Association.
+    Mr. Margolis.
+
+                  TESTIMONY OF RONALD MARGOLIS
+
+    Mr. Margolis. Thank you, Madam Chair. I am Ron Margolis, 
+chief information officer at University of New Mexico Hospital 
+in Albuquerque. I am here on behalf of the American Hospital 
+Association and their 5,000 hospitals, health systems, 
+networks, and other providers.
+    I would like to focus on four questions about year 2000 and 
+hospitals: Will hospitals be ready? How have hospitals been 
+preparing over the past few years? What if something goes 
+wrong? Finally, how are hospitals reassuring the public at this 
+last 55 days?
+    Will hospitals be ready? In a word, the answer is, yes. An 
+AHA survey last spring found that 95 percent of hospitals 
+expected that their medical devices, computerized information 
+systems, and infrastructure to be Y2K compliant or to operate 
+without a problem on December 31st. A report issued last month 
+by the Health and Human Services Office of Inspector General 
+also indicated high confidence in hospitals' Y2K readiness.
+    For example, in New Mexico, our State Hospital Association 
+survey very recently found that all systems directly related to 
+patient care were expected to be compliant by the year's end, 
+and right now are greater than 96 percent prepared. It is 
+reasonable to infer that since these surveys were conducted 
+earlier in this fall season, readiness among all hospitals has 
+increased.
+    How are hospitals preparing? Hospitals have taken inventory 
+of all of our equipments--that's medical devices, computer 
+systems, hardware and software. From that inventory, a 
+remediation or repair plan was developed and is now being 
+completed. We have tested, using rigorous means, all of our 
+computer systems with a special priority toward patient care 
+systems to ensure that they will work well into the next 
+millennium. We have developed and acquired software that allows 
+us to warp the time ahead so that we were able during the 
+summer to test systems for the period December 27th through 
+April 1st, which includes the leap year which is unusual this 
+next year as well as January 1st.
+    Also, through manufacture and vendor contact, we have 
+determined other systems in medical devices which may be 
+affected and how they will be affected. We are following up as 
+required, which could mean anything from repairing a device, 
+loading new software, or taking a device out of service for the 
+period of the date change.
+    Also, all hospitals plan to increase the level of staffing 
+during the days surrounding the millennium date change. 
+Hospital personnel will be on hand during the date change to 
+make sure equipment is safe and working properly before being 
+used on any patients.
+    Let me point out that hospitals are somewhat unique in 
+their use of technology. It is used as a clinical efficiency 
+aide. Clinicians, of course, are fully able to perform nearly 
+every function that patient support devices provide. We do not 
+under any circumstances hook patients up to computers and then 
+ignore their humanness; we certainly will not on December 31st. 
+To paraphrase the slogan of a telephone company: In the medical 
+world of technology, people make a difference, and we truly 
+believe that is a major differentiator.
+    Nationally, the American Hospital Association is working 
+with the President's Council on Y2K Conversion and with other 
+associations to make sure the availability of drug products, 
+pharmaceuticals, and medical supplies will continue as needed 
+into the new year. In New Mexico, hospitals are working closely 
+with the two major drug houses to assure uninterrupted 
+distribution of pharmaceutical supplies.
+    What if something goes wrong? Here in Washington, members 
+of the District of Columbia Hospital Associations have pledged 
+to back each other up in case of any kind of trouble or high 
+demand for patient services. A Memorandum of Understanding 
+provides a blueprint for inter-hospital support. This kind of 
+cooperation is happening in communities all across America.
+    In my State, hospitals are sharing information on medical 
+devices, contingency plans, and performing readiness drills. We 
+have emergency preparedness procedures in place at the State, 
+county, and the local levels. We have emergency power 
+generation capabilities that support all of our critical care 
+and emergency care facilities.
+    Finally, how are hospitals reassuring the public? As 
+hospitals continue to perform their inside preparations, they 
+are also reaching out to the communities. They are holding town 
+meetings to ensure the people they serve are aware of what is 
+being done. For example, New Mexico hospitals are taking part 
+in Y2K community conversations. In Albuquerque, local hospitals 
+are participating in the Mayor's Millennium Committee which has 
+provided a public forum for citizens' concern and input.
+    In summary, the AHA distributed to all of its members 
+``Health Care and Y2K: What You Need to Know About Health Care 
+and the Year 2000.'' This booklet was developed jointly by the 
+President's Council with the help of the American Hospital 
+Association and other affiliated organizations to focus on 
+consumer questions about Y2K. We encouraged all our members to 
+make this easy to read booklet available to their communities.
+    To conclude, Madam Chairperson, the year 2000 issue will 
+affect every aspect of American life, but few, if any, are as 
+important as health care. What I have outlined today is merely 
+a snapshot of a much more in depth and thorough and united 
+effort to ensure patient safety at midnight on January 1st and 
+beyond. Hospitals and health care systems, their State 
+associations, and the AHA are working together toward a smooth 
+and healthy transition into the new millennium. Thank you.
+    [The prepared statement of Mr. Margolis follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T1629.102
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.102
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.103
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.104
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.105
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.106
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.107
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.108
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.109
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.110
+    
+    [GRAPHIC] [TIFF OMITTED] T1629.111
+    
+    Chairwoman Morella. Thank you, Mr. Margolis.
+    I am going to turn for questioning now first to a gentleman 
+who has not had a chance to ask questions, the distinguished 
+Ranking Member of the Government Management, Information, and 
+Technology Subcommittee of the Government Reform Committee, Mr. 
+Turner, the gentleman from Texas.
+    Mr. Turner. Thank you, Mrs. Morella.
+    I want to commend each of our three witnesses on this 
+panel. I can tell you have invested many hours and many dollars 
+in trying to be ready for Y2K. I have always held the opinion, 
+at least after our many months of study on this committee, that 
+it is the myths about Y2K that could hurt us rather than the 
+realities.
+    I did not get the chance to ask Mr. Koskinen a question 
+that I really think I will direct at Mr. Willemssen. He in his 
+work with the GAO probably knows the answer as well as Mr. 
+Koskinen. The Council that Mr. Koskinen has an Information 
+Coordination Center which, as I understand it, is designed to 
+be a place that is kind of a central point for coordinating all 
+information about Y2K problems, about events that surround the 
+new year.
+    It seems to me that our emphasis at this point, after 
+months of preparation, which I feel very good about, both in 
+the public and the private sector, that we need to rethink a 
+little bit about what we are doing to prepare to address the 
+rumors and the myths that may surround the New Year. At one of 
+our recent meetings, I even suggested that perhaps Mr. 
+Koskinen's council should bring aboard some high profile, 
+credible personality to be a spokesperson, someone who could 
+answer press inquires and someone who could pass along the 
+realities and dispel the myths, someone of the caliber of 
+Walter Cronkite.
+    But it seems to me that is our real fear. I can sense, Mr. 
+Campbell, that you and the securities market would be 
+particularly sensitive to the rumors and the myths that may 
+float around the new year. I come from a small town and in a 
+small town we used to all understand that there were a lot of 
+rumors that started at the bridge clubs and at the coffee 
+shops, and if you circulated in the right groups you could pick 
+up on those rumors, and they would pretty quickly get around 
+town.
+    With the advent of mass media, television, radio, 
+obviously, information spreads much faster all across the 
+country. But at least there, there is responsible journalism to 
+kind of screen the information that comes across the airwaves. 
+But on the Internet, you can put anything on there you want to 
+and spread that story to tens of thousands of people in a 
+matter of hours. Most of us on this committee have experienced 
+in our own offices receiving large volumes of mail on subjects 
+that our constituents heard about over the Internet that we 
+turn around and have to write letters back to them and tell 
+them what they read is absolutely false, there is no such 
+proposal in Congress to tax the Internet, or whatever the issue 
+happens to be.
+    And I am fearful that Y2K offers the opportunity for 
+pranksters and for outright frauds to run rampant on the 
+Internet, and that we need to be very careful about how we 
+structure Mr. Koskinen's Information Coordination Center to be 
+sure that it is going to not only be able to process all of the 
+myths that may surround the new year, but be able to speak with 
+credibility to dispel those myths.
+    Mr. Willemssen, do you know what Mr. Koskinen has done to 
+ensure that we are going to have that kind of response in 
+place?
+    Mr. Willemssen. I was over at the Information Coordination 
+Center on Monday. They are located on about 18th and G. We got 
+a tour, my staff did, of the facility. They do have a press 
+briefing room set up I think for about 60 people. And as I 
+recall, General Kind, the head of the ICC, mentioned to me that 
+the plan was for Mr. Koskinen to provide press briefings 
+approximately every 4 hours during that rollover period.
+    Secondly, echoing back to one of the comments you made 
+earlier, as one of the ideas that we have suggested before, 
+especially now that we are in November and entering into 
+December, is the executive branch may want to look at 
+opportunities to use public service announcements now and in 
+December rather than waiting for just the rollover period, 
+especially to the extent that some may start to view Y2K as 
+entertainment opportunities, as opportunities to show worst 
+case scenarios. I think given that, it is best to combat those 
+kinds of announcements with facts, the facts that we have 
+discussed here today. So I think there still is an opportunity 
+prior to that rollover period to come out with those kind of 
+announcements.
+    Mr. Turner. Mr. Campbell, do you have similar plans for the 
+securities industry to be able to speak with credibility to 
+dispel rumors?
+    Mr. Campbell. Congressman Turner, yes, we do. We expect 
+fully to have our command centers staffed from the 28th of 
+December on. We have hot links, hot lines, satellite 
+communication, et. cetera, with our vendors, with the news 
+media, with the President's working group, with the Securities 
+and Exchange Commission. We have a broadcast facility at which 
+we expect to have Frank Zarb, our chairman, available.
+    We will close our markets on December 31st at 1:00 in the 
+afternoon. We have that afternoon, that evening, and the entire 
+weekend. The way we dispel the myths is that Monday at 9:30 
+a.m. the capital markets in the United States open and they 
+trade.
+    Mr. Turner. Thank you.
+    I think we might could sustain a run on the grocery store, 
+Mr. Scher, but I do not think we could sustain a run on the 
+banks or the security market.
+    Mr. Scher. Well, as I said earlier, on behalf of the food 
+industry, we have been in an offensive manner of working with 
+our customers and our vendors ever since earlier this year. The 
+food industry has done a very good job of communicating to the 
+consumer that there is no need to panic. We are saying in ads 
+and in a brochure, and the whole food industry is, if you are 
+really worried, we advise you to stock up as if it were going 
+to be a snowfall, no greater, no less. But if you are worried, 
+get items like batteries and perishable and non-perishable 
+items. Of course, the perishable items the day or so before, 
+the non-perishable, we are telling people if you are really 
+worried, you can stock up now. But we are telling people there 
+is no reason to do so. We think we have done a good job of 
+informing the public that you do not have to panic.
+    Mr. Turner. Thank you. Thank you, Mrs. Morella.
+    Chairwoman Morella. Thank you, Mr. Turner.
+    Mr. Scher, you spoke on behalf of Giant Food. But how about 
+other food distributors, are they in the same situation, do you 
+know?
+    Mr. Scher. The Ahold family, I mentioned earlier all the 
+companies that are part of the Ahold family, over 1,000 stores 
+along the East Coast. Dr. Tim Hammonds is president and CEO of 
+the Food Marketing Institute, he has appeared before Congress, 
+and I know that other food chains have also appeared. And the 
+message has been one of that the industry has worked on the 
+issue, that we are ready for Y2K, and we will, indeed, be 
+ready. I might add that also goes for the vendors, the 
+companies that supply the food retailers. We at Giant have 
+contingency plans, but we also know that they have worked with 
+other food chains around the country. So the manufacturers, the 
+vendors, the people that supply us within the food industry, 
+they are also ready.
+    Chairwoman Morella. Mr. Campbell, in your testimony you 
+outlined some categories of potential Y2K events. I am curious 
+about an example that you might want to give with regard to Y2K 
+problems that would affect business processing and be visible 
+to the public.
+    Mr. Campbell. We start off with protecting our 
+infrastructure and our technology with very basic starts, where 
+all of our computer facilities, including the one in Rockville, 
+are fully self-contained entities starting with the electric 
+power. Our generator facilities have the capability of 
+operating our operations stand alone.
+    Our biggest concern has always been the fear that people 
+will make decisions about economics and buying or selling their 
+securities based on a rumor. And it is our hope that our 
+education has really been at the forefront and that people 
+should not make economic decisions based on non-economic rumors 
+or baseless fact.
+    We expect fully that all of our systems, we have done the 
+end-to-end testing, we have contingency plans that have 
+addressed every area that we can humanly comprehend or think 
+up, we have prepositioned technology response teams across the 
+country, and will do so. To our way of thinking, the worst part 
+of any of the Y2K issues that we confront is the lack of 
+investor education. And we continue to do that every day.
+    Chairwoman Morella. Where are you going to be on January 1, 
+2000?
+    Mr. Campbell. I will be in my command center at K Street 
+here. We will have a lot of our folks in Washington as well as 
+both our primary and backup computer facilities in Connecticut 
+and in Rockville.
+    Chairwoman Morella. Mr. Scher, are you going to be walking 
+through the grocery store at that time?
+    Mr. Scher. We will be ready.
+    Chairwoman Morella. Mr. Margolis, you mentioned that an 
+inventory that had been done had something like 95 percent of 
+the hospitals were compliant, but you assume there would now be 
+more. Do you want to speculate on how many more? And of those 
+that are not compliant, are they rural hospitals? And what will 
+you do about that?
+    Mr. Margolis. Thank you. I think they would not be 
+differentiated as being just rural or just urban hospitals. The 
+process of remediation with the thousands of medical devices is 
+a process of working with vendors and testing equipment. And I 
+feel confident that process continues to go on. Many vendors 
+early on, and this is back in the spring of this year, were not 
+even certain about their equipment and what impact it would 
+have on Y2K. So that it took them some period of time to check 
+with their own chip processors that made the embedded chips and 
+the other circuitry contained within the equipment.
+    The remediation efforts are nearly complete. That 95 
+percent, which is actually more recently in our State of New 
+Mexico 96 percent, is that equipment which has completely been 
+remediated. And it is for that reason that I am confident that 
+the remaining 4 percent is in the last few days of checking out 
+and finally getting its Y2K compliance sticker, or that pieces 
+of equipment that should not be used because it questionably 
+may fail, it will be locked in a closet as not Y2K compliant 
+and then could be pulled back out after January 1st.
+    Chairwoman Morella. And where are you going to be on 
+January 1st?
+    Mr. Margolis. Well, we have a command center in the 
+hospital. It is a conference room with about 25 telephone lines 
+in it which connects to the various departments. So I will not 
+be partying. Maybe we will have some non-alcoholic punch 
+available for 1 a.m. But in the Mountain States Time Zone we 
+will be watching closely what happens here on the East Coast, 
+and, of course, jointly with the AHA and the President's Y2K 
+task force, we will be watching what happens to medical 
+institutions and health care facilities in New Zealand, which 
+is about 19 hours earlier than the Mountain States, should 
+specific pieces of equipment be affected.
+    Chairwoman Morella. Thank you.
+    Mr. Willemssen, you have been very patient. I know that my 
+time personally has elapsed, but I just wanted to quickly 
+mention that I was alarmed when I read that in education 56 
+percent of the elementary and secondary schools in the United 
+States were not compliant. I am just wondering what that can 
+mean and what is it that we can do about it. This was like 
+heating, security, telecommunications.
+    Mr. Willemssen. The education sector is one that you should 
+be concerned about. Education has gotten a late start. As Mr. 
+Koskinen mentioned, they have made excellent progress. But when 
+your starting point is relatively so late, there really is 
+reason for concern.
+    And one of the things that we have been emphasizing is the 
+need for contingency plans for those educational institutions. 
+Our survey of 25 of the largest school districts found many of 
+them planning on December compliance dates. And as you know as 
+well as anyone, information technology-related projects are 
+often late. So that when you are planning on a December 
+compliance date, it is going to be very difficult probably to 
+make that date for all of those school districts.
+    So I think there is reason for concern. And I think it is 
+therefore incumbent upon all of us to continue sounding the 
+alarm for this particular sector, as Mr. Koskinen and the 
+Department of Education have done in the very recent past. That 
+needs to continue.
+    Mr. Margolis. Madam Chair.
+    Chairwoman Morella. Yes, Mr. Margolis?
+    Mr. Margolis. Thank you. I just wanted to comment on higher 
+education particularly as it pertains to medical schools. One 
+issue has been, and we have talked about it collaboratively, 
+the safeguarding of research projects, research specimens that 
+are refrigerated that could be affected if power is lost. At 
+most major academic centers, which certainly includes the 
+University of New Mexico at this point, emergency power is in 
+place to assure that both clinical laboratory specimens as well 
+as long term research specimens, such as tumors, are under 
+emergency power for continued refrigeration.
+    Chairwoman Morella. That just shows the tremendous 
+implications that one has to think of. You cannot take anything 
+for granted.
+    I am now pleased to recognize Mr. Bartlett.
+    Mr. Bartlett. Thank you very much.
+    I do not know what the estimates are of the total amount 
+that it has cost our country to get ready for Y2K. My question 
+is, we knew a long time ago that this problem was coming. We 
+started very late. Had we started in 1990 rather than in 1997 
+or 1998 or 1999, whenever we started, how much less in your 
+judgement would we have paid to solve this problem? Obviously, 
+the longer we waited, the more technology was there that needed 
+to be fixed and assessed and it was going to cost more. How 
+much less would it have cost us, you may give it as a 
+percentage, in your judgement, if we had started this in 1990 
+rather than when we did?
+    Mr. Margolis. Mr. Bartlett, I believe that the costs would 
+probably be insignificantly less because in the case of 
+hospitals, and I am sure in the case of financial institutions, 
+there are so many interdependencies with other trading 
+partners. Hospitals themselves could very well have upgraded 
+their systems, checked their devices. But without input from 
+the manufacturers of certain components, they would have been 
+waiting until the present time until a lot of information was 
+made available.
+    I think it is human nature to think of things in the future 
+when the future gets a little closer. I speak from my own 
+personal experience. I started out in computer programming and 
+development myself in the 1970s and we talked many years ago 
+about Y2K and no one believed that the computer programs that 
+we were writing then would even be remembered by the time 1999 
+came along.
+    Mr. Bartlett. But they have been remembered and we still 
+use them. And when did we stop using a two-digit code in 
+programming, which would tell you when the cost of fixing would 
+be stabilized.
+    Mr. Margolis. I could not answer that question directly. I 
+know that at our hospital we stopped during the development of 
+our current generation of client information systems. But I do 
+know we have heard from other sectors that other software 
+manufacturers have even introduced operating systems as recent 
+as this year which had year 2000 defects. But they are easily 
+correctable because they are upgraded with a later version of 
+the software. That is not to dispute why they were introduced 
+as being deficient to begin with though.
+    Mr. Bartlett. Which is the basis for my question. If 
+starting in 1990 we had produced no programs with a two-digit 
+date code, would not the problem have been a simpler fix?
+    Mr. Margolis. I think it would have, but the interfaces 
+between the systems would still be at issue. And in hospitals, 
+that is the largest issue that we have. In our specific 
+hospital, we have 80-some systems that speak to one another, 
+that transfer data between one another. So it is not only the 
+interface programs that hand off that data, but each of the 
+programs that have to be Y2K compliant in the same way or in a 
+way that you can understand so that the data is properly 
+translated.
+    So that what you suggest would be the ideal. I am not sure 
+that the cooperation of all the trading partners would have 
+been achieved until the pressure of Y2K, the President's 
+Council, and the Congress had been felt.
+    Mr. Bartlett. Of course, if we had started with a four-
+digit date code, there would have been zero fix; is that 
+correct?
+    Mr. Margolis. That is absolutely correct.
+    Mr. Bartlett. Okay. Mr. Campbell, our procrastination has 
+cost us nothing?
+    Mr. Campbell. Whenever you procrastinate, it costs you 
+something. I would say that the greatest time that we have 
+spent has been on our legacy systems, our older systems. As you 
+build a one-of-a-kind computer system in the world and you 
+start back many years ago, it is the legacy systems that take 
+so much time to recertify. We would have also, Congressman 
+Bartlett, had to certify all new systems that we put in place 
+also. While it has cost us something, I think it is very 
+difficult to place a percentage on it, and I do not think that 
+percentage is a big percentage because of the integration 
+testing and the certification of all systems across all 
+vendors, across all different legacy and new systems. So even 
+the systems that we put in today, we still make sure that we 
+certify them as Y2K.
+    Mr. Bartlett. Mr. Scher?
+    Mr. Scher. Within the food industry, most major retailers 
+started working on the problem 2 or 3 years ago. We do not 
+believe there would have been significant cost-savings. Time is 
+money, as they say, and there probably would have been some 
+better flexibility with time scheduling in advance. But 3 years 
+back the industry looked at the situation and worked 
+aggressively, and the retail industry is ready.
+    Most people think of the food industry as a rather simple 
+business--you go in, you buy groceries, you go home. Looking at 
+what we have developed as far as contingency plans, it is mind-
+boggling. Things that we within the food industry, not just 
+Giant Food, have had to be cognizant of include such things as 
+advertising, direct store delivery, front-end operations, fuel 
+operations, gas, getting products to our stores from our 
+various vendors, perishables, areas of payroll, what happens if 
+there is a power failure, if we cannot get store supplies, 
+transportation, water and sewage. These are major issues that 
+most people say, ``Gee, I had no idea that is what was 
+necessary to run a food store''.
+    Again, I do not think it would have saved a great deal of 
+money. Time, yes, if the industry would have worked a few years 
+earlier. But, again, most retailers that I am familiar with 
+have tackled the problem starting about 3 years ago in 1996.
+    Mr. Bartlett. Madam Chair, I would like to ask Mr. 
+Willemssen just a simple question.
+    Do you concur, sir, that the major liability that we have 
+in starting late is that we might not finish rather than it 
+cost us more?
+    Mr. Willemssen. I think the major liability is exactly 
+that, that we may not finish in time. But I would also add that 
+because we did get a late start, the pace, for all intents and 
+purposes, was more frantic than it would have otherwise been. 
+And you have to pay for that more frantic pace.
+    Speaking from the Federal Government perspective, the most 
+recent estimate we have, the 24 major Federal departments and 
+agencies, is about $8.9 billion that it will cost overall. One 
+could argue that if that had been stretched out over a longer 
+period of time, it may have been less. Indeed, there was a 
+$3.35 billion emergency supplemental that was just for Y2K. One 
+could argue that if the effort had been stretched out over 
+time, agencies could have funded these activities through their 
+normal budgeting process.
+    Mr. Bartlett. Thank you all very much. Thank you, Madam 
+Chair.
+    Chairwoman Morella. Thank you, Mr. Bartlett.
+    I am pleased to recognize Mrs. Biggert.
+    Mrs. Biggert. Thank you, Madam Chairman.
+    One of the rumors that I have heard lately, and I do not 
+know if it is rumor, but so many of the hotel rooms in major 
+cities have been booked, not for the celebrations of the 
+turnover on New Year's Eve, but the fact that so many companies 
+are having so many staff having to man the offices that they 
+actually are having their families come into the cities and 
+celebrate there because they will be involved with the 
+turnover. Is that true, Mr. Campbell, from your standpoint?
+    Mr. Campbell. We have scheduled, in Washington, 10 rooms at 
+the Mayflower. We have scheduled rooms across the country 
+because our staff needs to be there prior to the date, as well 
+as the holiday traffic. So we have booked a considerable amount 
+of room in the hotel industry around this country. You are 
+absolutely right.
+    Mrs. Biggert. I think it will certainly be well-spent if we 
+have those glitches that somebody will be there.
+    I would also like to commend you on your brochure and I 
+guess this postcard. Is this something that was put into store 
+bills, or is this something that was sent out through 
+information?
+    Mr. Campbell. It was sent out by our member broker-dealers 
+across the country in the statements which they send to their 
+customers every month.
+    Mrs. Biggert. Have you had response from the customers?
+    Mr. Campbell. We have had quite an active session on our 
+web sites with customers. And many of those customers would 
+directly ask the broker-dealer that they deal with on a day-to-
+day basis many of the questions that they would ask us, and 
+then we would respond either directly or to the member firms 
+themselves. But our help desk has responded to over 20,000 
+requests over the last period of time. So it has been very 
+active, which is why we have really thought that education was 
+probably the most important thing that we do.
+    Mrs. Biggert. I know one of the concerns about this has 
+been fraud and that people were coming out with schemes to try 
+and make money from this or take away money from people, 
+particularly seniors, with scare tactics. Have you heard of 
+anything where people have called your offices saying that 
+somebody has tried to perpetrate something?
+    Mr. Campbell. Not that I am aware of. The one issue that we 
+have heard about is inducing people to withdraw money from 
+their bank in cash form and then defraud them of that in one 
+form or another. By and large, the securities industry is 
+either book entry or by certificate, and the ability for 
+somebody to walk into an office and demand ready cash is 
+generally not the same as a bank.
+    Mrs. Biggert. And then Mr. Scher, I know that we have had 
+concerns that there will be people who will decide at the last 
+minute that they need to ensure that they have those supplies 
+that they had not thought about until the last day or so. Do 
+you think that still is going to happen? I do know that in a 
+snow storm, coming from an area where we do have a lot of snow 
+at that time of the year usually, that this happens--even in a 
+major snow storm--where people rush to the grocery store at the 
+last minute.
+    Mr. Scher. We have extra merchandise that will be available 
+in the stores and in our warehouses, both perishable and non-
+perishable, to ship. And we can do that in a matter of hours if 
+need be.
+    I do not think you will be seeing that. Early in 1999, the 
+news media was hyping this, and there was, indeed, a lot of 
+interest on the part of consumers about what is going to 
+happen. People were worried. We were getting dozens of media 
+calls and consumer inquiries. Let's advance to November 1999. 
+We are getting about six customer calls or letters a month, 
+which is nothing, and all the news media calls to date have 
+died down significantly. I think they will probably heighten 
+slightly the last week of December.
+    But the message has changed from the news media's 
+perspective, because of good reporting, to there is no need to 
+panic. The message today is that the industry is ready. And 
+that includes the banking industry that I have read about, the 
+food industry, the airlines. So I think the apprehension on the 
+part of the consumer is a lot less today than it was at the 
+beginning of this year.
+    Mrs. Biggert. Good. Great. Thank you very much.
+    Thank you, Madam Chairman.
+    Chairwoman Morella. Thank you, Mrs. Biggert.
+    I am now pleased to recognize Mr. Ose.
+    Mr. Ose. Thank you, Madam Chair.
+    I first want to commend Mr. Scher's organization for this 
+helpful pamphlet which on the back lists any number of web 
+sites down at the bottom that folks can visit for additional 
+information, and if they do not have access to the Internet, 
+there is a phone number that they can call for information on 
+this, a toll-free number, 888-USA-4Y2K. So my compliments to 
+your organization for putting this together.
+    Mr. Scher. Thank you.
+    Mr. Ose. I cannot let the occasion pass, Mr. Campbell, 
+without expressing my compliments to you and your organization.
+    Mr. Campbell. Thank you.
+    Mr. Ose. If I understand correctly from listening to each 
+of you, the manner in which your business transacts is an 
+increasing amount of its commerce is electronically. The 
+hospital folks are ordering supplies electronically, you are 
+exchanging shares electronically, you are buying food and 
+produce electronically, probably paying your people 
+electronically with direct deposit, et cetera. Each of those 
+transactions goes over the telephone lines, in effect. It is a 
+telephone conversation. Which brings me to my question, and I 
+regret we do not have the opportunity to visit with someone 
+today on that.
+    Mr. Willemssen, as far as the telephone companies, it is my 
+understanding they are perhaps the most ready of all the 
+various organizations in the country for this rollover.
+    Mr. Willemssen. I would probably not go along with they are 
+the most ready. I am much more optimistic today than when I 
+testified in the summer of 1998. I would continue to say that 
+the banking and finance sector is probably the most ready. 
+Within the telecommunications area, I think among some smaller 
+local exchange carriers there is still some level of concern 
+about their readiness. So bottom line for me on telecom, much 
+more optimistic, but I would not put them at the absolute top 
+of the heap.
+    Mr. Ose. Well, that brings me exactly to my question, and 
+it relates primarily to Mr. Campbell's area of commerce. On 
+Friday, December 31st, at 1 p.m., the exchanges are going to 
+close, and at 9:30 a.m. on Monday, January 3rd, they are going 
+to open. What is plan B if on Monday the 3rd there has been a 
+problem?
+    Mr. Campbell. Essentially, we operate one of the largest 
+private communications networks that there is. We have paired 
+T-1s to every server that we have across the country and across 
+the world. All of those private, secure T-1 lines have been 
+tested and tested and tested. The servers which they interface 
+with have been tested. We have not only had physical on site 
+presence to those servers, but the end-to-end testing that we 
+have been involved in for quite some time leads us to believe 
+that we know that our telephonic lines are operable in a Y2K 
+environment.
+    We also have the ability to do many tests over that 
+weekend, which we will. We do not quit testing. We do believe 
+that the communications that transact share volume in the 
+NASDAQ stock market are ready and operable, and will be, as 
+they have throughout all of our end-to-end testing. We have 
+transacted business coming in, we have compared trades, the 
+clearing organizations have vented the transparency of that 
+trade back out at the price that it took place. We have gone 
+through the order entry, to the transaction, all the way 
+through the settlement and clearing process in a year 2000 
+environment, having rolled on numerous times our calendars 
+forward.
+    We believe that we are ready. If we have issues to deal 
+with, we will deal with them. But we believe that with the 
+integrated testing end-to-end that we have done, we are ready 
+and we will be ready.
+    Mr. Ose. Thank you.
+    Chairwoman Morella. Thank you, Mr. Ose.
+    It is now my pleasure to recognize the co-Chair of the 
+House Working Group on Y2K, the gentleman from California, Mr. 
+Horn.
+    Mr. Horn. Thank you, Madam Chairman.
+    Let me start with NASDAQ. It established a record high, as 
+we all know, surpassing 3,000 in closing yesterday. And 
+technology stocks really dominate that board. Last week, IBM 
+announced that mainframe computer customers are waiting to buy 
+new equipment until after January 1st as they grapple with 
+their own Y2K problems.
+    What is the danger that Y2K could adversely affect the 
+stock exchanges and investors' interests?
+    Mr. Campbell. First of all, I think that whenever you 
+approach year end, you either speed up your purchasing or you 
+delay your purchasing, depending upon where you are with your 
+budgets or the issues that you are dealing with. We do that at 
+NASDAQ and I know the Federal Government does that. 
+Essentially, in IBM's case, I believe that it was a 
+postponement, obviously, is what you said, and deferral of 
+major purchases while they concentrated on making sure they 
+were Y2K compliant.
+    The SEC has been very diligent in requiring the disclosure 
+of the Y2K risk that firms have. They have gone back and back, 
+and those firms they felt had not been as forthcoming as they 
+would have desired, they have gone back to them and asked them 
+for more specificity with respect to their risks. I think that 
+the technology companies are more aware of Y2K and as 
+sophisticated in the remediation because they are either the 
+problem or they have been the solution. So relative to the 
+damage that it would pose across the country, I think that it 
+will be very limited in scope.
+    Mr. Horn. In terms of contingencies, what things do you 
+have on Y2K problems that affect businesses? What is the 
+contingency plan?
+    Mr. Campbell. Our contingency plan deals with many 
+different levels of issues; whether or not somebody has 
+telephone issues, whether or not they have order entry issues, 
+whether or not they can operate their systems. We have it 
+tiered in many layers. We have very specific reporting 
+requirements over the weekend from December 31st to January 
+3rd. Those very specific reporting requirements go to the 
+different capital markets and the regulators. The Securities 
+and Exchange Commission has very specific reporting 
+requirements over that weekend. We will be, and have been, 
+linked in terms of all the communications that will take place.
+    So there are checklists for as many contingencies as our 
+creative minds have been able to think up over the last couple 
+of years. They are quantified, they are in books, they are in 
+our command centers. We practice, we will continue to practice, 
+and we will have basically triaged as many different 
+contingencies and unexpected kinds of issues that we know how 
+to create.
+    Mr. Horn. A number of us have said from the very beginning 
+that this is a management problem, not just a technological 
+problem. What have you learned out of this experience that 
+might be useful should some similar circumstance ever occur? It 
+might be the encryption bit and how little bright kids break 
+through computer security and all the rest of it.
+    Mr. Campbell. We deal with security issues every day. From 
+a management perspective, my best training is probably as an 
+Air Force pilot and knowing what to expect that nobody has ever 
+trained you for. Essentially, not only from our web sites, but 
+our private communications systems, to our computers, to our 
+people issues, I think that it has continued to make us more 
+aware that it has to be done on every facet every day from a 
+security perspective. So I think that it has been, at least 
+from my perspective, a very broadening experience. Hopefully, I 
+have learned something from it.
+    Mr. Horn. Would any of you other witnesses like to comment 
+on that? What have you learned from this that might be 
+worthwhile knowing as a management problem when we ever get 
+into something like this again? It obviously will not be this 
+particular thing, hopefully, but it could be other things that 
+relate to computers.
+    Mr. Scher. That is a very good question, Mr. Horn. We are 
+looking at Y2K as an opportunity. We think we will not miss a 
+heartbeat; it will pass us by. But your question is a good one. 
+In the event of a natural disaster within the food industry, 
+let's take just one segment, people on welfare, people who 
+receive Government benefits from the State and Federal levels, 
+if the phones go down, for example, people that are on the 
+electronic benefit transfer program, which is almost throughout 
+the United States today, they would go into a food store and 
+not be able to access their benefits.
+    So what have we learned? We have learned that, aside from 
+Y2K, we should indeed have good contingency plans in the event 
+of, for example, telephones go out. A large segment of our 
+customer base would not be able to shop for something they need 
+to survive--food. So we have to look at alternative plans to 
+handle a situation if, for example, the telephone lines go down 
+again, how do we serve that customer. It is a question that we 
+discuss today with one of our other owners, one of the other 
+members of the Ahold family, Giant Food Stores of Carlisle, and 
+we do not have the answer. It is a very good question. Aside 
+from Y2K, if the phone lines go down, how do we serve this 
+important segment of our business. We are going to be 
+addressing that also.
+    So it has widened our horizons. It has opened our eyes to 
+look at possible other disasters that could occur within a 
+retail business, how do we solve those problems. Some of those 
+solutions are inherent with what we have found out with Y2K. 
+Others we will be exploring over the next few months. But it 
+has, indeed, opened our eyes to potential other disasters that 
+could occur.
+    Mr. Horn. Would cellular phones be one of the options for 
+your major customers, a direct line?
+    Mr. Scher. Possibly. If phone lines go down and a welfare 
+individual or family is in a food store, they are at the 
+checkout, we would have--currently, if the computer does not 
+work today, we have a number that we can call within the State 
+government to make sure that the benefits or their so-called 
+account has funds in it. A cellular line would work perfectly 
+for that. It is a little cumbersome, but we would have to 
+resort to something other than telephone lines and that is what 
+we would use.
+    Mr. Horn. Mr. Scher, in terms of the food situation, is 
+there a concern within the food retail distribution industry 
+about transportation being available to get the products you 
+need on a regular basis? I assume a lot of the stores use what 
+we call the Japanese inventory approach; on a timely basis, it 
+gets there based on the demand. Is there going to be 
+stockpiling in some cases in the back of particular stores if 
+they do not have the space?
+    Mr. Scher. Mr. Horn, for certain commodities within the 
+food industry, yes, the food stores, to the best of their 
+ability, have small back rooms that they will stock up with 
+extra merchandise. Our warehouses will also have certain items 
+that we know that, for example, if there is a snow storm, 
+people would normally buy, including such items that are non-
+perishable like batteries, candles. We will have our truck 
+fleet standing by. In the event that we see panic buying 
+occurring, we will be able to ship merchandise to the stores. 
+But with certain commodity groups, we will have excess product 
+in the store just to be safe.
+    Mr. Horn. Let me ask the gentleman from New Mexico. I have 
+long admired the medical school at the University of New 
+Mexico. I am curious, they were the ones that in the freshman 
+year of medical school mixed the students studying medicine 
+with actual patients, and not just the dull bio-chem or 
+whatever courses, anatomy, so forth, but relating them to real 
+human beings. Is that still going on at New Mexico?
+    Mr. Margolis. Yes, sir, Mr. Horn, it does. It is the 
+encounter or problem-based medical training. They were pioneers 
+in that area.
+    Mr. Horn. Well they were No. 1, but Harvard got the 
+publicity because it is Harvard.
+    Mr. Margolis. I am glad that story has travelled back east.
+    Mr. Horn. And having headed a State university and been a 
+head of a lot of those people, but you never get publicity 
+because you do not have 35 people on your staff.
+    Mr. Margolis. That is right.
+    Mr. Horn. So I was just wondering if that kept going, 
+because I have had a great respect for that institution for 20 
+years.
+    Mr. Margolis. I will let the dean know. He will be very 
+glad to hear that.
+    Mr. Horn. Well, it is a very interesting situation. Let me 
+ask you, with the AHA, when we were in Cleveland the 
+representative of the Cleveland Clinic, a very distinguished 
+group of hospitals, was our witness and noted that there was a 
+common web site where you could check out the equipment as to 
+machine number, patent, and all of the rest of it and you did 
+not have to reinvent the wheel if you were checking your 
+various pieces of equipment in the emergency room. Has that 
+worked pretty well? And has the hospital profession been able 
+to get and share information with each other so they do not 
+have to reinvent the wheel?
+    Mr. Margolis. Yes, that has worked very well. Actually, 
+through the leverage of the State Hospital Associations and the 
+American Hospital Association, we have shared a lot of 
+information like that. The FDA, as you know, has a site for 
+medical devices where you can check serial number, 
+manufacturer, and other information to rely upon the piece of 
+equipment being tested by the manufacturer, which is often the 
+safest reliance you can have.
+    In addition, the American Hospital Association has put 
+together a monthly telephone conference line, one for rural 
+hospitals and one for large urban hospitals, where on a monthly 
+basis for the last 11 months we have shared information 
+regarding what we have found with our vendors, what we have 
+found in our own institutions, and how our remediation plans 
+have been going, which has been an excellent forum for learning 
+from one another and avoiding that issue of reinventing the 
+wheel. So, although in many ways we are competitive with other 
+hospitals in our community, it is important to share certain 
+levels of data because we are community service-based providers 
+and it is critical that we be able to respond as a team and not 
+as a single hospital island.
+    Mr. Horn. Now a lot of the manufacturers of some of that 
+emergency equipment probably were out of business. Did you find 
+there were ways to get replacements for some piece, or did you 
+just have to go and let's buy something new?
+    Mr. Margolis. In some cases. I can think of three or four 
+pieces of equipment, and that was I believe EKG pieces of 
+equipment, that had to be replaced because the manufacturer had 
+in fact been out of business for something more than 10 or 12 
+years and there was no successor to that manufacturer that 
+could provide the upgrade. The reality is a piece of equipment 
+like that has a useful life of 8 to 10 years. So, on the one 
+hand, it was probably time to replace it, but, as you know and 
+commented about New Mexico, we probably did not have the money 
+to budget to replace it and so we would have liked to have kept 
+it running. But, for the most part, there has been successor 
+companies who are able to provide the upgraded software, and in 
+many cases the upgraded computer processing board, which will 
+allow that piece of equipment to operate beyond January 1st. 
+Most of that was done under warranty or maintenance service 
+agreements that we have.
+    It is a large challenge for hospitals to have identified 
+all that. But that is part of their remediation plan and, as 
+you pointed out, much of that information has been shared over 
+various web sites.
+    Mr. Horn. Now in going through this exercise, which nobody 
+wanted obviously to do, but you had to do it for your own 
+computer systems, have you learned something that will help you 
+in better arranging new computers which are needed in terms of 
+a new generation? We are always out; the minute we have bought 
+one, it is 3 years out of whack anyhow. But what have we 
+learned from that in terms of did we need all those programs, 
+could you get rid of some, could you merge some? Did anybody 
+use that as an exercise to say why are we doing this?
+    Mr. Margolis. I think a valuable lesson that we have 
+learned is the compatibility between equipment and the need 
+when procuring equipment or software, which is mostly what 
+hospitals do rather than develop their own software, to use 
+common standards in data communication to insist that vendors 
+can provide that common interface. There are committees of HCFA 
+I believe that have defined something called HL-7, which is a 
+standard of data interface, and that has become very popular in 
+the last 2 years, to insist that vendors provide software that 
+can communicate using this HL-7 interchange. I think that is 
+probably the most valuable lesson because that will ensure not 
+only for year 3000, which is quite a distance off, but for 
+various things that happen in terms of Federal programs and 
+insurance programs, that various pieces of the data process 
+share the same codes for the same meaningfulness of the data.
+    Mr. Horn. The way you are getting the new replacements for 
+some of us, we might be around in the year 3000.
+    Mr. Margolis. I hope I am.
+    Mr. Horn. You gentlemen really did a great job and in your 
+written presentations. I think it is one of the best panels we 
+have ever had before us. It was very useful as to what you have 
+gone through.
+    I am going to ask Mr. Willemssen, who has followed us 
+everywhere in the United States, overseas, you name it, and we 
+usually ask him, because he has got all this knowledge, to say 
+what have we missed. And what would you suggest? Ask some 
+questions that make sense to you.
+    Mr. Willemssen. I think you have really touched on some of 
+the key points that you would want to hear from these 
+witnesses. The only thing that I might add from a lessons 
+learned perspective that maybe these sectors have learned, that 
+we have definitely learned in the Federal Government, is going 
+into this, and going into future information technology 
+problems such as this, you need to focus on the business 
+function first and the system second, instead of thinking 
+systems and then how do they work for the business. That is one 
+lesson learned in the Federal Government is focusing on the 
+programs and then looking at the supporting systems rather than 
+the other way around.
+    Mr. Horn. Anybody want to add something that came to mind 
+that we did not ask you? This is your chance.
+    [No response.]
+    Mr. Ose. Mr. Chairman, I have one thing I want to make sure 
+that Mr. Scher addresses, because come January 1st, if there is 
+not an adequate supply of Oreo cookies in his store, he is 
+going to have trouble.
+    Mr. Scher. They will be there, I promise you.
+    Chairwoman Morella. You are talking to a Marylander, we 
+believe in the Oreos, however you spell it.
+    Mr. Horn. Well, if the Chair would indulge me, there is a 
+few closing remarks I would like to make that I did not make 
+because I was not here. I was in a markup of my subcommittee 
+earlier.
+    Chairwoman Morella. Mr. Chairman, before you make the 
+closing remarks, may I just ask one other question. We are also 
+going to open it to members of the committee of both 
+subcommittees to be able to present any other questions to you, 
+if that is amenable.
+    But I just had a question that dealt with an article that I 
+saw in USA Today. It was an article that indicated that a 
+number of companies have failed to comply with SEC regulations 
+requiring full disclosure of a company's vulnerability to Y2K. 
+I just wondered if any of you wanted to comment on is this a 
+widespread problem? Does this imperil investor confidence? 
+Because I think it would affect all of you and I just wondered 
+if you wanted to make any comment on that.
+    Mr. Campbell. It is my understanding, Madam Chair, that it 
+is a very small contained group of companies that the SEC has 
+gone back and asked for further information. Obviously, the 
+most important thing that the management of a company can do is 
+maximize and protect their shareholder value. And those 
+companies that do not have full disclosure obviously risk that.
+    Chairwoman Morella. Anyone else, because it actually would 
+affect all of you.
+    Mr. Scher. No problem.
+    Chairwoman Morella. Are you okay with, I know NASDAQ is 
+going international, but the Asian markets, the 
+interoperability concept?
+    Mr. Campbell. We are moving forward relative to 
+globalization of our markets. The links at this present time do 
+not provide major risk to the U.S. capital markets. 
+Essentially, we will know early whether those markets operate, 
+how they operate. But the connection between the markets is not 
+there at this point in time. So at least to U.S. citizens, the 
+issue relative to their domestic securities is not at issue, it 
+is their foreign owned securities. We have not had any direct 
+conversation with the foreign markets except in terms of 
+exchanging information about Y2K from a technology perspective. 
+So I really cannot address that.
+    Chairwoman Morella. If there were a run on the Asian 
+markets and you found out before it happened here, how would 
+you react?
+    Mr. Campbell. I think our reaction would be to address the 
+confidence issue in our domestic markets. I think all of our 
+markets, all the regional markets, the national exchanges would 
+address those in concert along with the SEC. The most important 
+facet, we believe, of our markets is there is confidence in 
+them; they are well-regulated, they are transparent, and they 
+do protect the investor. That happens no where else in the 
+world like it happens here. So we would address that very 
+openly and very directly and we would share with the investing 
+public exactly what is happening.
+    Chairwoman Morella. Mr. Willemssen, do you want to comment 
+on that issue at all?
+    Mr. Willemssen. We have not done an analysis of that 
+particular issue, so I am not in a position to comment.
+    Chairwoman Morella. Thank you. I want to thank all of you, 
+too.
+    Now I am going to defer to Chairman Horn, the co-Chair.
+    Mr. Horn. Thank you very much, Madam Chairman.
+    No one really knows what is going to happen on January 1 
+and December 31 in terms of what happens when we switch over. 
+We have got predictions that are springing up like wild flowers 
+about this. We have eager entrepreneurs promoting their year 
+2000 survival kits. We have some of the people in the county 
+jail have already talked to the warden and the captain of the 
+guard to say could you let me off for December 31st and January 
+1st because they think everybody will take money out of the 
+bank and put it in their homes. That is the stupidest thing an 
+American citizen or anyone here could do is take money out of 
+the bank and put it in their homes because that is just where 
+the robbers and burglars and all the rest of them will be 
+looking.
+    Already, I read into one hearing a letter to Ann Landers on 
+the scams already happening to elderly citizens. And all I can 
+say is it needs to be ``buyer beware'' in those last few days 
+in terms of people selling you things you really do not need. A 
+lot of them just might collapse on you anyhow. I have been 
+looking at probably 100 different magazines over the last 
+couple of weeks and have seen these ads that are the kinds of 
+things you would see in the National Inquirer or something that 
+want to scare your wits out of you. But we do have some real 
+problems.
+    Of course, some of this is just amusing in a way, but it 
+certainly is upsetting people. For example, in 1993, Minnesota 
+officials instructed 104-year old Mary Bandar to report to 
+kindergarten. Now it turned out that the State computers had 
+misread Ms. Bander's 1889 birth date as 1989, placing her at 
+age 4. Recently in Maine, several hundred car owners were 
+dismayed to find the titles to their new year 2000 model 
+vehicles categorized as ``horseless carriages.'' State 
+computers has misread the year 2000 as 1900.
+    Well, we can get by those things. But some of the more 
+serious ones obviously worry us; and that is, how you get gas 
+from Russia to Eastern Europe, Central Europe, would that 
+affect the United States in any way? Will the electricity fail? 
+So forth. Now both the administration and the Congress have 
+looked at a number of these questions around the country and I 
+think people have been very prepared. When we had a problem on 
+nuclear reactors, we asked the Nuclear Regulatory Commission to 
+look at all of them, not just 10 percent; they were only going 
+to look at 10 percent. They have looked at all of them and 
+presumably that situation which generates electricity is okay. 
+But we really will not know until you get it all in an 
+operational sector where you have all of these different 
+factors coming together in a typical operational day. And that 
+is the main thing we really have to care about.
+    We will have two more things in terms of these two 
+subcommittees. One, we will hold the final grade release to the 
+press on November 22nd, a Monday, and the staffs and the GAO 
+team that has worked very closely with us will be doing the 
+work of analysis that week. We think that should tell us a 
+little bit about at least the executive branch. I think Mr. 
+Koskinen and his team have done a fairly good job. The question 
+is could it all have been done earlier, and would it have cost 
+less. We still have shades of panic even in the executive 
+branch as well as in private industry when a lot of their 
+talented people have been bought out from under them by other 
+industries who want talented people. The question will be did 
+we have enough human resources in the right place at the right 
+time. Again, that is a management question.
+    So, Madam Chairman, I think we hope you will be there on 
+November 22nd. And then your committee and mine, after this is 
+all over, we will have a retrospect summing up, and if 
+something has gone wrong, what could we have done to get the 
+administration to do it the right way then. I was worried for 
+several years over the procrastination. I think they have 
+played catch-up and I hope they make it. That is what we need. 
+We should not have to do things that are just fouled up and not 
+run on a steady track of some sort of management approach to 
+solving the problem.
+    And so that is where we are. We do not know what is going 
+to happen on January 2nd and December 31st. But you certainly 
+give us some heartening hope in major industries that you 
+represent, the hospitals, the grocery industry, the stock 
+markets. I know the stock markets were one of our first 
+witnesses when we started and I think they have done a splendid 
+job. So thank you all for coming.
+    Mr. Horn. Mrs. Morella, I think we have the tributes to the 
+staff.
+    Chairwoman Morella. And as he gives the tributes, I want to 
+indicate that I would agree that the cost has escalated, maybe 
+it would not have had we started earlier. I remember the first 
+submission by the President was $2.3 billion. Remember that, 
+Mr. Willemssen? Now it is $8.9 and probably continuing. But we 
+will be continuing to monitor, and we appreciate very much your 
+being here and for your patience for being here all afternoon.
+    Mr. Horn. I might add that the GardnerGroup, when they 
+testified before our subcommittee, said it will be about a $30 
+billion cost in the case of the Federal Government. We think, 
+and we thought as it went along, and we simply pulled it out of 
+the air, but that is the way they sometimes build budgets 
+around here, we thought it would be $10 billion. And that is 
+about where it is I believe.
+    So we are going to thank our staff that has stuck with this 
+now since 1996. Russell George, the staff director and chief 
+counsel, is standing against the wall there. Don't worry, we 
+are not some Latin American banana republic where people that 
+stand by walls are in trouble. You are in good shape. Matt 
+Ryan, senior policy director, is right behind me here. Bonnie 
+Heald, communications director, is probably working with the 
+press. Chip Ahlswede, our clerk, is right there with them. Rob 
+Singer, the staff assistant; P.J. Caceres, intern; Deborah 
+Oppenheim, intern. That is all of our staff.
+    And then Mrs. Morella's staff of the Subcommittee on 
+Technology of the Science Committee: Jeff Grove, the staff 
+director; Ben Wu, behind us, counsel; Joe Sullivan, staff 
+assistant.
+    The minority staff on the Government Management, 
+Information, and Technology Subcommittee team is Trey 
+Henderson, minority counsel; Jean Gosa, the minority staff 
+assistant. On the Technology Subcommittee, Michael Quear, the 
+professional staff member; and Marty Ralston, staff assistant. 
+And the court reporter is Ruth Griffin.
+    We thank them all for all they have done. They have worked 
+overtime many a night, many a weekend to get the job done, and 
+we appreciate it.
+    Chairwoman Morella. We will now adjourn the committee 
+meeting.
+    [Whereupon, at 5:07 p.m., the subcommittees were adjourned, 
+to reconvene at the call of their respective Chairs.]
+
+[GRAPHIC] [TIFF OMITTED] T1629.112
+
+[GRAPHIC] [TIFF OMITTED] T1629.113
+
+[GRAPHIC] [TIFF OMITTED] T1629.114
+
+[GRAPHIC] [TIFF OMITTED] T1629.115
+
+[GRAPHIC] [TIFF OMITTED] T1629.116
+
+[GRAPHIC] [TIFF OMITTED] T1629.117
+
+[GRAPHIC] [TIFF OMITTED] T1629.118
+
+[GRAPHIC] [TIFF OMITTED] T1629.119
+
+[GRAPHIC] [TIFF OMITTED] T1629.120
+
+[GRAPHIC] [TIFF OMITTED] T1629.121
+
+[GRAPHIC] [TIFF OMITTED] T1629.122
+
+[GRAPHIC] [TIFF OMITTED] T1629.123
+
+[GRAPHIC] [TIFF OMITTED] T1629.124
+
+[GRAPHIC] [TIFF OMITTED] T1629.125
+
+[GRAPHIC] [TIFF OMITTED] T1629.126
+
+[GRAPHIC] [TIFF OMITTED] T1629.127
+
+[GRAPHIC] [TIFF OMITTED] T1629.128
+
+[GRAPHIC] [TIFF OMITTED] T1629.129
+
+[GRAPHIC] [TIFF OMITTED] T1629.130
+
+[GRAPHIC] [TIFF OMITTED] T1629.131
+
+[GRAPHIC] [TIFF OMITTED] T1629.132
+
+[GRAPHIC] [TIFF OMITTED] T1629.133
+
+[GRAPHIC] [TIFF OMITTED] T1629.134
+
+[GRAPHIC] [TIFF OMITTED] T1629.135
+
+[GRAPHIC] [TIFF OMITTED] T1629.136
+
+[GRAPHIC] [TIFF OMITTED] T1629.137
+
+[GRAPHIC] [TIFF OMITTED] T1629.138
+
+[GRAPHIC] [TIFF OMITTED] T1629.139
+
+[GRAPHIC] [TIFF OMITTED] T1629.140
+
+[GRAPHIC] [TIFF OMITTED] T1629.141
+
+[GRAPHIC] [TIFF OMITTED] T1629.142
+
+
+</pre></body></html>

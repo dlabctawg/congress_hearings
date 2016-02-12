@@ -1,0 +1,3333 @@
+<html>
+<title> - GAS PRICES IN THE NORTHEAST: POTENTIAL IMPACT ON THE AMERICAN CONSUMER DUE TO LOSS OF REFINING CAPACITY</title>
+<body><pre>
+[Senate Hearing 112-478]
+[From the U.S. Government Printing Office]
+
+
+
+                                                        S. Hrg. 112-478
+
+GAS PRICES IN THE NORTHEAST: POTENTIAL IMPACT ON THE AMERICAN CONSUMER 
+                    DUE TO LOSS OF REFINING CAPACITY
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                        JOINT ECONOMIC COMMITTEE
+                     CONGRESS OF THE UNITED STATES
+
+                      ONE HUNDRED TWELFTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             APRIL 26, 2012
+
+                               __________
+
+          Printed for the use of the Joint Economic Committee
+
+
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+
+
+                                _____
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+74-323                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+
+
+
+
+
+
+
+                        JOINT ECONOMIC COMMITTEE
+
+    [Created pursuant to Sec. 5(a) of Public Law 304, 79th Congress]
+
+SENATE                               HOUSE OF REPRESENTATIVES
+Robert P. Casey, Jr., Pennsylvania,  Kevin Brady, Texas, Vice Chairman
+    Chairman                         Michael C. Burgess, M.D., Texas
+Jeff Bingaman, New Mexico            John Campbell, California
+Amy Klobuchar, Minnesota             Sean P. Duffy, Wisconsin
+Jim Webb, Virginia                   Justin Amash, Michigan
+Mark R. Warner, Virginia             Mick Mulvaney, South Carolina
+Bernard Sanders, Vermont             Maurice D. Hinchey, New York
+Jim DeMint, South Carolina           Carolyn B. Maloney, New York
+Daniel Coats, Indiana                Loretta Sanchez, California
+Mike Lee, Utah                       Elijah E. Cummings, Maryland
+Pat Toomey, Pennsylvania
+
+                 William E. Hansen, Executive Director
+              Robert P. O'Quinn, Republican Staff Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                     Opening Statements of Members
+
+Hon. Robert P. Casey, Jr., Chairman, a U.S. Senator from 
+  Pennsylvania...................................................     1
+Hon. Kevin Brady, Vice Chairman, a U.S. Representative from Texas     3
+Hon. Pat Toomey, a U.S. Senator from Pennsylvania................    15
+
+                               Witnesses
+
+Dr. Diana Moss, Vice President, American Antitrust Institute, 
+  Washington, DC.................................................     6
+Mr. Robert Greco, Group Director of Downstream and Industry 
+  Operations, American Petroleum Institute, Washington, DC.......     8
+Mr. Thomas D. O'Malley, Chairman, PBF Energy, Parsippany, NJ.....    10
+Dr. Michael Greenstone, Director, Hamilton Project, 3M Professor 
+  of Economics, MIT, Washington, DC, and Cambridge, MA...........    11
+
+                       Submissions for the Record
+
+Prepared statement of Chairman Robert P. Casey, Jr...............    32
+Prepared statement of Vice Chairman Kevin Brady..................    33
+Prepared statement of Dr. Diana Moss.............................    34
+Prepared statement of Mr. Robert Greco...........................    39
+Prepared statement of Mr. Thomas D. O'Malley.....................    41
+Prepared statement of Dr. Michael Greenstone.....................    42
+Prepared statement of Hon. Donna Christensen.....................    46
+Chart titled ``Mid-Atlantic and Northeast Gasoline: Weak Demand 
+  and Ethanol Haave Displaced Gasoline Production of Up to Four 
+  Marcus Hook Size Refineries''..................................    48
+Chart titled ``U.S. Refinery Produced Gasoline: Policy Will Cause 
+  Demand to Decline--The Question is by How Much?................    49
+Prepared statement of Hon. John P. de Jongh, Jr..................    50
+Prepared statement of Mr. Denis Stephano.........................    51
+    Chart titled ``Northeast Refinery Capacity''.................    53
+
+ 
+GAS PRICES IN THE NORTHEAST: POTENTIAL IMPACT ON THE AMERICAN CONSUMER 
+                    DUE TO LOSS OF REFINING CAPACITY
+
+                              ----------                              
+
+
+                        THURSDAY, APRIL 26, 2012
+
+             Congress of the United States,
+                          Joint Economic Committee,
+                                                    Washington, DC.
+    The committee met, pursuant to call, at 2:37 p.m. in Room 
+G-50 of the Dirksen Senate Office Building, the Honorable 
+Robert P. Casey, Jr., Chairman, presiding.
+    Senators present: Casey and Toomey.
+    Representatives present: Brady, Burgess, and Duffy.
+    Staff present: Conor Carroll, Gail Cohen, Cary Elliott, 
+Will Hansen, Colleen Healy, Patrick Miller, Ted Boll, and 
+Robert O'Quinn.
+
+  OPENING STATEMENT OF HON. ROBERT P. CASEY, JR., CHAIRMAN, A 
+                 U.S. SENATOR FROM PENNSYLVANIA
+
+    Chairman Casey. Well thank you, everyone. The Committee 
+hearing will come to order. I'm sorry I'm so late. I'll do an 
+opening statement, which I'll go through with great speed, and 
+then we'll go to our Vice Chair.
+    I want to thank everybody for being here. Today's hearing 
+is focused on the impact that closures of petroleum refineries 
+serving in the Northeast could have on prices at the pump in 
+the Mid-Atlantic and New England regions. Since September 2011, 
+two refineries in the Philadelphia area, and one, I should say, 
+a major Caribbean export refinery supplying the East Coast, 
+have in fact closed.
+    Additionally, a third Philadelphia area refinery is slated 
+to shut down this summer. In addition to the immediate impact 
+on gas prices, we will explore at this hearing the long run 
+cost to the economy associated with higher gasoline prices, as 
+well as the actions that can be taken to encourage the adoption 
+of cleaner, cheaper alternatives to petroleum, such as natural 
+gas.
+    When the situation remains--I should say while the 
+situation remains fluid, with the potential sale of the three 
+Philadelphia area refineries, I'm concerned that the Northeast 
+is losing needed refining capacity. I'm especially concerned 
+that this loss in refining capacity is happening at a time when 
+consumers are already facing rising gas prices.
+    With limited pipeline capacity to import from the Gulf 
+Coast, this loss of refining activity in the Northeast will 
+increase the region's dependence on European gasoline and 
+diesel, and lead to higher prices for consumers. A recent 
+Energy Information Administration report detailed the possible 
+consequences of this reduction in refining capacity, which 
+include greater price volatility and potential shortages in the 
+Northeast.
+    I am focused, as I know so many people here are, on 
+ensuring that changes in refining capacity in the Northeast 
+have as little impact as possible on energy prices, on jobs in 
+our communities, and on the economic recovery. I've urged the 
+administration to become directly involved in this issue. I met 
+with workers at the three Pennsylvania refineries, 
+Philadelphia, Trainer and Marcus Hook, to discuss the impact 
+shuttering the refineries would have on the workforce.
+    Together, these refineries represent half, half of the 
+refining capacity in the northeastern United States. I'd like 
+to recognize representatives from the United Steel Workers 
+Local 10-1, Local 10-901, and Local 10-324, who are in the 
+audience this afternoon. Also attending today's hearing are 
+members of the International Brotherhood of Boilermakers, Local 
+13, and Steamfitters Local 420.
+    Closure of these facilities would likely mean that the 
+Northeast region will experience a decrease in the supply of 
+ultra low sulfur diesel, so-called ULSD. At the same time, 
+there will be an increase in demand for ULSD, as both a 
+transportation fuel and for home heating. With closure of the 
+northeastern refineries' refining activities will be 
+centralized in the Gulf Coast region. This will affect the 
+price of gasoline, diesel and heating oil, and lead to 
+potential shortages of these fuels in the Northeast.
+    An earlier prolonged cold spell next winter could send home 
+heating prices skyrocketing, further hitting consumers. Today 
+gas prices are pushing $4 at the pump, well ahead of the summer 
+driving season. We're facing higher prices, despite the fact 
+that U.S. production of oil is at its highest level since 2003. 
+For the first time in a decade, the U.S. is importing less than 
+half of the oil we use.
+    Yet with only two percent of the world's proven oil 
+reserves, there's little impact the United States can have on 
+the price of oil, which is set by the supply and demand in the 
+global marketplace. Focusing on U.S. demand for oil offers more 
+promise. The United States consumes more than 20 percent of the 
+world's oil. Our dependence on oil to meet transportation needs 
+leaves consumers with few choices, making them vulnerable to 
+oil and gasoline price rises.
+    By promoting policies that reduce our dependence on foreign 
+oil, the United States can help to reduce global demand for 
+oil, and ultimately, ultimately prices. If oil accounted for a 
+smaller share of our energy needs, the U.S. economy and 
+American consumers would be less vulnerable to price spikes in 
+the oil market.
+    It's clear that we need to accelerate natural gas 
+development and use. Natural gas is produced right here at 
+home, creating jobs. It's a clean source of energy, lower 
+emissions than traditional gasoline. Finally, it's cheap. 
+Converting vehicles, especially commercial vehicles to run on 
+natural gas could play a role in the move to a cleaner energy 
+alternative.
+    In the coming weeks, I'll introduce legislation that 
+provides states with both the funding and the flexibility to 
+develop initiatives that (1) encourage use of natural gas as a 
+transportation fuel and (2), encourage public and private 
+investment in natural gas vehicles and transportation 
+infrastructure.
+    These actions will encourage the use of natural gas, while 
+reducing our dependence on petroleum and our vulnerability to 
+oil price spikes. We have a terrific group of witnesses today, 
+with wide expertise on energy issues and I look forward to 
+hearing from them. But first, we'll hear from the Vice Chair of 
+the Joint Economic Committee, Congressman Kevin Brady.
+    [The prepared statement of Chairman Casey appears in the 
+Submissions for the Record on page 32.]
+
+ OPENING STATEMENT OF HON. KEVIN BRADY, VICE CHAIRMAN, A U.S. 
+                   REPRESENTATIVE FROM TEXAS
+
+    Vice Chairman Brady. Well thank you, Chairman Casey for 
+calling today's hearing. It's most appropriate, in light of 
+high gasoline prices and a White House energy policy that's 
+truly coming home to roost. While the President has touted 
+``all of the above'' energy policies, the actual policies have 
+been anything but that.
+    They've been decidedly unfavorable to America's energy 
+manufacturing industry, and that's true for crude oil 
+production as well as refining. The administration has thwarted 
+oil and gas development on federal lands and offshore, and 
+imposed a hasty and prolonged moratorium in the Gulf of Mexico 
+on drilling, and then hindered resumption of exploration 
+through slow permitting.
+    Most recently, it's denied increasing the assured and safe 
+supply of crude oil from our ally, Canada, through the Keystone 
+pipeline to American refineries. The President also risks the 
+jobs of American energy workers, by threatening punitive tax 
+treatment of energy manufacturing, for example, by singling 
+this sector out, and rescinding incentives to encourage job 
+creation and manufacturing here in America.
+    Why is energy manufacturing different than any other form 
+of manufacturing? Why are these good-paying energy jobs deemed 
+expendable by the White House, and why is the President himself 
+pushing taxes, encouraging energy companies to send their jobs 
+overseas? This manufacturing deduction, by the way, is an 
+important incentive to refining, and will further make these 
+projects less economically viable if the President has his way.
+    The administration is also pursuing policies that will 
+shrink and punish petroleum refining, both by forcing it to 
+blend in alternative fuels, even when they do not yet exist, by 
+mandating ever more stringent emission standards, even when the 
+costs are huge and the benefits uncertain. America is 
+experiencing an energy revolution, with the potential to become 
+the largest energy-producing country on the planet.
+    Let's be clear. The rise in energy manufacturing driven by 
+new technology is occurring on private lands, not federal 
+lands. In fact, at President Obama's request, his 
+administration has launched a flurry of regulatory attacks on 
+oil shale development in America, leaving the country to pray 
+that Washington will not smother the technology in the crib 
+with more layers of regulation.
+    Senator Lisa Murkowski, in a recent editorial entitled 
+``America's Lost Energy Decade,'' pointed out that in 2002 the 
+U.S. Senate decided against opening a small section of the 
+Arctic National Wildlife Refuge to oil and gas production. The 
+most cited reason at the time was that it would take too long, 
+ten years, for the oil to reach the market.
+    Now, ten years later, the White House is pleading with 
+Saudi Arabia to produce more oil, when we could be controlling 
+our own supply. Senator Murkowski correctly concluded that long 
+lead times should be a reason to approve drilling quickly, not 
+to continue putting it off.
+    Other non-OPEC countries do not lock away their resources, 
+not even pristine Norway, which is the world's seventh largest 
+exporter of oil, and second largest exporter of natural gas. 
+Our regulatory tale is one of self-inflicted wounds, cutting 
+off our nose to spite our face. This country is blessed with 
+resources that can be developed, produced and processed safely 
+and cleanly, to support economic growth and technological 
+development, which in turn will position us to further advance 
+the state of the environment.
+    All of this is critical to ensuring that America continues 
+to have the strongest economy in the world throughout the 21st 
+century. Refinery closures and job losses are painful, but even 
+more so when our own government's policies contribute to them. 
+Americans want to balance a healthy economy with a clean 
+environment. They don't want their factories shut down 
+effectively by order of the government, and products brought 
+into the country from places that are much less environmentally 
+committed than we are in the United States.
+    Regulators need to take a rational, balanced approach, that 
+recognizes that ignoring economic consequences hurts the very 
+citizens and workers whose welfare they are charged to protect. 
+First, our regulatory mechanism at least needs to be 
+functional. It makes no sense whatsoever to impose blending 
+requirements on refiners for cellulosic ethanol that doesn't 
+exist in requisite quantity, and then fine them for not using 
+it. It makes no sense to push corn ethanol consumption to a 
+level that invalidates our car engine warranties. It makes no 
+sense to impose sulfur content limits on gasoline, that 
+actually may increase CO<INF>2</INF> emissions, when the EPA is 
+trying to reduce those emissions as well. These are unforced 
+policy errors we can't afford to commit, especially in this 
+struggling economy.
+    Second and more fundamentally, the administration, 
+lawmakers and regulators must ask themselves if they're 
+pursuing radical solutions that may never come to fruition, 
+while missing opportunities to push steady and certain 
+improvements. Are they provoking protracted lawsuits and 
+delaying projects? Are their actions causing older, more 
+polluting equipment to stay in place longer, and are they 
+driving America's firms out of business and costing us jobs, 
+while inviting more dependence on foreign countries with worse 
+pollution records?
+    Regulations should facilitate the market's functioning, 
+neither treating private enterprise as an adversary, nor 
+pressing for preconceived outcomes in one sphere, while 
+ignoring collateral damage in the other. Devising good 
+regulatory policy doesn't have to be intensely adversarial. It 
+can be more collaborative, engage in incentives to the private 
+sector, and above all be mindful that it ought to serve 
+economic growth and technological development, the ultimate 
+sources of better living standards.
+    Like the Chairman, I look forward to hearing our witnesses' 
+testimony and probing their ideas for better regulation of oil 
+refineries and in general. I yield back.
+    [The prepared statement of Representative Brady appears in 
+the Submissions for the Record on page 33.]
+    Chairman Casey. Thank you, Vice Chairman Brady. What I'll 
+do now is introduce each of the witnesses by way of their 
+background and biography, and then I'll start with Dr. Moss for 
+her testimony. Let me say two things. Number one to the 
+witnesses, and to the audience, once again I apologize for 
+being late. I thought the mark-up I was in would be about 12 
+minutes shorter than it was.
+    Secondly, if you can keep your testimony as close as 
+possible to five minutes. If you go beyond that by a few 
+seconds, nothing will happen. If you go beyond it by more, 
+we'll probably start standing up and waving our arms, and we'll 
+try not to do that.
+    But we're honored to have such a great panel. Dr. Diana 
+Moss is Vice President, Director and Senior Research Fellow of 
+the American Antitrust Institute. She specializes in the 
+economics of antitrust, regulation and energy, and natural 
+resources. Dr. Moss was a senior staff economist and 
+coordinated campaign analysis in the Office of Market, Tariffs 
+and Rates Division of the Corporate Applications, Federal 
+Energy Regulatory Commission from 1995 to 2000.
+    She has published and spoken widely on energy regulation 
+and antitrust issues, and is also an adjunct professor at the 
+University of Colorado Department of Economics. Her Ph.D. in 
+Mineral Economics was earned at the Colorado School of Mines in 
+1989. Dr. Moss, thank you for being here.
+    Second, Mr. Robert Greco is Group Director of Downstream 
+and Industry Operations for the American Petroleum Institute or 
+so-called API. In this capacity, he directs API's activities 
+related to refining, pipelining, marketing and fuel issues. 
+Over his 21 year career at API, Mr. Greco has managed 
+exploration and production activities, policy analysis, climate 
+change issues, marine transportation, refining, gasoline and 
+jet fuel production issues and Clean Air Act implementation 
+efforts.
+    Before API, he was an environmental engineer with the U.S. 
+EPA, with expertise in automotive emission control 
+technologies. He has an M.S. degree in Environmental 
+Engineering from Cornell University, and a BA in Biology from 
+Colgate University. Mr. Greco, thank you for being here.
+    Third, we have Mr. Thomas O'Malley. He currently serves as 
+Chairman of the Board of Directors of PBF. Mr. O'Malley has 
+more than 30 years of experience in the refining industry. He 
+served as Chairman of the Board and chief executive officer of 
+Petropolis, I'm sorry, Petro Plus Holdings AG from 2006 until 
+February 2011.
+    Mr. O'Malley was Chairman of the Board and chief executive 
+officer of PREMCOR, Incorporated, a domestic oil refinery, from 
+February of 2002 until its sale to Valero in August of 2005. 
+Prior to joining PREMCOR, Mr. O'Malley was Chairman and Chief 
+Executive Officer of Tosco Corporation. He previously served as 
+Vice Chairman and Chief Executive of Salomon Brothers Oil 
+Trading Division. Mr. O'Malley, thank you for being with us.
+    Dr. Michael Greenstone is the 3M Professor of Environmental 
+Economics at the Massachusetts Institute of Technology. He's 
+also a senior fellow in Economic Studies and Director of the 
+Hamilton Project. Previously, Dr. Greenstone served as chief 
+economist for the President's Council of Economic Advisers 
+under President Obama.
+    Dr. Greenstone's academic work is focused on identifying 
+government's appropriate role through regulations, taxes or 
+spending in a market economy. Dr. Greenstone became a member of 
+the Environmental Economics Advisory Committee of EPA's Science 
+Advisory Board in 2003. In 2004, he received the 12th Annual 
+Kenneth J. Arrow award for best paper in the field of health 
+economics.
+    He received a Ph.D. in Economics from Princeton University 
+in 1998, and a B.A. in Economics from Swarthmore College, Mr. 
+Toomey and I know where that is, in 1991. So Dr. Moss, you're 
+first. Thank you.
+
+STATEMENT OF DR. DIANA MOSS, VICE PRESIDENT, AMERICAN ANTITRUST 
+                   INSTITUTE, WASHINGTON, DC
+
+    Dr. Moss. Thank you. I would like to thank Chairman Casey 
+and the members of the Joint Economic Committee for holding 
+this hearing. It is an honor to appear here today. My testimony 
+raises competitive issues relating to refinery closures in the 
+Northeast, and their potential impact on refined petroleum 
+product prices.
+    As a preliminary matter, it is important to consider the 
+backdrop against which refinery closures are occurring. First, 
+the Northeast is a unique area relative to other parts of the 
+U.S., with few refineries, high refining market concentration 
+and a significant dependency on imports of petroleum products.
+    Second, it is important to recognize that domestic prices 
+are not entirely determined by OPEC. Crude oil accounts for 
+about 70 percent of the price of gasoline at the pump, but 
+downstream activities, such as refining, terminaling and 
+storage, and retail marketing and distribution, make up 15 
+percent.
+    So the U.S. has little control over cartelized crude 
+prices. Activities that we can control domestically account for 
+a not insignificant proportion of gasoline prices. Let me 
+briefly highlight a number of competitive issues that arise 
+from refinery closures. The first is refining market 
+concentration.
+    With the closure of the Marcus Hook, Philadelphia and 
+Trainer refineries, there will be between a 40 and 50 percent 
+loss in refining capacity in PADD 1, between 2011 and mid-2012. 
+Much like mergers, refinery closures can affect the 
+distribution of refinery ownership. For example, concentration, 
+as measured by the Herfindahl Index, in PADD 1 was about 3,300 
+at the end of 2010, and will increase to around 4,000 by mid-
+2012.
+    By antitrust standards, such a market would be unconducive 
+to competitive outcomes. Three firms controlled about 90 
+percent of capacity in 2011, but only two firms will control 
+about 90 percent of capacity by mid-2012 after all of the 
+closures are completed. This represents a major structural 
+change in the northeast refining market.
+    High concentration in bottleneck industries can raise 
+concerns over the exercise of market power. For example, firms 
+acting alone or in coordination with rivals may have a greater 
+ability and incentive to withhold output in the short run, or 
+capacity additions in the long run, to drive up prices. A 
+second consideration is the possible of vertical foreclosure, 
+or that integrated refiners could possess the ability and 
+incentive to exclude their downstream rivals, such as 
+wholesalers and retailers from the market, thereby raising 
+prices.
+    Higher concentration in refining and in wholesaling 
+increases this possibility. Here, I note that in addition to 
+increases in refining concentration, wholesale market 
+concentration has also increased in some PADD 1 states such as 
+Pennsylvania.
+    A third consideration is the impact of refining closures on 
+the transportation network. In 2010, PADD 1 imported 72 percent 
+of its petroleum needs, much of which came from the Gulf Coast, 
+and some from imports from abroad. With less refining capacity 
+available to self-supply within the Northeast, imports will 
+likely rise and supply chains will lengthen, to bring in 
+imports from more remote sources.
+    Longer supply chains are more fragile or prone to 
+disruption or collapse, and may magnify the effects of market 
+power that is exercised at concentrated bottlenecks along the 
+way. The questions I raise do not imply that there is or there 
+is sure to emerge a competitive problem associated with 
+refinery closures. In fact, prices may rise in response to 
+natural economic conditions, such as the need to bid supplies 
+away from other lucrative markets, from capacity constraints on 
+transportation networks, or from the costs of upgrading or 
+expanding the network.
+    In fact, some factors may also mitigate competitive 
+concerns. For example, vertical integration in PADD 1 has 
+declined over the last several years, as firms spin off assets 
+to concentrate on more profitable activities. But the fact 
+remains, two refiners will control the market, one of which is 
+vertically integrated, and that continues to be of concern.
+    Refinery utilization rates are also relatively low right 
+now in the Northeast, making a potential withholding strategy 
+less probable. But utilization rates jumped from 56 percent to 
+72 percent between the end of 2011 and the beginning of 2012, 
+after the Marcus Hook and the Trainer closures, and they may 
+further rise, in light of constraints on bringing in more 
+supplies from outside PADD 1, and in light of declining 
+investment in refining.
+    In sum, it would be prudent for policymakers to be prepared 
+to address a number of developments in the Northeast. This 
+includes tight refining capacity and strategic competitive 
+behavior, particularly involving refiners that control large 
+shares of capacity, marginal capacity that sets the price.
+    Policy responses to high gasoline prices would consider 
+prices, output, innovation, but also economic growth, equity 
+and national security. If competitive issues appear to be 
+playing a role in the aftermath of closures, it will be 
+important to scrutinize carefully for further M&A activity in 
+the Northeast. Moreover, some potentially anti-competitive 
+behavior such as withholding to drive up prices is beyond the 
+reach of the antitrust laws.
+    [The prepared statement of Dr. Diana Moss appears in the 
+Submissions for the Record on page 34.]
+    Chairman Casey. Dr. Moss, thank you. That was only 27 over. 
+That's good. Mr. Greco, thank you for being here.
+
+  MR. ROBERT GRECO, GROUP DIRECTOR OF DOWNSTREAM AND INDUSTRY 
+    OPERATIONS, AMERICAN PETROLEUM INSTITUTE, WASHINGTON, DC
+
+    Mr. Greco. Thank you. Good afternoon, Chairman Casey, Vice 
+Chairman Brady, members of the Committee. My name is Bob Greco 
+and I'm Downstream Group Director for API. Thank you for the 
+opportunity to testify today. API represents more than 500 
+companies engaged in all aspects of America's oil and natural 
+gas industry. The industry supports 7.7 percent of our economy, 
+9.2 million jobs, and millions of Americans who hold ownership 
+stakes through pension funds, retirement accounts and other 
+investments.
+    Refineries are critically important to our nation. They 
+make the fuels that virtually all Americans use and that drive 
+our economy. They contribute to our energy and national 
+security, and they provide jobs for tens of thousands of 
+Americans and substantial revenue to local, state and federal 
+governments.
+    The recent refinery closures in the northeastern U.S. are 
+of great concern. They have the potential to impact families, 
+communities and other manufacturing industries, and to reduce 
+tax revenues. We very much regret that. It's also important, 
+however, to understand the reasons why refining is such a 
+challenging business, and why closures sometimes occur, and to 
+also know that the refining industry is resilient and will 
+continue to supply the products that all Americans need.
+    Refining is highly competitive. It is also historically 
+been a low profit margin industry, faced with a heavy slate of 
+regulations involving many billions of dollars in environmental 
+investments and compliance costs. Because of these and other 
+factors, some refineries, often after sustained periods of 
+financial losses, have had to shut down.
+    About 75 U.S. refineries have closed since 1985. As this 
+has happened, however, the remaining larger, more efficient 
+facilities have expanded capacity, so that total U.S. refining 
+capacity has actually increased by 13 percent. The ability of 
+our industry to add capacity and deliver larger amounts of 
+gasoline and other products over a flexible distribution 
+network, and also to draw on imported products when necessary, 
+will help us continue to provide Americans the fuels they need.
+    The higher prices we see now have also been a challenge for 
+our refineries. Rising global demand and Middle East tensions 
+have pushed the cost of crude oil higher. The cost of crude oil 
+is the single biggest factor in the price of gasoline, 
+accounting for about three-quarters of the pump price, 
+excluding gasoline taxes, and is the largest cost incurred by 
+refineries.
+    Refiners have struggled to pay these higher raw material 
+costs to make products for Americans, at a time when demand has 
+been relatively weak because of (1), the recession, and (2), 
+the federal ethanol blending mandate. This has severely pushed 
+down margins and has negatively affected the refining sector.
+    Refining is a difficult business, but we can make better 
+energy policy choices that can help the industry remain a 
+reliable, stable supplier of affordably-priced fuels and keep 
+its workers employed. Good policy choices means sensible 
+regulations, fair tax policies and sufficient access to the 
+crude oil from which all refined products are made.
+    Decisions made in Washington, D.C. are a big part of this 
+equation, but so are those made by local and state governments, 
+such as state requirements for ultra low sulfur home heating 
+oil. Excessive rules can raise costs and make it harder for our 
+refineries to compete and stay in business.
+    Policies such as those embraced by the current 
+administration, that limit crude oil production in the United 
+States, or prevent ready supplies from being imported from 
+Canada, put upward pressure on crude oil prices, that 
+eventually affected refineries and those who consume the 
+gasoline, diesel and other products they make.
+    That's why we've been calling on the administration for a 
+change of course. We've urged them to expand access to 
+America's vast oil and natural gas resources on public lands, 
+that could also add supplies to markets and put downward 
+pressure on prices. We've urged them to approve the Keystone 
+Xcel pipeline, which could deliver from Canada very large 
+additional quantities of crude oil to U.S. refineries that 
+serve U.S. consumers.
+    We've called for more sensible, cost-effective regulations, 
+that show a practical regard for potential impacts on the 
+industry, its employees and those who depend on the products 
+they make. We've asked the EPA in particular to reconsider a 
+virtual blizzard of new, poorly thought-out or unnecessary 
+rules affecting our refining sector including, for example, a 
+rule that forces refiners to blend into gas with advanced 
+biofuels that do not yet exist, or pay a fee for doing so.
+    Another example is the fuel changes being considered by EPA 
+in its Tier 3 rulemaking. These potential requirements have yet 
+to be justified, but they could threaten to increase fuel 
+manufacturing costs, increase refinery greenhouse gas 
+emissions, and make U.S. refineries less competitive with 
+foreign refiners.
+    And we've challenged billions of dollars in proposed tax 
+increases on an industry that already pays vast sums to the 
+government, at far higher effective tax rates than most other 
+industries. In conclusion, America's refineries are a critical 
+part of the nation's industrial bedrock, and part of the fabric 
+of the communities in which they operate.
+    They make products that are absolutely indispensable to 
+America, they are vital to our national security. Our 
+policymakers must understand this, for this vital sector of our 
+economy to continue serving America as best as it can. Thank 
+you.
+    [The prepared statement of Mr. Robert Greco appears in the 
+Submissions for the Record on page 39.]
+    Chairman Casey. Thanks, Mr. Greco.
+    Mr. O'Malley.
+
+  MR. THOMAS D. O'MALLEY, CHAIRMAN, PBF ENERGY, PARSIPPANY, NJ
+
+    Mr. O'Malley. Chairman Casey, Vice Chairman Brady and 
+members of the Committee, thank you for giving me the 
+opportunity to testify at today's hearing on some of the 
+factors that led to the refinery closures in the Northeast, and 
+hopefully I'll be able to say something about leading to the 
+reopening of these refineries in the Northeast.
+    PBF Energy owns three refineries with a total capacity of 
+about 540,000 barrels a day. Two of these refineries are 
+located in the Northeast, one in Delaware and one in New 
+Jersey. The Delaware refinery was taken over from Valero in 
+2010 in a closed-down state. We spent several hundred million 
+dollars to fix it and reopened it. The Paulsboro refinery was 
+also bought from Valero in 2010, and was in danger of being 
+closed. Both of these refineries are supplying crude oil 
+products to the U.S. East Coast.
+    The third refinery we own is in Toledo, Ohio, and has 
+operated on a continuous basis since we acquired it from Sunoco 
+in 2011. We employ, including direct employees and contractors 
+who work at the facilities, about 2,000 people. The recent 
+refinery closures that have occurred or are currently pending 
+are the tip of an iceberg.
+    If fuel substitutions, from 2012 to 2022 mandated under the 
+Energy Independence and Security Act of 2007 are maintained, we 
+will lose over that time period an additional ten percent 
+minimum of U.S. refining capacity, and thousands of high-paying 
+jobs that this important industry provides.
+    The 1,400,000 barrels a day of renewable fuels, over and 
+above the 2011 mandate will, we believe, be far more expensive 
+than the oil products coming from refineries.
+    When you combine this with what can only be described as an 
+aberrant administration of the 2007 Act, particularly on 
+renewable identification numbers (RINS) by the Environmental 
+Protection Agency, it's easy to come to the conclusion that the 
+U.S. government will drive refining companies out of business.
+    This extra fuel substitution has no basis in economic 
+reality, and is marginal in terms of environmental improvement. 
+The Act of 2007 may have seemed good policy in 2007, but it 
+sure isn't today.
+    If bio and renewable fuels manufacturers can produce on a 
+superior economic basis to hydrocarbon fuels, they should do 
+so. They should take market share, but the old fashioned way, 
+through better quality, better price and without government 
+mandates or subsidies.
+    Indeed, as the gentleman from the API said, we are on a 
+road that may in fact get us to energy independence. But it's 
+going to come from more production of hydrocarbons, and not 
+taking corn out of the food chain and turning it into ethanol 
+or some other dream process that doesn't exist on an economic 
+basis, to make advanced biofuel at great cost to the consumer.
+    The other government action that will close more refineries 
+and raise the price of fuel is the EPA plan for Tier 3 
+gasoline. The industry will have to spend billions of dollars 
+to comply, money which independents, who now control 60 percent 
+of the capacity in this country, probably don't have. Why are 
+they doing this? To lower the sulfur content from 30 parts per 
+million to 10 parts per million.
+    Under this Tier 3 plan, the total sulfur removed from PBF's 
+gasoline production of about 4.5 billion gallons per annum, 
+would be less than one-eighth of what one 500 megawatt coal-
+fired power plant emits in a year. You have several of those 
+plants not so far from here. Is this good policy in a weak 
+economy, where it helps to kill one of our last heavy 
+industries, that provides high-paying jobs and meets the needs 
+of the population?
+    The hearing is focused on the impact of potential closures 
+of petroleum refineries serving the Northeast, and the effect 
+on prices. But this is not just a problem in the Northeast. 
+It's a problem for the nation. In the short, medium and long-
+term, it is my view that these closures will lead to higher 
+prices than if those refineries were operating. In certain 
+circumstances, we could see dangerous shortages develop, which 
+could lead to severe economic disruption in the Northeast.
+    In conclusion, we need to see an adjusted government policy 
+that seeks to maintain this important strategic manufacturing 
+industry, and not a series of policies and laws that destroy 
+it. Removing the 2007 renewable fuel mandate, eliminating the 
+mandate for ten percent ethanol in gasoline, and holding EPA 
+back from an aggressive stance on Tier 3 gasoline 
+specifications, would in my view lead to a reopening of some of 
+the closed refineries and long-term employment for thousands of 
+workers in the Delaware Valley.
+    Fault cannot be placed on either the Democrats or the 
+Republicans. This is just a combined policy that hasn't worked 
+and should be changed. Thanks for taking the time for inviting 
+me, and the courtesy of listening.
+    [The prepared statement of Mr. Thomas D. O'Malley appears 
+in the Submissions for the Record on page 41.]
+    Chairman Casey. Thank you, Mr. O'Malley. Dr. Greenstone.
+
+    STATEMENT OF DR. MICHAEL GREENSTONE, DIRECTOR, HAMILTON 
+ PROJECT, 3M PROFESSOR OF ECONOMICS, MIT, WASHINGTON, DC, AND 
+                         CAMBRIDGE, MA
+
+    Dr. Greenstone. Thank you, Chairman Casey, Vice Chairman 
+Brady and members of the Committee for the opportunity to speak 
+today. The potential closure of petroleum refineries on the 
+East Coast have led to speculation that energy prices may rise, 
+possibly dramatically in some instances.
+    I think this hearing provides an opportunity to consider 
+our energy choices more broadly. Any consideration of our 
+energy system must recognize that we're in the midst of a 
+natural gas revolution.
+    This is perhaps best illustrated by the figure to my left, 
+which reports the ratio of petroleum to natural gas prices on 
+an equal energy content basis. What's really amazing about the 
+chart is for the 25 years, from roughly 1980 to 2005, the ratio 
+was two to one.
+    Then beginning in about 2005, our natural gas production 
+began to increase, a lot of it in your home state of 
+Pennsylvania, and you saw this ratio changed dramatically. Now, 
+the petroleum price is about six times the natural gas price. 
+This practically unprecedented change in the ratio of oil to 
+natural gas prices presents an incredible opportunity for the 
+United States. It's creating economic opportunities around the 
+country and over the longer term, I believe offers an 
+opportunity to strengthen our energy security by reducing our 
+dependence on petroleum.
+    Indeed, the first signs of a transition to increased 
+reliance on natural gas in the transportation sector are 
+beginning to emerge. But the key point is that this transition 
+will not proceed optimally or quickly, unless we make proactive 
+policy choices.
+    Specifically, one of the most challenging features of our 
+energy system is that many of our energy choices involve what 
+economists call externalities. That is to say, the choices 
+individuals make about the production or consumption of a 
+particular energy source impose costs on others, in the form of 
+shorter lives, higher health care expenses, a changing climate 
+and a constrained national security or weakened foreign policy.
+    The current energy playing field is tilted, because our 
+individual energy choices are based largely on the visible 
+costs that appear in our electric bills, and appear at the gas 
+pump. This system masks the full or social costs arising from 
+these energy choices. The second figure to my left helps to 
+illustrate this.
+    If you take an example, look at coal, the private cost of 
+producing a kilowatt hour of coal is in blue there, and it's 
+about 3.2 cents per kilowatt hour. But if one were to account 
+for external costs--health problems and the changing climate, 
+for example--and use numbers from the National Academy of 
+Science and from the United States government, the true social 
+cost is 8.8 cents per kilowatt hour.
+    In contrast, the private cost of a kilowatt hour of 
+electricity from a new natural gas plant is about 4.1 cents, 
+and then if you were to add in the external costs such as 
+health costs and the projected damages from changes in the 
+climate, the full social cost is about 5.2 cents.
+    So despite the relatively low social cost of natural gas, 
+industry and consumers have little incentive to change their 
+energy choices. This is because coal, and in the transportation 
+sector gasoline, are comparatively inexpensive when only their 
+private costs are considered. A better approach to energy 
+policy would involve a fairer competition between energy 
+sources that placed them on a level playing field.
+    This would involve pricing carbon and other pollutants 
+appropriately. I want to emphasize, though, that even in the 
+absence of a national policy to price these external costs, 
+there are still other policy options available. As an example, 
+some existing U.S. policies aim to correct externalities in 
+energy use in the transportation sector, but they don't treat 
+natural gas fairly. That's something that's going to be 
+illustrated in the Hamilton Project paper by my colleague, 
+Chris Knittel from MIT, that will be released in June.
+    Let me just give you an example of some of the findings 
+from that paper. So for example, the federal renewable fuel 
+standard ensures that transportation fuels sold in the U.S. 
+contain certain volumes of renewable fuels, but does nothing to 
+encourage the use of natural gas.
+    The stated rationale behind the Act is to promote energy 
+independence and security, and to favor clean fuel sources. Use 
+of natural gas would clearly advance the mission of the Act, 
+and until natural gas is included in the renewable fuel 
+standard as a Conventional Biofuel, it will be at a 
+disadvantage to fuels such as ethanol.
+    Another example comes from electric vehicles, where we 
+currently have large subsidies to the income tax code to 
+purchase these vehicles. What that is missing is the fact that 
+vehicles that run on compressed natural gas produce similarly 
+low amounts of greenhouse gas emissions as electric vehicles, 
+and yet they're not as privileged through the tax code.
+    Finally, there are also issues in infrastructure which 
+require further analysis, with respect to bringing natural gas 
+to the transportation sector. Without prejudging the outcome, I 
+think it would be appropriate to study whether some targeted 
+subsidies for the construction of natural gas refueling 
+stations are justified.
+    Let me conclude by bringing this back to the subject of 
+today's hearing. Periodically, the energy sector shows up in 
+the headlines. Most often this is due to price spikes, like 
+those that some project would occur in the Northeast following 
+the potential closure of petroleum refineries, or due to 
+environmental damages associated with energy production or 
+consumption.
+    Our current energy policies encourage these problems rather 
+than discourage them, by failing to allow all energy sources to 
+compete on a level playing field. I would make respectfully two 
+recommendations that would help to level the playing field.
+    The first is the federal government should price the 
+external costs--that is the health, environmental and security 
+costs--associated with the production and consumption of 
+various energy sources. That reform would allow all energy 
+sources to compete on a level playing field.
+    Second, if it's infeasible to fully price these external 
+costs, then the forthcoming Hamilton Project paper makes a 
+compelling case for putting natural gas on equal footing with 
+renewable fuels under the Federal Renewable Fuel Standard, and 
+by providing equal subsidies to electric vehicles and vehicles 
+that run on compressed natural gas.
+    I'd like to thank the entire Committee once again for 
+inviting me to participate in discussion, and I would be happy 
+to entertain any questions.
+    [The prepared statement of Dr. Michael Greenstone appears 
+in the Submissions for the Record on page 42.]
+    Chairman Casey. Thank you, Doctor, very much. We'll move to 
+questions now. Before I do that, let me recognize a 
+distinguished member of our audience. I'd like to recognize 
+Congresswoman Donna Christensen, the United States Virgin 
+Islands delegate to Congress. She's there, I think, in the 
+first row. Thank you so much for being here.
+    She's here this afternoon and has written testimony that 
+will be included in the official record of the hearing. The 
+Virgin Islands has been directly impacted by the recent 
+refinery closures, I should say. In February 2012 Hovensa, the 
+U.S. Virgin Islands refinery, was shut down.
+    This refinery, which produced, I should say, 350,000 
+barrels per day, employed 2,000 workers. Half of the refinery's 
+product was exported to the Northeast. For 45 years, the 
+refinery was the Virgin Islands' largest private sector 
+employer. Now, it will operate as an oil storage facility and 
+employ just 100 people.
+    Clearly, this economic hit for the Virgin Islands has been 
+substantial, and the loss of refining capacity also affects 
+consumers in the northeastern United States. I appreciate 
+Congresswoman Christensen being here today, and I'm grateful 
+she's offered us a perspective by way of her testimony.
+    [The prepared statement of Hon. Donna Christensen appears 
+in the Submissions for the Record on page 46.]
+    Chairman Casey. Dr. Moss, I wanted to start with you. In a 
+pertinent part on page three of your testimony, where you 
+outline in the first paragraph so-called downstream activities, 
+refining, distribution of refined products to storage 
+terminals, wholesale and retail marketing, all of those under 
+the umbrella of downstream activities, and you say that ``these 
+activities make up a not insignificant 17 percent of the final 
+retail price of gasoline.''
+    So I guess my first question is when it comes to that part 
+of your testimony, and you consider that, and you also 
+consider, as you observed, that the Northeast has the fewest 
+number of refineries and the highest level of both market 
+concentration and increase in concentration, how does that 
+competitive situation in the northeastern United States compare 
+to other regions of the country?
+    Dr. Moss. That's a good question. I think the comparison, 
+if you look at the EIA's breakdown in terms of what makes up 
+the final price of gasoline at the pump, that's an interesting 
+breakout, and I think some of my colleagues here pointed out 
+that some of that goes to taxes. Obviously, crude oil plays a, 
+has a huge impact, along the lines of about 75 percent in 
+making up the final price of gasoline.
+    My point is that we can't ignore what goes on in a 
+downstream sector, by way of saying well, it's all driven by 
+crude oil prices, because it's not. In large part, crude has a 
+large impact on retail prices, but we do have control over the 
+downstream part of our industry, that occurs under our own 
+domestic roof.
+    If there is competitive mischief or anti-competitive 
+mischief that evolves from a very highly concentrated refining 
+sector, and incentives that are created for firms to behave 
+strategically, even a 15 percent portion of the final gasoline 
+price could account for significant price spikes.
+    So my message, I think, is that we can't rack this entirely 
+up to factors outside of our control, meaning OPEC. We do have 
+control over our domestic industry, what the structure of that 
+industry looks like, and how competitive outcomes are in that 
+industry. Compared to other regions of the country, this is 
+very, very unusual, in terms of high refining concentration, 
+wholesale concentration and the like.
+    So PADD 1 or the Northeast in particular provide a very 
+unique competitive scenario or landscape against which we need 
+to evaluate the possibility of price hikes.
+    Chairman Casey. Let me ask one more question in this round. 
+We've worked very hard, a broad coalition of people in 
+Pennsylvania, to be constructive in our engagement with the 
+companies, to try to prevent the closures and try to maintain 
+refining capacity, and literally maintain refineries in 
+southeastern Pennsylvania.
+    Mr. Toomey and I and members of Congress in both parties 
+have been working with and meeting with the employers, the 
+workers and the unions representing those workers, a lot of 
+people working together. I want to commend so many people for 
+making that effort.
+    But one of the concerns that we have is that right now, 
+there's an offer, several offers, but offers from outside 
+groups which would operate refining operations, refining 
+locations I should say, using those facilities not as 
+refineries, but in this one case potentially operating it as a 
+terminal.
+    I wanted you to comment on that, in terms of some of the 
+consequences to operating one of the idled or closed refineries 
+as a terminal, instead of keeping it as a refinery. Is there 
+anything you can say with regard to that and the consequences?
+    Dr. Moss. Well, I obviously can't speak to the mechanics or 
+the engineering aspects of converting refineries into terminals 
+and storage facilities. But from a competitive standpoint, I 
+think even that requires a fair bit of scrutiny. For example, 
+if refineries are taken over to serve a fundamentally different 
+purpose, we would want to know who's purchasing those 
+facilities, to avoid any further concentration of terminaling 
+and storage amongst a very small set of firms or suppliers in 
+the market, which could in turn drive up wholesale market 
+concentration.
+    I mentioned both refining market concentration and 
+wholesale market concentration are important, particularly in 
+this area where there are so few suppliers. So I think we would 
+want to be very careful, through antitrust enforcement and 
+investigations, to make sure that refining assets don't turn 
+over in a way that exacerbates concentration and refining, and 
+that terminaling and storage markets do not also become more 
+concentrated, because they went to firms that have a dominant 
+presence in the market.
+    Chairman Casey. Thanks very much. Vice Chairman Brady.
+    Vice Chairman Brady. Mr. Chairman, because we're told 
+Senate votes start very quickly, with your permission, I'd like 
+to call on Mr. Toomey, so that both of you can have a first 
+round of questions.
+    Chairman Casey. Sure, thank you.
+
+   OPENING STATEMENT OF HON. PAT TOOMEY, A U.S. SENATOR FROM 
+                          PENNSYLVANIA
+
+    Senator Toomey. Vice Chairman Brady, thank you very much 
+for your kind accommodation of our voting schedule. I 
+appreciate it. Senator Casey, thank you for leading this 
+hearing, and I want to thank the witnesses, as well as the 
+guests who are here today.
+    This is a very, very big deal in southeastern Pennsylvania. 
+We've got thousands of families that are out of work, that are 
+facing the possibility of losing existing jobs, and in many 
+cases, with pretty grim prospects of getting back to work at 
+comparable jobs.
+    So I think it's important that we understand a little bit 
+better how we got here, and the prospect going forward. I am 
+very concerned, for instance, with Mr. O'Malley's suggestion 
+that this might be the tip of the iceberg. We currently have 
+the hope that a new buyer could come in and operate the 
+Philadelphia refinery.
+    We have a hope that the trainer facility could continue to 
+operate as a refinery. But if Mr. O'Malley is right, and there 
+are circumstances in place that jeopardize the future viability 
+of refineries generally going forward, then all of this is in 
+question.
+    So I want to touch on three areas in which I think the 
+federal government in Washington is contributing to the 
+problem. Now I'd be the first to acknowledge, there are many 
+macroeconomic factors that contribute to pressure on the 
+refining sector, on this industry, contribute significantly to 
+the causes for the closures that we've seen and that we're 
+worried about.
+    But there are also some factors that we in Washington are 
+responsible for. I want to touch on three of them. One is the 
+CAFE standards that we have adopted, which it seems to me 
+unambiguously have the effect of forcing people to buy smaller 
+and lighter and less powerful cars than they would prefer. That 
+diminishes demand for gasoline and diminished demand has an 
+effect on the refining industry.
+    Second is the ethanol mandates, which I want to dwell on a 
+bit, and then finally there are EPA regulations on the 
+refineries themselves. But I've got a chart here that I'd like 
+to call to your attention, and do you have a printed version 
+that I can have? Thank you.
+    This depicts--the black line that's generally sloping 
+upward is the price of gasoline, and that is on the right-hand 
+scale, and that's really there for information purposes. What I 
+find very interesting is the green segment at the top of this 
+chart. The combined red and green segments together represent 
+the total refined product that is produced in the Northeast and 
+the Mid-Atlantic region.
+    The green section is the ethanol component, which you can 
+see started to expand dramatically from a very, very minimal 
+sliver of a green line prior to 2003, to a very, very big 
+segment of this graph by oh, increasing really through the last 
+decade. My understanding is that if you quantify the ethanol 
+that is represented on this chart, that which serves just the 
+Northeast and the Mid-Atlantic states, it is equivalent to the 
+gasoline production of two Marcus Hook production refineries.
+    That's a pretty staggering amount, and I think it's an 
+important comparison to think about. So my question, and I'll 
+direct this first to Mr. O'Malley, but others, please feel free 
+to weigh in on this. Given that ethanol now, by mandate of the 
+federal government, replaces ten percent of what would 
+otherwise be gasoline, how significant an impact do you suppose 
+that has had on the prospects of the refining sector?
+    [Chart titled ``Mid-Atlantic and Northeast Gasoline: Weak 
+Demand and Ethanol Haave Displaced Gasoline Production of Up to 
+Four Marcus Hook Size Refineries'' appears in the Submissions 
+for the Record on page 48.]
+    [Chart titled ``U.S. Refinery Produced Gasoline: Policy 
+Will Cause Demand to Decline--The Question is by How Much? 
+appears in the Submissions for the Record on page 49.]
+    Mr. O'Malley. The reason for the closure of the refineries 
+in Pennsylvania is that they didn't make money, and the reason 
+they didn't make money is that you took away their market. You 
+delivered the market to the farm industry. It is not ten 
+percent. That is what it should be, but through the 
+administration of the EPA and actions, I must say, of Congress, 
+it has to go above ten percent, because in addition to a 
+mandate for ten percent, there was a gallonage mandate assigned 
+to the gasoline pool.
+    Because the use of gasoline in the United States has fallen 
+off, we now have a mandate that will go up to 12, 13, 14, 15 
+percent, and we have a motor industry that says we can't really 
+deal with that. You're going to injure the engines on cars. Now 
+if you put on top of it the insanity associated with cellulosic 
+fuels, you will ultimately take away another 10 or 15 percent 
+of this industry.
+    When I say the tip of the iceberg, I chair a company that 
+has three refineries. I'm not completely sure that my three 
+refineries can continue to operate in the future, and since two 
+of them are in the Northeast, we may be in a more difficult 
+situation than you might believe.
+    This is a total mess, and it really does need to be fixed. 
+The fix, my colleague here on the left, I agreed with basically 
+everything he said, except for one word that he kept putting 
+in: subsidy. Level the playing field. If natural gas is a more 
+efficient fuel in the United States, let's use it as much as we 
+can. If ethanol is a more efficient fuel in the United States, 
+let's use it. But level out the playing field, and when you do 
+level the playing field, you're going to find that that 
+terrible old-fashioned gasoline that we've been putting in our 
+cars for so many years, is the most efficient fuel.
+    We've made enormous strides in cleaning it up. Today, 
+gasoline looks nothing like it looked 20 years ago. I have the 
+privilege of being 70 years of age and having worked in this 
+industry forever, and you know, I look around at what we 
+produce, and it's a hell of a lot better today than it was 
+before. So yes, that chart tells the story, only it's going to 
+get much worse.
+    Senator Toomey. Thank you, Mr. O'Malley, and Mr. Chairman, 
+I see my time has expired. But if it's okay with you, if we 
+could allow the other panelists to respond. If they have any 
+comments they'd like to make, I would welcome that.
+    Chairman Casey. Thank you. Mr. Greco.
+    Mr. Greco. Just to echo Mr. O'Malley, you're essentially 
+correct about when you look at future projections of demand for 
+U.S. gasoline. It's flat or declining, and the two big drivers 
+are the increased ethanol mandate, which under ISA 2007 is 
+going to drive you to 20 or 30 percent of the gallon being 
+taken up by ethanol or some of the biofuel, and increasing CAFE 
+standards.
+    So we may be driving more. We may be using more cars on the 
+road, but they're going to be using less hydrocarbons, and 
+that's only going to continue to increase the pressure on the 
+refining sector.
+    Senator Toomey. Thank you. Dr. Greenstone.
+    Dr. Greenstone. Sure. I would just add that Mr. O'Malley 
+raised the important issue of leveling the playing field, which 
+was the theme of my testimony. I think, you know, EISA and the 
+renewable fuel standard, in some respects I think they were 
+efforts to try and level the playing field. I'm not sure 
+everyone would agree that they accomplished that in the fairest 
+or most efficient way.
+    I want to just highlight that we got into the world of 
+subsidies for ethanol and other potential replacements for 
+petroleum largely because we don't price the social costs--the 
+health costs and the carbon costs associated with the use of 
+petroleum.
+    If we priced those, then we would truly have a level 
+playing field, and it would be possible for ethanol and natural 
+gas and whatever the other potential replacements for petroleum 
+are, to compete on a level playing field.
+    Senator Toomey. Of course, if we did that, we'd also have 
+to take into account the higher food prices that we have as a 
+result of using 40 percent of the corn in gasoline tanks.
+    Dr. Greenstone. Senator, I'm not pushing for ethanol or the 
+Renewable Fuel Standard. My only point is that currently, 
+that's the second-best policy that I think the country has 
+wandered into, and it's largely driven by the fact that we 
+don't price the negative parts of petroleum currently.
+    Senator Toomey. Thanks. Can I just comment on the 
+externalities? Refineries are held at very strict environmental 
+standards, both for the products they make and for the 
+emissions from those refineries. Those are being driven by EPA 
+for health reasons and for other considerations. These 
+refineries have to compete based on those emissions, and have 
+produced and have cleaned up their facilities, so that our air 
+is much cleaner.
+    We are taking into account those externalities. They're 
+being addressed through environmental regulations, and are 
+reflected in the fuels we produce and the operations that we 
+run.
+    Chairman Casey. Thanks very much, Mr. Toomey. Vice Chairman 
+Brady.
+    Vice Chairman Brady. Thank you Chairman, for hosting this 
+hearing. I'm going to ask a tax question of Mr. Greco and Mr. 
+O'Malley. But on the regulatory side, a story. The Gulf Coast, 
+where I live, refines a bit of energy production in America. As 
+a result of high vehicle travel, topography and industry, we've 
+had to work hard to lower our ozone emissions over the past 
+decade, successfully have.
+    We invest in industry about a billion dollars to do that. 
+Ironically, some of the key technologies that EPA has mandated 
+our refineries to use, to lower NOx and ozone emissions, the 
+byproduct is it drives up CO<INF>2</INF> emissions, which we 
+are now told we have a problem there.
+    It would be wonderful if the EPA's right hand knew what its 
+left hand was doing, so that when we make these types of 
+investments, we can actually meet the Clean Air standards we 
+all want to meet. My question, Mr. Greco and Mr. O'Malley, 
+relates to the manufacturing deduction. It was passed in the 
+mid-2000s. The goal of it, we looked at the jobs going 
+overseas, Ways and Means Committee and others, and said look: 
+if a company manufactures, produces, invents here in the United 
+States, creates jobs in the United States, you have a lower tax 
+rate than if you do that overseas, you get the manufacturing 
+deduction, which has worked.
+    It is, to my understanding, a key part of the refinery 
+puzzle. The President has proposed eliminating that deduction 
+for one industry in America, energy. One industry. One 
+manufacturing industry in America, energy. So my question is to 
+Mr. Greco and Mr. O'Malley, when it comes to the Northeast, 
+whose goal is to maintain existing capacity and restart 
+capacity that has been lost, if the President succeeds in 
+eliminating that manufacturing deduction, does it make it 
+easier to bring back that capacity, harder to bring back the 
+capacity, or have no impact? Mr. Greco.
+    Mr. Greco. When we talk about the industry broadly, as you 
+mentioned, this is a broad manufacturing tax deduction. It 
+applies to all manufacturing industries. The proposals on the 
+table are to single out one industry, oil and gas industry, and 
+to eliminate that.
+    Any time you change a tax, make a tax change like that 
+specifically to one industry in particular, you are going to 
+disadvantage that industry relative to its foreign competition. 
+So if you want to look at tax policy broadly, which is a true 
+national U.S. conversation, we ought to do that. But to single 
+out a single industry and a single tax credit for punitive 
+treatment relative to other industries, is poor tax policy and 
+is not going to support our refining industry.
+    Vice Chairman Brady. Thank you, sir. Mr. O'Malley?
+    Mr. O'Malley. I have operated refineries in both England 
+and Germany, two companies that in fact invented socialism. 
+They have lower corporate tax rates than the United States has. 
+Anything that would give us less of an advantage on taxes is 
+going to make the business more difficult. This business has a 
+very low rate of return on a historical basis, about three 
+percent per annum over the last 20 years.
+    Vice Chairman Brady. Can I stop you there? Can you make 
+that point one more time, because we get the impression up in 
+Washington that big oil is all one monolith, making money hand 
+over fist. Did you just say in the refining sector, the margin 
+is how much?
+    Mr. O'Malley. The margins are incredibly small. Over the 
+past 20 years, rate of return on capital employed in the 
+refining business is about three percent. It's a marginal 
+business. The majors are leaving this business. When I entered 
+the business, about 15 percent was controlled by independents. 
+Today, we're up to 60 percent.
+    When very, very smart and big and rich companies exit a 
+business, there's usually a reason, and the reason is it's a 
+low return business.
+    Vice Chairman Brady. Does that play into your testimony, 
+the point you made early on, that the Northeast has lost these 
+refineries because they can't make money?
+    Mr. O'Malley. The Northeast lost three refineries because 
+they can't make money. I mean Sunoco lost a billion dollars 
+over the past three years running these refineries. Certainly, 
+Conoco-Phillips would never close a refinery. I speak from some 
+base of knowledge. At one of my many career stops I was vice 
+chairman of that company.
+    I move around a bit. People don't like to keep me too long. 
+They closed that refinery because they were losing a lot of 
+money on the refinery, plain and simply. Nobody does this to 
+hurt people.
+    Vice Chairman Brady [presiding]. I would like to keep you 
+longer, but our time's expired. So Mr. Duffy is recognized.
+    Representative Duffy. Thank you, Mr. Chairman. Excuse me. 
+So when we're talking about loopholes here for oil companies, 
+those are loopholes exclusively for big oil, right, that you're 
+referring to?
+    Mr. O'Malley. I'm not aware of any loopholes. We're trying 
+to actually carve out a negative loophole by removing a tax 
+credit that's applicable to all manufacturing and penalizing 
+one industry, that's correct.
+    Representative Duffy. So that loophole does specifically 
+apply to your industry? You don't want to talk about loopholes 
+for big gas and big oil?
+    Mr. O'Malley. Just the industry that I understood the 
+hearing is on, is the refining industry. We are pure 
+manufacturers. Our company produces not one barrel of crude 
+oil. We go into the open market and we buy it. We are no 
+different than the General Motors Corporation buying steel, 
+aluminum, plastics, etcetera, and putting together a car. We 
+put together something that drives a car.
+    Representative Duffy. Are there some tax threats right now 
+that might impact all of you? Are there some changes in the tax 
+code that could affect the refining industry that you're aware 
+of?
+    Mr. O'Malley. Am I personally aware of particular 
+proposals?
+    Representative Duffy. Yes.
+    Mr. O'Malley. Well certainly if the industry is singled out 
+and we are included in the industry, and you change the 
+depreciation, well sure, that's going to hurt us.
+    Representative Duffy. And you can eat that cost though, 
+right? You won't pass that on to the end consumer as a refiner?
+    Mr. O'Malley. That would be nuts. Look. Just as a point, 
+there's an indirect tax that we're going to pay in the year 
+2013, emanating from biofuels and cellulosic fuels. It will 
+total $120 million. Can we absorb that? I hope we make after 
+tax $120 million in that year. No, there is no chance.
+    In fact, the biofuels program that is in place will be a 
+tax on the American consumer, that will run up in the year, 
+well probably 2013, to three to four billion dollars. It's a 
+hidden tax. You're producing biofuels and getting these 
+renewable certificates, which by the way have in some cases 
+been fraudulently issued by companies approved by the EPA, you 
+know, a total craziness.
+    This whole system that has been constructed is a house of 
+cards, and unfortunately that house of cards is collapsing on 
+the men and women in the refineries that are being closed down 
+or have already been closed down. In essence, if you want to 
+know why the refineries were closed down, I would kind of say 
+look in the mirror, and we can find the guilty parties.
+    Representative Duffy. I want to be clear just on one point, 
+and I think we're going to have a second round, and this will 
+maybe set up the second round of conversation. Is it because in 
+the Northeast, there was overcapacity in our refining sector?
+    Mr. O'Malley. Absolutely not.
+    Representative Duffy. Okay. So with the closure of these 
+refineries, are you now going to import refined gas from other 
+portions of the country?
+    Mr. O'Malley. The largest refinery in the world is located 
+in India. It's run by Reliance Industries. The average wage 
+rate there is about 1/15th of what we pay. They essentially 
+don't pay income tax. They are classed as an export refinery. 
+Is the East Coast taking in fuels from India? Yes, we are.
+    Representative Duffy. So my question is can you import 
+refined gas at a cheaper price than you can produce it in this 
+region?
+    Mr. O'Malley. I would say the following. If you have a 
+refinery in India that doesn't pay any tax and pays 1/15th the 
+wage, they certainly can produce it a bit cheaper than we can.
+    Representative Duffy. So is the point that the consumer, by 
+way of the closure of these refineries, is now going to benefit 
+in this region of the country? Because of these closures, they 
+can now access cheaper refined fuel from India and maybe from 
+the Gulf area? Is that the point you're making?
+    Mr. O'Malley. Well, is that my point? No. My point is that 
+the collapse of these refineries, in essence, has been caused 
+by the substitution of biofuels, of ethanol into the pool. So 
+you shut down these refineries. Now what will replace the 
+gasoline, the diesel that were produced at these refineries? 
+Imports. Those imports will either come from the Gulf Coast, up 
+the Colonial pipeline, or they'll come in by vessel.
+    At what price will they be sold? That will be determined by 
+the market. Will it be higher or lower? Well, I don't know the 
+answer to that.
+    Vice Chairman Brady. Thank you, and Dr. Burgess is 
+recognized.
+    Representative Burgess. Thank you, and I want to thank all 
+of you. This has really been an enlightening discussion. Mr. 
+O'Malley, I will agree with you about the Energy Independence 
+Security Act of December 2007. I have been here six years in 
+the United States House of Representatives, and that was by far 
+the most troubling piece of legislation that came through.
+    I'm on the Committee of Energy and Commerce. It came 
+through our subcommittee, our full committee. It came through 
+on the floor, came back from the conference committee. I was 
+astounded at what a bad idea it was, and really disappointed 
+when President Bush signed that legislation.
+    We saw the immediate effects with the rise in the price of 
+gasoline in the summer, the rate of rise of the price of 
+commodities, with food to fuel diversion, our automobile 
+manufacturers almost overnight were placed into crisis because 
+of having to retool their manufacturing, and on top of all of 
+that, you couldn't even read all of that bad news because our 
+light bulbs changed.
+    So I thought that was a very bad idea, and in fact you may 
+be interested. There's a House bill now, a current bill, H.R. 
+424 called the LEVEL Act, to back out that ethanol blend wall 
+that you described, because of just the reason that you 
+described.
+    Yeah, E-10 may be a problem for some folks. I spent a lot 
+of time down at my lawnmower repair man, because of things that 
+happened to those small motors because of the ethanol and 
+gasoline. No one has been able to convince me, from the 
+Department of Energy or the Environmental Protection Agency, 
+that they have done the studies on the engines, to assure that 
+E-15 will not be further damaging to those engines, and 
+furthermore, I'm not sure who bears the liability for the sale 
+of that gasoline that goes into those engines, that then 
+subsequently ruins them.
+    I suspect as a manufacturer, as a refiner, you probably 
+have some concerns about that as well; is that correct?
+    Mr. O'Malley. That's very correct. We're not going to 
+deliver E-15. We're not going to deliver E-15 because we're 
+concerned it will be the same circus that we had with MTBE, 
+that we destroyed motor vehicles. I own outboard motors, drive 
+around in a little boat, and there's no way I will put gasoline 
+combined with ethanol in it, because it will destroy the 
+engine.
+    The EPA has not done an appropriate scientific study. This 
+was rushed through the EPA. Exactly why, I don't know.
+    But in all fairness to the discussion, I theorize that 
+cellulosic ethanol might have been invented by President Bush 
+when he was down chopping wood on the ranch.
+    The whole idea of ethanol, again I would point out from my 
+industry's standpoint, bring them on. Just don't mandate it and 
+don't subsidize it, particularly when we don't have the money 
+to subsidize anything. The country's on the road to bankruptcy, 
+and here we are talking about more subsidies for this or that. 
+The country doesn't have the money for subsidies.
+    Representative Burgess. I feel compelled to point that 
+although that was the worse legislation I had seen to date, 
+there's been a lot worse stuff that's happened since then. If 
+you want to talk about subsidies, we can talk about that darn 
+health care law, where we are well on the road to ruin from 
+that.
+    But again, I'd point out to you the LEVEL Act, H.R. 424, 
+and I'd be interested in your thoughts on that. I am trying to 
+get some enthusiasm for that at the committee level. I just 
+have to ask you. You brought up the issue of the renewable 
+identification numbers.
+    I have had constituents in my office back home in Texas, 
+who have purchased RINs from various outfits, only to find out 
+that they were basically a parking lot for a church next door, 
+and there was no manufacturing or production facility at the 
+address. There's an enormous sense that EPA, as an agency, 
+seems to be taking a hands-off approach.
+    What essentially has happened is we have created the 
+mortgage-backed security industry over again, without all the 
+transparency and market securitization that was present in that 
+industry. You have people literally selling blue sky to 
+unsuspecting parties, who then are left holding the bag, and 
+the EPA simply says ``well, buyer beware.''
+    But it's their program. They set it up. They created this 
+nightmare, and unfortunately now we have people who are 
+suffering the economic hardship of having bought something that 
+in fact did not exist.
+    Mr. O'Malley. I have had direct discussions with Bob 
+Perciasepe, the number two person at the EPA on this subject, 
+and Margo Oge, who's the head of the Fuels Section there, and 
+I've expressed my amazement at the fact that they approved 
+companies to issue these RINs. They approved them based on a 
+fly-by, I suppose, of the church parking lot, and now the 
+industry went out and bought these RINs from these approved 
+parties, and the EPA says ``well, you made the mistake. You 
+have to pay for it.''
+    It is one of the worst abuses of government power that I 
+have seen in my long career of dealing with the government. 
+It's an amazing situation. The only way to cure it, in my view, 
+is eliminate the program, because the program is idiotic. Every 
+barrel of this biofuel that we buy, we make diesel at a cost of 
+somewhere around $4 to the consumer, $4 a gallon.
+    When we buy these RINs, that biodiesel costs you six, 
+seven, eight dollars a gallon. Is this an intelligent thing? 
+And if the population, the ``American people'' that the 
+Congress always talks about actually knew this, I believe 
+they'd stand up and revolt. But somehow, we've hidden it under 
+the covers, and it's just a dumb program.
+    Representative Burgess. It absolutely is, and Mr. Chairman, 
+I hope we will have the opportunity to have further hearings on 
+this, and have the EPA in attendance, because Mr. O'Malley's 
+exactly right. This is a massive fraud that's being perpetrated 
+on the American people, and it is the mid-level producer who's 
+left holding the bag for $10 million, which they can ill afford 
+to lose. We're going to drive people out of business, drive 
+people into bankruptcy. Is this the type of job creation that 
+we should be pursuing? Absolutely not. Mr. O'Malley, thank you 
+for your testimony.
+    Vice Chairman Brady. Thank you, Dr. Burgess. Mr. O'Malley, 
+please don't hold back. You know, feel free to tell us how you 
+feel on any of these issues. Chairman Casey----
+    Mr. O'Malley. Just at a certain age, you get to say things.
+    Vice Chairman Brady. I understand. Senator Casey has 
+requested a second round. I know he'll be back as soon as he 
+can. So to begin, again, thank you to all the witnesses being 
+here today. We've heard concerns about moving to E-15. We've 
+heard concerns about new mandates on ultra low sulfur diesel. 
+We've heard about new emission standards for industrial plants.
+    Since the goal clearly of this hearing, for Chairman Casey, 
+Mr. Toomey and others, is to restore refining capacity to the 
+Northeast, could Mr. Greco and Mr. O'Malley and any, for that 
+matter, could you explain what major new regulations confront 
+refineries in particular, and the impact on the likelihood of 
+restarting or growing capacity in the Northeast?
+    Mr. Greco. Well certainly. Right now, we're confronting a 
+variety of new regulations. We're obviously complying with 
+those that are on the books, those are the law. But EPA is 
+moving forward very aggressively in a number of areas. We're 
+looking at fuel changes in Tier 3, which includes sulfur and 
+RVP changes. We're looking at stationery source controls on 
+CO<INF>2</INF> emissions, as well as on criteria pollutants, 
+NOx, Sox, those types of pollutants.
+    So we're looking at that whole range of controls on 
+emissions. These are all at the point where EPA is moving 
+forward. We have not seen proposals yet on these. We have not 
+seen a justification for these rules yet. So our basic message 
+to EPA is help us understand. Explain what the need is for 
+these, justify the need before you go ahead with the proposal.
+    The typical process is to release the justification at the 
+same time you release the proposal, and then they get finalized 
+together. That doesn't strike us a good approach to 
+policymaking.
+    Vice Chairman Brady. In the case of the Gulf Coast, where 
+EPA technology mandates reduced NOx and ozone, but drove up 
+CO<INF>2</INF>, is there a collaborative way where industry can 
+work with our regulators to achieve those clean air goals, but 
+do it in a way that doesn't shut down refineries, doesn't drive 
+up the price of energy?
+    Mr. Greco. Well, we tried to work collaboratively with the 
+government. We clearly, we're the experts. We think we know how 
+to run our facilities, and how best to implement requirements 
+cost-effectively. The challenge is, as Mr. O'Malley mentioned, 
+is EPA has taken a very different view of things. I think the 
+E-15 is a very good case in point.
+    You've got the auto industry, you've got the oil industry, 
+you've got marketers. You've got small engine manufacturers. 
+You pretty much have most everyone except the ethanol 
+manufacturers, saying this is premature and this is a bad idea. 
+But EPA went forward and approved those partial waivers, even 
+while ongoing research was being conducted by the oil industry 
+and the auto industry.
+    In fact, we're looking at finalizing a report next week, 
+which will have more information come Tuesday about work that 
+the auto industry and the oil industry has done, looking at E-
+15 compatibility, and it just underscores our concerns, that 
+this was a hasty judgment and one that was politically driven.
+    Vice Chairman Brady. If the EPA is successful on E-15, more 
+ethanol blending, what's the impact on refineries?
+    Mr. Greco. Well certainly, we're confronted with this huge 
+ethanol mandate, biofuels mandate that we have to meet. EPA is 
+portraying this as maybe helping you avoid this blend well, 
+when we would saturate the market. At best, assuming E-15 was 
+as good as EPA says it is, and assuming it could be used in all 
+the vehicles EPA says it can be used in, it might extend the 
+blend wall a year or two.
+    But we're talking about a program that we have another 
+decade or more than we have to blend ethanol in, and it's not a 
+solution. The true solution in our mind is right-sizing the 
+program. You need to adjust the ethanol mandate, the biofuels 
+mandate to what the vehicle fleet can safely use, and we're 
+very close to exceeding that where we are right now.
+    Vice Chairman Brady. Thank you. Mr. O'Malley or any of the 
+witnesses want to comment?
+    Mr. O'Malley. I would comment that the only reason for E-15 
+is to drive up the use of ethanol, to take more corn out of the 
+food cycle and put it into the fuel cycle. There is no 
+justification for E-15. It's a program that I don't know what 
+price is going to be paid for it, but again, not holding back, 
+it's nuts.
+    Vice Chairman Brady. Sure. Dr. Moss, in your testimony, if 
+I understood it, you suggested maybe a future potential for 
+higher gas prices on the East Coast based on increased market 
+concentration, due to, obviously, these refinery closures. Can 
+you elaborate exactly how you foresee that occurring, and if a 
+refinery raises the price of gasoline above cost, what happens? 
+How do other refineries react?
+    Dr. Moss. Well, that is essentially the thrust of my 
+testimony. Economists and antitrust enforcers tend to worry 
+about industries that become highly concentrated, because 
+obviously with fewer suppliers, those industries or markets are 
+more conducive, potentially, to the exercise of market power, 
+because firms can indeed influence the market price, because 
+they control a good portion of the market, or firms can band 
+together.
+    Vice Chairman Brady. Can I ask you a trend question?
+    Dr. Moss. Sure.
+    Vice Chairman Brady. I get the impression in your testimony 
+that you foresee more integration in the industry. But I've 
+noticed a number of companies are actually breaking up, 
+upstream and downstream, in part, I believe, because refining 
+is a very tough, low margin tough business to survive in. So 
+isn't the trend going the opposite direction?
+    Dr. Moss. From what I read and understand, yes, there has 
+been sort of a deintegration, from a vertical perspective, in 
+the industry. So and I mention that that might be a mitigating 
+factor. If firms are--if the concern is that fully integrated 
+firms will use their market position to leverage market power 
+into another level of the industry.
+    If there's deintegration, then that may become less of a 
+concern. However, the refining market in the Northeast, as I 
+noted, is very highly concentrated with just two firms, after 
+all of these closures, accounting for almost 90 percent of 
+capacity. I think that fact pattern leaves competitive 
+concerns, even vertical concerns squarely on the table, and 
+certainly with a high concentration, as we see in refining, 
+with just again the two firms controlling most of the output.
+    We would potentially still worry about just restricting 
+output to raise prices as well.
+    Vice Chairman Brady. Thank you, Dr. Moss. Mr. Duffy.
+    Representative Duffy. Mr. Greenstone, did you say that you 
+were on the President's economic team; is that correct?
+    Dr. Greenstone. During the first year of the 
+administration, I was the chief economist at the Council of 
+Economic Advisers.
+    Representative Duffy. Okay, and listening to your 
+commentary, you were talking about the social costs of 
+different fuels that we use. You were talking about coal, but 
+there's a social cost to the use of coal and also a social cost 
+to the use of oil, and maybe a less apparent cost to maybe wind 
+or solar or natural gas, right?
+    Dr. Greenstone. That's correct.
+    Representative Duffy. And therefore the government maybe 
+should step in and increase the cost of coal or gas 
+prematurely, or the government should step in and try to reduce 
+the cost of wind, solar or natural gas, is that right? The 
+government should come in and try to make a play on the social 
+cost?
+    Dr. Greenstone. Yes. Thank you for the question, 
+Congressman Duffy. I think the point I was trying to make is 
+when we consume electricity that's generated from fire and coal 
+plants right now, or various other energy sources, we pay 
+whatever comes across our utility bill. But that's not the only 
+cost we pay. In addition, we pay with shortened lives, higher 
+health care bills, changing climate, weakened national security 
+when it comes to petroleum. Just because those don't show up on 
+the bill currently, that doesn't mean we're not paying them.
+    Representative Duffy. Okay, and you're a proponent of 
+natural gas; is that right?
+    Dr. Greenstone. No. I'm a proponent of leveling the playing 
+field for all energy sources. So what does that mean in 
+practice? That means in practice that when we make our energy 
+choices as consumers, the prices should reflect the cost of 
+producing the kilowatt hour of coal, but also all the other 
+costs that consuming that kilowatt hour of coal produces.
+    Representative Duffy. So in essence, in your version, we 
+want to see the cost of oil go up, to take into account the 
+cost of lives and climate change and global warming, right?
+    Dr. Greenstone. The idea is that we're paying those costs 
+now, but we're not able to make choices that reflect, that 
+recognize those costs.
+    Representative Duffy. I want to be clear, that you want 
+that to be reflected in the end price of that product; correct?
+    Dr. Greenstone. I think we as a society would be able to 
+make better choices if the price, the end price of that product 
+reflected the full social cost.
+    Representative Duffy. So in essence, you believe that the 
+end cost then should be higher; correct?
+    Dr. Greenstone. It depends on the energy source.
+    Representative Duffy. Let's use gas. Not natural gas, but 
+gas for petroleum, yes.
+    Dr. Greenstone. So yes. So we've been talking as a panel, 
+some of the EPA regulations are meant to help reflect that 
+price, and my own view is that not all of those social costs 
+are recognized.
+    Representative Duffy. They only gave me five minutes. So I 
+want to be very clear on what you're telling us here. You would 
+like to see gas, petroleum, so gas at the pump, reflect the 
+actual social cost of the use of that energy source, which 
+would mean it would have to go up in price, because today, per 
+your testimony, it doesn't accurately reflect the social cost 
+in the price; yes or no?
+    Dr. Greenstone. Congressman Duffy yes, and all other energy 
+sources as well.
+    Representative Duffy. Right, and so if you do that, if you 
+want to make sure that we increase the cost of our gas at the 
+pump, and in essence you might then see more use of wind and 
+solar and natural gas, in that calculation, have you taken into 
+account the social cost of the men and women who are sitting in 
+this room today, that are steelworkers and boilermakers, who 
+will lose their jobs because you, as an advisor to the 
+President, say that as a social policy, I want to see more 
+Americans use a different energy source. Have you considered 
+then the loss of these men's jobs for that policy?
+    Dr. Greenstone. That's an important question, and of 
+course, when one causes changes in the economy, people lose 
+their job and that's a real cost. In an adequately defined 
+system, they would be recognized. Let me also make----
+    Representative Duffy. You're willing to bear that cost 
+though, just to be clear?
+    Dr. Greenstone [continuing]. Sorry?
+    Representative Duffy. You're willing to bear the cost of 
+these men's jobs for that social policy?
+    Dr. Greenstone. Well, I think it's very important, I think 
+you're raising a really important part of----
+    Representative Duffy. I only have 30 seconds. You're 
+willing to bear that cost of the social policy?
+    Dr. Greenstone [continuing]. If I could finish. In 
+addition, I think part of that calculation has to be, and I'm 
+glad that Senator Casey has returned to the room, the 
+tremendous opportunities that appear for people who would 
+produce the alternative.
+    Representative Duffy. And again, I guess I don't know how 
+well our boilermakers are at making windmills or solar panels, 
+or our steelworkers. But to be clear, as we've talked about 
+natural gas in your testimony, I think it's clear that natural 
+gas is coming from fracking, and I wonder if you're supportive 
+of fracking, and if you have any issues with the EPA regulating 
+the refining of natural gas, just the same as we've supported 
+the EPA's regulation of refining of petroleum?
+    I mean there's a whole set of issues that start to spiral 
+out here, when you start to take into account the social policy 
+which you reference, and I think you must have advised the 
+President on these policies, because we see more and more 
+implementation of these policies, that have a real impact, not 
+just on the men that I see in this room today, but also a lot 
+of the union members in my district who are losing their jobs 
+because of EPA regulation, even outside of oil, and I know my 
+time is up, and I'm sorry for going over.
+    Dr. Greenstone. Is there time for me to answer your 
+question?
+    Vice Chairman Brady [presiding]. There's a little bit of 
+time for both, if that's all right.
+    Representative Duffy. If I could have--thank you.
+    Chairman Casey. Everyone's left here, so I think if I give 
+you another minute or minute and a half, that would be great.
+    Dr. Greenstone. So I believe your question--I'm sorry. I 
+think the question--maybe you could repeat the question?
+    Representative Duffy. I was moving on to fracking, and 
+there's a cost. If you want to say natural gas is clean and as 
+a social policy you like that over petroleum, do you also say 
+you support then fracking, which produces natural gas?
+    And then when you look at EPA regulations, are you okay 
+with minimizing those regulations on the refining of natural 
+gas, which is needed, as opposed to the refining regulations 
+that we see for petroleum from the EPA?
+    Dr. Greenstone. Yeah, okay. So let me just clearly state. I 
+stopped working in the White House in February 2010. I would 
+be--I think it would be slightly delusional to think that my 
+thoughts stuck around so clearly, that the President is still 
+searching the hallways looking for them all the time.
+    Representative Duffy. I think he's embraced them, but go 
+ahead.
+    Dr. Greenstone. But let me just say whatever the social 
+costs are, be they from environmental damage associated from 
+fracking, be they from greater air pollution, be they from 
+greater CO<INF>2</INF> emissions, they should be reflected in 
+the energy prices. You know, candidly, until we have a system 
+where those prices are reflected, we'll continue to make 
+choices that cause, you know, cause shortened lives, cause 
+climactic changes, and constrain our foreign policy in ways 
+that are adverse.
+    Representative Duffy. And if I could just have one more 
+point. My concern is what bureaucrat makes that decision? What 
+bureaucrat makes that policy, that social decision? Or does the 
+bureaucrat want to give that decision to the boilermakers, 
+because I bet that the boilermakers and the steelworkers have a 
+different social philosophy than a bureaucrat that works in the 
+administration, or any other one of these agencies in 
+Washington, D.C., and there's a differential in social policy 
+and social view.
+    Dr. Greenstone. Congressman, I think you're raising a very 
+important question, who makes the decision, and I think it's 
+important to underscore that that decision's being made all the 
+time today. With respect to greenhouse gases, it's largely 
+being made that that has no damages.
+    So it's not that this would be a change in someone making 
+the decision. The decision is made today; it's just made in a 
+very particular way that doesn't reflect the full cost.
+    Representative Duffy. But a bureaucrat isn't then making 
+the decision to increase the cost because of their social 
+analysis today. My time is up. I'm sorry. I yield back to 
+Senator Casey.
+    Dr. Greenstone. Thank you for your interest in my 
+testimony.
+    Chairman Casey. Congressman thank you, and Doctor, thank 
+you. I guess when I left, I missed some engagement here. But I 
+think we have some agreement here, number one, that we don't 
+want refineries in Pennsylvania or anywhere else to close. I 
+hope we agree on that, and we're trying to push hard on that.
+    Another area where we might have consensus, I just want to 
+raise this; others can comment on this or respond to it. Dr. 
+Moss, I just wanted to ask you about a piece of legislation 
+which is one, I don't consider this some kind of magic wand, 
+but one tool we can use to have an impact on oil prices.
+    Legislation in the Senate, the so-called NOPEC Act, that 
+would allow, give the Justice Department the authority, which 
+it does not have now, to bring price fixing or antitrust cases 
+against OPEC. I wanted to get your sense of that legislation, 
+and the impact, and if you can make any assessment as even, you 
+know, a numerical analysis in terms of what that would mean 
+potentially for lower crude oil prices.
+    Dr. Moss. That's a good question, Senator, and I think it's 
+been posed numerous times in the last several years. I think 
+the honest answer is that the NOPEC legislation raises a rather 
+snarly group of issues. If you talk to antitrust experts, those 
+who are steeped in knowledge and practice involving application 
+of the U.S. antitrust laws, reaching our laws to OPEC would be 
+very, very difficult, as they stand today.
+    OPEC obviously does not operate within the United States 
+borders. There has been concern about the marketing arm of the 
+Venezuelan oil company operating within the U.S. I believe 
+that's CITGO. There have been efforts to get to OPEC indirectly 
+through the operation of CITGO in the United States.
+    But there are hurdles, applying laws against sovereign 
+entities outside the United States, I think, would be largely, 
+that would be difficult to do. Giving the U.S. DOJ the 
+authority to apply antitrust laws against OPEC, I think, it 
+also poses some concerns and hurdles, not the least of which is 
+to consider what the political implications of that would be, 
+in terms of reaching out to OPEC and potentially setting up an 
+antitrust enforcement action.
+    So I can't come out one way or the other. I think it's very 
+clear that if OPEC did not control world crude oil prices, 
+prices would be lower, and there is some disagreement or some 
+disagreement about whether OPEC has actually been as effective 
+in setting and maintaining prices over the last several years.
+    The structure of OPEC has changed, and whether the 
+agreement is as tight as it used to be, I think, is in question 
+at this point.
+    Chairman Casey. I know we may have others that might have a 
+comment. If you could briefly comment, only because we're 
+coming to the end, and I know because of my voting schedule 
+here, it's been one of those days here. I've had to interrupt 
+the hearing, so I'm sorry about that. But I know we have to 
+wrap up. Vice Chairman Brady has no more questions, and I don't 
+either. But I know we're again limited on time, and I'm sorry 
+about that.
+    Mr. Greco. Just one quick comment. API opposes NOPEC. It 
+raises very serious constitutional questions going forward. 
+What we really should be focusing on is how do we develop our 
+own resources? If we're concerned about a resource-constrained 
+world, we just had a recent reevaluation of U.S. resources that 
+raise it tremendously.
+    We can be an energy powerhouse. We ought to be competing 
+and developing our own domestic resources, rather than 
+assessing punitive damages or trying to against other 
+countries.
+    Mr. O'Malley. I would second that, and support that. The 
+biggest thing we can do on oil prices is produce more oil in 
+the United States, and we're on a road where we can have 
+tremendous production in the future, if we would just let the 
+industry do it.
+    Chairman Casey. We're thankful some of those numbers are 
+up. Doctor?
+    Mr. O'Malley. Excuse me?
+    Chairman Casey. No. I said I'm thankful that some of those 
+numbers are up now, as opposed to a few years ago.
+    Mr. O'Malley. They're going up fast.
+    Chairman Casey. Doctor?
+    Dr. Greenstone. I don't have much to add, just to note that 
+there's been this incredible increase in domestic production, 
+and I think we're, you know, for what was unimaginable even, 
+you know, five years ago, could be imaginable, which is we 
+could well be energy independent when it comes to petroleum in 
+the foreseeable future.
+    Chairman Casey. Well thanks everyone. I know what we'll do 
+is leave the record open for how many days? Five days, for 
+other submissions to the record. I know that I mentioned 
+earlier that we had representation from individual unions, and 
+I know some of their leaders, if they are not here now, were 
+here. Dave Miller, the president of Steelworkers Local 10-901, 
+Dennis Stefano, president of 10-234, and John Clark, the 
+business manager of the Boilermakers 13.
+    I think Jim Savage from Local 10-01 of Steelworkers was not 
+here, but I wanted to commend the work of those unions and 
+their leaders who are here with us, and of course the work that 
+they've done with us on refineries. We're grateful for the 
+witnesses who are here today, and apologize for some of the 
+problems we had with scheduling.
+    But this hearing was scheduled weeks ago. Votes get 
+scheduled sometimes within hours, and we're sorry about that. I 
+want to thank our Vice Chair for being here, coming all the way 
+across the Capitol again to sit with us, and I think I owe him 
+a visit across the way. We're adjourned.
+    [Whereupon, at 4:13 p.m., the hearing was adjourned.]
+                       SUBMISSIONS FOR THE RECORD
+
+     Prepared Statement of Senator Robert P. Casey, Jr., Chairman,
+                        Joint Economic Committee
+    Good afternoon. Today's hearing is focused on the impact that 
+closures of petroleum refineries serving the Northeast could have on 
+prices at the pump in the Mid-Atlantic and New England regions.
+    Since September 2011, two refineries in the Philadelphia area and 
+one major Caribbean export refinery supplying the East Coast have 
+closed. Additionally, a third Philadelphia-area refinery is slated to 
+shut down this summer.
+    In addition to the immediate impact on gas prices, we will explore 
+the long-run costs to the economy associated with higher gasoline 
+prices, as well as actions that can be taken to encourage the adoption 
+of cleaner, cheaper alternatives to petroleum, such as natural gas.
+    While the situation remains fluid with the potential sale of the 
+three Philadelphia-area refineries, I am concerned that the Northeast 
+is losing needed refining capacity.
+    I am especially concerned that this loss in refining capacity is 
+happening at a time when consumers are already facing rising gas 
+prices.
+    With limited pipeline capacity to import from the Gulf Coast, this 
+loss of refining activity in the Northeast will increase the region's 
+dependence on European gasoline and diesel and lead to higher prices 
+for consumers.
+    A recent Energy Information Administration report detailed the 
+possible consequences of this reduction in refining capacity, which 
+include greater price volatility and potential shortages in the 
+Northeast.
+    I am focused on ensuring that changes in refining capacity in the 
+Northeast have as little impact as possible on energy prices, on jobs 
+in our communities, and on the economic recovery.
+    I have urged the Administration to become directly involved in this 
+issue.
+    I met with workers at the three Pennsylvania refineries--
+Philadelphia, Trainer and Marcus Hook--to discuss the impact that 
+shuttering the refineries would have on the workforce. Together, these 
+refineries represent half the refining capacity in the northeastern 
+United States.
+    I would like to recognize representatives from the United 
+Steelworkers Local 10-1, Local 10-901 and Local 10-234 who are in the 
+audience this afternoon. Also attending today's hearing are members 
+from the International Brotherhood of Boilermakers Local 13 and 
+Steamfitters Local 420.
+    Closure of these facilities would likely mean that the Northeast 
+region will experience a decrease in the supply of Ultra-Low Sulfur 
+Diesel (ULSD), at the same time there will be an increase in demand for 
+ULSD as both a transportation fuel and for home heating.
+    With closure of the Northeastern refineries, refining activities 
+will be centralized in the Gulf Coast region. This will affect the 
+price of gasoline, diesel and heating oil and lead to potential 
+shortages of those fuels in the Northeast.
+    An early or prolonged cold spell next winter could send home 
+heating prices skyrocketing--hitting consumers hard.
+    Today, gas prices are again pushing $4 a gallon--well ahead of the 
+summer driving season. We are facing higher prices despite the fact 
+that U.S. production of oil is at its highest level since 2003. For the 
+first time in a decade, the United States is importing less than half 
+the oil we use.
+    Yet, with only 2 percent of the world's proven oil reserves, 
+there's little impact the United States can have on the price of oil--
+which is set by supply and demand in a global market--by addressing 
+only the supply side of the equation.
+    Focusing on U.S. demand for oil offers more promise. The United 
+States consumes more than 20 percent of the world's oil. U.S. 
+dependence on oil to meet its transportation needs leaves consumers 
+with few choices, making them vulnerable when oil and gasoline prices 
+rise.
+    By promoting policies that reduce our dependence on foreign oil, 
+the United States can help to reduce global demand for oil and, 
+ultimately, prices.
+    If oil accounted for a smaller share of our energy needs, the U.S. 
+economy and American consumers would be less vulnerable to spikes in 
+oil prices.
+    It's clear that we need to accelerate natural gas development and 
+use. Natural gas is produced right here at home--creating jobs. It's 
+clean, with lower emissions than traditional gasoline. And it's cheap.
+    Converting vehicles, especially commercial vehicles, to run on 
+natural gas could play a role in the move to cleaner energy 
+alternatives.
+    In the coming weeks, I will introduce legislation that provides 
+states with funding and flexibility to develop initiatives that:
+
+    <bullet>  Encourage the use of natural gas as a transportation 
+fuel; and
+    <bullet>  Encourage public and private investments in natural gas 
+vehicles and transportation infrastructure.
+
+    These actions will encourage the use of natural gas--an energy 
+source which the United States has in abundance--while reducing our 
+dependence on petroleum and vulnerability to oil price spikes.
+    We have a terrific group of witnesses this afternoon, with wide 
+expertise on energy issues. I look forward to each of your testimony.
+                               __________
+    Prepared Statement of Representative Kevin Brady, Vice Chairman,
+                        Joint Economic Committee
+    Today's hearing is most appropriate in light of high gasoline 
+prices and a White House energy policy that is coming home to roost, so 
+to speak. While the President has touted an ``all of the above'' energy 
+policy, his actual policies have been anything but that. They have been 
+decidedly unfavorable to America's energy manufacturing industry--and 
+that is true for crude oil production as well as refining.
+    The Administration has thwarted oil and gas development on federal 
+lands and offshore. It imposed a hasty and prolonged moratorium on Gulf 
+of Mexico drilling and then hindered resumption of exploration through 
+slow permitting. And most recently, it has denied increasing the 
+assured and safe supply of crude oil from our ally Canada through the 
+Keystone pipeline to U.S. refineries.
+    The President also risks the jobs of American energy workers by 
+threatening punitive tax treatment of energy manufacturing, for 
+example, by singling this sector out and rescinding incentives to 
+encourage job creation and manufacturing here in America. Why is energy 
+manufacturing different than any other form of manufacturing? Why are 
+these good-paying energy jobs deemed expendable by the White House, and 
+why is the President himself pushing taxes that encourage energy 
+companies to send these jobs overseas?
+    This manufacturing deduction, by the way, is an important incentive 
+to refining and will further make these projects less economically 
+viable if the President has his way.
+    The Administration is also pursuing policies that will shrink and 
+punish petroleum refining both by forcing it to blend in alternative 
+fuels even when they do not yet exist and by mandating ever more 
+stringent emission standards even when the costs are huge and the 
+benefits are uncertain.
+    America is experiencing an energy revolution with the potential to 
+become the largest energy-producing country on the planet. But let's be 
+clear, the rise in energy manufacturing driven by new technology is 
+occurring on private lands, not federal lands. In fact, at President 
+Obama's request, his Administration has launched a flurry of regulatory 
+attacks on oil shale development in America, leaving the country to 
+pray that Washington will not smother the technology in the crib with 
+more layers of regulation.
+    Senator Lisa Murkowski in a recent editorial entitled ``America's 
+Lost Energy Decade,'' pointed out that in 2002 the U.S. Senate decided 
+against opening a small section of the Arctic National Wildlife Refuge 
+to oil and gas production. The most cited reason at the time was that 
+it would take too long--ten years--for the oil to reach the market. 
+Now, ten years later, the White House is pleading with Saudi Arabia to 
+produce more oil when we could be controlling our own supply.
+    Senator Murkowski correctly concluded that long lead times should 
+be a reason to approve drilling quickly, not to continue putting it 
+off.
+    Other non-OPEC countries do not lock away their resources, not even 
+pristine Norway, which is the world's seventh largest exporter of oil 
+and second largest exporter of natural gas.
+    Our regulatory tale is one of self-inflicted wounds--cutting off 
+our nose to spite our face. This country is blessed with resources that 
+can be developed, produced, and processed safely and cleanly to support 
+economic growth and technological development, which in turn will 
+position us to further advance the state of the environment. All of 
+this is critical to ensuring that America continues to have the 
+strongest economy in the world throughout the 21st century.
+    Refinery closures and job losses are painful but even more so when 
+our own government's policies contribute to them. Americans want to 
+balance a healthy economy with a clean environment. They don't want 
+their factories shut down effectively by order of the government and 
+products brought into the country from places that are much less 
+environmentally committed than the United States.
+    Regulators need to take a rational, balanced approach that 
+recognizes that ignoring economic consequences hurts the very citizens 
+whose welfare they are charged to protect.
+    First, our regulatory mechanisms at least should be functional. It 
+makes no sense whatsoever to impose blending requirements on refiners 
+for cellulosic ethanol that does not exist in requisite quantity and 
+then fine them for not using it. It makes no sense to push corn ethanol 
+consumption to a level that invalidates car engine warrantees. And it 
+makes no sense to impose sulfur content limits on gasoline that may 
+increase CO<INF>2</INF> emissions when the EPA is trying to reduce 
+those emissions as well. These are unforced policy errors we cannot 
+afford to commit, especially in this struggling economy.
+    Second and more fundamentally, the Administration, lawmakers, and 
+regulators must ask themselves if they are pursuing radical solutions 
+that may never come to fruition while missing opportunities for steady 
+and certain improvements. Are they provoking protracted lawsuits and 
+delaying projects? Are their actions causing older, more polluting 
+equipment to stay in place longer? Are they driving America's firms out 
+of business and costing us jobs while inviting more dependence on 
+foreign countries with worse pollution records?
+    Regulation must facilitate the market's functioning, neither 
+treating private enterprise as an adversary nor pressing for 
+preconceived outcomes in one sphere while ignoring collateral damage in 
+others. Devising good regulatory policy doesn't have to be intensely 
+adversarial. It can be more collaborative, engage the incentives of the 
+private sector, and above all be mindful that it ought to serve 
+economic growth and technological development, the ultimate sources of 
+better living standards.
+    I now look forward to hearing our witnesses' testimony and probing 
+their ideas for better regulation of oil refineries and in general.
+                               __________
+   Prepared Statement of Diana L. Moss, Vice President and Director, 
+                      American Antitrust Institute
+                            i. introduction
+    I would like to thank Chairman Robert Casey and the members of the 
+Joint Economic Committee for holding this hearing on the loss of 
+refining capacity in the Northeast and its potential impact on the 
+prices of refined petroleum products (RPPs). I appreciate the 
+opportunity to appear here today.\1\ The American Antitrust Institute 
+is a non-profit education, research, and advocacy organization. Our 
+mission is to increase the role of competition in the economy, assure 
+that competition works in the interests of consumers, and sustain the 
+vitality of the antitrust laws. The AAI has long been involved in 
+analyzing the competitive implications of issues in the energy 
+industries, including electricity, natural gas, petroleum, and 
+renewables.
+    Much of the analysis available to date on refinery closures in the 
+Northeastern U.S. focuses on the relatively straightforward economics 
+of their potential impact on RPP prices such as gasoline, heating oil, 
+and ultra low sulfur diesel (ULSD). Perhaps the most pressing question 
+for policymakers is whether the current downturn in the refining sector 
+in the Northeast is part of a cyclical trend--and will rebound at some 
+point in the future--or if it represents a structural shift that could 
+reflect a permanent change in refining fundamentals. The answer is that 
+it is too soon to tell. Nevertheless, the industry may be at a critical 
+juncture where policy responses are particularly important.
+---------------------------------------------------------------------------
+    \1\ Diana Moss is Vice President and Senior Fellow, American 
+Antitrust Institute (AAI) (www.antitrustinstitute.org). This testimony 
+has been approved by the AAI Board of Directors.
+---------------------------------------------------------------------------
+    My testimony today acknowledges the importance of underlying 
+economics as integral to the larger picture surrounding refinery 
+closures. However, I will focus primarily on perhaps a less obvious 
+aspect of the problem, namely the importance of the competitive 
+landscape in downstream petroleum markets in analyzing the implications 
+of refinery closures and crafting appropriate policy responses. This is 
+not to say that there is a competitive problem, only that refinery 
+closures fundamentally alter the structure of markets in ways that 
+potentially change competitive incentives facing suppliers.
+                             ii. background
+    Refined petroleum product price dynamics in the U.S. and the 
+Northeast, in particular, are affected by a complicated and changing 
+landscape. This backdrop is influenced, as always, by the world crude 
+oil market, changes in petroleum resource exploitation in the U.S. and 
+Canada, and shifts in how the U.S. utilizes its complex networks of 
+downstream assets, including refineries, product pipelines, and 
+terminaling and storage facilities. Price dynamics are also affected by 
+changes in domestic consumption driven by economic recession beginning 
+in 2008, the effects of which are still lingering but may reverse in 
+time. A host of other factors, however, may signal a more permanent 
+downturn in oil consumption, including: increases in fuel economy 
+standards, the ethanol content of fuels, and the use of pure bio-fuels. 
+Finally, fundamental changes in the U.S. refining industry, 
+particularly in the Northeast, are an integral part of the picture.
+    The pattern of crude oil consumption has changed in ways that are 
+important for an analysis of refining in the Northeast. For example, 
+between 2004 and 2010, oil consumption in the U.S. and Europe fell by 
+almost six percent. Consumption in China, the Middle East, Latin 
+America, and other Asian countries, however, increased by about eight 
+percent.\2\ In the early 2000s, Saudi Arabia was the largest exporter 
+of crude oil to the U.S. Between 2004 and 2010, however, those export 
+levels fell by 27 percent. Exports to the U.S. from Venezuela and 
+Mexico also fell off and Canada, which is now the leading exporter to 
+the U.S., increased exports by 18 percent.\3\
+---------------------------------------------------------------------------
+    \2\ Federal Trade Commission, Gasoline Prices and the Petroleum 
+Industry: An Update Figure 3, 7 (September 2011), available at http://
+www.ftc.gov/os/2011/09/110901gasolinepricereport.pdf.
+    \3\ FTC, supra note 2 at Table 10 (p. 59).
+---------------------------------------------------------------------------
+    In approaching the problem of refinery closures in the Northeast 
+U.S. it is, as a preliminary matter, important to point out that U.S. 
+gasoline prices are heavily influenced by the dynamics of cartelized 
+world crude oil markets. The U.S. has little control over OPEC. 
+Currently, crude prices make up about 72 percent of retail gasoline 
+prices in the U.S.\4\ While membership in OPEC has changed somewhat, 
+and there is some ongoing debate as to how effective the cartel is in 
+setting and maintaining crude prices, it is widely held that higher 
+prices contribute in substantial part to higher prices of gasoline than 
+what would emerge without the cartel.
+---------------------------------------------------------------------------
+    \4\ Energy Information Administration, Gasoline and Diesel Fuel 
+Update (April 16, 2012), available at http://www.eia.gov/petroleum/
+gasdiesel/.
+---------------------------------------------------------------------------
+    When the spotlight falls on actual or projected increases in RPP 
+prices in the U.S., there is sometimes a tendency to overplay the role 
+of OPEC in price determination. To be sure, crude oil prices factor 
+significantly into downstream prices. However, domestic downstream 
+activities--including refining, distribution of refined products to 
+storage terminals, and wholesale and retail marketing--also play an 
+important role. These activities make up a not insignificant 17 percent 
+of the final retail price of gasoline.\5\
+---------------------------------------------------------------------------
+    \5\ EIA, supra note 4.
+---------------------------------------------------------------------------
+    The impact of downstream activities on RPP prices is amplified by 
+what we see happening in the Northeastern U.S. refining markets. 
+Relative to other PADDs, PADD 1 has special features are that are 
+potentially relevant to competition. For example, PADD 1 has the: (1) 
+fewest number of refineries; (2) largest number of refinery idlings and 
+closures; (3) highest levels of market concentration and increases in 
+concentration over time; (4) highest levels of wholesale market 
+concentration; (5) lowest refining capacity utilization rates; and (6) 
+greatest dependency on imports of petroleum products from other PADDs 
+and abroad. My testimony touches on each of these factors, which 
+collectively draw attention to the competitive landscape.
+                    iii. refinery closures in padd 1
+A. Market Concentration
+    Refining market developments in PADD 1 stand in stark contrast to 
+those in other PADDs, where concentration has remained relatively 
+stable over the last several years. Refinery idlings and closures in 
+PADD 1 are attributed to poor economics such as low refining margins. 
+Many refiners are devoting resources to more profitable upstream 
+activities such as exploration and production. Sunoco has publically 
+stated that it is leaving the refining business and has (or plans to) 
+idled or closed three refineries in the last three years totaling 
+658,000 barrels per day of crude distillation capacity.\6\
+---------------------------------------------------------------------------
+    \6\ Sunoco is Leaving the Refining Business, energyandcapital.com, 
+September 6, 2011, http://www.energyandcapital.com/articles/sunoco-is-
+leaving-the-refining-business/1750.
+---------------------------------------------------------------------------
+    The number of refineries in the U.S. continues to decline. Between 
+1985 and 2011, there was a 31 percent decrease in the number of 
+refineries in the U.S. and a 52 percent decrease in PADD 1.\7\ While 
+there are fewer refineries in the U.S., their average capacity has 
+increased over time, due to the development of higher capacity, 
+technologically advanced facilities, and the networking of refineries. 
+These fewer, larger refineries account in large part for the fact that 
+of 45 total refiners, the top 10 account for 75 percent of total U.S. 
+refining capacity.\8\ In PADD 1, there were 14 operating refineries in 
+2004.
+---------------------------------------------------------------------------
+    \7\ Energy Information Administration, ``Number of Capacity of 
+Petroleum Refineries,'' (number of operating refineries), available at 
+http://www.eia.gov/dnav/pet/pet_pnp_cap1_a_(na)_8OO_Count_a.htm.
+    \8\ Anthony Andrews, Robert Pirog, and Molly F. Sherlock, 
+Congressional Research Service, The U.S. Oil Refining Industry: 
+Background in Changing Markets and Fuel Policies 17 (November 22, 
+2010), available at http://digital.library.unt.edu/ark:/67531/
+metadc29627/.
+---------------------------------------------------------------------------
+    By the beginning of 2011, that number had fallen to 10.\9\ By mid-
+2012, after the closure of Sunoco's Marcus Hook and Philadelphia 
+refineries and ConocoPhillips' Trainer refinery, and assuming no idled 
+facilities come back on line, there will be 7 operating refineries. 
+These closures represent a 43 percent loss in capacity from 2011 
+through 2012.\10\
+---------------------------------------------------------------------------
+    \9\ EIA, supra note 7.
+    \10\ PBF Energy's Delaware City Refinery came back on line in 
+October of 2011.
+---------------------------------------------------------------------------
+    The PADD system, developed during World War II to allocate fuels 
+from petroleum products, does not accurately capture the concept of a 
+market, either from an economic or antitrust perspective. PADD 
+boundaries are encompass far broader areas than what consumers would 
+consider in searching out lower-priced supplies, or suppliers that 
+could undercut prices increases elsewhere in the market. Such markets--
+determined by transportation constraints and production cost 
+differentials--are likely to be much smaller and more concentrated than 
+PADD-based markets.\11\ Nonetheless, PADD-based statistics do give us 
+some sense of changes in market structure that are relevant to today's 
+inquiry into refinery closures.
+---------------------------------------------------------------------------
+    \11\ The FTC's analysis of relevant markets in petroleum merger 
+cases is a good illustration of this concept, whereby concentration is 
+significantly higher than on a PADD-basis.
+---------------------------------------------------------------------------
+    Refinery idlings and closures are reflected directly in changes in 
+market concentration in PADD 1. In 2004, for example, concentration in 
+PADD 1 was about 2,700. But by the end of 2010, concentration reached 
+3,300 HHI.\12\ The Federal Trade Commission (FTC) notes that these 
+changes are due largely to the Valero-Premcor merger. However, 
+increases in concentration also reflect changes in the distribution of 
+ownership associated with refinery closures. For example, the year-end 
+2010 statistics reflect the idling of Chevron's Perth Amboy refinery, 
+PBF's Delaware City refinery, Nustar's Savannah refinery, and Western's 
+Yorktown refinery. These closures drove up the market shares of Sunoco 
+and ConocoPhillips significantly, increasing market concentration.
+---------------------------------------------------------------------------
+    \12\ FTC, supra note 2 at Table 13 (p. 62).
+---------------------------------------------------------------------------
+    Closure of ConocoPhillips' Trainer refinery and Sunoco's Marcus 
+Hook refinery in late 2011, coupled with the restart of PBF Energy's 
+Delaware City refinery slightly lowered market concentration. However, 
+three major players (ConocoPhillips, Sunoco, and PBF Energy) continued 
+to account for about 93 percent of refinery capacity. With the planned 
+closure of Sunoco's Philadelphia refinery in mid-2012 (if a buyer 
+cannot be found), market concentration will increase to almost 4,000 
+HHI. This will leave only two firms (PBF Energy and ConocoPhillips) 
+that account for 86 percent of refinery capacity.\13\ This will cause a 
+significant change in the structure of the PADD 1 market.
+---------------------------------------------------------------------------
+    \13\ Energy Information Administration, Refinery Capacity Data by 
+Individual Refinery as of January 1, 2011, available at http://
+www.eia.gov/petroleum/refinerycapacity/.
+---------------------------------------------------------------------------
+                         b. competitive issues
+    The refining industry is a ``bottleneck,'' or a segment through 
+which all inputs must pass to ultimately reach the consumer. 
+Bottlenecks are a common feature of most networked industries and often 
+involve highly concentrated markets and high sunk and environmental 
+compliance costs that discourage new entry. Control of bottleneck 
+facilities potentially raises concerns over the exercise of market 
+power. For example, in the majority of merger enforcement actions 
+involving downstream petroleum markets, the FTC's concern centered on 
+the increased likelihood that the merged firm could unilaterally--or in 
+coordination with other rivals--withhold capacity to drive up price.
+    Much like in electricity markets where firms are differentiated by 
+capacity, as opposed to by product, strategic withholding of refining 
+capacity could result in anticompetitive increases in RPP prices. It is 
+therefore important to consider scenarios involving refiners that 
+control large shares of capacity, marginal capacity that sets the 
+market price, or facilities located strategically near transportation 
+and terminal networks. In highly concentrated markets that are less 
+conducive to competitive outcomes, such as PADD 1, the possibility of 
+refiners coordinating short-term outages and longer-term idlings or 
+closures are also greater.
+    It is clear from the analysis above that market shares and 
+concentration are directly affected by refinery idlings and closings. 
+However, PADD 1 is currently in the grip of two potentially opposing 
+forces--high concentration and low capacity utilization rates. The 
+likelihood of price increases is generally higher when capacity is 
+tight relative to demand, as opposed to at low utilization rates. In 
+other words, incentives to exercise market power by withholding output 
+can be defeated by the presence of excess capacity in the market, as 
+currently exists in PADD 1. Capacity utilization rates in other PADDs 
+are currently above 90 percent, whereas in PADD 1, they are at about 68 
+percent, down from 93 percent in 2005.\14\
+---------------------------------------------------------------------------
+    \14\ Energy Information Administration, Refinery Utilization Rates 
+React to Economics in 2011 (March 20, 2012), available at http://
+www.eia.gov/todayinenergy/detail.cfm?id=5470.
+---------------------------------------------------------------------------
+    However, one effect of refinery closures in PADD 1 might be to 
+increase utilization rates. Indeed, between December 2011 and January 
+2012, capacity utilization in PADD 1 jumped from 56 to 72 percent--
+about a 30 percent increase.15 It is too early to determine whether the 
+uptick signals a longer-term trend. However, it is possible that with 
+the closures of Sunoco's Marcus Hook and Conoco-Phillips Trainer 
+refineries in late 2011, other refineries have taken up the slack. 
+Regardless of the cause, if utilization continues to increase, it will 
+be important for policymakers to monitor for price spikes and their 
+potential causes, including strategic competitive behavior.
+---------------------------------------------------------------------------
+    \15\ Energy Information Administration, East Coast Refining 
+District Percent Utilization of Refinery Operable Capacity, available 
+at http://www.eia.gov/dnav/pet/hist/
+LeafHandler.ashx?n=PET&s=MOPUEEC2&f=M.
+---------------------------------------------------------------------------
+    While the foregoing competitive concerns focus largely on short-run 
+output restrictions, it is also possible that long-term, high levels of 
+market concentration increase the risk that suppliers can coordinate on 
+capacity investment decisions.\16\ Slower investment keeps capacity 
+tight and increases the probability that anticompetitive withholding 
+will produce significant and sustained price increases. Indeed, capital 
+expenditures in refining capacity declined, on average, by 3 percent 
+annually over the period 2005 to 2010. While this is likely to reflect 
+a reticence by U.S. refiners to expand their presence in markets with 
+unfavorable economics, ongoing decreases in investment, particularly in 
+concentrated markets, should be monitored.\17\
+---------------------------------------------------------------------------
+    \16\ For almost 60 years, economists have probed into competitive 
+issues in the domestic petroleum industry, include concerns over 
+potentially exclusionary conduct in gasoline marketing beginning in the 
+1950s, the concept of ``conscious parallelism,'' or that 
+anticompetitive coordination does not necessarily take the form of a 
+conspiracy, refusals to deal and the potential incentives to foreclose 
+rivals associated with integrated refining-marketing, and entry 
+barriers at the refining level. See, e.g., for discussion of various 
+competitive issues: J. B. Dirlam and A. E. Kahn, Leadership and 
+Conflict in the Pricing of Gasoline, 61 YALE L. J. 818 (1952); B. 
+Turner, Conscious Parallelism in the Pricing of Gasoline, 32 ROCKY 
+MNTN. L. REV. 206 (1959-1960); W. Adams, Vertical Divestiture of the 
+Petroleum Majors: An Affirmative Case, 30 VAND. L. REV. 1115 (1977); J. 
+W. Markham and A. Hourihan, Horizontal Divestiture in the Petroleum 
+Industry, 31 VAND. L. REV. 237 (1978); W. L. Novotny, The Gasoline 
+Marketing Structure and Refusals to Deal with Independent Dealers: A 
+Sherman Act Approach, 16 ARIZ. L. REV. 465 (1974); and E. V. Rostow and 
+A. S. Sachs, Entry into the Oil Refining Business: Vertical Integration 
+Re-examined, 61 YALE L. J. 756 (1952).
+    \17\ CRS, supra note 8 at 19.
+---------------------------------------------------------------------------
+          iv. wholesale markets and gasoline prices in padd 1
+    National gasoline prices have continued their steady march upward 
+since the mid-2000s, marked by periodic exogenous shocks. The 
+hurricanes in 2005 caused spikes associated with temporary refinery 
+disruptions, as did the phase out of MTBE in the summers of 2006 and 
+2007. Likewise, the impact of the global recession beginning in 2008 
+caused gasoline prices to plunge as demand fell off. But since the 
+beginning of 2009, prices have resumed their upward trend.
+    A number of factors can influence gasoline price behavior. For 
+example, if upstream (e.g., wholesale RPP) prices continue to increase, 
+accompanying downstream (e.g., retail RPP) price increases can be 
+reinforced by what economists term ``asymmetry'' or the ``rockets and 
+feathers'' effect. This is the tendency for downstream petroleum prices 
+to increase faster than upstream prices when upstream prices are on the 
+rise, but to fall more slowly when upstream prices are on the 
+decline.\18\ There are various theories that could explain asymmetry, 
+including oligopolistic coordination, consumer search costs, and 
+inventory adjustment costs.\19\
+---------------------------------------------------------------------------
+    \18\ Asymmetry is observed between a number of upstream-downstream 
+price combinations. The most common is wholesale gasoline-retail 
+gasoline prices, followed by crude oil-retail gasoline prices.
+    \19\ Theories of coordination could include signaling adherence to 
+a collusive agreement at the refining or retail levels. For more detail 
+see, e.g., Diana L. Moss, The Petroleum Industry, Merger Enforcement, 
+and the Federal Trade Commission, 53 THE ANTITRUST BULLETIN 203 (Spring 
+2008).
+---------------------------------------------------------------------------
+    Gasoline prices are also potentially influenced by the effects of 
+increased market concentration resulting from the last wave of mergers 
+in the late 1990s and early 2000s. When upstream and downstream markets 
+are concentrated in vertically integrated industries, competitive 
+concerns can arise. For example, vertical integrated firms may possess 
+the ability and incentive to foreclose rivals from the market by 
+limiting their access to customers or inputs, or raising rivals' costs 
+by forcing them to operate at inefficient scale.\20\ Successful 
+foreclosure of rival gasoline retailers by vertically integrated 
+refiner-marketers could increase prices in retail markets.
+---------------------------------------------------------------------------
+    \20\ Some economic research appears to support the notion that 
+merger involving refiner-marketer combinations activity in the U.S. 
+since the mid-1990s increased wholesale and, sometimes, retail prices. 
+Moss, supra note 19.
+---------------------------------------------------------------------------
+    Refining concentration in PADD 1 is already high and, as noted, 
+might be driven higher by additional refinery closures. But it is also 
+clear that between 2004 and 2010, wholesale concentration increased by 
+between about 300 and 700 HHI points in some PADD 1 states--
+particularly Pennsylvania where there is a geographic concentration of 
+refining capacity--but also Maine and Rhode Island.\21\ Similar to 
+refining markets, however, state-level measures of wholesale 
+concentration are likely understate market concentration since terminal 
+networks are typically defined around smaller, metropolitan areas.\22\
+---------------------------------------------------------------------------
+    \21\ FTC, supra note 2 at Table 14, at 63.
+    \22\ Data from FTC merger investigations shows that terminaling and 
+marketing markets are much smaller and more concentrated than state-
+based markets.
+---------------------------------------------------------------------------
+    Higher levels of refining and wholesale market concentration should 
+be considered in light of the mitigating fact that refiner integration 
+into gasoline marketing has declined since the early 2000s. For 
+example, rack sales of gasoline in PADD 1 increased from 68 percent to 
+75 percent in 2010, while sales to co-ops and dealer-tank-wagon 
+declined from 17 percent to 14 percent.\23\ Indeed, there is evidence 
+that integrated petroleum companies and refiners are spinning off 
+downstream assets to concentrate on more profitable upstream 
+activities. Moreover, large independent gasoline retailers can play a 
+role in disciplining retail gasoline prices.
+---------------------------------------------------------------------------
+    \23\ FTC, supra note 2 at Table 15 (p. 65).
+---------------------------------------------------------------------------
+    At first blush, these observations might support the notion that 
+integrated refiners potentially have less ability to affect gasoline 
+prices through vertical foreclosure than in the past. However, this 
+must be viewed against the looming prospect of two firms in PADD 1 
+accounting for almost 90 percent of refinery capacity. Under those 
+circumstances, jobbers and other distributors that purchase at the rack 
+and independent gasoline retailers potentially face the prospect of 
+dealing with fewer firms, one of which (ConocoPhillips) is vertically 
+integrated into wholesale and retail marketing. Much like concentration 
+in refining markets, this situation should be carefully monitored.
+             v. changing use of the transportation network
+    Changes in the pattern of imports into PADD 1 and network usage 
+also have competitive implications. Pipeline networks in the U.S. were 
+largely designed and constructed to accommodate long-established 
+trading patterns between supply and demand centers, within the U.S. and 
+abroad. When those patterns change--as they are in light of the 
+Northeast refinery closures--new constraints can emerge. For example, 
+increased product flows and capacity constraints, reversals of product 
+flows, shifting shares of pipeline versus ocean-borne (i.e., tanker and 
+barge) transportation, and new pipeline transportation all affect usage 
+of downstream networks, with associated effects on costs, prices, and 
+disposition of supplies. A good analogy is the changed use of the U.S. 
+high voltage transmission grid following regulatory reforms in the mid-
+1990s. Expansion of wholesale power markets, accompanied by higher 
+volume, longer distance transfers of electricity and new trading 
+patterns exposed limitations on the grid. Today, the industry faces 
+similar issues, as renewables such as wind generators are located on 
+remote parts of the grid.
+    PADD 1 is unusual in that it is a net importer of petroleum 
+products. In 2010, 72 percent of total product supply in PADD 1 was met 
+by ``imports.'' Just over one half of supply came from other PADDs 
+(primarily PADD 3) and 20 percent from foreign imports. PADD 1 
+therefore supplied only about 21 percent of its own needs in 2011.\24\ 
+The economics of this situation are straightforward. Additional 
+supplies must be procured from non-PADD 1 sources to make up for 
+refining capacity shortfalls, particularly for ULSD and gasoline. Those 
+supplies can come from a variety of sources--PADD 3, PADD 2, Canada, 
+and foreign sources.\25\
+---------------------------------------------------------------------------
+    \24\ FTC, supra note 2, Table 11 (p. 60).
+    \25\ Energy Information Administration, Potential Impacts of 
+Reductions in Refinery Activity on Northeast Petroleum Product Markets, 
+(February 27, 2012), available at http://www.eia.gov/analysis/
+petroleum/nerefining/update/.
+---------------------------------------------------------------------------
+    Regardless of how shortfalls resulting from refinery closures are 
+met, RPP prices in PADD 1 will likely increase relative to other PADDs, 
+for a number reasons. First, scarce supplies must be bid away from 
+other, more lucrative markets, potentially raising prices.\26\ Second, 
+capacity constraints on the Colonial pipeline that moves product from 
+the Gulf Coast and up the eastern seaboard will potentially drive up 
+transportation costs and therefore prices. Constraints on existing 
+terminal and storage capacity and configurations might likewise 
+adversely affect prices. Third, the costs of altering or building new 
+infrastructure to accommodate the PADD 1 refining situation (should it 
+become permanent) are potentially high and could increase prices.
+---------------------------------------------------------------------------
+    \26\ Supplies that come from abroad should, in any robust economic 
+analysis, account for the indirect costs associated with dependency on 
+foreign fuel sources.
+---------------------------------------------------------------------------
+    Finally, if products are imported to PADD 1 from atypical or more 
+remote sources, supply chains will probably become longer and more 
+complex, potentially driving up costs and prices.\27\ Under these 
+circumstances, supply chains become more ``fragile'' and prone to 
+disruption from events such as input market shocks, weather, or 
+political events. This fragility could be exacerbated by the presence 
+of concentrated markets at critical, constrained junctures in the 
+supply chain. Such circumstances can create incentives for firms to 
+exercise market power through unilateral or coordinated conduct, and 
+are therefore important to monitor.
+---------------------------------------------------------------------------
+    \27\ EIA, supra note 25, at 23.
+---------------------------------------------------------------------------
+                             vi. conclusion
+    It is as yet unclear how refinery closures in the Northeast will 
+affect RPP prices, particularly gasoline. Should prices rise, proposals 
+for addressing them will highlight the tension between competition 
+policy and broader-based public policy. Competition policy views 
+domestic petroleum refining and marketing much like any other commodity 
+market, using methodologies and economic tools to evaluate whether 
+mergers or strategic firm conduct are likely to harm competition and/or 
+consumers. Public policy, on the other hand, is apt to treat high 
+gasoline prices as a societal problem. In addition to traditional 
+consumer welfare and economic efficiency concerns, public policy would 
+potentially consider equity, economic growth, and national security as 
+key factors in crafting approaches.
+    Given these concerns, public policy could view petroleum markets as 
+candidates for special rules or treatment that would not be considered 
+in the realm of competition policy. It is thus important that 
+approaches separate the underlying market dynamics (e.g., scarcity) 
+associated with refinery closures in the Northeast from outcomes that 
+are related to strategic competitive behavior. If the latter appears to 
+be a factor in the evolving Northeast refinery situation, then it would 
+be prudent for policymakers, including antitrust enforcers, to consider 
+several important questions.
+    One question is whether past mergers have had an effect in creating 
+the market structures and incentives that facilitate anticompetitive 
+outcomes. In making budgetary decisions, Congress might also consider 
+that the FTC will need resources to monitor for and investigate 
+potential competitive concerns. Finally, antitrust may not be able to 
+address some competitive issues. Much like the California electricity 
+crisis of the early 2000s when generators engaged in unilateral 
+withholding strategies to drive up wholesale electricity prices, 
+withholding of refinery output or restraining growth in capacity 
+likewise does not constitute a violation of U.S. antitrust laws.\28\ In 
+such circumstances, public policy would play a larger role in ensure 
+that competition and consumers are not harmed.
+---------------------------------------------------------------------------
+    \28\ Withholding output or capacity as part of a collusive strategy 
+would be reachable under Section 1 of the Sherman Act. Likewise, 
+exclusionary conduct by a single firm could be a violation of Section 2 
+of the Sherman Act. If a withholding strategy was likely in a post-
+merger context, it could be a cognizable anticompetitive effect under 
+Section 7 of the Clayton Act.
+---------------------------------------------------------------------------
+                               __________
+  Prepared Statement of Robert Greco, The American Petroleum Institute
+    Good afternoon. My name is Bob Greco and I am Group Director of 
+Downstream and Industry Operations for the American Petroleum Institute 
+(API). Thank you for the opportunity to speak at this hearing today.
+    API represents all aspects of America's oil and natural gas 
+industry. The industry supports 7.7 percent of our economy, 9.2 million 
+jobs, and millions of Americans who hold ownership stakes through 
+pension funds, retirement accounts, and investments.
+    Refineries are critically important to our nation. They make the 
+fuels that virtually all Americans use and that help drive our economy. 
+They contribute to our energy and national security. And they provide 
+jobs for tens of thousands of Americans and substantial revenue to 
+local, state, and federal governments.
+    The recent refinery closures in the Northeastern U.S. are a matter 
+of great concern. They have the potential to impact families, 
+communities, and other manufacturing industries, and to reduce tax 
+revenues. We very much regret that.
+    It's also important, however, to understand the reasons why 
+refining is such a challenging business and why closures sometimes 
+occur--and to also know that the refining industry is resilient and 
+will continue to supply the products that all Americans need.
+    Refining is highly competitive. It has also traditionally been a 
+low-profit margin industry faced with a heavy slate of regulations over 
+the decades involving many billions of dollars in environmental 
+investment and compliance costs. Because of these and other factors, 
+some refineries--often after sustained periods of financial losses--
+have had to shut down. About 75 U.S. refineries have closed since 1985.
+    As this has happened, however, the remaining larger, more efficient 
+facilities have expanded capacity so that total U.S. refining capacity 
+has actually increased by 13 percent. This has allowed the sector to 
+continue to reliably provide Americans with the fuels they need.
+    The ability of our industry to add capacity and to produce and 
+deliver larger amounts of gasoline and other products over a flexible 
+distribution network--and also to draw on imported products when 
+necessary--will help us continue to supply markets here.
+    The higher prices we see now also have been a challenge to our 
+refineries. Rising global demand and Middle East tensions have pushed 
+the cost of crude oil higher. The cost of crude oil is the single 
+biggest factor in the price of gasoline--accounting for about three-
+fourths of the pump price excluding gasoline taxes--and is the largest 
+cost incurred by refineries.
+    Refiners have struggled to pay higher crude prices to make products 
+for American markets at a time when U.S. demand has been relatively 
+weak because of (1) the recession and its aftermath, and (2) the 
+federal ethanol blending mandates. This has severely pushed down 
+margins and has negatively affected the refining sector.
+    Refining is a difficult business. But we can make better energy 
+policy choices that can help the industry remain a reliable, stable 
+supplier of affordably priced fuels and keep its workers employed.
+    Good policy choices mean sensible regulations, fair tax policies, 
+and sufficient access to the crude oil from which all refined products 
+are made. Decisions made in Washington, D.C., are a big part of this 
+equation, but so are those made by local and state governments, such as 
+state requirements for ultra-low sulfur home heating oil.
+    Excessive rules can raise costs and make it harder for our 
+refineries to compete and stay in business. Policies--such as those 
+embraced by the current administration over the past three years--that 
+limit crude oil production in the United States or prevent ready 
+supplies from being imported from Canada put upward pressure on crude 
+oil prices that eventually affect refineries and those who consume the 
+gasoline, diesel fuel, and other products they make.
+    That's why we have been calling on the Administration for a change 
+of course.
+    We've urged them to expand access to America's vast oil and natural 
+gas resources on public lands that could also add supplies to markets 
+and put downward pressure on prices.
+    We've urged them to approve the Keystone XL pipeline, which could 
+deliver from Canada very large additional supplies of crude oil to U.S. 
+refineries that serve U.S. consumers.
+    We've called for more sensible, cost-effective regulations that 
+show a practical regard for potential impacts on industry facilities 
+and to the people who work there or who depend on the products they 
+make.
+    We've asked the EPA in particular to reconsider a virtual blizzard 
+of new poorly thought-out, unnecessary, and even counterproductive 
+rules that could threaten our refining sector. For example, refiners 
+are facing an impending ``blend wall'' where the mandates to blend 
+ethanol into gasoline will soon exceed our ability to safely use these 
+fuels in existing vehicles. Moreover, refiners are also required to 
+blend into the gasoline supply advanced biofuels that do not yet exist, 
+or pay a fee when they cannot meet the mandates. This policy is 
+regulatory absurdity, and effectively amounts to a hidden tax on 
+gasoline manufacturers.
+    Another example is the so-called Tier 3 rules for further sulfur 
+reduction in gasoline. EPA has yet to demonstrate any air quality 
+benefits from reducing sulfur by the amount being considered, and an 
+analysis by the respected energy consulting firm Baker & O'Brien shows 
+that implementing the new requirements could increase refinery 
+greenhouse gas emissions because of the use of energy-intensive hydro 
+treating equipment to remove sulfur from the gasoline.
+    The Baker & O'Brien study also found that U.S. refiners could face 
+$10-17 billion of up-front capital costs and $5-13 billion of recurring 
+annual operating expenses under several Tier 3 scenarios. That could 
+translate to increases between 6 cents and 9 cents per gallon in the 
+cost of manufacturing gasoline. If a vapor pressure reduction 
+requirement is included, the cost increase could be as much as 25 cents 
+per gallon, and four to seven U.S. refineries might close because their 
+owners could not make the required investments to meet the new 
+requirements. While the sulfur reduction requirement alone, with an 
+upfront cost of nearly $10 billion and an annual operating cost of $2.4 
+billion, probably would not lead to refinery closures, these 
+additional, unjustified costs would only further weaken the 
+competitiveness of domestic refiners.
+    Of course, diminished domestic fuel manufacturing capacity would 
+lead to increased reliance on imported petroleum products from foreign 
+refineries that may be operating under substantially less stringent 
+environmental standards than exist in the United States--all for what 
+would be at best modest incremental environmental benefits here at 
+home.
+    Decisions made in Washington, D.C., can have a big impact on 
+refiners and the fuel market, but so can those made by state and local 
+governments. For example, the current New York state requirement for 
+ultra-low sulfur home heating oil is unjustified and may impact the 
+reliable supply of home heating oil this winter. Fortunately the state 
+legislature is reconsidering this draconian reduction, and we urge New 
+York to do so quickly before the requirements go into effect this 
+summer.
+    U.S. refineries are under pressure for a combination of reasons, 
+and increased regulatory costs are certainly a factor. The discourse on 
+environmental protection in this country should not be cast as being 
+either for it or against it, which is really a straw man debate, but 
+instead should focus on making regulation more efficient so it 
+materially benefits the environment without impeding economic growth 
+unnecessarily, and avoids hindering other environmental improvements 
+inadvertently.
+    Existing refinery regulations and fuel requirements clearly 
+contribute to a cleaner environment and safer workplace, but, 
+unnecessary, inefficient, and excessively costly requirements hamper 
+our ability to provide and distribute fuels to America, while also 
+employing hundreds of thousands of people and enhancing our national 
+security. We have already seen some refineries close, at least in part 
+due to the cumulative impact of environmental controls.
+    The U.S. oil and natural gas industry has invested over $209 
+billion since 1990 toward improving the environmental performance of 
+its products, facilities and operations. In the year 2009 alone, $12.4 
+billion was spent implementing new technologies, creating cleaner 
+fuels, and funding ongoing environmental initiatives. 52% of the 
+industry's environmental expenditures in 2009 targeted air pollution 
+abatement, meeting or surpassing the requirements of the 1990 Clean Air 
+Act.
+    In light of the environmental progress the nation has experienced, 
+we therefore urge the Administration to take a step back on Tier 3 and 
+its other proposed rules. We must be sure that new regulatory proposals 
+are necessary, properly crafted, practical, and fair, to allow U.S. 
+refiners to remain competitive, preserve good paying refinery jobs, and 
+ensure our energy security.
+    America's refineries are a critical part of the nation's industrial 
+bedrock and a part of the fabric of the communities in which they 
+operate. They make products that are absolutely indispensable to 
+America. They are vital to our national security.
+    Our policy makers must understand this for this vital sector of our 
+economy to continue serving America the best it can.
+    Thank you.
+                               __________
+     Prepared Statement of Thomas D. O'Malley, Chairman, PBF Energy
+    Chairman Casey, Vice Chairman Brady and Members of the Committee, 
+thank you for giving me the opportunity to testify at today's hearing 
+on some of the factors that led to refinery closures in the Northeast. 
+I'm Tom O'Malley and I serve as chairman of PBF Energy.
+    PBF Energy owns three refineries with a total capacity of 540 MBD. 
+Two of the refineries are located in the Northeast, one in Delaware 
+City, Delaware and the other in Paulsboro, New Jersey. Both of these 
+refineries were acquired from Valero in 2010, one in a closed down 
+condition and the other in danger of being closed. Both refineries are 
+in operation today supplying fuel to the East Coast. Our third refinery 
+is in Toledo, Ohio and has operated on a continuous basis since 
+acquisition in March of 2011. We employ at the three refineries, 
+directly and with contractors, about 2,000 people.
+    The recent refinery closures that have occurred or are currently 
+pending are the tip of an iceberg. If the fuel substitutions from 2012 
+to 2022 mandated under the Energy Independence Act of 2007 are 
+maintained, we will lose over that time period an additional 10% 
+minimum of U.S. capacity and the thousands of jobs that this important 
+industry provides.
+    The 1,400,000 BBLs per day of renewable fuels over and above the 
+2011 mandate which includes 10% Ethanol in gasoline will, we believe, 
+be more expensive than the product coming from refineries. When you 
+combine this with what can only be described as an aberrant 
+administration of the 2007 Act, particularly on RINs (Renewable 
+Identification Numbers), by the EPA, it's easy to come to the 
+conclusion that the government will drive refining companies out of 
+business. This extra fuel substitution has no basis in economic reality 
+and is marginal in terms of environmental improvement. The Act of 2007 
+may have seemed good policy in 2007. It is not today. If bio/renewable 
+fuels manufacturers can produce on a superior economic basis to 
+hydrocarbon fuels, they should do so and take market share the old 
+fashioned way, better quality and better price without government 
+mandates or subsidies.
+    We are on a road that may in fact get us close to independence on 
+the Energy front. But, it will come from more production of 
+hydrocarbons and not from taking corn out of the food chain and turning 
+it into Ethanol or from some dream process that doesn't exist on an 
+economic basis to make advanced bio-fuel at great cost to the consumer.
+    The other government action that will close more refineries and 
+raise the price of fuels is the EPA Plan for Tier 3 Gasoline. The 
+industry will have to spend billions of dollars to comply; money which 
+the independents, who now control 60% of our capacity, don't have. Why? 
+To lower sulfur content from 30 parts per million to ten parts per 
+million. Under this Tier 3 Plan, the total sulfur removed from the PBF 
+gasoline production of about 4.5 billion gallons would be less than 1/8 
+of what one 500 MW coal-fired power plant emits in a year. You have 
+plants of this size not farfrom here.
+    Is this good policy in a weak economy, where it helps kill one of 
+our last heavy industries that provides high paying jobs and meets the 
+needs of our population?
+    This hearing is focused on the impact of potential closures of 
+petroleum refineries serving the Northeast and the effect on prices. 
+This is not just an issue for the Northeast, but for the entire nation.
+    In the short, medium and long term, it is my view that these 
+closures will lead to higher prices. In certain circumstances, we could 
+see dangerous shortages develop which could lead to severe economic 
+disruption.
+    Current Government policy will drive refineries in other areas of 
+the country out of business and this will further complicate the East 
+coast situation.
+    We need to see an adjusted government policy that seeks to maintain 
+this important strategic manufacturing industry and not a series of 
+policies and laws that destroy it.
+    Removing the 2007 law's renewal fuel mandate eliminating the 
+mandate for 10% ethanol in gasoline and holding the EPA back from an 
+aggressive stance on Tier 3 fuel specifications would, in my view, lead 
+to a healthy Delaware Valley refining industry and jobs for the workers 
+in lhis valuable industry.
+    This situation is not the fault of either the Democrats or the 
+Republicans. But, it can only be solved by a Congress that works 
+together in the interest of all the American people.
+    Thank you for inviting me and the courtesy of listening to my 
+views.
+                               __________
+Prepared Statement of Michael Greenstone, 3M Professor of Environmental 
+    Economics, Massachusetts Institute of Technology; Director, The 
+     Hamilton Project; and Senior Fellow, The Brookings Institution
+    Thank you Chairman Casey, Vice Chairman Brady, and members of the 
+Committee for inviting me here today.
+    My name is Michael Greenstone, and I am the Director of The 
+Hamilton Project, the 3M Professor of Environmental Economics at the 
+Massachusetts Institute of Technology, and a Senior Fellow at the 
+Brookings Institution. I am honored to have the opportunity to speak 
+with you today about America's energy choices, as prompted by the 
+repercussions of potential refinery closures on the East Coast.
+                            i. introduction
+    Thanks in part to an economic infrastructure heavily dependent on 
+energy use--roads and highways, ports and railways, broadband and 
+computer networks, manufacturing plants and shipping facilities--
+American workers and businesses are among the most productive in the 
+world and the most globally integrated. One innovation after another 
+over the centuries, fueled by cheap and plentiful energy from coal, 
+oil, and natural gas, has allowed the nation's economy to transition 
+from one based on agriculture to one based on high-value-added 
+manufacturing and services aided by computerization. Our standard of 
+living--among the highest on earth--would simply not be possible 
+without energy and the systems that have been developed to harness it.
+    The potential closures of petroleum refineries on the East Coast 
+have led to speculation that energy prices may rise, possibly 
+dramatically in some instances. This hearing provides an important 
+opportunity to consider our energy choices more broadly. Specifically, 
+it provides a moment to remember that our energy sources often come 
+bundled with costs that go beyond what we pay at the pump or in our 
+electricity bills and that sound choices involve recognizing all costs.
+                     ii. the natural gas revolution
+    The discovery of vast amounts of natural gas shale resources in the 
+United States and the advancement of drilling technologies that allow 
+us to develop these resources have dramatically changed our country's 
+energy situation. Over the course of the last decade, U.S. natural gas 
+prices have plummeted while petroleum prices have increased 
+significantly. As you can see from the figure below, on an equal energy 
+content basis, the price of oil traded at roughly twice the price of 
+natural gas for roughly twenty-five years. Their prices were roughly 
+linked because of the opportunities for substitution of one for the 
+other. This dramatically changed in 2005 when our natural gas 
+production began to increase, and petroleum now trades at over 6 times 
+the price of natural gas at the beginning of 2012.
+
+
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+
+    The practically unprecedented change in the ratio of oil to natural 
+gas prices presents an incredible opportunity for the United States. It 
+is creating economic opportunities around the country during what 
+remain tough economic times, reducing the price of energy for many 
+Americans, changing the mix of electricity sources on the grid in a way 
+that reduces carbon emissions, and over the longer term offers an 
+opportunity to strengthen our energy security. Reducing our dependence 
+on petroleum-based energy sources in favor of natural gas could have 
+many benefits--including the development of a more diverse set of 
+options that does not constrain our foreign policy choices and provides 
+great protection against oil price shocks in the future.\1\ The first 
+signs of a transition to increased reliance on natural gas in the 
+transportation sector are beginning to emerge, but this transition will 
+not proceed optimally or quickly unless we make proactive policy 
+choices.
+---------------------------------------------------------------------------
+    \1\ Gail Cohen, Frederick Joutz, and Prakash Loungani, 2011, 
+``Measuring energy security: Trends in the diversification of oil and 
+natural gas supplies,'' Energy Policy 39 (2011) 4860-4869, Elsevier.
+---------------------------------------------------------------------------
+                    iii. the social costs of energy
+    One of the challenging features of our energy system is that many 
+of our energy choices involve what economists call ``externalities.'' 
+That is to say, the choices that individuals make about the production 
+or consumption of a particular energy source impose costs on others in 
+the form of shorter lives, higher health care expenses, a changing 
+climate, and weakened national security. The current energy playing 
+field is tilted because our individual energy choices are based solely 
+on the visible costs that appear on electric bills and at the gas pump. 
+This system masks the full or social costs arising from those energy 
+choices.
+    The social cost of energy includes the price we pay at the gas 
+pump--known as the ``private costs''--plus the less obvious impact of 
+energy use on health, the environment, and national security. 
+Economists refer to these additional damages as negative externalities, 
+or ``external costs.''
+    The dramatic differences in the private and social costs of 
+different energy sources--seen in the figure below, which adds on the 
+external costs associated with each electricity source--illustrate how 
+the low-private-cost energy sources on which we rely often come with 
+high external costs.
+
+
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+
+    For example before accounting for external costs, a coal plant is a 
+competitively priced way to produce electricity. But the costs of coal 
+increase dramatically when the full costs of production are included. 
+Specifically, the social cost per kilowatt hour of energy for existing 
+coal plants is more than double the private cost--8.8 cents compared to 
+3.2 cents. In contrast, the private cost of a kwh of electricity from a 
+new natural gas plant is 4.1 cents and the full or social cost is 5.2 
+cents. These calculations are from a recent Hamilton Project paper and 
+are based on the National Academy of Science's estimates of the non-
+carbon (primarily health) costs from producing a kwh of the various 
+energy sources and the United States Government's estimates of the 
+damages from climate change due to the release of greenhouse gases.\2\
+---------------------------------------------------------------------------
+    \2\ Michael Greenstone and Adam Looney, ``A Strategy for America's 
+Energy Future: Illuminating Energy's Full Costs,'' The Hamilton Project 
+strategy paper, Brookings Institution, May 2011, http://
+www.hamiltonproject.org/\1/2\les/downloads_and_links/
+05_energy_greenstone_looney.pdf; Michael Greenstone and Adam Looney, 
+``Paying Too Much for Energy? The True Costs of Our Energy Choices,'' 
+Daedalus, Spring 2012, Vol. 141, No. 2: 10-30; National Academy of 
+Sciences (NAS). 2010. Hidden Costs of Energy. National Academies Press. 
+Washington, DC. 154; Interagency Working Group on Social Cost of 
+Carbon, United States Government. 2010 (February). ``Technical Support 
+Document: Social Cost of Carbon for Regulatory Impact Analysis Under 
+Executive Order 12866.'' http://www.epa.gov/oms/climate/regulations/
+scc-tsd.pdf
+---------------------------------------------------------------------------
+    Once the social costs of all energy sources are accounted for, 
+natural gas power plants stand out as the least expensive electricity 
+source today. This outcome reflects the low prices of natural gas due 
+to the recent dramatic increase in reserves and the fact that the 
+health and environmental costs associated with natural gas are lower 
+than for other fossil fuels.\3\
+---------------------------------------------------------------------------
+    \3\ It is critical to underscore that there are important 
+unresolved questions about the external costs of natural gas drilling, 
+including its effect on water and air quality and the degree of 
+fugitive greenhouse gas releases. There are also unquantified external 
+costs from nuclear and other energy sources. The numbers in this 
+testimony and the figure should naturally be updated as new information 
+emerges.
+---------------------------------------------------------------------------
+    Despite the relatively low social costs of natural gas, industry 
+and consumers have little incentive to change their energy choices 
+based on comparing social costs. This is because coal and gasoline are 
+comparatively inexpensive when only their private costs are 
+considered--their costs to health, the climate, and national security 
+are obscured or indirect, and so consumers behave as if they were less 
+costly than they truly are.
+    Current energy policy tilts the balance in favor of energy sources 
+that only appear cheap because their prices do not account for their 
+full costs, although society nevertheless bears the external costs. A 
+better approach to energy policy would involve a fairer competition 
+between energy sources that placed them on a level playing field. The 
+best approach is to price carbon and other pollutants appropriately. 
+But in the absence of a national policy to price these external costs, 
+there are still other policy options available. The Hamilton Project is 
+exploring some of these policy options in research to be released this 
+June.
+                      iv. an uneven playing field
+    Increasing our natural gas consumption--or altering our energy 
+consumption in any manner--is easier said than done, since different 
+forms of energy are not necessarily competing with one another on an 
+even playing field. For example, several barriers prevent us from fully 
+utilizing natural gas in the transportation sector, as an upcoming 
+Hamilton Project paper by Chris Knittel will discuss.
+    Some existing U.S. policies aim to correct externalities in energy 
+use in the transportation sector, but they do not treat natural gas 
+fairly. For example, the Federal Renewable Fuel Standard as outlined in 
+the Energy Independence and Security Act of 2007 ensures that 
+transportation fuels sold in the U.S. contain certain volumes of 
+renewable fuels, but does nothing to encourage the use of natural gas. 
+Of course, natural gas is not a renewable fuel, but the stated 
+rationale behind the Act is to promote energy independence and 
+security, and to favor clean fuel sources. Use of natural gas would 
+clearly advance the mission of the Act. Until natural gas is included 
+in the Renewable Fuel Standard as a Conventional Biofuel, it will be at 
+a disadvantage to fuels such as ethanol.
+    Electric vehicles provide another example of natural gas's 
+comparative disadvantage. Electric vehicles receive much larger 
+subsidies through income tax credits than do vehicles that run on 
+compressed natural gas. These two forms of vehicles produce comparable 
+amounts of greenhouse gas emissions, and fairness would dictate that 
+both should receive equal subsidies.
+    There are also issues in infrastructure which require further 
+analysis. Decades of reliance on gasoline as our main fuel for 
+transportation have led to the build-out of petroleum-focused 
+infrastructure. For example, 120,000 gas stations exist in the United 
+States for vehicle refueling, while there are fewer than 400 public 
+refueling stations for natural gas. As a result, natural gas vehicles 
+are prohibitively impractical for most consumers. We find ourselves in 
+a situation in which the status quo is inherently favored, even if our 
+energy needs in the short-run may be better served by natural gas and 
+in the long-run by innovation. Without prejudging the outcome, it would 
+be appropriate to study whether some targeted subsidies for the 
+construction of natural gas refueling stations are justified.
+                             v. conclusions
+    I will conclude by bringing this back to the subject of today's 
+hearing. Periodically, the energy sector shows up in the headlines--
+most often this is due to price spikes, like those that some project 
+would follow the potential closure of petroleum refineries in the 
+Northeast or due to environmental damages associated with energy 
+production or consumption. Our current energy policies encourage these 
+problems, rather than discourage them, by failing to allow all energy 
+sources to compete on a level playing field.
+    I respectfully make the following recommendations that aim to 
+correct this core problem with our energy system:
+
+    <bullet>  First, the federal government should price the external 
+costs, that is the health, environmental, and security costs, 
+associated with the production and consumption of energy. This reform 
+would allow all energy sources to compete on a level playing field.
+    <bullet>  Second if it is infeasible to fully price these external 
+costs, then a forthcoming Hamilton Project paper makes a compelling 
+case for putting natural gas on equal footing with renewable fuels 
+under the Federal Renewable Fuel Standard and by providing equal 
+subsidies to electric vehicles and vehicles that run on compressed 
+natural gas.
+
+    I would like to thank the entire committee once again for inviting 
+me to participate in this discussion. I will gladly respond to any 
+questions.
+                               __________
+         Prepared Statement of Congresswoman Donna Christensen
+    Good afternoon Chairman Casey and Members of the Joint Committee:
+    Thank you for the opportunity to submit remarks to be included in 
+the official record of this very important hearing. As we all are 
+acutely aware every time we stop at a gas station, or receive our 
+electric bills in the mail, the ongoing energy crisis has been and will 
+be regarded as one of the most defining issues of our time.
+    With the domino like closing and idling of refineries that supply 
+fuel to the Northeast happening far too frequently, it is very fitting 
+that we come together to discuss gas prices in the region and the 
+resulting potential impact on the American consumer due to the loss of 
+refining capacity.
+    Being the Congressional Representative of the U.S. Virgin Islands, 
+which served as home to what was the western hemisphere's third largest 
+oil refinery--it is imperative that I lend my voice, and the voice of 
+my constituents to the discussion being had today. They are also 
+represented in the audience today by, Ira Hobson and Oswin Newton, two 
+members of the Steelworkers who are among the recently laid-off 
+workers.
+    Prior to its shut down of operations in February of 2012, the 
+HOVENSA oil refinery exported more than half of its output to the East 
+Coast and produced approximately 350,000 barrels per day of refined 
+product. At its height, HOVENSA produced more than 500,000 barrels per 
+day with \2/3\ of it going to the east coast, which included jet fuel 
+and other refined products.
+    Before it closed its doors, it had begun to export to other 
+markets, cutting its exports to the Northeast to 55% percent. Though 
+the impact of HOVENSA's closing is only beginning to be seen, we can be 
+assured that American consumers from New Jersey to St. Croix, St. 
+Thomas or St. John will have an adverse lasting impact for years to 
+come.
+    It has been suggested that environmental and health protections are 
+to blame for recent refinery closures in the United States and its 
+territories. Speaker John Boehner also has repeated claims that [quote] 
+``extremely challenging regulations'' for U.S. refineries are causing 
+gasoline prices to rise.
+    The truth is that the recent refinery closures were not driven by 
+environmental protections. And they certainly were not caused by 
+regulations that haven't even been proposed. The truth is that recent 
+decisions to close or sell refineries along the East Coast are based on 
+market factors such as oil prices, consumer demand, and competition.
+    When it announced the refinery closure, the company stated very 
+clearly that the closure was due to $1.3 billion in economic losses 
+[quote] ``caused primarily by weakness in demand for refined petroleum 
+products due to the global economic slowdown and the addition of new 
+refining capacity in emerging markets.''
+    The company also noted that as an oil-fired refiner, it was at a 
+competitive disadvantage with other mainland refiners that use cheap 
+natural gas to power their facilities.
+    The company's CEO testified before the 29th Legislature of the 
+Virgin Islands and reiterated that poor market conditions, including a 
+drop in demand for the refinery's petroleum products, had put it on a 
+path to bankruptcy. He also dismissed suggestions that an EPA order to 
+install modern pollution controls was a factor in the company's 
+decision to close the refinery.
+    The Pennsylvania refineries also have faced challenging market 
+conditions. They process the most expensive type of crude oil. Demand 
+for their products has fallen, and excess capacity has squeezed their 
+profit margins.
+    Elsewhere in the United States, refineries are thriving. In 2011, 
+U.S. refining capacity reached 17.7 million barrels per day, the 
+highest level in at least 25 years. In particular, Gulf Coast 
+refineries have been able to process cheaper sources of crude compared 
+to the rest of the country and maximize production. As a result, 
+several refineries in the Gulf Coast are actually expanding their 
+capacity.
+    Given that the U.S. Virgin Islands being such a small community, 
+the impact of HOVENSA's recent closing has already begun to reverberate 
+throughout the entire community--and regionally as well. With over 
+2,000 jobs lost due to the shut down, businesses that rely on HOVENSA, 
+their suppliers, hotels and restaurants and even some of our private 
+schools are wondering how they are going to keep their doors open. This 
+coupled with the ongoing recession, couldn't have come at a worse time 
+with the local government having had to cut salaries, announce layoffs 
+and deal with the impact of cutbacks in federal spending.
+    In addition to that other concerns remain. Our neighbors in Puerto 
+Rico remain concerned about where they will be able to secure jet fuel 
+that was once originally supplied by HOVENSA. While we have worked it 
+out to some degree, at one point, there was a threat that a local 
+business was in jeopardy of losing a contract with the Department of 
+Defense due to uncertainty regarding the ability for Hurricane Hunters 
+and other DOD assets to be able to refuel on St. Croix. Those two 
+examples alone reflect the anxiety and concern regarding who will be 
+supplying the Virgin Islands in place of HOVENSA and at what price, but 
+of course it extends to our gas stations and the consumers.
+    With 25% of our population below the national poverty level, and 
+our cost of living 17% higher than the national average and with energy 
+cost rates 4 times the national average, the price of fuel in the 
+future dominates conversations every single day in my district. HOVENSA 
+has recently agreed to continue to supply fuel until the end of the 
+calendar year (they were originally going to stop supplying at the end 
+of June 2012), but before that time the Virgin Islands Water and Power 
+Authority (VIWAPA) will again have to tender to buy more than 2 million 
+barrels of petroleum for its power generating facilities. The response 
+to their recent request for proposals to supply was poor, but before 
+the end of the year a supplier will have to be in place.
+    The majority of the community remains doubtful that there stands a 
+chance that our already burdensome cost of energy per kilowatt hour at 
+.43 for residential and .45 for commercial has a chance of being 
+reduced, once transportations costs of getting the fuel to the Virgin 
+Islands is factored into the price that consumers pay.
+    And so while the focus of this hearing is on the impact of the 
+closures on the Northeast, it is important to bring to the joint 
+committee's attention and concern that in addition to the direct 
+economic impact of the loss of jobs, scholarships for the children of 
+their managerial employees, and the purchasing of supplies from the 
+local companies, as well as the loss of value to those and other 
+businesses, the closure of HOVENSA not only affects consumer prices for 
+gasoline and other petroleum products in the Northeastern states, but 
+has a severe impact in the U.S. Virgin Islands as well.
+    The Committee is also considering natural gas as an alternative 
+fuel. It is clear to me that not having it available was a major factor 
+in HOVENSA's closing, but our utility (VIWAPA) is also compelled to 
+find a way to replace diesel with natural gas to lower the costs to 
+consumers and to burn a clean fuel. Barriers include transportation and 
+storage of LNG and our small economy of scale.
+    As the Committee and the Congress go on to determine what the 
+response will be, and what remedies will be applied please ensure that 
+they will include the entire area of impact which includes the U.S. 
+Virgin Islands.
+                               __________
+
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+                               
+Prepared Statement of the Honorable John P. de Jongh, Jr., Governor of 
+                        the U.S. Virgin Islands
+    Chairman Casey and distinguished Members of the Joint Economic 
+Committee, thank you for the opportunity to participate in this 
+important hearing and to provide the views of the Government of the 
+U.S. Virgin Islands on the macro economic impact of recent refinery 
+closures on the Northeast. As you know, the U.S. Virgin Islands has 
+been adapting to the sudden closure of one of the largest refineries in 
+the Atlantic Basin, and it is encouraging to the people of the U.S. 
+Virgin Islands to know that this Committee is concerned with the 
+broader economic implications of the loss of refining capacity in the 
+region.
+    HOVENSA, which is a joint venture between Hess Corporation and 
+Petroleos de Venezuela, is one of the 10 largest refineries in the 
+world, located on the island of St. Croix in the U.S. Virgin Islands 
+(``USVI''). On January 18, 2012, after more than 45 years of 
+operations, HOVENSA announced plans to shut down the St. Croix refinery 
+by mid-February. By February 16, 2012, HOVENSA had ceased refining 
+operations and completed closure of the refinery. Discussions between 
+HOVENSA and the USVI concerning future plans for the refinery are 
+ongoing.
+    Prior to closure, HOVENSA had a refining capacity of over 500,000 
+barrels per day (bbl/d) and it produced 350,000 bbl/d in 2011. HOVENSA 
+provided refined oil to meet the needs of the USVI and was an important 
+source of gasoline, home heating oil and other distillate fuels for the 
+eastern part of the United States. HOVENSA was also a major supplier of 
+jet fuel to the United States military.
+    HOVENSA has traditionally sent most of its product to the East 
+Coast and has for many years ``play[ed] a significant role in supplying 
+the Northeast.''\1\ In 2007, the East Coast imported 307,000 bbl/d from 
+HOVENSA, which was two-thirds of the refinery's output that year. While 
+total imports had declined somewhat by 2011, when the East Coast 
+imported 158,000 bbl/d from HOVENSA, imports of gasoline and distillate 
+were steady and HOVENSA continued to be an important supplier of 
+gasoline and distillate to the East Coast. In 2011 (through November), 
+HOVENSA accounted for almost thirty percent of total East Coast 
+distillate imports (which includes ultra-low sulfur diesel or ULSD) and 
+thirteen percent of the gasoline imports.\2\
+---------------------------------------------------------------------------
+    \1\ Potential Impacts of Reductions in Refinery Activity on 
+Northeast Petroleum Product Markets, U.S. Energy Information 
+Administration, at 8 (Feb. 2012).
+    \2\ The HOVENSA refinery closure removes an important source of 
+East Coast Gasoline and distillate supply, U.S. Energy Information 
+Administration, at 1 (Feb. 23, 2012).
+---------------------------------------------------------------------------
+    While retail gasoline prices are often linked to rises in crude oil 
+prices, refinery closures are further impacting gas prices.\3\ Indeed, 
+``[w]hen supply is tight with product inventories diminishing relative 
+to normal levels, product prices can rise, sometimes sharply.''\4\ 
+There is little doubt that HOVENSA's closure has resulted in an 
+increase in gas prices on the East Coast, as well as in the Virgin 
+Islands. Immediately following HOVENSA's January 18, 2012 announcement, 
+gasoline futures rose 2 percent on the New York Mercantile Exchange.\5\
+---------------------------------------------------------------------------
+    \3\ Rising Gasoline Prices 2012, Congressional Research Service 
+(March 1, 2012); Short-Term Energy and Summer Fuels Outlook, U.S. 
+Energy Information Administration (Apr. 10, 2012).
+    \4\ Potential Impacts of Reductions in Refinery Activity on 
+Northeast Petroleum Product Markets, U.S. Energy Information 
+Administration, at 21 (Feb. 2012).
+    \5\ Refinery Closing Threatens Virgin Islands' Debt, Employment, 
+Bloomberg (Feb. 9, 2012).
+---------------------------------------------------------------------------
+    As was noted in a recent study by the U.S. Energy Information 
+Administration, ``[r]efinery closures in the U.S. Virgin Islands and 
+the Philadelphia area are likely to affect product distribution 
+arrangements along the entire East Coast. With the HOVENSA shutdown, 
+both the Lower Atlantic and New York Harbor lose a major source of 
+supply.''\6\ As a result, there are additional supply needs throughout 
+the Northeast. But the lost volumes not only disrupt the supply chain, 
+they also create logistical problems as those volumes need to be 
+replenished from alternate sources, which face problems bringing supply 
+to the East Coast. Specifically, there is difficulty in moving product 
+from the Gulf Coast to the Northeast because the pipeline that delivers 
+product is at or near capacity and shipments from the Gulf Coast to the 
+Northeast are subject to the Jones Act. By contrast, shipments to U.S. 
+ports from the USVI are exempt from Jones Act requirements and thus 
+such obstacles have not been a concern for imports from the USVI.
+---------------------------------------------------------------------------
+    \6\ Potential Impacts of Reductions in Refinery Activity on 
+Northeast Petroleum Product Markets, U.S. Energy Information 
+Administration, at 24 (Feb. 2012).
+---------------------------------------------------------------------------
+    The U.S. Energy Information Administration predicts that as a 
+result of the combined closures of HOVENSA and the Philadelphia 
+refineries, ``[t]he industry may face significant logistical challenges 
+in the Northeast for a year or more, as infrastructure changes will be 
+necessary to accommodate replacement product flows.''\7\
+---------------------------------------------------------------------------
+    \7\ Id. at 3.
+---------------------------------------------------------------------------
+    It should come as no surprise, then, that the East Coast has been 
+particularly affected by rising gas prices experienced throughout the 
+United States. ``The U.S. average retail price of regular gasoline 
+increased almost 7 cents to $3.59 per gallon as of February 20, 2012, 
+about 40 cents per gallon higher than last year at this time. Prices 
+were up across all regions . . .. The East Coast price rose 4.2 cents 
+to $3.65 per gallon, and had the largest increase compared to a year 
+ago, at 48 cents.''
+    Furthermore, it is not only gasoline prices that have been affected 
+by refinery closures. Prices for distillate fuel, primarily ULSD, are 
+expected to rise as well. ``Looking ahead ULSD demand in the Northeast 
+is expected to increase considerably.''\8\ Use of ULSD for 
+transportation is increasing. And rising ULSD prices are particularly 
+problematic in the northeastern United States, where State regulations 
+in New York, soon to be followed by Massachusetts, New Jersey, Vermont 
+and Maine, are beginning to require heating oil to meet the low sulfur 
+levels found only in ULSD. As with gasoline, providing sufficient ULSD 
+``volume to the Northeast will be hampered by logistical constraints. 
+With the [Gulf Coast] pipeline running near capacity, moving the needed 
+product to the Northeast with require Jones Act tankers, which may be 
+in short supply.''\9\
+---------------------------------------------------------------------------
+    \8\ Id. at 9.
+    \9\ Id. at 12.
+---------------------------------------------------------------------------
+    As noted above, the USVI supplied thirty percent of the East 
+Coast's distillate imports in 2011. With the closure of HOVENSA the 
+East Coast has lost an important source of ULSD at a time when industry 
+analysts warn that demand is on the rise and there are limited 
+possibilities for replacing the lost volume.
+    All of this is to say nothing of the catastrophic impact of the 
+HOVENSA closure on the USVI itself, which has lost not only its largest 
+employer and taxpayer but also its sole existing source of gasoline and 
+the fuel oil that powers its electricity and water supplies. The 
+economic problems triggered by the loss of the Pennsylvania refineries 
+are magnified many times over in the USVI, which now faces not only 
+higher fuel prices but also substantial increases in utility prices and 
+a dramatic loss of public revenue.
+    I hope this brief letter helps the Committee to understand the 
+important role the USVI has played in supplying the East Coast with 
+gasoline and distillate imports and the significant impact the closure 
+of HOVENSA has had on East Coast supplies.
+    Please let me know if you have any questions or if my 
+administration can provide any further information.
+                               __________
+ Prepared Statement of Denis Stephano, President, United Steelworkers 
+  (USW) Local 10-234, Representing Oil Refinery Workers at the former 
+                    ConocoPhillips Co., Trainer, PA
+    My name is Denis Stephano and I am president of United Steelworkers 
+(USW) Local 10-234 at the former ConocoPhillips refinery in Trainer, 
+Pa. Before ConocoPhillips shut down the refinery at the end of January, 
+my local represented 234 operations and maintenance workers. We worked 
+alongside an average of 150 contractors and 200 salaried personnel.
+    On May 1, Delta Air Lines' wholly-owned subsidiary, Monroe Energy 
+LLC, reached agreement with Phillips 66 to purchase the Trainer, Pa., 
+facility. The acquisition is supposed to close in the first half of 
+2012. Re-opening this refinery will provide jobs for hundreds of former 
+ConocoPhillips and Sunoco Marcus Hook workers.
+    Even though the former ConocoPhillips refinery has been sold, its 
+purpose mainly will be to produce jet fuel. Sunoco's Philadelphia 
+refinery is still for sale and if it is not bought by the end of August 
+it will shut down. This is the East Coast's largest refinery with 
+335,000 barrels-per-day and analysts say that if this capacity is 
+shuttered oil prices in the Northeast will soar.
+    The Philadelphia refinery alone accounts for nearly a quarter of 
+refinery capacity on the East Coast, and the U.S. Energy Information 
+Administration (EIA) predicts that if it shuts down, ``petroleum 
+product markets in the Northeast could be significantly impacted.''
+    East Coast refineries mainly serve the Northeast, supplying about 
+40 percent of Northeast gasoline sales and 60 percent of distillate 
+(diesel fuel and heating oil) sales in 2010, according to the EIA. 
+About half of the supply came from the three Philadelphia-area 
+refineries. Another supply source for the Northeast was eliminated when 
+HOVENSA (a joint venture between Hess Corp. and Petroleos de Venezuela) 
+in February closed its St. Croix refinery (550,000 b/d) in the U.S. 
+Virgin Islands. This refinery mainly supplied the Northeast with 
+gasoline and Ultra-Low-Sulfur Diesel (ULSD).
+    East Coast refining capacity has been steadily declining since 
+2000. The attached Northeast refinery crude capacity chart shows 
+regional capacity at 1,780,700 b/d in 2000 and it plunges to 773,200 b/
+d in July 2012 if a buyer is not found for the Sunoco Philadelphia 
+refinery. Western Refining has already shut down and sold the Yorktown, 
+Va., refinery and it is being demolished and turned into a terminal. 
+Sunoco's Eagle Point refinery in Westville, N.J., met the same fate.
+    This situation will result in higher prices at the pump and for 
+home heating oil and other petroleum products. With the three 
+Philadelphia-area refineries operating the Northeast can be assured of 
+a steady supply of gasoline, home heating oil and ultra-low-sulfur 
+diesel. Take out the Marcus Hook and Philadelphia refineries and the 
+Northeast becomes subject to fuel supply shortfalls and price spikes 
+while new infrastructure is being put into place during the next 
+several years. The EIA says that ``in the longer run, higher prices and 
+possibly higher price volatility can result from longer supply 
+chains.''
+    The EIA says that adequate refining capacity is available outside 
+of the East Coast to replace the lost capacity, but this makes the 
+Northeast far more dependent on Gulf Coast refineries and fuel imports 
+for its gasoline needs. This presents a major logistical problem. The 
+Colonial Pipeline, which carries most Gulf Coast products to the 
+Northeast, is running near capacity. It is being expanded but the EIA 
+says it still will not be able to make up for the entire lost 
+production from the shutdown of the Philadelphia-area refineries.
+    The second major logistical problem in getting product from the 
+Gulf is the small number of Jones Act tankers. The Jones Act requires 
+that commercial shipments between two U.S. ports must be on U.S.-flag 
+ships that are constructed in the U.S., wholly owned by U.S. citizens 
+and staffed with U.S. citizens and U.S. permanent residents. Only 56 
+such tankers exist and they are usually chartered months in advance, 
+limiting their short-term availability.
+    We view the Jones Act as a critical domestic jobs policy enabler 
+that supports both economic and national security of our shoreline 
+shipping. The USW is a strong advocate of the Jones Act and is a member 
+of the AFL-CIO Maritime Trades.
+    The third major logistical problem is receiving products at ports 
+and connecting into the product pipelines that originate in the 
+Philadelphia-area refining complex to serve inland Pennsylvania and 
+western New York markets. The existing equipment at the ports is 
+designed to unload crude oil and needs substantial modification to 
+handle oil products. Plus, there are few pipelines at the ports that 
+are connected to existing crude oil terminals.
+    Shutting down the Philadelphia-area and HOVENSA refineries also 
+makes it difficult for the Northeast to get ULSD fuel. Demand for this 
+fuel is increasing as states mandate use of it in place of high sulfur 
+heating oil. New York will be the first Northeast state to require ULSD 
+in July 2012. By 2018 the states of Maine, Massachusetts, New Jersey 
+and Vermont will have implemented the ULSD requirement. As the economy 
+improves more ULSD will be needed because it is a required 
+transportation fuel. Obtaining ULSD fuel will be a challenge because 
+the Gulf Coast is the only place to obtain it and the logistical 
+problems mentioned earlier are likely to cause supply shortfalls and 
+price spikes. It is not unconceivable that some people in the Northeast 
+may find themselves having to choose between heating their home and 
+eating. Others literally could freeze to death in their homes.
+    Being dependent on the Gulf Coast for petroleum product supplies 
+also makes the Northeast vulnerable to supply problems arising out of 
+hurricanes that hit the Gulf region. Refineries in the storm's path are 
+shut down in anticipation of the hurricane and afterward it can take 
+several weeks or months to restart the refineries, depending on whether 
+or not the facilities sustained damage.
+    For example, Hurricane Katrina made landfall on Aug. 29, 2005 and a 
+month later 900,000 million b/d of refining capacity remained shut 
+down. Hurricane Rita made landfall several weeks later in September and 
+in early October 2.2 million b/d of refining capacity that had been 
+shuttered by Hurricane Rita remained shut. This meant that, at one 
+time, roughly one-third of U.S. refining capacity was shut down. The 
+Colonial Pipeline was also shut down in anticipation of Hurricane Rita. 
+Afterward, it did not operate at full capacity because of lack of 
+product from the shutdown refineries and problems with electrical 
+supply.
+    Gasoline shortages arose and prices spiked because of these 
+problems. The Philadelphia-area refineries were operating and could 
+churn out gasoline, ULSD and jet fuel to make up for some of the loss 
+from the Gulf Coast. These refineries helped spare the Northeast from 
+some of the pain at the pump. With these refineries gone the Northeast 
+is left vulnerable to the whims of Mother Nature--not exactly a 
+situation that bolsters the region's energy security.
+    Gas prices in the Northeast would have to be high enough to attract 
+Gulf Coast oil products, and the Northeast would also be competing for 
+these products with other countries. These two factors would cause the 
+price of gasoline in the Northeast to remain high.
+    Besides obtaining oil products from the Gulf Coast refineries, the 
+Northeast would increasingly have to depend upon oil product imports 
+from other countries if the Philadelphia-area refineries are shuttered. 
+This also would cause gas prices to rise. This is a particular problem 
+with global tensions running high. Iran has been threatening to shut 
+the Strait of Hormuz and block oil shipments. One-fifth of the world's 
+oil trade passes through there. Since a number of European refineries 
+have been shut down, India and the Far East have been cited as likely 
+sources of gasoline and other fuel imports. These areas are subject to 
+terrorist attack and are in less stable parts of the world.
+    My testimony and the accompanying chart show a disturbing trend by 
+the oil industry to cease refining, while holding onto these viable 
+assets as mere storage. While we understand the oil industry and price 
+fluctuations are global, US energy security and regional economies 
+should not be held hostage to shareholder profits. Our citizens deserve 
+better and Congress should investigate these practices.
+    Thank you for providing me this opportunity to present testimony.
+
+
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+                                  <all>
+
+</pre></body></html>

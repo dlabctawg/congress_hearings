@@ -1,0 +1,2680 @@
+<html>
+<title> - FLYING UNDER THE RADAR: SECURING WASHINGTON, D.C., AIRSPACE</title>
+<body><pre>
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+      FLYING UNDER THE RADAR: SECURING WASHINGTON, D.C., AIRSPACE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                         COMMITTEE ON OVERSIGHT
+                         AND GOVERNMENT REFORM
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED FOURTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             APRIL 29, 2015
+
+                               __________
+
+                           Serial No. 114-25
+
+                               __________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+         Available via the World Wide Web: http://www.fdsys.gov
+                      http://www.house.gov/reform
+                                      ______
+
+                         U.S. GOVERNMENT PUBLISHING OFFICE 
+
+95-250 PDF                     WASHINGTON : 2015 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Publishing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001
+                                               
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+              COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                     JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland, 
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of 
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK MULVANEY, South Carolina        BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+                    Sean McLaughlin, Staff Director
+                 David Rapallo, Minority Staff Director
+ James Robertson, Staff Director for Transportation and Public Assets 
+                              Subcommittee
+                Michael Kiko, Professional Staff Member
+                        Melissa Beaumont, Clerk
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on April 29, 2015...................................     1
+
+                               WITNESSES
+
+The Hon. Paul D. Irving, Sergeant at Arms, U.S. House of 
+  Representatives
+    Oral Statement...............................................     2
+    Written Statement............................................     4
+Admiral William E. Gortney Commander, NORAD/USNORTHCOM
+    Oral Statement...............................................     6
+    Written Statement............................................     7
+Mr. Robert G. Salesses, Deputy Assistant Secretary of Defense, 
+  Homeland Defense Integration and Defense Support of Civil 
+  Authorities, U.S. Department of Defense
+    Oral Statement...............................................    11
+    Written Statement............................................    13
+The Hon. Michael P. Huerta, Administrator, Federal Aviation 
+  Administration
+    Oral Statement...............................................    17
+    Written Statement............................................    19
+The Hon. Joseph P. Clancy, Director, U.S. Secret Service
+    Oral Statement...............................................    23
+    Written Statement............................................    25
+Mr. Robert D. MacLean, Chief, U.S. Park Police
+    Oral Statement...............................................    30
+    Written Statement............................................    32
+Ms. Kim C. Dine, Chief of Police, U.S. Capitol Police
+    Oral Statement...............................................    33
+    Written Statement............................................    35
+
+                                APPENDIX
+
+Letter from Rep. Mica to Chief Dine, USCP, submitted by Rep. Mica    80
+House Sergeant at Arms email alerts the day of the incident, 
+  submitted by Rep. Mica.........................................    82
+Statement for the record, submitted by Rep. Connolly.............    84
+
+ 
+      FLYING UNDER THE RADAR: SECURING WASHINGTON, D.C., AIRSPACE
+
+                              ----------                              
+
+
+                       Wednesday, April 29, 2015
+
+                  House of Representatives,
+      Committee on Oversight and Government Reform,
+                                            Washington, DC.
+    The Committee met, pursuant to notice, at 10:01 a.m., in 
+room 2154, Rayburn House Office Building, Hon. Jason Chaffetz 
+(chairman of the Committee) presiding.
+    Present: Representatives Chaffetz, Mica, Jordan, Walberg, 
+Amash, Farenthold, Lummis, Massie, Meadows, Mulvaney, Walker, 
+Hice, Carter, Grothman, Palmer, Cummings, Maloney, Norton, 
+Lynch, Connolly, Cartwright, Kelly, Watson Coleman, DeSaulnier, 
+and Lujan Grisham.
+    Chairman Chaffetz. The Committee on Oversight and 
+Government Reform will come to order. And, without objection, 
+the chair is authorized to declare a recess at any time.
+    As we get going, I need to first express my thoughts and 
+prayers to my colleague, Elijah Cummings, and what the people 
+of Baltimore are going through. Our hearts and prayers and 
+thoughts are with you and your neighbors and your friends and 
+your community, the police officers.
+    We are proud of you and the way you are conducting this and 
+getting through it, and you are a true leader. I would hope the 
+people of Baltimore, Maryland, would listen to your message, 
+but know that our thoughts and prayers are with you.
+    Mr. Cummings. Mr. Chairman, I want to take this moment to 
+not only thank you, but thank the members of our Committee, who 
+have expressed their concern about Baltimore. And you, Mr. 
+Chairman, have a kind of unique perspective because you had a 
+chance to visit Baltimore with me before you even became 
+chairman. And so you had a chance to see what the issues are in 
+our city.
+    So I am looking forward to working with you and others to 
+try to heal some of that pain. And I do appreciate you. And I 
+will never forget your visit, and the people in my city will 
+not forget your visit. Thank you for your comments.
+    Chairman Chaffetz. Well, thank you. We will be conducting 
+this hearing a little differently today. I am going to ask 
+unanimous consent that we are going to change the order here, 
+that we will recognize our panel, allow them to give their 
+opening Statements, and then we will go into recess. We will 
+reconvene. We will give our opening Statements and then we will 
+get into questions.
+    But given that we have the very historic presence of the 
+Japanese Prime Minister here to address a joint session of 
+Congress, we are particularly sensitive that, for instance, one 
+of our witnesses, the House Sergeant at Arms, Mr. Paul Irving, 
+has to leave us early in order to fulfill his duties. And to 
+accommodate his schedule, I would ask unanimous consent to 
+forego opening Statements. For us, we will come back and give 
+them later and swear in the witnesses and begin their 
+testimony.
+    Without objection, so ordered.
+    We will get as far as we can and recess so Members can join 
+the joint session. We will reconvene 30 minutes after the 
+conclusion of the joint session to continue our hearing.
+    Without objection, so ordered.
+    So we will now recognize our panel of witnesses.
+    First we have the Honorable Paul Irving, Sergeant at Arms 
+at the U.S. House of Representatives. Mr. Irving is accompanied 
+by Mr. Tim Blodgett, Deputy Sergeant at Arms, whose expertise 
+may be needed during questioning.
+    We also have Admiral William Gortney, Commander of NORAD/
+USNORTHCOM; Mr. Robert--help me with the pronunciation----
+    Mr. Salesses. ``Salesses.''
+    Chairman Chaffetz [continuing]. Salesses, Deputy Assistant 
+Secretary of Defense, Homeland Defense Integration and Defense 
+Support of Civil Authorities at the United States Department of 
+Defense; the Honorable Michael Huerta, Administrator of the 
+FAA, the Federal Aviation Administration; the Honorable Joseph 
+Clancy, Director of the United States Secret Service; Mr. 
+Robert MacLean, Chief of the United States Park Police; and Mr. 
+Kim Dine, Chief of the United States Capitol Police.
+    We welcome you all.
+    Pursuant to Committee rules, all witnesses are to be sworn 
+before they testify.
+    Mr. Blodgett you are included as well.
+    We would ask that all the panel please rise and raise your 
+right hand.
+    Do you solemnly swear or affirm that the testimony you are 
+about to give will be the truth, the whole truth, and nothing 
+but the truth?
+    Chairman Chaffetz. Thank you. You may be seated.
+    Let the record reflect that all the witnesses answered in 
+the affirmative.
+    All of your written Statements will be entered into the 
+record. We would ask that you would limit your verbal comments 
+to 5 minutes. We are going to recognize Mr. Irving first.
+    At the conclusion of those remarks, we are going to excuse 
+him so that he can tend to the duties of escorting the Prime 
+Minister into the House of Representatives.
+    Mr. Irving, you are now recognized for 5 minutes.
+
+                       WITNESS STATEMENTS
+
+                STATEMENT OF HON. PAUL D. IRVING
+
+    Mr. Irving. Thank you.
+    Good morning, Mr. Chairman, Mr. Cummings, and members of 
+the Committee. I appreciate the opportunity to appear before 
+you today.
+    As Sergeant at Arms and Chief Law Enforcement Officer of 
+the House of Representatives, I'm fully dedicated to ensuring 
+the safety of the entire Capitol Complex, a mission performed 
+in close partnership and cooperation with the U.S. Capitol 
+Police Board and the men and women of the United States Capitol 
+Police.
+    Before I begin, though, I would like to extend my thanks to 
+all the men and women of the U.S. Capitol Police for their 
+capable and professional response to the indicant on April 15. 
+U.S. Capitol Police officers and officials promptly responded 
+to the west front and arrested the individual and ensured the 
+craft was harmless.
+    We are currently working closely with our partners in 
+Federal law enforcement, the Departments of Defense, 
+Transportation, and Homeland Security to maintain robust 
+airspace security within the challenging confines of the urban 
+environment of the national capital region, in particular, 
+working with our partners to ensure the most efficient and 
+robust early detection, tracking and warning systems, ensuring 
+there is consistent and constant interagency communication and 
+early warning communicated in realtime, improving and ensuring 
+immediate and ongoing communications and alerts to members and 
+staff during a security incident, and honing the 
+countermeasures and policies consistent with those 
+countermeasures.
+    Since the event, I've ordered the Chief of the Capitol 
+Police to utilize the House notification system to alert 
+members, staff and, to the extent possible, visitors in as 
+timely a manner as possible to alert regarding all life, 
+safety, and potentially threatening events that affect the 
+Capitol community.
+    The incident on April 15 reminds us all the greatest asset 
+of the Capitol, its very openness and accessibility, can, at 
+times, be one of our greatest challenges. However, every 
+incident allows us to refine our capabilities, enhance our 
+training, and be better prepared for every eventuality.
+    I am happy to answer questions. Thank you, Mr. Chairman.
+    [prepared Statement of Mr. Irving follows:]
+    
+  [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]  
+    
+    
+    Chairman Chaffetz. I thank you. Please be excused and tend 
+to your duties. We thank you and we look forward to seeing you 
+at the conclusion of that event.
+    Mr. Irving. Thank you.
+    Chairman Chaffetz. Admiral, you are now recognized for 5 
+minutes.
+
+
+             STATEMENT OF ADMIRAL WILLIAM E. GORTNEY
+
+
+    Admiral Gortney. Chairman Chaffetz, Ranking Member 
+Cummings, and distinguished members of the Committee, I'm 
+honored to be here today. From a national security perspective, 
+I want to emphasize the sensitivity of these discussions in an 
+unclassified environment.
+    An open discussion of even unclassified information could 
+be pieced together to pose a risk to our national security. 
+Therefore, I cannot go into many of the specific details I deem 
+sensitive in an unclassified environment. However, in a closed 
+session, I'm ready and able to talk to you in much detail as 
+you need.
+    NORAD's role is to provide aerospace warning and control to 
+defend the United States and Canada, including the national 
+capital region, from all potential air threats. The airspace 
+surrounding the national capital region, known as the 
+Washington, DC, special flight rules area, is monitored by a 
+sophisticated integrated air defense system, which is a vast 
+network of radars, cameras, and other detection warning 
+devices. Each system is designed to detect, track, and monitor 
+specific parameters.
+    The integrated air defense system was implemented following 
+and in direct response to the terrorist attacks of 9/11 has 
+continued to evolve with the threat over time. We are extremely 
+capable of identifying and tracking potential threats to the 
+national capital region, anything from commercial aviation down 
+to small single-propeller-sized aircraft like Cessnas.
+    However, a small manned gyrocopter or a similar low-
+altitude, low-speed aerial vehicle, despite its assessed low 
+threat, presents a technical challenge.
+    This is an interagency effort that collectively understands 
+the technical challenges associated with these types of threats 
+and vehicles, and with our partners here at the table, we will 
+continue to implement technical and procedural solutions to 
+close any seams.
+    I know the Committee has questions, and I look forward to 
+talking with you today.
+    [Prepared Statement of Admiral Gortney follows:]
+   
+   [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Chairman Chaffetz. Thank you. Appreciate it.
+    Mr. Salesses.
+
+                 STATEMENT OF ROBERT G. SALESSES
+
+    Mr. Salesses. Thank you, Chairman Chaffetz, Ranking Member 
+Cummings, and distinguished members of the Committee. I'd like 
+to thank you for the opportunity to address the Department of 
+Defense's role in securing the airspace of Washington, DC. I'd 
+like to acknowledge that aspects of this issue are very 
+sensitive for the Department of Defense from a national 
+security standpoint.
+    I look forward to continuing this discussion in a 
+classified setting. Because I know there's much to discuss, I 
+will be brief. To this end, there are four points I would like 
+to emphasize today.
+    No. 1, defending the United States is the Department of 
+Defense's highest priority. No. 2, the Department of Defense is 
+well postured to defend the United States. No. 3, the 
+Department works very closely with its Federal partners and law 
+enforcement to protect the national capital airspace. And, 
+last, the Department continually pursues opportunities to 
+enhance our homeland defense capabilities.
+    The national security strategy makes it clear that the U.S. 
+Government has no greater responsibility than protecting the 
+American people. Our national defense strategy make protecting 
+and defending the homeland the Department's first priority.
+    To the men and women of the Department of Defense, military 
+and civilian, these specific words are the reason they serve in 
+the very core of their professional lives. Every day these fine 
+men and women, whether serving here at home or some far-off 
+location across the globe, dedicate themselves to protecting 
+the American people and defending the United States.
+    Due to the leadership of the President, the Secretary of 
+Defense, and the Congress' steadfast support, DOD is well 
+postured with the authorities and capabilities necessary to 
+defend the homeland. Under Admiral Gortney's leadership and 
+command, the men and women of NORAD execute Operation Noble 
+Eagle, monitoring the U.S. Airspace, conducting military 
+operations to dissuade, deter, and, if necessary, defeat 
+airborne threats.
+    In this effort to secure the skies over our Nation's 
+Capital, the men and women of the Department of Defense do not 
+serve alone. They are joined by the counterparts at the 
+Department of Homeland Security, the Department of 
+Transportation, the Department of Justice and our law 
+enforcement partners in a whole-of-government approach to 
+protecting the national airspace.
+    Working together, we have built a network of barriers to 
+protect the national airspace system against any and all 
+threats. We have improved our threat detection capabilities, 
+integrated our threat responses, and refined our procedures to 
+optimize response effectiveness.
+    We continually look for opportunities to improve our 
+defenses. We understand that, no matter how good we are, the 
+adversary remains committed and we can always be better.
+    To this end, we're dedicated to continual improvement over 
+our policies, procedures, and operational capabilities. Working 
+with our Federal partners, we test, we plan, we exercise to 
+improve our effectiveness. This is what the Nation expects. 
+We're committed to meeting this expectation, and this is our 
+obligation.
+    Thank you for the opportunity to appear before you today. 
+We appreciate your leadership, Mr. Chairman and members of the 
+Committee, and your support of the men and women of the 
+Department of Defense. I look forward to your questions.
+    [Prepared Statement of Mr. Salesses follows:]
+    
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Chairman Chaffetz. Thank you.
+    Mr. Huerta.
+
+               STATEMENT OF HON. MICHAEL P. HUERTA
+
+    Mr. Huerta. Thank you, Chairman Chaffetz, Ranking Member 
+Cummings, members of the Committee, for the opportunity to 
+appear before you today.
+    I'd like to address your questions about the recent 
+gyrocopter incident by explaining the FAA's role in airspace 
+security and how we coordinate with other agencies.
+    First and foremost, the FAA's mission is aircraft and 
+airspace safety. We operate the Nation's air traffic control 
+system in order to separate aircraft. Our primary focus is on 
+getting aircraft safely to their destinations and managing the 
+flow of thousands of aircraft and their passengers around the 
+country every day.
+    In addition to the FAA's safety mission, we also work very 
+closely with the Departments of Defense and Homeland Security 
+on a daily basis to support their aviation security missions, 
+particularly here in the capital region. As part of that 
+support, we provide them a raw air traffic radar feed so they 
+have situational awareness of what is happening in our national 
+airspace system.
+    To enable our controllers to safely control air traffic, 
+the first thing we have to do is distinguish the aircraft that 
+are communicating with controllers from all other objects in 
+the air that are not aircraft. These other objects that the 
+radar detects could be things like vehicles on nearby roadways, 
+flocks of birds, weather events, or occasional kites and 
+balloons.
+    Air traffic controllers could not do their jobs if they had 
+to work with an unfiltered radar feed. They would not be able 
+to distinguish the aircraft they are charged with safely 
+handling from other elements on their radar scopes.
+    We require aircraft that fly in the airspace around 
+Washington, DC, and other large cities across the country to 
+use transponders that broadcast basic information, such as the 
+type of aircraft, its speed, direction, and altitude. When 
+radar detects those aircraft, it picks up the transponder 
+information and it displays it on the air traffic controller's 
+radar scene.
+    Controllers can see all the flights in the specific area 
+along with the identifying information from each aircraft. 
+Anything that doesn't have a transponder shows up as an image 
+representing a simple small dot on the radar screen, and there 
+are typically many of them across the controller's radar 
+screen.
+    To assist controllers in focusing on safely managing air 
+traffic, we apply filters to the controller's radar to 
+eliminate the vast majority of those small dots. Safely 
+managing air traffic is a controller's mission, and they must 
+be able to do that without distraction.
+    Now, to support national and Homeland Security, the FAA 
+shares a realtime unfiltered radar feed with our partners at 
+the Department of Defense and several other agencies. We do 
+that so they have the same information that we have and so they 
+can apply the appropriate filters for their own mission to 
+protect the airspace.
+    We also embed technical air traffic staff at a number of 
+North American Aerospace Defense Command facilities around the 
+country to provide additional operating expertise and support.
+    On April 15, Mr. Hughes' gyrocopter appeared on our radar 
+as one of those small unidentified elements, indistinguishable 
+from all other non-aircraft radar tracks. The National Capital 
+Region Coordination Center called the FAA at 1:24 p.m. that 
+afternoon to alert us to the flight based on information they 
+received from the U.S. Capitol Police.
+    After the incident, we conducted a forensic radar analysis 
+and looked for an image that might match Mr. Hughes' 
+gyrocopter. We understood he had taken off from a small airport 
+in Gettysburg, Pennsylvania, and we had an approximate time.
+    So we looked at unfiltered radar data. A trained radar 
+analyst identified a slow-moving image that traveled from 
+Gettysburg toward the capital and vanished from radar at about 
+the time Mr. Hughes landed on the west lawn. We now believe 
+that unidentified radar element was Mr. Hughes' gyrocopter. But 
+the dot appeared only intermittently throughout that flight.
+    When we got the call from the Capitol Police, we 
+immediately notified our interagency partners on the Domestic 
+Events Network, or DEN, a 24-hour, 7-days-a-week communication 
+line we operate to support a shared situational awareness among 
+our agency partners.
+    We initiated the DEN more than a decade ago to quickly 
+share information about activity in the airspace with multiple 
+agencies. It now includes more than 130 Federal and local 
+agencies as well as major FAA air traffic facilities around the 
+country. The DEN has played a critical role in disseminating 
+important operational information to other agencies as quickly 
+as possible.
+    Each agency has a responsibility to announce an airspace 
+incident on the DEN as soon as they know about it. We're 
+committed to our safety mission at the FAA, and we're dedicated 
+to working closely with all of our airspace security partners 
+to support protection of our airspace.
+    We're assisting the Department of Homeland Security in its 
+ongoing interagency review, and this is in addition to our own 
+internal review to ensure that FAA employees followed all the 
+proper procedures and protocols during the event. If we need to 
+make changes as a result of these efforts, we will. And I will 
+keep the Committee informed.
+    I would be happy to take your questions.
+    [Prepared Statement of Mr. Huerta follows:]
+   
+   [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Chairman Chaffetz. Thank you.
+    Director Clancy.
+
+               STATEMENT OF HON. JOSEPH P. CLANCY
+
+    Mr. Clancy. Good morning, Chairman Chaffetz, Ranking Member 
+Cummings, and distinguished members of the committee. Thank you 
+for the opportunity to be here to discuss the Secret Service's 
+role within the broader effort to secure the airspace of the 
+national capital region, or the NCR.
+    The longstanding relationships between interagency 
+partners, many of which are represented here today, are 
+critical to ensuring the security of people in places given 
+protection by the Secret Service and others.
+    The Secret Service must be prepared to confront and defeat 
+evolving threats, including those from small manned and 
+unmanned aircraft systems. As these technologies become both 
+more advanced and more widely available, the Secret Service 
+will continue to work aggressively with our partners to address 
+existing threats and anticipate those to come.
+    Existing FAA flight restrictions in the NCR were enhanced 
+following the 9/11 terrorist attacks. The FAA implemented the 
+special rights--I'm sorry--the special flight rules area, which 
+includes within its boundaries the flight restricted zone and 
+prohibited area, P-56, or Area 56. The White House, the Vice 
+President's residence, and the U.S. Capitol are located within 
+the P-56.
+    The Secret Service's role in the administration of the 
+restricted airspace is limited to issuing waivers for access to 
+the P-56 in consultation with the Capitol Police and the Park 
+Police.
+    Airspace security for the NCR is coordinated by the 
+interagency National Capital Region Coordination Center. The 
+Center was created after the September 11, 2001, terrorist 
+attacks to provide realtime information-sharing and tactical 
+coordination to address potential airborne threats in and 
+around the Washington, DC, area.
+    It is staffed at all times with specially trained personnel 
+assigned to the Secret Service Airspace Security Branch in 
+addition to representatives from the military, the FAA, and 
+selected Federal civilian law enforcement agencies.
+    The mission of the Secret Service Airspace Security Branch 
+is to give early notification to the protective details and 
+uniform division and provide realtime information to allow 
+appropriate time to make informed decisions about actions to 
+take to ensure the security of our protectees and protect its 
+sites.
+    Given the pace at which events can unfold in an air 
+incursion, maximizing the time to react is critical. Presently 
+the Airspace Security Branch combines radar feeds from a number 
+of sources to create an image of the airspace. This image is 
+monitored by the detection system specialists who have military 
+or civilian radar backgrounds.
+    With respect to the history between the Secret Service and 
+Douglas Mark Hughes, the pilot from the April 15 incident, 
+Hughes first came to the attention of the Secret Service on 
+October 4, 2013. At that time, the Secret Service obtained 
+information that Hughes intended to fly a single-seat aircraft 
+onto the grounds of the Capitol or the White House with no 
+specific timeframe provided.
+    That same day the Secret Service relayed the information to 
+our law enforcement partners at the Capitol Police. The 
+following day special agents from the Secret Service 
+interviewed Hughes, who denied owning an aircraft or having 
+plans to fly one to Washington, DC. However, subsequent 
+corroborative interviews revealed differently.
+    Further, the investigation revealed no evidence of an 
+interest in persons or places protected by the Secret Service, 
+and information regarding Hughes was made available to other 
+interested law enforcement agencies in the national capital 
+region.
+    Regarding events leading up to the April 15 incident--I 
+went to be clear--at no time did the Secret Service receive 
+actionable advanced notice or any information that this event 
+was taking place.
+    While the Secret Service received telephone calls on the 
+date of the incident, at no time was information provided in 
+the calls that would have alerted our personnel to the fact 
+that Hughes was piloting his aircraft to the Capitol.
+    As the gyrocopter flew in the direction of the Capitol, it 
+was observed by Secret Service personnel in the area of the 
+White House complex. These individuals subsequently relayed 
+that information through their chain of command. While in the 
+process of making the appropriate notifications, the aircraft 
+landed and the incident was acknowledged on the FAA Domestic 
+Events Network, effectively notifying all relevant parties.
+    That day and the days to follow, the Secret Service field 
+offices gathered information regarding Hughes and his 
+activities leading up to the event. While the Capitol Police 
+are the lead investigative agency in this matter, the Secret 
+Service stands ready to continue to contribute any resources 
+necessary and to work collectively with our partners.
+    Protection of the President, his family, and the White 
+House is paramount to this agency. The partnerships represented 
+here today are critical to the success of our mission as it 
+relates to effectively addressing airborne threats. Continued 
+interagency coordination is vital to ensuring safety and 
+security in the airspace of the NCR.
+    Chairman Chaffetz, Ranking Member Cummings, and members of 
+the committee, this concludes my testimony. I welcome any 
+questions you may have.
+    [Prepared Statement of Mr. Clancy follows:]
+   
+   [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Chairman Chaffetz. I thank the Director.
+    Chief MacLean.
+
+                 STATEMENT OF ROBERT D. MacLEAN
+
+    Chief MacLean. Mr. Chairman, Ranking Member Cummings, and 
+members of the Committee, thank you for the opportunity to 
+discuss the United States Park Police involvement in the April 
+15, 2015, gyrocopter incident in Washington, DC. My name is 
+Robert MacLean. I am the Chief of the United States Park 
+Police.
+    United States Park Police, established in 1791, is the 
+oldest uniformed Federal law enforcement agency in the United 
+States. The Park Police, which is primarily responsible for 
+safety and crime prevention in parkland administered by the 
+National Park Service, has enjoyed a long history of 
+partnership and coordination with the numerous public safety 
+protection, aviation, and defense agencies within the national 
+capital region.
+    In the District of Columbia, the Park Police has primary 
+jurisdiction over Federal parkland, which comprises 
+approximately 22 percent of the District of Columbia, including 
+the National Mall, East and West Potomac Parks, Rock Creek 
+Park, Anacostia Park, McPherson Square, and many of the small 
+triangle parks in the District.
+    The Park Police officers who proudly and diligently patrol 
+Federal parkland every day are trained to identify, report, and 
+investigate violations of law and suspicious or unusual 
+activity. Although the Park Police has an aviation unit that 
+flies law enforcement, MedeVac, and search-and-rescue missions 
+within the national capital region, the Park Police does not 
+have primary responsibility of airspace defense over the 
+Federal parklands.
+    As such, the Park Police does not have radar detection 
+capability to monitor that airspace, nor does it have the 
+appropriate tools to engage or defend against an aircraft in 
+the airspace above these parks. Those primary responsibilities 
+and capabilities rest with other Federal agencies.
+    On Wednesday, April 15, 2015, at approximately 1:20 p.m., a 
+Park Police officer observed and reported an aircraft later 
+identified as the gyrocopter operated by Mr. Doug Hughes. It 
+was operating near the Lincoln Memorial and estimated to be 
+approximately 100 feet off the ground and traveling eastbound 
+toward the United States Capitol.
+    The officer made a request to the Park Police Dispatch 
+Center to contact the United States Capitol Police. The patrol 
+supervisor confirmed the observation and requested the Park 
+Police Dispatch Center notify the Park Police Aviation Unit, 
+which, in turn, contacted the National Capital Region 
+Coordination Center to report an aircraft in a restricted 
+airspace.
+    Another Park Police officer observed and followed the 
+aircraft eastbound in his patrol vehicle to where the aircraft 
+landed on the west grounds of the United States Capitol. The 
+Park Police officer arrived at the Capitol Grounds and observed 
+the U.S. Capitol Police arresting Mr. Hughes. At that point, 
+the Park Police became an assisting agency to the United States 
+Capitol Police on the scene and at their command post.
+    Mr. Chairman, this concludes my Statement. I would be 
+pleased to respond to any questions you and other members may 
+have.
+    [Prepared Statement of Chief MacLean follows:]
+   
+   [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Chairman Chaffetz. Thank you.
+    Chief Dine, you are now recognized for 5 minutes.
+
+                    STATEMENT OF KIM C. DINE
+
+    Chief Dine. Mr. Chairman, Ranking Member Cummings, members 
+of the Committee, good morning. And thank you for the 
+opportunity to discuss the event that occurred on Wednesday, 
+April 15, and the actions taken by the United States Capitol 
+Police.
+    I will begin by providing a time line of the events and 
+will gladly answer any questions that you may have. It is 
+important to note that this is an ongoing criminal 
+investigation.
+    On Wednesday, April 15, at 12:59 p.m., an individual from 
+the Tampa Bay Times sent an email to the U.S. Capitol Police 
+public information officer, stating that a local man was 
+planning on flying a gyrocopter as part of a protest and will 
+be attempting to land on the west front. This individual 
+inquired if the USCP was aware of the flight and if permission 
+had been obtained. No time or date information was provided 
+regarding this flight.
+    At 1 p.m., the same individual called the USCP Command 
+Center and Stated to an officer that he had information about a 
+man who was planning to fly a drone onto the Mall and onto the 
+west front of the Capitol. He Stated that he had called the 
+U.S. Secret Service and they advised him to call the United 
+States Capitol Police.
+    He also Stated that this man, who he identified as Douglas 
+Hughes, had received permission from the U.S. Secret Service 
+and the USCP and he was calling to confirm that permission was 
+granted. No time or date or actual information was provided 
+regarding the flight during this telephone phone call either.
+    The officer advised this individual she was not aware of 
+any approvals to land a drone. They were then transferred to a 
+sergeant in the Command Center, and this individual repeated 
+what he had told the officer, except now he referred to the 
+aircraft as gyrocopter. The sergeant advised that no approval 
+existed for a gyrocopter to land on the Capitol Grounds.
+    The caller advised the sergeant that Hughes' live feed 
+could be seen on Hughes' Website, which he provided. At this 
+point in the conversation, the conversation concluded, and 
+during the conversation no mention was made that the landing 
+was imminent.
+    At 1:07 p.m., the U.S. Capitol Police public information 
+officer responded to this email by immediately forwarding it to 
+the Investigations Division and currently the Command Center 
+personnel went into the provided Website, but did not find the 
+live feed noted by the individual from the Tampa Bay Times.
+    The Command Center notified the Investigations Division and 
+the public information officer. As the Command Center was 
+attempting to validate any air flight information with the USCP 
+staff at the National Capital Region Coordination Center, the 
+gyrocopter landed at approximately 1:23 p.m.
+    At 1:21 p.m., just prior to the landing, an officer posted 
+on the Pennsylvania Avenue walkway on the west front was 
+approached by a reporter, who asked if he had seen a helicopter 
+yet. The officer Stated he had not seen a helicopter and then 
+consulted with another officer to determine if they were aware 
+of any prohibited airspace overflights.
+    During this discussion, the officers observed the inbound 
+gyrocopter over Union Square, nearly atop the Grant Memorial. 
+The officers immediately notified the Communications Center and 
+subsequently reported the landing of the gyrocopter. This 
+information was immediately broadcast over the radio for 
+situational awareness and response.
+    The USCP officers immediately assessed the threat in 
+accordance with Department policy and training. USCP personnel 
+quickly facilitated the movement of the public on the west 
+front away from the gyrocopter.
+    Once the gyrocopter rotor stopped, USCP officers quickly 
+approached the subject and took him into custody. The subject 
+did not resist and was compliant with police direction.
+    A K-9 unit immediately approached and swept the gyrocopter 
+and showed interest in the area of the engine and fuel 
+compartment, which was expected. Incident Command was 
+established at 1:26 p.m., the west front was closed, and 
+vehicular traffic was restricted on First Street between 
+Constitution and Independence Avenues, along with Maryland and 
+Pennsylvania Avenues to Third Street.
+    As this was occurring, the Investigations Division provided 
+the commanders in the Command Center with information about the 
+subject from the Internet video publicizing the subject's 
+ownership of the gyrocopter, his intention to deliver a box of 
+letters to Congress in reference to campaign finance reform, 
+and his investigative history with both the USCP and the U.S. 
+Secret Service. The Command Center notified the NCRCC of the 
+situation.
+    While the K-9 sweep was occurring, a Capitol Division 
+commander directed a brief lockdown of the Capitol and of the 
+CVC. When the lockdown was announced via the radio, the 
+Uniformed Services Bureau commander, who was in the Command 
+Center, consulted with the incident commander.
+    The USB commander then decided to lift the lockdown of the 
+Capitol based on the following facts: The K-9 had not alerted 
+to the body of the gyrocopter, but had shown interest only in 
+the area of the engine and fuel compartment; the subject was in 
+custody and compliant with directions; the size of the small 
+package area of the gyrocopter was limited to two backpack-size 
+boxes; information provided by the Investigations Division that 
+the intent of the pilot was clearly expressed in his video; and 
+the USCP had established a strong perimeter from the gyrocopter 
+with distance from the Capitol.
+    The exterior perimeters stayed in effect. Due to the 
+extremely short timeframe between the lockdown order and the 
+direction to lift the lockdown, no messages were sent to the 
+congressional community advising of the lockdown.
+    The USCP Hazardous Devices Section responded to this 
+incident and at 1:36 p.m. utilized a robot to investigate the 
+gyrocopter. Since the robot could not access the two boxes in 
+the gyrocopter, at 2:11 p.m., the ACS section personnel donned 
+protective gear and took x-rays of the boxes.
+    The gyrocopter was determined to be clear of any hazards at 
+2:57 p.m. Traffic cuts were subsequently released and the west 
+front remained closed until the crime scene could be processed 
+and the gyrocopter removed.
+    It is important to note that, while the USCP does not 
+control prohibited airspace over Washington, DC, we do monitor 
+this airspace 24/7 and we are directly linked to other Federal 
+agencies related in this controlled airspace. On April 15, this 
+gyrocopter did not register on radar as a threat and, 
+therefore, was not raised as a concern among our Federal 
+partners.
+    We take the monitoring of prohibited airspace very 
+seriously, which is why we have a designated airspace 
+coordinator and have assigned liaisons at the NCRCC to provide 
+immediate linkage to critical information regarding identified 
+airspace threats.
+    Information about identified airspace threats allows us to 
+make informed decisions regarding the safety of our 
+stakeholders, the congressional community, and Capitol Complex.
+    Thank you again for the opportunity to discuss this event 
+that occurred on Wednesday, April 15, 2015. I am very proud of 
+the professional and immediate actions taken by members of the 
+United States Capitol Police in addressing this incident. I 
+would be happy to answer any questions that you may have at 
+this time.
+    [Prepared Statement of Chief Dine follows:]
+    
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Chairman Chaffetz. Thank you.
+    As previously announced, the committee is going to recess 
+so that Members will be allowed to hear the Prime Minister of 
+Japan as he addresses the joint session of Congress. We will 
+reconvene approximately 30 minutes after the conclusion of 
+that. We appreciate your patience.
+    The committee is in recess.
+    [Recess.]
+    Chairman Chaffetz. The Committee will come to order.
+    I thank you for your patience. I know you are all very 
+busy.
+    The chair would like to notify members, remind members, 
+that no subcommittee will start until the full committee is 
+finished. So we do have two subcommittees that plan to meet at 
+2. We also have votes that will happen on the floor in about 45 
+minutes.
+    We will try to do this as swiftly as possible, but I wanted 
+to note that for members and those that might be showing up for 
+the 2 hearing. That is going to occur in this meeting.
+    But let's address why we are here today, the gyrocopter 
+incident that happened 2 weeks ago. The 9/11 Commission after 
+that terrible, horrific terrorist attack wrote, ``The most 
+important failure was one of imagination. We do not believe 
+leaders understood the gravity of the threat.''
+    We are here today because we need to understand who saw 
+what and when, who communicated what, did it work, did we learn 
+those lessons of tragedies of past. On April 15 a man in a 
+gyrocopter was able to fly through the highly restricted 
+airspace of the national capital region and land on the west 
+lawn of the Capitol. He started off in the north, came, went 
+over the Lincoln Memorial, right past into the airspace 
+surrounding the White House, right past the Washington 
+Memorial, and landed on the lawn of the Capitol. Unbelievable.
+    He first told the Federal authorities about this--it came 
+on the radar about 2 years ago. And the national capital region 
+is unique in that the Department of Defense, Transportation and 
+Homeland Security, along with the Capitol Police, National Park 
+Police, and the congressional Sergeant at Arms all have roles 
+to play in protecting the airspace.
+    As best I can tell, in this region there are roughly 32 law 
+enforcement agencies that have some form of jurisdiction in the 
+safety and security of the Washington, DC, area. But it is 
+still unclear who on this panel was ultimately responsible for 
+first identifying this object entering restricted airspace and 
+then for responding to it.
+    At this point ignorance is no longer an excuse when it 
+comes to drones and small aircraft. In January, a drone crash 
+landed on the White House lawn. It is becoming very common 
+throughout the world. After the gyrocopter incident, a drone 
+with radioactive material landed on the Japanese Prime 
+Minister's residence. Dozens of unaccounted drones have flown 
+over the streets of Paris since last October. And a drone 
+crashed in front of the German Chancellor Merkel at a rally in 
+2013.
+    There have been several instances involving the White 
+House, including helicopters and small aircraft, and this is a 
+pervasive threat. It has been there for a long time. It isn't 
+going anywhere. And when we show this type of vulnerability, I 
+worry that the shine that it will inevitably be taken down and 
+taken down hard has gone away.
+    Someone should have identified that this type of threat we 
+aren't prepared to meet or that our enemies would exploit. Our 
+defensive technology must be able to prevent and respond to 
+unconventional and emerging threats.
+    We need to have that creativity to understand that the 
+would-be terrorists and those people who want to see harm to 
+the United States of America will likely be creative.
+    But in this gyrocopter incident, he was loud and clear what 
+he was going to do. In fact, he was live-streaming it. And yet 
+nobody seemed to pick that up. News outlets did. They sent 
+staff. They sent reporters down on the lawn to watch it.
+    The United States military has researched drones since 
+World War I and for the last 13 years used them to fight 
+against terrorists. Yet, the primary drone detection technology 
+currently used by the FAA, NORAD, the Secret Service, and the 
+Capitol Police is roughly 70 years old.
+    This antiquated technology can't even tell the difference 
+between a bird, a drone, a gyrocopter, or just plain old 
+weather. Even a mylar balloon sets things off where people are 
+hesitant to do anything because it might just be a good old-
+fashioned balloon.
+    I understand we will hear today about the Pentagon's effort 
+to improve our capability to identify and intercept small 
+aerial threats. This is the same technology Customs and Border 
+Patrol has used on the border for years, long periods of time.
+    They have been dealing with this type of gyrocopters and 
+hang gliders and all sorts of these types of small aircraft on 
+the borders for decades. They have been dealing with this for a 
+long time. Did we ever learn any of those lessons? Do we need 
+to bring CBP in here to help protect the capital region? They 
+seemed to figure it out.
+    The stakes are higher, and our agency intelligence-sharing 
+and communications coordination can never ever fail us. We must 
+make sure all agencies with a role in the National security 
+effectively communicate with each other. So, hopefully, we will 
+hear today how the agencies represented here have effectively 
+communicated about threats in their counterparts.
+    Quite frankly, I didn't learn much in your opening 
+Statements. That was as bland as we could possibly have been. 
+We are here to address a serious topic. We are not going to 
+just stand here and say, ``Well, it is classified. We can't 
+talk about it.'' Because, evidently, when you have been talking 
+about it, it hasn't gotten done.
+    I, like other Members of Congress and congressional staff 
+and visitors to the Capitol, also have concerns about the 
+communication breakdown in alerting the Capitol community about 
+this incident. The first Capitol-wide alert came at 5:03 p.m., 
+several hours after the incident was over.
+    While I look forward to hearing about how the Sergeant at 
+Arms and the Capitol Hill Police have updated their policies to 
+prevent a breakdown like this from ever happening again, it 
+certainly shouldn't have ever happened in the first place.
+    It is very disappointing that three of the agencies here--
+the FAA; the Department of Defense, NORAD; and the Park 
+Police--chose not to brief Members of Congress last week. Now, 
+I do appreciate the Capitol Hill Police, the Sergeant at Arms, 
+and the Secret Service for making themselves available.
+    We had four agents, four committees, four committee 
+chairmen, four ranking members, ask for your presence to have a 
+behind-the-scenes, closed-door briefing on this topic. And for 
+whatever reason, the FAA, Department of Defense, and the Park 
+Police refused to brief Members of Congress.
+    That doesn't give us a whole lot of confidence, folks. And 
+we will yank you up here time and time again until we get 
+answers in the public. We are different than the rest of the 
+world. We are different. We are self-critical. Don't take it so 
+personally.
+    Understand this is how we make America the greatest country 
+on the face of the planet. We do this in an open and 
+transparent way. But when you won't even talk to members in a 
+closed-door meeting, that is not acceptable. It is a waste of 
+our time. It is a waste of the other people's time.
+    We need results because we had some yahoo in a gyrocopter 
+land right over there, and it didn't work. And I got these 
+opening Statements from you that shed no light other than a 
+time line and how big a space the Park Police protects. It 
+didn't work. We need candor.
+    I want to again thank Director Clancy, Chief Dine, and Mr. 
+Irving for their responsiveness to the requests. I can tell we 
+have had a lot of interactions with the Secret Service that 
+haven't been the most pleasant, but I will thank that agency 
+for being so accessible in their communications.
+    And particularly Mr. Clancy has made himself available on 
+the mobile phone and calling us and making sure that he is 
+available here, and I want to publicly thank him for that, even 
+though we have had our differences.
+    We understand that the mission is difficult to fulfill, but 
+you are here today because you have been entrusted to 
+accomplish it. We want to help that. We are in the middle of 
+our appropriations season. We can't ever have this mission 
+fail. So we look forward to hearing more about that.
+    Chairman Chaffetz. With that, I will now recognize the 
+Ranking Member, Mr. Cummings, for 5 minutes.
+    Mr. Cummings. Thank you very much, Mr. Chairman.
+    Unlike previous hearings our committee has held with the 
+Secret Service and the DEA which involve misconduct by 
+individual agents, today's hearing presents a different 
+question: How should our Nation deal with the relatively new 
+and evolving threat of unmanned or small manned aerial vehicles 
+entering the airspace over our Nation's Capital?
+    This is a question of technology and policy, both of which 
+are rapidly evolving. In this case, I do not personally believe 
+the answer is to condemn the Capitol Police for not shooting 
+down the gyrocopter. I also do not believe we should rush to 
+criticize Federal agencies charged with responding to this 
+threat.
+    Instead, I believe the best course of action is to work 
+collaboratively with both the Capitol Police and these Federal 
+agencies to understand the threat, understand it, and to 
+strongly support their ongoing efforts to enhance current 
+technologies, many of which are classified.
+    So I thank the chairman for calling today's hearing on this 
+very critical issue. I completely understand the frustration 
+expressed by the chairman and others about this incident. And 
+let me be clear. I share the frustration.
+    I said in a meeting the other day so often what happens is 
+that we have a tendency to tell each other that everything will 
+be fine when the rubber meets the road and then, when it comes 
+time for the rubber to meet the road, we discover there is no 
+road.
+    The airspace around our Nation's Capital is supposed to be 
+the most restricted in the world, yet a postal worker--hello, a 
+postal worker--from Florida was able to fly his gyrocopter 
+through 30 miles of restricted airspace before finally landing 
+on Capitol lawn.
+    In this case, the individual was only trying to make a 
+peaceful demonstration, but we might not be so fortunate in the 
+future. It takes almost no effort to imagine what could have 
+been. What if he had weapons? What if he were carrying a bomb.
+    On the flip side, it is also my understanding, based, in 
+part, on classified briefings we have received, that this 
+individual is incredibly lucky to be alive today. The next 
+person who tries something this stupid--and it was stupid--may 
+not be so lucky.
+    I would like to thank all of the witnesses for testifying 
+here today on such short notice. I also want to thank you for 
+providing briefings last week, both classified and 
+unclassified. Your missions are extremely difficult, and the 
+lives of people throughout the District depend on your success. 
+I look forward to hearing from each of you in an effort to 
+address this very pressing situation.
+    We all agree that our paramount interest is in the 
+continued security of the airspace over the capital and 
+addressing any possible breaches as effectively and efficiently 
+as possible. That is what we are aiming at.
+    This is a critical moment, gentlemen, a very critical 
+moment. By the way, it is wake-up-call time. We live in a 
+dangerous world with complex, constantly evolving threats. So 
+it is imperative that we are prepared to counter them.
+    In addressing these questions today, however, the last 
+thing we want to do, the last thing, is give a road map to 
+those who want to harm us. I hope that you all agree on that. 
+Don't want to do anything that counters what you do every day, 
+and that is trying to protect us.
+    So, obviously, we need to treat this information 
+responsibly, and we do not want to highlight security 
+vulnerabilities to would-be attackers because you can guarantee 
+your bottom dollar they are watching.
+    Out of an abundance of caution, I want to make 100 percent 
+sure that all of our witnesses understand that we do not, we do 
+not, want you to discuss any sensitive information in this 
+public forum.
+    I think all of you know what I mean by ``sensitive.'' And 
+if you don't know, raise your hand now and let me know, and we 
+will try to make sure you are clear on what we are talking 
+about. And I am not trying to be smart either.
+    Many of you have raised concerns about holding a public 
+hearing on this topic, and I understand your concerns. The 
+chairman understands your concerns. Our committee understands.
+    After discussions with the chairman and his staff--and I 
+want to thank him for this--we have agreed to set up a separate 
+cleared room to address any sensitive issues that may arise. 
+The bottom line is that you are the experts and we will defer 
+to you on what can be discussed in this public setting.
+    If our questions call for sensitive information, please let 
+us know, and we can reconvene in the closed setting to address 
+those issues. Our sole purpose today is to help you counter the 
+threats we face, not to expose our Nation's Capital to greater 
+danger by exposing operational details or security 
+vulnerabilities.
+    Now, let me go back to something that the chairman said. 
+And I wholeheartedly agree with him on this. Gentlemen, time is 
+of the essence. Time is of the essence. And I have not come 
+here to ask you. I have come here to beg you to do whatever you 
+have to do to get the technology if we don't have it, to speed 
+up the technology if it is in the process, to more effectively 
+and efficiently allow you to do the jobs that you are sworn to 
+do.
+    And I want to take this moment again to thank all the 
+people who work with you. They are people who have come out 
+there every day trying to make sure that we are safe. And I 
+want to publicly thank them on behalf of all of us for what 
+they do every day.
+    And I want them to understand--and I know that the chairman 
+agrees with me on this--although there may be criticism, it is 
+about moving to a more effective and efficient system of 
+protection for all of us. And so one of the best ways to do 
+that, of course, is to make sure we have effective oversight.
+    And, again, Mr. Chairman, I want to thank you for calling 
+the hearing. And, with that, I yield back.
+    Chairman Chaffetz. I thank the gentleman.
+    I will now recognize myself for 5 minutes. And it starts 
+with a simple question of who is in charge. You have got a dude 
+in a gyrocopter 100 feet in the air, crossing 30-plus miles of 
+restricted airspace.
+    Whose job is it to detect him? And whose job is it to take 
+him down?
+    Admiral Gortney. Sir, as the commander of NORAD, that's my 
+responsibility, and I'maccountable for that.
+    Chairman Chaffetz. Why didn't it happen?
+    Admiral Gortney. Because we're working against physics, 
+sir. Our system is designed to detect, track, identify. We have 
+a decisionmaking process to decide what to do, and then we 
+engage.
+    And that system is netted sensors, radars, cameras, and 
+other capabilities that are out there. And we employ that 
+system to the best of our ability, mitigate the risk to the 
+best of our ability.
+    But it's only capable down to a particular set of 
+characteristics that the platform that we want to track and 
+defend against is emitting, based on speed and based on size.
+    And I can go into further details in the classified 
+session.
+    Chairman Chaffetz. You are a spokesperson for Michael 
+Cuchara in an article dated April 16 in the Baltimore Sun. You 
+had launched some balloons at the Aberdeen Proving Ground 
+called the Joint Land Attack Cruise Missile Defense Elevated 
+Netted Sensor System, otherwise known as JLENS. It was designed 
+to help officials, ``spot low-flying, slow-moving targets.''
+    Was it working? Was it operational?
+    Admiral Gortney. It's not operational, sir. We put it up in 
+Aberdeen to test it. It's in testing today. It's not netted 
+into our system. And in the investigation we're going to find 
+out, while it's in its test mode, was it able to detect that 
+particular traffic.
+    Chairman Chaffetz. It wasn't operational on that day? You 
+weren't testing at that time?
+    Admiral Gortney. It's not operational. It's in a test 
+process right now. We're using it as a test platform. And it is 
+not integrated into our system. Should it prove to be 
+effective, our choice is to put it into our system and make it 
+operational, but it's not operational today.
+    Chairman Chaffetz. U.S. Customs and Border Patrol uses the 
+tethered aerostat radar system, or TARS.
+    Why aren't you using that?
+    Admiral Gortney. That's why we're putting--we think JLENS 
+has more promise. And the reason we think JLENS has more 
+promise than that is--I'll have to defer to the next session, 
+sir.
+    Chairman Chaffetz. Once you detect something, whose job and 
+role and responsibility is it to take it down?
+    Admiral Gortney. Secretary of Defense, Deputy Secretary of 
+Defense. And if they're not there, it's my decision or to my 
+deputies.
+    Chairman Chaffetz. Whose decision is it if they see 
+something visually, the Capitol Police, Chief Dine?
+    Chief Dine. Mr. Chairman, as officers do every day, if they 
+see something that is a threat to them or anyone else----
+    Chairman Chaffetz. When did they see it?
+    Chief Dine. They saw it seconds before it landed, as it was 
+above the statue at Grant Circle.
+    Chairman Chaffetz. And what was the decisionmaking tree at 
+that point?
+    Chief Dine. They go through their training in terms of 
+threat and use-of-force training. And I believe they, in this 
+instance, made the appropriate decision based on the manner in 
+which it landed, the compliance of the pilot, and the distance 
+from the building.
+    Chairman Chaffetz. So we did have guns trained on it? They 
+decided not to fire?
+    Chief Dine. They made an instantaneous decision to do what 
+they did and quickly arrest him, apprehend him----
+    Chairman Chaffetz. As opposed to shooting it out?
+    Chief Dine. Yes, sir.
+    Chairman Chaffetz. You say in your written Statement that 
+the caller from the Tampa Bay Times, presumably here, advised 
+the Sergeant that Hughes' live feed could be seen on Hughes' 
+Website, which he provided. You later said but it did not find 
+the live feed noted by the individuals from the Tampa Bay 
+Times.
+    Why weren't you able to see it when so many others were? I 
+mean, we had news organizations who were sending their 
+reporters down there because they were watching it.
+    Chief Dine. Yes, sir. Clearly, the media knew about this 
+ahead of time. When we got that call and that one email, we 
+immediately began to investigate. And minutes later he landed.
+    Chairman Chaffetz. You told me last week personally that 
+you would provide to me that email. Yet, we have not been 
+provided that email.
+    Will you provide this committee that email?
+    Chief Dine. Absolutely. Yes, sir.
+    Chairman Chaffetz. We have also asked to meet with the 
+individuals who--I would like this committee, certainly myself, 
+the ranking member, the House Administration, Candice Miller 
+and her ranking member, to meet with the people who had their 
+guns up ready to fire.
+    Will you make those people available to us?
+    Chief Dine. Absolutely. We can work through the United 
+States Attorney's Office. Obviously, as you know, this case is 
+under prosecution.
+    Mr. Cummings. Will the chairman yield just for a second?
+    Chairman Chaffetz. Yes.
+    Mr. Cummings. When will we get the email that the chairman 
+just asked you about? When will we get that? I thought we would 
+have this by now.
+    Chief Dine. I can provide it to you immediately.
+    Mr. Cummings. That means right after this hearing?
+    Chief Dine. Yes, sir.
+    Mr. Cummings. Thank you.
+    Chairman Chaffetz. Last question before I turn it over to 
+the ranking member.
+    You say in your written Statement, Chief Dine, that due to 
+the extremely short timeframe between the lockdown order and 
+the direction to lift the lockdown, no messages were sent to 
+the congressional community advising the lockdown.
+    The gyrocopter landed at 1:23 p.m. You say later in your 
+testimony the gyrocopter was determined to be clear of any 
+hazards at 2:57 p.m. And, yet, it was 5:03 p.m. Before any 
+notice went out.
+    Why did it take so long?
+    Chief Dine. You're absolutely correct, Mr. Chairman. We 
+immediately fixed that. The next day I gave a directive to our 
+people to put out messages to the entire community that affect 
+the community.
+    What no one got was a lockdown message. We did send some 
+messages out to the Senate community based on their direction.
+    But that matter has been fixed. We had an overly complex 
+notification system, and we have immediately fixed that. And 
+that will not happen again.
+    Chairman Chaffetz. To the Sergeant at Arms, Mr. Irving, 
+welcome back. I know you have had some duties there with the 
+Prime Minister.
+    But why didn't we get notification that there was a 
+potential threat?
+    Mr. Irving. Mr. Chairman, frankly, there was a mix-up in 
+the Command Center, lack of communication between my staff and 
+the Capitol Police command staff. That will not happen again, 
+as the Chief said. We have fixed that. So we vow that that 
+won't happen again.
+    Chairman Chaffetz. I mean, they are the same people. They 
+are in the same room. Correct?
+    Mr. Irving. It is correct. They are all in the same room. 
+And the notification should have gone out. It was an error. In 
+most cases, the notifications do go out.
+    We had had an incident the prior weekend. They were 
+flawless. In this case, they were not. And we assure you that 
+it will not happen again.
+    Chairman Chaffetz. Thank you.
+    I will now recognize the ranking member, the gentleman from 
+Maryland, Mr. Cummings, for 5 minutes.
+    Mr. Cummings. Thank you very much, Mr. Chairman.
+    Chief Dine, I wanted to ask you about the Capitol Police 
+and your current policies on when to use lethal force. The 
+chairman and others have suggested that you should have shot 
+down the gyrocopter. But others disagree, and you seem to 
+disagree.
+    This incident was not the first time the Capitol Police 
+have had to make a life-or-death judgment call in a matter of 
+seconds.
+    In 1998, a deranged individual burst through the doors of 
+the Capitol and shot and killed two Capitol Police officers. 
+That was a tragic event, and I am certain that it is on the 
+minds of every single Capitol Police officer who stands guard 
+outside these doors.
+    Chief Dine, do you believe that the shooting in 1998 
+influenced how the Capitol Police handle threats of this nature 
+today and when this incident happened?
+    Chief Dine. Yes, sir. In fact, every threat that this 
+agency and other agencies face ends up influencing the history 
+of that agency and the policies that they put in place.
+    Mr. Cummings. Well, can you please tell us what impact, if 
+any, does that shooting in 1998 have on the policies used by 
+the Capitol Police today? I mean, how did that affect it?
+    Chief Dine. Well, we changed our security posture. And, of 
+course, I would be glad to discuss that more in closed session. 
+But we drastically changed our security posture throughout the 
+Capitol in terms of methods and staffing.
+    In this instance that we're talking about today, obviously, 
+as in any instance where an officer has to make a split-second 
+decision to use force or not to save their lives or others' 
+lives, that's what officers are up against every day.
+    In this particular instance, given all of the 
+ramifications, some of which we discussed in closed session 
+last week, I think they made the appropriate decision.
+    But that's a challenge that officers face every single day, 
+whether it's on one of their checkpoints, during a traffic 
+stop, when they're stopping people around the campus, et 
+cetera.
+    Mr. Cummings. Without going into any classified 
+information, tell me this.
+    This incident that we are talking about today, has that 
+caused you all to change anything about your policies with 
+regard to shoot-downs or lethal force?
+    Chief Dine. We have not changed anything yet, but it has 
+caused us, like those other seminal moments that you 
+referenced, to reexamine how we do business.
+    Mr. Cummings. Now, about 2 years ago, in 2013, there was 
+another incident. A woman drove onto the Capitol Grounds, 
+fleeing law enforcement, and the Capitol Police shot and killed 
+her. We learned later that the woman was mentally ill and that 
+she was not armed and that she had a 1-year-old baby in the 
+backseat of the car.
+    Is that right, Chief Dine?
+    Chief Dine. Yes, sir.
+    Mr. Cummings. Now, while some praised the response of the 
+Capitol Police, others criticized.
+    Chief Dine, what impact, if any, did this incident, that 
+is, this incident that I just talked about, have on your 
+policies for using lethal force?
+    Chief Dine. Ranking Member Cummings, as you know, that 
+matter is under litigation. But I can tell you every time we 
+face one of these instances it causes us to examine and re-
+examine how we do business.
+    And the fact of the matter is, during every one of these 
+instances, it's that police officer on the street that has 
+literally seconds to make a decision about whether their life 
+is in danger or someone else's is in danger, and they do their 
+best to make the best judgment at that time.
+    Mr. Cummings. Now, it seems clear that, in both cases, the 
+officers had to respond almost instantly, as you said, life-or-
+death decisions.
+    With respect to the gyrocopter incident earlier this month, 
+some have suggested that the Capitol Police made a mistake by 
+not shooting him out of the air.
+    Keeping in mind that this is a public session, can you tell 
+us generally what steps the Capitol Police took with respect to 
+using lethal force against the gyrocopter pilot.
+    Chief Dine. Yes, sir. Based on the circumstances of that 
+day, literally seconds, having seen it, having observed it 
+land, the manner in which it landed, the geography from the 
+United States Capitol, the compliance of the pilot, and all of 
+those kinds of things, as well as we discussed in closed 
+session the ramifications which officers have to take into 
+consideration as well when they're considering using lethal 
+force, and the ramifications of that force and the impact it 
+may have on others--all of those decisions are processed 
+literally in a matter of seconds.
+    And that is what happened in this case. And I believe their 
+actions were heroic. They quickly approached, arrested the 
+individual. We screened the vehicle as well K-9-wise and then 
+used additional capabilities after that to make sure everybody 
+was safe.
+    Mr. Cummings. Just out of curiosity, is there simulation 
+for these types of incidents in the training?
+    Chief Dine. Well, frankly, that's something that we're all 
+examining because, when airborne vehicles reach the point where 
+they become a law enforcement issue versus a DOD issue--that's 
+a phenomenon that we're all examining.
+    Mr. Cummings. So you are saying--you didn't answer my 
+question.
+    That is not a part of simulation right now. Is that what 
+you are trying to tell me?
+    Chief Dine. Well, we have the capability to do what we need 
+to do and take any vehicle down. I don't know that historically 
+police agencies have practiced shooting at aircrafts.
+    But that's something that is clearly under--but I want to 
+make it clear we have the capabilities to do what we need to 
+do. I do want to make that clear to the committee.
+    Mr. Cummings. Just two more questions.
+    There seems to be a suggestion that the Capitol Police 
+should have just shot him down.
+    Without disclosing any sensitive information, can you tell 
+us whether the Capitol Police had an opportunity to take down 
+the gyrocopter and, if so, why they didn't.
+    Chief Dine. I would say in this instance the answer is no 
+based on, again, the manner in which it landed.
+    Mr. Cummings. You are saying no to what?
+    Chief Dine. No, sir. They did not literally have the 
+ability to do it based on height and its proximity to other 
+people and all of the ramifications and how quickly it landed 
+and then based on the whole decisionmaking matrix that I 
+mentioned. But there's often a split second or so where an 
+officer has to make that decision.
+    Mr. Cummings. And last, but not least: Why do you say that 
+the Capitol Police officers made the right decision? You have 
+reiterated that over and over and over again, and I just want 
+to know why you feel so sure about that.
+    Chief Dine. Because they, in this instance--and each 
+instance is unique when a police officer faces those kinds of 
+challenges. Each and every one is totally unique with a unique 
+set of circumstances.
+    But in this one, given the timing, given the lack of 
+information about any credible threat, given all of the 
+ramifications that may have taken place had shots been fired, I 
+believe they acted quickly, bravely, and heroically.
+    Chairman Chaffetz. Before the gentleman yields back, I have 
+to ask you a question.
+    I have asked you directly in closed doors and in here 
+whether or not you had somebody with a gun trained on these 
+people that could take him out of the air. And, yet, when Mr. 
+Cummings asked that same question in a different way, you say 
+no. You told me yes.
+    What is it?
+    Chief Dine. We clearly have officers out there with 
+weaponry that are----
+    Chairman Chaffetz. In this instance, with the gyrocopter 
+coming at the Capitol, did you--and it may have been brief. 
+Believe me, I understand you didn't get much advance warning.
+    Chief Dine. Right.
+    Chairman Chaffetz. But did you or did you not have guns 
+trained on this gyrocopter to take him out of the air if he had 
+continued to fly on?
+    Chief Dine. They trained guns on him----
+    Chairman Chaffetz. No. No. No.
+    Did they have guns on him in this instance? Yes or no.
+    Chief Dine. As he was landing.
+    Chairman Chaffetz. So he was in the air?
+    Chief Dine. As he landed. I would say as he landed.
+    Chairman Chaffetz. This is why we have got to talk to the 
+people who are actually----
+    Mr. Cummings. Yes.
+    Reclaiming my time just very quickly, how far was he from 
+the ground? Picking up on where the chairman left off, how far 
+was he from the ground, if you know, when the Capitol Police 
+had an opportunity to shoot him down?
+    Chief Dine. I believe the officer first saw him when he was 
+right above Grant statue, which was literally right atop Grant 
+statue, which is seconds from when he landed.
+    Mr. Cummings. Very well.
+    I yield back.
+    Chairman Chaffetz. We need further clarification of that.
+    I now recognize the gentleman from Florida, Mr. Mica, for 5 
+minutes.
+    Mr. Mica. Thank you, Mr. Chairman and Ranking Member, for 
+holding this meeting.
+    What we have experienced with this incident is, again, 
+another horrible communications failure of the system, and this 
+isn't new.
+    The ranking member just cited back in October 2013 we had 
+the deranged individual, a woman, who actually backed into 
+someone at the White House, came across the entire distance of 
+downtown, metropolitan D.C., went through the barriers, and the 
+communications failed.
+    Chief Dine, I wrote you on October 8, right after that. I 
+said, ``We all appreciate and commend your actions. I am 
+contacting you to request your response about concerns that 
+were highlighted in this tragic act.''
+    No. 1, it is my understanding the Secret Service, Capitol 
+Police, Park Service, and District of Columbia Police, and 
+other agencies have interoperable communications.
+    You know, when I raise this, there are other things here. 
+We spent a quarter of a billion when we did the Capitol Visitor 
+Center in redoing bollards and all of the things after 9/11, 
+and that failed. Those communication systems failed. Now, they 
+failed again.
+    I am stunned. I am still--this is how we get a warning. OK? 
+This device still has not gone off to this instance. My office 
+is right down the hall here. My desk faces out. So I could look 
+at the Capitol lawn.
+    I am sitting there at 1:20 watching what is coming down. 
+And I am on the phone, and I look and there is a police vehicle 
+not on the road, not on the path, but coming up the grass. 
+There is another officer with, I mean, a pretty powerful 
+weapon.
+    I have got pictures of it. We snapped some of the pictures 
+of it. I said to the staff, ``I don't know what is going on, 
+but something's coming down.'' Well, we never heard a thing.
+    This is the first communication that I got. Let me get the 
+exact communication. What is the date here? Well, actually, it 
+wasn't until 5:02. There was no notification. This is a message 
+from the Sergeant at Arms. ``The Capitol have cleared the 
+police activity.'' We never knew what was coming down.
+    Now, granted, a week before, on Saturday, the 11th, we had 
+incredible notice. It was Saturday. Were you here, Mr. 
+Chairman? No. Was anyone here? No one was here.
+    It was a serious situation. Someone ended up, we found out, 
+committing suicide. It worked very well. This thing went crazy. 
+My annunciator went crazy. I got lots of notice.
+    But it is working some of the time, not all of the time. 
+Isn't that right, Chief Dine?
+    Chief Dine. It now will work all the time, sir. And your 
+point is well taken.
+    Mr. Mica. Well, again, I don't think I got a response from 
+you. I asked the staff, ``Where is my letter to Dine from the 
+last incident?''
+    You know, a lot of people around here wanted to sweep this 
+under the table. It was an embarrassing situation. But it can't 
+happen again.
+    Mr. Huerta, FAA, a gyrocopter can lift how many pounds?
+    Mr. Huerta. A small gyrocopter of this----
+    Mr. Mica. 254 pounds. Right?
+    Mr. Huerta. Its weight is about 250 pounds.
+    Mr. Mica. But it can lift, I think, that much. It falls 
+into a category.
+    So you can have a 200-pound individual, right, flying it, 
+we will say?
+    Mr. Huerta. Yes.
+    Mr. Mica. So what capacity does that leave? 50 pounds?
+    Mr. Huerta. It is a very small capacity.
+    Mr. Mica. Mr. Clancy, no one knew what was on that 
+helicopter. You guys didn't know, did you? Did anyone know what 
+was on the helicopter?
+    We were told some time ago, but nobody connects the dots. 
+But we didn't know whether it was letters to the Congressmen or 
+we didn't know whether it was, in fact, 50 pounds of plastic 
+explosive.
+    Mr. Clancy, what would 50 pounds of plastic explosive do to 
+the Capitol building? It would be pretty----
+    Mr. Clancy. It would be devastating.
+    Mr. Mica. Devastating.
+    Nobody knew--wait a second, too. I just heard today you 
+said the FAA domestic network was notified. What time? It went 
+up on the FAA domestic network. Who knows when that was? Huerta 
+or Clancy?
+    Mr. Huerta. About 1:34 in the afternoon.
+    Mr. Mica. That was afterwards?
+    Mr. Huerta. After it landed.
+    Mr. Mica. After it landed.
+    So there is something wrong there on the domestic FAA 
+notice. There is something wrong with the notice with the 
+Capitol Police.
+    At 1:23 you had the guy under arrest. We never knew. I 
+mean, I am not afraid. I have been here through 9/11. If they 
+want to take me out, take me out. Give me a chance. Give our 
+staff a chance. Give us notice. Make this thing work. OK?
+    Again, I don't think it is too much to ask that we get this 
+thing right. And there is a lot at stake, not just saving 
+Members of Congress.
+    We have got new threats. And I brought up the drone before 
+the drone landed on the White House, the White House. They 
+still don't have--we had another jumper, didn't we, Mr. Clancy, 
+just recently?
+    Mr. Clancy. Yes, sir, we did.
+    Mr. Mica. How long before we get the fence increased? I 
+told you I got the name of a great welder. He has welded my 
+fence in Florida. I will get him up here. I've got the name of 
+ADT. We can get them in here to put in systems.
+    But we still don't have the fence secure there, do we? It 
+is not heightened. You can still jump over the fence. How long?
+    Mr. Clancy. Sir, in the summer. The attachment will be 
+attached this summer.
+    Mr. Mica. OK.
+    Yield back the balance of my time.
+    Chairman Chaffetz. Thank the gentleman.
+    I will now recognize the gentleman from Massachusetts, Mr. 
+Lynch, for 5 minutes.
+    Mr. Mica. Mr. Chairman, before you do that, this letter has 
+to be in the record at some point. This is my letter to Chief 
+Dine from some time ago.
+    Chairman Chaffetz. Ask unanimous consent to do that. 
+Without objection, it is ordered.
+    Mr. Mica. It is the only email I got at 5, after it was all 
+over.
+    And one more thing. Would you yield for just a second for 
+the benefit of members.
+    I sent you back--and I was told afterwards the staff said 
+you didn't get it. ``I have searched my messages to see if an 
+alert was sent out on this incident. Was one sent? Congressman 
+John Mica.'' The staff told me we can't respond to you, that 
+you only send these alerts out.
+    So I sent this out the same day after the--well, the day 
+after the incident, finding out if anything had been sent, and 
+I missed it. But there is no way for us to contact you. We need 
+a way to contact you.
+    Thank you.
+    Chairman Chaffetz. Thank the gentleman.
+    We are going to recognize, I guess, the gentlewoman from 
+the District of Columbia, Ms. Norton, first for 5 minutes.
+    Ms. Norton. Thank you very much, Mr. Chairman.
+    This is an important hearing. You can't have an incident 
+like this and not have a hearing. And I know that witnesses 
+understand this. I certainly appreciate the work they do.
+    And I think, essentially, gentlemen, the problem you are 
+facing is getting ahead of risks and threats that may be 
+unbelievable, but that is what the Congress and, for that 
+matter, the public expects you to do.
+    I mean, we are fortunate that that gyrocopter didn't have a 
+chemical or an explosive in it. And, of course, we know that 
+you knew it did not. And we know--and this is why I have 
+question first for Mr. Huerta.
+    I believe we know that it was not possible for existing 
+technology that keeps the violation of an airspace--that we can 
+go, we can catch a helicopter, we can catch a small plane.
+    But, technically, do we have the technology to capture 
+``wigamadoos'' that fly below that airspace that is more 
+typical?
+    Mr. Huerta. Congresswoman Norton, what the FAA provides to 
+the surveillance capability is radar feeds. And radar that the 
+FAA uses for our purposes to separate air traffic is filtered 
+to ensure that a controller is able to safely separate traffic 
+transiting the region's airports and the region's airspace.
+    This very small aircraft flying through is not something 
+that a controller would ordinarily pick up in the course of 
+carrying out their aircraft separation activities.
+    Ms. Norton. So, you see, I am not going to ask law 
+enforcement on the ground to do the impossible, but I am going 
+to ask law enforcement on the ground to tell us ahead of time 
+what the impossible is.
+    I mean, we are asking you to do Star Wars-type thinking 
+about who could fly like you fly a kite. And if we don't think 
+about it, we know who will be thinking about it. So I am 
+interested in separating out what is technically possible and 
+what is technically not possible.
+    And I want to know, Mr. Huerta, why Congress hasn't been 
+asked for the capability to fly below that usual airspace 
+where, by the way, if anybody gets into that airspace, we send 
+National Guard planes up in the air right way, instantly.
+    If we don't have the ability to do something tantamount to 
+that, then the only people who really know it, who can get 
+ahead of the game for us, are those of you who are on the 
+ground who don't have that capability.
+    And we, therefore, have to think about risks that only law 
+enforcement, frankly, has the capability to envision. And I 
+want to know why the Congress hasn't been asked for the means 
+to provide that capability.
+    Mr. Huerta. Congresswoman Norton, what I was referring to 
+is the FAA's surveillance capability that is provided to this 
+whole government effort. But the entire government surveillance 
+network is not limited to that, and I would defer to my 
+colleagues from DOD.
+    Admiral Gortney. Ma'am, I'm prepared to answer that 
+question for you, the investments that Congress has made, but I 
+need to do that in a closed session.
+    Ms. Norton. Thank you.
+    It would be very important for Congress to know can we do 
+it. To say to people on the ground to do it, as Chief Dine 
+says, you see it in a few seconds, take it down, that is not 
+what happens if I try to fly a helicopter into the airspace.
+    So I want to give you the same capability the same time 
+that those who have tried to pierce our airspace have found 
+they just can't do it so we don't see you having to shoot down 
+much up there because you have the technology to do it. And in 
+closed session, we need to know that, and we need to know it 
+now.
+    And one of the reasons we need to know it now is the first 
+thing I find that officials do when they don't have the 
+capability is they keep the public out. They say, ``We know how 
+to make sure nobody gets hurt. Nobody gets in.'' And I am not 
+accusing you of doing that, but I have to tell you it has been 
+often the first reflex.
+    We seem to work on a case-by-case basis. Now we know 
+probably that Chief Dine, that our police officers--because he 
+said they saw it only a few seconds and then they had to get 
+themselves together. But the case-by-case way to go at security 
+assures us that there will be a terrible thing to happen and 
+then we will take care of it.
+    So what I am trying to find out is if we can get the 
+capabilities before you have the obligation even to do 
+something about it because it hasn't occurred yet. And I will 
+be interested in that in closed session.
+    But I am interested in closing down the Capitol. When 
+anthrax occurred, I had to go on the House floor and literally 
+embarrass the police to get the Capitol open. It was closed for 
+months because the Capitol Police couldn't think of a way to 
+keep it open.
+    It was terrible to have the Capitol itself closed. And I 
+want to make sure--I have seen no evidence that the Capitol is 
+being closed, that those grounds are being closed, and I want 
+assurance that that is not taking place.
+    Chairman Chaffetz. Thank the gentlewoman.
+    Does anybody care to comment on that?
+    Ms. Norton. Could I have an answer at least?
+    Chairman Chaffetz. Sure.
+    Ms. Norton. Can people still go where they were able to go 
+before, Chief Dine?
+    Chief Dine. Yes, ma'am. The Capitol is open right now.
+    Ms. Norton. Thank you very much.
+    Chairman Chaffetz. Recognize the gentleman from Michigan, 
+Mr. Walberg, for 5 minutes.
+    Mr. Walberg. Thank you, Mr. Chairman.
+    And thanks to the panel for being here. I think we all 
+understand you have to be right all of the time. They have to 
+be right once. And so we appreciate the fact of what you deal 
+with. I just have relatively few questions that could be asked 
+without going into some closed session.
+    But, first of all, to Director Clancy, I am having a hard 
+time wrapping my mind around the fact that Secret Service had 
+the recognition of this gentleman and his intentions to fly 
+here and to land, as I understand it, on the Capitol sometime 
+before, in 2014, in fact, early 2014, and that Secret Service 
+interviewed Mr. Hughes based on some information he was putting 
+out back in August, September, and October 2013.
+    So with that in mind, with that lead up to it, plus the day 
+of the flight there was also phone calls made from the Tampa 
+newspaper to Secret Service, my question is: Did the Secret 
+Service share all the information that it should have with 
+other relevant law enforcement agencies with responsibility for 
+the D.C. Airspace?
+    Mr. Clancy. Yes, Congressman. On October 4, our Denver 
+field office did get a call from an individual who knew of Mr. 
+Hughes' plan. This is October 2013.
+    We relayed that information to our partners at Capitol 
+Police, and that day we also--that following day we went and 
+interviewed that individual to get more details. As we got more 
+details, we realized that Mr. Hughes, the subject here, lived 
+in Tampa Bay.
+    We sent our Tampa Bay office agents down there to interview 
+him. He denied any interest in any of our protectees, denied 
+any interest in the White House, and he had no indication that 
+he would be flying up into the Washington, DC, area.
+    We did do additional interviews with additional associates 
+who corroborated the first call that we received in Denver that 
+he did have some aspirations to do this. But, again, there was 
+no indication that any of our protectees or any of our 
+protected facilities were--that he had the intent to do this. 
+But we did share the information.
+    Mr. Walberg. But you shared it with them.
+    So, Chief Dine, you had that information back in early 
+2014, that there was an individual of interest, at least, that 
+had some idea to fly and bring letters to Congress in a very 
+unusual way?
+    Chief Dine. Yes, sir. The Secret Service shared that 
+information with us. Yes, sir.
+    Mr. Walberg. What did Capitol Police know about Mr. Hughes 
+and his intentions prior to him landing on the Capitol Grounds 
+subsequent to getting this information? What else came through 
+that should have highlighted something happening?
+    Chief Dine. Subsequent to that case being essentially 
+closed or suspended by us and the Secret Service, nothing up 
+until minutes before he landed. As I had mentioned earlier, we 
+got a fairly cryptic email and a phone call that was not date-
+or time-specific, talking about whether or not--were we aware 
+of this and whether or not he had a permit. That was literally 
+minutes before he landed.
+    Mr. Walberg. But April 15, as I am seeing a time line here, 
+an individual made a call to Secret Service's Tampa field 
+office to warn of Hughes' plan.
+    Was that information shared with you?
+    Mr. Clancy. Sir, on October 15, we received a call from an 
+individual who did not give any time or date or specifics 
+regarding----
+    Mr. Walberg. This was April 15 that I have here.
+    Mr. Clancy. April 15. Yes, sir.
+    Just an individual had called our Tampa Bay office and 
+asked specifically for a specific agent, and we said the agent 
+is no longer assigned to the office. And this individual said, 
+``Well, just let him know I called.'' There was no specifics to 
+Mr. Hughes or to this flight.
+    Mr. Walberg. So the Tampa Bay Times, then, reporter called 
+Secret Service on April 15 at 1.
+    Mr. Clancy. That's correct, sir.
+    Mr. Walberg. He landed at 1:23. So we have got 23 minutes 
+still.
+    Let me ask Chief MacLean to join in here as well.
+    Was there any notification of all the entities that 
+someone, indeed, is starting this flight, is on his way, he is 
+live-streaming it, he may be coming over your territory? Is 
+there any action that can be taken even with the Park Service 
+in stopping someone flying low?
+    Chief MacLean. To answer the first part of your question, 
+the United States Park Police did not have any actionable 
+information--let me correct that--no information regarding Mr. 
+Hughes coming to this area prior to our officer patrolling 
+witnessing the aircraft.
+    Mr. Walberg. Well, Mr. Chairman, I guess it leaves me with 
+great concern that, when information is given, crackpot or 
+otherwise, and then the day that the event takes place we had 
+information that is given and still this person is able to make 
+it all those miles and, more importantly, across the restricted 
+airspace, coming across our monument area, leading up to our 
+Capitol itself and then lands, and nothing happens until this 
+person is on the ground.
+    I yield back.
+    Chairman Chaffetz. I thank the gentleman.
+    I now recognize the gentleman from Massachusetts, Mr. 
+Lynch, for 5 minutes.
+    Mr. Lynch. Thank you, Mr. Chairman.
+    And I thank the ranking member.
+    This is not good. I mean, this is on top of a lot of other 
+incidents that we have been talking about at the White House as 
+well.
+    You know, I get the feeling that, just as before 9/11, if 
+you visited an airport in the United States, we had very little 
+security going on. Yet, if you visited Ben Gurion Airport or 
+Leonardo da Vinci Airport or Heathrow, those countries had 
+dealt with terrorism before us and they were all tooled up. 
+They were ready. They had heavy weapons. They had metal 
+detectors.
+    And, yet, we were lulled into a false sense of security. I 
+get the sense that we are behind the curve again. You know, you 
+visit any of these--the committee's involved in hardening our 
+facilities overseas. And you go into any major capital in 
+Europe or the Middle East or Africa and they are taking 
+precautions that we are not.
+    And I know there is a balance between public access and 
+security, but we have gotten to the point where I am worried 
+about the President. I am worried about his family. I am 
+worried about the security on the grounds here at the Capitol. 
+I am worried about the Supreme Court across the street.
+    And I just have to say that we had advanced notice, albeit 
+you had to connect the dots and you had to talk to each other. 
+This was not good, that a fellow was able to fly in here and 
+land a gyrocopter on the lawn. It is not good. And I know we 
+have got a bunch of reasons why it happened, and it seems like 
+we have got some excuses. But that is just not good enough.
+    And I have a lot of respect for the panel individually. And 
+I don't know if it is a lack of communication between 
+departments, but we have got to do better. Dear God, we have 
+got to do better.
+    Since this guy landed the gyrocopter on the lawn, is there 
+anything that we have done that we would do differently if that 
+were to happen today and someone with nefarious intent, a 
+terrorist, were to do the same damn thing? Anybody? OK.
+    So we are doing basically the same thing that we were doing 
+when this guy did his thing. We need change. We need change.
+    And I don't know--you know, Mr. Clancy, I have got enormous 
+respect for you and the job that you do. I really do.
+    But can you tell me what you need to make the White House 
+safe, the Capitol safe, the Supreme Court safe, with respect to 
+the airspace that you are charged to guard.
+    Mr. Clancy. Yes, sir. Before I address that, I would just 
+like to say, in this particular incident, we believe--and this 
+is a team effort, certainly among the members here on the 
+panel, but certainly among the American people, too. And the 
+Department of Homeland Security has this initiative for see 
+something, say something. And we feel very strongly that 
+Americans need to----
+    Mr. Lynch. But people said something. People said 
+something. A few people said something. And we all saw 
+something. And some of your colleagues saw things or their 
+employees saw things. And this still went forward, right to the 
+door of the Capitol.
+    That is what gets me. And there were a lot of the public 
+that were, you know, exposed to potential danger, people 
+bringing their families here. So it is not just, you know, 
+self-preservation here among Members of Congress. We are 
+worried about the general public as well.
+    Mr. Clancy. Yes, sir. And you're exactly right, sir.
+    I think if, for example, the Tampa Bay Times had informed 
+us prior to departure of this aircraft, we could have had a 
+response team at Gettysburg or law enforcement would have. Or 
+if we were notified a day in advance, days in advance, we could 
+have had law enforcement down in Florida. So I think that's 
+part of that team effort.
+    But in terms of your second question, sir--I'm sorry.
+    Mr. Lynch. Well, look, if your officers are on the ground 
+or your agents are on the ground and they see--what are the 
+orders--just at a very basic level, what are the orders for a 
+Capitol Police officer or a Secret Service agent that there is 
+an object flying toward the Capitol? Are we still stand and 
+watch? Are we still passive or are they under orders to do 
+something?
+    Mr. Clancy. Sir, for the Secret Service, I'll just say 
+that, first, it's communication and then we take a defensive 
+posture.
+    We rely on the radar that we see and the communication to 
+take a defensive posture if we need to move any of our 
+protectees or any of the guests by our protected facilities. So 
+that's our first move, cover and evacuate.
+    Mr. Lynch. That doesn't work very well with a suicide 
+bomber or something like that, though. I mean, obviously, you 
+shelter in place to the degree you can, but----
+    Mr. Clancy. Yes, sir.
+    Mr. Lynch. I don't know. I just think maybe we have got to 
+talk about this more in a classified briefing. But this cannot 
+stand.
+    I yield back.
+    Mr. Cummings. Will the gentleman yield?
+    Mr. Lynch. Sure.
+    Mr. Cummings. Thank you very much.
+    I have got to ask you this. This is getting to be very 
+painful.
+    Mr. Clancy, you said that it is a team effort. I agree. But 
+the gentleman just asked a question, and the silence was 
+chilling.
+    He asked a question--and I am talking to all of you now--
+are we doing--and I just--if it is classified information, tell 
+us, and we will deal with it. But I do need to know a yes or 
+no.
+    Have we done things now that put us in a better position 
+than where we were on the day of this offense? And I don't want 
+silence. It is not good enough.
+    Chief Dine. Sir, the answer is yes. And I would be glad to 
+discuss that in a closed session.
+    Mr. Cummings. And has that been a team effort?
+    Chief Dine. Yes, sir.
+    Mr. Cummings. Very well. Thank you.
+    Chairman Chaffetz. I now recognize the gentleman from North 
+Carolina, Mr. Meadows, for 5 minutes.
+    Mr. Meadows. Thank you, Mr. Chairman.
+    So let me pick up on this team environment. Prior to this 
+incident, how many times have all of you met as an agency to 
+discuss new technology that may be a threat to the Capitol or 
+the White House or to other assets? How many times have you all 
+met together prior to this incident to discuss that?
+    Mr. Salesses. Congressman, if I can take that, 
+individually, I can't say that we have all met frequently at 
+all. But there is a lot of working done among the Federal 
+departments.
+    Mr. Meadows. So it is not frequent. So how often? How many 
+times have you done it, where all of you have gotten together? 
+You are the team. You talk about the team. Now, we know a lot 
+about teams. The Bad News Bears were a team, too, and they 
+didn't do real well.
+    Mr. Salesses. But, Congressman, if I could, our staffs work 
+together.
+    Mr. Meadows. So have your staffs all been in a room to 
+discuss that prior to this incident? And, if so, how many 
+times?
+    Mr. Salesses. Sir, first of all----
+    Mr. Meadows. Do you know how many times?
+    Mr. Meadows. Do you know how many times?
+    Mr. Salesses. Yes, sir. That is twice-a-month meetings with 
+our staff.
+    Mr. Meadows. To discuss the technology and what is 
+different?
+    Mr. Salesses. Yes, sir. And, if I could, I'd like to just 
+take a little--what has been going on, Congressman, is there is 
+a national effort. The National Security Staff has been leading 
+an effort over the last year to look at UAVs in particular, 
+what we refer to as nontraditional aircraft, whether they are 
+gyrocopters, UAVs or----
+    Mr. Meadows. So you just haven't come up with an answer?
+    Mr. Salesses. No. No, sir. I want to----
+    Mr. Meadows. But we can put a man on the moon. We can fly a 
+rover to Mars.
+    Can't we figure out how to stop a postal worker with a 
+gyrocopter coming in to the grounds?
+    Mr. Salesses. Sir, the work that is being done between the 
+Department of Homeland Security, the Department of Defense, the 
+Department of Transportation, and recently the National Science 
+and Technology Council fast-track looking at technologies that 
+could help. Again----
+    Mr. Meadows. So when will we have a plan? Admiral, when 
+will we have a plan? You said you are the guy in charge. When 
+will we have a plan to make sure that this doesn't happen in 
+case there is 50 pounds of plastic explosives?
+    Admiral Gortney. Sir, when we go to closed session, I will 
+show you what we have, what we are testing, and when we will--
+--
+    Mr. Meadows. I am not asking what the plan is. I said when 
+will we have it.
+    Admiral Gortney. Sir, I need to do that in a closed 
+session.
+    Mr. Meadows. All right. So let me ask you a different 
+question. Because the silence a deafening.
+    So if you get together twice a month, your staff, how many 
+times have most of you or all of you gotten together to discuss 
+your responses to this hearing? Did you meet as a group to 
+discuss your responses to this hearing?
+    Mr. Salesses. Yes, sir, we did. Yesterday. Yes, sir.
+    Mr. Meadows. So what you are saying is you all got together 
+to discuss your response to this hearing, but, yet, you all 
+don't get together necessarily individually, your staffs do, to 
+discuss the protection of assets here?
+    Mr. Salesses. Congressman, we also----
+    Mr. Meadows. Yes or no?
+    Mr. Salesses. No, sir. We do at the White House. We have 
+deputy-level meetings and----
+    Mr. Meadows. So all of you got together to discuss your 
+responses to this hearing? When did you do that?
+    Mr. Salesses. Yesterday, sir.
+    Mr. Meadows. Why would you do that? If you were just 
+wanting to be transparent, why would you try to coordinate your 
+answers to this hearing? Are you more afraid of the Government 
+oversight than you are of protecting the people?
+    Mr. Salesses. No, sir, we are not.
+    Mr. Meadows. So why would you have gotten together to 
+discuss you responses if they were individual responses there?
+    Mr. Salesses. To talk about some of the lessons we learned, 
+sir.
+    Mr. Meadows. Talk about the lessons before you testify? Is 
+that what you were doing----
+    Mr. Salesses. No, sir.
+    Mr. Meadows [continuing]. Preparing your testimony?
+    Mr. Salesses. No, sir. We were talking----
+    Mr. Meadows. So none of you prepared your testimony.
+    Mr. Clancy, is that your sworn testimony today, that you 
+didn't talk about how you would testify before this hearing?
+    Mr. Clancy. Sir, we did talk about what we could talk about 
+in the open hearing as opposed to a closed hearing, and we 
+wanted to make sure----
+    Mr. Meadows. So was there any strategy to those discussions 
+on what you would say and what you wouldn't say in terms of how 
+you would look, Mr. Clancy, before this hearing?
+    Mr. Clancy. Sir, the discussion was, again, what could be 
+talked about in the open hearing and what could not be talked 
+about in the open hearing.
+    Mr. Meadows. Well, my understanding is that it was a lot 
+more strategic than that.
+    Am I wrong, Mr. Huerta? You and I have a good relationship, 
+an honest relationship. Was that discussed in terms of what you 
+would say and what you would not say in terms of response to 
+the questions?
+    Mr. Huerta. No, it was not.
+    Mr. Meadows. All right. So what was discussed?
+    Mr. Huerta. I think, as you've heard from these other two 
+gentlemen, it was simply a discussion of what could be said in 
+open versus----
+    Mr. Meadows. What I find very concerning, Mr. Chairman--
+what I find very concerning is all of you are willing to get 
+together to discuss your testimony before coming here to be 
+honest and, yet, the American people expect just honesty and, 
+yet, what we have is a coordinated effort to be a stone wall. 
+That is concerning, Mr. Chairman.
+    I yield back.
+    Chairman Chaffetz. I thank the gentleman.
+    I need to add--and I said it in my opening--when we asked 
+you all to come privately brief four committees of Congress, 
+more than half of you said no. I don't understand that. I 
+really don't understand that.
+    You can sit here in public testimony and say, ``We are 
+doing everything we can.'' This is the way our system works. It 
+is inexcusable to me that you would refuse to come to Congress 
+a week after the attack and give us a brief. Three of you did, 
+but four of you didn't. And that is why you get questions like 
+that, because the time you did get together, nobody was in the 
+room.
+    Sounds like you all coordinated on how to message this and 
+you spent more time doing that than you did briefing Congress, 
+being candid with us.
+    I now recognize the gentleman from Pennsylvania, Mr. 
+Cartwright, for 5 minutes.
+    Mr. Cartwright. Thank you, Mr. Chairman.
+    I thank also my colleague from Massachusetts, and I wish to 
+associate myself with his remarks.
+    He talked about that this is not a question of self-
+preservation for Members of Congress. We think about not only 
+ourselves, but we think about the people who come to visit us 
+from our districts. We think about the young people who help 
+enable us to do the work that we do. We are talking about 
+thousands and thousands of young people, interns and fellows 
+and employees on Capitol Hill here, and we feel responsible to 
+them and their families and their parents to keep them safe.
+    All of these people are within the special flight rules 
+area, the SFRA, that you have discussed. They are all within 
+the national capital region flight area that you have been 
+talking about. And, more than that, the visitors who come and 
+visit our national memorials, the World War II Memorial, the 
+Jefferson Memorial.
+    We just had the National Cherry Blossom Festival a couple 
+of weeks ago. There had to be well over 100,000 Americans 
+visiting. All of those areas and the Tidal Basin are within the 
+special flight rules area; are they not? That is correct. An 
+area that was traversed by this knucklehead with a gyrocopter 
+who could easily have been a terrorist.
+    And so we take seriously a hearing like this. It isn't 
+about ourselves. It is about the huge number of Americans who 
+are in this special flight rules area and the national capital 
+region. And it is not just about gyrocopters either. It is 
+about drone as well. We have heard a lot in the past months 
+about drones and the threat they could cause to our national 
+security.
+    You know, Admiral Gortney, your testimony was--you said 
+this: What we now understand is that the gyrocopter was 
+detected by several of the integrated sensors as it approached 
+and transited through the SFRA, the special flight rules area. 
+However, the aircraft's flight parameters fell below the 
+threshold necessary to differentiate aircraft from weather, 
+terrain, birds, and other slow-flying objects so as to ensure 
+that the systems and those operating them focus on that which 
+poses the greatest threat.
+    You said: We are in the early stages of conducting a 
+thorough reconstruction and analysis of all aspects of this 
+incident, including time lines, communication, and sensor data.
+    And you said: Identifying low-altitude and slow-speed 
+aerial vehicles from other objects is a technical and 
+operational challenge.
+    Have I read that correctly, Admiral?
+    Admiral Gortney. That is correct, sir. And I can go into 
+greater detail in answering some of those questions in closed 
+session.
+    Mr. Cartwright. Well, here is my problem. Like my 
+colleagues up here on the dais and the public, I find the lack 
+of planning on how to respond to gyrocopters and drones 
+surprising and disappointing. These things are hardly new. The 
+British Army flew a drone as early as 1917. And here we are 
+nearly 100 years later and we are just starting to tackle the 
+problem.
+    I want to invite Mr. Huerta--your attention to this 
+question: When did the FAA first begin to think that drones may 
+be a security concern?
+    Mr. Huerta. Well, the FAA has specific direction from 
+Congress to swiftly integrate unmanned aircraft into the 
+national airspace system. That was included in the FAA 
+Authorization Act of 2012.
+    Since then, we have published a road map for their 
+integration and we have embarked upon a stage integration 
+process to find ways to integrate these into the national 
+airspace system.
+    But we do cooperate with our interagency partners on the 
+larger question of what they may pose as a security threat. Our 
+mandate and our direction is to find a way to integrate them so 
+that they don't pose a safety of flight issue.
+    Mr. Cartwright. Well, back to you, Admiral Gortney.
+    You said: Identifying these vehicles is a technical and 
+operational challenge. ``Challenge'' is a nice word for 
+``problem,'' something that we are really having a hard time 
+with.
+    So the question is: How long have you known this was a 
+challenge, Admiral?
+    Admiral Gortney. Sir, we've been working against the low-
+radar cross-section target for probably over 25 years. I've 
+been in the aviation business for over 38. So we understand the 
+problem. We understand the technical challenges.
+    And if we go to closed session, we can show you the 
+solutions that we have in place and we are currently testing, 
+but I can't do it in an open session.
+    Mr. Cartwright. On a scale of 1 to 10, 10 being the most 
+urgent, how urgent is this, gentlemen?
+    Mr. Salesses. Very.
+    Admiral Gortney. In the protection of the United States and 
+Canada and the homeland defense and my role as the NORAD 
+commander, it is my primary responsibility. On a scale of 1 to 
+10, it's on about a 50.
+    Mr. Cartwright. I look forward to the closed session. Thank 
+you.
+    I yield back, Mr. Chairman.
+    Chairman Chaffetz. I thank the gentleman.
+    I now recognize the gentleman from South Carolina, Mr. 
+Mulvaney, for 5 minutes.
+    Mr. Mulvaney. Thank you, Mr. Chairman.
+    I am going to go about this a little bit differently, a 
+little bit more straightforward.
+    At any time did we have the ability to interdict and to 
+shoot this guy down? Mr. Gortney? Admiral?
+    Admiral Gortney. No, sir. We did not because we did not 
+have a detection, our ability to track it or positively 
+identify it to queue our sensors. If we had--I can't go any 
+farther.
+    Mr. Mulvaney. That is fine. That is fine. I obviously don't 
+want to know anything that we can't do in public session. I am 
+just curious.
+    Admiral Gortney. But I have that answer for you.
+    Mr. Mulvaney. We hear around here that we had the ability, 
+but chose not to.
+    But you telling me that is not accurate?
+    Admiral Gortney. I need to go to closed session.
+    Mr. Mulvaney. Thanks very much.
+    So, then, I guess the same answer regarding, if the 
+gentleman had wanted to, he could have crashed this into the 
+Capitol building. Correct?
+    Admiral Gortney. Yes, sir.
+    Mr. Mulvaney. And the same is true for the White House or 
+the museums?
+    Admiral Gortney. If there was an intent, yes, sir.
+    Mr. Mulvaney. Would it have been different if it was a 
+small single-seat airplane?
+    Admiral Gortney. Yes, sir. A small single-seat airplane, 
+the size of a Cessna or smaller, we'd probably be able to track 
+that.
+    Mr. Mulvaney. Got you.
+    Admiral Gortney. We would--we do it every--we track them 
+and we have two incidents a month where we actually launch our 
+helicopters on those sorts of things.
+    Mr. Mulvaney. OK. A similar result had it been a drone or 
+something smaller than a gyrocopter?
+    Admiral Gortney. That's correct.
+    Mr. Mulvaney. Who saw it first?
+    Mr. MacLean. An officer with the United States Park Police 
+saw it first.
+    Mr. Mulvaney. And it is fair to say that you were the only 
+one at the table who didn't know about this guy in advance. 
+Right?
+    Admiral Gortney. We did not.
+    Mr. Clancy. The Secret Service did not.
+    Mr. Huerta. We did not.
+    Mr. Mulvaney. NORAD didn't?
+    Admiral Gortney. We did not.
+    Mr. Mulvaney. OK. So the Secret Service knew.
+    Who else knew about this guy in advance, then? Park, 
+Capitol Police. But the Park Police did know about the guy. OK.
+    Let me figure out why he left from Gettysburg. Given that 
+any thought? Why would a guy drive from Florida to Pennsylvania 
+to do this? Does anybody have any thoughts on that? Does that 
+make sense to anybody? There is a lot of private airports, 
+small airports, between Florida and Gettysburg.
+    Admiral Gortney. I think with an ongoing investigation, 
+both legal and technical, it is difficult for us to answer that 
+question.
+    Mr. Mulvaney. Fair enough. All right.
+    Here is my last question, then. Because it sounds like most 
+of the stuff I want to know we will have to deal with in closed 
+setting.
+    Admiral Gortney, were you advised not to come here today? 
+Did anybody suggest to you not to come here today?
+    Admiral Gortney. No, sir.
+    Mr. Mulvaney. Did anybody suggest that you not come to the 
+briefing a couple weeks ago?
+    Admiral Gortney. We were seeking permission and did not 
+receive the permission. Why that happened I'm not sure, sir.
+    Mr. Mulvaney. From whom do you seek permission for that, 
+sir?
+    Admiral Gortney. We go through the Department of Defense.
+    Mr. Mulvaney. And who would the next person up the ladder 
+from you be in that----
+    Admiral Gortney. My chain of command goes from myself to 
+the Secretary of Defense to the President.
+    Mr. Mulvaney. OK. Mr. Salesses, the same question.
+    Mr. Salesses. Sir, I don't have a good answer for why we 
+didn't show. And I apologize for not showing. Because that's 
+not something the Department normally does.
+    Mr. Mulvaney. Did you seek permission to show and just----
+    Mr. Salesses. I was not aware that you were trying to 
+have--me personally, I was not aware of it.
+    Mr. Mulvaney. OK. Mr. Huerta?
+    Mr. Huerta. We were--I understood it to be a scheduling 
+issue. We had offered an alternative time the following 
+afternoon, and we did not hear back.
+    Mr. Mulvaney. Mr. Clancy, I think you were one of the ones 
+who did agree to come. Right?
+    Mr. Clancy. Yes, sir.
+    Mr. Mulvaney. With that, I will yield my time to the 
+chairman.
+    I guess we ask Mr. MacLean and Chief Dine the same 
+question, but I assume I know the answer there.
+    So go ahead, sir.
+    Chief MacLean. Yes, sir. I'm an employee of the United 
+States Department of the Interior. And they were planning to 
+schedule a properly--a proper witness to come and attend, and I 
+did attend the following day.
+    Mr. Mulvaney. OK. Chief Dine?
+    Chief Dine. Yes, sir. I was here last week. And, of course, 
+I am glad to be here today.
+    Mr. Mulvaney. I yield the balance of my time to the 
+chairman.
+    Chairman Chaffetz. I thank the gentleman.
+    I now recognize the gentleman from North Carolina, Mr. 
+Walker, for 5 minutes.
+    Mr. Walker. Thank you, Mr. Chairman.
+    I want to look at the time line again and make sure that I 
+am clear on it. But let me back up just for a second.
+    How many different agencies or departments were contacted 
+at some point past or during the week of by the Tampa Bay Times 
+reporter? Just by a show of hands, who did he reach out to at 
+any point? Secret Service? OK.
+    Chief Dine, when did you first get contacted by the Tampa 
+Bay Times?
+    Chief Dine. That same day, a few minutes before he landed.
+    Mr. Walker. When you say ``a few minutes before,'' is that 
+the 1 p.m. Timeframe again?
+    Chief Dine. Well, 12:59. Yes, sir. And then at 1 p.m.
+    Mr. Walker. 12:59. And he lands at 1:24, 1:22?
+    Chief Dine. 1:23-ish.
+    Mr. Walker. 1:23.
+    So can you walk me through what you did in those 22, 23 
+minutes. Can you sort of give me a time line. What is your 
+first call? Just for my own education here.
+    Chief Dine. Yes, sir. 12:59 was the email. That email was 
+quickly sent to our Investigative Division, who began to try to 
+pull up information. Then a minute later he called our Command 
+Center. They talked to him a little bit. And then that 
+information was provided to our investigators as well.
+    Mr. Walker. When you say provided to your investigators, 
+what--when you have somebody that is approaching the Capitol in 
+this unidentified flying object, for lack of a better 
+expression, what do you do when you hear that information, that 
+this is something that could be encroaching into the airspace? 
+What happens? What is your next step?
+    Chief Dine. Well, what happened in this case was there was 
+no information that this was happening as they spoke or that it 
+was imminent. There was no time or day provided.
+    What they did do was do some research into the individual 
+himself and, also, check to see--one of the questions was was 
+there a waiver provided. So we have a system to access that as 
+well.
+    Mr. Walker. So are any of these agencies that you contact 
+once you hear that this is a possible situation--is there any 
+communication between the different departments or agencies 
+that this is a concern?
+    Chief Dine. In this instance, we contacted the NCRCC once 
+it came to fruition.
+    Mr. Walker. Mr. Clancy, you said you got information on 
+this as well? Is that correct?
+    Mr. Clancy. Sir, Tampa Bay Times called our Tampa Bay 
+office on April 13, but there was no specification regarding 
+Mr. Hughes, the gyrocopter.
+    The question was simply would we be involved in civil 
+disobedience displays by individuals, and we said we would be 
+if it involved our protectee or one of our protected 
+facilities. There was nothing specific.
+    Mr. Walker. One of the opening remarks--and I am trying to 
+remember specifically who talked about this--talked about on 
+the radar, distinguishable versus undistinguishable.
+    Can someone speak to that as far as--help me understand 
+that.
+    Mr. Huerta. An unfiltered radar feed picks up everything. 
+It is cluttered with--in addition to aircraft, will include 
+things such as traffic on the streets. It will include birds, 
+anything that is moving around.
+    And so, for our purposes at the FAA, we filter it for what 
+our primary function is, which is to safely separate aircraft, 
+and that means we filter out small things that might be a 
+distraction to a controller.
+    Now, what our forensic analysis showed was that the radar 
+did indicate something after the fact that we were able to 
+piece together as most likely the flight of the gyrocopter.
+    Mr. Walker. But would you agree that after the fact may not 
+be a good scenario?
+    Mr. Huerta. No. I would agree with that. But the point 
+being an air traffic controller can't do his job with a very 
+cluttered screen. And so what we are very focused on is how can 
+we ensure that a controller is able to safely separate air 
+traffic in our case.
+    Admiral Gortney. Sir, if I could----
+    Mr. Walker. Yes. I will come to the Admiral in just a 
+second.
+    Can you answer your own question there? How can that be 
+more safety conscious as far as being able to get through the 
+clutter on his own screen?
+    Mr. Huerta. What we do is--because the things that we are 
+filtering out are things like birds or weather systems or small 
+things that do not pose a threat to aviation safety.
+    Now, we do provide the unfiltered radar to our partners 
+across the Government, and each of the individual participants 
+filters it for their own purposes.
+    Mr. Walker. And I want to have time for the Admiral here. 
+But help me understand this.
+    Is there not--and you would know this, being the expert. If 
+someone is flying a gyrocopter, isn't that a different pattern 
+than what birds or other things may be flying around on a radar 
+or an FAA system?
+    Mr. Huerta. As I testified to earlier, it appeared and 
+disappeared. It actually had much more in common with a weather 
+system.
+    Mr. Walker. OK. Admiral?
+    Admiral Gortney. Sir, the characteristics on radar of an 
+aircraft of this size, flying the speed and the altitude--it 
+has the same characteristics of birds--of flocks of birds. It 
+can appear the same way.
+    And so we adjust. We take the feeds from the FAA as well as 
+our own sensors, and then we adjust those filters based on the 
+environmentals that would give us the highest probability to 
+pick up the smallest possible target that's a real target.
+    Mr. Walker. Thank you, Admiral. My time has expired.
+    I yield back, Mr. Chairman.
+    Chairman Chaffetz. I recognize the gentleman from Georgia, 
+Mr. Carter, for 5 minutes.
+    Mr. Carter. Thank you, Mr. Chairman.
+    Thank all of you for being here. We appreciate the work 
+that you do. I have just three very quick questions for you or 
+maybe comments.
+    First of all, Mr. Clancy, thank you for being here. I 
+believe you were hear a couple of weeks ago and I closed my 
+comments with saying that I hoped I didn't see you anytime 
+soon. Here we are again.
+    Mr. Clancy. Yes, sir.
+    Mr. Carter. Chief Dine, I want to ask you--we had an 
+incident in Cannon--I believe it was last week--where there was 
+a suspicious powder that was found. I know that my staff had 
+four emails sent to them during that time. Yet, in this 
+situation with the gyrocopter, we only had one email sent to 
+us, and that was after the fact.
+    Why the difference there? What different scenario lead us 
+to that situation?
+    Chief Dine. The answer is that the systems we had in place 
+failed and we immediately fixed them. And I certainly 
+understand your concern.
+    So messages will be sent immediately now. And I appreciate 
+the fact that you acknowledge that we sent them in those other 
+instances.
+    Mr. Carter. We sent them in those other instances, but we 
+didn't with the gyrocopter?
+    Chief Dine. We sent some out, but clearly it was not 
+comprehensive enough. Yes, sir. You're correct.
+    Mr. Carter. Gentlemen, it just appears to me that we are 
+not keeping up with the times. I have been sitting here and I 
+hear what you say, that this needs to be discussed in a 
+confidential hearing, and I get that. But I am still not 
+confident--and I think the people want to be confident--that we 
+are keeping up with the times.
+    Drones aren't anything new. They have been around. And, 
+yet, all of a sudden we are having all these incidents. We read 
+about the incident in Japan with the Prime Minister and the 
+radioactive material that was sent there. That is scary. It is 
+scary for me and scary for everyone.
+    Are you comfortable and confident--and I want you to assure 
+the American people that you are--that we have got this under 
+control?
+    Admiral Gortney. Sir, we can assure the American people 
+that all of us at this table and the whole of Government is 
+working their very best to protect this Nation and its citizens 
+against the many threats that happen to be out there. In closed 
+session, I'll tell you what we're doing about this particular 
+threat.
+    Mr. Carter. Does that mean it is not going to happen again?
+    Admiral Gortney. I can never say it is not going to happen 
+again, sir.
+    Mr. Carter. I understand, that.
+    The last thing is the communication particularly among all 
+of you. You know, look, I am a freshman rep. I have been up 
+here for 4 months. But I have been in business for many years, 
+and I know that communication is the key and you have to 
+surround yourself with good people and you have to make sure 
+everybody is talking to each other.
+    But I am just not getting that warm and fuzzy feeling here 
+today after listening to all of this that that is happening 
+with you all. And I just want you to assure me, if that has not 
+been the case up to this point, that it will be the case in the 
+future.
+    Admiral Gortney. Sir, on the morning of 9/11, a network, a 
+telephone line, went into effect, and it has never been hung up 
+since. And it includes--we call it the DEN--it includes over 
+200 mission partners that protect the American people for this 
+particular threat--for the air threat. It is called the DEN.
+    And it is exercised and it operates every single day. Twice 
+a day just for the national capital region every one of those 
+200 mission partners are dealing with a penetration to our 
+special flight--the SFR. Twice a day it occurs. And once a week 
+we actually launch the Coast Guard helicopters in order to do 
+it. So not only is it operating, it is exercised, it is 
+utilized, every single day.
+    Mr. Salesses. Congressman, if I could, too, there is an 
+effort underway by the White House and the National Security 
+Council to bring all the Federal departments together to look 
+at these issues, in particular, technologies that are currently 
+available, technologies that are being in development, and 
+looking at possible procedural changes when we encounter these 
+kinds of situations.
+    Mr. Carter. Again, gentlemen, I want to thank you for the 
+work that you do and encourage you. Please, this is extremely 
+important and we really need you. So thank you for being on top 
+of your game.
+    Mr. Chairman, I yield back.
+    Chairman Chaffetz. I thank the gentleman.
+    I recognize the ranking member.
+    Mr. Cummings. Thank you very much.
+    I want to thank all of you for being here. But I just have 
+three issues that I want to raise, and Mr. Carter mentioned one 
+of them. You know, as I sit here, I cannot help but be 
+concerned about the communication situation here.
+    Mr. Salesses, you said that you didn't even know that the 
+ranking--the chairman and ranking member, four committees, 
+wanted you to be here the other day?
+    Mr. Salesses. Sir, I did not personally know.
+    Mr. Cummings. There is something wrong with that picture. 
+There is something wrong with that picture. And let me tell you 
+what I tell my staff. When something goes wrong and I find out 
+about it, I wonder what I don't know about. And so, if you 
+recall, at the beginning of the hearing, I said people talk 
+about when the rubber meets the road and then we discover there 
+is no road. So communication is basic stuff.
+    And then I want to just--and this is directly connected. 
+You know, one of the things that we have noticed in a lot of 
+committees--not just this committee, but other committees--is 
+that folks seem to operate and want to operate in silos, silos. 
+You are doing something over here. I am doing something over 
+here. I have got my turf. You have got your turf. And it works 
+against effectiveness and efficiency. And I just want to make 
+sure that you all assure us that you truly are working 
+together. I just think we--this is of such urgency.
+    And my final point. I know you said that your staffs get 
+together, top-level staff. I guess that is what you all are 
+saying. You all need to get together, and it should not be just 
+to prepare--to get your notes together for a hearing.
+    I mean, you all are--I mean, you are there. You are paid to 
+do a certain job. And, I mean, this is with all the respect 
+that I have for you, and it is tremendous respect. But it is 
+not about your deputy or whatever. It is you all. We look to 
+you all. You are the experts. You are the ones who give your 
+blood, sweat, and tears, and you all are the brilliant minds 
+that we rely on every day to keep us safe.
+    And I think you all need to be meeting. I know somebody 
+said that the White House is trying to put something together 
+where folks get together. I mean, that is just--I mean, that 
+just comes from you, you, particularly after we have an 
+incident like the one that happened here.
+    And so, you know, I am anxiously looking forward, Mr. 
+Chairman, to the closed session. And I know you are going to 
+talk about that in a minute so that we can get some answers.
+    And if there are things that you could not answer--I hope 
+you all took notes about the things that you said that we have 
+to discuss in closed session, and then we'll do that. But, 
+again, I want to thank you for being here today. And we are 
+going to press forward.
+    Mr. Chairman, thank you.
+    Chairman Chaffetz. I thank you.
+    And this has been a good, productive hearing, but we will 
+go to a closed hearing at another date. We have two other 
+subcommittee hearings. We got backed up with the Prime 
+Minister. We appreciate your patience. You all have important 
+jobs to do as well. So we will work together at another time.
+    I do have a few more questions. The Tampa Bay Times 
+published stories prior to this incident. The guy in the 
+gyrocopter was live-feeding a stream. I have heard a story from 
+one of the major networks where they were watching it in New 
+York, called down to the Capitol, and had staff reporters and 
+producers go down on the grass to watch it happen.
+    Do you all not monitor social media? Is Twitter like a new 
+thing for you? I mean, this stuff is out there. Try Google 
+Alerts. It is there. If it is not showing up on the radar, it 
+was showing up on the media's radar. And I don't understand why 
+you aren't able to pick up that sort of signal.
+    Because if you say that there is never any exposure in 
+advance, we have got to become more technically savvy, if you 
+can truly have somebody read a story online, get it to the 
+appropriate person in New York, send a producer, she walks down 
+on the grass and watches this land, and you all have billions 
+of dollars, billions, and you don't see a dude in a gyrocopter 
+flying over.
+    We deal with this on the border every single day. If I get 
+Customs and Border Patrol up here, they would tell you about 
+how they are detecting these. They will tell you how the 
+incursions are working. They have got special things that I 
+can't talk about right here. I have been in them. I have seen 
+them. They are very candid and open.
+    And they are in the same Department. That is why we had 
+Homeland Security. After 9/11, we formed Homeland Security to 
+communicate, to coordinate. And the only time you all seven can 
+get together is when you get called to the Oversight and 
+Government Reform Committee. That is in excusable.
+    If the major networks can watch it live on television, I 
+expect you to watch it on live television and do something 
+about it. And I still have huge questions about what you would 
+actually do. I want the men and women who are out there on the 
+front line that have their hands on those triggers to know we 
+have got their back.
+    We don't know if the person has mental capacity. I am going 
+to assume they do. But you cannot come into the capital region. 
+You are not going to go on that Lincoln Memorial. You are not 
+coming to the White House. You are not coming into the United 
+States Capitol unimpeded. We are going to take you down. That 
+is the prevailing attitude.
+    We can get all these sob stories about how nice we want to 
+be. But until we project force, until we let people know that, 
+``If you come here, you are going to go down. Then we will 
+figure out your disposition,'' then we are sending all the 
+wrong signals. We are sending all the wrong signals.
+    And so every time we have an incursion and they are not 
+taken down fast and hard, some other-job is going to get an 
+idea and terrorists are going to get more ideas. Figure it out. 
+We pay you a lot of money, billions of dollars, and it has been 
+a long time since 9/11. Figure it out.
+    To the men and women who are doing this, God bless them. I 
+cannot thank them enough. They do amazing things.
+    Two more questions and then I will be done. I would like 
+after this hearing to get your comments or your reaction, if 
+you are allowed, on the charges that were brought against this.
+    One of the things I hope I can work with the ranking member 
+and others on--this gentleman was charged with a misdemeanor. 
+This is a misdemeanor offense. The more stringent offense was 
+his flying of a gyrocopter. But an incursion into the airspace, 
+we have to look at that as a Congress.
+    Finally, I have got to ask you, Mr. Clancy: Is A.T. Smith 
+still on the Secret Service payroll?
+    Mr. Clancy. Yes, sir. He's a detailee to another Homeland 
+department.
+    Chairman Chaffetz. Where does he work? What is his title?
+    Mr. Clancy. Sir, I am not aware of his title, but he works 
+for the CBP.
+    Chairman Chaffetz. Is he your Chief of Staff?
+    Mr. Clancy. No, sir.
+    Mr. Chaffetz. He doesn't hold the title of Chief of Staff?
+    Mr. Clancy. Sir, he's not--I don't know what his title is. 
+He has not been----
+    Mr. Chaffetz. Does he work in the Secret Service building?
+    Mr. Clancy. No, sir.
+    Chairman Chaffetz. Does he have a Secret Service vehicle?
+    Mr. Clancy. Not that I am aware of. No, sir.
+    Chairman Chaffetz. You will get back to me on that and 
+confirm that?
+    Mr. Clancy. Yes, sir.
+    Chairman Chaffetz. Whose decision was it--yours or 
+Secretary Johnson's--to detail Smith rather than transfer him 
+out of the agency?
+    Mr. Clancy. Sir, it was my decision.
+    Chairman Chaffetz. So why do you keep him in the Secret 
+Service? You sent out a press release that says he accepted a 
+position within the Department of Homeland Security effective 
+Tuesday, February 10, 2015, but he still works for the Secret 
+Service.
+    Mr. Clancy. Sir, he's detailed to--he is on our payroll. 
+Yes, sir.
+    Chairman Chaffetz. Why?
+    Mr. Clancy. Sir----
+    Chairman Chaffetz. You told me, you told the ranking 
+member, you told the world--you all sent out a press release 
+saying he was being transferred. But he still works for the 
+Secret Service, doesn't he? He still gets a Secret Service----
+    Mr. Clancy. He gets a Secret Service paycheck. Yes, sir.
+    Chairman Chaffetz. How long is he detailed for?
+    Mr. Clancy. Sir, it has not been defined, the time limit.
+    Chairman Chaffetz. It has been since February.
+    Mr. Clancy. Yes, sir.
+    Chairman Chaffetz. Ranking Member Cummings.
+    Mr. Cummings. Does the chairman yield?
+    Mr. Clancy, just following up on that, so is he actually 
+working--I mean, I know he gets a Secret Service paycheck.
+    But is he actually working for the Secret Service in his 
+detailed type of position?
+    Mr. Clancy. No, sir. I have no contact with Mr. Smith.
+    Mr. Cummings. None?
+    Mr. Clancy. None, sir.
+    Mr. Cummings. And we have details up here, too. So they 
+have a limited time that they are with us.
+    Can you tell us what the limitations are, wherever he is, 
+and can you get that information to us?
+    Mr. Clancy. Sir, I'll have to get back to you on that. Yes, 
+sir.
+    Mr. Cummings. All right. Thank you very much, Mr. Chairman. 
+I yield back.
+    Chairman Chaffetz. You have done, Mr. Clancy, a very good 
+job of building trust and confidence. It is flushed down the 
+toilet when I read and hear about these things.
+    You said to us, to me personally, multiple times, the White 
+House did, Homeland Security did, Secretary Johnson did, Mr. 
+Mayorkas did, that you are implementing fundamental changes.
+    Mr. Clancy. Yes, sir.
+    Chairman Chaffetz. And this guy is still on the payroll. 
+You sent out a press release touting that he was going to 
+another department and agency and he does no work for the 
+Secret Service, and, yet, he is on your payroll.
+    Don't ever come back here to Congress and tell me that you 
+have a financial problem when you have got A.T. Smith on your 
+payroll and you say you don't have enough money. You shouldn't 
+have to pay for that out of your budget. He is a very, very 
+senior person.
+    You personally promised that he was being moved and 
+transferred out of the Department, and he hasn't. I am not 
+buying this unlimited detail thing. This is just classic 
+Homeland Security shuffling around, and every one of your 
+employees knows it. How do you think I know it? I don't go to 
+work there. Your employees know it. And you lose their trust 
+and confidence that you are actually implementing the change 
+that you say you are going to.
+    There was no consequence to all these things we have talked 
+about if he can keep his job, have a great title, get the same 
+paycheck, you know, get a detailee, when waters calm down, then 
+we will sort things out.
+    With that, the committee stands adjourned.
+    Mr. Cummings. Mr. Chairman, 1 second. I just want to ask 
+one more question. Because the things you just said concern me, 
+and I just wanted Mr. Clancy to have an opportunity to respond 
+to that.
+    If you want to. You may not want to. Those were some strong 
+accusations, and I am just wondering, do you have a response?
+    Mr. Clancy. Sir, Mr. Chairman, all I can say is that I was 
+looking for a fresh perspective in our leadership team, and we 
+thought this was one opportunity to do that.
+    And I am very pleased with the team that we have in place 
+today. We have not gone back to those individuals who have 
+taken these detailee positions. So I didn't have any other 
+comment, sir.
+    Mr. Cummings. Is it unusual for you to detail people--I 
+mean, the Secret Service to detail people?
+    Mr. Clancy. No, sir. We have detailees certainly up here in 
+Congress. We are the beneficiary of detailees as well.
+    Mr. Cummings. Thank you very much.
+    Chairman Chaffetz. Reclaiming my time, one more time, I 
+have got to tell you, you tried to tell the men and women of 
+the Secret Service, you tried to tell Congress, you tried to 
+tell the world, that you were making changes. And everybody can 
+look this up. It is public knowledge.
+    But here is $183,000 that comes out of your budget that 
+could have gone to somebody else. Hire a new, fresh person. 
+Promote somebody within the agency. Do whatever you might. But 
+then you are going to come crawling back to Congress, saying, 
+``I need more money. I need more money.''
+    The four assistant directors that you also released, that 
+were transferred away, are they also detailees or are they 
+still on the Secret Service payroll?
+    Mr. Clancy. Sir, there is one--one is a detailee on our 
+payroll. Yes, sir.
+    Chairman Chaffetz. And where is he detailed to?
+    Mr. Clancy. Sir, he is also with--he is with ICE, sir.
+    Chairman Chaffetz. What do they do at ICE?
+    Mr. Clancy. And they can correct me if I'm wrong here.
+    I believe he's in a training position.
+    Chairman Chaffetz. Will you provide to this committee by 
+the week's end the disposition of each of the people that you 
+supposedly--you know, you were cleaning house. You were making 
+changes. You were touting that. You were telling the committee 
+that.
+    Tell us exactly with each and every one of them where they 
+are, how long the detail it, how much they make, all the 
+relevant details that our staff asked for.
+    Is that fair enough? Can you do that by the end of the 
+week?
+    Mr. Clancy. Yes, Mr. Chairman.
+    Chairman Chaffetz. Thank you.
+    We now stand adjourned.
+    [Whereupon, at 2:11 p.m., the committee was adjourned.]
+
+
+
+
+
+
+                                APPENDIX
+
+                              ----------                              
+
+
+               Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                 [all]
+</pre></body></html>

@@ -1,0 +1,2827 @@
+<html>
+<title> - EXPEDIENCY VERSUS INTEGRITY: DO ASSEMBLY-LINE AUDITS AT THE DEFENSE CONTRACT AUDIT AGENCY WASTE TAXPAYER DOLLARS?</title>
+<body><pre>
+[Senate Hearing 110-1035]
+[From the U.S. Government Printing Office]
+
+
+                                                       S. Hrg. 110-1035
+ 
+  EXPEDIENCY VERSUS INTEGRITY: DO ASSEMBLY-LINE AUDITS AT THE DEFENSE 
+             CONTRACT AUDIT AGENCY WASTE TAXPAYER DOLLARS? 
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+               HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                       ONE HUNDRED TENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                           SEPTEMBER 10, 2008
+
+                               __________
+
+       Available via http://www.gpoaccess.gov/congress/index.html
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+
+                               ----------
+                         U.S. GOVERNMENT PRINTING OFFICE 
+
+45-573 PDF                       WASHINGTON : 2010 
+
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; 
+DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+Washington, DC 20402-0001 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+               JOSEPH I. LIEBERMAN, Connecticut, Chairman
+CARL LEVIN, Michigan                 SUSAN M. COLLINS, Maine
+DANIEL K. AKAKA, Hawaii              TED STEVENS, Alaska
+THOMAS R. CARPER, Delaware           GEORGE V. VOINOVICH, Ohio
+MARK L. PRYOR, Arkansas              NORM COLEMAN, Minnesota
+MARY L. LANDRIEU, Louisiana          TOM COBURN, Oklahoma
+BARACK OBAMA, Illinois               PETE V. DOMENICI, New Mexico
+CLAIRE McCASKILL, Missouri           JOHN WARNER, Virginia
+JON TESTER, Montana                  JOHN E. SUNUNU, New Hampshire
+
+                  Michael L. Alexander, Staff Director
+                         Troy H. Cribb, Counsel
+                      Nora K. Adkins, GAO Detailee
+     Brandon L. Milhorn, Minority Staff Director and Chief Counsel
+               Richard A. Beutel, Minority Senior Counsel
+                   Eric B. Cho, Minority GSA Detailee
+                  Trina Driessnack Tyrer, Chief Clerk
+         Patricia R. Hogan, Publications Clerk and GPO Detailee
+                    Laura W. Kilbride, Hearing Clerk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                                 ------                                
+Opening statements:
+                                                                   Page
+    Senator Lieberman............................................     1
+    Senator Collins..............................................     3
+    Senator McCaskill............................................    24
+
+                               WITNESSES
+                     Wednesday, September 10, 2008
+
+Gregory D. Kutz, Managing Director, Forensic Audits and Special 
+  Investigations, U.S. Government Accountability Office, 
+  accompanied by Gayle L. Fischer, Assistant Director, Financial 
+  Management and Assurance Team, U.S. Government Accountability 
+  Office.........................................................     5
+Diem Thi Le, Senior Auditor, Defense Contract Audit Agency, U.S. 
+  Department of Defense..........................................     7
+Paul Hackler, Supervisory Auditor, Defense Contract Audit Agency, 
+  U.S. Department of Defense.....................................     9
+Hon. Gordon S. Heddell, Acting Inspector General, U.S. Department 
+  of Defense.....................................................    12
+April G. Stephenson, Director, Defense Contract Audit Agency, 
+  U.S. Department of Defense.....................................    14
+
+                     Alphabetical List of Witnesses
+
+Hackler, Paul:
+    Testimony....................................................     9
+    Prepared statement...........................................    71
+Heddell, Hon. Gordon S.:
+    Testimony....................................................    12
+    Prepared statement...........................................    79
+Kutz, Gregory D.:
+    Testimony....................................................     5
+    Prepared statement...........................................    49
+Le, Diem Thi:
+    Testimony....................................................     7
+    Prepared statement...........................................    67
+Stephenson, April G.:
+    Testimony....................................................    14
+    Prepared statement with an attachment........................    90
+
+                                APPENDIX
+
+DCAA Memorandum dated August 31, 2007, submitted for the Record 
+  by Senator McCaskill...........................................   102
+DCAA Memorandum dated September 12, 2008, submitted for the 
+  Record by Senator Lieberman....................................   104
+Charts submitted by Mr. Kutz.....................................   105
+Responses to post-hearing questions for the Record from:
+    Ms. Stephenson...............................................   107
+
+
+                      EXPEDIENCY VERSUS INTEGRITY:
+                     DO ASSEMBLY-LINE AUDITS AT THE
+                  DEFENSE CONTRACT AUDIT AGENCY WASTE
+                           TAXPAYER DOLLARS?
+
+                              ----------                              
+
+
+                     WEDNESDAY, SEPTEMBER 10, 2008
+
+                                     U.S. Senate,  
+                           Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10:02 a.m., in 
+room SD-342, Dirksen Senate Office Building, Hon. Joseph I. 
+Lieberman, Chairman of the Committee, presiding.
+    Present: Senators Lieberman, McCaskill, and Collins.
+
+            OPENING STATEMENT OF CHAIRMAN LIEBERMAN
+
+    Chairman Lieberman. Well, good morning and welcome to our 
+hearing. I thank all of the witnesses for being here.
+    Today's hearing will look into the disturbing allegations 
+that the Defense Contract Audit Agency (DCAA)--which is one of 
+our government's most important and, I would say, respected 
+watchdog offices--has over the years ignored standard auditing 
+rules to issue clean audits of contractors, despite problems 
+identified by DCAA's own auditors.
+    Investigators have found that on repeated occasions DCAA 
+has issued audits favorable to contractors that are not 
+supported by facts, which has the effect, I fear, of 
+encouraging waste, fraud, and abuse of taxpayer money.
+    The reports that we are going to hear today tell us that 
+one of the causes of these problems may be that DCAA is 
+obsessed with the speed of their process rather than the 
+accuracy of the results. The reports also raise questions of 
+whether the Defense Contract Audit Agency is independent enough 
+to be able to stand up to pressures from both Federal agencies 
+and contractors.
+    DCAA's mission is simply too important for these failures 
+to be tolerated. The agency is responsible for all contract 
+audits for the Department of Defense. In fiscal year 2007, that 
+equaled $314 billion of the $440 billion the Federal Government 
+spent on contracts for goods and services. That is a lot of 
+taxpayer money. DCAA, incidentally, also performs audits for 
+other agencies, such as the Department of Energy and NASA.
+    The revelations that are part of the reports that will be 
+discussed today and the testimony given by two whistleblowers, 
+in fact, begin in the fall of 2005, when a DCAA auditor called 
+the Department of Defense (DOD) Inspector General's hotline to 
+complain that the DCAA supervisors were breaking auditing rules 
+to favor certain contractors. That call set off a series of 
+investigations that brought to light the problems we will focus 
+on today.
+    Investigators for the Government Accountability Office 
+(GAO), in a report issued in July, said that when auditors at 
+DCAA found problems with contractor proposals violating 
+procurement laws and auditing standards, too often their 
+supervisors ignored, and sometimes even altered, their 
+underlying work to give the contractors favorable audits. That 
+is unacceptable behavior.
+    Separate investigations done by the Defense Criminal 
+Investigative Service (DCIS) and the Inspector General (IG) at 
+DOD confirm GAO's findings in general.
+    One of our witnesses today--Ms. Thi Le--will describe an 
+audit, requested by the Department of Energy, of the Fluor 
+Corporation's accounting system. Fluor provides a variety of 
+management and engineering services to Department of Energy 
+valued at almost $1 billion.
+    Accounting system audits, as our witnesses well know, are 
+not tied to any one government contract but, rather, evaluate 
+the adequacy of the contractor system's control environment and 
+overall accounting controls and the contractor's compliance.
+    In performing this audit, Ms. Le determined that the 
+accounting system of the Fluor Corporation was vulnerable to 
+significant overcharging of the Federal Government. Instead of 
+letting her perform additional testing, as she requested, Ms. 
+Le's supervisors simply changed her audit opinion from 
+``inadequate'' to ``adequate.''
+    Given that Fluor holds an additional $431 million in 
+contracts with our government--with the Federal Emergency 
+Management Agency (FEMA), the Army, the Air Force, and the 
+Employment and Training Administration--these poor accounting 
+methods could mean tens of millions of dollars of undetected 
+waste in overpayments to Fluor.
+    Another witness, Paul Hackler, will describe how Integrated 
+Defense Systems, a subsidiary of Boeing, structured its costs 
+under an Air Force contract for satellite launch capability in 
+a way that helped Boeing make up for losses in its commercial 
+markets--in direct contradiction of Federal procurement law.
+    The auditor alerted his supervisor to the problem and was 
+told to leave his findings out of the audit so the project 
+could go forward. The result? The Federal Government seems to 
+have wound up picking up the cost of Boeing's $270 million loss 
+when the company did not sell satellite systems to the private 
+cell phone industry, a development unrelated to the contract 
+that the company had with the government.
+    In granting contractors these unjustified clean bills of 
+health in its audits, DCAA has enabled them to proceed with 
+large-scale projects without the additional DCAA scrutiny that 
+would have followed had the contractors received less favorable 
+audits.
+    GAO also found that some supervisors in the Western Region 
+office of DCAA created an abusive work environment for those 
+who tried to maintain the integrity of their audits. Sometimes, 
+when auditors challenged what they believed to be waste and 
+fraud, they received not praise for a job well done but 
+downgraded performance reviews, transfers, and other forms of 
+reprisal.
+    Worst of all to the integrity of the system, GAO found that 
+some DCAA managers intimidated auditors who cooperated with the 
+GAO and IG investigators.
+    Since the GAO report was released in July, at least 18 
+other DCAA auditors have contacted GAO with similar stories of 
+clean audits being issued without underlying support. So this 
+is a real problem. And I must say that I was unhappy with the 
+DCAA's initial response to these GAO allegations because it 
+looked to me basically like a circling of the wagons.
+    In a letter dated July 11, 2008, DCAA said that it does 
+``not concur with the totality of GAO's overall conclusions.'' 
+I do not understand that as sensible or responsive since those 
+conclusions, as I have said, were backed by DCIS and IG 
+investigations, and since, as far as I can tell, DCAA has not 
+refuted the specific findings of the GAO report.
+    To get to the bottom of this troubling story and to see how 
+together we can fix what is wrong with a critically important 
+auditing agency, we have five witnesses today--the two 
+whistleblowers, a representative of GAO, the Acting Inspector 
+General of DOD, and the Director, finally, of DCAA.
+    I am going to call on Senator Collins in a minute, but as 
+my staff may have told you, I think we have decided to change 
+the order of the witnesses slightly. We will begin with Mr. 
+Kutz to lay out the overall GAO findings, then go to Ms. Thi Le 
+and Mr. Hackler, and then we will go on to the rest of the 
+table.
+    Thank you very much. Senator Collins.
+
+              OPENING STATEMENT OF SENATOR COLLINS
+
+    Senator Collins. Thank you, Mr. Chairman. Let me begin by 
+thanking you for holding this hearing this morning. I also am 
+not surprised to see that we are joined by our auditing expert 
+on this Committee, the Senator from Missouri, and I am sure she 
+will add a great deal to the hearing this morning as well.
+    More than 2 years ago, Senator Lieberman and I asked the 
+GAO to undertake a comprehensive assessment of audit work 
+performed by the Defense Contract Audit Agency, known as DCAA. 
+The DCAA is the principal auditor for contracts at the 
+Department of Defense.
+    We asked for this investigation in response to allegations 
+of serious mismanagement that had been reported to the GAO, the 
+DOD Inspector General, and to this Committee. During the course 
+of its review, the GAO uncovered outrageous conduct and flawed 
+audits at three offices in DCAA's Western Region.
+    The comprehensive GAO audit requested by the Committee will 
+be issued later this fall, but I commend the GAO for releasing 
+an interim report detailing the significant shortcomings 
+already observed in DCAA audit practices.
+    In the interim report, GAO investigators confirmed that 
+DCAA issued audit opinions with inadequate support, that 
+supervisors altered audit opinions with insufficient 
+justification, that some major audits were conducted by 
+inexperienced staff without adequate supervision, and--most 
+troubling of all--that some DOD contractors ``improperly 
+influenced'' the audits.
+    These findings suggest that the wasteful or even fraudulent 
+use of taxpayer dollars has gone undetected and that the 
+government may have been overcharged by some contractors to the 
+tune of millions of dollars.
+    Thorough, accurate, and tough audits are essential, and 
+DCAA's work must be untainted by pressure or conflicts of 
+interest. Instead, the GAO found ``numerous failures'' to 
+comply with government auditing standards. That is a serious 
+failing for, as the GAO has noted, substandard audits do not 
+provide assurances that billions of dollars in payments to 
+contractors complied with Federal regulations, accounting 
+standards, or even contract terms.
+    These facts are bad enough. But GAO's work also reveals 
+that at least one major defense contractor reached an advance 
+understanding with DCAA about the nature and scope of an audit, 
+that some DCAA employees changed findings at the direction of 
+senior managers, and that ``a pattern of frequent management 
+actions . . . served to intimidate the auditors and create an 
+abusive environment'' at two DCAA locations.
+    I am also deeply concerned about GAO's findings that 
+whistleblowers who reported misconduct were subject to 
+intimidation and threats from supervisors. Congress relies on 
+courageous whistleblowers to expose wrongdoing so that we can 
+improve and reform Federal programs and operations. It is 
+critical that supervisors throughout the Federal Government 
+respect the protections that our laws provide whistleblowers 
+and act swiftly to remedy the problems that they identify.
+    As we address the particular problems that the GAO has 
+identified, we must also work to reestablish DCAA as a first-
+rate, independent audit agency.
+    Some current and former employees have identified 
+performance metrics keyed to speed and volume as undermining 
+good auditing practices in some cases. Now, obviously, 
+productivity is important, but whether the subject is executive 
+compensation, mortgage underwriting, or contract auditing, 
+metrics that emphasize time and volume over quality or long-run 
+results can invite shortcuts, sloppy work, and, ultimately, 
+even program failure. It does little good to have internal 
+controls and review processes if employees are gaming or 
+bypassing them in order to meet metrics.
+    Of course, inappropriate influences can also come from 
+outside of an organization. All of us recall the infamous case 
+of the Air Force procurement officer who negotiated a plush job 
+with a defense contractor while at the same time engaged in 
+negotiating a $24 billion contract with that company. 
+Ultimately, she pled guilty to criminal conflict-of-interest 
+violations.
+    The GAO report raises a red flag. It suggests that a few 
+DCAA employees may have been more interested in protecting 
+contractors and securing future employment than in protecting 
+taxpayers and our national security.
+    These failures at DCAA illustrate the aptness of a question 
+that was raised by a Roman satirist nearly 2,000 years ago, 
+when he asked: ``Who shall guard the guardians themselves?'' We 
+rely on the many honest and hard-working employees at DCAA to 
+be the first line of defense. When the audit agency fails, 
+problems cascade throughout the system and ultimately can even 
+shortchange our troops in the field. Congress must carefully 
+consider the reforms needed at the Defense Contract Audit 
+Agency in light of these disclosures.
+    I commend the GAO once again for its diligence and 
+thoroughness in studying this problem, and I look forward to 
+the completion later this fall of the comprehensive audit that 
+the Chairman and I initiated 2 years ago.
+    The GAO, as the Chairman has indicated, coordinated its 
+work with the Defense Department Inspector General and the 
+Defense Criminal Investigation Service. I expect these 
+investigators to also vigorously pursue their work in the event 
+that criminal conduct is exposed in their independent 
+investigations.
+    Finally, let me just conclude by thanking the Chairman for 
+this latest example of his leadership and our shared interest 
+in probing defects in our Federal acquisition process as a 
+prelude to additional legislative reforms.
+    Thank you, Mr. Chairman.
+    Chairman Lieberman. Thank you very much, Senator Collins, 
+for that excellent statement and also for the work that we have 
+done together.
+    Thanks, Senator McCaskill, for being here and for the 
+support that you and your staff have given this particular 
+investigation and the preparation of this hearing.
+    Mr. Kutz, I would like to start with you. For the record, 
+you are the Managing Director, Forensic Audits and Special 
+Investigations of the GAO, and I note that you are accompanied 
+by the Assistant Director, Gayle Fischer. Please proceed with 
+your testimony.
+
+ TESTIMONY OF GREGORY D. KUTZ,\1\ MANAGING DIRECTOR, FORENSIC 
+      AUDITS AND SPECIAL INVESTIGATIONS, U.S. GOVERNMENT 
+    ACCOUNTABILITY OFFICE, ACCOMPANIED BY GAYLE L. FISCHER, 
+ ASSISTANT DIRECTOR, FINANCIAL MANAGEMENT AND ASSURANCE TEAM, 
+             U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Mr. Kutz. Mr. Chairman and Members of the Committee, thank 
+you for the opportunity to discuss the Defense Contract Audit 
+Agency.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Kutz appears in the Appendix on 
+page 49.
+---------------------------------------------------------------------------
+    Today's testimony highlights the results of our 
+investigation of allegations we received in 2006. The bottom 
+line of my testimony today is that these allegations were 
+accurate. Specifically, DCAA's work for 14 audits that we 
+investigated did not meet professional standards.
+    My testimony has two parts: First, I will discuss the 
+problems that we identified; and, second, I will discuss key 
+causes of these problems.
+    First, our investigation covered 14 audits at two locations 
+and a series of forward pricing audits at a third location. For 
+these audits, we identified four key themes. These themes were 
+lack of independence, changing audit opinions, inadequate 
+supervision of staff, and an abusive work environment.
+    With respect to independence, we found that pressure from 
+contractors and DOD buying commands appeared to improperly 
+influence audits. For example, this pressure resulted in 
+dropped findings and the issuance of reports before supervisors 
+had reviewed the work. In one case, DCAA agreed with a 
+contractor in advance to set up a process that ensured a 
+favorable result.
+    We also found what appeared to be a systematic whitewashing 
+of findings from draft audit reports. For 11 audits, initial 
+auditor opinions of ``inadequate'' or ``inadequate in part'' 
+were changed to ``adequate'' or what we refer to as a ``clean 
+opinion.'' In many of these cases, supervisors provided no 
+basis for these changes.
+    For example, as the posterboard on my right shows, one 
+auditor found six significant deficiencies and drafted an 
+inadequate opinion report in June 2005.\1\ As you can see, by 
+September, this supervisor had changed the draft to an 
+``adequate'' opinion. This opinion allowed the contractor to 
+bill DOD and receive payments with no government review.
+---------------------------------------------------------------------------
+    \1\ The first chart referenced by Mr. Kutz appears in the Appendix 
+on page 105.
+---------------------------------------------------------------------------
+    We also found a lack of adequate staff supervision. For 
+example, again on the posterboard shown on my right, you see a 
+memo where an auditor writes, ``We are not holding this 
+contractor, with a history of questioned costs, poor internal 
+controls, and shoddy practices, to a high standard by 
+downgrading what are clearly significant deficiencies.'' \2\
+---------------------------------------------------------------------------
+    \2\ The second chart referenced by Mr. Kutz appears in the Appendix 
+on page 106.
+---------------------------------------------------------------------------
+    We found a number of memos just like this one documenting 
+disagreements between staff and management. These memos reflect 
+the lack of timely supervision. In a normal, healthy audit, 
+issues like this are worked out on a daily basis, and there is 
+no need for a memo like this at the end of the audit.
+    These disagreements help explain the fourth key theme: An 
+abusive work environment at two locations. We found evidence of 
+verbal warnings, involuntary reassignments, and threats of 
+disciplinary action against auditors because they would not 
+drop audit findings or draft favorable reports. Auditors were 
+also scared to speak to GAO's staff for fear of retaliation.
+    Let me move on to my second point: Two key causes for these 
+problems.
+    First, auditors told us that the limited number of hours 
+budgeted for their audits resulted in a disincentive to 
+identify and report contractor problems. According to DCAA, 
+their 3,500 auditors annually perform about 35,000 audits. 
+Given these numbers, the focus on production rather than impact 
+is not surprising.
+    Second, for DCAA to be most effective, as was mentioned 
+earlier, they must be independent. However, in addition to the 
+improper influence by contractors, we found pressure from 
+within DOD for auditors to facilitate the process rather than 
+protect the interests of taxpayers.
+    In conclusion, I cannot tell you today whether these 14 
+audits are isolated instances or the tip of the iceberg. 
+Additional evidence indicates problems not only here in the 
+United States but also in Iraq. What I can tell you today is 
+that, with hundreds of billions of dollars at stake, taxpayers 
+need a contract audit agency that is looking out for their 
+interests.
+    Mr. Chairman, this ends my statement. Ms. Fischer and I 
+look forward to your questions.
+    Chairman Lieberman. Thanks, Mr. Kutz. I must say that was 
+devastating. And just as a point of fact, I am going to ask 
+you: How did you choose those 14 contracts to audit?
+    Mr. Kutz. They were the ones the allegations were 
+specifically related to. That is why this is an investigation.
+    Chairman Lieberman. Understood. And now you are doing a 
+broader audit.
+    Mr. Kutz. A broader look, correct.
+    Chairman Lieberman. A somewhat more random, but----
+    Mr. Kutz. Yes, much more DCAA-wide.
+    Chairman Lieberman. OK. Thank you. We will have questions 
+for you.
+    The next two witnesses are the whistleblowers who have 
+acted with professionalism and, I would say, courage. I 
+appreciate very much what you have done and your willingness to 
+be here today. First we are going to call on Diem Thi Le, 
+Senior Auditor, Defense Contract Audit Agency. Ms. Le, good 
+morning. Thanks for coming, and we welcome your testimony now.
+
+ TESTIMONY OF DIEM THI LE,\1\ SENIOR AUDITOR, DEFENSE CONTRACT 
+            AUDIT AGENCY, U.S. DEPARTMENT OF DEFENSE
+
+    Ms. Le. Thank you. Good morning, Chairman Lieberman and 
+Members of the Committee. I first would like to thank you for 
+the opportunity to take part in this hearing. My name is Diem 
+Thi Le, and I have been with the DCAA for 19 years. For 17 
+years I have been a senior auditor. I am also a licensed CPA in 
+the State of California.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Le appears in the Appendix on 
+page 67.
+---------------------------------------------------------------------------
+    Nineteen years ago, I left the private sector to join DCAA 
+because I wanted to be a part of an organization that was 
+committed to excellence in support of the national interest and 
+protecting taxpayers' money. However, in recent years, because 
+of the emphasis on performance metrics, DCAA has changed from 
+putting an emphasis on excellence to an emphasis on performance 
+metrics, and that is one of the reasons why I am here today.
+    My testimony includes four parts: First, what triggered my 
+calling the hotline; second, how the hotline personnel 
+mishandled my case; third, the harassment I have suffered; and, 
+last, the systemic problems at DCAA.
+    In September 2005, I was performing an accounting system 
+audit at the corporate office of a contractor. This is the GAO 
+Case No. 6. I found that the contractor's accounting system was 
+inadequate in part and, as a result, the contractor was 
+misallocating and mischarging costs to the government. 
+Originally, my supervisor concurred with my audit findings, but 
+later on she told me that my branch manager did not agree with 
+my findings. After my requests to meet with the branch manager 
+to explain my audit findings were denied, I elevated the 
+unreconciled difference of opinion to the next level of 
+management. But I was told that I, as the performing auditor, 
+had no say in the final audit opinion. My supervisor then 
+deleted the audit findings from my working papers and used 
+those changed working papers as her working papers to support 
+the change in the audit opinion from an inadequate system to an 
+adequate system without performing any additional work.
+    As a result, the contractor was not required to propose or 
+implement any corrective actions to eliminate the system 
+deficiencies that would result in mischarging and misallocating 
+costs to the government.
+    Subsequently, I found out that my branch manager had been 
+changing other auditors' opinions of ``inadequate'' system to 
+``adequate'' system.
+    Because an ``adequate'' system would result in less audit 
+risk and fewer audit hours by having a contractor's system 
+deemed ``adequate,'' my branch manager was trying to increase 
+the productivity rate, which measures the audit hours incurred 
+versus the dollar examined, and the productivity rate is one of 
+the factors on which my branch manager's annual performance is 
+rated.
+    Mr. Chairman and Members of the Committee, in recent years, 
+because of the emphasis on performance metrics, we auditors 
+have been pressured by management to perform our audits within 
+a certain number of hours. But this was the first time that I 
+discovered my management changed the auditors' opinions of an 
+``inadequate'' system. I confided this troubling discovery with 
+some of my colleagues. All of them told me that I had no choice 
+but to call the DOD IG hotline, so I did in November 2005.
+    I would have never imagined that I would submit an 
+allegation against my management. Equally the same, I would 
+have never imagined that the hotline people would refer my 
+compliant back to my agency so that my agency could perform an 
+investigation of my complaint.
+    Subsequent to my first meeting with the IG investigator, it 
+was confirmed by him that my referral was, in fact, sent back 
+to DCAA headquarters, and that referral included specific 
+personal identifying information, such as my name and my phone 
+number. As a result, I believe that my identity as a 
+whistleblower was not adequately protected, and I have suffered 
+reprisal from DCAA management.
+    Following are just some of the significant incidents of 
+harassment and retaliations directed at me.
+    At the November 2005 Staff Conference, the regional audit 
+manager stated to us, the auditors, that if we did not like our 
+management's audit opinion, we should find another job.
+    In October 2006, I found out that I was the only auditor 
+with an ``Outstanding'' rating who did not get a performance 
+award.
+    In April 2007, after the Office of Special Counsel (OSC) 
+investigator contacted the DCAA regional management to inform 
+them of my whistleblower complaint, I was told to see a 
+psychiatrist.
+    In August 2007, I was given a memorandum instructing me 
+that I was not allowed to provide any documentation generated 
+by a government computer to any investigative unit, including 
+the OSC. Failure to do so would result into disciplinary 
+action.
+    In October 2007, I was then advised to read 18 U.S.C. 
+Section 641, Theft of Government Property. I was told by my 
+supervisor that the unauthorized distribution of agency 
+documents would result in a theft charge, and it does not 
+matter if it is to respond to a hotline or OSC complaint.
+    And last, but not least, since the IG investigation 
+started, I have been downgraded from an ``Outstanding'' auditor 
+to a ``Fully Successful'' auditor, and my promotion points have 
+been reduced from 78 to 53 out of 120 maximum.
+    The last part of my testimony is the systemic problems at 
+DCAA. It is my opinion and my observation that DCAA management 
+has become so metric driven that our audit quality and 
+independence have suffered. Audits are no longer dictated by 
+the audit risks but, rather, by the established guidelines of 
+audit hours and audit due dates. The pressure for us to 
+complete our audits within a certain time frame is so intense 
+that it would often prevent us, the auditors, from following 
+our instincts in questioning contractor costs, reporting system 
+deficiencies, and evaluating suspected irregular conducts. In 
+the end, contractors are getting away with murder because they 
+know we are so metric driven.
+    Also, because of the emphasis on the performance metrics, 
+DCAA has created layers of personnel who do nothing but monitor 
+the metrics. As a result, the goal is not to protect the 
+government's interest and to save taxpayers' money but to 
+answer to management's questions related to performance 
+metrics.
+    Mr. Chairman and Members of the Committee, again I would 
+like to thank you for the opportunity to be here. It is my hope 
+that by participating in this hearing, it will help bring 
+changes at DCAA. It is also my hope that those changes will 
+allow us truly to perform our audits in accordance with the 
+generally accepted government auditing standards in order to 
+protect the government's interest and to save the taxpayers' 
+money.
+    This concludes my testimony, and I look forward to your 
+questions. Thank you.
+    Chairman Lieberman. Ms. Le, thank you very much. That was 
+an act of public service, and I appreciate it greatly.
+    Our next witness, another whistleblower, we call on you 
+with thanks and respect, Paul Hackler, Supervisory Auditor, 
+Defense Contract Audit Agency.
+    Mr. Hackler, where do you live now?
+    Mr. Hackler. I live in California.
+    Chairman Lieberman. You both came from California?
+    Ms. Le. Yes.
+    Chairman Lieberman. Please proceed with your testimony.
+
+  TESTIMONY OF PAUL HACKLER,\1\ SUPERVISORY AUDITOR, DEFENSE 
+       CONTRACT AUDIT AGENCY, U.S. DEPARTMENT OF DEFENSE
+
+    Mr. Hackler. Mr. Chairman, Ranking Member Collins, and 
+Members of the Committee, thank you for the opportunity to 
+speak to you today about DCAA's Expendable Launch Capability 
+(ELC) Buy III proposal audits. I am a GS-13 supervisory auditor 
+and a certified public accountant in California with 25 years 
+of DCAA experience. I am going to be speaking about lot costing 
+today and how it related to the ELC proposals.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Hackler appears in the Appendix 
+on page 71.
+---------------------------------------------------------------------------
+    Lot costing is an accounting concept where certain products 
+are more efficiently made in batches rather than one by one. 
+If, for instance, the government goes to a contractor and says, 
+``I would like to buy 100 tanks,'' and the contractor says, 
+``OK, but I make tanks in lots of 1,000, and it takes 15 years 
+to build them. Although I know I can make a tank today for $1 
+million, I think it is going to take $5 million to build that 
+last tank in my lot 15 years from now. So what I am going to do 
+is charge you the average over those 15 years, and I am going 
+to charge you $3 million today instead of the $1 million I know 
+I can make it for.'' That is how lot costing works.
+    The 2005 and 2006 ELC proposal audits I supervised 
+contained a 15-year lot costing scenario just like the one I 
+described to you that allowed Boeing to recover $270 million in 
+past losses it incurred for aggressively pursuing a commercial 
+satellite market. The government realized this and restructured 
+the program so that Boeing could be reimbursed for launch 
+capability on a day-to-day basis, but the cost of building the 
+launch vehicle, the rocket, would remain a fixed-price 
+contract.
+    Boeing projected that the cost per launch would decrease 
+substantially in the future, and so when they restructured the 
+contract, the government needed to compensate them for the 
+higher up-front costs. Actually, enormous up-front costs 
+resulted only from Boeing's decision to gear up for a 
+commercial market that never existed, and DCAA was directed to 
+play along with this outrageous government bailout.
+    My testimony will focus on the inherent problems with lot 
+costing, DCAA upper management's directed audit opinion, and 
+reprisals for resisting that opinion.
+    Boeing initially anticipated the emerging cell phone market 
+would deploy satellites to route cell phone traffic. Shortly 
+after Boeing geared up for this, cell phone providers switched 
+to land-based towers. The cell phone satellite market went from 
+75 percent of projected sales to zero almost overnight. And 
+Boeing announced an $835 million loss because of it.
+    Since Boeing was losing more than $100 million per launch, 
+the government decided to restructure the contract by 
+reimbursing Boeing directly for launch capability, basically on 
+a month-to-month basis. Before this, Boeing was only paid for 
+launch capability when the launch actually took place. However, 
+we were directed by the Pentagon officials that prices for the 
+remaining 11 fixed-price launches already in place were to 
+remain in place, no losses were to be recovered, and all 
+applicable government regulations were to be adhered to.
+    In reviewing the 2005 proposal, my team determined that 
+there were serious procurement regulation violations and issued 
+an audit opinion that would not let the Air Force go forward. 
+Two of the significant deficiencies were Boeing's use of a 15-
+year lot costing scenario and the lack of subcontractor cost or 
+pricing data to verify the subcontract prices included in that 
+proposal.
+    The Air Force went to Washington and said, ``We would like 
+to get a waiver for the violations related to lot costing. But 
+the waiver was unpopular in Washington because of Boeing's 
+recent Procurement Integrity Act violations, alluded to by 
+Senator Collins earlier. They were, however, provided a waiver 
+for the subcontractor cost or pricing data.
+    Boeing then resubmitted its proposal still using the 15-
+year lot costing scenario, and the primary problem with that 
+15-year lot costing scenario is it rolls the losses attributed 
+to Boeing's pursuit of the commercial market forward for 
+recovery from the government.
+    The applicable regulations prohibit recovering prior losses 
+and charging the government for costs that do not benefit our 
+contracts. However, as directed, we issued an audit opinion 
+that overlooked serious regulation violations, and the Air 
+Force awarded Boeing the contract allowing recovery of $270 
+million of past losses. It also increased the price of existing 
+contracts.
+    While my testimony today focuses on DCAA's indiscretions, 
+the Air Force may have gone well beyond DCAA with this bailout 
+by not holding Boeing to previously negotiated launch prices. I 
+would be happy to answer questions on that also if it is 
+necessary.
+    Boeing initially anticipated and prepared for a commercial 
+market that would have launched over 100 missions by now and 
+300 missions by 2020. Only one commercial mission has ever been 
+launched, and no more will be launched. There is nothing on the 
+launch manifest schedule.
+    Some of the losses that Boeing incurred pursuing the 
+commercial market were overbuilding a plant that could produce 
+40 rockets per year, while Boeing has only averaged one launch 
+per year. They bought excess inventory. They had a specially 
+constructed vessel that does nothing but transport the Delta IV 
+rocket to the launch pad once a year.
+    All of the auditors involved in Boeing's lot costing 
+methodology and the audit that I supervised objected to the use 
+of lot costing. Since then, Boeing partnered with Lockheed to 
+make these products, and their outside auditors directed them 
+to discontinue lot costing.
+    Despite our documented objections, upper management 
+instructed us to issue an audit opinion that failed to report 
+numerous violations, and the Air Force awarded Boeing $270 
+million of past losses.
+    The opinion in that report was so unthinkable that the 
+audit staff documented our disagreement in the audit file. That 
+is the first time in my career that has ever happened.
+    For 25 years, I have jealously protected the American 
+taxpayers' interests, but during the course of the two ELC 
+proposal audits I supervised, I was harassed and denied a 
+promotional opportunity. Lately, I have seen this scenario over 
+and over again because of the emphasis on performance metrics 
+and customer satisfaction while audit findings have taken a 
+back seat to expediency and personal ambition. DCAA is broken.
+    Thank you for the time and thank you for this opportunity 
+to bring these matters to your attention. I would be happy to 
+answer any questions.
+    Chairman Lieberman. Thanks very much, Mr. Hackler, for your 
+personal testimony and for your direct conclusions. When you 
+say ``customer satisfaction,'' who is the customer?
+    Mr. Hackler. In this case, that would be the Air Force.
+    Chairman Lieberman. Not the taxpayer----
+    Mr. Hackler. No.
+    Chairman Lieberman [continuing]. Who you have been trying 
+to protect all these years. We will get back to you with more 
+questions. Thank you.
+    Next we will call on the Hon. Gordon Heddell, Acting 
+Inspector General of the Department of Defense. Thanks for 
+being here.
+
+   TESTIMONY OF HON. GORDON S. HEDDELL,\1\ ACTING INSPECTOR 
+              GENERAL, U.S. DEPARTMENT OF DEFENSE
+
+    Mr. Heddell. Mr. Chairman and distinguished Members of this 
+Committee, thank you for the opportunity to appear before you 
+this morning. As you know, I am the Acting Inspector General of 
+the Department of Defense. I have also had the honor of serving 
+as the Inspector General of the Department of Labor for almost 
+8 years. And prior to Senate confirmation, I had a 28-year 
+career with the U.S. Secret Service.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Heddell appears in the Appendix 
+on page 79.
+---------------------------------------------------------------------------
+    As Acting Inspector General, I have examined our past 
+actions and am reviewing our ongoing efforts to ensure that we 
+are aggressive when investigating allegations of the nature 
+that are being discussed at this hearing. I understand the 
+importance of keeping the Secretary of Defense and other senior 
+departmental officials apprised of significant issues that come 
+to my attention.
+    Contractor oversight, which includes the efforts of DCAA, 
+is one of the Federal Government's best and first lines of 
+defense against waste, fraud, and abuse of taxpayer funds. I am 
+dedicated to working with DCAA to ensure that their internal 
+controls are in place and functioning effectively. My 
+responsibilities as Inspector General providing oversight of 
+the largest Department in the Federal Government, particularly 
+during this time of war, could not be more important.
+    I know that there are concerns regarding the length of time 
+that it took to refer allegations received by the hotline to 
+the DCAA. The short answer is that, in the wake of Hurricane 
+Katrina and subsequent Hurricane Rita, the DOD hotline was 
+assigned the responsibility to be the hurricane relief fraud 
+hotline for the entire Federal Government. And so from 
+September 2005 until March 2006, the Department of Defense 
+hotline received almost 10,000 hurricane-related allegations, 
+and during that time period the hotline focused only on those 
+allegations that involved life, death, or safety issues, and 
+allegations against senior officials. Therefore, referral of 
+the allegation to DCAA took longer than our normal standards.
+    In February 2006, the DOD IG Defense Criminal Investigative 
+Service (DCIS) received the same allegations. Shortly 
+thereafter, DCAA suspended its own inquiry based on the 
+initiation of an investigation by the DCIS.
+    In June 2006, the U.S. Government Accountability Office 
+informed DCIS that it was conducting its own investigation of 
+DCAA. GAO indicated that, in addition to receiving the same 
+hotline complaint, it received reports of DCAA misconduct in 
+other offices and regions located throughout the United States. 
+GAO and DCIS coordinated certain investigative activities 
+regarding these allegations of misconduct.
+    In support of the DCIS investigation, my office of Audit 
+Policy and Oversight reviewed DCAA audits that were identified 
+in the original hotline complaint. In January 2007, we issued a 
+memorandum to DCAA detailing the results of our review of 10 
+DCAA audits. This memorandum contained the following 
+conclusions--and all ten, by the way, we found to be deficient.
+    On nine of these audit assignments, the supervisors either 
+changed, or directed to be changed, an auditor's draft audit 
+conclusions without adequate documentation.
+    The working papers of seven assignments did not adequately 
+support the final audit report opinions. And on the three 
+remaining audit assignments, the supervisory auditor should 
+have directed the auditor to perform additional audit 
+procedures prior to issuing the final report.
+    In addition, DCAA should rescind three reports because the 
+reports were not supported by the working papers.
+    The director of DCAA's Western Region, in a memorandum 
+dated July 2007, expressed strong disagreement with the overall 
+results of our review and refused to rescind any reports, 
+although he acknowledged, saying ``working papers could have 
+been improved.''
+    The DCIS investigation indicated that the emphasis by DCAA 
+on a metrics-driven system of conducting systems audits within 
+predetermined milestones and deadlines created an environment 
+where the pressure to meet goals affected the outcome of the 
+audit. In contrast, the field auditors stated that, in prior 
+years, auditors were routinely praised and rewarded 
+commensurate with the amount of money they questioned and how 
+much money the government saved or recovered as a direct result 
+of their audit activities.
+    In June 2008, DCIS presented the results of its 
+investigation to the U.S. Attorney's Office in Santa Ana, 
+California. The U.S. Attorney declined criminal prosecution.
+    Subsequently, in August 2008, DCIS prepared a Fraud 
+Vulnerability Report that documented investigative findings. 
+That report was provided to DOD Comptroller Tina Jonas and DCAA 
+Director April Stephenson.
+    GAO issued their report in July 2008, and it was titled, as 
+you know, ``Allegations That Certain Audits at Three Locations 
+Did Not Meet Professional Standards Were Substantiated.'' The 
+findings in the GAO report are consistent with the findings 
+contained in our January 2007 memorandum.
+    With regard to ongoing and future work, after publication 
+of the GAO report, additional hotline complaints have been 
+received concerning misconduct allegations by senior managers 
+in the same California DCAA offices. These allegations are 
+being assessed.
+    On August 4, 2008, we announced a follow-up review focusing 
+on audit work deficiencies and the abusive work environment 
+that was identified by the GAO. As part of this review, we are 
+performing an assessment of the completed and planned actions 
+taken by DCAA in response to the GAO report and the allegations 
+concerning supervisor misconduct. We have also scheduled 
+another External Peer Review of DCAA to begin in January 2009. 
+In so doing, we will consider the results of the follow-up 
+review, and we also consider the previous GAO review, the one 
+they just completed, our prior DCAA Peer Reviews, and the DCAA 
+Internal Quality Assurance Reviews. This review will cover 
+audits performed by all five DCAA regions and the Field 
+Detachment.
+    Oversight of Department of Defense contractors is essential 
+in the fight against waste, fraud, and abuse. We remain 
+committed to supporting DCAA to ensure that their internal 
+oversight mechanisms are in place and working effectively.
+    I thank you for your time, and I am ready to answer any 
+questions that you may have.
+    Chairman Lieberman. Thank you, Mr. Heddell. Excellent 
+report of your activities, and you are validating the problems 
+we have seen.
+    The final witness is April Stephenson, Director of the 
+Defense Contract Audit Agency. Obviously, these are very 
+serious charges, and I must say all the more troubling because 
+the Defense Contract Audit Agency has over the years been held 
+up as one of the best of the Federal Government's taxpayer 
+watchdog agencies. So I hope you will respond with the 
+seriousness of the moment.
+    Ms. Stephenson, it is all yours.
+
+TESTIMONY OF APRIL G. STEPHENSON,\1\ DIRECTOR, DEFENSE CONTRACT 
+            AUDIT AGENCY, U.S. DEPARTMENT OF DEFENSE
+
+    Ms. Stephenson. Thank you, Mr. Chairman and Members of the 
+Committee. Thank you for the opportunity to be here before you 
+today. I am pleased to be here.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Ms. Stephenson with an attachment 
+appears in the Appendix on page 90.
+---------------------------------------------------------------------------
+    I will briefly describe the actions taken by DCAA as a 
+result of the GAO report. A more detailed account is provided 
+in the statement that I have submitted for the record.
+    Mr. Chairman, I want to assure you and all the Members of 
+this Committee that DCAA is taking the GAO's findings very 
+seriously and that we are committed to taking the necessary 
+steps to review and correct the issues cited in the report. We 
+fully support any review of our procedures, and we are taking 
+immediate action to correct the problems.
+    Before I proceed with the rest of my testimony, let me tell 
+you a little bit about myself. I have 21 years with DCAA, and I 
+have held a number of positions. I started out as an auditor 
+trainee. I was an auditor, a supervisor, a branch manager. I 
+have been a deputy regional director, a regional director, and 
+deputy director of the Agency. I became Director 7 months ago.
+    Mr. Chairman, DCAA's mission is to perform audits of 
+contractors and to provide results to contracting officials 
+responsible for the negotiation, administration, and settlement 
+of contracts, and I would like to think we do it well. But I 
+recognize we have a lot of improvements to make.
+    To accomplish it, the Agency employs some 4,000 people and 
+has 79 field offices across the country and overseas. In 2007 
+alone, DCAA performed 33,801 audits covering $391 billion of 
+proposed or claimed contractor costs. These audits have taken 
+issue with $14.2 billion in questioned costs--these are areas 
+where we recommended reductions in what was proposed or 
+billed--and another $4.6 billion in unsupported costs. These 
+are costs in which the contractor did not provide sufficient 
+information to render an opinion.
+    Of those 79 field offices, three offices were covered by 
+the GAO's investigation. These three performed a combined total 
+of 4,786 audits over the 5-year period covered by the GAO.
+    For my testimony today, we categorized the GAO's findings 
+into three general areas: Deficient working papers and audit 
+work; lack of independence; and management abuses of employees 
+and impediments to the GAO investigation.
+    With regard to deficient working papers and audit work, the 
+GAO concluded that the working papers did not adequately 
+support the final conclusion and opinion for any of the 13 
+cases it investigated; that, in some of the cases, auditors did 
+not perform sufficient work to support their conclusions; and 
+that their supervisors did not instruct or allow them to 
+perform additional work. We agree.
+    We agree that the audit work should have been better 
+documented in the working papers, and in some cases, 
+supervisors should have assessed the need to perform additional 
+audit work prior to issuing the audit report. Changing draft 
+findings without adequate explanation, documentation, and 
+review is not acceptable, and does not follow the auditing 
+standards that DCAA strives to uphold.
+    So why did this happen?
+    In our discussions with the management team, we learned 
+that they did want to include inadequately supported findings 
+in audit reports, but did feel pressured to issue reports by 
+due dates. Thus, they removed the findings rather than 
+assessing the need to perform additional work. This is not 
+acceptable.
+    Regardless of the due date, audit work must be completed 
+prior to the issuance of any audit report or, in the case of an 
+external constraint, clearly state why the audit work could not 
+be performed by the due date.
+    Regarding lack of independence, the GAO concluded that, in 
+three audits, the contractor or the DOD contracting community 
+improperly influenced the audit scope, conclusions, and 
+opinions. The root cause of this conclusion was DCAA's 
+participation in Integrated Product Teams (IPTs). IPTs, as you 
+may know, were established in the mid-1990s as a way to 
+expedite the assessment of contractor bid proposals and to 
+resolve outstanding issues.
+    In the specific example cited by the GAO, the IPT was 
+established to expedite the resolution of a labor estimating 
+system problem at a major contractor. As the contractor 
+developed the revised procedures, the IPT, including the 
+auditor, provided feedback. The DCAA field office manager 
+informed the IPT that DCAA would audit the final estimates and 
+provide feedback on the drafts.
+    After several rounds of reviews, the contractor provided 
+the final procedure for audit. DCAA notified the contractor 
+that it planned to test a sample of estimates over a 
+prospective 4-month period although the auditor did not 
+specifically state which estimates would be selected. The GAO 
+concluded that the DCAA's participation in the Integrated 
+Product Teams was a violation of the independence requirements 
+under the auditing standards. The GAO also objected to the 
+auditor providing the time period.
+    As a result of the GAO's concerns, we have ceased DCAA 
+participation in all Integrated Product teams. Although audit 
+services will be provided during an IPT when requested by the 
+contracting officer, DCAA is no longer a member of an IPT. We 
+will no longer provide feedback during an IPT. DCAA will audit 
+only final contractor-approved submissions and will have no 
+involvement in draft submissions.
+    Regarding management abuses and impediments to the GAO, the 
+GAO concluded that a pattern of frequent management actions 
+served to intimidate some auditors and created an abusive 
+environment at two of the three locations it investigated. Rest 
+assured, inappropriate management actions will not be 
+tolerated, and disciplinary action will be taken as necessary.
+    However, since the GAO did not provide specific information 
+on which personnel action could be taken, we asked that the DOD 
+Inspector General investigate this matter. A draft report is 
+due in January 2009.
+    Mr. Chairman, my submitted testimony contains a list of the 
+actions DCAA has completed to date and actions we plan to take. 
+For the interest of my testimony today, I will discuss some of 
+those actions having to do with the Agency's structure, 
+culture, and processes.
+    We are performing a top-to-bottom staffing assessment, 
+including an assessment of the staffing of our quality 
+assurance function, to determine whether we have the 
+appropriate staffing at all levels of the organizational 
+structure.
+    We are assessing whether additional staffing will be 
+needed, including auditors, supervisors, and managers. And we 
+will continue to work with the Department on how best to 
+address future staffing needs.
+    Prior to the issuance of the GAO report, we recognized that 
+the span of control of supervisors to auditors needed to be 
+lowered, especially in those areas that had a significant 
+number of auditor trainees.
+    In June 2008, I lowered the number of auditors controlled 
+by each supervisor to provide for additional oversight.
+    I also approved additional field offices to lower the span 
+of control for the field office manager. Three additional 
+offices were approved earlier in the year; three more offices 
+were approved after the issuance of the GAO report.
+    DCAA has also realigned the quality assurance function so 
+that now reports directly to the Deputy Director. This change 
+will bring additional daily oversight at a very high level in 
+the organization and demonstrates our emphasis on quality 
+audits.
+    With regard to culture, we have undertaken an assessment, 
+which we hope to complete by the end of this month, to 
+determine whether the agency is using the appropriate metrics 
+and benchmarks, and whether those metrics are driving the right 
+behavior. This assessment includes focus groups, including 
+auditors, at all levels to provide feedback.
+    In the meantime, we have emphasized through various venues 
+the need to perform quality audits, and that other factors, 
+such as metrics, budgets, due dates, or external pressures, 
+should in no way compromise audit quality. For example, August 
+was declared ``Audit Quality Month.'' Each location held a 
+stand-down day to discuss audit quality and to resolve 
+impediments to audit quality.
+    We plan to conduct an agency-wide survey to identify 
+additional cultural issues.
+    As mentioned earlier, we have ceased participation in 
+Integrated Product Teams to avoid the appearance of a lack of 
+independence.
+    Finally, to address process improvements, we have increased 
+the number of management levels to resolve disagreements from 
+two to four. This raises the issue to the level of a senior 
+executive, if needed, and provides greater objectivity to the 
+resolution process.
+    Based on our own quality assurance reviews, in February 
+2008, we changed the signature authority for internal control 
+audits from the supervisory auditor to the field office 
+manager. We have now required managers to sign all reports, 
+regardless of findings, which should improve audit quality.
+    We expanded our next round of quality assurance reviews, 
+which started this month, to include additional offices and 
+additional assignments.
+    We initiated an internal assessment of audit work at other 
+locations to identify additional areas of improvement.
+    In addition, we have asked the DOD Inspector General to 
+review the actions we have taken on the specific 13 cases cited 
+by the GAO, in addition to assessing the issues involving the 
+management environment.
+    For all 13 cases, we have either completed additional audit 
+work or have assignments in process to mitigate the risk with 
+the assignments the GAO determined did not comply with the 
+auditing standards.
+    In closing, Mr. Chairman, Members of the Committee, I want 
+to again underscore the seriousness with which DCAA is taking 
+these actions. DCAA is committed to ensuring that the agency is 
+above reproach.
+    I thank the Committee for the opportunity to come before 
+you, and I look forward to your questions.
+    Chairman Lieberman. Thanks, Ms. Stephenson, for the 
+seriousness of your response.
+    We will go now to questions. Let's have 8-minute rounds 
+since there are only three of us here at this point.
+    Mr. Kutz, let me go to you here and ask you to answer the 
+question that, in a way, Ms. Stephenson raised, which is: Why 
+did this happen? I have heard some reference to the performance 
+metrics, which presumably put time pressure on auditors. But 
+just to repeat, this is an audit agency with a pretty good 
+reputation over the years, and yet you have documented, and Mr. 
+Heddell's group and the others have documented, some really 
+outrageous breaches of normal auditing standards.
+    Was it just the performance metrics? Or was something else 
+happening here?
+    Mr. Kutz. Well, as she mentioned, there were independence 
+issues with several of these. Whether it be in fact or 
+appearance or both, we found independence was an issue with at 
+least three of these audits.
+    Chairman Lieberman. OK. So define that a little more. What 
+do we mean by independence issues?
+    Mr. Kutz. Well, the case that she mentioned was with a 
+contractor where there was an up-front agreement that if a 
+certain process was followed, they would get a favorable 
+result. And DCAA was commenting on what it was auditing at the 
+end throughout the process, and yet they gave an opinion on the 
+final product. And what she is saying now is they are going to 
+back away from that and really provide audit of the final 
+product which will assess the system.
+    In that particular case, the system could not produce 
+reliable estimates, yet they gave an ``inadequate in part'' 
+opinion, I think, on that one.
+    Chairman Lieberman. So was that because they were subject 
+to undue pressure from the contractor?
+    Mr. Kutz. I am not sure if it was pressure. Just the way 
+the process was set up in that particular case.
+    Chairman Lieberman. And they went along with it.
+    Mr. Kutz. And they went along with it, yes.
+    Chairman Lieberman. Yes.
+    Mr. Kutz. And they have been doing it for years, as she 
+mentioned. So that would be an example of the independence 
+problem.
+    In other cases, there was pressure from contractors to have 
+certain things happen, and reports were issued by supervisors 
+that had not reviewed working papers. She mentioned that there 
+is pressure for deadlines, and I think the reality is there is 
+pressure from contractors and the commands to help facilitate 
+the process rather than look out for the taxpayers, as these 
+two witnesses to my right have described. So independence was 
+one of the issues.
+    You mentioned production. I think there is a difference 
+between production and productivity. There was a big focus on 
+production here, and I think productivity is----
+    Chairman Lieberman. In other words, the number of audits 
+that would be----
+    Mr. Kutz. The number of audits and how many days were to be 
+spent on them rather than making sure that if there were 
+significant complex issues that there was plenty of time spent 
+to resolve them and issue the right report. If it was September 
+and there were issues, they would get a report out the door 
+rather than resolve those issues. I think she addressed that 
+also in her opening statement in the way that they thought 
+about this. So that was another issue.
+    I think the other one in some of the locations was there 
+was----
+    Chairman Lieberman. Let me stop you there and just ask if 
+you have reached a judgment yet or you are going to wait until 
+your final report to reach judgment on whether these 
+performance metrics drive, time pressures, or whether the DCAA 
+is understaffed? In other words, one reason they may be under 
+time pressure is that they do not have enough personnel.
+    Mr. Kutz. Well, it raises a serious question when you are 
+issuing tens of thousands of audits with 3,500 auditors.
+    Chairman Lieberman. Yes.
+    Mr. Kutz. Either you are not doing the right audits and you 
+are doing a lot of audits that do not have a lot of 
+significance, or you do not have enough staff. We have not 
+taken a complete look at that. I agree with you, Senator, that 
+is something that needs to be looked at----
+    Chairman Lieberman. OK. Look further, then.
+    Mr. Kutz [continuing]. Because the dollars have gone up and 
+the number of staff has stayed flat or gone down. That raises 
+questions.
+    Chairman Lieberman. Go on with what you were saying.
+    Mr. Kutz. Well, the other one was inexperienced staff were 
+not being supervised on a daily basis. I think that was an 
+issue, and, again, I think they were stretched thin. It could 
+get back to what you just described. But inexperienced staff 
+that came up with findings and supervisors that did not have 
+time necessarily to review them on a day-to-day basis. So you 
+get to the end of the audit, and a bunch of issues have been 
+raised. You do not have time to fully vet them, so you just 
+issue the report. The supervisor says, ``Well, those are not 
+really good findings. I am going to delete them, and I am just 
+going to issue a clean opinion at the end of the day.''
+    So those are some of the kinds of things that I believe----
+    Chairman Lieberman. OK. That is helpful. You do not want to 
+reach a prejudgment where there are such amounts of money 
+involved here, of why changes were made to the benefit of the 
+contractors. I am just looking at that point of view. Was there 
+any indication of supervisors who were currying favor with the 
+contractors in hopes of going through the revolving door to go 
+to work with the contractors? Is there any evidence of self-
+serving here in the ``inadequate'' audits that you found?
+    Mr. Kutz. I think it is a high risk. We did not see it 
+specifically.
+    Chairman Lieberman. It is a high risk that it may be going 
+on?
+    Mr. Kutz. Yes, it is a high risk because all the opinions 
+changed in the same direction, in favor of the contractor. We 
+had 11 opinions of the 14 that improved for the contractor. If 
+some of those had gotten worse, I would not be quite as 
+suspicious. They all got better at the end of the day. We did 
+not see any specific evidence of bribes, kickbacks, things like 
+that.
+    Chairman Lieberman. Right.
+    Mr. Kutz. But that does not mean it is not happening. I 
+just do not have any evidence that it is. But I think it does 
+tie clearly to the production focus and the inability to take 
+enough time to fully vet those findings. And it is easier to 
+wash them away than to deal with them.
+    Chairman Lieberman. How about the other kind of pressure, a 
+different kind of pressure--which Mr. Hackler really referred 
+to--which is the satisfaction of the customer, the customer in 
+the case you mentioned being the Air Force, either because the 
+Air Force itself was in a buddy system with the contractor or 
+because the Air Force just wanted to get the job done and did 
+not want it held up by some audit? Did you find evidence of any 
+inappropriate pressure by the Air Force on the auditing 
+supervisors?
+    Mr. Kutz. Yes, I think we did see evidence of that. And, 
+again, you have a situation where the Department of Defense 
+partners, in effect, with these contractors. Sometimes it looks 
+like DCAA gets swept into that partnership. But they are the 
+auditors. The auditors cannot really be the partners in this 
+whole situation.
+    So I believe there was some of that, and it raises a bigger 
+issue from an independence standpoint where DCAA is within the 
+organization or whether there should be more independence of 
+DCAA organizationally. She talked about other issues, but I 
+think organizationally, they need to assess whether they are 
+placed in the proper place in the government.
+    Chairman Lieberman. Am I right that right now they are 
+under the Comptroller of DOD?
+    Mr. Kutz. They are under the Comptroller, yes.
+    Chairman Lieberman. So I hope that one of the other things 
+that you will take a look at and speak to us in your final 
+report is whether a move out of that line reporting to more 
+independence would help the Agency.
+    Mr. Hackler, do you have anything you want to add to this 
+question, this perplexing question about why the supervisors 
+acted badly here?
+    Mr. Hackler. In my situation, it was personal ambition. I 
+should note that all of the individuals involved with every 
+audit that was looked at by the GAO are either retired or have 
+been promoted. In my situation, the directed audit opinion that 
+I had to issue because of a directed stance, the person has 
+been elevated to the Senior Executive Service (SES) level.
+    Chairman Lieberman. Yes. So the ambition was within the 
+agency.
+    Mr. Hackler. Yes.
+    Chairman Lieberman. And the thought was that if you did not 
+cause waves with critical audits, you would be more likely to 
+rise?
+    Mr. Hackler. It is a common theme. It helps you with your 
+metrics.
+    Chairman Lieberman. Yes.
+    Mr. Hackler. Everyone looks good.
+    Chairman Lieberman. Yes. Ms. Le, do you want to add 
+anything?
+    Ms. Le. In my opinion, I think there are two fronts. The 
+first one is that I think it is because of DCAA's desire to be 
+a partner with the procurement offices, and in that partnership 
+we want to have customer satisfaction.
+    Chairman Lieberman. Right.
+    Ms. Le. And that is the pressure. So that is up front.
+    Chairman Lieberman. And, again, who is the customer there?
+    Ms. Le. The procurement offices or the officers.
+    Chairman Lieberman. OK.
+    Ms. Le. And the second part of that is the personal 
+ambition and promotion within the agency, because the agency is 
+so metric-driven that anybody who would meet the metric will be 
+promoted. And like Mr. Hackler has stated, the people involved 
+in the investigation, they have been promoted.
+    Chairman Lieberman. OK. I thank you. I will come back to 
+this issue, and maybe my colleagues will ask Ms. Stephenson 
+about why the supervisors who were criticized by GAO and the 
+other investigations have either been promoted or retired and 
+not disciplined. If my colleagues will allow me, let me ask you 
+that question just to wind this up because you spoke with real 
+seriousness about the Agency's response to these allegations, 
+and I appreciate that. But here you have a situation where it 
+seems to me that exactly the opposite message is being sent to 
+the people who were criticized by GAO.
+    Ms. Stephenson. I understand that, sir, and I understand 
+the way that this appears. Most of the promotions, except for 
+one, happened prior to the GAO report. There were no 
+indications in those promotions that they did not follow the 
+merit promotion principles. There was one who was promoted 
+after the GAO report was issued, a couple of days later. That 
+particular promotion was reviewed through the General Counsel's 
+office to determine whether it followed merit promotion 
+principles. In that particular case, it did.
+    Chairman Lieberman. You mean it was reviewed after the GAO 
+report?
+    Ms. Stephenson. Yes. However, on that particular promotion, 
+I would like to explain the person has not been put in their 
+position, and we recognize that there may be some additional 
+findings that will come out of the IG report that is due in 
+January. And if there are indeed additional actions that come 
+out of that GAO report, we will take the actions at that time.
+    Chairman Lieberman. So that person has been promoted but 
+not placed in the position?
+    Ms. Stephenson. That is correct.
+    Chairman Lieberman. And not given additional pay?
+    Ms. Stephenson. No, they have not.
+    Chairman Lieberman. OK.
+    Ms. Stephenson. Now, I would say that we have been advised 
+by counsel that because the IG is performing a review of the 
+management abuses and is looking into the actions of these 
+employees that were taken, we needed to cease on any 
+disciplinary actions that we took on those employees in case 
+there are additional actions that need to be taken, and we 
+would take them all at once because you cannot discipline twice 
+for the same action. So we have been put in a holding pattern, 
+and we are grateful to the IG for taking on this action for us 
+to bring objectivity to the process versus us looking at 
+ourselves, having the IG look at ourselves. And I am committed 
+that if there are actions that the IG finds need to be taken, 
+we will take those actions.
+    Chairman Lieberman. OK. I appreciate that very much, and to 
+say the obvious, this Committee would like to be kept informed 
+on a very timely basis of what you are doing with regard to 
+those supervisors.
+    Ms. Stephenson. Absolutely, sir.
+    Chairman Lieberman. Thank you. Senator Collins.
+    Senator Collins. Thank you.
+    Mr. Kutz, the DCAA has some 300 field offices, and we have 
+talked about the very disturbing findings that GAO has 
+documented in three of those offices. But you are, at the 
+Chairman's and my request, in the midst of doing a broader 
+assessment of DCAA. Thus far--and I realize your assessment is 
+still underway--are you seeing the same kinds of troubling 
+problems that we have talked about this morning in other 
+regions of the country in other field offices?
+    Mr. Kutz. I would say in some cases, yes; other cases, not 
+necessarily. The abusive work environment one, for example, we 
+have not seen--although we were doing it more like a peer 
+review, we had specific allegations with respect to the 14 
+audits that we looked at to this point. So it does not mean it 
+is not going on, but that does not appear to be as big of an 
+issue.
+    The overall theme, some of the independence issues I talked 
+about, the lack of sufficiency of work, and a little bit of the 
+changing of opinions, appears to be out there also. Ms. Fischer 
+may want to add a little more. She is leading that broader 
+look.
+    Senator Collins. Ms. Fischer.
+    Ms. Fischer. That is correct. We found the same types of 
+problems with regard to support for the audit opinions and the 
+dropping of some findings in the work we have looked at across 
+the various DCAA regions.
+    Senator Collins. And the independence issue, which to me is 
+the most troubling, are you seeing that?
+    Ms. Fischer. We have seen some aspects of that with regard 
+to the effect of the metrics process where they would maybe do 
+less work than they should. That is one of the impairments to 
+independence if you do not allow enough time for the audit. We 
+have seen a hesitancy to disclose, maybe in a report, that 
+there is an ongoing fraud investigation. We have some questions 
+about the low number of fraud referrals coming out of some of 
+the work across the offices, that kind of thing.
+    Senator Collins. We will be looking forward to the results 
+of that more comprehensive review because I think a fundamental 
+issue that has been raised this morning is whether DCAA has 
+sufficient insulation and independence within the Department of 
+Defense. This whole debate reminds me very much of when some of 
+the major accounting firms became too close with their 
+corporate clients and lost their independence and objectivity a 
+few years back when the corporate accounting scandals broke. 
+And it seems to me that what we are hearing over and over again 
+is that DCAA sees as its customer not the American taxpayer but 
+the program manager or the procurement officer or in some cases 
+perhaps even the defense contractor.
+    So I think it is premature for us to reach a conclusion on 
+that, but that is an issue that I think we should take a look 
+at of whether or not it is a mistake to have DCAA within the 
+Department of Defense. Maybe it needs to be pulled out to be 
+more independent of the program manager, the procurement 
+officers, and even the contractors themselves. And that is 
+something that I would like GAO to take a look at as you come 
+back to us with your recommendations.
+    Ms. Fischer. Yes, we are taking a broader look at that 
+whole environmental picture.
+    Senator Collins. Mr. Heddell, I found your testimony 
+troubling and surprising this morning on a couple of counts. 
+First of all, the IG's office completed a review of DCAA in May 
+2007, and it basically said that the quality and the compliance 
+with established policies, procedures, and applicable auditing 
+standards were adequate. And yet at the same time, other DOD IG 
+personnel were involved in assisting the GAO with an 
+investigation of these 14 audits that we have discussed today.
+    How could DOD IG conclude in its report dated May 1, 2007, 
+that DCAA passed the review and that its procedures were 
+satisfactory, when at the same time your office knew of these 
+questionable audits on the West Coast offices?
+    Mr. Heddell. Well, I think that is a very important 
+question, Senator Collins, and I will try to give you what I 
+hope will be a satisfactory answer.
+    We are talking about two different things that were 
+occurring here. The hotline investigation, which was initiated 
+as a result of a November 13, 2005, complaint, which identified 
+10 audits in two specific offices in southern California--
+Huntington Beach and Santa Ana--and that initiation was a 
+criminal investigation entirely.
+    The external peer review that you are referring to, which 
+was reported on May 1, 2007, was a broad review, had a totally 
+different scope and totally different approach--one being more 
+of an audit, the other being a criminal investigation. And the 
+time periods that were covered are different. The hotline 
+investigation looked at 10 audits that were conducted between 
+2002 and 2005. The external peer review that we reported on in 
+May 2007 looked at fiscal year 2006. So you also had two 
+different time periods.
+    In addition, in the criminal investigation we were focused 
+on supervisors, managers, and auditors in a very limited 
+geographic area, as I indicated. In the external peer review, 
+we were looking at five DCAA regions coast to coast, as well as 
+their field detachment that looks at classified information. So 
+one was very broad. The other was very narrow and very focused.
+    Now, the reality is that criminal investigators were using 
+the assistance of auditors, and it was through their assistance 
+that we were able to identify and say that all 10 of those 
+audits out in Santa Ana and Huntington Beach were deficient. 
+And the auditors were conducting their peer review with the 
+general knowledge of what had been discovered and was known out 
+in southern California. So there was a general knowledge, but 
+the results are different because it is two different focuses. 
+Again, the focus out in southern California was on whether or 
+not the opinions were correct and whether the working papers 
+were supported. The focus in the peer review was whether there 
+were significant deficiencies that were enough to indicate that 
+material deficiencies adversely affected the overall system of 
+quality in DCAA.
+    The professional and collective opinions of the audit staff 
+that conducted that peer review that they reported on in May 
+2007 had the opinion, when everything was said and done, that, 
+in fact, the structure in place at DCAA during fiscal year 2006 
+was such as to be acceptable according to government auditing 
+standards.
+    Now, if I could just add one other quick thing, the fact of 
+the matter is even though I think that it is reasonable to say 
+you could have two different results, I believe that in our 
+look at this thing, we were a little off on this because I 
+think that the Office of Inspector General unfortunately failed 
+to get its arms around the broader issue here. So it is a 
+matter of an organization being focused audit-wise, being 
+focused criminal-investigation-wise, but the broader 
+organization did not pull it together. I am not saying there 
+would have been a difference, but I think it was a weakness 
+within the Office of Inspector General.
+    Senator Collins. Thank you. In my next round, I want to get 
+back to the handling of the complaint and the 3-month delay in 
+referring it and your comments about Hurricane Katrina. 
+Obviously, the DOD IG was involved in the fraud investigations 
+given that the Army Corps of Engineers had a number of the 
+contracts for the blue tarps, for water, and for ice. But I am 
+alarmed at what you said today, but I will get into that in a 
+second round.
+    Thank you.
+    Chairman Lieberman. Thank you, Senator Collins.
+    Thanks, Senator McCaskill, for being here and for the 
+support that you and your staff have given this particular 
+investigation and the preparation of this hearing.
+    Senator McCaskill. Thank you, Mr. Chairman. And for 
+purposes of managing my time, will we have more than one other 
+additional round? Because I obviously could be here for hours, 
+and I wanted to take a couple of minutes to put something in 
+the record before I began. But I will not waste that time if--
+--
+    Chairman Lieberman. My expectation was that we would have 
+at least one more round. If you want more time than that, I may 
+just leave you here. [Laughter.]
+    Senator McCaskill. That would be great. Check back in 
+tomorrow.
+    Chairman Lieberman. And require the continued presence of 
+the witnesses.
+
+             OPENING STATEMENT OF SENATOR MCCASKILL
+
+    Senator McCaskill. OK. Thank you, Mr. Chairman, very much.
+    Back in 1986, when I was a young attorney, I remember 
+hearing about $400 hammers and $600 toilet seats. And like most 
+Americans at the time, I thought, how in the world does that 
+happen at the Pentagon?
+    Now, after spending a great deal of my professional life as 
+an auditor, I understand why it could happen at the Pentagon. I 
+have had some sleepless nights after I read this GAO report, 
+not because what was in the report was so incredibly 
+unbelievable--that is true--but more the response of the 
+foundational organizations within the Department of Defense and 
+government oversight that have failed.
+    There are so many failures that are wrapped up in this 
+hearing, it is hard to know where to begin. And I have to 
+disagree with you, Inspector General, about peer review. I 
+fundamentally understand what peer review is. There is a 
+dramatic failure of peer review in this instance. Peer review 
+is all about seeing if the systems are adequate in terms of 
+working papers supporting findings. What an auditor must do is 
+find the facts supported by working papers. It is just that 
+simple.
+    And if we have instances--I do not care if they are in 
+southern California or in a small town somewhere in the 
+Midwest. If we have instances within an auditing agency where 
+someone is ignoring working papers and changing findings, a 
+peer review ought to find it, and a peer review ought to call 
+it out. That is what they are there for. That is the only 
+reason a peer review is there, to examine the fundamental 
+strengths of the auditing processes. They are not there to cast 
+judgment on individual findings or individual scopes or 
+individual priorities that an agency may set.
+    And so I certainly respect your record as an Inspector 
+General at Labor, and I know you have walked into a hornet's 
+nest. And I am hoping that in the time I spend here, eventually 
+we will get to a point in a hearing where I feel really good 
+about the DOD IG. I am a long way from there right now.
+    I want to commend the auditors. You are heroes. You did not 
+go into this line of work for the money, and you certainly did 
+not go into it for the glamour. This is hard stuff. It is 
+complicated. It is so complicated that it is very hard for 
+Congress to have longer than a 5-minute attention span, which 
+is one of the reasons why we have continually had the 
+astronomical numbers of waste, fraud, and abuse at DOD and the 
+Pentagon because it is hard. And as you can see by the 
+attendance at this hearing today, it is not glamorous on this 
+side either.
+    So I want to really commend you, as a 17-year auditor, as 
+two people who realize that the absolute foundation of what 
+made you feel good about coming to work was shaken because you 
+were not coming for the money and you were not coming for the 
+glamour. You were coming because you fundamentally believed 
+that when you found problems, they were going to be exposed.
+    Now, the response to the audit was wrong. The fact that 
+people who are responsible for this have been promoted or have 
+retired is ridiculous on its face. It is ridiculous on its face 
+that anyone who was involved in this has been promoted. And 
+nobody in America gets it, how you can promote somebody who was 
+involved in this. And we are going to try to get to the bottom 
+of it before this is all over.
+    I appreciate you, Ms. Stephenson, for coming to my office 
+and spending the time with me that you have. And I have a 
+specific question about that before I finish.
+    I think at the root of this problem is a phony baloney 
+performance metric. We need to get to the bottom of the Office 
+of Management and Budget (OMB) and these performance metrics, 
+and this is something I would like to talk to you about, Mr. 
+Chairman. When you have performance metrics, there are pages 
+here--and I have read every word--about how great DCAA is 
+doing. And do you know there is one paragraph about how much 
+money they saved?
+    This was all about making sure that somebody looked good up 
+the line in terms of how many hours they were spending on an 
+audit and, second, about pleasing the contracting people at the 
+active military. That is all this was about. And, by the way, 
+this says they are doing great at pleasing their client, which 
+is, in fact, the people who enter into contracts in the Air 
+Force, the Army, and all those places; that they are showing 
+that they are cheaper than outside auditors so nobody needs to 
+worry about getting privatized; and that they are doing a lot 
+of audits in a few amount of hours.
+    Now, by the way, multi-billion-dollar contracts are where 
+it should take a lot of time. This is hard. Most of us do not 
+even understand all the intricacies of these contracts. 
+Congratulations that you do. You have given the best 
+explanation of lot pricing I have ever heard, and I am on the 
+Armed Services Committee.
+    So, this is really fundamentally broken. The culture is 
+broken, the performance metrics are broken, and the oversight 
+is broken. And we have got to get it fixed. We have enough 
+money, if we scrape the surface, to bail out all the Fannie 
+Mae's and Freddie Mac's in the world if we would just get 
+serious about this.
+    Let me start, if I can, with the most difficult question I 
+have to ask today. Ms. Stephenson, I hate to put you on the 
+spot, but this is your job. You and I met in my office, and I 
+have been impressed at your willingness to acknowledge that 
+your response to the audit was inadequate, that there is a 
+serious and substantial problem here, and you pledged to me 
+that you wanted to work with me and my staff to do the best job 
+you could getting it fixed.
+    I have heard troubling rumors since our meeting that you 
+have been instructed by Tina Jonas not to talk to me or meet 
+with me again. Is that true?
+    Ms. Stephenson. No, ma'am. It is not true. My understanding 
+is that we met with the staffers on August 20, and that we have 
+been providing weekly updates on the actions that we have 
+taken. I, at no time, was instructed by Tina Jonas not to meet 
+with you. I was told in various instances that we would meet 
+with the staffers. I apologize, ma'am, if you wanted me to come 
+back to you.
+    Senator McCaskill. No. I was told by people--I mean, you 
+can imagine how my phone is ringing off the hook. And we 
+received information that Tina Jonas instructed people around 
+DCAA, including you, that they should not have contact with my 
+office. And I wanted to find out if that rumor was true or 
+false.
+    Ms. Stephenson. That rumor is not true, ma'am.
+    Senator McCaskill. OK, great. That is the best news I have 
+heard all day.
+    Let me ask you, because my time is almost up on this round, 
+Inspector General Heddell, have you done any investigation as 
+to the people under your supervision who exposed the 
+whistleblowers? Do you know who those people were that exposed 
+Ms. Le?
+    Mr. Heddell. Well, it is not--the answer to that is it is 
+not as simple at that. If I could take a minute, I would be 
+more than happy to try to address that.
+    Senator McCaskill. OK.
+    Mr. Heddell. With regard to your earlier remarks, Senator 
+McCaskill, I do not think you and I really disagree. I 
+appreciate your remarks, in fact.
+    First of all, I would like to say thank you to Ms. Thi Le 
+because, frankly, being a law enforcement professional for most 
+of my life, we depend on people who will come forward----
+    Senator McCaskill. That is exactly right.
+    Mr. Heddell [continuing]. And who will talk to us. And she 
+did. And there is a lot more that I could say that is very 
+positive about what she has done for us.
+    Let me explain what happened in this situation, however, 
+and it probably is a situation that needs to be fixed. But here 
+is the case.
+    There was a 3-month delay in handling that hotline 
+complaint. It came in on November 13, 2005. It was not handled 
+until February 8, 2006. As I indicated in my statement, the 
+Department of Defense OIG hotline became the fraud hotline for 
+the entire Federal Government between September 2005 and March 
+2006. During that time we took in almost 10,000 Katrina and 
+Rita hurricane-related allegations. In addition to that, we 
+took in our regular allegations, which were about 8,000, so 
+tremendously overtaxed. And there was a priority system in 
+place that said that we would only--that we would for the most 
+part address life-threatening issues and senior official 
+issues. And that is why the delay.
+    Now, routine hotline referrals that we get--and I emphasize 
+the term ``routine''--the way that they are handled is they 
+come in, and as long as they are routine, they are referred to 
+a DOD agency, in this case DCAA. The Department of Defense has 
+a hotline program, and they have very formal instructions under 
+DOD Instruction 7050.01, and those instructions say that when 
+hotline referrals come in, they are required to have a process 
+in place whereby they independently review and report on the 
+nature of the hotline. And it goes on to say that maximum 
+emphasis must be given to protect the identity and the 
+confidentiality of the person who calls in or provides the 
+information.
+    Now, in this particular case, the hotline referral came in 
+and was treated routinely, and, of course, with regard to all 
+the major issues that were occurring at that time--and I could 
+go down the list--that particular hotline complaint was treated 
+as a routine matter and, like all routine matters, it went to 
+the agency involved, with the exception--we have three 
+exceptions: If it involves a senior official, if it involves 
+reprisal, or if it involves criminal activity. And that 
+particular hotline complaint was judged not to have any of 
+those three attached to it at that point in time. But it also 
+was judged to be routine, and, therefore, it was referred to 
+DCAA.
+    Now, I will tell you, I think we misstepped on that one 
+because, in my opinion, anytime something comes in that 
+involves DCAA, as important an organization as it is--and when 
+you think about what it does--I think we should have taken 
+that. I think we should have kept it--we, the Office of the 
+Inspectator General (OIG)--and we should have worked it 
+ourselves.
+    Fortunately, within 30 days of referring it to DCAA, we 
+realized and we were able to get back on track with that thing, 
+and we took it back.
+    Senator McCaskill. But it was only because Ms. Thi Le 
+complained to Criminal Investigations.
+    Mr. Heddell. Yes, ma'am.
+    Senator McCaskill. If she had not done anything more, 
+nothing may have happened.
+    Mr. Heddell. I do not deny that is probably what would have 
+happened--nothing--at least for a while.
+    But here is the thing. What I outlined for you is the 
+system for handling routine complaints because there are 
+thousands of them that do come in. Unfortunately, in this 
+particular case, it was referred to DCAA.
+    Now, the complaint itself did not specifically identify any 
+one person, but having said that, I can tell you as a trained 
+investigation, I think I could have looked at that, and I think 
+I could have figured it out. We made a mistake on that. And I 
+feel badly because, as I said, we rely on people like Ms. Thi 
+Le to help us out. I think the system could be improved there.
+    Senator McCaskill. Thank you for acknowledging the mistake. 
+Thank you, Mr. Chairman.
+    Chairman Lieberman. Thank you, Senator McCaskill. We will 
+now do a second round of 8 minutes.
+    Ms. Stephenson, in terms of the response, we talked about 
+what has happened to the supervisors who were criticized, but 
+let me go now to the actual audits. According to the GAO 
+report, since being briefed on the results of that report, you 
+have rescinded three of the audits and performed three other 
+new audits that resulted ``inadequate in part'' opinions. But 
+that still leaves more than half of the questionable audits 
+untouched.
+    Is DCAA itself re-examining those audits?
+    Ms. Stephenson. Oh, absolutely, sir. For all 13 cases, we 
+have analyzed what the issues were with those cases, whether 
+they be an estimating system, whether they be a billing system, 
+where additional testing needed to be done. But all 13 have had 
+additional audits either in process or completed. Most are in 
+process as of this time.
+    Chairman Lieberman. So you have rescinded three, issued 
+``inadequate in part'' opinions on three. So on the remaining 
+seven you are in review of those now?
+    Ms. Stephenson. It is actually more than that, sir. There 
+were 13 cases, and for some of them there are two to three 
+additional audits that we are doing because the issues that may 
+have been called into place may have been in various areas and 
+not just one audit, although the audit that the GAO looked at 
+was one audit. So we expanded it where we needed to, to ensure 
+that we had the appropriate coverage.
+    Chairman Lieberman. So, bottom line, none of the audits 
+that are in question and found wanting are being left sitting 
+as they were?
+    Ms. Stephenson. No. In fact, contracting officers have been 
+notified of the GAO's findings on those reports, and they have 
+been told not to rely on the results in those reports. And they 
+have been given the timeline for the additional audits that 
+will be performed. We did not want a contracting officer that 
+was holding those reports to be acting on the findings.
+    Chairman Lieberman. Let me go to Mr. Heddell for a 
+question, but it raises an issue I want to come back to you on. 
+Mr. Hackler's testimony alleges a very costly flaw in a 
+contract with Integrated Defense Systems, a Boeing subsidiary, 
+for satellite launch capabilities. And as you know, his 
+allegations have now been substantiated by GAO.
+    I wanted to ask you what your office is doing to follow up 
+on the audit and if there is any recourse--and this is where I 
+will ask Ms. Stephenson to join you in answering--for the 
+taxpayers for what sounds to me like an unjustified payment of 
+$270 million of taxpayer money.
+    Mr. Heddell. The answer to, I think, the core of your 
+question there is, with regard to the Inspector General, we 
+have two initiatives ongoing at this point, Mr. Chairman. One 
+is an investigative initiative relative to senior officials.
+    Chairman Lieberman. Right.
+    Mr. Heddell. Another one is an audit initiative to take a 
+look at what happened, to try and identify the problem. At 
+least in my opinion, the more important question that you are 
+asking, I think, is what is happening here, and why is this 
+happening.
+    I think for one thing--and this is an opinion--I think 
+there is--appropriately, there is a lot of emphasis on what are 
+called generally accepted government auditing standards. I 
+think those are extremely important. I am not an auditor. My 
+professional background is more in the leadership and 
+management area. But I think the issue is more about leadership 
+than it is about auditing standards. And I think that is 
+where----
+    Chairman Lieberman. Leadership right to the top.
+    Mr. Heddell. Leadership to the top.
+    Chairman Lieberman. To Ms. Stephenson in this case.
+    Mr. Heddell. Well, it is not just Director Stephenson. I am 
+talking about a much broader subject. The Department of 
+Defense, its budget has doubled in recent years, as you know 
+better than I do. And the number of procurements has 
+skyrocketed. The number of life-threatening issues that the 
+Department deals with--and you are not talking millions 
+anymore. We are talking billions.
+    Chairman Lieberman. Sure.
+    Mr. Heddell. And the fact of the matter is that leadership 
+is, in my opinion, the real issue. And who is important? Only 
+the taxpayer can be viewed as the customer.
+    Chairman Lieberman. Yes, that is the customer.
+    Mr. Heddell. So I think our focus has to be on how do we 
+lead better. For instance, I know that DCAA has an internal 
+audit peer review that they do themselves, but I think the 
+focus is more on audit than it is on management.
+    Chairman Lieberman. Let me interrupt you, with apologies, 
+because my time is running. Is there anything that the 
+government could do to recover money improperly spent as a 
+result of these inadequate audits?
+    Mr. Heddell. Well, yes, sir. The government through audits 
+that we conduct recovers millions of dollars every year. In 
+fact, a lot of the semiannual reports of the Inspectors 
+General, which, by the way, come out at the end of this month, 
+will show the amount of monetary recoveries they have made over 
+the past 6 months.
+    Chairman Lieberman. So are you pursuing any monetary 
+recoveries in any of these cases, including----
+    Mr. Heddell. Yes, sir.
+    Chairman Lieberman [continuing]. The one Mr. Hackler 
+referred to.
+    Mr. Heddell. Well, I cannot speak to that one because we 
+are not finished yet, sir.
+    Chairman Lieberman. OK.
+    Mr. Heddell. But I can say that in some of the others, yes.
+    Ms. Stephenson. Sir, can I speak to that?
+    Chairman Lieberman. Please do.
+    Ms. Stephenson. As far as the recovery?
+    Chairman Lieberman. Yes.
+    Ms. Stephenson. That is one of the 13 cases, and that is an 
+instance where we do have a recovery mechanism under the Cost 
+Accounting Standards. Under the Cost Accounting Standards, if a 
+contractor is found to be noncompliant, you can retroactively 
+go back to when that contractor started that practice and 
+request recoupment from the contractor. That is a public law. 
+We are in the process of performing audits under the Cost 
+Accounting Standards on those particular issues and those 
+accounting practices to determine whether that contractor is 
+indeed compliant or not. So I believe that is a remedy which we 
+could have.
+    Chairman Lieberman. Good.
+    Ms. Stephenson. Second, if I could clarify that situation 
+as well, and I certainly appreciate Mr. Hackler and Ms. Le 
+being here today, especially Mr. Hackler in talking about the 
+issues with the Evolved Expendable Launch Vehicle (EELV) 
+program. I know that has taken a lot of courage for them to 
+come forward, and I do want to thank them.
+    Chairman Lieberman. I want to ask you something about that 
+while you are at it.
+    Ms. Stephenson. Sure.
+    Chairman Lieberman. Will you promise that you will do 
+everything you can to make sure that Mr. Hackler and Ms. Le are 
+not in any way harassed or punished as a result of their 
+whistleblowing?
+    Ms. Stephenson. You have my personal commitment on that, 
+sir, because I know it did take a lot of courage for them to 
+come forward, to continue coming forward, and to not let loose 
+of their convictions as to the issues and the concerns they 
+have about their agency.
+    Chairman Lieberman. Yes, I agree. They are heroes, as 
+Senator McCaskill said, and both of them feel that they have 
+suffered as a result of blowing the whistle. So we are going to 
+count on you to make sure, as the Director of the DCAA, that 
+any harassment stops.
+    Ms. Stephenson. Absolutely, sir.
+    Chairman Lieberman. Go ahead with your answer.
+    Ms. Stephenson. I just wanted to clarify. On the EELV 
+program, which was a very complex program for all involved, 
+including us, as technical as we are with auditors, there was a 
+certain amount of the cost that was put forward as being 
+questionable. There was another part of the cost on which we 
+were not able to render an opinion because of the way in which 
+the contractor's accounting records were maintained. And I know 
+that was a point of disagreement as to whether that additional 
+amount that stemmed from the way in which the costs were 
+accumulated under portions of the contract prior to it having 
+to comply with the Federal Acquisition Regulations and the 
+accounting standards. And I realize that was a point of 
+contention, and it did get raised up several levels to 
+management within the region where they made a decision they 
+did not feel that there was enough information in the 
+accounting records of the contractor, given the way in which 
+they had put the records together, in order to express a clear 
+opinion that this was questionable. Rather, they set the costs 
+aside in the report and stated that this was an area that 
+appeared to be allocable to the government. We did it as what 
+is called a ``qualification'' under the auditing standards, 
+which is when you do not have enough information to express an 
+opinion. We also asked the Air Force in that report not to 
+conclude negotiations until it had assessed this situation.
+    As I said, I completely understand Mr. Hackler's concern 
+with this and the need to have completely questioned all of it 
+as opposed to saying, well, for part of it we just may not have 
+had the type of information necessary in order to express that 
+opinion. And I think that is something we are going to look at 
+closely as we go forward as to how aggressive we are in 
+situations where there is a lack of information. Perhaps that 
+could have been handled better.
+    What I can give you is the commitment here today is we will 
+complete those audits under the Cost Accounting Standards, and 
+we will continue to work with the organizations--it would be 
+the Defense Contract Management Agency and the Air Force--that 
+if we feel recoupment is necessary, we will work with those 
+organizations and work toward that recoupment.
+    Chairman Lieberman. Good. Thank you for that. My time is 
+up.
+    Senator Collins.
+    Senator Collins. Thank you.
+    Mr. Heddell, you answered a lot of my remaining questions 
+when the Senator from Missouri was talking to you earlier, but 
+I want to clarify one point which is still unclear to me.
+    When the complaint came in from Ms. Thi Le, did the IG 
+mistakenly forward back to DCAA her personal information or 
+identifying information? Or was it just a case that anyone 
+could figure it out because of the contract and the nature of 
+the complaint?
+    Mr. Heddell. The complaint that came in on November 13, 
+2005, came in with the name of a person who is not sitting at 
+this table, or at least not with the name that was put on the 
+complaint. So the complaint came in with a name that is not 
+sitting here today. But the complaint did list potential 
+witnesses, and Ms. Thi Le was listed as a potential witness, 
+among others. And the complaint was deliberately--and I do not 
+mean maliciously, but ``routinely''--forwarded on February, 8, 
+2008, to the DCAA.
+    Now, to the best of my knowledge, the DCAA management 
+handled that complaint properly. I do not know that they 
+divulged her name, but I do know this: That if you read the 
+complaint, it would have been pretty easy to figure out who 
+probably made the complaint.
+    So it was the system. It was followed. But, unfortunately, 
+that complaint was treated routinely, and that is why I said in 
+my opinion it should not have been routine.
+    Senator Collins. I was just going to say, that is a problem 
+in and of itself, as you have conceded.
+    Ms. Stephenson, I want to talk to you about DCAA's 
+cooperation with investigators, whether it is from GAO, the 
+Defense Criminal Investigative Service, or the IG's office. In 
+the case of Thi Le, DCAA issued an extremely broad and 
+restrictive memo--you could look at it as a gag memo--that 
+directed her not to provide documents to the GAO or anyone 
+else. And the memo also cautioned that if she did provide 
+documents, she could be punished and even lose her job. In 
+fact, Ms. Thi Le testified today that she was threatened that 
+she could be prosecuted, that it could be criminal theft.
+    What are the rules that DCAA has now on cooperating with 
+outside investigators as far as access to documents?
+    Ms. Stephenson. Let me answer this in a couple of ways, if 
+I may, if I can first explain the letter that was issued in 
+August 2007. I could say the tonal quality of that letter 
+should have been improved. However, the intent of that letter 
+was to protect the documents that were contractor proprietary 
+documents. And it is within DOD policy and DCAA policy that we 
+have to protect those documents. I do not think we had a clear 
+understanding within our General Counsel's office at that time 
+what those documents were going to be used for, and we used a 
+blanket statement that is given when people are preparing cases 
+and perhaps providing documents to third-party attorneys.
+    I am not saying that was right, but that is what the intent 
+of that letter was to do, to protect the contractor proprietary 
+documents.
+    However, at no time was there any restriction in Ms. Le 
+giving the list of documents that the Office of Special Counsel 
+or any other investigative agency would want. In fact, she did, 
+and we did turn those documents over to the Office of Special 
+Counsel. And we would continue to do that. It is my 
+understanding that the Office of Special Counsel has the 
+documents which they need. So at no time are we saying that 
+they cannot give the documents that can be requested by the 
+Office of Special Counsel. We did indeed turn those over.
+    However, in looking at this in hindsight, in looking at 
+what was going on at that time, we may not have fully realized 
+the intent of what Ms. Le was wanting with those documents and 
+that it was solely for an investigative organization and not 
+for personal use. And so I look back on that and say we could 
+have handled this better. And we have changed our policy for 
+the cooperation with investigative organizations which----
+    Senator Collins. Let me stop you for a moment to clarify a 
+couple of points. The General Counsel's office knew that there 
+was an ongoing investigation. Correct?
+    Ms. Stephenson. It is my understanding, yes.
+    Senator Collins. So this is not a case of protecting 
+proprietary information from a corporate competitor or from an 
+employee who is going to misuse it for personal purposes. This 
+was a restriction that was imposed that prevented Ms. Le from 
+cooperating with government investigators. How can that be 
+proper under any circumstances? And how could the General 
+Counsel's office have possibly thought it was related to 
+protecting proprietary information?
+    Ms. Stephenson. Ma'am, in hindsight we could have handled 
+that better. We should have----
+    Senator Collins. Well, I am finding this troubling, 
+especially since when you were giving your explanation, Ms. Le 
+was shaking her head. So I want to go to her now.
+    How did you interpret the memo that you received, which was 
+signed by your supervisor but was, in fact, drafted by a DCAA 
+attorney telling you not to distribute or share any of these 
+documents? What was your interpretation? \1\
+---------------------------------------------------------------------------
+    \1\ The memorandum for Diem Thi Le appears in the Appendix on page 
+102.
+---------------------------------------------------------------------------
+    Ms. Le. My interpretation was that if I did that, I would 
+be prosecuted and lose my job. But let me take this opportunity 
+to clear up some issues here.
+    I think Ms. Stephenson was misinformed. What triggered that 
+memorandum was that I was asking my supervisor to allow me some 
+time to respond to the OSC investigator in the investigation of 
+my whistleblower complaint. I asked for some time to prepare. 
+Then the next day, my supervisor gave me a memorandum saying 
+that I cannot provide any documentation generated by a 
+government computer, and I asked her specifically, and she told 
+me including internal e-mails between me and my supervisor and 
+my job performance evaluations, in which I do not think there 
+is any contractor proprietary data right there, to any 
+investigative unit, including the OSC.
+    So, clearly, at least my management at my office understood 
+that I was not about to give away any contractor proprietary 
+data to outsiders, but to respond to the OSC investigation.
+    Senator Collins. Office of Special Counsel.
+    Ms. Le. Yes.
+    Senator Collins. Mr. Kutz, what is your view on this? Did 
+you have a difficult time getting access to documents were part 
+of this investigation?
+    Mr. Kutz. I will let Ms. Fischer answer that, but I think 
+overall we got some cooperation. There were some people, 
+though, as I mentioned in my opening statement, that were 
+scared to meet with us and actually met with us off site 
+because they did not want people at DCAA to know that they were 
+talking to GAO. But I will let Ms. Fischer answer that in more 
+detail.
+    Senator Collins. Ms. Fischer.
+    Ms. Fischer. Yes, Mr. Kutz is correct. We did end up 
+meeting with about three auditors off site. Some auditors were 
+afraid to talk to us, the younger junior auditors. One trainee 
+was just about in tears when she got in the conference room to 
+meet with us, and we just let her go.
+    We actually phoned some auditors that we were told were 
+willing to talk to us before we went out in person for 
+interviews, and they suggested very strongly that we needed to 
+do our interviews in confidence, that the auditors would be 
+afraid to talk to us if their supervisors or managers were 
+sitting there in the room. And that is why we handled the 
+interviews in a confidential manner. But they were told not to 
+give us any working papers or bring anything into the room, 
+that everything had to go through their management. And as a 
+result, their management would know what they wanted to give us 
+to explain the audit issues, and they were afraid to do that. 
+But we feel we saw enough documentation through the working 
+papers we reviewed to support what we were concluding in our 
+investigative report.
+    In Ms. Le's case, of course, we never got that gag order 
+memo because she could not share it with us.
+    Senator Collins. Thank you. Let me just wrap this up 
+because my time has expired. I would like to have Mr. Heddell, 
+just as an experienced IG, comment on this issue, and then, Ms. 
+Stephenson, I am going to ask you for a commitment to issue a 
+clarifying memo or some sort of direction making very clear 
+that when the investigation is from another Federal entity----
+    Ms. Stephenson. Yes, ma'am.
+    Senator Collins [continuing]. This is entirely different.
+    Ms. Stephenson. Absolutely, ma'am, and that was 
+unacceptable. And as I say, in hindsight that was unacceptable. 
+I did not realize until Ms. Le just said right now that it was 
+appraisals and other information that would not have contained 
+contractor proprietary data. She should have been allowed to 
+turn that over, no questions asked. I sincerely apologize to 
+her that she was put in that situation.
+    Senator Collins. Thank you. Very briefly, Mr. Heddell.
+    Mr. Heddell. Yes, ma'am. Very briefly, there are three 
+controlling points of authority here, I think, from an IG's 
+point of view, the first being the Trade Secrets Act, which 
+does not prohibit whistleblowers or people who want to provide 
+information from providing it to the Office of Special Counsel, 
+as long as it is properly marked. And the second thing is the 
+Whistleblower Act. It prohibits reprisal against anyone who 
+provides information to the Office of Special Counsel. The 
+third being the Department of Defense policy itself, it does 
+not prohibit the release of contractor proprietary information 
+to the Office of Special Counsel.
+    And the only other thing that I would add, having read that 
+memo, I think the threatening tone of that memo goes beyond the 
+simple caution that might have been required here. And I think 
+clearly it could have been interpreted as an attempt to 
+intimidate.
+    Senator Collins. Thank you. Thank you, Mr. Chairman.
+    Chairman Lieberman. Thanks, Senator Collins. Am I correct 
+in assuming you do not have any more questions?
+    Senator Collins. Correct.
+    Chairman Lieberman. So I am going to stay a while, but, 
+Senator McCaskill, you are free to go on, honestly, as long as 
+you want. You bring a lot to this.
+    So I would just like to say, before I turn it over to 
+Senator McCaskill, thank you to the witnesses. This is exactly 
+the kind of oversight that this Committee was created a long 
+time ago to do, to protect taxpayer money. But I would say that 
+we could not do this kind of hearing without, first, the guts 
+of Ms. Le and Mr. Hackler, and then the very good professional 
+work of Mr. Kutz, Ms. Fischer, Mr. Heddell, and now the 
+response of Ms. Stephenson, because ultimately we are not here 
+to play ``gotcha.'' We are here to fix what is wrong. So we are 
+going to stay with this and ask for regular reports from you. 
+We have a final report coming from GAO sometime later this fall 
+or early winter. And we are open to as much as you can do to 
+correct the problem we have found in DCAA administratively and 
+to consider also legislative fixes that may be necessary, 
+including the possibility of separating DCAA from the 
+Comptroller at DOD.
+    I would also say, just by way of the normal announcement, 
+that we are going to keep the hearing record open for 15 days 
+for Members of the Committee to submit additional questions to 
+you, if they have them, or for you to add to the record 
+yourselves. But I thank you very much.
+    Senator McCaskill, it is all yours. Thank you.
+    Senator McCaskill [presiding]. Thank you, Mr. Chairman. I 
+appreciate the opportunity.
+    I have three major areas I want to cover before we conclude 
+today. One is the most important area, I think, and that is, 
+whistleblower protection. The second is performance metrics and 
+how debilitating they have been to oversight within DCAA. And 
+third is the most important issue, I believe, going forward, 
+and that is, accountability for what has happened and what 
+happens in the future to people who have been involved in this 
+sordid, unbelievable story of failure in terms of an auditing 
+agency.
+    Let me start with whistleblower protection. First of all, 
+Ms. Stephenson, there are many things that you have done since 
+I read the GAO report that I admire, and I will be honest with 
+you. It is not going to surprise me if you are a fall guy here. 
+It is not going to shock me if you are the one that is removed 
+and no one else is. That would be wildly inappropriate, but I 
+am beyond being surprised at this point. And part of me thinks 
+you did have some management failures. You should not have 
+responded to the GAO audit, as we have discussed, the way you 
+did. For any auditor looking at that GAO report, I mean, we are 
+talking about serious sirens, bells, and whistles all going off 
+at the same time. If I had gotten a report like that of my 
+audit agency and I was in charge, I guarantee you my response 
+would have been much different than yours was. And you and I 
+talked about that, and you have acknowledged that.
+    And I thought we were turning the corner in part of your 
+testimony today until you actually had the nerve to say that 
+the gag order had something to do with proprietary information. 
+Let me read you the first paragraph of the memo that Ms. Thi Le 
+received.
+    ``On August 28, 2007, you sent an electronic message to me 
+concerning certain agency documents in connection with an 
+auditing assignment you previously performed work on. You 
+stated your purpose for searching these materials was to assist 
+you in preparing a complaint to the Office of Special 
+Counsel.''
+    So in the lead of the memo, Ms. Stephenson, there is 
+acknowledgment by this supervisor that the reason Ms. Thi Le 
+wanted this information had nothing to do with protecting 
+Boeing, Lockheed, or any of these guys. It had everything to do 
+with protecting the integrity of the agency she worked for.
+    Now, here is the most amazing part of this gag memo: ``You 
+may not access such agency documents for any private purpose, 
+including the pursuit of any complaints or other proceedings in 
+any form.''
+    Now, this is textbook whistleblower abuse within the most 
+important audit agency in government when it comes to the 
+massive amount of spending in the Department of Defense and our 
+active military.
+    Now, my question to you is: First, who drafted this 
+ridiculous memo of August 31, 2007? Who drafted the language? 
+Do you know?
+    Ms. Stephenson. My understanding is it was an attorney in 
+our General Counsel's office. I am not sure specifically which 
+attorney. But it was an attorney in our General Counsel's 
+office.
+    Senator McCaskill. OK. I want to find out if they have 
+retired or been promoted.
+    Ms. Stephenson. I will get back to you on that, ma'am.
+    Senator McCaskill. Most importantly, I would like to know 
+if disciplinary action has been taken against him. As a lawyer 
+in the Department of Defense, if he actually had the nerve to 
+threaten someone for responding to a complaint, he really has 
+abused his law license.
+    Ms. Stephenson. It was wholly inappropriate, in the context 
+of the investigation of the Office of Special Counsel, to in 
+any way inhibit an employee from providing documents, 
+interviews, or in other ways interacting with those 
+investigators. Wholly inappropriate, ma'am.
+    Senator McCaskill. I would like to know who drafted the 
+memo, who reviewed the memo before it went to Sharon Kawamoto, 
+who signed it; how far up in the counsel's office did it go; 
+because if this was approved by the lawyers in the DOD 
+counsel's office, knowing what she wanted the documents for, 
+then we have a really ``rotten in Denmark'' situation.
+    Ms. Stephenson. Ma'am, I do not believe it went outside the 
+agency. I will indeed confirm on that, but I do not want to 
+implicate----
+    Senator McCaskill. No, I just want to know everyone who 
+knew about the content of this memo----
+    Ms. Stephenson. I will definitely get that information for 
+you.
+    Senator McCaskill. And where is Sharon Kawamoto right now?
+    Ms. Stephenson. She is, I believe, a supervisor in the 
+Santa Ana branch office.
+    Senator McCaskill. Has she been promoted since she signed 
+this memo?
+    Ms. Stephenson. She is the individual who is awaiting the 
+promotion.
+    Senator McCaskill. OK. And I have to understand this notion 
+that she could get promoted. Explain to me what is it in the 
+byzantine personnel policy that allows you to threaten someone 
+who is trying to expose abuse in an audit agency and she cannot 
+get promoted, but somehow the rules say you have to promote 
+this woman, after we know she is a supervisor who participated 
+in the problem?
+    Ms. Stephenson. Ma'am, I do not think that Ms. Kawamoto was 
+the one who wanted to issue that memo. It went out under her 
+signature based on the input from the General Counsel's office 
+to the employee because she was indeed the employee's 
+supervisor. I do not think she played any part in preparing 
+that memo.
+    Senator McCaskill. OK.
+    Ms. Stephenson. I will definitely confirm. My understanding 
+is that was prepared by the General Counsel's office. It merely 
+went out under her signature. I will get that confirmed, 
+though.
+    Senator McCaskill. Would it be a ridiculous notion for 
+accountability that we would, in fact, require the person who 
+owns the language to sign the language within DCAA, which is 
+all about accountability?
+    Ms. Stephenson. I will certainly look into that. You raise 
+an absolutely good question as to whether that should have been 
+signed by the General Counsel versus the supervisor.
+    Senator McCaskill. Yes. I mean, if this poor woman, if she 
+is blameless here and she was told to sign her name to this, 
+the only purpose you do that is to hide the person who is 
+responsible for it. And DCAA is supposed to be about 
+transparency and accountability. So it seems to me if somebody 
+is going to sign a memo to a whistleblower that basically says, 
+``You are in big trouble if you say anything to anybody,'' 
+which is what this memo said----it basically said ``Sit down 
+and shut up, or you are in trouble.''
+    Whoever is responsible for that language--there needs to be 
+a change at DCAA, and I will take this up with Tina Jonas and 
+Secretary Gates if I have to--they need to own the language. 
+They should not hide behind the skirts of a line supervisor. 
+And we will figure out who it is, and I will make sure that 
+they are not allowed to hide behind the skirts.
+    Let me say for the record, for any auditor in government 
+that wants to be protected as a whistleblower, please call my 
+office. We will make sure that you are protected. It is a 
+felony in Missouri for one of my auditors to expose a 
+whistleblower. My auditors could have gone to prison if they 
+exposed a government whistleblower in the agency I ran. And to 
+say that Ms. Thi Le got exposed as a whistleblower because it 
+was a routine complaint, as you have said--and I appreciate 
+your testimony in that regard that this was anything but 
+routine, that somebody is changing audit findings without any 
+factual basis, to do so at the premier audit agency in the 
+Department of Defense should set off sirens. And the fact that 
+it was considered routine by people who were answering that 
+hotline showed that it is a very cold, frigid hotline. We need 
+to change it to the ``cold-line,'' not the hotline. I 
+understand Hurricane Katrina was in process, and I understand 
+the responsibilities there. But I have to impress upon you, 
+Inspector General, that if we are getting these kinds of 
+complaints and they are being characterized as ``routine,'' 
+that is part of the culture that is a problem; the massive 
+abuse of an audit agency in terms of government dollars is 
+really a problem.
+    We will enter this memo into the record of the hearing so 
+it is part of the public record, the memo that Ms. Thi Le 
+received that basically told her to be quiet or consider 
+herself in peril.\1\
+---------------------------------------------------------------------------
+    \1\ The memorandum for Diem Thi Le appears in the Appendix on page 
+102.
+---------------------------------------------------------------------------
+    Have you taken any specific actions, Inspector General to 
+protect the identity of whistleblowers in light of this 
+incident?
+    Mr. Heddell. Well, I have certainly addressed the issue of 
+how we handle hotline complaints, Senator McCaskill. Again, 
+being an Inspector General for 8 years, I can tell you there 
+are not many things that are more important to an Inspector 
+General than protecting the rights of whistleblowers, and that 
+is first and foremost, and it has been for the extent of my 
+career as an Inspector General. It always will be the most 
+important thing that I deal with when it comes to taking care 
+of the people who provide important information to us.
+    Senator McCaskill. Well, I hope that you make a 
+demonstrable effort that is documented and that you explain to 
+the people who are working in connection with the hotline that 
+the identity of a whistleblower is a sacred thing because once 
+this happened, I hope today will be a cleanser for the other 
+auditors at DCAA--I will tell you by the phone calls I am 
+getting, there is a great deal of fear in your agency right 
+now. I do think this is the tip of the iceberg. I do think the 
+GAO comprehensive audit work is going to find that there were 
+kinds of pressures that were being put on auditors across the 
+country in terms of these performance metrics.
+    Let me move into the performance metrics. I am curious 
+about who decides what these performance metrics are. Can you 
+speak to that, Ms. Stephenson? Who decided that an important 
+performance metric was cost per direct audit hour goal?
+    Ms. Stephenson. That was a decision by the Executive 
+Steering Committee of DCAA, which is comprised of the Director, 
+the Deputy Director, the Regional Directors, and our Assistant 
+Directors at headquarters. It is about 12 to 13 people. Some of 
+those metrics have been in place for many years. Many were put 
+in place in the mid-1990s with the National Performance Review, 
+with a significant reduction in DCAA staff.
+    To put it bluntly, cheaper, faster, better.
+    Some of those metrics, if not all of them, we are 
+revisiting. We are in 2008. I do not know if those metrics are 
+good metrics today. They may have been metrics that were good 
+in the mid-1990s to demonstrate that DCAA was performing 
+efficient audits, meeting productivity goals cheaper than other 
+organizations.
+    Times have changed. We need to ensure that our goals are 
+focusing in on the quality audits and on the questioned cost. 
+We have attempted to turn the corner on this. We do have a team 
+in process right now, and I will be honest, we are relying 
+heavily on feedback from our field auditors. They are the 
+individuals that are having these metrics put on them. I was a 
+field auditor. I was a field supervisor and manager. I know 
+what the scorecard is all about, and I will tell you, I had 
+lots of red on my scorecard because I would not compromise 
+audit quality.
+    Senator McCaskill. Well, how did you get promoted?
+    Ms. Stephenson. Because I had good explanations, I had good 
+findings. I explained why I may have missed a metric. And in 
+many instances, it was because we had a multi-billion-dollar 
+item we were questioning and it needed more time, or it may 
+have been we had an inadequate accounting system that needed 
+more time. I was able to explain why we missed it.
+    Senator McCaskill. These people were not even given an 
+opportunity to explain.
+    Ms. Stephenson. I cannot answer that, ma'am. That was not 
+right. They should have been given an opportunity. And the 
+value in the metric is in measuring--when we miss it or when we 
+have a deviation, the improvement comes from the evaluation. So 
+it is looking at what happened. It is not the red, yellow, 
+green that matters. In fact, I would even say if someone had an 
+entirely green scorecard--and I said this as a regional 
+director--that would be the first office I would visit because 
+there is something wrong.
+    Senator McCaskill. Well, then let me ask you--this sounds 
+great, but obviously the system failed.
+    Ms. Stephenson. Yes, ma'am.
+    Senator McCaskill. And I think the system is failing. I 
+think the performance metrics are not the right ones, and I 
+think the culture of this agency has been about this red, 
+yellow, or green scorecard, as opposed to how well the audits 
+accomplish the goal of saving money. And maybe the most 
+important metric would be measuring how much money you save by 
+the audits?
+    Ms. Stephenson. That was one of our metrics that we had, 
+our net savings.
+    Senator McCaskill. Yes, well, I have counted. It is 
+mentioned twice in here. There is page after page about how you 
+are cheaper than private auditors. Clearly, this started in the 
+1990s because you were worried that one of the big accounting 
+firms was going to take the business. You were worried about 
+Peat Marwick or somebody taking over, I assume. And then there 
+is page after page after page about how quickly you do the 
+audits and how many hours each audit takes, but literally, I 
+mean, there are two sentences about money saved. And, by the 
+way, let me talk about those savings. What is the metric in GAO 
+of how many dollars you save per dollar of your budget?
+    Mr. Kutz. It is about $94, is the last estimate.
+    Senator McCaskill. DCAA is at $5. And you ought to be 
+shooting fish in a barrel. I mean, literally, the audits you 
+do, I start salivating thinking about how much money is 
+involved and the savings that are potentially there. And I 
+would like you all to speak to that, Ms. Thi Le and Mr. 
+Hackler. I think DCAA did $300 billion in audit work in fiscal 
+year 2006, and I think the return on that was 2 percent. You 
+are saving $5 in return for every $1 you spend as opposed to 
+$94 for every dollar spent in GAO. And I have to tell you, from 
+where I sit and looking at the kind of audits GAO does and how 
+many of them do not have the richness that you have in terms--I 
+mean, the one audit you did, Mr. Hackler, was $276 million. 
+That is more than half of DCAA's annual budget. That is a huge 
+return. And basically that finding was just chopped off without 
+cause.
+    Would you all speak to how, if you have been there 17 
+years--and how long did you say you had been there, Mr. 
+Hackler?
+    Mr. Hackler. Twenty-five.
+    Senator McCaskill. OK. Talk to me about savings and what 
+kind of promotions happen if you save a bunch of money for the 
+government?
+    Mr. Hackler. Savings are not nearly emphasized the way they 
+were when I joined the agency. I believe back at that time we 
+were saving in the $35 per $1 range. People do not get promoted 
+because they have good savings anymore. They get promoted 
+because they make metrics, because they make the customer 
+happy.
+    We did a climate survey in DCAA several years ago: What do 
+you think of your boss? What do you think of your input? Is the 
+agency doing the right thing? The agency could not stand to see 
+the results of that.
+    Senator McCaskill. And when was this done?
+    Mr. Hackler. Five years ago. It asked about a couple dozen 
+questions, and a 1 was a poor response, a 5 would be a very 
+good response. And with the cumulative results that came back 
+from that, the agency decided, well, this is pretty bad, we had 
+better just address the items that came back as a 1. And we 
+have not seen another climate survey since.
+    Senator McCaskill. Ms. Thi Le, what about savings? In your 
+experience, when did this shift occur? It used to be important 
+how much money you were saving the government, and then it 
+became how quickly you were doing the audits and how timely the 
+audits were produced.
+    Ms. Le. Back in the good old days, as I used to say, when I 
+first joined the agency in 1989, the emphasis was on savings, 
+how much money we save for the government. But starting in the 
+early 1990s, the emphasis changed into do we issue the audit 
+report within a certain time frame or do we meet the 
+performance metric that we reduce the hours? So, lately, to be 
+honest with you, I do not think of savings anymore. I think of 
+how I am going to meet the due date, how I am going to meet the 
+budgeted hours. And unless I am willing--and I have been--to 
+work on my own time on weekends, I cannot finish within the 
+certain hours. And at the year end, when my performance gets 
+rated, my supervisor will run through a summary of the audits 
+that I completed during the year and how much a percentage I 
+ran over the budget, and if I ran over more than 10 percent, I 
+got dinged.
+    Senator McCaskill. And there was never any discussion about 
+how much money you saved on any of the audits?
+    Ms. Le. No, ma'am.
+    Senator McCaskill. Talk to me a little bit about customer 
+satisfaction. When did this notion--and, by the way, I noticed 
+in the ``Expect More'' that I read that one of the action plans 
+was to make sure they deployed more resources in keeping the 
+client happy. They bragged about personnel being deployed into 
+the procurement offices to make sure that the procurement 
+officers were really happy. When did all that happen? When did 
+all of a sudden keeping the people that were buying stuff in 
+the branches of the military happy, when did that happen?
+    Mr. Hackler. Some years ago--I will say 5 to 10--we used to 
+have what we called procurement liaison auditors, and we had 
+about a dozen of them over the years. And we would have a DCAA 
+employee at the major buying commands, and he would interpret 
+audit reports and coordinate with the offices and stuff. 
+Perhaps 5 to 8 years ago, we increased that number to well over 
+100. I spent many hours upon hours during those ELC proposal 
+reviews arguing with my co-workers that were in these financial 
+liaison audit positions who were trying to convince me to give 
+up findings. It was not just upper management.
+    Senator McCaskill. So what they have created--I want to 
+make sure I understand this. Let's say we have a procurement 
+officer at the Navy, or the Air Force. Since we have had a lot 
+of Air Force procurement problems, let's use the Air Force. You 
+start with a procurement officer at the Air Force. Then you 
+have a field auditor--and what you are telling me is that as 
+the field auditor found problems with a contractor for the Air 
+Force, then the person that was the go-between between the Air 
+Force procurement people and the audit agency was, in fact, an 
+employee of your agency.
+    Mr. Hackler. Yes.
+    Senator McCaskill. And their job was to somehow reconcile 
+the two? I mean, what is their job? Just to make these guys 
+feel happy? Warm and fuzzy?
+    Mr. Hackler. Well, I think it started out to interpret DCAA 
+audit positions, but what it turned out to be and what it has 
+become is they aligned themselves with the buying command, and 
+customer satisfaction becomes more important than doing the 
+right thing, than telling the right story, than bringing up the 
+appropriate exceptions that we find in the audit reports, what 
+it takes to get it under contract. Buying commands are measured 
+by putting dollars under contract----
+    Senator McCaskill. That is their performance metric.
+    Mr. Hackler. That is theirs. Not whether they get a good 
+deal or save taxpayer dollars.
+    Senator McCaskill. So who is the person who can change 
+performance metrics? Give me their name.
+    Ms. Stephenson. Ma'am, I can.
+    Senator McCaskill. You can? Can you do it like tomorrow?
+    Ms. Stephenson. I have put a team together, and we are 
+assessing what are the appropriate metrics to use. We are 
+anticipating having our analysis done by the end of this month. 
+I have one of my highest senior executives within my 
+headquarters that is leading this team, and I have tapped into 
+many field resources to give us feedback. We will be changing 
+our metrics by the end of this month.
+    Senator McCaskill. Now, who has the authority to decide 
+that customer satisfaction should be changed and we should move 
+all these people that are out there trying to make these buyers 
+happy into being field auditors trying to save taxpayer money? 
+Who has the authority to do that?
+    Ms. Stephenson. Let me first clarify what these positions 
+are about, and I give my apologies to Mr. Hackler if he has 
+experienced the negative feedback that he described here. That 
+is not the role of our financial liaison advisers to fight with 
+the field audit offices (FAOs) and the supervisors and the 
+auditors. It is to facilitate. These financial liaison advisers 
+are put into the buying commands to help identify the types of 
+audits that are needed, to help interpret the audit results, 
+and to facilitate additional audits that need to be done, not 
+to stop audits from being done. It is to say which additional 
+ones do you need in this circumstance.
+    Second, our customer service surveys that we do with our 
+customers are not about whether they are happy with our 
+findings. It is not to say that if a clean report is making 
+them happy, that is not what we are measuring. We are measuring 
+to ensure that they understood the report; that we provided the 
+results in an easy-to-understand manner for the contracting 
+officer; that we were timely in describing what those issues 
+may have been; if we needed a due date extension, we were 
+timely in that discussion.
+    I would really ask that Mr. Hackler after this hearing give 
+me the input on that person that he said fought with him 
+because that is not right and that is not what our financial 
+liaison advisers are there for. They are to help our field 
+offices in facilitating their audits, and they are to assist 
+the buying commands in understanding what additional audit 
+services they may need.
+    Senator McCaskill. Well, let me make a suggestion. A dollar 
+bet you a dime that if customer satisfaction is one of the 
+performance metrics, and performance metrics is how you get 
+promoted, then customer satisfaction is this big deal. 
+Satisfaction means they are happy, and how you make buyers 
+happy is by audits that say they have done everything right. 
+That is how you make buyers happy.
+    Ms. Stephenson. I would----
+    Senator McCaskill. And so what I am saying is I guarantee 
+you Mr. Hackler is not saying this is an outlier. Interrupt me 
+if I am misrepresenting your testimony, Mr. Hackler, or what 
+you believe is the culture. I believe the culture has, in fact, 
+been driven by a notion that you make the buyers happy. And if 
+the buyers cannot understand the audits, then we have got a 
+problem with our procurement force because an audit--and that 
+is a performance metric I would agree with. If you cannot write 
+an audit so that the people that are going to consume the audit 
+can understand it, then you have got a performance issue with 
+an auditor. Every auditor must be able to express their 
+findings in a way that is understandable.
+    And I have got to tell you, I have looked at a lot of DCAA 
+audits, and other than having to get out a book to figure out 
+what all the initials stand for, you can follow them. And I am 
+not a buyer.
+    So I guess I am a little skeptical, Ms. Stephenson, that 
+the culture that has grown up around page after page of 
+customer satisfaction is that they are just identifying the 
+next audit. If they are just identifying the next audit, they 
+do not need to be arguing with Mr. Hackler about a finding.
+    Ms. Stephenson. Ma'am, I opened this up today for the 
+record that if there is any DCAA employee that feels our 
+financial liaison advisers are not there to facilitate their 
+audits and to facilitate the sustaining of our audits, I would 
+like that person to give me a personal phone call or a personal 
+e-mail. I will not take their name anywhere, and I will 
+immediately rectify that situation.
+    Senator McCaskill. OK, great.
+    Ms. Stephenson. Open this for the record, ma'am.
+    Senator McCaskill. That is great. Now, let me move on to 
+performance metrics as it relates to being promoted. You said 
+you had a lot of red marks and you got promoted. I imagine 
+there are a lot of auditors out there listening to this that 
+feel like you won the lottery because I do not believe 
+fundamentally that people get promoted who get a lot of red. I 
+think people get promoted who have a lot of green, or maybe 
+some yellow and green.
+    I guess what I would like to know is in the current 
+management staff at DCAA, all of those people who have been 
+promoted within the last 5 years--I do not need to know their 
+names, but I would like somebody to submit for the record how 
+many of them had essentially green records under the 
+performance metrics and how many of them would have a record 
+that would indicate that they were actually trying to stir the 
+pot. That is, I think, something that is very important. And if 
+either of you are willing to speak to that in that regard, I 
+would appreciate it for the record.
+    Ms. Le. Senator McCaskill, in my experience the last couple 
+years, I do not think I have seen any person who has been 
+promoted because he had a red card but rather because he had a 
+green card. That is just my personal observation and 
+experience.
+    I also would like to take this opportunity to go back to 
+your previous question about how you think this culture 
+developed. I think the culture beholden to performance metrics 
+developed starting in the early 1990s. And in the early 1990s, 
+the former Director, Bill Reed, went around all the DCAA 
+offices, telling us that there was talk in Congress to 
+privatize our agency and if we do not become a lean and mean 
+machine, we would lose our jobs.
+    Looking back, I think that was a scare tactic because then 
+we became afraid of losing our jobs, and we began to accept the 
+metrics. And as you know, once you push it, you can push 
+further and further because the fear is if you do not do it, 
+you do not meet the metrics, we are going to lose our jobs.
+    And let me tell you, you hit it right. We are the audit 
+agency. We are supposed to be an independent agency. And our 
+role should be advisory, not to be a partner in the process, 
+but to advise the procurement office and contracting officer so 
+that we can get reasonable costs for government contracts. We 
+should not be pressured by those officers because they have the 
+need to negotiate a contract to get the parts. And because of 
+that, we lose independence because, let me tell you, if I am 
+performing an audit and I know that I have to turn this in in 
+25 days or 30 days because somebody else is waiting for that 
+audit report, if I found a problem, I would not want to bring 
+it up. And right there is the independence issue. I would not 
+want to explore it further, follow my instinct because by doing 
+so, I would not get the audit out in 25 days or 30 days and my 
+customer is not happy.
+    Another thing is that also because of the performance 
+metrics on the audit hours, I would not want to explore the 
+potential problem because I would run against the budgeted 
+hours.
+    Senator McCaskill. Right.
+    Ms. Le. I am just an auditor at a small branch office. Of 
+course, I do not see the whole picture. But it is my opinion 
+that I do not think we should really belong to DOD. And maybe 
+that is a white card out there, but this is, again, my opinion, 
+that how could you audit DOD contracts? And you are supposed to 
+be independent, but you are reporting to the same person. Just 
+like Ms. April Stephenson has stated earlier--and I fully agree 
+with her, I think she took a very corrective action--we have a 
+Quality Assurance Department in our Agency, and it used to be 
+that it was at the regional level. There is an Office of 
+Quality Assurance, and they used to report to the regional 
+director. Now, if you are going to report to your regional 
+director and tell him what is wrong with your region, you 
+cannot be independent. But since then, a change DCAA has made, 
+if I understood it correctly, is that the Quality Assurance 
+Division now reports directly to the headquarters. I think that 
+is a great thing.
+    Senator McCaskill. Good.
+    Ms. Le. The same thing with DCAA, and again, I do not see 
+the whole picture, but it is my opinion we cannot audit the DOD 
+at the same time we are reporting to DOD. I think that is a 
+conflict of interest there.
+    Senator McCaskill. Mr. Kutz, probably I should ask the 
+Acting Comptroller this. Should DCAA be a division of GAO as 
+opposed to working for DOD?
+    Mr. Kutz. I cannot answer that, but I think that her point 
+about whether it should be in a different place, either within 
+DOD or outside of DOD, should be on the table here for 
+discussion.
+    Senator McCaskill. Ms. Stephenson, what do you think? 
+Should we remove it from the chain of command at DOD and put it 
+so that it can have more independence?
+    Ms. Stephenson. I am along with Mr. Kutz. I would certainly 
+support an evaluation.
+    Senator McCaskill. OK, great. How about you, Inspector 
+General, DOD?
+    Mr. Heddell. I do not have the answer to that, but if you 
+look at it from the standpoint of the Inspector General 
+community, Inspectors General are assigned at individual 
+departments, but the law, the Inspector General Act, gives us 
+independence. And so it works there when the Inspectors 
+General----
+    Senator McCaskill. Most times it works.
+    Mr. Heddell. When they are doing their jobs, it works 
+mostly.
+    Senator McCaskill. As long as you have an IG that pays 
+attention to the counsel. And we have a few rogues right now, 
+as you know, where the counsel has recommended disciplinary 
+action, and these yahoos, a couple of them, have stayed in 
+their jobs, even though everybody knows that they have not done 
+the title proud as an Inspector General. But the vast majority 
+of the time, I agree with you. I think the Inspector General 
+community, by and large, is professional, independent, and does 
+the appropriate thing in most instances.
+    And, by the way, let me say for the record I think in most 
+instances at DCAA you have got strong, capable auditors that 
+are doing the right thing.
+    Ms. Stephenson. I fully concur.
+    Senator McCaskill. And I absolutely do not believe this 
+cultural problem is one that comes from people being dishonest 
+or playing footsie with contractors. I think it comes from a 
+set of phony performance metrics that have put inordinate 
+pressure at the wrong place. And that can be fixed by a 
+changing of the culture, by telling these auditors that they 
+are going to be celebrated and promoted for the money they save 
+taxpayers as opposed to making the guys who want this stuff 
+happy or as opposed to doing it really quickly.
+    Ms. Stephenson. And, ma'am, can I address that? Having been 
+a regional director, there were times when I had offices that 
+had quality problems. I told those managers to put the 
+scorecard away because the measures of whether we were 
+performing the right audits and whether our people were getting 
+the right training was our audit reports. And that is what we 
+needed to focus on. And regardless of the hours, we need to 
+focus on that. We needed to train our people properly. We 
+needed to ensure they had the right supervision, including the 
+fact that these teams were not too large for oversight. It 
+needed to be smaller teams.
+    I completely recognized that, and that is the way I ran my 
+region. And that is the way I envision running the agency.
+    Senator McCaskill. That is terrific, and if you are going 
+to be bold----
+    Ms. Stephenson. Absolutely, ma'am.
+    Senator McCaskill. If you are going to be bold, you have 
+got a shot. But if you are not bold, that is not going to 
+happen.
+    Ms. Stephenson. And in many of these metrics, it was 
+misapplication. Metrics such as 30 days on forward pricing, 
+that was never intended to be a ceiling. That was merely an 
+intention of measuring whether we were providing information in 
+a timely manner. We have had a number of audit reports this 
+year that have been issued far in excess of 30 days, and those 
+have been very large dollar ones. And that is absolutely the 
+right thing to do.
+    And, again, for this record--and this is a good opportunity 
+for me to ensure the acquisition workforce and my own workforce 
+knows, I stand behind doing the audits appropriately, 30 days 
+or not.
+    Senator McCaskill. And I know that you have stated very 
+strongly today, repeatedly, how committed you are to fixing 
+these problems. And, obviously, we are going to be watching 
+very closely. And I have now all kinds of lines of 
+communication into your agency that we will maintain to make 
+sure that is happening, not just what we are told by the people 
+at the top but what we are learning from deep within the 
+agency, from the auditors that are doing this heroic work day 
+in and day out.
+    Let me briefly go on to accountability before we close this 
+today, and I will have additional questions for the record, 
+probably for all of you. But on accountability, there are two 
+kinds of accountability that have to happen here: One is for 
+the personnel involved in this mess, and second is for the 
+money that is potentially collected.
+    Now, I have got to tell you, it sounded a little bit like 
+the Tooth Fairy to me, Ms. Stephenson, when you said that there 
+is some potential of recovering the $276 million from Boeing. I 
+mean, I do not think there is any way that is going to happen, 
+is there, Mr. Hackler?
+    Mr. Hackler. Not the way it is going today. There is a re-
+review of the ELC proposal within the office, but they are 
+looking at the wrong things. They are only looking at the 
+exceptions we were allowed to report in the initial ELC 
+proposal which related to Cost Accounting Standard 406. But I 
+was commanded, if you will, at the outset of that audit that we 
+are not going to mention estimating deficiencies, we are not 
+getting into Cost Accounting Standard 418. There are some major 
+regulation violations that are not being looked at the second 
+time around.
+    Senator McCaskill. And what do you attribute that to?
+    Mr. Hackler. Too much control of the person that directed 
+the audit opinion in the first place.
+    Senator McCaskill. Well, that is really problematic.
+    Ms. Stephenson. Absolutely, ma'am. In fact, I will invite 
+Mr. Hackler right now to set up those assignments that he feels 
+are necessary to fully investigate this issue so that we can 
+get the recoupment under the Cost Accounting Standards because 
+that is the avenue for the recoupment here.
+    Senator McCaskill. Now we could fix this if we had a 
+hearing every day.
+    The boss just said that whoever told you that was wrong. 
+Now, I will follow up and see what happens. But there is 
+accountability there. Whoever told him that should be demoted 
+or fired. Whoever was involved in removing findings without any 
+working papers to back it up should be demoted or fired. And I 
+am waiting. Nobody has been demoted. Nobody has been fired. In 
+fact, just the opposite. People have been promoted.
+    So that is a failure in accountability--complete, total, 
+and abject failure in accountability. And that should be a 
+performance metric, that when people make mistakes that 
+absolutely crush the credibility of an organization whose 
+lifeline is credibility, something has to happen to them, 
+whether it is the pretend lawyer who wrote this gag order or 
+whether it is the supervisor who took out findings without any 
+cause. And I will not be satisfied in this regard until someone 
+is held accountable. It is just not fair to this auditor that 
+her performance reviews dropped 20, 30 points overnight after 
+17 years of hard work. She was held accountable for trying to 
+do her job, but the people who were failing in their jobs have 
+not been held accountable. That is upside down.
+    And so this is the first chapter of what, I hope, will be 
+many chapters toward a happy ending at DCAA, including the kind 
+of independence that they need, the resources they need, and 
+the performance metrics that celebrate the taxpayer instead of 
+defense contractors and procurement officers.
+    One other question I will have for the record that I will 
+mention now is how many people who have retired from DCAA have 
+gone to work for defense contractors? I would love to know if 
+there is any way we could figure that out, and we will direct 
+that to all of you through the record and see if we can figure 
+that out.
+    I do not think that is the big problem, though. My sense is 
+the problem is not pleasing the contractors. The problem is a 
+culture that went haywire. It just goes to show you--and I read 
+all those books in the 1990s about government performance 
+metrics and I began performance audits. Performance metrics are 
+only as good as the metric itself and the testing of the 
+metrics because the irony of this is that one of the metrics is 
+peer review. And, clearly, peer review failed here. It does not 
+happen very often that peer review fails, because normally the 
+auditing profession takes peer review really seriously. And we 
+will continue to follow up as to why the peer review failed in 
+this instance because, clearly, it failed. This was a textbook 
+example of where peer review should have done its job and said 
+something is rotten here, and it did not.
+    So I really appreciate all of you being here. I think you 
+are all good, solid Americans, and I know I have been very hard 
+on you, Ms. Stephenson, and it is not because I do not have a 
+lot of sympathy for the situation you find yourself in. You are 
+new on the job--both of you, the Inspector General at DOD and 
+you, Ms. Stephenson, are new on your jobs. And you have 
+inherited a myriad of problems. And I will be here to try to 
+provide the accountability, but also to provide moral support 
+and help anywhere I can to make this better.
+    I believe very much in auditing. I believe very much in 
+accountability. I refuse to give up on DOD. Many people who 
+have come through these doors have given up. And I refuse to 
+give up. I know we can make it better. And I appreciate all of 
+you very much, and this hearing is adjourned.
+    Ms. Stephenson. Thank you, ma'am.
+    [Whereupon, at 12:43 a.m., the Committee was adjourned.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 <all>
+
+</pre></body></html>

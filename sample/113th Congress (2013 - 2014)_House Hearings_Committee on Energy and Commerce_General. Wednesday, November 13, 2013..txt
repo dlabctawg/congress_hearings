@@ -1,0 +1,3489 @@
+<html>
+<title> - S. 1009, THE CHEMICAL SAFETY IMPROVEMENT ACT</title>
+<body><pre>
+[House Hearing, 113 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+              S. 1009, THE CHEMICAL SAFETY IMPROVEMENT ACT
+
+=======================================================================
+
+
+                                HEARING
+
+                               BEFORE THE
+
+              SUBCOMMITTEE ON ENVIRONMENT AND THE ECONOMY
+
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           NOVEMBER 13, 2013
+
+                               __________
+
+                           Serial No. 113-92
+
+
+
+      Printed for the use of the Committee on Energy and Commerce
+
+                        energycommerce.house.gov
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+87-628                    WASHINGTON : 2014
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+
+                          FRED UPTON, Michigan
+                                 Chairman
+
+RALPH M. HALL, Texas                 HENRY A. WAXMAN, California
+JOE BARTON, Texas                      Ranking Member
+  Chairman Emeritus                  JOHN D. DINGELL, Michigan
+ED WHITFIELD, Kentucky               FRANK PALLONE, Jr., New Jersey
+JOHN SHIMKUS, Illinois               BOBBY L. RUSH, Illinois
+JOSEPH R. PITTS, Pennsylvania        ANNA G. ESHOO, California
+GREG WALDEN, Oregon                  ELIOT L. ENGEL, New York
+LEE TERRY, Nebraska                  GENE GREEN, Texas
+MIKE ROGERS, Michigan                DIANA DeGETTE, Colorado
+TIM MURPHY, Pennsylvania             LOIS CAPPS, California
+MICHAEL C. BURGESS, Texas            MICHAEL F. DOYLE, Pennsylvania
+MARSHA BLACKBURN, Tennessee          JANICE D. SCHAKOWSKY, Illinois
+  Vice Chairman                      JIM MATHESON, Utah
+PHIL GINGREY, Georgia                G.K. BUTTERFIELD, North Carolina
+STEVE SCALISE, Louisiana             JOHN BARROW, Georgia
+ROBERT E. LATTA, Ohio                DORIS O. MATSUI, California
+CATHY McMORRIS RODGERS, Washington   DONNA M. CHRISTENSEN, Virgin 
+GREGG HARPER, Mississippi            Islands
+LEONARD LANCE, New Jersey            KATHY CASTOR, Florida
+BILL CASSIDY, Louisiana              JOHN P. SARBANES, Maryland
+BRETT GUTHRIE, Kentucky              JERRY McNERNEY, California
+PETE OLSON, Texas                    BRUCE L. BRALEY, Iowa
+DAVID B. McKINLEY, West Virginia     PETER WELCH, Vermont
+CORY GARDNER, Colorado               BEN RAY LUJAN, New Mexico
+MIKE POMPEO, Kansas                  PAUL TONKO, New York
+ADAM KINZINGER, Illinois             JOHN A. YARMUTH, Kentucky
+H. MORGAN GRIFFITH, Virginia
+GUS M. BILIRAKIS, Florida
+BILL JOHNSON, Ohio
+BILLY LONG, Missouri
+RENEE L. ELLMERS, North Carolina
+
+                                 _____
+
+              Subcommittee on Environment and the Economy
+
+                         JOHN SHIMKUS, Illinois
+                                 Chairman
+PHIL GINGREY, Georgia                PAUL TONKO, New York
+  Vice Chairman                        Ranking Member
+RALPH M. HALL, Texas                 FRANK PALLONE, Jr., New Jersey
+ED WHITFIELD, Kentucky               GENE GREEN, Texas
+JOSEPH R. PITTS, Pennsylvania        DIANA DeGETTE, Colorado
+TIM MURPHY, Pennsylvania             LOIS CAPPS, California
+ROBERT E. LATTA, Ohio                JERRY McNERNEY, California
+GREGG HARPER, Mississippi            JOHN D. DINGELL, Michigan
+BILL CASSIDY, Louisiana              JANICE D. SCHAKOWSKY, Illinois
+DAVID B. McKINLEY, West Virginia     JOHN BARROW, Georgia
+GUS M. BILIRAKIS, Florida            DORIS O. MATSUI, California
+BILL JOHNSON, Ohio                   HENRY A. WAXMAN, California (ex 
+JOE BARTON, Texas                        officio)
+FRED UPTON, Michigan (ex officio)
+
+                                  (ii)
+
+
+                             C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hon. John Shimkus, a Representative in Congress from the State of 
+  Illinois, opening statement....................................     1
+    Prepared statement...........................................     2
+Hon. Paul Tonko, a Representative in Congress from the State of 
+  New York, opening statement....................................     3
+Hon. John D. Dingell, a Representative in Congress from the State 
+  of Michigan, opening statement.................................     5
+Hon. Fred Upton, a Representative in Congress from the State of 
+  Michigan, prepared statement...................................   134
+Hon. Henry A. Waxman, a Representative in Congress from the State 
+  of California, prepared statement..............................   135
+
+                               Witnesses
+
+Hon. David Vitter, a United States Senator from the State of 
+  Louisiana \1\..................................................     8
+Hon. Tom Udall, a United States Senator from the State of New 
+  Mexico \1\.....................................................     9
+James Jones, Assistant Administrator, Office of Chemical Safety 
+  and Pollution Prevention, Environmental Protection Agency......    11
+    Prepared statement...........................................    14
+    Answers to submitted questions...............................   190
+Cal Dooley, President and Chief Executive Officer, American 
+  Chemistry Council..............................................    46
+    Prepared statement...........................................    49
+    Answers to submitted questions...............................   194
+Ernest Rosenberg, President and Chief Executive Officer, American 
+  Cleaning Institute.............................................    54
+    Prepared statement...........................................    56
+Richard A. Denison, Senior Scientist, Environmental Defense Fund.    67
+    Prepared statement...........................................    69
+    Answers to submitted questions...............................   198
+Dean C. Garfield, President and Chief Executive Officer, 
+  Information Technology Industry Council........................    84
+    Prepared statement...........................................    86
+Andy Igrejas, Director, Safer Chemicals, Healthy Families........    93
+    Prepared statement...........................................    96
+    Answers to submitted questions \2\...........................   204
+Wendy E. Wagner, Joe A. Worsham Centennial Professor, University 
+  of Texas Law School............................................   103
+    Prepared statement...........................................   105
+    Answers to submitted questions...............................   205
+
+                           Submitted Material
+
+Letter of October 23, 2007, from Frances G. Beinecke, President, 
+  Natural Resources Defense Council, et al., to Mr. Dingell, 
+  submitted by Mr. Dingell.......................................     6
+Letter of June 25, 2013, from Matthew Rodriguez, Secretary for 
+  Environmental Protection, California Environmental Protection 
+  Agency, to Senator Dianne Feinstein, et al., submitted by Mr. 
+  Shimkus........................................................   137
+Letter of November 13, 2013, from Jeanne Rizzo, President and 
+  Chief Executive Officer, Breast Cancer Fund, to Mr. Shimkus and 
+  Mr. Tonko, submitted by Mr. Shimkus............................   150
+
+----------
+\1\ Mr. Vitter and Mr. Udall did not submit written statements for the 
+record.
+\2\ Mr. Igrejas did not answer submitted questions for the record by 
+the time of printing.
+Letter of July 24, 2013, from National Conference of State 
+  Legislatures co-chairs to Senator Barbara Boxer and Senator 
+  David Vitter, submitted by Mr. Shimkus.........................   155
+Letter of November 12, 2013, from Rainer Lohmann, Graduate School 
+  of Oceanography, University of Rhode Island, et al., to Mr. 
+  Upton and Mr. Waxman, submitted by Mr. Shimkus.................   161
+Letter of June 12, 2013, from John S. Applegate, Walter W. 
+  Foskett Professor of Law, Indiana University Maurer School of 
+  Law, et al., to Mr. Shimkus and Mr. Tonko, submitted by Mr. 
+  Shimkus........................................................   169
+Letter of November 12, 2013, from Debra Baseman, Princeton 
+  Medical Group, et al., to Mr. Upton and Mr. Waxman, submitted 
+  by Mr. Shimkus.................................................   186
+
+
+              S. 1009, THE CHEMICAL SAFETY IMPROVEMENT ACT
+
+                              ----------                              
+
+
+                      WEDNESDAY, NOVEMBER 13, 2013
+
+                  House of Representatives,
+       Subcommittee on Environment and the Economy,
+                          Committee on Energy and Commerce,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to call, at 10:18 a.m., in 
+room 2123 of the Rayburn House Office Building, Hon. John 
+Shimkus (chairman of the subcommittee) presiding.
+    Members present: Representatives Shimkus, Gingrey, Pitts, 
+Murphy, Latta, Cassidy, McKinley, Bilirakis, Johnson, Tonko, 
+Pallone, Green, DeGette, Capps, McNerney, Dingell, Barrow, and 
+Waxman (ex officio).
+    Staff present: Nick Abraham, Legislative Clerk; Charlotte 
+Baker, Press Secretary; Jerry Couri, Senior Environmental 
+Policy Advisor; Brad Grantz, Policy Coordinator, Oversight and 
+Investigations; David McCarthy, Chief Counsel, Environment and 
+the Economy; Brandon Mooney, Professional Staff Member; Andrew 
+Powaleny, Deputy Press Secretary; Chris Sarley, Policy 
+Coordinator, Environment and the Economy; Jacqueline Cohen, 
+Democratic Senior Counsel; Greg Dotson, Democratic Staff 
+Director, Energy and Environment; and Caitlin Haberman, 
+Democratic Policy Analyst.
+    Mr. Shimkus. I would like to call the hearing to order.
+    We want to welcome our two Senators. First, I will do--we 
+will do our opening statements, and then we will give you yours 
+and then--and we will begin. I recognize myself for 5 minutes.
+
+  OPENING STATEMENT OF HON. JOHN SHIMKUS, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF ILLINOIS
+
+    Today we hold our fourth hearing of 2013 on the Toxic 
+Substance Control Act. We welcome our witnesses, including a 
+couple of former House guys; Senator Vitter and Senator Udall, 
+as well as Jim Jones, Assistant Administrator of the EPA, and 
+some of the important stakeholders in this discussion.
+    Until more recently, TSCA was one of the least understood 
+Federal environmental laws, but it is one of the most important 
+environmental protections laws that we have. It governs 
+chemical substances, mixtures and articles from the time they 
+are invented, all the way through the stream of commerce.
+    Our hearings have been very instructive. They have given us 
+a chance to dig into the nuts and bolts of this complex body of 
+law. Among other aspects of the law, we studied approval of new 
+chemicals, regulation of existing chemicals, protection of 
+confidential business information, and the value of a seamless 
+integrated U.S. market for chemicals and products that contain 
+them. We have gotten the perspective of learned experts in the 
+practice of TSCA law, former EP officials experienced in what 
+works and what doesn't work in the law's administration, State 
+environmental control officials, downstream product 
+manufacturers, and citizen activists.
+    As we will hear firsthand in just a few minutes, a lot of 
+thought and hard work has also gone into TSCA on the other side 
+of the Capitol. Earlier this year, Senator Vitter and the late 
+Senator Frank Lautenberg, with strong bipartisan support, 
+introduced Senate Bill 1009, the Chemical Safety Improvement 
+Act. Its reform, if enacted, will represent the most sweeping 
+set of changes to TSCA since the Ford administration.
+    We are eager to learn what aspects of this proposal brought 
+such a diverse set of supporters together. We hope this 
+administration and our panel will tell us what they see as the 
+best attributes of the legislation. We also hope to entertain 
+suggestions on how to make it better.
+    Writing legislation as complex and as important as 
+modernizing TSCA is not easy, but implementing it may be even 
+tougher. Congress can give EPA both the authority and direction 
+to carry out everything in a new TSCA, but we just can't assume 
+that the Agency has the resources to accomplish all of it, nor 
+that they will get it done in a short period of time of 
+enactment. That is why we need some guidance from Jim Jones, 
+who manages the chemical regulation for the EPA. Mr. Jones, we 
+hope your help won't end with today's hearing. The same goes 
+for stakeholders, and not only the ones we will hear from 
+today. We need your help in understanding the real world 
+implications of any legislation we might consider. No one, 
+whether on this side of the dais or on the witness table, has 
+all the answers, but that doesn't mean we don't need you to 
+give us all of your input.
+    And, finally, thanks to all the members of the subcommittee 
+for your thoughtful work this year on TSCA. Have you noticed 
+that our hearings have not been debates across the aisle, but 
+rather nonpartisan efforts to understand the current law? At 
+times, I have learned as much from questions from Mr. Tonko or 
+Ms. DeGette, and the answers witnesses give them, as I have 
+from my own brilliant questions that I have offered.
+    Let us continue to embrace that same spirit as we begin to 
+explore whether we can make Federal chemical management policy 
+better, and allow the United States to lead the global--the 
+globe in manufacturing smarter public health protection and 
+innovation.
+    [The prepared statement of Mr. Shimkus follows:]
+
+                Prepared statement of Hon. John Shimkus
+
+    Today we hold our fourth hearing of 2013 on the Toxic 
+Substances Control Act. We welcome our witnesses, including a 
+couple of former House guys, Senators Vitter and Udall, as well 
+as Jim Jones, Assistant Administrator of EPA, and some of the 
+important stakeholders in this discussion.
+    Until more recently, TSCA was one of the least understood 
+Federal environmental laws, but it is one of our most important 
+environmental protection laws. It governs chemical substances, 
+mixtures, and articles from the time they are invented all the 
+way through the stream of commerce. Our hearings have been very 
+instructive. They've given us a chance to dig into the nuts and 
+bolts of this complex body of law.
+    Among the aspects of the law, we've studied:
+    <bullet> L Approval of new chemicals,
+    <bullet> L Regulation of existing chemicals,
+    <bullet> L Protection of confidential business information, 
+and
+    <bullet> L The value of seamless, integrated U.S. market 
+for chemicals and products that contain them.
+    We've gotten the perspective of:
+    <bullet> L Experts in the practice of TSCA law;
+    <bullet> L Former EPA officials experienced in what works 
+and what doesn't work in the law's administration;
+    <bullet> L State environmental control officials;
+    <bullet> L Downstream product manufacturers; and
+    <bullet> L Citizen activists.
+    As we'll hear first-hand in just a few minutes, a lot of 
+thought and hard work has also gone into TSCA on the other side 
+of the Capitol. Earlier this year Senator Vitter and late-
+Senator Frank Lautenberg with strong bipartisan support 
+introduced S. 1009, the Chemical Safety Improvement Act. Its 
+reforms, if enacted, would represent the most sweeping set of 
+changes to TSCA since the Ford administration.
+    We're eager to learn what about this proposal brought such 
+a diverse set of supporters together. We hope the 
+administration and our stakeholder panel will tell us what they 
+see as the best attributes of the legislation. We're also open 
+to suggestions on how to make it better.
+    Writing legislation as complex and as important as 
+modernizing TSCA is not easy. But implementing it may be even 
+tougher. Congress can give EPA both the authority and direction 
+to carry out everything in a new TSCA, but we can't just assume 
+that the agency has the resources to accomplish all of it, nor 
+that they'll get it all done in a short period of time after 
+enactment.
+    That's why we need some guidance from Jim Jones who manages 
+chemical regulation for EPA. And, Mr. Jones, we hope your help 
+won't end with today's hearing.
+    The same goes for stakeholders, and not only the ones we'll 
+hear from today. We need your help in understanding the real-
+world implications of any legislation we might consider. No 
+one, whether on this side of the dais or at the witness table, 
+has all the answers, but that does not mean we don't need you 
+to give us all of your input.
+    And, finally, thanks to all the members of this 
+subcommittee for your thoughtful work this year on TSCA. Have 
+you noticed that our hearings have not been debates across the 
+aisle, but rather non-partisan efforts to understand current 
+law? At times I've learned as much from questions by Mr. Tonko 
+or Mrs. DeGette, and the answers witnesses have given him, as I 
+have from my own.
+    Let's continue to embrace that same spirit as we begin to 
+explore whether we can make Federal chemical management policy 
+better and allow the United States to lead the globe in 
+manufacturing, smarter public health protection, and 
+innovation.
+
+    Mr. Shimkus. With that, I yield back the balance of my 
+time, and I yield 5 minutes to Mr. Tonko, the ranking member of 
+the subcommittee.
+
+   OPENING STATEMENT OF HON. PAUL TONKO, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF NEW YORK
+
+    Mr. Tonko. Thank you, Mr. Chair, and good morning. I am 
+pleased to be here today for this important hearing on the 
+Chemical Safety Improvement Act. It is a pleasure to welcome 
+Senator Vitter and Senator Udall here to discuss their 
+perspectives on TSCA, TSCA reform, and report on their ongoing 
+efforts to reconcile the interests of the many constituencies 
+who have a deep stake in chemical issues. It is not an easy 
+task.
+    This is our subcommittee's fourth hearing on TSCA. There 
+seems to be general agreement by all parties that the current 
+law simply is not working. Current law does not give the 
+Environmental Protection Agency the tools or the resources the 
+agency needs to implement an effective toxic chemical program, 
+but general agreement on these observations is no guarantee of 
+agreement on the best way to address these problems. And it 
+appears we still have some disagreement about which aspects of 
+TSCA are in need of revision.
+    The public does not have confidence in this law or EPA's 
+implementation of it. Industry's assertion that its products 
+are safe is simply not good enough. Because the Federal law is 
+ineffective, States have stepped in to address specific 
+chemical risks. State action provides an essential backstop to 
+Federal law, but individual State actions do not provide a 
+uniform safety guarantee to all of our citizens, and they do 
+not provide national standards and regulatory certainty to 
+industry.
+    So where do we go from here?
+    The bipartisan initiative represented by S. 1009 offers us 
+an opportunity for broad participation in the effort to reform 
+TSCA, and that is what we need; broad participation in this 
+effort. Because chemicals are such a part of our daily lives, 
+we all have a stake in this effort. This bill does not yet 
+address many of the current law's shortcomings. In some 
+respects, it takes us backward by preempting States' ability to 
+act, for example.
+    There is no need for a State preemption. If this proposal 
+provides EPA with the tools to protect all of our citizens, 
+including those who are the most vulnerable; children and our 
+elderly, there will be far less call for individual State 
+action, but States should retain their rights to act in the 
+best interests of their citizens, and to address specific State 
+concerns when, indeed, it is necessary.
+    I am concerned about retaining the unreasonable risk 
+standard from current law when it has not proven to be a 
+sufficient basis for Agency action over the past 37 years.
+    EPA cannot evaluate the potential risk or relative safety 
+of chemicals without sufficient information. The fact is we 
+still have many chemicals circulating in commerce for which we 
+have little health and safety information, and even less about 
+their behavior in the environment. This problem stems from 
+several weaknesses in the current law, which this legislation 
+only partially addresses. We need a Federal chemical law that 
+provides adequate protection of public health and the 
+environment, and that promotes continued innovation in our 
+chemical industry.
+    The Chemical Safety Improvement Act does not yet achieve 
+the right balance between these important goals, but with 
+additional work it could. We have a very knowledgeable and 
+experienced group of individuals here today who will offer 
+constructive suggestions to this subcommittee about how to 
+proceed.
+    Thank you for being with us this morning. I look forward to 
+hearing your views on the Chemical Safety Improvement Act, and 
+your recommendations for creating what needs to be an effective 
+chemical safety law.
+    Thank you, and I yield back.
+    Mr. Shimkus. Gentleman yields back his time. The Chair now 
+seeks anyone need time on the majority side. Seeing none, the 
+Chair now recognizes the chairman emeritus, Mr. Dingell, for 5 
+minutes.
+
+OPENING STATEMENT OF HON. JOHN D. DINGELL, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF MICHIGAN
+
+    Mr. Dingell. I thank you for holding this hearing. This is 
+a valuable act, and I am much appreciative to you.
+    We need to know what is going on with regard to TSCA, the 
+Toxic Substances Control Act. It is long past time to reform 
+this law. EPA has not been able to tackle even the most 
+dangerous of chemicals and substances, and we may need to find 
+a way to fix this problem.
+    There has been only a few successes of TSCA since it was 
+signed into law by my good friend from Michigan, former member 
+of this body, our good friend, President Gerald Ford. During 
+the House floor debate on TSCA, I was successful in proposing 
+an amendment to phase out the use of PCBs. That, I think, and 
+six other substances are about all that TSCA has been able to 
+remove from the trade.
+    We are finding out today what kind of negative effects PCBs 
+have on the food chain, human health, wildlife and water 
+quality. Frankly, it is very bad, and they remain a part of the 
+chain even though they have been long removed. My amendment was 
+supported by industry and by the environmentalists, and was 
+adopted by a voice vote. Those kinds of things are possible to 
+do, and I would note that we think that industry and the others 
+who are concerned with these matters can work together, and I 
+hope that this committee will give them the chance so to do.
+    The most recent change to TSCA happened only a few years 
+ago when I was chairman of the committee, and when we passed 
+the Mercury Export Ban Act. I have here a letter from 2007 
+penned by the National Mining Association and Natural Resources 
+Defense Council, the American Chemistry Council, the 
+Environmental Council of State, and McLaren Institute in 
+support of that legislation, and I ask unanimous consent that 
+it be inserted in the record.
+    Mr. Shimkus. Without objection, so ordered.
+    [The information follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.001
+    
+    Mr. Dingell. And I thank you for that.
+    The reason I suggest this is it shows that we can work 
+together where there is the will, and your leadership, I hope, 
+will provide us that necessary requirement.
+    My point here is that any overhaul of TSCA must include 
+broad support from industry, environmental and conserver 
+groups. From the time that we passed the Clean Air Act 
+amendments of 1977, this committee has held frequent hearings 
+over the next 13 years until we ultimately passed the Clean Air 
+Act amendments of 1990. An interesting story about that was, 
+somebody said, Dingell, what a great thing you did in getting 
+this bill through the House in 13 hours. I said, yes, it only 
+took me 13 years to do it. But the harsh fact of the matter is 
+these things take a lot of hard work, and a lot of time and a 
+lot of cooperation.
+    I think industry and others who have concerns on this, 
+consumers and environmentalists, are willing to work together, 
+and your leadership, I think, will be of enormous value in 
+achieving that great goal.
+    There has been much debate on the--in the Senate about the 
+legislation before us, and I am pleased to see that we have two 
+of our former colleagues from the Senate over here to discuss 
+these matters with us. Before supporting any legislation, 
+however, I would hope that the broad support that we saw from 
+the Mercury Export Ban in 2007, and for TSCA in 1976, will be 
+available.
+    I do look forward to today's hearings, and I commend you, 
+and I hope that we can find compromises that will gain not just 
+the 218 votes on the House floor, but will come closer to the 
+unanimity that we have seen on other legislation that has come 
+out of this committee, including the Clean Air Act, which we 
+passed by an overwhelming majority with, I think, less than 10 
+votes against it. So I hope that we can work together. The task 
+will be difficult. The problem is very complex, and I think the 
+challenge is great, but I am hopeful that the members of the 
+committee can pull together on this, your leadership will be 
+successful, and that we will accomplish the great goal of 
+cleaning up the mess that we have on TSCA, and seeing to it 
+that it works with the other problems that we have in 
+connection with Clean Air, Superfund and all the other 
+difficulties that we confront.
+    I thank you for your courtesy to me, Mr. Chairman.
+    Mr. Shimkus. Gentleman yields back his time. Now the Chair 
+would like--again, wants to welcome our former colleagues from 
+the House, now U.S. Senators, back to the House side and to the 
+Energy and Commerce Committee room. This has been an issue that 
+has been going on for many years, and Senator Vitter and I sat 
+down 3 years ago, and--when he started working with Senator 
+Lautenberg on this. So we are glad to have you present, and I 
+would recognize each of you 5 minutes. That is not a hard time. 
+And then we will dismiss you and we won't put you up to 
+questions from your former colleagues. Who knows what they 
+would ask.
+    So with that, we would like to recognize Senator David 
+Vitter from Louisiana for 5 minutes.
+
+ STATEMENTS OF HON. DAVID VITTER, A UNITED STATES SENATOR FROM 
+  THE STATE OF LOUISIANA; AND HON. TOM UDALL, A UNITED STATES 
+               SENATOR FROM THE STATE OF COLORADO
+
+                 STATEMENT OF HON. DAVID VITTER
+
+    Mr. Vitter. Thank you very much, Chairman Shimkus and 
+Ranking Member Tonko and all the members for this invitation. 
+Senator Udall and I are really excited to be here to talk about 
+our work, particularly over the last few months, to ensure that 
+S. 1009, the Chemical Safety Improvement Act, which I had the 
+real honor and pleasure of introducing with Frank Lautenberg, 
+continues to improve, and ultimately gets us to where we need 
+to be so that finally, after 37 long years, we modernize and 
+repair the badly-outdated Toxic Substances Control Act.
+    Today's hearing is a huge step in the right direction, and 
+I know it is continuing your work, the fourth hearing that you 
+have had on this important topic, and I am really excited to 
+see your work and see it dovetail with our work.
+    The Lautenberg-Vitter Bill, which is currently co-sponsored 
+by a very bipartisan and politically-diverse quarter of the 
+U.S. Senate, was the product of extensive negotiations, and I 
+believe it exemplifies solid positive bipartisan compromise and 
+good policy. But while we were putting together the bill 
+initially, certainly, Frank Lautenberg and I never thought we 
+had perfect legislation. And so that is why I have been honored 
+to partner with Senator Udall since Frank's passing, to 
+strengthen S. 1009, and we have committed ourselves to meeting 
+with anyone interested in achieving significant bipartisan TSCA 
+reform.
+    After a long hearing, for instance, in July in our Senate 
+committee, and countless hours of meetings, we fully recognize 
+the issues that have been raised, some legitimate, some not, 
+with the Lautenberg-Vitter Bill. And I think it has made--been 
+made abundantly clear, but I will certainly say it again, and I 
+know Senator Udall agrees, anyone interested in achieving 
+meaningful bipartisan compromise to ensure TSCA reform protects 
+all Americans in all 50 States, not just a small segment of the 
+population, or the financial interests of some particular 
+constituency, anyone who has those interests has a welcome seat 
+at the table. And I am confident that by working with Senator 
+Udall and interested stakeholders, the EPA, all of you, other 
+members, co-sponsors of S. 1009 and others, will achieve a 
+final version that not only enhances business certainty and 
+creates a strong Federal chemicals management system, but also 
+sets meaningful deadlines and protects the most vulnerable 
+among us, effectively screens all active chemicals in commerce, 
+and guarantees Americans access to private rights of action and 
+legal remedies, and makes certain that EPA has the tools 
+necessary to ensure the chemicals that we are all exposed to 
+are indeed safe.
+    Now, as I said, anyone interested in a meaningful, 
+substantive result and bipartisan compromise is welcome to a 
+seat at the table, but I do want to urge that the Lautenberg-
+Vitter Bill, which was the product of a lot of hard work and 
+real compromise itself, is the core and the foundation that we 
+build from. Frank himself called that compromise an historic 
+step that would ``fix the flaws with current law.'' Vice 
+President Biden referred to our efforts as a ``bipartisan 
+breakthrough.'' In a statement from Senator Lautenberg's widow, 
+Bonnie, she remembered, ``Frank told me that this bill would be 
+bigger and could save more lives than his law to ban smoking on 
+airplanes.'' And in her words, ``passage of this bill would be 
+a wonderful cap to his career and testament to his legacy.''
+    So S. 1009 is Senator Lautenberg's legacy bill, and I hope 
+we work hard to improve it, take up any significant legitimate 
+issue. We have been doing that through my work with Senator 
+Udall, but in doing that, I hope we do not go back, quite 
+frankly, to failed previous efforts that were completely stuck-
+in-the-mud on partisan lines. And so, again, I want to urge us 
+to stick to this core as we improve it and pass it into law.
+    I would be remiss not to mention the work that went into 
+achieving this compromise with Frank, because it didn't happen 
+overnight, didn't happen without a lot of work and a lot of 
+give-and-take from both of us. He was a very talented 
+legislator committed to making the world a better place. I 
+enjoyed arguing and negotiating and working with him. Frank's 
+wife, Bonnie, was there to take pictures the day Frank and I 
+shook hands on the core pivotal agreement, and again, I am 
+really pleased and honored that Senator Udall and I have 
+partnered carrying on that work and that legacy to get it 
+across the finish line.
+    Again, I want to thank each and every one of you for all of 
+your work on TSCA, I know it has been ongoing, and specifically 
+for this hearing as part of that continuing conversation.
+    Thank you for the invitation.
+    Mr. Shimkus. Thank you. And the Chair now recognizes 
+Senator Udall. And, sir, you are recognized for 5 minutes.
+
+                    STATEMENT HON. TOM UDALL
+
+    Mr. Udall. OK. Thank you very much for the invitation to be 
+here today, and I really in particular want to thank Chairman 
+Shimkus and also Ranking Member Tonko.
+    We--Senator Vitter and I both appreciate this opportunity. 
+And let me just, at the beginning, just say what a pleasure it 
+has been working with Senator Vinner--Vitter and all of the 
+stakeholders to try to center-in on something that we think can 
+get through the Senate, and also I hope will be received over 
+here with some kudos and applause.
+    S. 1009, the Chemical Safety Improvement Act, has been the 
+center of a lot of debate and discussion in the Senate since 
+its introduction. When I first cosponsored the legislation, I 
+did so for two reasons; one, I believed the bill addressed some 
+of the key flaws in TSCA, and that has been noted here. There 
+have been a number of flaws there. And I was very moved by the 
+spirit of bipartisan compromise led by Senator Frank Lautenberg 
+and Senator Vitter in an area where the two parties are often 
+very far apart.
+    My staff and I and Senator Vitter's staff have spent many 
+months since the introduction, working on this legislation and 
+working with the various stakeholders. S. 1009 is not perfect, 
+and, as introduced, has some key problems that need to be 
+addressed. As Senator Lautenberg's successor, as chairman of 
+the Senate Subcommittee on Superfund, Toxics and Environmental 
+Health, I respect the criticism the bill is receiving, and I 
+strongly believe several key areas must be addressed for this 
+legislation to be successful.
+    Chairwoman Boxer held a hearing on this issue earlier this 
+year which delved into these issues. I applaud this committee 
+for taking similar action.
+    I think many of these problems are unintentional, but many 
+in the environment and health community believe these issues 
+mean this legislation should not move forward as-is, and given 
+the fact that we are talking about one of the most ineffective 
+laws on the books, that is worth noting. I agree that we should 
+not pass S. 1009 as introduced, but I am, and will continue to 
+be, optimistic about the incredible bipartisan spirit around 
+finding reform and protecting our families from dangerous 
+chemicals.
+    As the subcommittee chair, I want to develop and pass 
+legislation that safeguards our citizens. S. 1009 has a number 
+of strong elements of needed reform, as well as problems. We 
+can, building off of that, and that is why I have committed so 
+much time to working with Senators of both parties to improve 
+this bill so that it could move forward and be something we can 
+all be proud of.
+    Through the--through that process, I have come to 
+appreciate how big a challenge this is. After all, TSCA's own 
+fatal flaws have not been fixed in decades. Nevertheless, I 
+believe we are up to the challenge.
+    Here are the big three issues with the current Senate bill 
+that we are working on. Number one, ensuring that the EPA will 
+have the tools it needs to protect citizens from dangerous 
+chemicals, and to ensure that EPA will be able to review the 
+known 84,000 chemicals. This means getting the prioritization 
+and deadlines right, along with specifically protecting 
+vulnerable populations. Second, we must make sure to protect 
+private rights of action, to hold companies responsible, and 
+ensure they don't cut corners. As a subcommittee chair and 
+supporter of justice for victims, it is not my intent to 
+preempt private claims. That has been stated publicly by myself 
+and by Senator Vitter. Further changes are absolutely necessary 
+to make this intent clear throughout the bill. And finally, we 
+must make sure to protect the right of States to safeguard our 
+citizens.
+    On that last point, let me take a moment to say to Ranking 
+Member Waxman and members of the California delegation that the 
+chair of our committee, Barbara Boxer, has been a tireless 
+advocate for the State of California and our country. I 
+appreciate the leadership she has shown to protect citizens 
+from dangerous chemicals, and I believe that California and 
+other States play a critical role in lifting up health and 
+safety standards for our country.
+    As this committee proceeds on its own deliberations of how 
+to reform TSCA, I would word--urge you to work together as we 
+are working together, and I am sure you will. I think it would 
+benefit us all to work together on a bipartisan and bicameral 
+basis. TSCA has been a failed environmental law for decades. We 
+have a historic opportunity before us. Success is far from 
+certain, but it would be a shame to waste it.
+    And thank you again, Chairman Shimkus. Pleasure to be over 
+here with my former colleagues, and we look forward, Senator 
+Vitter and I do, on working with you on this piece of 
+legislation.
+    Mr. Shimkus. I want to thank you both for coming over. We 
+appreciate the efforts you have made so far, and really the 
+bipartisan approach is going to be critical in moving anything, 
+and we look forward to working with you as we move through this 
+process. So thank you again. You are dismissed, and we will 
+then seat our second panel.
+    So, as stated in my opening statement, we would like now to 
+welcome and thank you for coming, the Honorable Jim Jones. You 
+are--he was the Assistant Administrator, Office of Chemical 
+Safety and Pollution Prevention, with the United States 
+Environmental Protection Agency.
+    Sir, you have 5 minutes. We are not hardcore on the time. 
+This is a very important issue, and we look forward to your 
+opening statement.
+
+ STATEMENT OF JAMES JONES, ASSISTANT ADMINISTRATOR, OFFICE OF 
+    CHEMICAL SAFETY AND POLLUTION PREVENTION, ENVIRONMENTAL 
+                       PROTECTION AGENCY
+
+    Mr. Jones. Good morning, Chairman Shimkus, Ranking Member 
+Tonko, and other members of the subcommittee.
+    Thank you for inviting me to--for the opportunity to 
+discuss reform of the chemicals management laws of the United 
+States.
+    I think we all agree on the importance of ensuring that the 
+chemicals manufactured and used in this country are safe. With 
+each passing year, the need for TSCA reform grows, and this 
+administration believes it is crucial to modernize and 
+strengthen the Toxic Substances Control Act to provide EPA with 
+the necessary tools to achieve these goals.
+    EPA is encouraged by the interest in TSCA reform, indicated 
+by the introduction of several bills in recent years, the 
+bipartisan discussions underway, and today's hearing which 
+marks the fourth in a series of hearings on TSCA reform before 
+this subcommittee.
+    Many stakeholders share common principles on how best to 
+improve our chemicals management programs. EPA is committed to 
+working with each of you and other members of Congress, the 
+environmental community, the chemical industry, other 
+stakeholders and the public to improve and update TSCA.
+    As you know, chemicals are found in almost everything we 
+use and consume. While they are essential for our health, 
+wellbeing and prosperity, it should be equally essential that 
+they are safe. Compared to 37 years ago when TSCA was passed, 
+we have a much better understanding of the environmental 
+impacts, pathways of exposure and health effects that some 
+chemicals can have, especially on children and other sensitive 
+populations.
+    TSCA gives EPA jurisdiction over chemicals manufactured, 
+processed or distributed in the United States; however, unlike 
+laws applicable to drugs and pesticides, TSCA does not have a 
+mandatory program that gives EPA the authority to conduct a 
+review to determine the safety of existing chemicals. In 
+addition, TSCA places challenging legal and procedural 
+requirements on EPA before we can require the generation and 
+submission of data on the health and environmental effects of 
+existing chemicals.
+    While TSCA was an important step forward when it passed in 
+1976, it has not only fallen behind the industry it was 
+intended to regulate, it has also proven an inadequate tool for 
+providing the American public with the protection they 
+rightfully expect from exposure to harmful chemicals. When TSCA 
+was enacted, it grandfathered-in, without any evaluation, about 
+60,000 chemical in commerce at the time.
+    It has also proven challenging to take action to limit or 
+ban chemicals that have been determined to pose significant 
+health concern. For example, in 1989, after years of study, EPA 
+issued a rule phasing out most uses of asbestos in products. 
+Yet, in spite of near-unanimous scientific opinion, a Federal 
+court overturned most of this action because it found the rules 
+had failed to comply with the requirements of TSCA. In the past 
+37 years, the EPA has regulated only 5 chemicals under Section 
+6 of TSCA, which gives the EPA the authority to ban harmful 
+chemicals.
+    While EPA is committed to using the tools available under 
+TSCA, we believe it should be updated and strengthened to 
+ensure that EPA has the appropriate tools to protect the 
+American public from exposure to harmful chemicals. It is 
+crucial that any updates to TSCA include certain components.
+    In September of 2009, the administration announced a set of 
+principles to help guide the discussion to update and 
+strengthen TSCA. These include providing the agency with the 
+tools to quickly and efficiently obtain information from 
+manufacturers that is relevant to determining the safety of 
+chemicals. The EPA also should have clear authority to assess 
+chemicals against a risk-based safety standard, and to take 
+risk management actions when chemicals do not meet the 
+standard.
+    On April 15, Senators Lautenberg, Vitter and others 
+introduced S. 1009, the Chemical Safety Improvement Act. While 
+EPA has not yet developed a formal position on the bill, we 
+offer the following observations in light of the Agency and the 
+administration principles. As stated in the principles, 
+legislation should provide EPA with authority to establish 
+risk-based safety standards that are protective of human health 
+and the environment. The EPA should have clear authority to 
+take risk management actions when chemicals do not meet the 
+safety standard, with flexibility to take into account a range 
+of consideration, including children's health, economic costs, 
+social benefits and equity concerns. The principles further 
+indicate that clear, enforceable and practicable deadlines 
+should be set for the Agency to review and make decisions on 
+chemicals, in particular, those that might impact sensitive 
+populations, and provide a sustained source of funding for 
+implementation. Administrative requirements should add 
+demonstrable value to the process beyond existing law and 
+requirements. Legislation should provide the EPA with tools to 
+ensure the protections put in place are carried out, and 
+provide a level playing field for companies that comply.
+    We understand the concerns raised by many stakeholders 
+regarding the appropriate role for States in addressing the 
+risks of chemicals to which their citizens are exposed, and EPA 
+stands ready to provide technical assistance on this important 
+issue.
+    Mr. Chairman, thank you again for your leadership on TSCA 
+reform, and I will be happy to answer questions that you or 
+members of the committee have. Thank you.
+    [The prepared statement of Mr. Jones follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.002
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.003
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.004
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.005
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.006
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.007
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.008
+    
+    Mr. Shimkus. Thank you. Now I will recognize myself for the 
+first 5 minutes for the starting of questions.
+    So, again, welcome.
+    Does Senate Bill 1009, in your opinion, strengthen EPA's 
+ability to prevent dangerous new chemicals or those with 
+inadequate information from entering the market?
+    Mr. Jones. Yes, Congressman. To clarify, the existing 
+statute does not require EPA to make an affirmative finding of 
+safety for a new chemical, as 1009 requires an affirmative 
+finding on the part of the EPA before a new chemical can enter 
+the market. As it relates to data generation, interestingly, my 
+attorneys have read the bill to provide EPA with the ability to 
+require the generation of data if necessary to make a finding.
+    There are other stakeholders who are not reading that 
+provision the same way, which to me is an indication that there 
+may be a need for clarification around that.
+    Mr. Shimkus. Thank you. Do you consider Senate 1009 an 
+improvement over current law for EPA to address hazards and 
+risk of chemical substances in American commerce?
+    Mr. Jones. So, you know, as we heard from Senator Udall, 
+TSCA is perhaps one of the most poorly implemented 
+environmental statutes, and so the way in which we look at the 
+bill isn't is it better, is it--does it allow us to achieve our 
+stated objectives of safe chemicals in the United States. And 
+in that respect, under that standard, which is the way I am 
+attempting to look at it, I think that there are some 
+shortcomings, as we heard from Senator Vitter, that I would be 
+happy to talk about as well.
+    Mr. Shimkus. Many witnesses have testified before our 
+committee on the strengths and successes of existing TSCA, 
+Section 5, provisions for new chemicals, and new uses of 
+existing chemicals. Notwithstanding Senate 1009 makes changes 
+to Section 5, do you consider these changes appropriate?
+    Mr. Jones. I think it is surprising to most people that we 
+do not need to affirmatively determine safety before a chemical 
+enters the market, so I think that that change is an important 
+one, that the Agency affirmatively say, yes, this chemical is 
+safe before it enters the market.
+    Mr. Shimkus. Could these changes negatively impact 
+innovation in the United States?
+    Mr. Jones. When people talk about innovation, which we are 
+very sensitive to at EPA and try to facilitate it, I don't 
+think they think of it as innovation of unsafe things. So I 
+don't view a requirement that the Agency affirmatively 
+determine something meets a safety standard as impacting 
+innovation in a negative way. I actually think it will 
+facilitate innovation, because innovation should be around safe 
+things.
+    Mr. Shimkus. Right. I appreciate that. Further, some 
+witnesses have talked about EPA needing more information on 
+chemicals. Section 4 of Senate 1009 provides the EPA authority 
+to order development of data and information on chemicals. Is 
+this a tool the Agency currently has under Section 4 of TSCA 
+today?
+    Mr. Jones. Thanks, Mr. Chairman. That is actually one of 
+the real highlights of the introduced bill. Right now, the 
+Agency, if we wanted a company to generate health and safety 
+data for a chemical, we need to go through a rather complex 
+rule-making process, which also requires us to make certain 
+findings that creates somewhat of a catch 22. We have to have a 
+sense that there is a problem before we require the generation 
+of this data, and the rule-making themselves can take up to 5 
+years, if not longer.
+    So order authority, the ability to, without going through 
+that elaborate process, is a huge improvement, and it is an 
+authority that we have in our pesticides program right now.
+    Mr. Shimkus. And you answered it in the last question--the 
+prepared questions I have is, order authority would be helpful 
+in this venue, as you just testified.
+    Mr. Jones. Very much so.
+    Mr. Shimkus. Let me ask two other questions based upon your 
+opening statement.
+    When you say equity concerns, what do you mean?
+    Mr. Jones. So sometime, well, actually, whenever you are 
+protecting in a regulatory decision, or otherwise, it is 
+important to understand where the protections occur. It is also 
+important to understand where do the costs fall. Are the costs 
+being borne by a broad segment of society, a narrow segment of 
+society, are the benefits being enjoyed by a very narrow 
+segment of society, or a broad segment of society? And so it is 
+understanding where the costs and the benefits of a decision 
+may fall. Understanding what they are.
+    Mr. Shimkus. We kind of need a little more work on that 
+because I think, for me, the basic premise is are we producing 
+chemicals that are safe. So that I would think a safe chemical 
+would be good for everybody in the production process and for 
+the consumers, but I will get more briefings on that.
+    When you define sensitive populations, what do you mean by 
+that?
+    Mr. Jones. Well, so that can be an equity concern. So that 
+by looking at what we expect that we are going to be looking at 
+highly-exposed individuals, wherever they may be----
+    Mr. Shimkus. In the workplace or----
+    Mr. Jones. In the workplace----
+    Mr. Shimkus [continuing]. Outside the fence of the 
+facility, is that what we are talking about?
+    Mr. Jones. Whoever is highly exposed to the chemical that 
+we are looking at, or the use that we are looking at. And we 
+also mean it to include are there certain parts of the 
+population that may be biologically more sensitive. So a child 
+or an infant may have different sensitivities than an adult, an 
+elderly individual may have different sensitivities than a 
+teenager. And so we look at both the highly exposed, who is 
+getting more exposure than the average, and are there 
+individuals or groups that may have greater sensitivity than 
+the average.
+    Mr. Shimkus. Great. Thank you very much. My time has 
+expired. The Chair now recognizes Mr. Tonko for 5 minutes.
+    Mr. Tonko. Thank you, Mr. Chair, and thank you, 
+Administrator Jones, for your guidance.
+    Now, the American people have relied on EPA and the Toxic 
+Substances Control Act to protect them against the dangers of 
+toxic chemicals, but EPA has faced significant challenges in 
+banning or restricting toxic chemicals under TSCA, even in 
+cases where the risks are widely recognized and understood, 
+such as is the case of asbestos. So EPA's first principle of 
+TSCA reform from 2009 reads, and I quote, ``chemicals should be 
+reviewed against safety standards that are based on sound 
+science, and reflect risk-based criteria protective of human 
+health and the environment.''
+    Some have suggested that EPA should consider the cost to 
+the chemical industry and others when setting a safety 
+standard. That would mean that somehow EPA would have to factor 
+in the cost of reducing the public's exposure to harmful 
+chemicals when determining whether exposure to a chemical is 
+safe.
+    Would an approach that requires consideration of cost and 
+determination of the safety standard comport with EPA's 
+principle?
+    Mr. Jones. Thank you, Representative Tonko. The 
+administration principles speak both to science-based safety 
+standards, and then in risk management, the Agency having the 
+flexibility to consider other factors such as costs, so that 
+when we are looking at how to mitigate a risk, those cost 
+considerations can play into the ultimate decision making. And 
+those concepts are both captured in the administration 
+principles.
+    Mr. Tonko. So based on science and cost?
+    Mr. Jones. That is right.
+    Mr. Tonko. We are looking at both. Historically, TSCA has 
+applied an unreasonable risk standard. This standard has been 
+interpreted to require cost consideration in setting standards, 
+and it was one of the key problems that led to the tragic 
+failure to phase-out use of asbestos. Is that correct?
+    Mr. Jones. I think that not just in the unreasonable-risk 
+standard itself, but many of the other requirements within 
+Section 6, including the least burdensome requirement. Those 
+two phrases, and a lot of other language around it, required 
+what I would consider to be paralysis by analysis. So much 
+analysis, you could never actually finish the work. And those 
+conspired to get in the way of EPA in the asbestos context, and 
+I would argue since then of being effective with Section 6.
+    Mr. Tonko. So the bill we are considering today continues 
+to use the legal standard of unreasonable risk. I am concerned 
+that continuing to use this standard invites the use of the 
+traditional interpretation which leaves EPA, as you made 
+mention, paralyzed. Is this a fair concern?
+    Mr. Jones. It is interesting, Congressman. There are a 
+number of people in the stakeholder community, and they--in my 
+conversations, they don't fall out in terms of, you know, one 
+group versus another, but there are some parties who believe 
+unreasonable risk can only be read to mean a cost benefit 
+balancing. There are others who believe that it is all of the 
+language around it that will matter ultimately. And so I think 
+it is important to have that dialog to come to consensus so 
+everyone agrees, whatever words are being used, there is a 
+common understanding.
+    That being said, I do believe that 1009 also has other 
+language in it, beyond unreasonable risk, that has a similar 
+effect as the least burdensome requirement which requires a 
+seemingly endless amount of analysis on the part of the Agency 
+before we can ever move forward. So I think that that is 
+important to address as well.
+    Mr. Tonko. And so in your view, we could end up with an 
+adequate standard if we make it clear that EPA should abandon 
+the historical interpretation of unreasonable risk?
+    Mr. Jones. You know, I--interesting--I fall within the 
+camp, thinking that the statute can clearly define unreasonable 
+risk, but you need to use enough words that you counter the 
+case law that exists out there right now, and the way in which 
+the term is used within existing TSCA, but it is very important 
+that whatever is done, that people agree about what the 
+interpretation is, and not be in a position where people look 
+at the same two words and think it means two different things.
+    Mr. Tonko. So would it be easier to simply use a new 
+standard that doesn't have the baggage associated with the 
+phrase unreasonable risk?
+    Mr. Jones. Well, that would be one way to do that.
+    Mr. Tonko. OK. Given the history of litigation under TSCA, 
+statutory language on cost consideration and the safety 
+standard must be completely clear. I commend the administration 
+for its clear principle on this matter, and look forward to 
+ensuring that any bill we produce is consistent with the 
+administration's position, otherwise we will have a lot of 
+explaining to do to the victims of asbestos and other toxic 
+chemical exposure.
+    There is also a lot of talk about resources, as you talked 
+about putting more and more into the standards that need to be 
+met and reviewed. In your opinion, where are we at with the 
+resource issue in order for the Agency to comply with the 
+implementation?
+    Mr. Jones. So one of the administration's principles is 
+that there be a sustained source of funding for the EPA. Under 
+existing funding, we would be limited in how much progress we 
+could make in any period of time. We would think that a 
+sustained source of funding would involve something above and 
+beyond what currently exists for EPA. I think there are some 
+models out there we could look to.
+    Mr. Tonko. Thank you very much, Administrator Jones.
+    Mr. Jones. Thank you.
+    Mr. Shimkus. Gentleman's time has expired. Chair will now 
+recognize the gentleman from Georgia, Mr. Gingrey, for 5 
+minutes.
+    Mr. Gingrey. Mr. Chairman, thank you.
+    Administrator Jones, I have got--actually I have got four 
+questions for you, and I will start.
+    Were Senate Bill 1009 enacted tomorrow, what would be the 
+status of the regulations or guidance under current law? Would 
+EPA need to reissue new regulations for regulatory matters that 
+are already settled under current law?
+    Mr. Jones. Thank you, Congressman.
+    So I believe that existing regulations would carry on as 
+they are. I think guidance, we would need to look case-by-case 
+to each guidance to see whether or not a new law, such as 1009, 
+would require us to make any modifications to conform with a 
+new statute. But regulations would carry on as they are 
+currently drafted.
+    Mr. Gingrey. Great. Thank you. And the second question, how 
+could activities currently underway at EPA, as an example, 
+identification of work plan chemicals and progress in 
+conducting risk assessments of them, be integrated into S. 1009 
+in a manner that does not disrupt or delay current TSCA work?
+    Mr. Jones. I believe that the existing--introduced Bill 
+1009 allows the agency to designate the compounds that we are 
+already working on, workplan chemicals and other chemicals for 
+which we have prioritized, which are about 80-plus, as high 
+priority right from the get go. So right from the beginning, 
+they would become high priority chemicals under the current 
+draft.
+    Mr. Gingrey. In your view, does the knowhow, experience and 
+capability of the United States in regulating chemicals compare 
+to other nations?
+    Mr. Jones. Yes, well, just so you understand, my experience 
+includes about 20 years working in the pesticides program and 
+then in this capacity as well. Pesticides are chemicals and, in 
+the pesticide context, we have a very strong statute that 
+requires us to evaluate every chemical and have been able to 
+effectively do that, so I think we have some of the best 
+knowhow, experience and knowledge in the world as it relates to 
+chemicals. I think what we are struggling with in this context 
+is a statute that makes it difficult to apply that experience 
+to the chemicals under TSCA.
+    Mr. Gingrey. And my last question, and I have got, gosh, 2-
+1/2 minutes, I may be able to yield back some time.
+    The United States is currently exploring a free trade 
+agreement, as you know, with the European Union. Do you see any 
+potential impact of those trade talks on domestic chemicals 
+regulation?
+    Mr. Jones. That is a very good question. What I would say 
+about that is that my organization and myself will participate 
+with USTR, largely through USTR, on those kinds of discussions. 
+What we try to do at EPA is to identify areas where there may 
+be unnecessary barriers to trade, while ensuring that existing 
+health and safety standards in the United States are 
+maintained.
+    And so sometimes you may identify a barrier, but it is not 
+going to get changed because we have domestic laws that would 
+prevent it, but there are times when you can identify a problem 
+that can be harmonized without changing the domestic safety 
+standards in the United States.
+    And so that is the sweet spot that we are looking for. 
+Whether we will find any in that context is, I think, too early 
+to determine, but that is how we will approach the issue.
+    Mr. Gingrey. Could this free trade negotiation influence 
+chemical risk assessment policy in the United States and should 
+it? I mean that is really the meat of the question. They do 
+things differently, obviously.
+    Mr. Jones. Yes, that is a very good question. The Obama 
+administration has been very clear that we are taking a risk-
+based approach to chemicals management in the United States. 
+That is what we do under existing law, it is what we are 
+advocating in a reformed TSCA. I don't see any scenario where 
+we would move away from that. It is a pretty core principle of 
+the administration. It has also been the principle of the U.S. 
+Government for many administrations.
+    Mr. Gingrey. Well, that is----
+    Mr. Jones. I think it would be kind of unusual for us to 
+move away from that.
+    Mr. Gingrey. That is very reassuring, Administrator Jones.
+    Thank you very much, and I yield back 30 seconds.
+    Mr. Shimkus. Gentleman yields back the time. The Chair now 
+recognizes the ranking member, full committee, Mr. Waxman, for 
+5 minutes.
+    Mr. Waxman. Thank you, Mr. Chairman.
+    Mr. Jones, thank you for testifying today. I would like to 
+explore two issues with you about this bill. One is the issue 
+of deadlines associated with effective Agency action, and the 
+other is preemption of State requirements.
+    Let us start with the deadlines issue.
+    You testified that in the last 37 years, EPA has only been 
+able to require testing on a little more than 200 of the more 
+than 84,000 chemicals listed on the TSCA Inventory. That means 
+that not even one percent of chemicals have been tested for 
+safety in nearly four decades.
+    I think the American people would see this as 
+disappointing. They are counting on the Agency to ensure 
+chemicals are adequately tested, but this history demonstrates 
+that the law is not working the way it needs to.
+    That is why, in my view, it is critical that legislation to 
+reform TSCA include meaningful deadlines to ensure that 
+chemical reviews are completed on a timely basis.
+    Does the bill, Mr. Jones, that we are examining today 
+adequately address this issue? Will it ensure that there are 
+meaningful deadlines to address this huge backlog?
+    Mr. Jones. Thank you, Congressman Waxman.
+    I don't believe that it does. The bill does require EPA to 
+set deadlines, but it gives us unlimited ability to change 
+those deadlines. So, in effect, I don't believe as a matter of 
+law there are meaningful deadlines in the statute. I will say, 
+as you well know from the Food Quality Protection Act which you 
+had a big hand in, there were very clear deadlines about what 
+EPA had to do. We had to look at all pesticides used on food 
+within 10 years, and during a 10-year period we evaluated them 
+all, actually, 99 percent, and met the deadline----
+    Mr. Waxman. Yes. I am interested in that because this 
+committee passed that bill. In fact, I worked with Chairman 
+Bliley and Chairman Dingell. It was a strong bipartisan-
+supported bill. It required pesticide residues on food to be 
+safe for infants and children. It included deadlines for 
+hundreds of chemicals to be reviewed. And you are in charge of 
+both----
+    Mr. Jones. That is right.
+    Mr. Waxman [continuing]. The TSCA issue and the 1996 law. 
+So you have had the experience with deadlines that were very 
+concrete. Did it affect the Agency's implementation of the law?
+    Mr. Jones. I think it is why we met the deadline. From 1996 
+to 2006, we met that deadline for 99 percent of the 10,000 food 
+use tolerances in the United States, from 1996 to 2006 under 
+TSCA, which has currently no deadlines. We----
+    Mr. Waxman. Yes.
+    Mr. Jones [continuing]. Didn't evaluate a single existing 
+chemical during that----
+    Mr. Waxman. Yes.
+    Mr. Jones [continuing]. Period of time.
+    Mr. Waxman. Well, 400 pesticide chemicals under the Food 
+Quality Protection Act over 10 years have been reviewed, which 
+complies with all the law's deadlines, and I congratulate you 
+for that. At the same time, EPA completed no reviews under TSCA 
+because there were no deadlines. I think that speaks very 
+favorably for putting deadlines in the legislation.
+    Now, let me turn to the question of preemption. Over the 
+years, many States have acted to protect the public from the 
+dangers of toxic chemicals. They have removed toxic chemicals 
+from consumer products, they have banned developmental toxins 
+from toys, and they have even worked to regulate chemicals that 
+act as powerful greenhouse gases.
+    Under this bill, Mr. Jones, EPA is required to determine 
+whether a chemical is a ``high priority'' or a ``low priority'' 
+for review. And once this determination is made, State rules 
+are preempted. Isn't that correct?
+    Mr. Jones. New State requirements would be preempted after 
+EPA makes a determination a chemical is a high priority or a 
+low priority.
+    Mr. Waxman. OK. Now, in fact, the California EPA has 
+identified dozens of State laws and regulations that may be 
+preempted under this approach. But determining something is a 
+``high priority'' for review is only the beginning of the 
+process. It could take many years for EPA to adequately address 
+a ``high priority'' chemical. And without meaningful deadlines, 
+we could have important State public health protections 
+preempted while Federal action languishes indefinitely. Isn't 
+that the case?
+    Mr. Jones. That is correct.
+    Mr. Waxman. The preemption as you see it is only 
+prospectively, so existing laws would not be preempted?
+    Mr. Jones. There is--I am sorry. There are actually two 
+provisions; one is for existing requirements. Existing State 
+requirements are preempted when EPA makes a safety 
+determination. A safety determination is just our view of the 
+risks of the compound; it is not the regulation of the 
+compound. So you could have an existing State requirement be 
+preempted once EPA has made a safety determination, but before 
+EPA ultimately regulated it.
+    Mr. Waxman. And that could be years.
+    Mr. Jones. Well, there are no deadlines, so----
+    Mr. Waxman. Yes.
+    Mr. Jones. Yes, years.
+    Mr. Waxman. Well, thank you very much for your testimony 
+and your answering these questions. I think it drives us to 
+look at this need for a bill with strong deadlines, and get 
+this job done.
+    Thank you, Mr. Chairman.
+    Mr. Shimkus. Gentleman yields back his time. Chair now 
+recognizes the gentleman from Pennsylvania, Mr. Murphy, for 5 
+minutes.
+    Mr. Murphy. Thank you, Mr. Chairman. Sir, thank you for 
+being here.
+    First of all, I want to say I am pleased we are having this 
+hearing and moving forward with much-needed debate. There are 
+some important provisions in the Senate bill to protect public 
+health, while allowing companies to continue to innovate, and I 
+am supportive of the Federal standard rather than the 
+complexity in the 50-State statute. And one issue I want to 
+raise is language in here related to articles. The bill says 
+imported or exported articles will need to say whether they 
+contain high-priority chemicals. This could require an 
+extensive review--applied outside of the U.S. for articles we 
+import, and this could be an extensive burden so it is 
+something we need to look at in the future.
+    Mr. Jones, a couple of things in your testimony. On page 5, 
+you refer to social benefits. What does that mean?
+    Mr. Jones. So how the benefits of the action are captured, 
+and as a general matter, they relate to the health benefits 
+that are generated.
+    Mr. Murphy. And you mention health too. I just wondered 
+how--is social different from health?
+    Mr. Jones. As a general matter, I don't think that it would 
+be.
+    Mr. Murphy. OK, I wanted to be clear because that means 
+different things to us. So, all right. Also, you referred on 
+page 6 to sound science. Certainly, that is something this 
+committee advocates a great deal. How do you define sound 
+science, however? Is that something that is based upon refereed 
+journals from scientists--respected scientists, is that 
+something that the EPA puts out, is it something that its 
+committees are appointed with political appointees----
+    Mr. Jones. Right.
+    Mr. Murphy [continuing]. How do you determine sound 
+science?
+    Mr. Jones. The Agency has actually got a fair amount of 
+guidance that it has that describes the characteristics of what 
+we want our science to include, which I would be happy to 
+provide to the committee. As a general matter though, it 
+includes that--we are looking at all the available information, 
+and that we are relying on peer review to help make sure that 
+our assessment of that science holds up.
+    Mr. Murphy. I see. Appreciate it, and I hope we can make 
+sure there is wording in the bill that defines that too. Let me 
+ask this then, how long would the EPA take to accomplishing the 
+following tasks in the Senate bill, assuming adequate staffing 
+and funding. This is in S. 1009. First of all, sorting 
+chemicals at the high and low priorities.
+    Mr. Jones. So the initial cut around that, actually the 
+Agency did before this bill was introduced, and that took 
+several months to identify perhaps the 250 highest priority 
+chemicals. So the sorting activity of finding what we think are 
+the highest priorities does not take that long.
+    Now, that being said, we were looking at about--a subset of 
+about 1,200 chemicals for which there was a meaningful data 
+set. At the end of the day, we would be required to sort a much 
+larger universe than that, but that being said, the sorting 
+activity itself is one that does not particularly take a long 
+time.
+    Mr. Murphy. OK. How long would it take you to complete the 
+first safety assessment?
+    Mr. Jones. So we think as a general matter, it is about a 
+2- or 3-year process to be doing a chemical safety assessment, 
+depending on the complexity of the chemical.
+    Mr. Murphy. And how about completion of most safety 
+assessments?
+    Mr. Jones. Well, the numbers we are dealing with here in--
+under TSCA are so extraordinarily large, which is why I think 
+that efforts to reform TSCA really focus in on and set some 
+priorities so that you are focusing on those things that have 
+the potential to have the greatest risk.
+    And so, depending on how you want to define most of the 
+chemicals, it would certainly inform how one would try to 
+answer that.
+    Mr. Murphy. So then this begs this question, because it is 
+so important that the manufacturers have some important data on 
+this too, but how long would it take you to publish the first 
+regulations imposing restrictions on a chemical?
+    Mr. Jones. So after having a safety assessment and safety 
+determination, which we think can happen contemporaneously, it 
+would be about 3 years for a final regulation for a chemical 
+that had been assessed.
+    Mr. Murphy. And how about deciding restrictions for the 
+most risky chemicals?
+    Mr. Jones. Well, it is about--the--3 years.
+    Mr. Murphy. Three years for--then either way?
+    Mr. Jones. Yes.
+    Mr. Murphy. Can you elaborate a little bit what would go 
+into that, making these determinations about your regulations 
+of the most risky chemicals?
+    Mr. Jones. With respect to what is the assessment like, or 
+how do we ultimately determine whether risk management is 
+necessary?
+    Mr. Murphy. Maybe what the assessment is like.
+    Mr. Jones. So the assessment is basically we are going to 
+look at all of the data that is available around hazard, 
+whether the chemical elicits some kind of an adverse effect in 
+animals. Humans being who we are trying to protect, but it is 
+usually the laboratory animals that...
+    Mr. Murphy. Would you have ongoing communication with the 
+manufacturers with this? And I think it is very--it is 
+extremely helpful if you have an open communication, not 
+surprising them, but open discussions, honest discussions as to 
+what the scientific base----
+    Mr. Jones. In the last year and a half or so, we have begun 
+to do some safety assessments, and we try to make it open and 
+available to everyone. I will say manufacturers tend to 
+participate more than others, but it is open to everyone. And 
+so if they have data that is useful to the safety assessment, 
+they are encouraged to bring it to us----
+    Mr. Murphy. OK.
+    Mr. Jones [continuing]. Make sure that we have it.
+    Mr. Murphy. Thank you.
+    Mr. Jones. So we will----
+    Mr. Murphy. I yield back.
+    Mr. Shimkus. Gentleman's time expired. Chair now recognizes 
+the gentleman from Texas, Mr. Green, for 5 minutes.
+    Mr. Green. Thank you, Mr. Chairman, for holding this 
+hearing. It is our fourth on TSCA reform before our 
+subcommittee this year, and I am optimistic our committee can 
+find a bipartisan path to reauthorization, and we address the 
+concerns of most, if not all, of the stakeholders, and I look 
+forward to the process.
+    I would like to also thank Senators Udall and Vitter for 
+joining us this morning earlier, as well as Assistant 
+Administrator Jones, for the work they have done to move this 
+issue forward.
+    Mr. Jones, in your professional opinion, does the safety 
+standard in Lautenberg-Vitter strengthen the EPA's ability to 
+regulate chemicals over the present safety standard?
+    Ms. Jones. Thanks, Congressman Green. I think that there 
+are some issues with the way in which the safety standard in 
+1009 is drafted, but the principle one that I see is that it 
+requires a degree of analysis of the alternatives to the 
+chemical that you are focusing on that could find EPA in a 
+potentially an endless analytical loop. So that meeting those 
+procedural requirements of evaluating all of the alternatives, 
+the risks and the benefits of all of the alternatives, may find 
+us in a situation where we can't finish on the chemical that we 
+are focusing on, and that is actually built into the safety 
+standards, so I think that that is the principle problem that 
+we see.
+    Mr. Green. Well, and I know there are a number of other 
+questions. I would hope that we could sit down and work that 
+out because, obviously, the EPA is the enforcement agency, but 
+we want to make sure the law is both easily dealt with, both 
+for everyone involved in it. So I look forward to using our 
+resources together to deal with it.
+    Are some of the challenging and legal procedure 
+requirements encountered under TSCA, in quoting your testimony, 
+fixed in the Lautenberg-Vitter Bill? If so, were these 
+challenges addressed in 1009?
+    Mr. Jones. I think that the issue that was most effectively 
+addressed in the Lautenberg-Vitter bill is the inability the 
+agency has had to easily require the generation of health and 
+safety data. I think that has been the aspect of the bill that 
+has most moved the ball forward. As I had mentioned earlier, I 
+think that the removal of the least burdensome requirement that 
+many focus on under TSCA has instead been replaced by a 
+different kind of burdensome requirement, and I think that the 
+deadlines--the lack of deadlines will meaningfully impair the 
+Agency's ability to succeed in the way that I think that the 
+drafters intended.
+    Mr. Green. OK. Do you believe the infants, children and 
+pregnant women, and other vulnerable populations, would be 
+protected more under Lautenberg-Vitter than current law?
+    Mr. Jones. The Lautenberg-Vitter Bill does require that EPA 
+consider sensitive populations in our safety assessments, which 
+is not required under existing TSCA. It doesn't require us to 
+consider them in our safety determinations or risk management, 
+so there is a movement towards that direction in Lautenberg-
+Vitter.
+    Mr. Green. Under current law, can you explain what happens 
+when a new chemical comes on the market? Does the manufacturer 
+need EPA OK first?
+    Mr. Jones. They need us to not say no. So they don't need 
+us to affirmatively say yes, they need us to not say no. And 
+the Lautenberg-Vitter Bill rectifies that by requiring EPA to 
+affirmatively say yes.
+    Mr. Green. OK. And you find--if--do you have to find that a 
+chemical is safe before allowing it on the market?
+    Mr. Jones. We are not required to make that finding.
+    Mr. Green. OK. Would the Lautenberg-Vitter Bill address 
+that issue?
+    Mr. Jones. Yes, that is----
+    Mr. Green. OK. How would S. 1009 change current law that 
+protects confidential business information, and I know we have 
+dealt with this on our committee a lot of times. Is it--would 
+it require companies to refresh their requests for information 
+protection?
+    Mr. Jones. The principle change is that it would allow EPA 
+to share confidential business information with State, local, 
+emergency response officials, which is currently prohibited.
+    Mr. Green. OK. How does it meet--make sure that the 
+government officials, including States, get access to the 
+needed information while still protecting those business 
+secrets from competitors?
+    Mr. Jones. So----
+    Mr. Green. Is that protected in 1009?
+    Mr. Jones. That is right. It would require the recipient, 
+the State or local responder, to agree to maintain the 
+confidentiality before receiving the information.
+    Mr. Green. Some of the witnesses that will follow you 
+suggest EPA cannot get information to prioritize chemicals, yet 
+I noticed new Section 4(e)(3)(B) allows EPA to ask the public 
+for information that is reasonably ascertainable. Does that 
+section allow EPA to collect information that is reasonably 
+ascertainable to make prioritized--prioritization decisions?
+    Mr. Jones. It does, but there is also a provision that 
+allows us to require the manufacturers to generate the data 
+without going through a rule-making activity.
+    Mr. Green. OK. And again, Mr. Chairman, I am out of time 
+but I look forward to us working with EPA and the drafting, and 
+to make sure we know we are all on the same page, literally.
+    Thank you for your time.
+    Mr. Shimkus. Gentleman's time expired. Chair now recognizes 
+the gentleman from Ohio, Mr. Latta, for 5 minutes.
+    Mr. Latta. Well, thank you very much, Mr. Chairman. Thanks 
+for holding this hearing this morning, and thank you very much 
+for being here. We really appreciate your testimony, and the 
+discussion that we are having today.
+    Just again to kind of--where I am coming from. I represent 
+a district that has 60,000 manufacturing jobs, and it is also 
+unique in that I also represent the largest number of farmers 
+in the State of Ohio. So I have parallel things going on out 
+there. And so when I am out at home and this issue comes up, 
+people really want to know what is happening in Washington, and 
+especially where EPA would be going.
+    And if I could ask you just a couple of questions real 
+quickly. One is, do you believe that the categories that this 
+bill creates for new chemicals will or could negatively impact 
+specialty chemical manufacturers?
+    Mr. Jones. The new chemical provisions, Congressman, is 
+that what you are---
+    Mr. Latta. Right.
+    Mr. Jones. I don't believe so. I believe that we will be 
+able to make decisions in a timely manner under the Lautenberg-
+Vitter bill on new chemicals.
+    Mr. Latta. And again, could you define that timely manner?
+    Mr. Jones. So the current requirement is that we evaluate 
+compounds within 90 days. If we see a problem, we need to 
+inform the submitter. Under the Lautenberg-Vitter bill, that 90 
+days remains. We have the ability to extend it by 90 days or 
+two periods of time, but it shouldn't exceed another 90 days. 
+So we are still talking about very short periods of time for 
+our review of new chemicals.
+    Mr. Latta. OK. And can you also discuss EPA's confidential 
+business information improvements, and how are those working?
+    Mr. Jones. So we are working very hard to do what I think 
+of as the government's role as it relates to confidential 
+business information, which is to ensure that we are asking the 
+question, is this claim eligible for confidential business 
+information treatment. Historically, we have been somewhat 
+passive which, if someone had asserted it, we basically would 
+just accept that. We are now doing our part, which is to make 
+sure that an assertive claim actually meets the statutory 
+criteria around that. And over the last several years, we have 
+successfully removed over 1,000 claims that have been made just 
+because they were not warranted by the statute, or the 
+manufacturer, when they went back and looked at their files, 
+they didn't think the claim was necessary anymore. So some of 
+it has been us doing more work, some of it has been us working 
+with the manufacturers to ensure that they were keeping their 
+files accurate related to their CBI claims.
+    Mr. Latta. And also when you reviewed the bill, would those 
+improvements be consistent with the bill?
+    Mr. Jones. Generally, they would be. There is a 
+grandfathering-in of CBI claims that--one that was made before 
+the bill would pass would be considered to be CBI that would 
+potentially impact some of this cleanup effort that I am 
+referring to.
+    Mr. Latta. OK. And also, how do you believe the 
+coordination has been between the EPA and the TSCA Interagency 
+Testing Committee?
+    Mr. Jones. So historically, it has not been particularly 
+active, in that other agencies are not big users of that 
+committee, whereby they are able to ask us to generate health 
+and safety data for their purposes. The bill allows that 
+activity to continue in the future. It would be interesting--I 
+really can't predict how much other agencies would be feeling 
+more empowered to ask EPA to use its authorities to require 
+companies to generate health and safety data for their 
+purposes, but it is definitely an authority in the Lautenberg-
+Vitter Bill.
+    Mr. Latta. OK. And finally, if I could, I know there have 
+been some questions that other members have asked about how you 
+have defined certain words that have--that were in your 
+testimony. On page 4, you talk about that, as stated in the 
+principles, legislation provides the EPA with authority to 
+establish risk-based safety standards. How would you define 
+that risk-based safety standards? Would you see the 
+stakeholders being involved, how would you see--come to that 
+definition?
+    Mr. Jones. So we would definitely involve stakeholders in 
+that--I will give a few examples based on implementation of 
+other statutes. The EPA would consider, for a chemical that was 
+a quantified carcinogen, that the calculated risk of that 
+compound not creating more than a 1 in a million chance of 
+increasing cancer risk to be a health-based safety standard, 
+where we have identified in a quantifiable way in that case the 
+level at which we believe is protective, based exclusively on a 
+health and safety consideration. So that would be an example of 
+one. It doesn't mean under this bill we would say that the 
+number, but we would include dialog with stakeholders to say, 
+here is an example, do you think this is the appropriate 
+health-based safety standard? Should it be 1 in a million, 1 in 
+100,000, 1 in 10 million, before we ultimately came down on 
+what we thought was the appropriate health-based safety 
+standard.
+    Mr. Latta. Well, thank you very much. And, Mr. Chairman, I 
+see my time has expired, and I yield back.
+    Mr. Shimkus. Gentleman yields back his time. Chair now 
+recognizes my colleague from Colorado, Ms. DeGette, for 5 
+minutes.
+    Ms. DeGette. Thank you very much, Mr. Chairman. Mr. Jones, 
+we appreciate you coming today. And, Mr. Chairman, I really 
+appreciate you holding this hearing. We have been hammering 
+away at this for some number of years, and I actually think, 
+with the Senate bill and with this committee's efforts, we may 
+be productive. So, yes, let's keep our fingers crossed.
+    Mr. Jones, one thing we have been talking about is one of 
+the problems with the current act is that roughly 60,000 
+existing chemicals were grandfathered-in in 1976, and as you 
+testified, there is no criteria to trigger an independent EPA 
+review of an existing chemical. So under the Senate bill, all 
+the existing chemicals in commerce would be identified and 
+prioritized for further evaluation. I want to talk to you 
+about--a little bit about that this morning.
+    I think given the number of chemicals that are out there, 
+and the subset of chemicals that are actually used in commerce, 
+we all support prioritizing EPA action that might pose a 
+serious risk, but in order for prioritization to work, EPA 
+needs to have the information to make the informed decisions on 
+how to prioritize it.
+    So as I understood your answers to Mr. Green's questions, 
+for existing chemicals, if the EPA wants to trigger some kind 
+of a review, they have got to promulgate a rule before they do 
+that, is that right?
+    Mr. Jones. Under current law, that is correct.
+    Ms. DeGette. Yes, and then under--as what--1009 what would 
+happen would be, as a threshold, the EPA would be directed to 
+review the safety of all existing chemicals in commerce, is 
+that correct?
+    Mr. Jones. That is correct.
+    Ms. DeGette. And so that sounds good, but if the EPA is 
+going to review all of those chemicals, they are going to need 
+to get a lot of data that they don't currently have. Is that 
+right?
+    Mr. Jones. That is correct.
+    Ms. DeGette. And so I guess what I want to ask you is, 
+under the current drafting of S. 1009, is there a minimum set 
+of information the EPA will have for each chemical so they can 
+decide how to review and prioritize it for action?
+    Mr. Jones. We think that we will very likely tailor the 
+data that we are interested in having for a safety assessment 
+based on some of the characteristics of the chemical. So, for 
+example, chemicals that are persistent bioaccumulative and have 
+some toxicity, we would require a lot more data for, health and 
+safety data, than for a chemical which our--the evidence that 
+we have based on models that we used, predicted it as likely to 
+be of lower toxicity. So we would probably tailor the data we 
+would like to see for our assessments based on characteristics 
+that we know.
+    Ms. DeGette. Now, in the bill itself, is there actually any 
+standard set for the data that you would use or obtain, or is--
+would--are you just left to decide that for yourselves?
+    Mr. Jones. The bill as drafted gives the Agency quite a bit 
+of discretion as to what data it would want to compel 
+generation of.
+    Ms. DeGette. And does it lay out what criteria the Agency 
+would use to decide which--or--you see what I am saying? It is 
+like there are so many chemicals out there----
+    Mr. Jones. Yes. It gives the criteria for the order in 
+which we prioritize things as high.
+    Ms. DeGette. OK. Now, S. 1009 also changes the requirements 
+for entry into commerce of new chemicals. It is my 
+understanding that maybe as 80 or 90 percent of new chemical 
+applications currently contain no data on potential impacts to 
+human health. Is that correct?
+    Mr. Jones. That is correct.
+    Ms. DeGette. So under current law, the EPA wouldn't be 
+making an affirmative decision about a new chemical's safety 
+before it enters the market, is that correct?
+    Mr. Jones. That is correct.
+    Ms. DeGette. Under S. 1009, the EPA must make a decision 
+about the likely safety of a new chemical, is that right?
+    Mr. Jones. That is correct.
+    Ms. DeGette. But will the EPA have data about the new 
+chemicals to accurately make the safety determination?
+    Mr. Jones. So we expect that there will be, for many 
+situations, the models that we use to predict hazard will allow 
+us to make such determination--likely to meet the safety 
+standard determination for many chemicals. There will be some 
+chemicals which, when we use predictive models, they are going 
+to raise enough concerns that we are going to want to see 
+health and safety data generated.
+    Ms. DeGette. OK. Well, I appreciate you--I appreciate that 
+answer, but I am a little concerned because it seems a little 
+bit vague, and I think that is one of the areas of this bill we 
+can really work on, is setting clearly what data the EPA needs 
+to be given for certain classes of chemicals. So I look forward 
+to working with you and also with the committee on those 
+issues.
+    Thanks.
+    Mr. Shimkus. Gentlelady's time has expired. The chair now 
+recognizes the gentleman from West Virginia, Mr. McKinley, for 
+5 minutes.
+    Mr. McKinley. Thank you, Mr. Chairman, and again, thank you 
+for the--once again continuing this discussion.
+    Mr. Jones, two questions for you. The first is, will, in 
+your analysis of the Vitter bill, did--will it require an 
+expansion, will it need more FTEs, anything along that line to 
+be able to carry out the new mission?
+    Mr. Jones. In the absence of additional resources, the 
+number of chemicals we would be able to move through the 
+process will definitely be meaningfully constrained.
+    Mr. McKinley. Will be what?
+    Mr. Jones. Meaningfully constrained. The number will be 
+smaller than I think most people would hope.
+    Mr. McKinley. So the answer to the question, are we going 
+to have--are you going to need more FTEs?
+    Mr. Jones. It is likely that additional FTE would be 
+necessary to achieve the kind of numbers, I think, that 
+generally people would expect from the Agency.
+    Mr. McKinley. OK. Secondly, is the--some of the criticism 
+of the existing bill and the Vitter language is about the 
+burden placed on EPA to express the need before they make the 
+request to the companies to fulfill that assessment. Can you 
+share with us the value of why the EPA should make the first 
+step in determining the need?
+    Mr. Jones. The need for health and safety data?
+    Mr. McKinley. Yes. Right.
+    Mr. Jones. So the Agency is pretty well equipped, and we 
+are also coming at it with the simple desire to understand 
+health and safety. So we have got both the--well, largely, we 
+have the scientific expertise to be able to judge whether or 
+not health and safety data is necessary, and what kind to make 
+a safety determination.
+    Mr. McKinley. So if--again, I--that--be more specific with 
+that. So I am just trying to understand that. So--because some 
+are saying they don't think you should make the first step, the 
+company should provide that chemical and their product data. Do 
+you think it best for you to first make the--make your own 
+analysis to determine that there is still a need----
+    Mr. Jones. The----
+    Mr. McKinley [continuing]. Before you ask them to produce 
+it?
+    Mr. Jones. Yes, I think that we have got a pretty 
+sophisticated way of understanding where we need information 
+and where we don't. And as I was answering the question to 
+Congresswoman DeGette, we are able to do it in a way that is 
+tailored to the chemical and the issues that the particular 
+chemical expresses. And so I think in many ways, it can be the 
+most efficient way for the Agency to identify we need this data 
+but not that data.
+    Mr. McKinley. OK. And maybe to add one last in the little 
+time I have left. I think I heard it--the question but I wasn't 
+sure I heard the answer again, and that is, with the passage of 
+this, this--you really think that this is an improvement for 
+health safety and for children, pregnant women, we--on and on 
+and on. This is going to be an improvement over what we have 
+now?
+    Mr. Jones. Well, as I said in answer to the first time that 
+question was asked, that the way in which we are trying to 
+think about it is does this give us the tools to ensure safe 
+chemicals in the United States, and as I pointed out, I think 
+that there are a number of areas which are meaningful 
+deficiencies that would need to be addressed before we could 
+say that this bill will give us the tools we need to ensure 
+safe chemicals in the United States.
+    Mr. McKinley. So--and the bottom line here, you think this 
+really is an improvement?
+    Mr. Jones. I think it needs some improvement.
+    Mr. McKinley. OK, it still needs to be worked. OK, and I am 
+OK with that, but I just wanted--are we--if it is moving in the 
+right direction to make sure that it is an improvement over 
+what we have now.
+    Mr. Jones. There are aspects that are moving in the right 
+direction, and there are aspects that are not.
+    Mr. McKinley. OK. Thank you very much.
+    Mr. Shimkus. Will the gentleman yield? Will the gentleman 
+yield?
+    Mr. McKinley. Yes.
+    Mr. Shimkus. Let me follow up on just two quick questions.
+    Part of the 85,000 list of chemicals, there are some that 
+are no longer in commerce or in manufacturing processes, and 
+those--you could be--probably easily drop them off, isn't that 
+true?
+    Mr. Jones. Well, interestingly, we would have to go through 
+a process to drop them off, and as a general matter, 
+manufacturers, even if they are not making the chemicals, like 
+them on the list because at some point in the future, they want 
+to bring that into their production, for whatever marketing 
+reasons they have, they can do that if it is not on the list.
+    Mr. Shimkus. But under the new law, if passed as-is, they 
+are still going to be looked at then. The whole idea is to get 
+through this list in some time.
+    Mr. Jones. Under 1009, it actually creates two lists. One 
+is an active list, things that are actively in commerce, and 
+one is an inactive list, things that are no longer in commerce.
+    Mr. Shimkus. Right.
+    Mr. Jones. Manufacturers can go from inactive to active by 
+noticing EPA.
+    Mr. Shimkus. Let me ask another question. Is there a 
+difference between chemicals that go actually into consumer 
+consumption or handling, versus chemicals that are involved 
+just in the manufacturing process that stays within the walls 
+of a facility?
+    Mr. Jones. The way in which we evaluate them is very 
+different, but we have jurisdiction over both. We evaluate them 
+very differently. One is, we are looking at the exposures that 
+a consumer would get, and the other, we are going to look at 
+what happens in the workplace to the worker if the worker is 
+exposed.
+    Mr. Shimkus. Great, thank you. And the Chair now recognizes 
+the gentlelady from California, Mrs. Capps, for 5 minutes.
+    Mrs. Capps. Thank you, Mr. Chairman, and thank you, Mr. 
+Jones, for your testimony here and your statement here, and 
+your position at EPA.
+    Many stakeholders have raised concerns about the need to 
+protect vulnerable populations. That is my concern in talking 
+with you during my 5 minutes. Any system needs modernization. 
+TSCA, I am sure, can use it too, but an essential component is 
+to really address how vulnerable populations will be affected.
+    Any reform, for example, of this statute that fails to 
+adequately protect children or pregnant women would be a 
+terrible failure. Vulnerable populations do include infants and 
+children, the elderly, the disabled and anyone living in a 
+close proximity to a chemical facility. The National Academies 
+of Science, in their 2009 report called Science and Decision--
+Decisions, recommended that vulnerable populations should 
+receive special attention at every stage of the risk-assessment 
+process. S. 1009 makes only two references to subpopulations. 
+Vulnerable populations are not addressed in the safety 
+standard, and are not required to be considered in the safety 
+determination. This strikes me as a glaring oversight. Even 
+using the problematic terminology of this bill, a chemical 
+should not be deemed to meet the safety standard if it poses an 
+unreasonable risk to a vulnerable subpopulation.
+    So I have a couple of yes/no questions to ask you, because 
+I hope you agree with this. Do you think a chemical that poses 
+an unreasonable risk to a subpopulation should be able to pass 
+the safety standard under a reformed TSCA?
+    Mr. Jones. No.
+    Mrs. Capps. And to follow up, as a general matter, should a 
+chemical that poses a serious or substantial risk to a 
+vulnerable subpopulation be considered acceptable under a 
+reformed TSCA safety standard?
+    Mr. Jones. No.
+    Mrs. Capps. Well, I thank you for that. That puts you on 
+the record there. Turning now to the risk-management decisions 
+that will be taken when a chemical does not meet the safety 
+standard under a reformed TSCA.
+    Mr. Jones, should risk-management actions under a reformed 
+TSCA ensure that unreasonable risks, including those to 
+vulnerable populations, are addressed?
+    Mr. Jones. Yes.
+    Mrs. Capps. And should risk-management actions under a 
+reformed TSCA ensure that a serious or substantial risk to a 
+vulnerable population should be addressed?
+    Mr. Jones. Yes.
+    Mrs. Capps. Partly in answer to a previous question--well, 
+let us put it this way: The Senate made some progress in their 
+legislation. Are there some areas that we could improve upon 
+that you would like to highlight in less than 2 minutes?
+    Mr. Jones. Sure. Thank you for that. And I am only in this 
+position because of the fine education I got at the University 
+of California, Santa Barbara. And thank you for----
+    Mrs. Capps. Thank you very much. That doesn't hurt your 
+standing in my eyes.
+    Mr. Jones. So we think that the kinds of improvements that 
+are necessary to get this bill to the place where we think it 
+gives us the tools we need to ensure safe chemicals in the 
+United States are along the following. That there need to be 
+meaningful deadlines on the Agency, that the safety standard 
+should be clear and understood by all parties as to being a 
+risk-based safety standard. The kind of analysis that we have 
+gotten bogged down because of the least burdensome requirements 
+under existing TSCA shouldn't be replaced with additional 
+analysis that does not add a lot of value to the ultimate 
+decision making. And I also think that there needs to be a 
+balanced approach to preemption, which I currently don't think 
+the bill achieves.
+    Mrs. Capps. Thank you. Thank you very much for that 
+summary.
+    Mr. Chairman, I am a strong supporter of reforming TSCA, in 
+addition to wanting us to pay special attention to this 
+particular witness, just because where he received his 
+education.
+    I do have some serious concerns about the bill before us 
+today. The Senate language does not require the protection of 
+vulnerable populations in the safety standard or in the risk-
+management decisions, and I think that is a fundamental flaw 
+that would affect each of us in our congressional districts. 
+Any TSCA reform bill this committee considers should ensure 
+that the most vulnerable among us are protected, and this 
+protection is real and effective. So I look forward to having 
+this committee continue to work on this particular issue.
+    Thank you.
+    Mr. Shimkus. I thank my colleague. I--just to note that 
+right now, there is no--in current law, there is no vulnerable 
+population comment, but in the Senate bill I think it is listed 
+at least twice. So there is some movement in the--in that 
+direction.
+    The Chair now recognizes the gentleman from--I am trying to 
+find here, gentleman from Florida, Mr. Bilirakis, for 5 
+minutes.
+    Mr. Bilirakis. Thank you, Mr. Chairman. I appreciate it 
+very much. Thank you for holding this hearing as well.
+    I would like to ask a question. Should Congress require a 
+minimum number of chemicals to be acted on each year?
+    Mr. Jones. That is a great question, Congressman. The 
+benefits of having a minimum number of chemicals is that you 
+can feel that there is forward progress being made all of the 
+time. The downside to it is that, in the absence of meaningful 
+resources, you can find the Agency in a situation where it 
+can't meet the statutory requirements, or the way in which it 
+does so is to by working on easier chemicals, which is not 
+really, I think, what the objective is of setting priorities, 
+that we would be working on the more complicated, difficult 
+compounds first. So there are definitely some pros and cons to 
+including a minimum number of chemicals.
+    Mr. Bilirakis. OK, thank you. Some question that Senate 
+Bill 1009 does not require adequate data to prioritize 
+chemicals. Does Senate Bill 1009 give the EPA authority to seek 
+additional data and info? How do you read Senate Bill 1009?
+    Mr. Jones. So that is a good question as well. I think that 
+there is a disagreement amongst some of the people reading the 
+bill as to whether or not we have the ability to require the 
+generation of health and safety data if it is not already a 
+high priority chemical. We read the bill to allow us to be able 
+to do that. I think the fact that there are people reading the 
+same words and coming to a different answer to that question is 
+another example where it might be useful to seek clarity on 
+that point.
+    Mr. Bilirakis. All right, thank you very much. Next 
+question, would Senate Bill 1009 allow the EPA to assess the 
+safety of chemicals that are persistent bioaccumulative and 
+toxic, and require risk management for those that fail to meet 
+the safety standard?
+    Mr. Jones. The bill allows the Agency to do that, but--not 
+create the explicit requirements to give any priority to 
+persistence or bioaccumulation, but it certainly allows the 
+Agency to evaluate them and take risk management if warranted.
+    Mr. Bilirakis. Thank you. Thank you for your response.
+    And I yield back.
+    Mr. Shimkus. Gentleman yield to me----
+    Mr. Bilirakis. Yes.
+    Mr. Shimkus [continuing]. For a quick--so risk is defined 
+as hazard plus exposure. Is that how you define it?
+    Mr. Jones. Hazard times exposure. Yes, hazard times 
+exposure.
+    Mr. Shimkus. So define for me the difference between 
+substantial and unreasonable. So if you have substantial risk, 
+OK, we know what risk is, we know what unreasonable risk, so 
+what are--I guess that is two adjectives, but I mean what is 
+the difference between those two?
+    Mr. Jones. I actually think it really depends on all of the 
+other words that are used in the statute to describe what the 
+Agency is required to find. I don't believe unreasonable risk, 
+those two words by themselves, mean that the Agency has to 
+conduct a cost benefit analysis. I do believe the courts have 
+said those words used in conjunction with a lot of other words 
+create the requirement of a risk benefit balancing, but the 
+words themselves I don't think mean, to the layperson or 
+anybody who can read the dictionary, means cost benefit. But it 
+is a lot of the words that are used in conjunction with the 
+actual standard that, I think, gives it its full meaning.
+    Mr. Shimkus. Great, thank you. The Chair now recognizes the 
+gentleman from California, Mr. McNerney, for 5 minutes, who has 
+been waiting very patiently.
+    Mr. McNerney. Waiting and listening, Mr. Chairman. Thank 
+you.
+    Mr. Jones, in your testimony, I believe you stated that S. 
+1009 requires affirmative standards. Would you please elaborate 
+on that, especially regarding enforcement, how those 
+affirmative standards would be enforced in the new law?
+    Mr. Jones. Thank you. That comment reflects specifically to 
+the new chemicals provision in 1009. Under existing law, the 
+Agency, when a new chemical is submitted, we have 90 days to 
+evaluate it, and only if we identify a problem are we able to 
+work with the manufacturer to prevent it from being introduced 
+into commerce. Under S. 1009, it requires the Agency to make an 
+affirmative finding of meeting the safety standard before the 
+manufacturer can move that chemical into commerce.
+    Mr. McNerney. OK. That is a good thing, I think.
+    Mr. Jones. I would think so, yes.
+    Mr. McNerney. You also stated that in S. 1009, the language 
+would make it as difficult as the unreasonable risk or least 
+burdensome language in TSCA to enforce rules as it has been for 
+TSCA with asbestos. Can those--can that language be modified in 
+your opinion to remove some of those barriers, and make it 
+reasonable to enforce?
+    Mr. Jones. For any of the issues that we have identified, 
+the devil is always in the details, but I think that changes 
+could be made in a way that would not send us into an endless 
+amount of analysis before we could ultimately make protective 
+decisions.
+    Mr. McNerney. Well, who would you recommend that the 
+committee consult with on that language?
+    Mr. Jones. I think it is important to have all 
+stakeholders. I mean obviously you can't have literally all 
+stakeholders, to be bringing all people to the table, as I 
+think you get the best outcome and you can get a common 
+understanding of what--the words you are using are the words 
+everybody believes that they mean.
+    Mr. McNerney. OK. Well, to change the subject a little bit. 
+The European Union has made significant progress on some of the 
+60,000 chemicals that have been grandfathered. Is that correct?
+    Mr. Jones. The European Union, which has a very different 
+model, has definitely made some progress in the universe of 
+chemicals sold in Europe.
+    Mr. McNerney. Would S. 1009 allow you to--the EPA to 
+collaborate with the European Union on identifying some of 
+those, and classifying some of those chemicals?
+    Mr. Jones. We definitely would be able to collaborate. I 
+think the fundamental problem we and the Europeans are dealing 
+with as it relates to that collaboration is they have required 
+manufacturers to generate a lot of health and safety data, and 
+the European Union under their rules cannot share that 
+information with us. They have to have the company's 
+permission. The companies find themselves in a situation where 
+they negotiated agreements across multiple companies, and 
+unless everybody agrees, they can't give us the information. 
+And so I am hard-pressed to know what U.S. domestic law could 
+do to actually break that log jam. I think we have to----
+    Mr. McNerney. OK.
+    Mr. Jones [continuing]. Work something out, not under law, 
+but with manufacturers to figure out how to get access to that 
+treasure-trove of health and safety data.
+    Mr. McNerney. OK. That is a good answer. Regarding 
+resources, if S. 1009 becomes law, would the Agency need 
+greater resources to carry out the various rule makings laid 
+out in the bill?
+    Mr. Jones. I think where we would run into issues with 
+expectations, expectations of, I assume, the Congress and 
+certainly I think of the American public, is that the number of 
+assessments we would be able to do under existing resources 
+would probably, for most people, be considered to be 
+inadequate. So to change that, we would need resources. I do 
+think there are models out there that involve the industry 
+financing that are used in the FDA and our pesticides program 
+that are worth looking at.
+    Mr. McNerney. So in S. 1009, there aren't any dedicated 
+funding sources?
+    Mr. Jones. No, there are not.
+    Mr. McNerney. So that could be interpreted as one of the 
+weaknesses in that law--in that proposed law?
+    Mr. Jones. One of the administration principles is there be 
+a sustained source of funding, and that is not addressed in the 
+bill.
+    Mr. McNerney. OK, thank you.
+    Mr. Chairman, I yield back.
+    Mr. Shimkus. Gentleman yields back his time. The Chair now 
+recognizes the gentleman from Pennsylvania, Mr. Pitts, for 5 
+minutes.
+    Mr. Pitts. Thank you, Mr. Chairman.
+    Mr. Jones, in our first hearing, witnesses stated that EPA 
+needed specific statutory authority for chemical 
+prioritization. Is that important?
+    Mr. Jones. Thank you, Congressman. I think it is important 
+because there are so many chemicals in commerce that it is 
+important to direct the Agency to focus on those that may 
+present risks earlier in the process rather than later. And in 
+the absence of that, you could see wily bureaucrats, of which I 
+am one, working on easy things because we can do a lot of easy 
+things. So I think being directed to work on those things that 
+are the highest priority is a very important thing when you 
+have a universe that big.
+    Mr. Pitts. Does S. 1009 require that chemicals be 
+prioritized?
+    Mr. Jones. Yes, it does.
+    Mr. Pitts. Does S. 1009 allow EPA to consider potentially 
+vulnerable subpopulations in making decisions to prioritize 
+chemicals for review, and in subsequent safety assessments and 
+determination?
+    Mr. Jones. In safety assessments, we are required to 
+consider vulnerable populations. That is not required of safety 
+determinations or--in the priority setting. We are not 
+prohibited, but it is not required for the other two.
+    Mr. Pitts. S. 1009 lays out framework requirements for 
+prioritizing existing chemicals, gathering, testing data and 
+information, conducting safety assessments and making safety 
+determinations. Does a reformed TSCA need to set these 
+requirements out as four separate steps?
+    Mr. Jones. The bill has a lot of what we were referring to 
+as framework requirements, we think we counted a total of about 
+17. I think it is possible to collapse a number of the 
+frameworks down, and not lose some of what the drafters 
+intended. Most were drafted--making it more streamlined and 
+straightforward.
+    Mr. Pitts. S. 1009 has provisions requiring that EPA sort 
+chemicals for review as either a high or low priority. Should 
+there be more categories than just high or low priority?
+    Mr. Jones. I don't see a huge amount of value in adding 
+another category other than high or low.
+    Mr. Pitts. Are you concerned that you cannot seek judicial 
+review of the prioritization screening decisions?
+    Mr. Jones. That is a very good question. I think it runs 
+counter to generally how we run the government, that an Agency 
+action that ends all other downstream consequences is unable to 
+be challenged. So a high-priority decision--when we do that, 
+downstream things have to happen. And so it doesn't bother me 
+that that is not subject to judicial review, because the 
+downstream thing ultimately will. A low priority under 1009 
+actually stops all action. EPA at that point is done. No more 
+work. Stop. That to me is a final Agency action, and although I 
+would like to think all of our final Agency actions shouldn't 
+be--no one should be bothering us about them, I--as a matter of 
+good government, I think that it is important to allow people 
+who disagree with a final Agency action to seek review of that 
+in an appropriate judicial proceeding. And so I think that 
+having a law not be subject to judicial review is not a good 
+place for the government to be in.
+    Mr. Pitts. And managing the many chemicals that you need to 
+review, how long do you expect this process to take, both to 
+prioritize and schedule for assessment?
+    Mr. Jones. The prioritization process I think will happen, 
+the initial one, very quickly. The initial assessments will 
+happen within a couple of years. I think it will be many years 
+before we have evaluated all the high priority chemicals.
+    Mr. Pitts. OK, thank you, Mr. Chairman.
+    Mr. Shimkus. Gentleman yields back his time.
+    Chair now recognizes the gentleman from Louisiana, Mr. 
+Cassidy, for 5 minutes.
+    Mr. Cassidy. Mr. Jones, I apologize if someone else has 
+asked. I had to step out.
+    To prove safety by the first--to prove that something is 
+not at risk, you have to prove a negative. It is very difficult 
+to prove a negative. How do you prove a negative?
+    Mr. Jones. So we rely on analytical tools that often 
+include data, often include models. So if something does not 
+express hazard, it is impossible for it to have risk, if 
+something doesn't----
+    Mr. Cassidy. Now, that is--now, let me ask, because we had 
+a hearing about the risk of something for breast cancer. It is 
+a big concern of mine. My wife is a breast cancer surgeon, and 
+I am a physician, so we were on a vacation so we pulled down 
+the literature, and there is a body of literature for this 
+particular chemical, that it could cause breast cancer, but--
+and somebody did a regression analysis and goes, you have got 
+to be kidding me. There is obesity, alcohol, cigarette use, 
+family history, and here is a very marginal effect that may or 
+may not. But the witness was passionately and quite emotionally 
+declaring that this particular chemical had an impact upon 
+breast cancer.
+    So I guess I would come back to no risk at all may be in 
+the eye of the beholder, right, or of the interest group or 
+whatever. In that situation, what does this law allow you to 
+do?
+    Mr. Jones. Well, it would require us to assess the risk of 
+that chemical, and make a determination as to whether or not 
+that risk met a safety standard.
+    Mr. Cassidy. I guess what I am after, the safety standard 
+seems a nebulous thing to me.
+    Mr. Jones. So--yes.
+    Mr. Cassidy. And so, again, this advocacy was just so 
+passionate in their emotion, even though the retrogression 
+analysis showed that the effect was nonexistent or minimal, if 
+it existed. It just couldn't be teased out. So would that--
+would this nebulous standard say, listen, best science shows 
+that it is obesity, family history, alcohol and cigarettes. 
+This marginal effect we can't prove so we move on, or we just 
+say, no, we have to say this is not safe?
+    Mr. Jones. We have a pretty long record of how we calculate 
+risk, and what we view to be risks that are beyond negligible. 
+They involve using standards such as the increased lifetime 
+cancer risk of a substance, they include calculations that we 
+use for other kinds of effects where we look for a certain 
+margin of exposure between the exposure level and when 
+adversity occurs, and there is a general understanding about 
+how we----
+    Mr. Cassidy. So I think, I gather, that industry would be 
+able to look at a basically kind of common-law standard, if you 
+will, something that this--it isn't nebulous, you are telling 
+me, but there is something they could look at and say, below 
+this threshold, we know we are OK?
+    Mr. Jones. That is correct.
+    Mr. Cassidy. Then let me also ask, I was struck once in 
+some hearings we had that the EPA's current method of analysis 
+does not take into account a threshold effect, that they 
+extrapolate all the way down, if we know this level really 
+causes damage, but we know at this level it is in the 
+environment, and common exposure doesn't cause damage. I am a 
+doc, aflatoxin is a great example of something we are all 
+exposed to, but it is only above the threshold has a problem, 
+EPA, as I gather, does not take that into account.
+    Mr. Jones. The vast majority of the chemical assessments we 
+do are based on the threshold model that you are describing. A 
+relatively small number, in particular, those that are 
+carcinogens, where there has not been demonstrated the 
+threshold that you are describing, we use the model that you 
+are describing. That is a relatively small number of chemicals.
+    That being said, we have gotten some advice from the NAS to 
+begin to think about how to use models other than the threshold 
+model that I just described. But right now, the vast majority 
+of chemical assessments that we do rely on the threshold model 
+that you are describing.
+    Mr. Cassidy. OK, I had a little bit of a different 
+impression, so I am reassured regarding that.
+    The subpopulation groups also seem to be something which 
+is, you know, going to be difficult to define. I know that 
+there are always two or three standard deviations out, somebody 
+with a genetic predisposition to, fill in the blank. And it may 
+be an environmental exposure will fill in the blank. You with 
+me? Take type 1 diabetes.
+    Mr. Jones. Um-hum.
+    Mr. Cassidy. There seems to be a genetic component, but 
+some interaction with the environment. How would you ever--it 
+almost seems like if you really chase that out, you are always 
+going to find some subpopulation with a genetic exposure which, 
+combined with the environmental, is problematic.
+    I know you have thought about this. What are your thoughts?
+    Mr. Jones. So there are either a couple of things that we 
+have--I like to give the example of what we have done in our 
+pesticide program, which is a similar requirement around 
+significant, highly exposed and vulnerable populations. We have 
+literally identified the populations that we look at in terms 
+of age, and we look at children at six-month intervals when 
+they are very young, and then we go to 1-year intervals, and 
+then we go to, you know, women of childbearing age and those 
+over 50. And we also do it by race and ethnicity. And so we 
+have defined them, we have taken comment on that, and it is 
+then widely understood here are the populations below the 
+general population that we are going to look at for every 
+assessment that we do.
+    I would expect that we would do something similar here. 
+They may not be the exact same subgroups that we would look at, 
+but we would go through a process of identifying them and 
+asking the public to give us feedback on it. The other thing is 
+that we, as a general matter, use an uncertainty factor to 
+capture the general variability within the population as it 
+relates to intraspecies sensitivity.
+    So that tenfold factor we use to try to broadly capture 
+that phenomenon. When there is information that leads us to 
+believe that for a specific effect, something beyond that 10 is 
+necessary, then we use that to inform our assessment.
+    Mr. Cassidy. I will finish by saying your testimony is very 
+reassuring, but I remember reading the National Academy of 
+Science's report on your formaldehyde report, and they really 
+felt like the conclusions of the report were not based--were 
+not supported by the data which had been amalgamated, thinking 
+specifically of tumors in the nasal laryngeal area in rats, and 
+yet EPA kind of swore by it.
+    So thank you for your testimony, and I yield back.
+    Mr. Shimkus. Don't you hate these real smart members of 
+Congress who ask these--make us all look bad?
+    So last but not least, my colleague from the great State of 
+Georgia, Mr. Barrow, for 5 minutes.
+    Mr. Barrow. Thank you, Mr. Chairman. Thank you, Mr. Jones, 
+for being here today.
+    I know that the EPA hasn't yet taken a position on S. 1009 
+all together--in its all together, but I want to see if we 
+can't draw some comparisons between current law and the 
+proposal, and just get some idea where we can find some--for 
+example, are there any areas of the bill that, in the opinion 
+of the EPA, are better than current law?
+    Mr. Jones. Yes. Mandating the Agency evaluating existing 
+chemicals is a non-trivial improvement over the existing law. 
+That is not something we are required to do right now. Giving 
+the EPA the ability to require manufacturers to generate health 
+and safety findings, using order authority, is dramatically 
+more efficient than the process that we have under the existing 
+law. And then the requirement that EPA make an affirmative 
+finding for a new chemical before it enters commerce, I think 
+is also a pretty significant improvement.
+    Mr. Barrow. Flipside, any areas of the proposed legislation 
+that in your opinion are worse than current law?
+    Mr. Jones. Yes, I will say that the preemption provision is 
+dramatically less--I think at the end of the day would be less 
+protective than the current preemption under TSCA.
+    Mr. Barrow. I am kind of reminded of Lincoln's comment 
+about liberty, you know, the sheep praises the shepherd for 
+driving the wolf away from his neck, and the wolf condemns him 
+for the same act. Clearly, we need a new word of liberty, you 
+know, new agreement on what it means. So I want to talk about 
+protection in this context, the interplay between Federal and 
+State regulations that is a real major policy issue we have to 
+deal with.
+    One concern that I have is if funding for the big 
+regulator, the national regulator, the EPA, is either 
+chronically inadequate so that the regulator is malnourished, 
+or is highly sporadic as a result of politics, ranksmanship and 
+shutdown or what have you. The concern I have is whether or not 
+we will have effective regulation if we preempt State, and the 
+only regulator who is left on the scene is unable to do his 
+job. I have a concern about that, but I also have a concern 
+about, you know, the regulator wanting to do its job. You know, 
+a regulator that doesn't want to do its job is like going bird 
+hunting and having to tote the dog. But a regulator that can't 
+do its job is like going bird hunting without the dog. I am not 
+sure which is better. Each is equally ineffective as far as the 
+customer and the taxpayer is concerned.
+    So help me understand, in your experience, what has been 
+the benefit of the current regime of dual State and Federal 
+regulations on the one hand, and what has been the cost of the 
+current regime, and how would you suggest we go forward?
+    Mr. Jones. I think the benefit is a good part of why we are 
+here; that because the Federal law is ineffective, States have 
+stepped into the breach and have been doing the work necessary 
+to protect the people in their States, which has created an 
+incentive on the part of the industry, in my view, to raise the 
+bar of the Federal law so that States don't feel compelled to 
+step into the breach, because the Federal Government is 
+ensuring the safety of their citizens. I think that is the----
+    Mr. Barrow. You described the ideal or optimal role of the 
+State regulator as being a pride toward better action, better 
+regulation nationwide is how you describe it.
+    Mr. Jones. Um-hum.
+    Mr. Barrow. As being basically a driving force for 
+getting----
+    Mr. Jones. I think that they have been the driving force in 
+the chemical space that has been basically the only regulation.
+    Mr. Barrow. Aren't you--don't you share the concerns though 
+of others though that if you do have a nationwide standard, if 
+the regulator is malnourished or underfunded, that that could 
+be a problem as well, they can't keep up with the demand? So 
+you don't want to replace something bad with something that----
+    Mr. Jones. No, exactly.
+    Mr. Barrow [continuing]. Does not exist.
+    Mr. Jones. It is a challenging dynamic that you are trying 
+to ultimately achieve, where the absence of action on the 
+Federal Government doesn't mean nobody gets protected, that it 
+keeps--the potential threat of that happening keeps people like 
+me on top of our job, moving the ball forward, which also 
+creates the dynamic where the States feel like they don't feel 
+like they need to regulate because it is going to be taken care 
+of at a national level. And I think that is very----
+    Mr. Barrow. We should understand--you can understand that 
+even if you are doing a good job at the national level, there 
+could be some States you just want to regulate a whole lot 
+more?
+    Mr. Jones. That absolutely I think would be the case.
+    Mr. Barrow. And the problem we have is not the fact that we 
+have two regulators in any given one place.
+    Mr. Jones. Right.
+    Mr. Barrow. We only have 51 regulators as far as the 
+country as a whole is concerned. You recognize the challenge 
+and burden that is to industry.
+    Mr. Jones. That is right, and I think that that is the 
+flipside of the--that is why I think it has been so hard for 
+people to come together to figure out what is exact--what is 
+that sweet spot there. It is untenable to try to sell a product 
+in the United States, and you need to meet 51 or 57 different 
+requirements. At the same time, you don't want to leave 
+everybody unprotected because people here are not able to get 
+their job done, or don't have the tools to get their job done. 
+And trying to find that sweet spot, I think is very 
+challenging.
+    Mr. Barrow. Thank you. With my--with that, my time is up.
+    Mr. Shimkus. Gentleman yields back his time.
+    And I--just a point. I think there are only like four 
+States who really have the capability or are involved in this 
+space, versus the other ones that aren't. And when we had ECOS 
+testifying, many States had no capability to do this intensive 
+evaluation. So I just throw that in.
+    Mr. Jones, a delightful testimony. I usually don't say that 
+very often. Great job. I think you could see from the interest 
+by members present that there is a desire to try to get this 
+right, and find the sweet spot, and I hope we can continue 
+moving forward. You are a great credit to the Agency, and we 
+thank you for joining us. And we dismiss you and ask the final 
+panel to come forward.
+    We would like to welcome the third panel here, and many of 
+you have been sitting in the room for a couple of hours now, so 
+we appreciate your diligence and we look forward to your 
+testimony. I think the first two panels went real well, and we 
+look forward to yours.
+    So I will just do the introductions as your opening 
+statements are called for. It is great to welcome back Cal 
+Dooley, former colleague, now President and CEO of the American 
+Chemistry Council. Obviously, your full statement has been 
+submitted for the record. You have 5 minutes.
+
+    STATEMENTS OF CAL DOOLEY, PRESIDENT AND CHIEF EXECUTIVE 
+    OFFICER, AMERICAN CHEMISTRY COUNCIL; ERNEST ROSENBERG, 
+   PRESIDENT AND CHIEF EXECUTIVE OFFICER, AMERICAN CLEANING 
+INSTITUTE; RICHARD A. DENISON, SENIOR SCIENTIST, ENVIRONMENTAL 
+ DEFENSE FUND; DEAN C. GARFIELD, PRESIDENT AND CHIEF EXECUTIVE 
+OFFICER, INFORMATION TECHNOLOGY INDUSTRY COUNCIL; ANDY IGREJAS, 
+   DIRECTOR, SAFER CHEMICALS, HEALTHY FAMILIES; AND WENDY E. 
+  WAGNER, JOE A. WORSHAM CENTENNIAL PROFESSOR, UNIVERSITY OF 
+                      TEXAS SCHOOL OF LAW
+
+                    STATEMENT OF CAL DOOLEY
+
+    Mr. Dooley. Thank you, Chairman Shimkus, and Ranking Member 
+Tonko, and all the members of the committee. I appreciate this 
+opportunity to be testifying on behalf of the American 
+Chemistry Council, our member companies, as well as 800,000 men 
+and women who work every day in the business of chemistry.
+    ACC and our member companies are absolutely committed to 
+the modernization and the reform of TSCA that will enhance the 
+public confidence in the safety of our chemicals, and allow our 
+industry and our customer base throughout the value chain to 
+continue to be on the forefront of developing innovations that 
+improve our everyday lives.
+    You know, some of you were in attendance at a hearing that 
+this committee had in 2010 on a bill that was introduced to 
+reform TSCA by Congressman Waxman. If you were here at that 
+hearing, it was actually one that was fairly contentious, and 
+Richard Denison and I were passionate defenders of our 
+constituencies, but unfortunate, you know, that contentious 
+dialog we had there was a reflection of what--the failure to 
+find a common ground or a balanced approach to a comprehensive 
+TSCA reform. It is unfortunate over the last few years, even on 
+the Senate hearings where Mr. Denison, representing EDF, and I 
+have testified, we were also very polarized and very 
+contentious in some of our dialog. And that was a reflection of 
+the failure for Republicans and Democrats to come together to 
+find a balanced comprehensive reform to TSCA that could secure 
+bipartisan support.
+    You know, that all changed just this last year when, thanks 
+to the leadership of Senator Lautenberg and Senator Vitter, 
+they brought together diverse constituencies to work out some 
+of our differences, and develop not a perfect bill by either of 
+our perspectives, or any of our perspectives, but develop a 
+balanced approach that could provide for meaningful 
+improvements to TSCA regulations. And it was really that 
+balanced approach that was also groundbreaking in that we were 
+able to develop the support of 25 members of the U.S. Senate, 
+equally split, well, 12 to 13, between Republicans and 
+Democrats. Again, unprecedented. And I really appreciate the 
+work that this committee has done to try to find ways which we 
+can build upon the progress that was achieved in the Senate, 
+because our industry, and the value chain at large, has also 
+increased their support in TSCA reform, because it is not only 
+the chemical industry, it is the information technology 
+industry, there is actually now an alliance of about 100 
+different associations representing everyone from the retail 
+federation to toy manufacturers to automobile manufacturers, 
+technology, semiconductors, that have all come together to 
+support the CSIA, because they see it as a balanced and a 
+meaningful reform of the existing TSCA legislation.
+    Also unprecedented is not only industry, but you also have 
+organized labor that has joined in support of TSCA reform. You 
+have the electrical workers and IBW, the North American 
+Building Trades, the machinists, aerospace, transportation, and 
+the ironworkers have also joined in support.
+    So the message here is is that, you know, something that is 
+positive is happening here. We have also heard in some of the 
+comments of Jim Jones as well as Administrator Gina Jackson 
+that the CSIA really does set the foundation for meaningful 
+progress to see reform of TSCA today. It is also, I think, 
+important that when you look at the comments by former 
+Administrator Christine Todd Whitman, and Charlie Auer who was 
+manager of the TSCA Program under President Bush, as well as 
+Steve Owens who was President Obama's appointment that had 
+jurisdiction over TSCA reform, that have also came and support 
+and endorse CSIA. And they did so because they recognize that 
+they address many of the problems that they had concerned with 
+implementation of TSCA. It requires a systematic evaluation of 
+all grandfathered chemicals for the first time. It prioritizes 
+chemicals for EPA reviews so chemicals with the greatest need 
+get the first and greatest attention. It gives EPA more 
+efficient authority and ability to get the data that they need 
+to make the determinations, and it requires EPA to make more 
+information available to the public, a leading goal of 
+environmental advocates and industry alike.
+    You know, we recognize at ACC that there are some members 
+in the NGO community that would like to see some reforms and 
+some modifications of the existing law, but when we look at the 
+5 issues that they surfaced early on, we think that those can 
+be addressed in a meaningful and appropriate way that can build 
+and improve upon CSIA, but does not, I guess, disrupt or create 
+an imbalance in this coalition that could put us back into the 
+gridlock that has been characterized in our ability, or our 
+lack of ability, to achieve TSCA reform over the past better 
+part of 37 years.
+    You know, I will be pleased to respond in detail to a lot 
+of the questions you have, but my message here is, is that, you 
+know, this bill isn't viewed by being perfect by industry, and 
+I know Dr. Denison will say it is not viewed as perfect by the 
+Environmental Defense Fund, but all of you that are serving in 
+Congress today, just like I served for 14 years, know that 
+there are very few perfect pieces of legislation from one 
+constituent's interest. The only way we are going to see 
+progress in enacting TSCA reform is it is going to take a 
+balanced, comprehensive approach, and I hope that we use the 
+CSIA as that foundation. I know that there are opportunities to 
+make those modest and marginal reforms that will address some 
+of those legitimate issues, but we have to be concerned of the 
+delicate balance that we have in place here, and assure that we 
+don't disrupt that.
+    [The prepared statement of Mr. Dooley follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.009
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.010
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.011
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.012
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.013
+    
+    Mr. Shimkus. Gentleman's time expired.
+    Chair now recognizes Mr. Ernie Rosenberg, President and CEO 
+of the American Cleaning Institute.
+
+                 STATEMENT OF ERNEST ROSENBERG
+
+    Mr. Rosenberg. Thank you, Chairman Shimkus, Ranking Member 
+Tonko, members of the subcommittee. My name is Ernie Rosenberg, 
+thank you, and I am the President and CEO of the American 
+Cleaning Institute.
+    Our member companies have facilities in the Congressional 
+districts of two thirds of the subcommittee membership, and 
+the--our members' products are in every home in the country.
+    Strengthening the Toxic Substances Control Act is a top 
+priority for our member companies. That is why I am here today. 
+A strengthened TSCA has the potential to promote consumer and 
+environmental protection, while enabling innovation for new and 
+improved products. That is why we support the Chemical Safety 
+Improvement Act.
+    This legislation provides a strong roadmap for action in 
+the 113th Congress. We commend the bipartisan efforts that led 
+to the development of this measure, and especially the work of 
+the late Senator Frank Lautenberg and Senator David Vitter. 
+Twenty-five Senate Republicans and Democrats are cosponsors of 
+what is truly bipartisan legislation.
+    A lack of confidence in TSCA has prompted States, local 
+jurisdictions and businesses to restrict certain chemicals. 
+These actions, unfortunately, create a regulatory and business 
+climate that is driven by perceived safety concerns, not by 
+sound science.
+    Allow me to highlight three important reasons for 
+strengthening TSCA. First, a credible Federal program is 
+crucial to having both a national market and improve public 
+confidence in EPA's regulatory program. Second, TSCA must 
+account for ongoing improvements in scientific methods and 
+processes being developed by universities, the government and 
+industry. This information must be considered by EPA when 
+making safety assessments and determinations. Third, TSCA has 
+fostered innovative chemical developments in the United States. 
+We must ensure that this continues in the years ahead. Cleaning 
+product manufacturers are leaders in the development of green 
+chemistries that have led to significant energy savings, water 
+savings and reductions in waste generation in the United 
+States. The development of concentrated laundry and household 
+cleaning products allows products that pack greater cleaning 
+power in much smaller packaging to provide the benefits I have 
+mentioned, and this represents just a few of the innovative, 
+convenient and greener products that are available to consumers 
+today. TSCA's new chemicals program encourages speed to market 
+for such innovative products because of the rigorous and 
+flexible way the law addresses this task. EPA relies on the 
+strong interaction between government industry to make this 
+happen, and has since the--since I was the manager of the 
+program at the very beginning. The Chemical Safety Improvement 
+Act preserves the efficiencies in the new chemicals review 
+process, which are widely acknowledged to work well and are 
+critical to innovation. To remain innovative, we need strong 
+protection for confidential business information.
+    A strengthened TSCA can and must be risk-based, and must 
+be--must use the best science. EPA must be able to get the 
+information it needs to make an informed chemical assessment 
+and risk-management decisions. The Chemical Safety Improvement 
+Act strengthens TSCA. It removes barriers to EPA data gathering 
+and regulatory actions. I would call upon EPA to evaluate the 
+safety of chemicals already in use, and enable the EPA to 
+identify and act on chemicals that may pose significant safety 
+concerns.
+    EPA's enhanced ability to obtain data would encourage 
+industry to provide health and safety information to the Agency 
+without regulatory delays, and with fewer demands on Agency 
+resources.
+    CSIA also allows more data to make--be made available to 
+the public. For the law to be credible, this is critical. It 
+would also open up lines of communication between the States 
+and EPA, and allow EPA to share information with them, 
+including confidential business information, something TSCA 
+does not currently allow. CSIA would allow EPA to meet its 
+regulatory obligations, and restore confidence in the Agency's 
+ability to do so.
+    For the law to become more credible, changes to TSCA must 
+be practical, achievable and workable.
+    ACIA again thanks you for the opportunity to testify today, 
+and I look forward to your questions.
+    [The prepared statement of Mr. Rosenberg follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.014
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.015
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.016
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.017
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.018
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.019
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.020
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.021
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.022
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.023
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.024
+    
+    Mr. Shimkus. Thank you, Mr. Rosenberg.
+    Now I would like to recognize Dr. Richard Denison, Senior 
+Scientist from the Environmental Defense Fund.
+
+                STATEMENT OF RICHARD A. DENISON
+
+    Mr. Denison. Thank you, Chairman Shimkus, Ranking Member 
+Tonko, and other members of the committee for your interest in 
+this issue, and for the opportunity to share EDF's perspective 
+on this bipartisan legislation, the Chemical Safety Improvement 
+Act.
+    I have four key points I would like to make today.
+    First, we have a major political opening to address an 
+urgent health concern, and to fix a law that everyone believes 
+needs reform. Second, the bill before us has many of the 
+elements needed for effective reform, and a concern for moving 
+reform forward. Third, the bill also has serious problems that 
+must be remedied. And fourth, those problems, while serious, 
+are fixable.
+    The need for reform is more urgent than ever, with science 
+increasingly linking exposures to certain chemicals to serious 
+health effects.
+    My organization has been working to reform TSCA for more 
+than 20 years, and I personally for well over a decade. The law 
+simply does not work. It is not protecting the health of 
+Americans, it doesn't provide the information companies need to 
+make sound decisions, and it doesn't give consumers and the 
+market the confidence that companies need to run their 
+businesses.
+    In May of this year, we saw a breakthrough with the 
+introduction of CSIA. The bill is both a promising start and 
+far from perfect. It contains many elements of TSCA reform that 
+need significant changes to actually deliver those reforms. I 
+am convinced the problems can be addressed while retaining the 
+bipartisan support needed to pass legislation.
+    Let me note several ways in which CSIA addresses major 
+flaws in current law. For the first time safety reviews would 
+be required for all chemical--in order to be made and sold. 
+Also for the first time--gain access to confidential business 
+information.
+    CSIA would address the two main reasons the TSCA safety 
+standard has failed. It would generally replace the current 
+cost benefit standard with a requirement for a health-only 
+standard, and it strikes the least burdensome requirement for 
+TSCA regulations that has, as Mr. Jones said, become a recipe 
+for paralysis by analysis.
+    CSIA would also fix TSCA provisions that thwart EPA's 
+ability to get new data on a chemical. It could issue test 
+orders and avoid a regulatory process that takes many years. 
+And it strikes the catch 22 under TSCA that requires the EPA 
+first show evidence of risk in order to require testing. But 
+the bill would also erect some major barriers to EPA 
+effectively and efficiently using these new tools. The safety 
+standard does not ensure protection of vulnerable populations, 
+including pregnant women, infants, workers who may be more 
+exposed or more susceptible to the effects. The bill would not 
+ensure that all information claimed confidential actually 
+warrants trade secret protections. It would weaken current TSCA 
+by barring the testing of new chemicals, or ones lacking enough 
+data to screen their safety. This means EPA would either have 
+to give a pass to data poor chemicals that may post a risk, or 
+waste time scrutinizing chemicals that more data would show 
+pose little risk. And the bill lacks deadlines and has so many 
+procedural requirements that just getting the system up and 
+running would take years.
+    My testimony includes an analysis I have done that is quite 
+optimistic in terms of time frames that shows that more than 7 
+years would be required to get to the first safety 
+determination for a chemical.
+    Finally, the bill's sweeping preemption of State authority 
+needs to be significantly narrowed so that, for example, States 
+can continue to act until and unless EPA takes final action on 
+a chemical, and can, with good cause, obtain waivers that allow 
+them to go further than a State than EPA--control of chemical 
+risks.
+    Mr. Chairman, let me end on a positive note. The bipartisan 
+bill offers major political opportunity and conserves the basis 
+for talks to move reform forward, and while its deficiencies 
+are serious, as I mentioned before, I believe they are all 
+fixable. I am encouraged that the informal negotiations on the 
+bill that have been occurring in the Senate already appear to 
+be moving in the right direction, but there is more work to be 
+done. I urge the subcommittee to build on the foundation laid 
+by S. 1009 to pass meaningful TSCA reform legislation in this 
+Congress. The health of--and I thank you for your time today.
+    [The prepared statement of Mr. Denison follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.025
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.026
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.027
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.028
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.029
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.030
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.031
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.032
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.033
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.034
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.035
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.036
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.037
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.038
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.039
+    
+    Mr. Shimkus. Thank you, Dr. Denison.
+    Now I would like to recognize Mr. Dean Garfield, President 
+and CEO of the Information Technology Industry Council.
+    Sir, welcome.
+
+                 STATEMENT OF DEAN C. GARFIELD
+
+    Mr. Garfield. Thank you, Mr.--Chairman Shimkus, Ranking 
+Member Tonko, members of the committee.
+    On behalf of the 54 of the most dynamic and innovative 
+companies in the world, as well as the nearly 6 million people 
+who work in the tech sector, we thank you for hosting this 
+hearing and asking us to testify.
+    We have submitted our testimony for the record, so rather 
+than repeat it, I will highlight three elements of that 
+testimony.
+    First, we strongly support this bipartisan and bicameral 
+effort to reform TSCA. We think it is a unique opportunity to 
+advance our human health and environmental shared interests. 
+The tech sector takes very seriously its role as corporate and 
+environmental stewards, whether it is in product design where 
+we are driving down the energy usage of our products, or in 
+sourcing where we are developing and promulgating responsible 
+sourcing, paradigms and programs, or in our recycling and reuse 
+programs that we have all across the world. We view these 
+issues as first priorities and intend to stay engaged. And so 
+thank you for your efforts.
+    Second, we think this regulatory reform creates an 
+opportunity to develop regulatory processes that are timely, 
+transport and based on sound science. In that regard, we will 
+be placing particular emphasis and paying a lot of attention to 
+how you deal with the issue of chemicals and articles. In 
+particular, we think it is very important for Congress to give 
+guidance to the EPA in that area, but at the same time, we 
+don't think it should be done in an import/export control 
+fashion, and, in fact, we think the current process whereby the 
+EPA has a case-by-case analysis is one that is appropriate and 
+should be continued.
+    Finally, we strongly agree with Chairman Shimkus' opening 
+statement that TSCA reform can and should be an opportunity to 
+enhance rather than inhibit innovation. With that in mind, we 
+think it is important for three things to occur. One, as the 
+previous witness, Mr. Jones, pointed out, we think that the 
+approach and direction to EPA has to include some important 
+time limits, particularly as it relates to dealing with 
+innovative or new uses of chemicals. Second, dealing with 
+covered--I am sorry, dealing with confidential business 
+information is critically important. Intellectual property is 
+key, the lifeblood of the tech sector, and so ensuring that 
+confidential business information is maintained as confidential 
+is critically important to us. And third and final, the issue 
+of preemption is also critically important. We recognize that 
+the States have an important role to play in these processes 
+and in setting standards, at the same time, we develop locally 
+and disseminate globally. And so dealing with 50 or 51 
+different standards around human health and environmental 
+safety is simply untenable and unworkable for us.
+    Thank you again for the opportunity to testify, and I look 
+forward to your questions.
+    [The prepared statement of Mr. Garfield follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.040
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.041
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.042
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.043
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.044
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.045
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.046
+    
+    Mr. Shimkus. Thank you, sir.
+    Now I would like to turn to Mr. Andy Igrejas, National 
+Campaign Director of the Safer Chemicals, Healthy Families. 
+Welcome.
+    Mr. Igrejas. Thank you very much, Mr. Chairman and Mr. 
+Tonko.
+    Mr. Shimkus. Check your microphone.
+    Mr. Igrejas. Thank you. Sorry about that.
+    Mr. Shimkus. That's all right.
+
+                   STATEMENT OF ANDY IGREJAS
+
+    Mr. Igrejas. Safer Chemicals, Healthy Families is a 
+coalition of 450 health and environmental organizations, 
+industrial unions and steel and automobiles, as well as 
+businesses, some large, some small, from around the country. 
+There is a broad political spectrum, actually, of membership in 
+the organization in the coalition.
+    We came together in 2009 to achieve reform of the Toxic 
+Substances Control Act, and we agree with the sentiment and we 
+are hopeful that that day could soon be at hand with the 
+legislation that has been introduced, but I would have to say 
+that we believe that legislation is not yet balanced. It needs 
+a lot of work in order to become balanced, and it needs clearer 
+benefits for public health and the environment sooner, and it 
+needs a clearer break with the dysfunctional past of TSCA, that 
+I think has been surfaced in your own analysis and your own 
+oversight of TSCA.
+    I want to put the focus back on public health because it is 
+that concern, the mainstream health professional and public 
+health community conclusion that, from pediatricians, 
+obstetricians, others, endocrinologists, that chemicals are 
+contributing to the burden of disease in this country; the 
+diseases that affect millions of American families, and TSCA 
+reform is fundamentally a solemn exercise in trying to make 
+progress in preventing that effect.
+    The groups like the Autism Society, Learning Disabilities 
+Association, breast cancer groups and others who are in the 
+coalition are here because of that, and it is what is driving 
+the public concern that is changing the marketplace and driving 
+the States right now. And so we need to make progress on that, 
+that is very clear. And I think you had the right idea when you 
+started with the examination of what was wrong with TSCA, what 
+didn't work and why. And you saw, I think, in the testimony 
+that the law never really got off the ground, that the 
+procedures and the standards proved to be unworkable, they got 
+tied in knots, EPA, trying to regulate asbestos. When they were 
+finally done, they were thrown out of court, and the law didn't 
+make much other progress. And it is a shame that Mr. Dingell is 
+gone because his amendment is one of the clearer parts of TSCA 
+that did do something; the PCB ban. And because of all that, 
+the fact that TSCA didn't restrict the States turned out to be 
+one of its major blessings, one of its only benefits, because 
+States have been able to make process in the interim.
+    Nevertheless, we are hopeful that the bill can be improved 
+based on the testimony of the Senators and our own engagement 
+with the Senators' offices and with yourself, being invited 
+here. And I want to highlight a few areas, there are more in 
+the testimony, for the purposes of helping focus improvement 
+and getting to a more balanced bill.
+    First is the standard. The core idea of the Chemical Safety 
+Improvement Act that the--is that the standard is fixed in the 
+unreasonable risk standard. We believe that it is not. The 
+attempt to fix it is to apply qualifying language for how it 
+should be used in Section 6, but the standard is also used in 
+other sections of the bill. And the related issue of the least 
+burdensome requirement, while that phrase is excised from the 
+bill, a sort of fraternal twin appears that you have heard Jim 
+Jones reference that has basically the same effect. And the 
+bottom line for us is that the--under the bill, our analysis is 
+EPA could still not ban asbestos under this new bill, and that 
+is a problem.
+    So I think that baggage of TSCA is something to really 
+think clearly about, and we need to break with it in this new 
+bill. It is otherwise going to weigh down this new bill. The 
+clearest--cleanest way to do that would be a new standard, but 
+if not, if that can't be done, fixing this standard so that it 
+is clearly defined as a health-only standard would go a long 
+way to dealing with this problem.
+    Another problem that has been mentioned is vulnerable 
+populations and aggregate exposure. Maybe aggregate exposure 
+hasn't been mentioned yet. These are core concepts to the 
+American Academy of Pediatrics' recommendations on reform, and 
+I think they should be embraced more tightly in the bill. The 
+bill mentions them but does not really require them to be dealt 
+with as a fundamental part of reform. And I think if you don't 
+do that, you will be left with safety determinations that 
+simply don't reflect the fact that children, it is just a plain 
+medical fact, are more susceptible to these chemicals than 
+people in heavily-impacted communities are, and that people are 
+exposed to the same chemical from more than one source at a 
+time. And so you need to add up those exposures when you are 
+figuring out what is happening to them, and the protective 
+measures, the risk-management measures, need to reflect that.
+    So if we don't do that, we will simply be getting the 
+determinations wrong, and they won't really be protecting the 
+public, and I think you want to be able to claim otherwise when 
+we are done with this exercise.
+    I want to highlight a couple of issues where the bill 
+actually goes backwards and we think does new harm. The first 
+is the issue of frameworks which has been mentioned. The bill 
+requires a lot of new frameworks. It delays the start of the 
+program for several years. We believe that that sounds too much 
+like the old TSCA. We want less red tape put in front of EPA 
+taking action, not more. Also States' rights. That has been 
+mentioned earlier. The bill infringes on them to a great degree 
+in a way that we think goes against the record. I think you 
+noticed in your comments earlier that not a lot of States have 
+taken the fundamental action, but at least they have made 
+progress on chemicals while the Federal Government was tied up 
+in red tape. And our fundamental interest in preserving States' 
+ability, both the progress they have made and their ability to 
+make new progress, really is Mr. Barrow's hunting dog analogy 
+that no one expected TSCA to not work out the way that it did, 
+and any problems in this new law, whether the funding or 
+anything else at implementation, we want that safety valve that 
+the States can still take action and can still make progress.
+    So I will mention the other provisions that are in my--just 
+briefly. It is CBI, I think they need a new balance on CBI, 
+deadlines, the funding mechanism, broader authority to require 
+testing, but the bottom line position is all of these issues, 
+we think, can be solved. Some of them can be solved quite 
+simply, but our main message is that they really have to be 
+solved for this bill to be balanced.
+    So thank you very much.
+    [The prepared statement of Mr. Igrejas follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.047
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.048
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.049
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.050
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.051
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.052
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.053
+    
+    Mr. Shimkus. Thank you.
+    And now I would like to turn to Wendy Wagner, Joe A. 
+Worsham Centennial Professor at the University of Texas School 
+of Law. Welcome and your statement, you have 5 minutes.
+    Ms. Wagner. Thank you. Thank you, Mr. Chairman, Ranking 
+Member Tonko and----
+    Mr. Shimkus. And you may want to pull that microphone a 
+little bit closer.
+
+                  STATEMENT OF WENDY E. WAGNER
+
+    Ms. Wagner. That is nice. I have an Ethel Merman voice, so 
+it is good to need a microphone.
+    Thank you, Mr. Chairman and Ranking Member Tonko and the 
+members of the subcommittee. I am pleased to testify here 
+today.
+    My focus is going to be a little bit different than some of 
+the other panelists. I am going to focus on the good science 
+provisions of Senate Bill 1009.
+    I have studied the use of science by regulatory agencies, 
+particularly EPA, for over 20 years, written a couple of books, 
+dozens of articles, I have also done some empirical analyses. 
+And based on this extensive study, when I look at the good 
+science provisions in Senate Bill 1009, I see that they are 
+just as likely to undermine the scientific rigor of EPA's 
+decision making as to enhance it. And, in fact, I think if you 
+show the good science provisions to the National Academies, 
+they would identify some fundamental problems with the way the 
+bill proceeds, particularly with the idea that the scientific 
+information available to EPA should be restricted by terms set 
+by Congress with regard to what constitutes acceptable science.
+    Now, I raise a number of issues in my written testimony. I 
+am just going to highlight three here today.
+    The first--there are over 40 pages by my count of good 
+science provisions in the bill, but I am not sure what the 
+underlying problem is that those 40 pages are trying to 
+address. There are really serious problems with TSCA and EPA's 
+implementation of TSCA, to be sure. I am not aware in the 
+literature though of problems with EPA's failure to use the 
+best available science in its regulation.
+    Second, as I read it, the bill reduces rather than enlarges 
+the information available to EPA to regulate using this best 
+available science gateway with the three-prong requirements. 
+There are a number of features of the best available science. 
+Just to take one as an example, according to the best available 
+science, all the information used by EPA in its safety 
+assessments and safety determinations needs to have peer-
+reviewed data. Now, even with a liberal interpretation of what 
+peer-reviewed data is, and there could be a lot of 
+disagreements about what that is, even with a liberal 
+interpretation, I read that as having the potential to exclude 
+a lot of industry submissions over the last 40 years. The 
+substantial risk reports under AE, for example, I am not sure 
+those would clear just that one barrier in best available 
+science. Even the test data provided by the manufacturers over 
+the last 30 years, I am not sure that would clear some of the 
+best available science requirements. If EPA wants to bring 
+these industry submissions up to the standards of best 
+available science, it is my reading of the bill that the burden 
+would be on EPA. They would need to make sure the industry 
+submissions meet all the various requirements.
+    More to the point, the problem with TSCA has been the EPA 
+doesn't have enough information to assess chemicals. It can't 
+regulate chemicals if it doesn't have this information. So 
+legislation that actually further restricts the information 
+available to EPA to do assessments seems to me to be moving in 
+exactly the wrong direction.
+    I am also not sure what the scientific pedigree is for this 
+best available science provision written in the Senate Bill 
+1009. It doesn't align with the National Academy's reports I 
+have seen, at least.
+    Third, the good science provisions, and this has come up 
+before, are loaded with ambiguities. Lawyers, including the 
+students I teach, have a term for this. When you have a 
+mandatory provision that is very ambiguous, it creates what is 
+called an attachment point, because high stakes, litigious 
+groups can latch onto those attachment points and hold the 
+Agency's feet to the fire in litigation. By my count, the good 
+science provisions in Senate Bill 1009 contain dozens of 
+attachment points. The administrative literature also reveals 
+that when an agency has a statute ladened with all these 
+attachment points that invite litigation, not only will be--it 
+be embroiled in litigation, but it is likely to seek to 
+compromise with the high-stakes, most-litigious groups. It is 
+actually not necessarily either because the agency is captured, 
+it simply wants to get some rules through the process, so it 
+needs to engage in these compromises. One of my worries when I 
+look at this is who will these high-stakes litigious groups be. 
+I am concerned it won't be the best manufacturers in the United 
+States who make the safest and most effective chemicals. The 
+manufacturers taking advantage of these attachment points, I am 
+concerned, will be the manufacturers that make the least 
+effective and most toxic chemicals.
+    Now, despite the fact that these good science provisions 
+are loaded with attachment points that are likely to lead to 
+litigation and delay, as you have heard, except with one 
+exception, I think, there are no deadlines at all in the 
+statute--I am sorry, in Senate Bill 1009, not the statute. That 
+was not a fraudulent slip. The bill also provides absolutely no 
+mechanisms for ensuring the transparency of whatever side deals 
+in compromises take place.
+    In my view, the basic goal of chemical policy should be to 
+get safer, more effective chemicals out of our manufacturers. 
+The bill does not provide these kinds of incentives.
+    If the bill became law as-is, I don't see any possibility 
+of a race to the top among the manufacturers in the United 
+States who make chemicals. Instead, the bill is ladened with a 
+maze of procedural requirements for EPA, with landmines for 
+litigation at every turn. I think we can do better.
+    Thank you. I look forward to your questions.
+    [The prepared statement of Ms. Wagner follows:]
+    [GRAPHIC] [TIFF OMITTED] T7628.054
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.055
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.056
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.057
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.058
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.059
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.060
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.061
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.062
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.063
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.064
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.065
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.066
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.067
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.068
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.069
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.070
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.071
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.072
+    
+    [GRAPHIC] [TIFF OMITTED] T7628.073
+    
+    Mr. Shimkus. Thank you very much.
+    Now I will recognize myself for 5 minutes for the first 
+round of--or the round of questionings.
+    And my first question I want to direct to Mr. Dooley, Mr. 
+Rosenberg and I think Mr. Garfield. And it is based upon the 
+question, let me start this, is based upon the question that I 
+asked Mr. Jones. And many witnesses have testified before our 
+committee on the strengths and successes of existing TSCA 
+Section 5 provisions for new chemicals and new uses of existing 
+chemicals.
+    Are the changes to TSCA Section 5 in the Senate bill needed 
+and why? Cal, if you would start.
+    Mr. Dooley. ACC, you know, supports the provisions of the 
+modifications of Section 5 in CSIA. We recognize that it is 
+important, even with the new chemicals, that you do have 
+provisions that do allow for EPA to make an affirmative 
+determination that the new chemical will likely meet the safety 
+standard, and that we accept that it is an obligation upon the 
+industry and the manufacturer to provide that information and 
+to allow them to make that determination.
+    Mr. Shimkus. Mr. Rosenberg?
+    Mr. Rosenberg. EPA--thank you. EPA has asked hundreds of 
+manufacturers for data in the new chemical program since its 
+inception. Without exception, those data have either been 
+provided or the premanufacturer notice was withdrawn. So the 
+deficiencies, if you will, in Section 5, in my view, go to 
+where you end up if you really want to regulate a new chemical, 
+and you end up in Section 6. Section 6 has the least burdensome 
+alternative hurdle, which I completely agree with Jim Jones, is 
+an unmanageable hurdle for the Agency.
+    So the changes that are made in Section 5 in the bill do 
+one important thing. They do what we are really looking for, 
+which is create a more credible program. And the fact that 
+there is an affirmative determination gives, at least most 
+people, a level of comfort that things haven't just gone 
+through because the deadline expired.
+    Mr. Shimkus. Mr. Garfield?
+    Mr. Garfield. We are still doing some analysis on this, but 
+we are also comfortable with the more--with the creation of a 
+more credible program. The two concerns are ones that have been 
+highlighted before; one, making sure that the timeline and 
+deadlines that have been set are ones that are actually 
+effectuated, and then two, making sure that confidential 
+business information is--continues to be protected.
+    Mr. Shimkus. Do you three feel that this would--has a 
+chance to harm innovation?
+    Mr. Dooley. Well, there is always, you know, that potential 
+if EPA, you know, didn't take any judicious approach, but I 
+would say that with our experience, and is very consistent with 
+what Mr. Rosenberg said, is that EPA's current administration 
+of the new chemicals act has been pretty effective, in that it 
+has resulted in, you know, the U.S. being at the forefront of 
+bringing new chemicals on the market that are being used 
+safely, that are ensuring that we are at the forefront in 
+developing innovations, and that is validated by the number of 
+patents that we receive, the disparity in terms of the number 
+of new chemicals and new innovations brought into the 
+marketplace in the U.S. versus our competitors in the EU.
+    And so we also know that, you know, that, you know, that 
+there are going to be some provisions, perhaps even under the 
+Administrative Act, that can give us a recourse if EPA 
+oversteps their bounds, even in the request of some 
+information.
+    Mr. Shimkus. Mr. Rosenberg?
+    Mr. Rosenberg. Thank you. The innovation is a delicate 
+thing, and it depends on what kind of market the chemical is 
+going to have, how much volume it will have, as--and how 
+innovative it is, as to what cost you can bear in going through 
+a regulatory program. Any screening program for chemicals that 
+EPA has will put some drag on innovation because some companies 
+or some chemicals won't be able to bear the cost, but this is a 
+good compromise. This is analogous to what happens in other 
+parts of the world. In no part of the world that I am aware of, 
+including Europe, does the Agency have to make an affirmative 
+finding of safety before a new chemical gets to the 
+marketplace. EPA has the strongest power because it is a 
+premanufacturing requirement, not a premarketing requirement. 
+So nothing--there is no economic value of the chemical yet if 
+it hasn't hit the market, whereas in Europe, you can go to the 
+market without--by just filing a piece of paper.
+    Mr. Shimkus. And speaking to innovation, I would not want 
+to leave Mr. Garfield without a chance to respond.
+    Mr. Garfield. I also agree it is a reasonable compromise 
+that will be impacted perhaps more by EPA's practice. So in 
+reality, the way this works, including the deadline, is that 
+when you come up against the deadlines, EPA and a company will 
+negotiate a suspension of that deadline to ensure that the 
+progress continues to be made in resolving the open issues. And 
+so in part, a lot of this will depend on whether EPA stays true 
+to the deadlines that you have offered or whether they do not.
+    Mr. Shimkus. My time has expired. Chair now recognizes Mr. 
+Tonko for 5 minutes.
+    Mr. Tonko. Thank you, Mr. Chair.
+    We heard from EPA earlier that cost-benefit analysis should 
+not play a role in the determination of whether a chemical 
+meets the safety standard under a reformed TSCA. The bill 
+before us continues to use the unreasonable risk standard that 
+has historically implied a cost-benefit analysis. A number of 
+stakeholders are on record supporting a safety standard that 
+focuses exclusively on risk, not cost-benefit analysis. For 
+example, ACC's 2009 principle state, and I quote 
+``consideration of the benefits of chemicals being evaluated, 
+the cost of methods to control their risks, and the benefits 
+and costs of alternatives, should be part of EPA's risk 
+management decision making, but should not be part of its safe 
+use determinations.'' In other words, the determination of 
+whether a chemical meets the safety standard for a particular 
+use should not involve a cost-benefit analysis.
+    Mr. Dooley, does ACC still support that principle for TSCA 
+reform?
+    Mr. Dooley. Yes, we do. If you had--you know, if you really 
+look at, you know, our policy is, and if you look at the CSIA, 
+is that there is not a requirement to do a cost-benefit 
+analysis on the prioritization, nor is there a consideration of 
+the cost-benefit analysis in the safety assessment. But when 
+you get to the safety determination, when EPA is making a 
+decision that for some intended use, that there needs to be a 
+restriction, a regulation or perhaps a ban, then we think it is 
+appropriate that you do a cost-benefit analysis of that 
+specific action by EPA, because you might have an instance 
+there where, let us just say it is mercury in a compact 
+fluorescent bulb, you know, something that, you know, an 
+innovation that is, you know, contributing to significant 
+energy savings. That mercury is a critical component of that 
+technology. If you had EPA that would choose to ban mercury 
+because it is potentially a hazardous exposure, and they didn't 
+go through and do a cost-benefit analysis, or are there other 
+alternatives that could contribute to the same environmental 
+benefits and energy efficiency benefits, it would result in bad 
+regulation from our perspective, and bad public policy.
+    Mr. Tonko. Thank you.
+    Dr. Denison, do you think that cost-benefit analysis should 
+be kept out of the safety standard in a reformed TSCA?
+    Mr. Denison. Yes, I do, Mr. Tonko. I think the--I have a 
+different reading than Mr. Dooley of what the bill requires 
+because I think he stated that the--that cost-benefit analysis 
+should come in at the point of the safety determination. I 
+think the safety determination needs to be a health-based, 
+risk-based determination on the science.
+    Now, the factors that Mr. Dooley mentions are appropriate 
+to consider in determining how to address a risk for a chemical 
+that fails a safety standard, and the bill needs to make that 
+demarcation quite clear. That is actually how I read ACC's 
+principles back in 2009.
+    Mr. Tonko. Thank you. And, Mr. Igrejas, does the Safer 
+Chemicals, Healthy Families Coalition have concerns that the 
+unreasonable risk standard in the bill before us will not be a 
+pure health standard?
+    Mr. Igrejas. Absolutely. We read the bill as not having 
+effectively separated out the cost benefit from the risk 
+decisions, and also retaining the least burdensome requirement, 
+which is related but separate for bans and phase-outs.
+    Mr. Tonko. And should any TSCA reform bill this committee 
+considers be absolutely clear that cost-benefit analysis is not 
+a part of the determination that a chemical meets safety 
+standard?
+    Mt. Igrejas. We believe it should be.
+    Mr. Tonko. S. 1009 also leaves in place the substantial 
+evidence standard for judicial review that played a significant 
+role in the asbestos decision.
+    Ms. Wagner, how common is that heightened standard of 
+review in the environmental law context?
+    Ms. Wagner. Typically, the Agency is held to an arbitrary 
+and capricious standard, so it is very unusual.
+    Mr. Tonko. Will that standard of review make it harder for 
+EPA to prevail in court when it takes action under TSCA than 
+under other environmental statutes?
+    Ms. Wagner. It is definitely a higher burden. I think the 
+case law is a little murky. Some courts actually don't seem to 
+use substantial evidence differently than others, but some do. 
+On balance, it is likely to be a higher burden.
+    Mr. Tonko. Thank you. There is a strong public interest in 
+improving EPA's ability to take action under TSCA to address 
+the serious risks we face from chemical exposures. We have 
+better working models for dealing with risks and other 
+environmental laws, the pesticides laws, for example. Any TSCA 
+reform bill, in my opinion, considered by this committee should 
+remove the known obstacles to TSCA implementation, such as the 
+cost-benefit analysis component of the safety standard, and 
+this heightened standard of judicial review.
+    And with that, I believe my time is up and I yield back.
+    Mr. Shimkus. Gentleman yields back his time.
+    The Chair now recognizes, I believe, Mr. Green from Texas 
+for 5 minutes.
+    Mr. Green. Thank you, Mr. Chairman.
+    My first series of questions I want to ask, and they are 
+just yes or no, for all witnesses. Briefly, do you believe that 
+Lautenberg-Vitter is an improvement over current law or is 
+status quo preferable?
+    Mr. Dooley?
+    Mr. Dooley. Yes.
+    Mr. Rosenberg. Yes, it is an improvement.
+    Mr. Denison. Mr. Green, in some respects yes, in other 
+respects no.
+    Mr. Green. OK. Mr. Garfield?
+    Mr. Garfield. My answer is the same. In some respects yes, 
+in other respects no, but in the respects where it is no, it 
+can be improved.
+    Mr. Green. Mr. Igrejas?
+    Mr. Igrejas. I say no.
+    Ms. Wagner. With respect to the good science provisions, 
+no.
+    Mr. Green. OK. Well, for all the witnesses, in your 
+opinion, are the issues raised in today's hearings on 
+Lautenberg-Vitter issues that can be improved through 
+clarification, or are they issues that fundamentally cannot be 
+corrected? Why don't I ask the last four since you all are the 
+ones that said it wasn't an improvement?
+    Mr. Denison. Congressman, I do believe the problems can be 
+corrected, and that is based on a number of years of dialogue 
+with other stakeholders, including the two gentlemen to my 
+right here. So I think there are solutions at hand if we can 
+get down to the hard work of negotiating this through and 
+finding the right balance.
+    Mr. Green. OK. I guess the reason I asked that to start 
+with is that, you know, we know the law from 1976 is old and we 
+need to update it, but believe me, in a Republican Congress, we 
+are not going to get to where a lot of folks would want to be, 
+but I just want to make sure we move that ball down the field, 
+and that includes passing it through the Senate, because I 
+represent a very urban district in East Harris County that has 
+chemical plants refineries, and people who live along those 
+fence lines. And so that is why I would like to improve the law 
+to the best we can get politically through the House and the 
+Senate.
+    Mr. Dooley, you--can you explain the--and expand on ACC's 
+views on the EPA's authority to require testing of chemicals? 
+Is it--in particular, does ACC support changes to the EPA's 
+current authority to test existing chemicals, and what changes 
+and why?
+    Mr. Dooley. Yes, we do support, and that is what I think 
+was one of the, you know, the fundamental, you know, positives 
+about this legislation is, for the first time, those, you know, 
+60,000 or however many grandfathered chemicals will be subject 
+to prioritization and to a safety assessment. And we support 
+those provisions, and--as well as provisions that would give 
+the ability for EPA under new chemicals to have--facilitate 
+their ability to access the data that they need to make a 
+determination whether or not those chemicals do meet the new 
+safety standard.
+    Mr. Green. OK. And I know the ACC's position on the safety 
+standard in both current TSCA and in a modernized TSCA. Is the 
+safety standard in Lautenberg-Vitter identical to the current 
+standard in TSCA?
+    Mr. Dooley. No, it is significantly different in that in 
+the new CSIA--rather, the CSIA----
+    Mr. Green. Um-hum.
+    Mr. Dooley [continuing]. Is that the safety standard of an 
+unreasonable risk to human health and the environment from the 
+exposure to its intended use is the standard there. It does not 
+in any way require a cost-benefit analysis as you do under 
+existing law. So it will make a, you know, significant--it is a 
+significant difference from the existing standard.
+    Mr. Green. And EPA and other areas in environment, do they 
+also conduct cost-benefit analyses?
+    Mr. Dooley. I am not----
+    Mr. Green. OK.
+    Mr. Dooley [continuing]. Sure if I--I need to do a little 
+more research on that one.
+    Mr. Green. And one of the issues is that the Lautenberg-
+Vitter would--has an addition of deadlines compared to TSCA. Is 
+that a benefit as compared to--a benefit from the additional 
+deadlines?
+    Mr. Dooley. Well, you--the issue of deadlines has been a 
+subject of a lot of conversation with Administrator Jones that 
+was here today. You know, from an ACC perspective, you know, we 
+have no objection to deadlines, but we think the deadlines need 
+to be reasonable. And I thought it was interesting when 
+Administrator Jones was making his statement today, he said he 
+needed deadlines. But the people that we need the information 
+on, what is the appropriate deadlines, is the EPA. You know, we 
+need the information from them in terms of how many chemicals 
+do you think is appropriate of the 60,000 that you want to have 
+go through a prioritization and safety assessment, and perhaps 
+a safety determination. How many of those can you do, and how 
+many FTE's do you need to do, and what is a reasonable time 
+frame to do those.
+    I think what is difficult for members of Congress in 
+constructing this legislation is to develop arbitrary deadlines 
+that you would think EPA can meet. What the legislation 
+attempts to do is put the onus and the burden on EPA to set 
+deadlines that they are compelled to meet, which would then be 
+informed upon the capacity and the expertise that they have to 
+carry out the provisions of CSIA.
+    Mr. Green. OK. Mr. Denison, your testimony discussed the 
+process for evaluating new chemicals. How would EPA determine 
+if a chemical is likely safe under this legislation?
+    Mr. Denison. Congressman, the details of that are left to 
+EPA, I think, not specified in the legislation in any detail, 
+but I think the key here is that there is first the affirmative 
+requirement that evidence of safety be available on a chemical 
+in order for that chemical to be sold. And second, that the bar 
+is actually intentionally, I think, lower than it is for a 
+chemical that is already on the market. So the difference 
+between likely meets the safety standard and meets the safety 
+standard reflects the fact that that chemical is in an early 
+stage of development, it has not yet been on the market, and, 
+therefore, the amount of information and the amount of ability 
+to demonstrate definitively its safety is appropriately less. 
+But the key difference from current law is, as Mr. Jones 
+stated, changing from a passive system where unless EPA finds a 
+problem, that chemical simply can come onto the market, to one 
+that requires EPA to affirmatively find some evidence of safety 
+as a condition for market entry, and that is a key change.
+    Mr. Green. How does giving EPA the authority to issue 
+orders for testing requirements as found in Lautenberg-Vitter 
+an improvement over the present law?
+    Mr. Denison. Congressman, the length of time that EPA has 
+to take to get a rule through to require testing averages about 
+5 years. An order could be issued within a few months. We think 
+that is a significant improvement. The only problem I would 
+flag here is that, while the bill makes it easier for EPA to 
+get information, it limits the points in time in the process 
+when it could do so. So, for example, if EPA has a new chemical 
+or a chemical that it is trying to prioritize, and it finds it 
+doesn't have enough data, the bill actually strips the current 
+authority EPA would have to require testing at that stage in 
+the process. We think that is a problem.
+    So there are some positive aspects of the bill in this 
+regard; order authority and the removal of the requirement to 
+first show risk, but there is also some restrictions on EPA's 
+current authority to actually require testing.
+    Mr. Green. Mr. Chairman, I know you have been very kind 
+and--but obviously we need to deal with that as a committee 
+when we--to address that. Thank you.
+    Mr. Shimkus. That is because I have great affection for my 
+colleague from Texas.
+    So now I would like to recognize my colleague from New 
+Jersey, Mr. Pallone, for as much time as he wants to consume. 
+How about that?
+    Mr. Pallone. Well, I won't use too much, I promise, but 
+thank you, Mr. Chairman. I am pleased the committee has 
+convened this hearing, and I certainly appreciate the efforts 
+of my late Senator from New Jersey, Senator Lautenberg, to 
+bring both sides together on this critical issue.
+    I have met with stakeholders in the environmental community 
+and in the chemical industry, and we can all agree that the 
+status quo is not working. The GAO has included the current 
+TSCA statute in its high-risk series over the last several 
+years, citing EPA's lack of authority to limit exposure to 
+chemicals that may pose substantial health risks. And I believe 
+there are many other issues that all stakeholders can agree 
+upon, including striking the language that compels the EPA to 
+pursue the least burdensome requirement that is so strict, it 
+prevented EPA from regulating asbestos.
+    So, Mr. Chairman, I hope to work with you and our 
+colleagues to craft a bipartisan bill. And I just wanted to ask 
+two questions, if I could.
+    First is posed to Mr. Denison, and that is, you state in 
+your testimony that, and I quote, ``by EPA merely designating a 
+chemical as high or low priority, all States would be precluded 
+from imposing a new requirement on the chemical.''
+    So my question is, do you feel this preemption mechanism is 
+triggered too early in the process, and if so, what type of 
+timeline, if any, do you consider practical?
+    Mr. Denison. I do, Congressman. I think the extent to which 
+the law will restrict States' ability to act needs to be placed 
+at the end of the process of EPA's evaluation and determination 
+of the safety of a chemical, and where necessary, the 
+promulgation of a rule that applies the appropriate 
+restrictions. If that preemption kicks in earlier in the 
+process, as it does for new requirements under the bill, the 
+concern I have is that States would not be able to act, and 
+then the incentives for dragging out the length of time it 
+would take to get from simply EPA prioritizing a chemical to 
+that final action, the incentives would be to drag that out as 
+long as possible.
+    So we need a system that provides incentives for efficient 
+and effective action, and I worry that provision in particular 
+would run counter to that.
+    Mr. Pallone. Do you want to talk about a time--a different 
+timeline any more than you have, or----
+    Mr. Denison. Yes. I think the--those triggers for 
+preemption need to occur at the final action of the Agency. If 
+it finds a chemical meets a safety standard, that would be the 
+final action. If it finds a chemical doesn't meet the safety 
+standard, the final action would be the promulgation of that 
+rule that imposes the appropriate risk management, and that 
+should be the trigger for preemption.
+    Mr. Pallone. All right, thank you.
+    And then my second question, Mr. Chairman, is to Mr. 
+Igrejas. I hope I am pronouncing it.
+    As we work to reform TSCA, I believe one of the most 
+important issues is protecting vulnerable populations, such as 
+infants and those living near chemical facilities. In New 
+Jersey, as you know, we have a combination of both a large 
+number of chemical facilities and a high population density. So 
+the consequences of insufficient protection are dire. And so I 
+wanted to ask you, you mentioned in your testimony that you 
+think, and I quote, ``intent and language do not match up 
+regarding protecting these populations.'' So what do you 
+suggest to ensure the bill works to protect vulnerable 
+populations such as children and those living near the chemical 
+facilities?
+    Mr. Igrejas. Sure. Thank you very much. I think vulnerable 
+populations could be clearly defined first, a definition of 
+what it includes; children, pregnant women, heavily-exposed 
+individuals in communities, and then they should be explicitly 
+required to be included in the safety determination and 
+protected by any risk-management measures. That would play the 
+issue out, so to speak, so that we know the decisions that are 
+made, the measures that are taken are protecting the vulnerable 
+populations.
+    Mr. Pallone. OK, but nothing more in terms of specifics at 
+this point, other than the definition or how----
+    Mr. Igrejas. The definition and clear language that they 
+are included in not just the assessment phase, which is in the 
+bill now, but in the determinations and risk-management 
+measures.
+    Mr. Pallone. OK. All right, that is it, Mr. Chairman. I 
+didn't use my 5 minutes. Thank you.
+    Mr. Shimkus. Well, I thank my colleague. And I was going to 
+ask, because it was very interesting, I appreciate you all 
+being here. Maybe we have gone around, but I think we have 
+fleshed out as much as we can right now, and I am sure we will 
+see some of you through our offices as we continue this 
+process.
+    Just some final comments. It is really hard for me to 
+believe that the product in the Senate bill is not better than 
+the current law. I mean on the face of it, it--a bill that is--
+a law that is 37 years old and has not been changed, and has 
+proven to be not effective, something has to be better than 
+nothing. I think that is where there is some commonality in 
+moving forward.
+    The second thing is, this risk-based issue, there is--I 
+guess my--there is--Cal brought up a good issue about the 
+compact fluorescent bulbs, and what is the environmental 
+benefit or societal benefit of maybe a hazardous chemical that 
+is used in a product that benefits mankind. I am not a climate 
+guy here, everybody knows that, but if you are, you like 
+compact fluorescent bulbs, and there is a--some people would 
+believe there is a great return on--in fact, we had debated 
+that in our Cap and Trade Bill on that very same issue.
+    So there are issues there. Preemption is going to be a 
+contentious issue, and the--and--but I would like people to 
+start talking to us about deadlines because it seems like, 
+through the three panels, well, at least the second two, 
+deadlines was a consistent theme. And I am--Ms. Wagner, I think 
+your testimony was very intriguing, and I think we are going to 
+look further into your comments and try to flesh out some of 
+that stuff.
+    I have a unanimous consent request that all members of the 
+subcommittee have 5 days to submit an opening statement for the 
+record. So ordered. I would like to ask unanimous consent to 
+insert letters into the record from the California EPA, Breast 
+Cancer Fund, National Conference of State Legislatures, two 
+from the Environmental Working Group, a letter from 35 Senators 
+and lawyers, from 25 medical professionals, and remind--without 
+objection, so ordered.
+    [The information appears at the conclusion of the hearing.]
+    Mr. Shimkus. And I would like to remind subcommittee 
+members they have 10 days to submit questions for the record. 
+Without objection, so ordered.
+    Thank you. With that, we want to thank you for your 
+testimony. Please keep working with us. I think there is some 
+great interest to try to move forward, and hopefully throughout 
+this process we can get through the finish line.
+    And with that, I will call this hearing adjourned.
+
+    [Whereupon, at 1:07 p.m., the subcommittee was adjourned.]
+
+    [Material submitted for inclusion in the record follows:]
+
+    [GRAPHIC] [TIFF OMITTED]     
+
+
+                                 <all>
+
+</pre></body></html>

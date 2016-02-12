@@ -1,0 +1,3033 @@
+<html>
+<title> - OVERSIGHT OF THE INTERNET CORPORATION FOR ASSIGNED NAMES AND NUMBERS (ICANN)</title>
+<body><pre>
+[House Hearing, 111 Congress]
+[From the U.S. Government Printing Office]
+
+
+ 
+ OVERSIGHT OF THE INTERNET CORPORATION FOR ASSIGNED NAMES AND NUMBERS 
+                                (ICANN)
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+      SUBCOMMITTEE ON COMMUNICATIONS, TECHNOLOGY, AND THE INTERNET
+
+                                 OF THE
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+                        HOUSE OF REPRESENTATIVES
+
+                     ONE HUNDRED ELEVENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              JUNE 4, 2009
+
+                               __________
+
+                           Serial No. 111-42
+
+
+      Printed for the use of the Committee on Energy and Commerce
+
+                        energycommerce.house.gov
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+71-959                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office, 
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail, gpo@custhelp.com.  
+
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+
+    HENRY A. WAXMAN, California      JOE BARTON, Texas
+              Chairman                 Ranking Member
+JOHN D. DINGELL, Michigan            RALPH M. HALL, Texas
+  Chairman Emeritus                  FRED UPTON, Michigan
+EDWARD J. MARKEY, Massachusetts      CLIFF STEARNS, Florida
+RICK BOUCHER, Virginia               NATHAN DEAL, Georgia
+FRANK PALLONE, Jr., New Jersey       ED WHITFIELD, Kentucky
+BART GORDON, Tennessee               JOHN SHIMKUS, Illinois
+BOBBY L. RUSH, Illinois              JOHN B. SHADEGG, Arizona
+ANNA G. ESHOO, California            ROY BLUNT, Missouri
+BART STUPAK, Michigan                STEVE BUYER, Indiana
+ELIOT L. ENGEL, New York             GEORGE RADANOVICH, California
+GENE GREEN, Texas                    JOSEPH R. PITTS, Pennsylvania
+DIANA DeGETTE, Colorado              MARY BONO MACK, California
+  Vice Chairman                      GREG WALDEN, Oregon
+LOIS CAPPS, California               LEE TERRY, Nebraska
+MICHAEL F. DOYLE, Pennsylvania       MIKE ROGERS, Michigan
+JANE HARMAN, California              SUE WILKINS MYRICK, North Carolina
+TOM ALLEN, Maine                     JOHN SULLIVAN, Oklahoma
+JANICE D. SCHAKOWSKY, Illinois       TIM MURPHY, Pennsylvania
+HILDA L. SOLIS, California           MICHAEL C. BURGESS, Texas
+CHARLES A. GONZALEZ, Texas           MARSHA BLACKBURN, Tennessee
+JAY INSLEE, Washington               PHIL GINGREY, Georgia
+TAMMY BALDWIN, Wisconsin             STEVE SCALISE, Louisiana           
+MIKE ROSS, Arkansas                  
+ANTHONY D. WEINER, New York          
+JIM MATHESON, Utah                   
+G.K. BUTTERFIELD, North Carolina     
+CHARLIE MELANCON, Louisiana          
+JOHN BARROW, Georgia                 
+BARON P. HILL, Indiana               
+DORIS O. MATSUI, California          
+DONNA M. CHRISTENSEN, Virgin         
+    Islands                          
+KATHY CASTOR, Florida                
+JOHN P. SARBANES, Maryland           
+CHRISTOPHER S. MURPHY, Connecticut   
+ZACHARY T. SPACE, Ohio               
+JERRY McNERNEY, California           
+BETTY SUTTON, Ohio                   
+BRUCE BRALEY, Iowa                   
+PETER WELCH, Vermont                 
+                                     
+                                     
+      Subcommittee on Communications, Technology, and the Internet
+
+                         RICK BOUCHER, Virginia
+                                 Chairman
+EDWARD J. MARKEY, Massachusetts      FRED UPTON, Michigan
+BART GORDON, Tennessee                 Ranking Member
+BOBBY L. RUSH, Illinois              J. DENNIS HASTERT, Illinois
+ANNA G. ESHOO, California            CLIFF STEARNS, Florida
+BART STUPAK, Michigan                NATHAN DEAL, Georgia
+DIANA DeGETTE, Colorado              BARBARA CUBIN, Wyoming
+MICHAEL F. DOYLE, Pennsylvania       JOHN SHIMKUS, Illinois
+JAY INSLEE, Washington               HEATHER WILSON, New Mexico
+ANTHONY D. WEINER, New York          CHARLES W. ``CHIP'' PICKERING, 
+G.K. BUTTERFIELD, North Carolina         Mississippi
+CHARLIE MELANCON, Louisiana          VITO FOSELLA, New York
+BARON P. HILL, Indiana               GEORGE RADANOVICH, California
+DORIS O. MATSUI, California          MARY BONO MACK, California
+DONNA M. CHRISTENSEN, Virgin         GREG WALDEN, Oregon
+    Islands                          LEE TERRY, Nebraska
+KATHY CASTOR, Florida                MIKE FERGUSON, New Jersey
+CHRISTOPHER S. MURPHY, Connecticut
+ZACHARY T. SPACE, Ohio
+JERRY McNERNEY, California
+PETER WELCH, Vermont
+JOHN D. DINGELL, Michigan (ex 
+    officio)
+  
+
+                             C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hon. Rick Boucher, a Representative in Congress from the 
+  Commonwealth of Virginia, opening statement....................     1
+Hon. Cliff Stearns, a Representative in Congress from the State 
+  of Florida, opening statement..................................     2
+Hon. Michael F. Doyle, a Representative in Congress from the 
+  Commonwealth of Pennsylvania, opening statement................     4
+Hon. Lee Terry, a Representative in Congress from the State of 
+  Nebraska, opening statement....................................     5
+Hon. Doris O. Matsui, a Representative in Congress from the State 
+  of California, opening statement...............................     6
+Hon. Anna G. Eshoo, a Representative in Congress from the State 
+  of California, opening statement...............................     7
+Hon. Marsha Blackburn, a Representative in Congress from the 
+  State of Tennessee, opening statement..........................     8
+Hon. John D. Dingell, a Representative in Congress from the State 
+  of Michigan, opening statement.................................     9
+Hon. John B. Shadegg, a Representative in Congress from the State 
+  of Arizona, opening statement..................................    10
+Hon. Henry A. Waxman, a Representative in Congress from the State 
+  of California, prepared statement..............................   140
+
+                               Witnesses
+
+Fiona Alexander, Associate Administrator, Office of International 
+  Affairs, National Telecommunications and Information 
+  Administration, U.S. Department of Commerce....................    12
+    Prepared statement...........................................    15
+    Answers to submitted questions...............................   155
+Paul Twomey, President and CEO, ICANN............................    19
+    Prepared statement...........................................    21
+    Answers to submitted questions...............................   159
+Kenneth J. Silva, Senior Vice President and Chief Technology 
+  Officer, Verisign..............................................    30
+    Prepared statement...........................................    32
+Christine N. Jones, General Counsel and Corporate Secretary, The 
+  Go Daddy Group, Inc............................................    37
+    Prepared statement...........................................    39
+Sarah Deutsch, Vice President and Associate General Counsel, 
+  Verizon Communications.........................................    50
+    Prepared statement...........................................    52
+Thomas M. Lenard, Ph.D., President and Senior Fellow, Technology 
+  Policy Institute...............................................    58
+    Prepared statement...........................................    60
+
+                           Submitted material
+
+Letter of June 3, 2009, from eNom, Inc. to Subcommittee, 
+  submitted by Mr. Boucher.......................................   142
+Letter of June 3, 2009, from CADNA to Mr. Boucher, submitted by 
+  Mr. Boucher....................................................   147
+Prepared statement of Vince Cerf, former ICANN Chairman, 
+  submitted by Mr. Boucher.......................................   151
+
+
+ OVERSIGHT OF THE INTERNET CORPORATION FOR ASSIGNED NAMES AND NUMBERS 
+                                (ICANN)
+
+                              ----------                              
+
+
+                         THURSDAY, JUNE 4, 2009
+
+              House of Representatives,    
+Subcommittee on Communications, Technology,
+                                  and the Internet,
+                          Committee on Energy and Commerce,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to call, at 10:07 a.m., in 
+Room 2123 of the Rayburn House Office Building, Hon. Rick 
+Boucher [chairman of the subcommittee] presiding.
+    Present: Representatives Boucher, Eshoo, Doyle, Inslee, 
+Matsui, Christensen, Castor, Space, McNerney, Dingell, Weiner, 
+Stearns, Upton, Shimkus, Shadegg, Terry, and Blackburn.
+    Staff Present: Amy Levine, Subcommittee Counsel; Roger 
+Sherman, Chief Counsel; Shawn Chang, Counsel; Tim Powderly, 
+Counsel; Greg Guice, Counsel; Sarah Fisher, Special Assistant; 
+Liz Eralzer, Intern; Pat Delgado, Chief of Staff, Mr. Waxman; 
+Amy Bender, Minority Counsel; Neil Fried, Minority Counsel; and 
+Garrett Golding, Minority Legislative Analyst.
+
+  OPENING STATEMENT OF HON. RICK BOUCHER, A REPRESENTATIVE IN 
+           CONGRESS FROM THE COMMONWEALTH OF VIRGINIA
+
+    Mr. Boucher. The subcommittee will come to order.
+    Our discussion this morning focuses on the activities of 
+the Internet Corporation for Assigned Names and Numbers, 
+commonly referred to as ICANN.
+    Since 1998, ICANN has managed the designation and 
+allocation of Internet domain names and addresses under various 
+contractual arrangements with the United States Department of 
+Commerce. The original Memorandum of Understanding that was 
+signed in November of 1998 has been renewed on several 
+occasions, most recently as a Joint Project Agreement, which is 
+now scheduled to expire on September 30 this year.
+    One matter upon which we will focus this morning is whether 
+Department of Commerce oversight should be retained through 
+renewal of that agreement or, in the alternative, whether the 
+time has come for that oversight to be relinquished, and for 
+ICANN to operate, after September 30, without supervision, with 
+respect to the allocation and designation of Internet domain 
+names and addresses and associated functions. It should be 
+noted that, under a separate contract, which is not scheduled 
+to expire, the Department of Commerce has conferred upon ICANN 
+the management of the master files of the domain name system, 
+generally known as the root zone files. Under that non-expiring 
+contract, ICANN also manages and coordinates the allocation of 
+IP addresses.
+    In considering whether the expiring contract should be 
+renewed or should expire without renewal, key questions are 
+whether ICANN's decision-making is sufficiently transparent, or 
+whether improvements are needed, and whether, under its 
+existing structure and practices, ICANN is sufficiently 
+accountable to Internet stakeholders and the global community 
+of Internet users. I am sure that today's witnesses and members 
+of this panel will have a number of views to express, and the 
+members will have questions about those key matters.
+    A second focus of today's hearing is on ICANN's proposal to 
+introduce new generic top-level domains, which could involve 
+descriptions of various types of activities, locations, brands, 
+or trademarked names. It is suggested that the creation of new 
+top-level domains would promote competition among registry 
+operators of the TLDs, and would enhance consumer choice.
+    Among the concerns that have been raised about a 
+proliferation of new TLDs is the cost to companies associated 
+with protecting their brands, if they have to purchase 
+additional second level domain registrations under the new top-
+level domains. Not only do they purchase their exact brand 
+names as a common practice under the various TLDs, but they 
+generally also purchase common misspellings of their brand 
+names in order to protect the brand name itself, so a buffer 
+area, in effect, is acquired around the brand name, through the 
+second level TLDs. So, as the number of top level TLDs grows, 
+the cost to companies to protect their brand names grows 
+exponentially. Does the added competition and consumer choice 
+that would arise from the new TLDs offset that cost, as a 
+matter of public policy, a key question for us to consider.
+    Other questions relate to ICANN's capacity to manage all of 
+the new top-level domains and assure the overall stability and 
+security of the domain name system, and whether ICANN can 
+assure that an adequate amount of competition would, in fact, 
+arise in the bidding process for new TLDs.
+    We will welcome our testimony this morning. We thank our 
+witnesses for being with us, and sharing their views on these 
+very important subjects, with regard to the future of Internet 
+management and governance.
+    Mr. Boucher. And at this time, I am pleased to recognize 
+the ranking Republican on our subcommittee, the gentleman from 
+Florida, Mr. Stearns.
+
+ OPENING STATEMENT OF HON. CLIFF STEARNS, A REPRESENTATIVE IN 
+               CONGRESS FROM THE STATE OF FLORIDA
+
+    Mr. Stearns. Good morning, and thank you, Mr. Chairman. For 
+more than a decade, ICANN has played a vital role in 
+maintaining a stable and reliable Internet, and I think that is 
+a very high achievement.
+    ICANN has the critically important responsibility for 
+managing the domain name system, the hierarchy of IP addresses 
+and associated domain names that enable Internet users around 
+the globe to communicate with each other. ICANN has succeeded, 
+both because it has been a private sector led effort, not 
+controlled, for example, by the United Nations, or any other 
+government, and thanks to the advice, guidance, and engagement 
+of the United States through a series of arrangements, 
+including the Joint Projects Agreement.
+    The key question before this committee is will the 
+expiration of the JPA in September put the stability and 
+security of the Internet at risk. I have some concerns, and 
+want to hear from the panel on this matter.
+    The JPA with the Department of Commerce has played an 
+important role in ensuring that ICANN is accountable for its 
+decisions, and conducts its mission in a manner that provides 
+for stakeholders' participation. The JPA should be extended, 
+and the NTIA is in the process of seeking public comment on 
+this issue.
+    One major question for this hearing is whether there is a 
+need to renew the JPA when it expires, and what the nature of 
+U.S. engagement with ICANN would be in its absence. While it 
+can never please all its stakeholders all the time, it needs 
+appropriate governance mechanisms that will ensure its openness 
+and accountability. Apart from ICANN's agreement with the 
+Department of Commerce, what other external mechanisms are in 
+place today to simply safeguard that accountability? If there 
+are none, or if there are insufficient controls, perhaps 
+ICANN's ongoing relationship with the Department of Commerce 
+should then continue.
+    Ultimately, though, through the global Internet community 
+will need to develop an appropriate governance structure to 
+ensure its accountability. One of its functions is to create 
+generic top-level domains, or GTLDs, which is a unit of letters 
+or words beyond the rightmost dot, such as .com or .gov or 
+.net. Over time, the number of GTLDs has expanded to 21.
+    Last June, ICANN proposed to further expand the number of 
+GTLDs. Under the proposal, which was put out for public 
+comment, and must be finalized and approved by the Board of 
+Directors, new GTLDs could include the names of organizations, 
+companies, locations, or additional generic words. However, 
+before ICANN expands this list, it should address concerns 
+about the proposed expansion, and provide further opportunity 
+for comments by all the stakeholders.
+    In a letter to ICANN last December, NTIA raised a number of 
+questions regarding the way in which it was proposed to 
+administer the rollouts of these new GTLDs. Specifically, NTIA 
+wondered whether it is prepared to implement measures to 
+promote competition on registry prices, terms, and conditions, 
+ensure the application process will respect, with respect to 
+national and international laws, including intellectual 
+property rights, enforce contract compliance, and design a 
+rational fee structure. NTIA recommended that ICANN can resolve 
+a number of these issues before expanding the GTLDs.
+    My colleagues' trade holders are concerned that without 
+sufficient protection for intellectual property rights, they 
+will have to engage in costly defensive registration of domains 
+that are identical or similar to their trademarks across GTLDs 
+to prevent others from registering them, or pursue costly and 
+time-consuming administrative or legal processes against 
+cybersquatters. I hope our witnesses will address these 
+legitimate concerns also.
+    Another and final point, that since ICANN is considered a 
+not for profit organization, does a transparent mechanism exist 
+to address any excess revenues. According to data from the 
+Technology Policy Institute, its revenues have increased from 
+$5 million in 2000 to over $60 million in 2009, while expenses 
+have increased from under $3 million in 2000 to over $54 
+million in 2009. Thus, it will have a surplus of close to $7 
+million from Financial Year 2009.
+    ICANN's largest expense is personnel, accounting for close 
+to $20 million of the $54 million. According to its annual 
+report, it employees 100 staff members. Although salary 
+information and administrative costs were not available, I hope 
+the witnesses today will address these issues on finance.
+    Thank you, Mr. Chairman, for holding this hearing.
+    Mr. Boucher. Thank you very much, Mr. Stearns. The 
+gentleman from Pennsylvania, Mr. Doyle, is recognized for two 
+minutes.
+
+OPENING STATEMENT OF HON. MICHAEL F. DOYLE, A REPRESENTATIVE IN 
+         CONGRESS FROM THE COMMONWEALTH OF PENNSYLVANIA
+
+    Mr. Doyle. Thank you, Mr. Chairman, and I want to thank you 
+for holding this important hearing.
+    I own a few domains, and I have benefited from the 
+competition among domains in who I can buy them from. I believe 
+that because the Internet is truly global, significant input 
+from around the world is important to its governance, which is 
+why it pains me to say that I hope that the Department of 
+Commerce continues the JPA with ICANN, and not relinquish 
+control at this time.
+    I am afraid ICANN seems better at furthering its own 
+interests than those of the millions of Internet users that it 
+is supposed to look out for. My constituents are still 
+receiving misleading solicitations that look like invoices from 
+a registrar, despite a court injunction and despite FTC 
+intervention. Why does ICANN allow them to continue to sell 
+domain names? This is domain slamming and it continues today. 
+When ICANN attempted to curb the abuse of domain tasting, the 
+five day window when purchased domains were able to be returned 
+and refunded, their solution was to make their fee 
+nonrefundable. Well, that helped curb the abuse, but the money 
+didn't go for consumer protection or coordination towards IPv6, 
+it went to the general budget, executive compensation, and 
+cushioning ICANN's $4.6 million stock market loss last year. If 
+they can afford to lose that much money in the market, why are 
+they collecting the fees from us in the first place?
+    I am glad to see witnesses talking about the GTLD issue 
+today, which I have grave reservations. I fear that the primary 
+beneficiary is not the consumer, who might suffer from 
+increased confusion, or the businesses who would need to 
+register new domains to defend their trademark across a near 
+infinite number of top-level domains. On the other hand, it 
+might act as a needed market-based solution to ensure that 
+rates and fees for .com are kept low in this economic downturn.
+    Small domain users like me and companies that need and use 
+thousands of domain names to run their businesses, and the tens 
+of millions of Internet users who place their trust in the 
+Internet today, need assurance that someone is looking out for 
+them. I don't see it from ICANN.
+    Thank you, Mr. Chairman.
+    Mr. Boucher. Thank you very much, Mr. Doyle. The gentleman 
+from Illinois, Mr. Shimkus, is recognized for two minutes.
+    Mr. Shimkus. Thank you, Mr. Chairman.
+    We have a new Administration, everyone knows. We have a new 
+individual getting close to being confirmed in NTIA. We have a 
+change in the administration at the ICANN. This is now not a 
+time to make changes. I would be supportive of extending the 
+Joint Project Agreement.
+    I look forward to the hearing, and I yield back my time.
+    Mr. Boucher. Thank you very much, Mr. Shimkus. The 
+gentlelady from the Virgin Islands, Mrs. Christensen, is 
+recognized for two minutes.
+    Mrs. Christensen. Thank you Mr. Chairman and the ranking 
+member for this hearing, and for giving me yet another list of 
+new acronyms to add to others that I still haven't committed to 
+memory, but I am beginning to understand the concepts, and that 
+is more important.
+    We are here to review the progress ICANN has made, and 
+whether it is ready for the Joint Project Agreement to expire 
+on 9/30/09, and for the management of the DNS to transfer from 
+the MOU with the U.S. Government to the global community. 
+Whether it is fully able to meet its mandates and the goals of 
+stability, competition, bottom-up coordination, security, and 
+broad representation, as well as transparency. There seem to be 
+many concerns that it is not ready, and we need to determine if 
+this is just a fear of the risks that any change would bring, 
+whether they are legitimate concerns that still need to be 
+addressed first, as some panelists will suggest.
+    I am particularly interested in the bottom-up coordination 
+and, of course, security, as well as understanding whether the 
+projected plans ICANN has are not only realistic, but 
+responsible, and whether or not they jeopardize stability and 
+security.
+    I want to applaud our chair and ranking member once again 
+for the excellent oversight on yet another pressing issue, and 
+look forward to the testimony that will be presented.
+    Thank you, everyone, for being here and sharing your views 
+with us on this issue.
+    Mr. Boucher. Thank you, Mrs. Christensen. The gentlelady 
+from Tennessee, Mrs. Blackburn, is recognized for two minutes. 
+She was here a moment ago. All right, we will await her arrival 
+at a later time. The gentleman from Nebraska, Mr. Terry, is 
+recognized for two minutes.
+
+   OPENING STATEMENT OF HON. LEE TERRY, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF NEBRASKA
+
+    Mr. Terry. Thank you, Mr. Chairman, and appreciate you 
+holding this hearing on what I believe could actually be a 
+matter of national security.
+    ICANN serves a very important role in being responsible for 
+managing the domain name system which, as you know, is the 
+hierarchy of IP addresses and associated domain names that 
+enable Internet users around the globe to communicate with each 
+other.
+    This interconnectedness that allows us to communicate with 
+one another is the reason that ICANN should renew the Joint 
+Project Agreement, or sign a similar agreement when the current 
+agreement expires later this year. The goals of the JPA should 
+continue to work towards increasing ICANN's transparency, 
+accountability, and openness, while developing mechanisms and 
+procedures to transition the domain name system functions to 
+the private sector, in a manner that promotes stability, 
+security, competition, bottom-up coordination, and 
+representation.
+    Should a rogue nation get the chance to control the DNS, it 
+is a definite possibility that they could use it to harm the 
+U.S., or to dismantle and interfere with our ability to 
+communicate globally through the Internet. I would hope that my 
+colleagues would join me in saying that, quite simply put, the 
+United States Government created the Internet, and it needs to 
+be in charge, as it could very well be vital to our Nation's 
+security.
+    Thank you, Mr. Chairman, and I yield back my time.
+    Mr. Boucher. Thank you very much, Mr. Terry. The gentlelady 
+from Florida, Ms. Castor, is recognized for two minutes.
+    Ms. Castor. Well, thank you, Mr. Chairman, very much for 
+calling this interesting hearing on the Internet Corporation 
+for Assigned Names and Numbers.
+    I appreciate the witnesses' willingness to be here today to 
+discuss these important business issues and consumer issues, 
+and how we continue to modernize the Internet. I yield back the 
+rest of my time.
+    Mr. Boucher. Thank you very much, Ms. Castor. The gentleman 
+from Michigan, Mr. Upton, is recognized for two minutes.
+    Mr. Upton. Thank you, Mr. Chairman. I would just like to 
+say that I, too, join many of my colleagues, hoping that the 
+JPA can be extended in a timely fashion, and I look forward to 
+being a partner in that, and I believe that it will be 
+certainly a bipartisan one as well.
+    Since we have Ms. Alexander here, we have a pretty big date 
+coming up, on a little bit more than a week away here, and you 
+may expect to have some questions on the transition to digital, 
+just to see where we are. I know a lot of Americans are 
+concerned about that, and don't have quite the publicity we had 
+back in February, but we all hope that it will be a pretty 
+smooth transition, and we look forward to your thoughts about 
+that as well.
+    Mr. Chairman, I yield back.
+    Mr. Boucher. Thank you very much, Mr. Upton. The gentlelady 
+from California, Ms. Matsui, is recognized for two minutes.
+
+OPENING STATEMENT OF HON. DORIS O. MATSUI, A REPRESENTATIVE IN 
+             CONGRESS FROM THE STATE OF CALIFORNIA
+
+    Ms. Matsui. Thank you, Mr. Chairman. Thank you for calling 
+today's hearing. I applaud your leadership in addressing this 
+important issue. I would also like to thank our panelists for 
+being with us here this morning.
+    As we all know, ICANN was created in 1998 to govern the 
+allocation and designation of Internet domain names and 
+addresses. Although certain responsibilities for the domain 
+name system were transferred from the Department of Commerce to 
+ICANN, Department of Commerce continues to exercise limited 
+oversight of ICANN, through the Joint Project Agreement. Under 
+this Agreement, the Department of Commerce affirmed its policy 
+goals of preserving the security and stability of the Internet 
+domain name system. This agreement is now set to expire on 
+September 30 of this year.
+    While I understand some of the reasons that ICANN does not 
+want to extend the JPA agreement, such as how the U.S. role is 
+viewed abroad, now may not be the time to say that ICANN should 
+be on its own. Just last year, NTIA initiated a review of the 
+agreement, and found that although ICANN has made progress in 
+key areas concerning security and stability of the domain name 
+system, important work still remains. We must ensure the 
+Internet domain system is transparent, accountable, and has a 
+strong governance structure. Moving forward, I urge the 
+Administration to carefully consider its agreement and 
+partnership with ICANN.
+    I thank you, Mr. Chairman, for holding this important 
+hearing today, and I yield back the balance of my time.
+    Mr. Boucher. Thank you very much, Ms. Matsui. Ms. Blackburn 
+hasn't returned. The gentleman from the State of Washington, 
+Mr. Inslee, is recognized for two minutes.
+    Mr. Inslee. Thank you. I will reserve. Thank you, Mr. 
+Chair.
+    Mr. Boucher. Thank you, Mr. Inslee. You will have two 
+minutes of time added to your questioning period.
+    The gentleman from California, Mr. McNerney, is recognized 
+for two minutes.
+    Mr. McNerney. Thank you, Mr. Chairman.
+    This is an interesting and important hearing, so I am 
+looking forward to it. It is important that we work together, 
+to ensure that we have a fair and transparent system, 
+maintaining and improving the Internet, in order to avoid 
+potential difficulties. It is essential that we keep the 
+Internet accessible and easily navigated to all, and I look 
+forward to the testimony this morning.
+    Thank you.
+    Mr. Boucher. Thank you, Mr. McNerney. The gentlelady from 
+California, Ms. Eshoo, is recognized for two minutes.
+
+ OPENING STATEMENT OF HON. ANNA G. ESHOO, A REPRESENTATIVE IN 
+             CONGRESS FROM THE STATE OF CALIFORNIA
+
+    Ms. Eshoo. Thank you, Mr. Chairman, and good morning to all 
+of the witnesses.
+    Like any new organization, ICANN has gone through its share 
+of growing pains, and since it was created 11 years ago, it has 
+been a target for criticism among the global Internet 
+community.
+    I will have some questions today about the operation, and 
+where you are right now, but I do think that progress has been 
+made, and on the other hand, that many of the concerns, I 
+think, have been appropriate, and ICANN continues to develop 
+itself, and to do the thorough oversight over the technical and 
+administrative functions under its jurisdiction, and that is a 
+plus.
+    I think that you have been successful in introducing 
+competition to both the retail and the wholesale domain name 
+business, added a whole new host of Internet domains, and 
+stepped in to ensure that the country code top-level domains 
+are properly designated.
+    I think the most important and heavily trafficked domains, 
+.com and .net, are operated by VeriSign, a company 
+headquartered in my district in Mountain View, California, and 
+I know that Mr. Silva is here today, and I welcome him. 
+VeriSign has maintained a 100 percent uptime for .com. It has 
+never failed. That is something in and of itself, so to be 
+congratulated for that.
+    It is important to remember that ICANN was founded in a 
+response to growing concerns about U.S. domination of the 
+Internet, and today, I think many countries believe the U.S. 
+continues to exert undue influence over ICANN and the 
+administrative functions of the Internet, and we can talk about 
+that.
+    But I understand the concerns about this whole issue of 
+excessive U.S. control over Internet governance, but the 
+alternative right now, I think is clearly unacceptable. ICANN 
+doesn't have the independent authority and the governance 
+structure to prevent other governments from using power over 
+the DNS to interfere with innovation, competition, and freedom 
+of expression.
+    So, I look forward to the discussion and the questions that 
+I will ask, as well as my colleagues, and welcome all of you 
+here, and I thank the chairman for having you here today, 
+because I think it is important that you are.
+    Yield back.
+    Mr. Boucher. Thank you very much, Ms. Eshoo. The gentlelady 
+from Tennessee, Mrs. Blackburn, is recognized for two minutes.
+
+OPENING STATEMENT OF HON. MARSHA BLACKBURN, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF TENNESSEE
+
+    Ms. Blackburn. Thank you, Mr. Chairman. I do thank you for 
+the hearing today, and for our witnesses, welcome. We are 
+delighted that you are here with us, as we do have multiple 
+hearings going on this morning. So, we are going to be jumping 
+up and down and in and out, but please excuse us for that.
+    Few international organizations quietly wield the power in 
+the global community that ICANN currently wields. While most 
+Americans have probably never heard of ICANN, it is this 
+California-based organization, which is a nonprofit, and that 
+is responsible for the management and the assignment of 
+virtually IP address and domain name worldwide. Wow. That is 
+the growing side of things. It is an enormous responsibility to 
+be overseen by a nongovernmental organization. That reason 
+alone necessitates this committee's time and attention to 
+provide proper oversight, notwithstanding the fact that our 
+government's only functional tool for overseeing ICANN 
+activities stems from the JPA. And that does expire on 
+September 30, which brings us to today.
+    Now, there is a letter from Chairman Thrush, the January 25 
+letter, in which he states that ICANN does not believe it 
+should answer directly to the U.S. Government, and that the 
+Memorandum of Understanding it signed in November '08 is no 
+longer necessary, and I am quoting from that letter.
+    Now, many disagree, and believe that additional oversight, 
+not less, is necessary to provide a check and balance regarding 
+decisions made by an international organization comprised of 
+unelected officials. The Internet, and this is what is so 
+interesting to me, and I think it is really exciting, when you 
+look at commerce and the growth of, especially small business 
+commerce. The Internet consists of 174 million Web sites, 570 
+million computers, and more than 1.5 billion users. 
+Coordination of this intricate web necessitates transparent 
+decision-making, technical expertise, and evenhanded 
+governance. Only U.S. sponsored oversight for a body tasked 
+with overseeing the domain name and IP address system, for 
+which ICANN is responsible, can ensure the Internet's continued 
+viability and fairness, as Twenty First Century Internet 
+architecture evolves.
+    It is, therefore, imperative for the U.S. Government to 
+remain integrally linked to the organization, thereby securing 
+the historic role, American role in the development and 
+commercial governance of the Internet architecture.
+    So, we are looking forward to hearing from you, and working 
+with you, and Mr. Chairman, I yield back.
+    Mr. Boucher. Thank you very much, Mrs. Blackburn. The 
+gentleman from Michigan, Mr. Dingell, Chairman Emeritus of the 
+full committee, is recognized for five minutes.
+
+OPENING STATEMENT OF HON. JOHN D. DINGELL, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF MICHIGAN
+
+    Mr. Dingell. Mr. Chairman, I thank you for your courtesy. I 
+comment your for this hearing. It is very much needed. It is 
+not a new issue.
+    At issue today are a number of matters related to oversight 
+of the Internet Corporation for Assigned Names and Numbers, 
+ICANN. In particular, we will examine the pending expiration of 
+the Joint Project Agreement, JPA, between National 
+Telecommunications and Information Agency, NTIA, and ICANN, 
+ICANN's proposed plans to expand the number of available 
+generic top-level domains, GTLDs, and the future of ICANN's 
+contract with VeriSign for registration of the .com top-level 
+domain.
+    Each of these interesting issues requires a number of 
+careful considerations and ample participations by all affected 
+stakeholders, before any change in policy is either ratified or 
+understood. I am not satisfied that this has been the case with 
+the matters I have just mentioned, and this committee has had 
+troubles with these matters before. And I intend to ask such 
+questions of our witnesses as will enable us to get very frank 
+answers about all of them, and I urge my colleagues to do like.
+    Before, however, engaging in a substantive dialog with the 
+witnesses today, I would like to note the following. First, 
+with regard to the expiration of the JPA between NTIA and 
+ICANN, I wish to reiterate my insistence that ICANN remains far 
+from a model of effective and sustainable self-governance, and 
+I hope they are listening to that comment.
+    Legitimate concerns about the lack of fairness, 
+transparency, and accountability in ICANN's functionings 
+continue to be raised by stakeholders and the Internet 
+community. Particularly, in a time of increased cyberattacks on 
+the U.S. Government and domestic businesses, I find it wholly 
+unwise to reduce further the participation of the Federal 
+Government in determining the course of the Internet's future 
+development.
+    Similarly, and limited through the oversight NTIA exercises 
+over ICANN may be, given the recent observable effects of 
+deregulation and inadequate oversight on the economy, I believe 
+that here, we have an analogy. The JPA between NTIA and ICANN 
+should be extended.
+    Second, concerning GTLDs. I consider ICANN's attention to 
+the effect of dramatically increasing the number of available 
+GTLDs on competition, pricing, and consumer choice clearly 
+inadequate. Moreover, I have suspicions that expanding the 
+number of top-level domains could, in fact, give rise to 
+increased instances of fraud perpetrated on consumers, and the 
+practice of cybersquatting, an unhealthy and dangerous 
+situation.
+    Finally, I continue to maintain that ICANN's contract with 
+VeriSign for the registry of the ``.com'' domain is 
+characterized by a deplorable lack of transparency. If this is 
+not going to be a government undertaking, and is not going to 
+be adequately regulated, it has to be transparent, which it 
+clearly is not.
+    In brief, I have grave misgivings about the wisdom of 
+extending this contract after it expires in 2012, and I will 
+expect this hearing to produce some answers as to whether or 
+not that should be extended, and whether or not it needs to 
+have additional safeguards to assure that it is properly 
+extended, with proper transparency or, in the alternative, more 
+regulation.
+    Thank you for your courtesy, Mr. Chairman. I look forward 
+to a constructive discussion with our witnesses today, and in 
+answer to the questions which this committee has to ask.
+    Thank you.
+    Mr. Boucher. Thank you very much, Mr. Dingell. The 
+gentleman from Arizona, Mr. Shadegg, is recognized for two 
+minutes.
+
+OPENING STATEMENT OF HON. JOHN B. SHADEGG, A REPRESENTATIVE IN 
+               CONGRESS FROM THE STATE OF ARIZONA
+
+    Mr. Shadegg. Thank you, Mr. Chairman, and thank you for 
+holding this hearing today.
+    I want to welcome all of our witnesses, but I particularly 
+want to welcome to Washington the Go Daddy Group, and its 
+representative, Christine Jones, whom I have known and worked 
+with for many years. The Go Daddy Group plays an important role 
+in the economy of Arizona. They are a key component of our 
+business community, and they have, I think, great insight and 
+perspective in this particular topic, about which we are 
+discussing today. I welcome Ms. Jones, and look forward to her 
+testimony, along with that of the other witnesses.
+    ICANN has played a vital role in the development of the 
+Internet, and has carried a huge burden, but as has been 
+adequately expressed here, and I will be brief in my remarks, 
+there are certainly problems, and it is apparent that a great 
+deal of work needs to be done.
+    With the looming expiration of the Joint Project Agreement, 
+it is clear that a plan must be put in place to ensure the 
+security, stability, and viability of the Internet remains 
+intact. I applaud the work of ICANN to date, but I believe 
+there are areas, indeed, significant areas, for improvement.
+    Again, Mr. Chairman, I thank you for this hearing. I 
+believe it is important that we learn more about how ICANN 
+affects all of us, and both the key players in the Internet 
+world, but all Americans, all people around the world who use 
+the Internet, and I am interested in hearing how it affects the 
+organizations that are represented here today.
+    Again, I thank the witnesses, and I look forward to your 
+testimony.
+    Mr. Boucher. Thank you very much, Mr. Shadegg. The 
+gentleman from New York, Mr. Weiner, is recognized for two 
+minutes.
+    Mr. Weiner. Mr. Chairman, in the interests of hearing from 
+the panel, I will relinquish my time for opening statement.
+    Mr. Boucher. Thank you very much, Mr. Weiner.
+    We now turn to our panel of witnesses, and we welcome each 
+of them to the subcommittee this morning. I will just say a 
+brief word of introduction with respect to each.
+    Ms. Fiona Alexander is Associate Administrator in the 
+Office of International Affairs at the National 
+Telecommunications and Information Administration. In that 
+position, she is the primary liaison between the Department and 
+ICANN.
+    Dr. Paul Twomey is President and Chief Executive Officer of 
+ICANN.
+    Mr. Kenneth Silva is Senior Vice President and Chief 
+Technology Officer for VeriSign, the registry for the .com top-
+level domain.
+    Ms. Christine Jones is the General Counsel and Corporate 
+Secretary for Go Daddy.
+    Ms. Sarah Deutsch is Vice President and Associate General 
+Counsel for Verizon Communications.
+    And Dr. Thomas Lenard is President and Senior Fellow of the 
+Technology Policy Institute.
+    We welcome each of our witnesses, and without objection, 
+your prepared written statement will be made a part of the 
+record. We will welcome your oral summaries, and we would ask 
+that, in the interest of time and giving us plenty of 
+opportunity to question you, that you keep those oral summaries 
+to approximately five minutes.
+    Ms. Alexander, we will be pleased to begin with you.
+
+STATEMENTS OF FIONA ALEXANDER, ASSOCIATE ADMINISTRATOR, OFFICE 
+   OF INTERNATIONAL AFFAIRS, NATIONAL TELECOMMUNICATIONS AND 
+ INFORMATION ADMINISTRATION, U.S. DEPARTMENT OF COMMERCE; PAUL 
+TWOMEY, PRESIDENT AND CEO, ICANN; KENNETH J. SILVA, SENIOR VICE 
+PRESIDENT AND CHIEF TECHNOLOGY OFFICER, VERISIGN; CHRISTINE N. 
+ JONES, GENERAL COUNSEL AND CORPORATE SECRETARY, THE GO DADDY 
+   GROUP, INC.; SARAH DEUTSCH, VICE PRESIDENT AND ASSOCIATE 
+GENERAL COUNSEL, VERIZON COMMUNICATIONS; AND THOMAS M. LENARD, 
+PH.D., PRESIDENT AND SENIOR FELLOW, TECHNOLOGY POLICY INSTITUTE
+
+                  STATEMENT OF FIONA ALEXANDER
+
+    Ms. Alexander. Chairman Boucher, Ranking Member Stearns, 
+and members of the committee, thank you for this opportunity to 
+testify on behalf of the National----
+    Mr. Boucher. Ms. Alexander, if you could pull that 
+microphone slightly closer, and we can hear you better.
+    Ms. Alexander. Better?
+    Mr. Boucher. That is better, thank you.
+    Ms. Alexander. Chairman Boucher, Ranking Member Stearns, 
+and members of the subcommittee, thank you for this opportunity 
+to testify on behalf of the National Telecommunications and 
+Information Administration on issues related to the Internet's 
+domain name and addressing system.
+    The Internet has become a significant and important medium 
+for conducting research, communicating with others, and 
+conducting business. Given the Internet's importance in all of 
+these facets of daily life and the country's general economic 
+well being, it is essential that the Internet and its 
+underlying infrastructure remain stable and secure. 
+Consequently, the Department of Commerce takes very seriously 
+its responsibilities with respect to the Internet DNS, 
+including the Joint Project Agreement between the Department 
+and ICANN.
+    ICANN was created out of an effort to bring more 
+coordination and sustainability to the management of the 
+Internet DNS, as the Internet grew into a large scale global 
+network. A 1997 Executive Memorandum directed the Secretary of 
+Commerce to privatize Internet DNS in a manner that increases 
+competition and facilitates international participation in its 
+management.
+    In June 1998, the Department issued a statement of policy 
+on the privatization of the Internet DNS that concluded that 
+the core functions should be primarily performed through 
+private sector management. ICANN was formed by private sector 
+interests for this purpose, and in the fall of 1998, the 
+Department of Commerce entered into the Memorandum of 
+Understanding, or MoU, with ICANN.
+    The MoU did not simply turn over management of the DNS to 
+ICANN. Rather, the purpose of this agreement was to design, 
+develop, and test mechanisms, methods, and procedures to ensure 
+that the private sector has the capability and the resources to 
+assume important responsibilities related to the technical 
+coordination and management of the DNS. This Agreement does not 
+give the Department of Commerce the ability to exercise 
+oversight in the traditional context of regulation, and we play 
+no role in the internal governance or day to day operations of 
+ICANN.
+    Since 1998, the MoU has evolved through several iterations 
+and revisions, as ICANN tested these principles, learned 
+valuable lessons, and matured as an organization. In 2006, NTIA 
+and ICANN signed a Joint Project Agreement extending the 
+current MoU for three more years, until September 30 of this 
+year. In anticipation of the September 30 expiration of the 
+JPA, NTIA released a Notice of Inquiry on April 24, seeking 
+comments regarding the progress of the transition, as well as a 
+model of private sector leadership and bottom-up policy 
+development which ICANN represents. The comment process for 
+this docket closes on Monday, June 8.
+    The Department's commitment to preserving the security and 
+stability of the Internet DNS, and the public record developed 
+as a result of this comment process, will inform any decision 
+about the JPA's future. It is important to note, however, that 
+regardless of whether the JPA is terminated, modified, or 
+extended, the Department, through NTIA, will continue to be an 
+active participant in ICANN, by representing the United States 
+Government in ICANN's Governmental Advisory Committee, and by 
+filing comments as appropriate in ICANN's various public 
+consultation processes.
+    In addition, the Department's relationship with ICANN will 
+continue, as ICANN currently performs the Internet Assigned 
+Numbers Authority functions under contract to the Department.
+    In addition to important institutional confidence issues 
+associated with the JPA, the Department is actively engaged in 
+discussion with stakeholders related to the introduction of new 
+generic top-level domain names, or GTLDs. The Department 
+acknowledges that the introduction of new GTLDs has been a 
+longstanding goal of the JPA relationship, and that, subject to 
+ongoing public consultation process at ICANN. The Department, 
+in coordination with an interagency group has, in fact, filed 
+public comments in this consultation, asking the threshold 
+question of whether the potential consumer benefits outweigh 
+the potential costs as a result of this exercise, and have been 
+adequately addressed and determined, and recommending further 
+economic study of the issue is called for by the ICANN Board.
+    The Department also identified a series of initial items 
+that needed to be resolved prior to moving forward, including 
+expanding the marketplace before effective and meaningful tools 
+are in place to protect consumers and brand owners, as well as 
+the need to preserve the security and stability of the DNS.
+    The Department believes it is critical to keep in mind the 
+core principle, as articulated in the very first MoU, of the 
+need to manage the Internet DNS in a manner that permits market 
+mechanisms to support competition and consumer choice, so that 
+lower costs are realized, innovation is promoted, and user 
+choice and satisfaction are enhanced.
+    Lastly, I would like this opportunity to update the 
+committee on our efforts to improve the security of the DNS. I 
+am happy to report that NTIA and its roots and management 
+partners, ICANN and VeriSign, recently reached agreement to 
+move forward with an interim approach to the deployment of the 
+security technology known as Domain Name System Security 
+Extensions, or DNSSEC, at the root zone level. This action is 
+an important step toward protecting the integrity of DNS data, 
+and mitigating attacks such as cache poisoning or other data 
+modification threats.
+    Given the importance of the Internet as a global medium to 
+support economic growth and innovation, continuing to preserve 
+the security and stability of the Internet DNS will guide any 
+decisions that the Department of Commerce makes with respect to 
+its future relationship with ICANN.
+    NTIA looks forward to working with you, members of the 
+committee, and the Congress on this important issue, as the 
+September 30, 2009 JPA expiration date approaches.
+    Thank you again, Mr. Chairman, for this opportunity to 
+testify this morning, and I will be happy to answer your 
+questions.
+    [The prepared statement of Ms. Alexander follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.001
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.002
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.003
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.004
+    
+    Mr. Boucher. Thank you, Ms. Alexander. Dr. Twomey.
+
+                    STATEMENT OF PAUL TWOMEY
+
+    Mr. Twomey. Thank you, Chairman Boucher, Ranking Member 
+Stearns, and esteemed members of the committee. Thank you for 
+this opportunity to appear before you today, and to speak about 
+the Joint Project Agreement conclusion and new generic top-
+level domains.
+    The Joint Project Agreement, Memorandum of Understanding 
+process has helped to grow ICANN to be a remarkable success 
+story. The unique U.S. Government/ICANN relationship has been, 
+is, and will continue to be critically important to ICANN's 
+success. The original Memorandum of Understanding used the word 
+``test'' when it was commenced almost 11 years ago.
+    It was a test of whether a multi-stakeholder, private 
+sector-led, California-based not for profit corporation could 
+perform a narrow but crucial technical coordination function. 
+After those 11 years, ICANN is a success for U.S.-based 
+organization with global support and participation. It has been 
+key to supporting a single, interoperable Internet on which 1.5 
+billion rely. In simple terms, it works. It has passed the 
+test.
+    Like other organizations, it must continually improve 
+itself, but unlike many, this organization has continual 
+improvement written into its bylaws. It also has an assertive 
+community that keeps driving us to improve, and will never 
+allow us to stop striving for the best that we can be. We are 
+not seeking less accountability to this multi-stakeholder 
+community. We want more.
+    The question at hand is how to ensure that what works is 
+made permanent. One thing the Joint Project Agreement is 
+clearly not is an oversight mechanism. Now, Ms. Alexander has 
+just pointed out again that the Department of Commerce has 
+consistently said that the JPA is not an oversight agreement.
+    Chairman Boucher, you made the point in your introductions 
+about the IANA contract, the procurement contract. This is the 
+key instrument for oversight from the United States Government, 
+and I think you already, potentially, have some 
+misapprehensions about the difference between the Joint Project 
+Agreement and the IANA contract, is something we should 
+explore.
+    What we have been working together on for 11 years, with 
+advice from the United States Government, is a model all about 
+private sector bottom-up partnership with guidance from 
+government. This is the time to have confidence to state this 
+model works. Any new instrument, no matter how temporary, 
+implicitly says that we, the United States Government and ICANN 
+don't have the confidence in that model. That will cause the 
+international community to continue to look for alternatives. 
+Indeed, with the mere speculation as to the possibility of 
+renewal, they already are.
+    If the U.S. does not have the confidence in a private 
+sector-led model, we should not expect other governments to 
+have confidence in the model. If we continue to question the 
+private sector-led community's ability to lead itself through 
+the ICANN model, we should expect ongoing challenges and 
+alternatives from others.
+    A hypothetical eighth temporary agreement would suggest 
+that the basic principles are open to debate. Across the global 
+technical registry and governments community, the question I 
+get posed regularly is does the United States Government agree 
+with and have confidence in the private sector-led model? If 
+the answer is yes, still yes, then let us confirm that and 
+enshrine it.
+    A more permanent approach, that enshrines what is working, 
+is vital. As the JPA concludes, the Department of Commerce and 
+ICANN should use that opportunity to commit ICANN to retain a 
+narrow mission, remain based in the United States, remain a not 
+for profit, remain an independent organization, as it has been 
+for almost 11 years, remain private sector, multi-stakeholder 
+led, with international support, remain committed to continuous 
+improvement, reinforcing that the IANA contract is the source 
+of oversight, where responsibility for the global coordination 
+of the DNS root, IP addressing, and other resources is found. 
+None of these should rely on any temporary agreement, and being 
+a California-based organization ensures ICANN is subject to 
+Congressional oversight and U.S. legal process.
+    Let me speak briefly to the issues of generic top-level 
+domains, that portion of an Internet address that is to right 
+of the dots, such as .com or .org. Currently, there are 21 
+GTLDs. ICANN is currently deciding how to lift that artificial 
+limit. There are crucial concerns about trademark and 
+intellectual property protections, once the expansion of GTLDs 
+begins, if that is decided.
+    We have heard those concerns, and we are acting to fix 
+them. The ICANN Board has invited those who have voiced concern 
+to give us solutions before we open up the application process. 
+We have already received the recommendations. We are focusing 
+on other concerns as well, to do with malicious behavior, 
+security, and demand. And I can assure members of the committee 
+that we will not move forward with any progress in 
+implementation until we have addressed these issues. We will 
+get it right. We will not rush the answer.
+    We are often asked why are we expanding the top-level 
+domain space. First, we were asked to by the community and the 
+United States Government. It was called for in the white paper 
+that foreshadowed ICANN, and it is in the JPA.
+    Second, there is demand. Geographic names like .nyc and 
+.berlin are being proposed, along with others like .sport, 
+.eco, and .green. Finally, billions of non-English speakers 
+want to see top-level domains look like their language. It is 
+not ICANN's role to set artificial and arbitrary limits on 
+innovation and community use of a public resource. Simply, 
+competition in the domain space is embedded in our values and 
+our bylaws.
+    So, in conclusion, it is no surprise that the ICANN model 
+is producing opportunities for choice, commerce, and individual 
+expression, and doing so, while being attentive to our core 
+mission, security, and stability.
+    The United States Government has imbued these values into 
+the ICANN model, and ICANN is made all the stronger for that.
+    Thank you for inviting me, and I would be happy to take any 
+questions.
+    [The prepared statement of Dr. Twomey follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.005
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.006
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.007
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.008
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.009
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.010
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.011
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.012
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.013
+    
+    Mr. Boucher. Thank you very much, Dr. Twomey. Mr. Silva.
+
+                 STATEMENT OF KENNETH J. SILVA
+
+    Mr. Silva. Good morning, Chairman Boucher, Ranking Member 
+Stearns, and other distinguished members of the subcommittee. 
+My name is Ken Silva, and I serve as the Chief Technology 
+Officer for VeriSign.
+    Thank you for the opportunity to testify today. VeriSign 
+operates digital infrastructure that enables and protects 
+billions of interactions every day across the world's voice and 
+data networks. The company is headquartered in Mountain View, 
+California. We have additional offices in Virginia, Delaware, 
+and Massachusetts. Because our responsibility is global, we are 
+also in 30 different countries.
+    At a time of economic challenges and uncertainty, it would 
+be easy to focus on the many pressing near-term issues that 
+affect our Nation, but it is critical that we also focus on the 
+Internet, because the infrastructure is not only integral to 
+the economic recovery of our country, but our national security 
+as well.
+    As the operator of the .com and .net domain registries, as 
+well as the steward for 2 of the 13 root servers that serve as 
+the nerve center of the Internet, VeriSign understands what it 
+is at stake. Over the last 10 years, VeriSign has operated its 
+infrastructure with 100 percent uptime. In other words, the 
+systems that ensure the Internet is functional have never gone 
+down. But the Internet is not a static system. It is a dynamic 
+network of networks that continues to change.
+    It is growing dramatically overseas, raising questions 
+about its future governance, and the role of nations who do not 
+share our values about freedom of expression, content, and 
+commerce. It is increasingly relied upon by citizens, 
+businesses, organizations, and governments, raising questions 
+about whether it can continue to scale to meet the needs of 
+over 2 billion users in the future.
+    It is a target of attacks that expand exponentially in 
+volume, scope, and sophistication, raising questions about 
+whether enough is being done to protect those critical networks 
+that serve as the lifeline for commerce and communications. 
+Recent incidents in China, India, Pakistan, and Estonia 
+underscore that importance.
+    I would like to address three challenges in my testimony: 
+Internet governance, scaling of the Internet, securing the 
+Internet.
+    With respect to Internet governance, when it became clear 
+that the Internet would have a profound impact on every facet 
+of society, the Clinton Administration took the lead in 
+establishing ICANN to serve as the technical coordinating body. 
+The Department of Commerce was given the task of helping guide 
+ICANN and provide a governmental backstop. We must consider how 
+to ensure that the Internet and the community that guides it 
+are insulated as much as possible from domestic political 
+pressures, or the goals of those in the world who want to 
+restrict what has made the Internet so dynamic, namely, its 
+innovative force and capacity to create businesses and jobs.
+    With that, we look forward to the outcome of the 
+discussions between ICANN and the Department of Commerce over 
+the JPA, particularly as it relates to its impact on the 
+security and stability of the Internet and its responsible 
+stewardship.
+    From our point of view, while ICANN has continued to make 
+progress in certain areas, the basic circumstances giving rise 
+to widespread community concerns over an expiration of the JPA 
+remain largely unanswered. The overall goal in this process 
+must be the strengthening of the security and stability of the 
+Internet.
+    With respect to scaling the Internet, because .com and .net 
+never go down, users and even some companies who rely on it for 
+their business model take it for granted, but VeriSign, other 
+private sector players, and government cannot. We must 
+continually invest and work to improve in its capacity. To keep 
+up with the demand, VeriSign systems that manage .com and .net 
+traffic can now handle more than 10,000 times the query volume 
+that they could handle in 2000. To put that in perspective, 
+that increase is about 600 times greater than Moore's Law, the 
+theory that computing power doubles every 18 months. VeriSign's 
+systems handle more than 50 billion queries a day, and that is 
+a 67 percent increase in just two years. Our investments 
+include increasing capacity to support up to 4 trillion queries 
+per day.
+    We all know that the Internet that we use today is far 
+different than it was 10 years ago, and we know that 10 years 
+from now, it will be dramatically different than it is today. 
+That is why VeriSign is continually investing and looking into 
+strengthening that infrastructure that we all rely upon.
+    With respect to securing the Internet, we are pleased that 
+President Obama's cybersecurity czar will sit at the National 
+Economic Council and the National Security Council, as it 
+underscores the threat that cybersecurity attacks pose to our 
+Nation. As CTO, I have had to identify and manage attacks every 
+day. Cybercriminals cleverly manipulate the Internet's 
+advances, and the increased bandwidth and computing power 
+available to them literally gives hackers more ammunition to 
+utilize against the infrastructure.
+    There are many issues that we must address as an Internet 
+community. We must continue to invest and deploy infrastructure 
+upgrades such as DNSSEC and IP version 6, in a way that is 
+least disruptive to Internet users, developers, businesses, and 
+governments. We must continue to work together to invest and 
+develop in the infrastructure, so that it can continue its role 
+as a platform for commerce and communications.
+    I know that VeriSign, ICANN, and the rest of the Internet 
+community will work diligently to ensure that the 
+infrastructure remains reliable and secure.
+    I thank you very much for your time, Mr. Chairman.
+    [The prepared statement of Mr. Silva follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.014
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.015
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.016
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.017
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.018
+    
+    Mr. Boucher. Thank you very much, Mr. Silva. Ms. Jones.
+
+                STATEMENT OF CHRISTINE N. JONES
+
+    Ms. Jones. Chairman Boucher, Ranking Member Stearns, and 
+members of the committee, I am Christine Jones. I am from Go 
+Daddy.
+    At the outset, I would like to thank you, Chairman Boucher, 
+for all of your work, and the committee's work, and for holding 
+this hearing. We are happy to be here with ICANN and VeriSign. 
+We are ICANN's largest registrar benefactor and VeriSign's 
+largest customer, so we are always happy to participate with 
+them.
+    As the world's largest registrar, Go Daddy works daily with 
+ICANN, in its role as the coordinating body for the Internet. 
+We believe it is essential for world commerce, as well as the 
+security and the stability of the Internet, that the 
+relationship between the NTIA and ICANN be continued, along 
+with appropriate improvements in accountability, transparency, 
+and democracy in governing principles.
+    Continuing the JPA between ICANN and the NTIA will not only 
+provide the framework for ensuring a continued focus on 
+Internet security and stability issues, but will prevent ICANN 
+from vulnerability to capture by another government, 
+international organization, or business that does not have an 
+open, secure and stable Internet as its top priority.
+    On the renewal of the JPA, the DNS white paper, first 
+published back in 1998, articulated that principles of 
+accountability, competition, private bottom-up coordination and 
+representation are necessary for guiding the transition to a 
+private sector management of Internet DNS.
+    We believe those principles, even 11 years later, remain 
+relevant. ICANN has made great progress toward achieving some, 
+but not all, of these goals. Specifically, ICANN has not yet 
+achieved competition, nor the private bottom-up coordination 
+and representation called for in the ICANN bylaws. We believe 
+the renewed JPA must be revised to include openness and 
+transparency as overall guiding principles, if we are ever to 
+see an effective transition of Internet DNS management to the 
+private sector through ICANN. And of course, we would be happy 
+to be involved in the process of determining appropriate 
+revisions to the JPA, if such assistance would be helpful.
+    I want to talk about the extension of the JPA that you 
+mentioned, Mr. Chairman, for a minute. I want to reiterate, we 
+are in favor of renewal of the JPA between ICANN and the NTIA 
+for a multitude of reasons, not the least of which are a 
+failure to accomplish its mission and abide by its stated core 
+values, we believe ICANN will benefit from continued 
+relationship. But we are aware that both VeriSign's ex parte 
+letter and the recent letter from Senators Nelson and Snow 
+mention considering a one year extension of the current JPA. If 
+that arrangement would provide time to consider new or 
+additional terms of a renewed JPA, then we would support such 
+an extension as well.
+    On the new GTLDs, we are not opposed, Go Daddy is not 
+opposed to the concept of introducing new GTLDs. In fact, as 
+Mr. Twomey said, the community has been calling for that for 
+quite some time, but we have taken exception to the methodology 
+by which they have been introduced. Loud voices, from both the 
+intellectual property community and the registrant community 
+have been virtually ignored in this process, and ICANN can't 
+seem to establish a guideline by which the new GTLDs will be 
+chosen.
+    In the interests of time, I am going to defer the IP expert 
+on this panel to talk about GTLDs, but I would love to get back 
+to this, if anybody has questions on it.
+    I want to focus on security and stability, because like all 
+of us at this table and in this room, Go Daddy believes that 
+security and stability of the Internet is vital. Indeed, we 
+devote a considerable amount of time and resources to working 
+with law enforcement on preserving the integrity and safety of 
+the Internet, by quickly closing down Web sites and domain 
+names engaged in illegal activities. We work with law 
+enforcement agencies at all levels, and routinely assist in a 
+wide variety of criminal and civil investigations and, like our 
+friends at VeriSign, we respond to and fight cyberattacks on 
+our hosting, email, and domain name systems every single day. I 
+personally, and this company in general, have made it a high 
+priority to use our position as the world's largest registrar 
+to make the Internet a better and safer place, and we could not 
+agree more with President Obama's decision to make 
+cybersecurity and Internet privacy issues a top priority in his 
+Administration.
+    As the President said on Friday: ``America's economic 
+prosperity in the 21st century will depend on cybersecurity. 
+This is also a matter of public safety and national security. 
+It is now clear the cyberthreat is one of the most serious 
+economic and national security challenges we face as a 
+Nation.'' We wholeheartedly agree.
+    So, thank you again, Mr. Chairman, for holding this 
+hearing. We are in support, again, of the extension of the JPA.
+    I would be happy to answer any questions for you or other 
+members of the panel. Thank you.
+    [The prepared statement of Ms. Jones follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.019
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.020
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.021
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.022
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.023
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.024
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.025
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.026
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.027
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.028
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.029
+    
+    Mr. Boucher. Thank you very much, Ms. Jones. Ms. Deutsch, 
+we will be happy to hear from you.
+
+                   STATEMENT OF SARAH DEUTSCH
+
+    Ms. Deutsch. Chairman Boucher, Ranking Member Stearns, and 
+members of the subcommittee. Thanks for the opportunity to 
+participate in this important hearing addressing issues related 
+to ICANN.
+    Verizon supports ICANN. We wish to see it succeed as an 
+independent and accountable model of private sector leadership. 
+ICANN must be given the time and support it needs to make that 
+smooth transition.
+    My focus today is on ICANN's plans to expand the existing 
+domain name space. ICANN plans to accept as many as 500 initial 
+applications for new generic top-level domains, or GTLDs. I 
+will refer to GTLDs simply as names. In the future, there may 
+be unlimited number of new names. Future names could include 
+anything one could imagine, from .bank to .health to .congress. 
+ICANN financially benefits from this expansion. It will bring 
+in more than $90 million from the initial round of applications 
+alone. It will also collect ongoing fees of $75,000 per 
+applicant from manual renewals of each new name, and it 
+collects a $0.25 transaction fee from every domain name 
+registered.
+    As a result, however, businesses and consumers will face 
+higher costs. This isn't very helpful in the current economic 
+climate. Hundreds of diverse parties, including consumer 
+groups, business organizations, trademark owners, and Internet 
+security experts, have raised concern. ICANN has acknowledged 
+the many concerns, but it has not adequately addressed them. 
+Nevertheless, it plans to begin accepting applications for the 
+new TLDs starting in early 2010.
+    Verizon believes there are four fundamental concerns that 
+ICANN needs to address fully before commencing any introduction 
+of new TLDs. First, ICANN must complete an impartial and 
+comprehensive economic study of the domain name marketplace. 
+That study must explore whether there is even a need for so 
+many new names in the first place. ICANN's Board supported that 
+study in 2007, yet it was never undertaken.
+    Second, ICANN must ensure that consumers are adequately 
+protected from online confusion and fraud. If, as predicted, 
+there are more than 1,000 new names in the next three years, 
+consumers will be the victims of more online confusion, more 
+fraud, and more malicious activity. Consumers already have 
+difficulty today finding the legitimate Web sites they want to 
+reach, so consumers must be confident when they go to 
+verizon.phone, for example, that they have reached an 
+authorized Verizon Web site, versus one set up by a 
+cybersquatter or an international phishing scam.
+    Third, ICANN's rapid expansion may be at odds with its 
+responsibility to increase the long-term safety and stability 
+of the domain name system. ICANN may not have the ability to 
+manage such a rapid expansion.
+    Fourth, trademark and brand protection remain a critical 
+concern. Trademark protection, of course, is directly tied to 
+consumer protection. Trademarks help consumers reach the Web 
+sites and brands they know and trust. When users go online, 
+however, they can easily be confused or diverted, and 
+unfortunately, brands like Verizon, household brands, have been 
+targets for cybersquatters. Cybersquatters have registered tens 
+of thousands of variations of our trademarks over the past few 
+years, and here is a little stack.
+    You need to know that many of these cybersquatters are 
+ICANN-accredited registrars. They have set up large scale 
+operations, earning millions of dollars a year from their 
+illegal activities. To protect our customers, we have brought 
+many high profile lawsuits against ICANN registrars in recent 
+years. ICANN's registrars contractually agree to comply with 
+all laws, yet we have observed little, if any enforcement by 
+ICANN against registrars who are found to violate anti-
+cybersquatting laws.
+    We are very pleased that ICANN acknowledges the concerns 
+raised by trademark owners, by convening a small group of 
+experts to offer possible solutions to address cybersquatting 
+in an expanding GTLD space. We urge ICANN to adopt all these 
+proposals as a package, and continue to work with trademark 
+owners on improving them. Verizon has specific ideas for such 
+improvements, as discussed in our written statement.
+    In sum, any new TLD rollout must be delayed until all 
+threshold concerns are fully addressed. ICANN should proceed 
+slowly and cautiously in expanding the domain name space, to 
+protect the Internet and its users.
+    Finally, one note on the JPA. Numerous thoughtful 
+suggestions have been made to improve ICANN processes while 
+still preserving the model of private sector leadership. It is 
+important to allow sufficient time to consider and implement 
+these suggestions as well.
+    We commend the subcommittee for addressing this important 
+subject. Thanks again for the opportunity to testify.
+    [The prepared statement of Ms. Deutsch follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.030
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.031
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.032
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.033
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.034
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.035
+    
+    Mr. Boucher. Thank you very much, Ms. Deutsch. Dr. Lenard.
+
+                 STATEMENT OF THOMAS M. LENARD
+
+    Mr. Lenard. Thank you, Chairman Boucher, Ranking Member 
+Stearns.
+    Mr. Boucher. And Dr. Lenard, if you could turn on your 
+microphone and move it over, that would help us hear you.
+    Mr. Lenard. Thank you, Chairman Boucher, Ranking Member 
+Stearns, and members of the subcommittee. My name is Thomas 
+Lenard, and I am President and Senior Fellow at the Technology 
+Policy Institute.
+    TPI is a nonpartisan, nonprofit think tank that focuses on 
+the economics of innovation, technical change, and related 
+regulation in the United States and around the world. I 
+appreciate the opportunity to present my views on ICANN.
+    The expiration of the JPA this September provides a much 
+needed opportunity for a thorough evaluation of the structure, 
+governance, and mission of ICANN, and the subcommittee's 
+examination of these issues is very important.
+    One of those issues is ICANN's lack of accountability, 
+which is a recurring issue, and which is an issue that we 
+recently addressed in a study that was published by TPI, that I 
+co-authored with Professor Lawrence White of the NYU Stern 
+School of Business.
+    The problem of the lack of accountability is not an 
+indictment of ICANN's staff or leadership. It is simply a 
+function of ICANN's institutional design, its non-corporation 
+status, combined with the way it is funded and governed. 
+ICANN's customers have nowhere else to go. Its Board members 
+are not answerable to any shareholders, and its decisions can't 
+be appealed to any court in the way that regulatory decisions 
+in the U.S. routinely are. ICANN's funders, the registries and 
+the registrars, can't stop funding ICANN without going out of 
+business themselves.
+    To study ways in which ICANN could become more accountable, 
+we examined the structures of a number of organizations that 
+perform similar coordination and standard setting functions. We 
+learned a couple of things. First, none of the organizations we 
+considered operates with the independence that ICANN enjoys, 
+even under the current nominal oversight by the Department of 
+Commerce.
+    In addition, virtually all of these other organizations are 
+governed by their direct users, thereby building accountability 
+into their structures. We believe this would be a good model 
+for ICANN as well. The registries and the registrars have a 
+strong incentive to assure that ICANN fulfills its 
+responsibilities of managing the domain name system 
+efficiently, and this is in the interests of the businesses and 
+the consumers who are the Internet's end users. We recognize 
+that this proposal may be viewed as radical, but it has already 
+served to stimulate a discussion of ICANN governance issues 
+that otherwise might not have taken place.
+    Our study also addressed ICANN's mission. ICANN's scope 
+should be clearly delineated. It should hew closely to the 
+technical functions in administering the domain name system. 
+ICANN also, we believe, should have a clear mission of 
+encouraging competition and a minimal role as a regulator. This 
+means allowing relatively free entry into the market for GTLDs, 
+in order to bring the benefits of competition to consumers and, 
+as we have heard, ICANN is moving in that direction currently.
+    But as part of this, and in order for the, and really, for 
+the free entry of GTLDs to work well, protections for incumbent 
+domain name holders must be strengthened, so that they are not 
+subject to nuisance or ransom demands from new registries. 
+There needs to be a thorough examination of how this should be 
+done and who should do it. As was alluded to, ICANN is doing 
+that now, but ICANN is not particularly well equipped to be a 
+regulator, and probably not particularly well equipped to be an 
+adjudicator of intellectual property disputes.
+    Issues as important and complex as these merit a thorough 
+evaluation, which probably cannot be completed by September. 
+Therefore, we believe that the agreement with the Department of 
+Commerce should be extended in some form beyond its current 
+expiration, while reforms are being considered and, hopefully, 
+becoming established.
+    Reforming ICANN in a way that makes it truly accountable 
+and clearly defines its scope of operations will ultimately 
+make it feasible to end the JPA and, more importantly, ensure a 
+vibrant, innovative, and competitive Internet for the future.
+    Thank you very much.
+    [The prepared statement of Dr. Lenard follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.036
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.037
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.038
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.039
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.040
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.041
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.042
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.043
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.044
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.045
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.046
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.047
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.048
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.049
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.050
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.051
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.052
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.053
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.054
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.055
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.056
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.057
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.058
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.059
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.060
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.061
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.062
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.063
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.064
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.065
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.066
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.067
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.068
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.069
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.070
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.071
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.072
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.073
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.074
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.075
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.076
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.077
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.078
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.079
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.080
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.081
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.082
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.083
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.084
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.085
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.086
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.087
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.088
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.089
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.090
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.091
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.092
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.093
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.094
+    
+    Mr. Boucher. Thank you very much, Dr. Lenard. Thanks to all 
+of the witnesses for your informative comments this morning.
+    Dr. Twomey, we are pleased to have you with us today, and 
+thank you for taking the time to travel to Washington for 
+purposes of this hearing. I know that many of the members in 
+their questions are going to focus on the expiration of the 
+Joint Project Agreement, which occurs this September. So, I am 
+going to take my question time this morning to focus on some 
+other matters.
+    And the first thing I would like to ask you to do is 
+comment on the concerns that were raised by Ms. Deutsch, when 
+she talked about the tremendous volume of cybersquatting that 
+occurring, and mentioned that some of the companies engaged in 
+cybersquatting are actually accredited registrars, who have 
+been accredited by you.
+    And I would like to get your response to the concerns that 
+she has received, and an indication of what you are doing to 
+police that practice, and particularly, how you could propose 
+to engage in effective oversight and policing, not only with 
+regard to the existing top-level domains, but with the expanded 
+responsibilities that would come for oversight and policing if 
+you proliferate the number of TLDs, because that inevitably is 
+going to mean that companies have to acquire more second level 
+domains, and that incurs costs on their part, and the 
+opportunity for cybersquatting simply increases.
+    And so, according to Ms. Deutsch, today, cybersquatting is 
+not effectively being policed, and that leads to an even 
+heightened level of concern about how you would oversee and 
+police if the number of TLDs increases.
+    So, with that general question, we would welcome your 
+answer.
+    Mr. Twomey. Thank you, Mr. Chairman. We share the same 
+general concerns Ms. Deutsch outlined. There is validity, we 
+don't dispute the validity of some of these concerns, but we 
+also think there are mechanisms in place and mechanisms being 
+discussed to help address these issues.
+    Let me come, quite specifically to enforcement mechanisms 
+now. ICANN established and put in place now, I think eight 
+years ago, nine years ago, a process called the Uniform Dispute 
+Resolution Process, which is essentially a fairly cheap online 
+arbitration mechanism to allow contesting parties to determine 
+who should actually own a particular domain name.
+    One of the problems with cybersquatting is one person's 
+cybersquatter might be somebody else's true trademark, in the 
+sense that there are 180 something regimes, jurisdictions in 
+the world. There are some 48 trademark headings. I might be 
+getting the exact numbers wrong, but the key point is that 
+people can have multiple trademarks for different sorts of 
+companies in different parts of the world, who have got a claim 
+for a particular name. So, it is not ICANN's role to be an 
+intellectual property arbitrator. But we have actually put in 
+place a mechanism for that sort of arbitration, the World 
+Intellectual Property Organization and other entities offer 
+that arbitration, and I think so far, there has been some 
+36,000 decisions made under that regime we have incorporated to 
+help those issues presently at the second level.
+    There is a similar issue applies, then, at top-level 
+domains, and we have proposed that there would be a similar 
+arbitration that people could object to when a first 
+application was made, so that you could say no, I have got a 
+claim on that name, or that is related to me. And so, there is 
+an existing mechanism that is put forward for arbitration.
+    Thirdly, we are very much interested in these proposals put 
+forward recently by the intellectual property community at the 
+request of the ICANN Board, for looking at variations of 
+sunrise periods, single registration periods for companies who 
+want to be clear their famous names, et cetera. So, we are 
+actually looking to address this quite detailed. We would like 
+to hear the response more in the community for the proposals 
+they have put forward.
+    When it comes to the issue of enforcement of registrars, 
+which you have raised, we have significant resources dedicated 
+to enforcement. We have been, I think, if you look at the last 
+months, I think nearly every month, we have de-accredited 
+registrars for various breaches of their agreements, and this 
+issue of whether a registrar is actually performing blatant 
+cybersecurity or blatant cybersquatting activities is a matter 
+of, we would investigate quite closely.
+    But I would make the point on some cybersquatting issues, 
+that it is not our business to an arbitrator or an intellectual 
+property contention. We actually have that, if you like, a set 
+of independent arbitrators, for them to give us that advice.
+    Mr. Boucher. Ms. Deutsch, would you like to respond to 
+those comments, and I mean, you have heard how Dr. Twomey would 
+address the issue of cybersquatting, and he has defined current 
+practice.
+    To what extent is current practice not adequate?
+    Ms. Deutsch. First of all, we are not saying that it is 
+ICANN's role to arbitrate the proceedings. On the other hand, 
+it is its role to enforce against its registrars, and to my 
+knowledge, they haven't brought any action against a registrar. 
+These are registrars who have been found by federal courts, or 
+by this same World Intellectual Property Organization, 
+sometimes on hundreds of occasions, have been found to act in 
+bad faith. So, they have taken no action against them.
+    Mr. Boucher. Well, let me stop you at that point. Dr. 
+Twomey, what is your reply to that? Have you ever proceeded 
+against any of these certified registrars, because of their 
+activities?
+    Mr. Twomey. From my recollection, Chairman, we have 
+proceeded against registrars for those activities. Often, we 
+find, with a particular registrar, that if they are in breach 
+along those lines, they are in breach in other ways. And 
+sometimes, to move quickly on the de-accreditation process, we 
+have publicly moved on another breach.
+    If I can give you just a small example, and an easy example 
+you would understand, often we find registrars who might be at 
+the edge of such behavior, for instance, don't pay their fees. 
+And sometimes, it is easier simply to move on the failure to 
+pay a fee. We can clearly prove it very quickly, and move on 
+de-accreditation.
+    But I can report to you, in the compliance activity, this 
+particular issue is often examined, and that in a lot of the 
+conversations, communications with the registrars, particular 
+issues that is raised.
+    Mr. Boucher. Well, I find the issue of enforcement against 
+cybersquatting to be particularly troubling, and I think it 
+might be helpful to the subcommittee, because other members 
+have raised this concern as well.
+    If you would supply to us a letter that describes exactly 
+what you are doing in this area and, perhaps, without naming 
+particular registrars that you may have proceeded against, give 
+us at least some quantitative sense of the extent to which you 
+have addressed this concern. So, actual number of proceedings, 
+perhaps numbers of registrars that have been decertified where 
+cybersquatting, in fact, has been alleged. I think that would 
+be helpful.
+    My time has expired. We may, depending on how long this 
+first round takes, have a second round of questions. I do have 
+some additional ones.
+    But at this time, I want to recognize the gentleman from 
+Florida, Mr. Stearns, for five minutes.
+    Mr. Stearns. Thank you, Mr. Chairman.
+    Mr. Lenard, you had mentioned, in your opening statement, 
+some fees. I see here that registrars pay an application fee of 
+$2,500, annual accreditation fees of $4,000. You mentioned some 
+$75,000 fee, I thought. Did you mention that in your statement, 
+opening statement? Just put the mike on, if you would.
+    Mr. Lenard. It is not in the opening statement. It could be 
+in our report, but I would have to get back to you on that.
+    Mr. Stearns. Yes, Ms. Deutsch.
+    Ms. Deutsch. I mentioned it, I think.
+    Mr. Stearns. Yes, what was that for?
+    Ms. Deutsch. I think it is an annual renewal fee for the 
+new TLD applicants, so once they get awarded one of these 
+names, then every year thereafter, I understand they pay a 
+$75,000.
+    Mr. Stearns. That sounds pretty steep to me. Doesn't it 
+sound to you, Ms. Deutsch?
+    Now, Mr. Twomey, ICANN had a $7 million surplus in 2009, 
+and you added these new TLDs, you could generate another $90 
+million. Yet, you are a not for profit organization. Why don't 
+you take less profit and these fees, bring these fees down for 
+the registrars and for consumers, and operate as a not for 
+profit? You are operating a for profit corporation, and your 
+profits are going to balloon based upon these TLDs. So, why 
+aren't you folding, I mean, you are not building automobiles 
+here. You are trying to make it cheaper for people. Why aren't 
+these fees coming down?
+    Mr. Twomey. Thank you, Mr. Stearns. Perhaps I can clarify 
+some of the issues raised here.
+    ICANN is, as you said, a not for profit, and our focus is 
+to----
+    Mr. Stearns. No, you don't want to tell me that. Just tell 
+me----
+    Mr. Twomey. Sorry.
+    Mr. Stearns. Why can't you bring your fees down, if you 
+have got a $7 million profit?
+    Mr. Twomey. That is fine. Let me just talk to the point.
+    We are in the process of, our budgeting process is an open 
+process. We do it through the community. It is a bottom-up----
+    Mr. Stearns. What are you going to do with the $7 million 
+profit?
+    Mr. Twomey. And the $7 million process is a contribution to 
+a reserve fund.
+    Mr. Stearns. And why do you need a reserve fund if you are 
+a not for profit?
+    Mr. Twomey. We have taken advice from, if you look at most 
+nonprofits, that they have, all have some reserve fund.
+    Mr. Stearns. How big is your reserve fund going to be? How 
+big is it today?
+    Mr. Twomey. It is about $34 million.
+    Mr. Stearns. So, you have got $34 million, and you are 
+adding another $7 to it, that would bring it up to $41.
+    Mr. Twomey. And our aim is to bring it to one year's 
+operating expenses, and then stop the process of building the 
+reserve fund. So, we are not, and I can make the further point 
+that our, we have actually reduced our fees by 25 percent in 
+the last three years, in applications, and the $75,000----
+    Mr. Stearns. Ms. Deutsch, do you think their fees should be 
+brought down?
+    Ms. Deutsch. I do. I think they have----
+    Mr. Stearns. Mr. Lenard, what do you think?
+    Mr. Lenard. Yes. I mean, I think----
+    Mr. Stearns. Do you think they want to have, they are now 
+at $41 million surplus.
+    Mr. Lenard. I think, you know, an organization with an 
+assured source of income. It is not obvious to me why they need 
+a full year's----
+    Mr. Stearns. Now, Mr. Twomey, when I look at your annual 
+report, it looks like your salary is, you don't even take a 
+salary out of this. You arrange for Argo Pacific to be a 
+consultant, so that ICANN pays Argo Pacific your salary, then 
+you collect for them. Why do you do that? Why don't you collect 
+money like the CFO and everyone else in ICANN gets directly 
+from ICANN, but you seem to get it from a consultant. Why is 
+that?
+    Mr. Twomey. Congressman, I am an Australian citizen, and we 
+have arrangements with various parts of our employees who have 
+different mechanisms. When I was first asked to be President 
+and CEO, via decision of the Board, this was all decided by the 
+Board, not by me, was to contract with a company----
+    Mr. Stearns. That was their recommendation, then?
+    Mr. Twomey. That is right.
+    Mr. Stearns. And do you live in Marina del Rey?
+    Mr. Twomey. I live, my home is in Sydney, Australia.
+    Mr. Stearns. So, do you ever show up in ICANN's 
+headquarters?
+    Mr. Twomey. Yes. We have offices----
+    Mr. Stearns. I mean, do you work there 40 hours a week?
+    Mr. Twomey. I work more than 40 hours a week in various 
+ICANN offices.
+    Mr. Stearns. In Australia. But I mean, are you actually----
+    Mr. Twomey. No, I would in Australia less than one week out 
+of every four.
+    Mr. Stearns. When you do the exchange rate, what is the 
+total salary, including the health, retirement, saving, and 
+welfare benefits that you get when you do the exchange with 
+Australia. What is, in an Australian dollar----
+    Mr. Twomey. In Australian dollars, it is about $800,000 
+total.
+    Mr. Stearns. $800,000 is what you get. Well, my concern is, 
+and I don't have a lot of time here, but it seems to me that if 
+you are operating a not for profit, and you are paying a CEO, 
+like you, and a subcontractor out of a corporation, that your 
+job is to bring the cost down for the consumers and the 
+registrars, and I just, in light of the fact that Mr. Boucher 
+talked about the four things that Ms. Deutsch talked about, I 
+don't see you attacking these. You should take that $7 million, 
+and make sure these cybersquatters are gone. And she gives a 
+list there, it looked like about 10,000 cybersquatters. I mean, 
+why don't you take some of this surplus that you are getting 
+and do the job?
+    I think your job should be not just developing a surplus, 
+but actually implementing, making it cheaper for consumers, and 
+actually doing your mission, which is some of these four things 
+that Verizon has talked about.
+    Dr. Lenard, anything you would suggest more? I mean, this 
+idea that he is developing this huge surplus in this not for 
+profit organization. I mean, that just doesn't seem 
+appropriate, considering Ms. Deutsch talked about $75,000 for a 
+fee.
+    Mr. Lenard. Yes. I mean, I think it is related to the 
+general issue of accountability, and the fact that ICANN is 
+largely accountable to itself.
+    Mr. Stearns. So, it could make the surplus four times that 
+if it wanted. Yes, thank you, Mr. Chairman.
+    Mr. Boucher. Thank you very much, Mr. Stearns. The 
+gentleman from Michigan, Mr. Dingell, is recognized for five 
+minutes.
+    Mr. Dingell. Mr. Chairman, thank you. This question to the 
+panel, yes or no answer.
+    Ladies and gentlemen, the results of the midterm review of 
+the Joint Project Agreement between NTIA and ICANN, completed 
+in February '08, indicated that further work was required to 
+increase institutional confidence in ICANN. These areas 
+included long-term stability, accountability, responsiveness, 
+continued private sector leadership, stakeholder participation, 
+increased contract compliance, and enhanced competition.
+    Has ICANN, to date, adequately addressed these concerns? 
+Starting with Ms. Alexander, yes or no.
+    Ms. Alexander. Thank you very much, Congressman. Given that 
+we have an open proceeding on this----
+    Mr. Dingell. Just yes or no.
+    Ms. Alexander [continuing]. Particular issue, I am not in a 
+position to answer yes or no with the open proceeding.
+    Mr. Dingell. Next panelist, yes or no.
+    Mr. Twomey. I would say yes, in respect.
+    Mr. Dingell. Next panelist.
+    Mr. Silva. I would say no.
+    Mr. Dingell. Next panelist.
+    Ms. Jones. No, sir, Mr. Chairman.
+    Mr. Dingell. Thank you. Next panelist.
+    Ms. Deutsch. No, sir.
+    Mr. Lenard. No, sir.
+    Mr. Dingell. Ms. Alexander and the other panelists, again, 
+if the JPA terminates and is not extended, does NTIA, do you 
+have concerns about the ability of ICANN to ensure stability 
+and security on the Internet. Yes or no.
+    Ms. Alexander. Yes, thank you very much, Congressman. 
+Again, given the fact that we have an open proceeding----
+    Mr. Dingell. I am sorry, but my time is limited, and I have 
+got a pile of questions here.
+    Ms. Alexander. Thank you.
+    Mr. Dingell. Sir. Question.
+    Mr. Twomey. No, I think it has little impact.
+    Mr. Dingell. Next panelist.
+    Mr. Silva. I would say that I have concerns about the 
+security and stability.
+    Mr. Dingell. Next panelist.
+    Ms. Jones. Yes.
+    Mr. Dingell. Next panelist.
+    Ms. Deutsch. Yes.
+    Mr. Dingell. Next panelist.
+    Mr. Lenard. Yes.
+    Mr. Dingell. Now, recently, in view of reports that the 
+U.S. Government has been subject to cyberattacks from abroad, 
+do you believe that upon expiration of the JPA, the U.S. 
+Government will have adequate input into ICANN's efforts to 
+ensure the stability and the security of the Internet? Again, 
+yes or no, if you please.
+    Ms. Alexander. Thank you very much. Security and stability 
+will guide the Department of Commerce in all of these areas.
+    Mr. Dingell. Next panelist.
+    Mr. Twomey. Yes, comprehensively, because it is not covered 
+within the JPA details to start with.
+    Mr. Dingell. Thank you. Next panelist.
+    Mr. Silva. I don't know the answer to that definitively, 
+but I would share those concerns.
+    Mr. Dingell. Next panelist.
+    Ms. Jones. Yes, we would continue to have concerns there.
+    Mr. Dingell. Thank you. Next panelist.
+    Ms. Deutsch. We would, as well.
+    Mr. Lenard. I agree. We would have concerns.
+    Mr. Dingell. Now, NTIA, oh. This to Mr. Silva. As permitted 
+under its contract with ICANN, VeriSign raises prices that it 
+charged for the .com registry in 2007 and 2008.
+    For what reason did VeriSign do so?
+    Mr. Silva. Sir, specifically, these fee increases were used 
+to invest in the infrastructure, and to build that out. As a 
+matter of fact, we have publicly stated we created a project 
+called Project Titan, for which we are investing over $100 
+million and fortifying that infrastructure globally, not just 
+adding dots on a map, if you will, but also, increasing the 
+capacity to each of those locations.
+    When you look at some recent events, such as what happened 
+to Estonia, what has happened recently in China, specifically, 
+those were, part of those were DNS attacks, which were designed 
+specifically to take the entire country's economic system down. 
+We want to make sure that that doesn't happen to .com.
+    Mr. Dingell. Thank you. Similarly, does VeriSign plan to 
+raise its prices again in 2009? Yes or no.
+    Mr. Silva. That is, I am not in a position in the company 
+to answer that question yes or no.
+    Mr. Dingell. You can't.
+    Mr. Silva. That is not my role in the company.
+    Mr. Dingell. All right. Ms. Alexander, allegations have 
+been made that the six year contracts agreed upon in 2006, 
+between ICANN and VeriSign, for the registry of the domain 
+.com, suffers from lack of transparency.
+    Upon review, does the Department of Commerce share this 
+view? Yes or no.
+    Ms. Alexander. Thank you very much, Mr. Congressman. The 
+Department did, in fact, approve this agreement in 2006, after 
+consultation with the Department of Justice and other national 
+security agencies, and also, registrars, ISPs, and trade 
+associations.
+    Based on those consultations, we actually amended our 
+cooperative agreement with VeriSign, to retain the right to 
+approve any substantial modifications to those contracts going 
+forward.
+    Mr. Dingell. All right. Mr. Chairman, I have two more 
+questions I think are very useful here. Ms. Alexander, given 
+these allegations, does the Department intend to ratify another 
+agreement between ICANN and VeriSign on the expiration of the 
+current agreement? Yes or no.
+    Ms. Alexander. The agreement expires in 2012, and at that 
+time, when the information is furnished to the Department, we 
+will again, once again, conduct a fulsome review of that, 
+discussing it with the Department of Justice, other 
+stakeholders, and figuring out the best way forward.
+    Mr. Dingell. Thank you. Now, other panelists, if you 
+please. Let us return to the earlier question. Allegations have 
+been made that the six year contract agreed upon between ICANN 
+and VeriSign in 2006 lacks transparency.
+    Do you agree with that statement? Yes or no.
+    Mr. Twomey. The contract is on public record, so I don't 
+agree with it.
+    Mr. Silva. I don't agree with that statement.
+    Ms. Jones. We agree that the manner in which the contract 
+was negotiated lacks transparency, but inasmuch as the contract 
+has now been published and we know what it says, I guess it is 
+transparent now. We don't necessarily agree with the outcome.
+    Mr. Dingell. But it wasn't transparent earlier.
+    Ms. Jones. I am sorry.
+    Mr. Dingell. It wasn't transparent earlier.
+    Ms. Jones. That is correct.
+    Mr. Dingell. Next panelist.
+    Ms. Deutsch. I am unfortunately not an expert on that 
+particular question, so I don't know the answer.
+    Mr. Dingell. Next panelist, please.
+    Mr. Lenard. I am not an expert on that contract, either, 
+so----
+    Mr. Dingell. Mr. Chairman, I ask unanimous consent that I 
+be permitted to write a letter to the panelists, making further 
+inquiries, and that the record remain open, so that both that 
+letter and their response can be included in the record of the 
+day.
+    Mr. Boucher. Without objection.
+    Mr. Dingell. Thank you.
+    Mr. Boucher. And other members, I am sure, are going to 
+want to propound questions to you, as well. So, as you receive 
+those inquiries, making a prompt reply would be very helpful to 
+us.
+    And without objection, the record shall remain open until 
+replies are received.
+    The gentleman from Arizona, Mr. Shadegg, is recognized for 
+five minutes.
+    Mr. Shadegg. Thank you, Mr. Chairman.
+    Ms. Jones, I would like to begin with you. I believe you 
+testified that Go Daddy would like ICANN to operate in a more 
+transparent and accountable manner. How would you like to see 
+that happen, and do you believe the JPA can be strengthened to 
+achieve that goal?
+    Ms. Jones. I will answer your second question first. Yes.
+    Mr. Shadegg. OK.
+    Ms. Jones. There are a multitude of ways in which we think 
+accountability can be improved. I will give you an example. 
+ICANN holds three open board meetings a year. The rest of their 
+meetings of the Board are done in private.
+    We have repeatedly asked for those meetings to produce 
+transcripts. It is a very simple, black and white request. We 
+can't get it. A couple of days after they happen, we can get an 
+agenda, and a couple of days after that, we can get minutes, 
+but we would actually like to know what is going on in those 
+meetings. That would be an example.
+    The way they negotiate contracts with registries. We would 
+love to know what is going on in those meetings. Let us make 
+them accountable for the decisions they make, particularly as 
+they relate to the questions that Mr. Stearns asked about 
+prices, what they are doing with their money, line items in 
+their budget. I mean, we make requests for information, we 
+basically get stonewalled.
+    I could go on and on, but there are some basic, fundamental 
+things that we would like to see. All of that can be and will 
+be, if we have any input, written into the JPA in its new 
+version.
+    Mr. Shadegg. Does ICANN set the standards by which you 
+operate when you issue a name?
+    Ms. Jones. Generally. We are accredited by ICANN and then, 
+we operate with a contract with, for example, VeriSign, on a 
+.com. And ICANN, I think its mission is to be a coordinating 
+body. We don't expect them to issue rules, for example, about 
+what we would do with Internet content or domain name disputes, 
+because we don't decide the outcome of those disputes, but we 
+operate at their luxury. So, inasmuch as they are our 
+accrediting body, yes. They make the rules for us.
+    Mr. Shadegg. Dr. Twomey, can you tell me what steps ICANN 
+has taken to address the concerns raised during the JPA midterm 
+review that further work was needed to increase institutional 
+confidence in ICANN?
+    Mr. Twomey. Thank you, Congressman, and I appreciate your 
+question.
+    I have to say, in response to the last answer you heard, I 
+have got to be quite clear. It was just wrong. ICANN publishes 
+its agendas for all meetings, seven days before the meetings. 
+The Board meetings, their decisions are released within three 
+days, and within a couple of days after that, a full transcript 
+of the Board is released.
+    Mr. Shadegg. A full transcript of the Board meeting?
+    Mr. Twomey. A full transcript of the Board discussions. 
+Transcript of how, full details of the Board discussion.
+    Mr. Shadegg. Well, wait, wait. There is a difference 
+details and transcript. Is it a transcript, taken like a court 
+report, the gentleman here is taking right now, or is it a----
+    Mr. Twomey. It is a comprehensive set of minutes.
+    Mr. Shadegg. It is a set of minutes.
+    Mr. Twomey. It is a comprehensive set of minutes.
+    Mr. Shadegg. But it is not a transcript.
+    Mr. Twomey. But it is not this decision and that decision. 
+It is a full description of the----
+    Mr. Shadegg. I think we are familiar----
+    Mr. Twomey [continuing]. Of each Board member, so----
+    Mr. Shadegg. I think we are familiar with Board minutes 
+versus a transcript.
+    Mr. Twomey. No, I think----
+    Mr. Shadegg. And what Ms. Jones said was they would like a 
+transcript of the discussions that occurred, and the reasoning 
+that occurred, Board minutes summarize that, rather than 
+produce it in a word for word discussion.
+    Mr. Twomey. Congressman, I will be happy to share with you 
+examples, and I will send them to you for you to make that 
+judgment.
+    In terms of transparency, we have three minutes a year. We 
+have public meetings. We have the fully minute and posted Board 
+meetings. We translate all our documentation into the five of 
+the UN languages. We transcribe discussions at our meetings, 
+full transcripts at the meetings. We have 53 public 
+consultations in 2008. We had one every week.
+    We have an independent ombudsman. We have corporate blogs. 
+We have full public comment, to come to your question of 
+transparency. I think it is----
+    Mr. Shadegg. I think you are still trying to respond to my 
+question to Ms. Jones, and I asked you if ICANN had taken work, 
+or taken steps to increase confidence in, institutional 
+confidence in ICANN. I was asking you what steps you have 
+taken, and I don't believe--well, are these all steps you have 
+taken since that midterm review?
+    Mr. Twomey. Well, no, they are not. Many of these we had in 
+place, but we have taken more steps on transparency. We have 
+taken, we have produced in more detail our accountability, a 
+full description of our accountability processes. We have 
+improved, extensively, the participation, openness and 
+participation in meetings, to full online participation in all 
+meetings. We have, in, we have proposed now to amend our bylaws 
+to further expand our Internet, independent review mechanisms, 
+including basically setting up, expanding our Review Panel 
+processes.
+    So, there has been a series of steps. Again, I, they are 
+actually quite comprehensive, so I would be happy to respond to 
+those more in detail with you in writing.
+    Mr. Shadegg. Mr. Chairman, my time has expired, but I would 
+like to hear, I would like to allow the other panelists to 
+comment on the steps that ICANN has taken since the midterm 
+review. If there is anyone on the panel that would like to 
+comment on those steps.
+    Ms. Jones. I will comment.
+    So, again, we commend the progress that they have made. We 
+don't disagree that he is sitting on top of a numerous page 
+document that describes their accountability functions. That 
+they publish minutes, detailed minutes from their Board 
+meetings. I think I said that in my answer before, but we still 
+think, and we know from the current version of the JPA, that 
+there are goals articulated in that document that they have yet 
+to fulfill.
+    Has progress been made in the last 18 months? Is there more 
+room for progress to be made in the next 18 months? Absolutely. 
+And that is why we feel like an extension today and a renewed 
+version in the future will help define the progress that is yet 
+to be made in the future.
+    Mr. Shadegg. Anybody else like to comment? Yes, Doctor.
+    Mr. Lenard. The only thing I would observe is that I think, 
+although they get conflated in this discussion, I think there 
+is a big difference between transparency and accountability. 
+You can be very transparent and be totally unaccountable, and--
+--
+    Mr. Shadegg. Excellent point.
+    Mr. Lenard. The way we have viewed accountability in the 
+work we have done is basically accountability to some external 
+party, which you can be very transparent, and still not have 
+that, so----
+    Mr. Shadegg. Thank you very much.
+    Mr. Boucher. Thank you very much, Mr. Shadegg.
+    Mr. Shadegg. Thank you, Mr. Chairman.
+    Mr. Boucher. The gentlelady from the Virgin Islands, Mrs. 
+Christensen, is recognized for five minutes.
+    Mrs. Christensen. Thank you, Mr. Chairman.
+    My first question would be to you, Ms. Alexander. Do you, 
+on the fees, in 2000, GAO conducted a review on the Department 
+of Commerce's relationship with ICANN, and noted that, as a 
+project partner with the Department under the Memorandum of 
+Understanding, ICANN is allowed to collect fees, but is limited 
+to recovering only the actual cost.
+    Does NTIA believe that the fees being charged by ICANN are 
+consistent with the Department's policy to allow project 
+partners to cover only actual project costs, and are you 
+concerned that the potential revenue to be generated by ICANN's 
+proposal, which may exceed $100 million, do you believe that 
+those fees should be limited to the actual costs of managing 
+the new GTLDs?
+    Ms. Alexander. Thank you very much, Congresswoman, for the 
+question.
+    There are a variety of different fees that ICANN charges, 
+and it is very difficult, in the panel discussions, everyone is 
+talking about different fees. But to the extent the question 
+you are raising, yes. The Department still believes that ICANN, 
+as a nonprofit, should be charging fees that are consistent 
+with what their costs are.
+    And in our letter that we filed last year, in the GTLD 
+public consultation process, we actually raised the issue, with 
+the actual better explanation of the fee structure and 
+disposition of excess revenues, if there were to be any.
+    Mrs. Christensen. Thank you. Mr. Twomey, Dr. Twomey, on the 
+accountability issue.
+    You mentioned that just recently, ICANN released proposals 
+to establish a new independent review tribunal, to review 
+ICANN's Board decisions. And one, I am wondering why it took so 
+long to recognize that need, but doesn't ICANN also, don't your 
+bylaws already provide an independent review mechanism to 
+review ICANN's Board action, and has it ever been used?
+    Mr. Twomey. Thank you, Congresswoman. And you are quite 
+right. We actually have a series of existing mechanisms for, 
+multiple series of accountabilities. On the particular one 
+about appeals, we have an independent ombudsman. We have a 
+Board review process. We have an Independent Review Panel, 
+which is an independent arbitration mechanism, that is 
+presently being utilized by one particular party. So we are 
+actually presently, that is presently being utilized by one 
+party.
+    I should reinforce for all the members, we are under U.S. 
+law, and we have been accountable before the U.S. courts on 
+many occasions. So, we get sued under U.S. courts. The 
+provisions I have pointed to were further consultations with 
+our community since the midterm review, with some further 
+things we were putting into the accountability process.
+    But I would also recommend to you and other members of the 
+panel, to the committee, that as being a not for profit under 
+the Californian law, we are also accountable to the California 
+Attorney General. So, we have multiple legal accountabilities 
+already under the California Code, as well as under courts. So, 
+there is a range of those ways of being accountable.
+    Mrs. Christensen. Ms. Jones, how would you respond to 
+ICANN's argument that as a California-based not for profit, it 
+is bound by state and federal laws concerning contract, tort, 
+and antitrust?
+    Ms. Jones. Well, I think every organization that is 
+organized in any state is accountable to its state's attorney 
+general. I don't think that is the point we are making here.
+    And by the way, if I could respond to your earlier point 
+about the Independent Review Board.
+    Mrs. Christensen. The tribunal, sure.
+    Ms. Jones. Just, we could throw in another acronym, but I 
+will try to forego that for your purposes.
+    Mrs. Christensen. OK.
+    Ms. Jones. If the ICANN Board appoints the members of the 
+Review Board, it is, by definition, not independent, and 
+therefore, not accountable. All of the review mechanisms we 
+have in place right now, the ombudsman, the re-review, they are 
+all reviewing ICANN. What we are saying is we want them to be 
+accountable to the community. If we are going to have a 
+community-based Review Board, that is an actual international 
+organization that can say, the ICANN Board made a decision, and 
+we are going to take a look at it, and determine if it was 
+appropriate or not. That is accountability, right?
+    We shouldn't have to have somebody go to the Attorney 
+General and make a complaint. They shouldn't have to go to the 
+court and file a lawsuit. Why do we have to go there? Why do we 
+have to have Verizon spending millions upon millions of dollars 
+in litigation every year? It is not necessary.
+    That Board should be independent. It should be appointed by 
+independent constituents, and review the decisions without 
+input from the Board itself.
+    Mrs. Christensen. I tend to agree, but Dr. Twomey, do you 
+think it is independent? I see you shaking your head. I will 
+give you a chance to respond.
+    Mr. Twomey. Well, I just want to, again, one of the 
+statements is just wrong. The Independent Review Panel is not 
+set by the ICANN Board. The Independent Review Panel's members 
+are drawn by the International Center for Dispute Resolution, 
+an international arbitration body, and we follow traditional 
+international arbitration mechanisms, so that we don't set the 
+panel members whatsoever. The independent review arbitration 
+body is the one who puts forward panel members. We don't.
+    Mrs. Christensen. Go ahead.
+    Ms. Jones. I just wonder if he can give us an example of 
+one that has been used. And I know I am not allowed to ask 
+questions.
+    Mrs. Christensen. Well, I think at the end of one of my 
+questions, I asked that the Independent Review Board that 
+already exists has ever been utilized, and that will be my last 
+question.
+    Mr. Twomey. Thank you, Congresswoman.
+    As I said before, it is actually being utilized at the 
+moment. We are actually actively in an arbitration in that 
+Review Panel at the moment.
+    Mr. Boucher. Thank you very much, Mrs. Christensen. The 
+gentlelady from California, Ms. Matsui, is recognized for five 
+minutes.
+    Ms. Matsui. Thank you, Mr. Chairman.
+    Under the Joint Partnership Agreement, the U.S. Government 
+affirmed its goals of preserving the security and stability of 
+the Internet domain system. I want to focus on cyberattacks, 
+mostly initiated abroad. They continue to pose a threat to 
+consumers, businesses, and to government.
+    Mr. Silva, in your oral testimony, you mentioned that a 
+number of cyberattacks are initiated by individuals or groups 
+in foreign countries, like Estonia and Russia. Given the 
+increase we are witnessing in cyberattacks globally and, I 
+guess, the United States, critical infrastructure, it seems to 
+me, that many of our cybersecurity efforts tend to be more 
+reactive and not proactive enough.
+    The President's announcement this week of a newly created 
+National Cybersecurity Advisor will certainly bring renewed 
+focus and coordination on this issue. Is there anything the 
+government can be doing, as well as consumers, to stay ahead of 
+the latest techniques used by today's organized and 
+sophisticated cybercriminals?
+    Mr. Silva. Thank you. I believe that in concert with the 
+announcement that the President made was also a report that was 
+published, which was the result of a 60 day review by Dr. 
+Hathaway and her term.
+    I believe that that outlined some very positive steps that 
+the government can take, and there were some good 
+recommendations, which I certainly support in that document. As 
+for consumers, I believe that consumers first need to be 
+educated on the issue.
+    Unfortunately, cybercrime is something that always seems to 
+happen to someone else until it happens to them. And it is 
+unfortunate, because they have probably already been a victim 
+of it and don't even know it. In the confiscated machines of 
+the attackers who have conducted phishing attacks, or attacks 
+where they have attempted to steal credit cards, the contents 
+of those machines don't have tens of thousands of numbers. They 
+have millions of numbers.
+    Ms. Matsui. OK.
+    Mr. Silva. So, as far as consumers go, and what they can do 
+better, I think that will be the result, the outcome of that 
+will be the result of a broader educational campaign, either 
+through public awareness or through our education system.
+    Ms. Matsui. OK. Ms. Jones, in your testimony, you state 
+that one of your major concerns is that ICANN is not adequately 
+prepared to defend itself against cyberattack. What are some of 
+your specific concerns about this?
+    Ms. Jones. The type of attack that we are talking about is 
+the entire organization being taken over by another entity, and 
+that could come in the form of an international organization, 
+another government, some kind of other business, and that is 
+not to say that they can't ever build a protection against 
+being taken over, but we are just concerned that today, and I 
+think even Dr. Twomey said this in his testimony, they need to 
+establish a permanent, long lasting set of principles upon 
+which we can prevent them from being taken over.
+    Now, I can tell you, if you take a look at the record from 
+the WSNS round of talks, conversations about the UN or the ITU 
+taking over ICANN, there are plenty of countries that aren't 
+necessarily friendly to the open exchange of ideas, shall we 
+say, to put it delicately, that would be very happy to take 
+over this function.
+    Ms. Matsui. Then let me follow up here. Dr. Twomey, what 
+assurances could you provide us that the United States will 
+always play a critical role with the organization, let us say, 
+if the JPA is allowed to expire in September?
+    Mr. Twomey. Excellent question. First and foremost, and 
+very importantly, is the IANA contract. The procurement 
+contract is at the core of the link with the United States 
+Government with ICANN. Because the actual operation of IANA 
+functions is at the core of what ICANN does. So, that is the 
+first and foremost instrument.
+    Secondly, as I said before, we are based in the United 
+States, covered by United States law, covered by the purview of 
+people like this committee, as well. Thirdly, is that we have 
+quite comprehensive interactions with the United States 
+Government as part of its leading place in the ICANN Government 
+Committee, and fourthly, because like any leading government, 
+we need to be closely engaged. We have been heavily engaged, 
+for instance, on cybersecurity issues, but also, on other 
+issues, competition, choice, and whatever.
+    So, there is multiple layers of that engagement. I have to 
+say, that is one of the reasons why I actually make the point 
+about the Joint Project Agreement, which I think is a very 
+different type of instrument, that if the Joint Project 
+Agreement expires, nothing changes. I think that is the key 
+point we are trying to make, and I am concerned by some of the 
+statements made today, is that if the Joint Project Agreement 
+expires, nothing changes in the way in which ICANN interacts 
+and continues its role, or the importance of the link with the 
+United States Government.
+    Ms. Matsui. OK. I see my time has expired. I probably have 
+some other questions in the second round. Thank you very much, 
+Mr. Chairman.
+    Mr. Boucher. Thank you very much, Ms. Matsui. We have a 
+series of three recorded votes pending on the floor of the 
+House, and additional members who have questions they want to 
+propound to you.
+    We also probably will find the need to engage in a second 
+round of questions propounded by the members who are here. And 
+so, pending all of that, we are going to recess, while these 
+recorded votes are completed. We will ask for your patience. 
+Please remain in the room or nearby, and the subcommittee will 
+reconvene shortly.
+    [Recess.]
+    Mr. Boucher. The subcommittee will reconvene, and at this 
+time, I am pleased to recognize the gentlelady from California, 
+Ms. Eshoo, for her questions, and she is recognized for five 
+minutes.
+    Ms. Eshoo. Thank you, Mr. Chairman, for continuing this 
+important hearing, and I do support having more on this, 
+because I think there is work for the committee to do.
+    I want to thank the witnesses for your testimony today, and 
+first, I want to start out with a few observations, and then 
+ask a couple of questions. I will go as quickly as possible, 
+because we only have five minutes.
+    In my opening statement, I thought it was important to 
+acknowledge that ICANN, as an organization, has had several 
+noteworthy accomplishments, and I mentioned some of those. And 
+so, I want to be fair in acknowledging that. That is one side 
+of the ledger, and it is an important side, and I salute you 
+for the accomplishments that you have achieved.
+    On the other side of the page, I think that there is some 
+work to be done. I think that to allow the spinning off of 
+ICANN at the end of this timeframe is not the right way to go, 
+and I just don't. I hope that the committee comes to the same 
+conclusion. What is troubling to me are the following things.
+    First of all, it is with much curiosity to me that, as the 
+United States of America is the mother, the father of the 
+Internet, and that its ultimate trademark, so to speak, 
+imprimatur, is that it is open. And we have had many debates, 
+many fights, to define what is open, how to keep it open, 
+because it is democratizing. It is all of these things and so 
+much more.
+    And yet, it seems to me, from some of the testimony today, 
+that the way ICANN operates does not match that. And I don't 
+think that is healthy. And I don't think it really promotes 
+what the Internet is about. If ICANN were spun off, how do we 
+guarantee an open future, relative to the Internet? Who would? 
+Who would they be accountable to? How do we have any kind of 
+say-so in this?
+    I know that Iran, Cuba, China, are interested. They would 
+love to take it over. And hey, God bless them. They have got 
+good taste. They know something good when they see it. But I am 
+troubled by the lack of accountability. I believe that we need 
+to be thinking about a new set of rules, that would be part of 
+the Agreement in the JPA.
+    It is my understanding, Mr. Twomey, that in 2003, that 
+there were public members, and they were voted off the Board. 
+Is that correct, or is it incorrect?
+    Mr. Twomey. There was a round of Board members who were 
+elected worldwide. It was much earlier than that. It was in 
+1999 and 2000.
+    Ms. Eshoo. I don't know what you are saying. Were they 
+public members, or just regular members, and then, they rotated 
+off the Board?
+    Mr. Twomey. These were Board members. Some--the Board----
+    Ms. Eshoo. Are there any public members?
+    Mr. Twomey. There is--members--even you mean consumers, 
+representing consumers, yes, there are.
+    Ms. Eshoo. And who are they? And how many are there?
+    Mr. Twomey. There is one member on the Board now, Wendy 
+Seltzer, and she is a member of the Board, and we are looking 
+at, potentially looking at increasing those numbers.
+    Ms. Eshoo. Looking at increasing. So, one out of how many?
+    Mr. Twomey. Well, that is out of 21.
+    Ms. Eshoo. That is a pretty lousy ratio, if I might say so 
+myself.
+    Mr. Twomey. But I would say that the same group helped 
+select nearly half of the Board members in terms of our 
+nominating committee, so the same group of people, the same 
+consumer voices involved in that----
+    Ms. Eshoo. Well, I think I have gotten my answer. It is not 
+very good.
+    Let me ask you this, Dr. Twomey. What are the specific 
+problems that you are trying to address, by seeking complete 
+independence from the Commerce Department? In other words, what 
+breakdowns have occurred? Why do you want to break? What are 
+you going to go off and do? It seems to me that the Commerce 
+Department and NTIA have a very loose affiliation with you. I 
+mean, this is not a heavy hand, and I am not suggesting it 
+should be. But what do you want to accomplish by spinning off? 
+What is in your way now? What is in the way?
+    Mr. Twomey. Congresswoman, let me be very clear. We are not 
+looking for independence. I mean, there is----
+    Ms. Eshoo. What are you looking for, then?
+    Mr. Twomey. We are looking for the continuation of the 
+model.
+    Ms. Eshoo. Do you want the JPA? You want to continue in it?
+    Mr. Twomey. We think the JPA should come to its conclusion, 
+because it has completed its task.
+    Ms. Eshoo. What does that mean? You want it to come to a 
+conclusion? What does that mean, it comes to an end, and there 
+isn't any JPA anymore?
+    Mr. Twomey. Well, what we think is we should move away from 
+temporary, these sort of temporary documents. The JPA, at the 
+moment, is a two page document, two pages.
+    Ms. Eshoo. Well, why is it so menacing to you, then, if it 
+is only two pages.
+    Mr. Twomey. And so, what we are suggesting is, what we are 
+actually suggesting is that we should actually put in place 
+some of the principles that the members of the committee think 
+are important, we should put them into a more permanent 
+statement at the end of the JPA process.
+    Ms. Eshoo. You know what I think this is, and I hope I am 
+wrong, but this is the impression that I am getting, is that 
+there is disdain for any U.S. authority in this. And while we 
+have to have very strong partners throughout the world, our 
+role, you know, can't be and should not be, in my view, 
+leapfrogged over. Is that----
+    Mr. Twomey. That is not the intention at all.
+    Ms. Eshoo. That is not the intention.
+    Mr. Twomey. Not at all.
+    Ms. Eshoo. Is there any sensibility around that, or is it 
+totally false?
+    Mr. Twomey. There is a balance, right, in this broad 
+debate, of how to have an organization that is accountable to 
+the United States, in the way you are putting forward, and at 
+the same time, engages all of the country code operators of the 
+world, all of the governments who are in our Government 
+Committee, all of the people who make the system work.
+    And so, we are not looking to----
+    Ms. Eshoo. Well, I don't know whether you have told us what 
+the problem with the JPA arrangement is, which is a mystery to 
+me that you want out of it, but it seems to me, Mr. Twomey, 
+that you have been saying to us that stakeholders want to be 
+independent, and we have stakeholders that are testifying, that 
+are saying absolutely not.
+    So, there is a division of approach here, and that is why I 
+think we have some more work to do on it, and I hope that what 
+we can count on, when we get to a rewrite or an extension of 
+the JPA, is that we get some very good ideas from stakeholders' 
+suggestions about some of the rules of the road.
+    I don't pretend to know what all of them might be, but it 
+seems to me that we have got some experts here today, and 
+plenty of others, but I really do not believe that this thing 
+should just be spun off. I don't think A, it is necessary, B, 
+putting on my hat, and I know I am going over time, but I think 
+I am the only other one here, as a member of the House 
+Intelligence Committee, how important the Internet is to our 
+country, in our national security, in the role that it plays.
+    And so, I think just allowing ICANN to go off, to spin off, 
+to become I don't know what, is deeply concerning to me, when I 
+put that hat on.
+    So, I want to thank all of you, and I look forward to 
+working some more on this, Mr. Chairman, and I appreciate the 
+extra time and your patience.
+    Mr. Boucher. Thank you very much, Ms. Eshoo.
+    I am going to ask unanimous consent, at this point, to 
+insert three statements in the record that have been submitted 
+to the subcommittee, commenting on the general subject matter 
+before us today. These have been reviewed by the minority. 
+Without objection, these will be inserted in the record.
+    [The information appears at the conclusion of the hearing.]
+    Mr. Boucher. Mr. Stearns and I both have some additional 
+questions we would like to propound, and so, we are going to 
+open a second round of questioning for such members of the 
+subcommittee as desire to propound additional questions.
+    And Mr. Twomey, let me continue the questioning of you, and 
+return to the subject of the proposal that you have to issue 
+additional top-level domains.
+    What assurance do you have, and can we take, that if 
+additional top-level domains are authorized, that real 
+competition will emerge in the bidding for these domains? Have 
+you taken any kind of survey of potential bidders?
+    As a related question, will you have any kind of bar on 
+existing registrars being able to bid for these domains? In 
+other words, registrars who currently administer other top-
+level domains?
+    And what other assurances can you put in place that there 
+will be real competition, in the event that new top-levels are 
+authorized?
+    Mr. Twomey. Well, thank you, Chairman. From all of the 
+feedback we have received in the process, which has been going, 
+this discussion of new GTLDs has been going for ten years. The 
+policy process took five years, with all of the stakeholders 
+involved. We are now going through this how do you implement 18 
+month discussion.
+    In that process, it has been clear to us that there is a 
+range of people who are very interested in applying. Some are 
+in pretty general terms, they are looking for general terms in 
+English, .shops and .webs, that sort of thing. Quite a lot of 
+people interested in geographic terms. As I mentioned before, 
+some of those cities, Berlin, New York City, Paris.
+    Interest from indigenous communities. There is some talk 
+about potentially a .maori or a .sami, so people are looking to 
+represent that. There is clearly interest from some companies 
+for brand names, and you wouldn't be surprised, Chairman, to 
+know that companies are not monolithic. So, not only will be 
+hear from intellectual property lawyers from inside the company 
+that is concerned. We also hear from their marketing 
+departments and the product development departments that they 
+are really interested in having a top-level domain. So, we are 
+hearing that difference. And I think the----
+    Mr. Boucher. Well, you have talked about areas where you 
+might have one bidder. If it is an indigenous tribe, for 
+example, potentially, you would have that tribe bidding to 
+operate, or someone associated with it, I don't know. But do 
+you think you would have real competition in the bidding for 
+such a top-level domain? Would you have a variety of bidders 
+seeking----
+    Mr. Twomey. The process would be fully open, so if other 
+bidders wished to bid----
+    Mr. Boucher. Well, I understand the process would be open, 
+but to what extent do you have confidence that there would be 
+real competition in the bidding, through that open process?
+    Mr. Twomey. We are trying to make the process as open, as 
+transparent, and as----
+    Mr. Boucher. Well, you are answering my question with a 
+process answer, and I am really asking a more fundamental 
+question. It is almost an empirical question. Have you actually 
+done a survey, and identified, within these various TLDs that 
+you might issue, more than one bidder, or any bidders for some 
+of them?
+    Mr. Twomey. We are expecting, for some of them, there will 
+be multiple bidders. It has been quite clear, some of the 
+people have made clear that there would be multiple bidders, 
+and we see----
+    Mr. Boucher. Would you demand that assurance, that there 
+will be multiple bidders, before you would authorize a 
+particular new top-level domain?
+    Mr. Twomey. The policy process to date is not prescriptive 
+on that, because we would think there would be instances where 
+people would like to have a top-level domain, for instance, if 
+it was a company brand name, where that company itself would 
+want to have the brand, and not want to have to bid to another 
+person. I mean, that would go to the very heart of the issue we 
+said before about cybersquatting.
+    Mr. Boucher. Well, fair enough, but if your top-level 
+domain is more generic. In other words, if it is .phone, you 
+would certainly want more than one bidder. You would anticipate 
+multiple bidders for such a top-level domain, would you not?
+    And my question is, would you conduct some sort of 
+empirical survey in advance, just to be sure that there 
+actually would be a sufficient level of competition in the 
+bidding for administering that TLD?
+    Mr. Twomey. One of the things we are putting forward is to 
+have an extensive, is to have an extensive promotion of the 
+process, before it would open. So that people were aware the 
+process was available.
+    To come to the specific question you are asking, we are not 
+putting forward that we choose the string, and then say, who 
+wants to bid for this. We are actually saying it is not 
+appropriate for us to decide what string people should bid for, 
+but the process should be open and flat, and that it is up to 
+people who think there is an opportunity to put forward a 
+string.
+    Mr. Boucher. Well, the reason I am pursuing this at some 
+length is because the public policy justification for putting 
+companies to the additional costs associated with protecting 
+their brand, that will come from them having to acquire buffers 
+around that brand, not under just the existing TLDs, but 
+potentially, multiple new TLDs as well, is the new competition 
+that comes, and the choice that comes from that.
+    And if you really don't get a level of competition in the 
+bidding for those TLDs, then that public policy justification 
+seems to me to be diminished substantially. So, I think it is a 
+legitimate are.
+    Let me ask if anyone else on the panel wants to comment on 
+that question. Ms. Deutsch.
+    Ms. Deutsch. Yes, I would just raise, I guess three points. 
+First of all, I don't think you got a clear answer, but to our 
+knowledge, there has never been that empirical study on the 
+need for new TLDs.
+    Second, we already think, you know, there are 21 GTLDs 
+today. We think there is sufficient competition in the market 
+today. Maybe there, you know, could be a few more slowly 
+released, or the international domain names might be something 
+to think about, but 88 percent of all Internet traffic goes to 
+.com. That is still the premier piece of real estate, so there 
+is nothing to say that the addition of all these new ones still 
+won't leave .com in that dominant space. And third, we think, 
+you know, there is not that bidding process. It is more like 
+speculating. People can bid, but you are not going to know who 
+else is bidding for what names. If you happen to bid for the 
+same name, maybe there will be some competition.
+    Mr. Boucher. OK. Mr. Stearns.
+    Mr. Stearns. Thank you, Mr. Chairman.
+    Mr. Twomey, I think you mentioned to the gentlelady from 
+California that you have 21 Board members. How many of those 
+are U.S. citizens? I was told by staff that two thirds are not.
+    Mr. Twomey. Board members are required to come from one of 
+five regions in the world.
+    Mr. Stearns. OK.
+    Mr. Twomey. And North America is one of those regions.
+    Mr. Stearns. Right.
+    Mr. Twomey. And each region has to be represented on the 
+Board.
+    Mr. Stearns. Yes.
+    Mr. Twomey. As it does on each of the Councils of our 
+supporting organizations. The present number, I think, is seven 
+or eight. I will have to check the specific----
+    Mr. Stearns. OK. But roughly, I'm right. Two thirds are 
+from other countries, which--and of the 100 employees you have, 
+how many are from the United States? Is it the same ratio? 
+About two thirds are from other countries?
+    Mr. Twomey. No, it is much more from the United States.
+    Mr. Stearns. OK, 50/50, you think?
+    Mr. Twomey. It is well over 50 percent. It is over 50 
+percent.
+    Mr. Stearns. So, 50 percent are from other countries. Yes. 
+In looking through your P&L statement, just going back to this 
+net cash reserve, you are up to about $46 million, 425, and you 
+indicated that if you go ahead with these TLDs, it could 
+generate another $90 million.
+    So, does that mean if you were at $150 million in revenue, 
+that you would try to get this cash reserve up to $150 million? 
+Was that your statement?
+    Mr. Twomey. No, that is not the statement.
+    Mr. Stearns. OK.
+    Mr. Twomey. And if I can be quite clear on the budget. The 
+reason the budget has increased is because the very things that 
+some of the members, the committee have raised, or those 
+concerns we have, about 20 percent of our budget is dedicated 
+to security and stability issues.
+    We have increased quite significantly our allocations to 
+compliance work, and we are now looking at allocating more 
+money to the compliance work. The issues with GTLD funding is 
+that we are required by the community to be cost recovery only 
+for that, that there be no cross-subsidy for anybody who is 
+applying for a new GTLD.
+    We expect that the fees you are referring are one-off 
+application fees to be dealt with only in that year, and that 
+the actual revenues would come down.
+    Mr. Stearns. But you still indicated you, earlier, that you 
+want to have a reserve fund equal to your revenues.
+    Mr. Twomey. I am on public record of saying that they 
+should be equal to about one year of the present operational 
+basis.
+    Mr. Stearns. Yes, so, if you are doing $61 million, you 
+want to do $61 million in reserve.
+    Mr. Twomey. It is around--I am on public record as saying I 
+think the number should be around $50 million.
+    Mr. Stearns. So, it is not what you said earlier, that it 
+will be equivalent to one year's revenue.
+    Mr. Twomey. That was the advice we had received, but I 
+think it should be--about the one. I have to reinforce why that 
+is important. It is important for security and stability. In 
+the early days of ICANN, we received multiple lawsuits, which 
+we defended quite correctly.
+    Mr. Stearns. Don't you have insurance to cover a lot of 
+those multiple lawsuits?
+    Mr. Twomey. We had some insurance, but we have no 
+confidence that would cover all the process.
+    Mr. Stearns. Yes. OK, I understand that.
+    Ms. Alexander, I mean frankly, they are an international 
+organization. They don't necessarily want to be in the United 
+States. I mean, maybe Mr. Twomey wants to take them to 
+Australia. I mean, if they wanted to leave, what could we do to 
+stop them, after the contract expires in September? What could 
+we, what legal things could we do?
+    You might not be able to answer this, because you are not, 
+I don't know. What legal things could we do?
+    Ms. Alexander. Thank you very much, Mr. Stearns.
+    I think, with respect to JPA, I am not in a position to 
+answer those questions. But to the extent that ICANN remains 
+the IANA functions contractor, that needs to be located in the 
+United States.
+    Mr. Stearns. There is a legal contract, a need to be in the 
+United States.
+    Ms. Alexander. Yes, sir.
+    Mr. Stearns. OK. Now, Mr. Twomey, let us say, you know, you 
+wanted to be free from the contract with the Commerce 
+Department, and you wanted to be separate and independent, and 
+that is what you and the people would do.
+    Would you be willing to have competition, have some, 
+another agency set up and compete with you?
+    Mr. Twomey. The functions that are being, well, there is a 
+couple of propositions there. We are not looking to be more 
+independent than we are now. So, I want to keep reinforcing 
+that. We are an independent organization under the law.
+    Mr. Stearns. No, I understand.
+    Mr. Twomey. But the actual functions are, in the original 
+design work, functions that needed to be essentially 
+coordinated across the global Internet. This is the allocation 
+of this coordination of domain names and IP addressing.
+    And in the original analysis, which was done back in the 
+1990s, as to how to bring that forward. It was seen that they 
+were functions that were unique, that needed to be coordinated 
+at one place. That is why the original white paper called for 
+such an organization, and the Internet community responded to 
+it.
+    I think the analysis at the technical level remains that is 
+the case. So, we are very carefully structured to try to deal 
+with many antitrust issues, and have, the antitrust issues 
+inside ICANN have been tested and tried several times in U.S. 
+courts, which have confirmed the model.
+    If the technical analysis were to say that you could have 
+multiple mechanisms of doing that coordination, then 
+potentially, you know, we wouldn't stand against it, but the 
+technical analysis does not support it.
+    Mr. Stearns. Ms. Alexander, this is my last question. This 
+is changing the subject totally here. I am going back to the 
+DTV transition.
+    About 725,000 more households have to prepare themselves 
+for the DTV transition, using the stimulus money. Based upon 
+the Nielsen Rating data, and information from the NTIA itself, 
+at that pace, about 900,000 will have used the money to prepare 
+by June 12. That means we will have spent more than $700 per 
+household for a $50 device. Does that make sense? Assuming my 
+mathematics is correct.
+    Ms. Alexander. Thank you very much, Congressman. I just 
+want to reassure you that the DTV transition is a high priority 
+for the Secretary of Commerce.
+    Mr. Stearns. I notice you are reading that, so that is what 
+they told you to tell me.
+    Ms. Alexander. And acting Assistant Secretary Anna Gomez. I 
+am not the subject matter expert on this area. We would be 
+happy to provide further answers to these questions, for the 
+committee.
+    Mr. Stearns. Yes. All right. Thank you, Mr. Chairman.
+    Mr. Boucher. Thank you very much, Mr. Stearns.
+    The thanks of the subcommittee to our panel of witnesses. 
+You have been here for a long time. This has been, I think, a 
+very interesting and informative discussion, and we appreciate 
+your contributions to it.
+    I am sure that members of the subcommittee are going to 
+have additional questions, and some members who were not able 
+to attend the hearing today, because of conflicts will also 
+have questions.
+    Those will be propounded to you, over a period of the 
+coming weeks, and when you receive those inquiries, to the 
+extent that you can make rapid replies, that will be helpful to 
+us.
+    We are going to keep the record open from this hearing to 
+receive those replies for a period of about one month, so 
+please be prompt in getting those responses back.
+    We appreciate very much your attendance this morning, and 
+your informative presentations, and this hearing stands 
+adjourned.
+    [Whereupon, at 1:00 p.m., the subcommittee was adjourned.]
+    [Material submitted for inclusion in the record follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T3751A.095
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.096
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.097
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.098
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.099
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.100
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.101
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.102
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.103
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.104
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.105
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.106
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.107
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.108
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.109
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.110
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.111
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.112
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.113
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.114
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.115
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.116
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.117
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.118
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.119
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.120
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.121
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.122
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.123
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.124
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.125
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.126
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.127
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.128
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.129
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.130
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.131
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.132
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.133
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.134
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.135
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.136
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.137
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.138
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.139
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.140
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.141
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.142
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.143
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.144
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.145
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.146
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.147
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.148
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.149
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.150
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.151
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.152
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.153
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.154
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.155
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.156
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.157
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.158
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.159
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.160
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.161
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.162
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.163
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.164
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.165
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.166
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.167
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.168
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.169
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.170
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.171
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.172
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.173
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.174
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.175
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.176
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.177
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.178
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.179
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.180
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.181
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.182
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.183
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.184
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.185
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.186
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.187
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.188
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.189
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.190
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.191
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.192
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.193
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.194
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.195
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.196
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.197
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.198
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.199
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.200
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.201
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.202
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.203
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.204
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.205
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.206
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.207
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.208
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.209
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.210
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.211
+    
+    [GRAPHIC] [TIFF OMITTED] T3751A.212
+    
+
+</pre></body></html>

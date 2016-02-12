@@ -1,0 +1,2084 @@
+<html>
+<title> - THE QUALITY OF REGULATORY ANALYSES</title>
+<body><pre>
+[House Hearing, 106 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+
+
+                  THE QUALITY OF REGULATORY ANALYSES
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                 SUBCOMMITTEE ON REGULATORY REFORM AND
+                          PAPERWORK REDUCTION
+
+                                 of the
+
+                      COMMITTEE ON SMALL BUSINESS
+                        HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             WASHINGTON, DC
+
+                               __________
+
+                              JUNE 8, 2000
+
+                               __________
+
+                           Serial No. 106-63
+
+                               __________
+
+         Printed for the use of the Committee on Small Business
+
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+67-352                      WASHINGTON : 2000
+
+
+
+
+
+
+                      COMMITTEE ON SMALL BUSINESS
+
+                  JAMES M. TALENT, Missouri, Chairman
+LARRY COMBEST, Texas                 NYDIA M. VELAZQUEZ, New York
+JOEL HEFLEY, Colorado                JUANITA MILLENDER-McDONALD, 
+DONALD A. MANZULLO, Illinois             California
+ROSCOE G. BARTLETT, Maryland         DANNY K. DAVIS, Illinois
+FRANK A. LoBIONDO, New Jersey        CAROLYN McCARTHY, New York
+SUE W. KELLY, New York               BILL PASCRELL, New Jersey
+STEVEN J. CHABOT, Ohio               RUBEN HINOJOSA, Texas
+PHIL ENGLISH, Pennsylvania           DONNA M. CHRISTIAN-CHRISTENSEN, 
+DAVID M. McINTOSH, Indiana               Virgin Islands
+RICK HILL, Montana                   ROBERT A. BRADY, Pennsylvania
+JOSEPH R. PITTS, Pennsylvania        TOM UDALL, New Mexico
+JOHN E. SWEENEY, New York            DENNIS MOORE, Kansas
+PATRICK J. TOOMEY, Pennsylvania      STEPHANIE TUBBS JONES, Ohio
+JIM DeMINT, South Carolina           CHARLES A. GONZALEZ, Texas
+EDWARD PEASE, Indiana                DAVID D. PHELPS, Illinois
+JOHN THUNE, South Dakota             GRACE F. NAPOLITANO, California
+MARY BONO, California                BRIAN BAIRD, Washington
+                                     MARK UDALL, Colorado
+                                     SHELLEY BERKLEY, Nevada
+                     Harry Katrichis, Chief Counsel
+                  Michael Day, Minority Staff Director
+                                 ------                                
+
+       Subcommittee on Regulatory Reform and Paperwork Reduction
+
+                   SUE W. KELLY, New York, Chairwoman
+LARRY COMBEST, Texas                 BILL PASCRELL, New Jersey
+DAVID M. McINTOSH, Indiana           ROBERT A. BRADY, Pennsylvania
+JOHN E. SWEENEY, New York            DENNIS MOORE, Kansas
+JOHN THUNE, South Dakota
+               Meredith Matty, Professional Staff Member
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                               WITNESSES
+
+                                                                   Page
+Hearing held on June 8, 2000.....................................     1
+    Hahn, Robert W., Director, AEI-Brookings Joint Center on 
+      Regulatory Studies.........................................     5
+    Murphy, Robert, General Counsel, General Accounting Office...     9
+    Addington, David S., Sr. Vice President, American Trucking 
+      Association................................................    11
+    Ricciardi, Sal, President, Purity Wholesale Grocers, Inc.....    15
+    Wallman, Kathleen, President & CEO, Wallman Strategic 
+      Consulting, LLC............................................    16
+
+                                Appendix
+
+Opening statements:
+    Kelly, Hon. Sue..............................................    22
+Prepared statements:
+    Hahn, Robert W...............................................    37
+    Murphy, Robert...............................................    78
+    Addington, David S...........................................    92
+    Ricciardi, Sal...............................................   102
+    Wallman, Kathleen............................................   127
+
+ 
+                   THE QUALITY OF REGULATORY ANALYSES
+
+                              ----------                              
+
+
+                         THURSDAY, JUNE 8, 2000
+
+              House of Representatives,    
+      Subcommittee on Regulatory Reform and
+                               Paperwork Reduction,
+                               Committee on Small Business,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to notice, at 10:48 a.m., in 
+room 311, Cannon House Office Building, Hon. Sue W. Kelly, 
+[chairwoman of the subcommittee] presiding.
+    Chairwoman Kelly. Good morning, ladies and gentlemen. I 
+would like to thank you for attending this hearing of the 
+Subcommittee on Regulatory Reform and Paperwork Reduction. This 
+is the second hearing in a series of hearings being held at the 
+full Committee level and in this Subcommittee concerning the 
+reauthorization of the Paperwork Reduction Act and the 
+effectiveness of other regulatory reform efforts currently in 
+place.
+    Yesterday, we focused on the regulatory burdens imposed on 
+small business and the regulatory relief efforts of the 
+administration. Today, we will narrow our focus to discuss the 
+quality of agency regulatory analyses. In order to explore this 
+issue, we must discuss the adequacy of agency compliance with 
+analytical requirements mandated by the Administrative 
+Procedure Act, the Regulatory Flexibility Act, and various 
+other executive orders meant to direct agencies in producing 
+regulations whose benefits outweigh their costs and achieve 
+their objectives in the lowest cost manner possible.
+    Witnesses will focus on whether these analyses provide 
+agencies with sufficient information to properly assess the 
+impact that the rules will have on the regulated community and 
+the small business community in particular. Additionally, we 
+will discuss any changes that are needed to ensure that 
+agencies recognize these impacts, including whether Congress 
+should obtain an independent assessment of these analyses in 
+order to carry out its legislative functions. And while the 
+subject may not be as entertaining as hearing Chuck D expound 
+on the sale of music on the Internet, for small businesses 
+affected by the ever-burgeoning mound of regulation and 
+paperwork requirements, it is critical that this Subcommittee 
+place this rather dry subject at the top of legislative 
+priority.
+    Small business owners are very familiar with the burdens 
+that Federal regulations place on them. Some studies have shown 
+that for small employers, the cost of complying with Federal 
+regulations is more than double what it costs their larger 
+counterparts, and you do not need any study to reach that 
+conclusion. Common sense will say that if a regulation costs 
+General Motors and a 500-employee manufacturer of a copper 
+tubing company the same amount of money, the overall impact on 
+General Motors is going to be significantly less on a per unit 
+basis.
+    As a result, small business owners have historically been 
+interested in regulatory reform efforts in Washington. Any 
+mechanism that will help control the size of this burden is 
+naturally appealing to the small business community. The APA, 
+SBREFA, and several other executive orders are such mechanisms. 
+But these efforts will manage the regulatory burden only if 
+they are implemented fully and only if Congress keeps a 
+watchful eye on their progress.
+    As the Committee whose goal it is to promote and protect 
+the interests of small businesses, we have the obligation to 
+discuss how well agencies are satisfied with and are satisfying 
+these analytical requirements and to explore ways in which 
+Congress can better understand these regulations that small 
+business owners struggle to comply with on a daily basis.
+    There is yet another underutilized mechanism reducing the 
+regulatory burden on small business, the Congressional Review 
+Act. On March 29, 1996, the Small Business Regulatory 
+Enforcement Fairness Act, or SBREFA, became law. Included with 
+this legislation was a section that established a CRA, a formal 
+tool by which Congress could review and prevent new regulations 
+from taking effect without going through the normal legislative 
+process. Used properly, this new oversight device could greatly 
+enhance the regulatory process by ensuring that only those 
+regulations which are truly in the public interest are allowed 
+to go into effect.
+    Unfortunately, the Congressional Review Act does not appear 
+as if it is being used effectively because it is not being used 
+at all. Not a single resolution of disapproval under the 
+Congressional Review Act has passed. The House has failed even 
+to vote on one. Some have given up on its ability to halt 
+regulations that do not have sufficient justifications that go 
+beyond what Congress, or that create unintended consequences 
+that require correction. But I believe that combined with 
+oversight hearings, legislative efforts, and the submission of 
+Congressional comments, CRA still has some hope.
+    Regardless of whether or not you believe CRA can be used, 
+you must admit that Congress does not have enough information 
+to undertake appropriate oversight of the powers delegated to 
+agencies by Congress. The power delegated to these agencies 
+enables them to issue rules and those rules may not meet the 
+objectives or have the consequences that Congress expected when 
+it enacted the legislation.
+    For example, when Congress enacted the Federal Motor 
+Carrier Safety Act to create the Federal Motor Carrier Safety 
+Administration, it certainly expected that the agency would 
+enact rules to improve the safety of our highways through 
+improved regulation of truckers. However, the most recent 
+proposal from the FMCSA may have substantial unintended 
+consequences for tour bus operators, independent route 
+salesmen, and manufacturers. These consequences apparently were 
+not considered when the FMCSA decided to treat all those 
+individuals who drive professionally on the nation's road 
+systems in an identical manner.
+    To help address this problem, I was joined by Chairman Jim 
+Talent in introducing H.R. 3669, the Congressional Oversight 
+and Audit of Agency Rulemaking Actions Act. We call it COAARAA. 
+This office would focus solely on conducting independent 
+regulatory assessments of regulations to help determine whether 
+the agencies have complied with the law and executive orders. 
+Unfortunately, Congress cannot obtain unbiased information from 
+participants in the rulemaking because each participant, 
+including the Federal agency, has a particular viewpoint and 
+bias. A Congressional Office of Regulatory Analysis would help 
+fill the information gap and assist members of Congress in 
+determining whether action is warranted.
+    The purpose of COAARAA, then, is to ensure that Congress 
+exercises its legislative powers in the most informed manner 
+possible. Ultimately, this will lead to better regulatory 
+analyses, most cost effective regulations, and most 
+importantly, legislation tailored in a manner to address a 
+narrow problem and not overly broad legislation likely to 
+impose unnecessary burdens on small business. Only through 
+active oversight can Congress ensure that the laws that it 
+passes are properly implemented. This is a responsibility that 
+Congress must take seriously, because as countless small 
+business owners can attest to, not doing so can have dramatic 
+implications.
+    We have joining us today an excellent panel who will 
+discuss some of these issues. I wouldlike to thank each one of 
+them for participating with us today and I look forward to hearing 
+their testimony. I thank you very much.
+    Now, I would like to turn to Mr. Pascrell for his opening 
+statement. If anyone else has an opening statement, I am going 
+to ask that it be submitted for the record so that we can move 
+this hearing on. Mr. Pascrell?
+    Mr. Pascrell. Thank you. I would like to start my opening 
+statement by thanking my friend, the distinguished Chairwoman 
+from New York, for setting up this hearing to discuss the issue 
+of regulations and their impact on small businesses. In fact, 
+we almost had a little preliminary yesterday at another 
+hearing. I think this serves as a nice complement and more 
+focused follow-up to the hearing that we had yesterday.
+    The issue we deal with today is one of the most critical 
+issues for small businesses. The need to have rules that are 
+clear, well thought out, and that realistically gauge economic 
+impact, can be critical to the success of small businesses, 
+which are the backbone of our economy. I relish this 
+opportunity to examine the strides that have been made in this 
+area so we can see how successful agencies have been in 
+completing economic analysis that reflect the true cost of 
+these regulations.
+    Both sides of the aisle have concerns with regulations and 
+their burdens that they place on businesses, and indeed, if one 
+was to look since 1980 at the number of acts and executive 
+orders that have addressed the problem of bureaucracy and 
+regulation and paperwork, particularly in the last seven or 
+eight years, one of the questions that we all have sitting 
+around here is whether these regulations, first of all, are 
+being implemented and how would we know if they were, and 
+second of all, what is the fallout and is that more treacherous 
+than the regulation which was supposed to correct some problem 
+in the first place?
+    I do not think that there is any Democratic or Republican 
+way to design a regulation. There is just the correct way, one 
+that is thought out and is not a rush to judgment. It is a way 
+that involves a comment period where the agencies not only take 
+comments but they listen to the suggestions made and evaluate 
+the validity of business concerns.
+    I personally believe, and this is only my take on this, 
+that any regulation or rule which is the result of legislation 
+that the Congress passes, that since the Congress is taking 
+great pains to discuss this with those folks who are most 
+impacted, and that is why we debate these issues, that when an 
+agency gets that law and now has to implement it, that the 
+rules and regulations should reflect discussions with the 
+particular business. Many times, they do, and many times, they 
+do not, and that is where we have major problems. If there is 
+no one monitoring how these regulations are being implemented, 
+let alone promulgated, I think we have serious problems and we 
+need to address them.
+    A regulatory impact analysis, which was mandated by the 
+administration, is crucial in making sure burdens are not 
+excessive, and I believe some of those burdens are excessive. I 
+believe some of those burdens do not reflect the spirit and 
+intent of the original laws. They go beyond, and they are 
+usually imposed by second- and third-level bureaucrats who have 
+no appreciation whatsoever of what business folks have to go 
+into day in and day out.
+    As the study we will look at shows, and as we know from the 
+many complaints our offices receive about overly burdensome 
+regulations, the Federal Government has to do a better job with 
+its analysis to ensure the regulations designed are efficient 
+while at the same time being effective. It would seem to me the 
+only way we can do that is have a report to each Congress of 
+what has happened in the previous Congress and how these are 
+being implemented so that the Congress itself knows of what has 
+been monitored and what has not. You can have all the executive 
+orders by whatever President you wish. If they are not being 
+implemented or if the implementation of those executive orders 
+are worse than the previous situation, then we have created a 
+real amount of chaos and I am sure we do not want to do that.
+    It is interesting to note that the two parties who compiled 
+the report on both sides of the political spectrum joined 
+together on their conclusions. It is much like our work on the 
+Small Business Committee, which has been for the most part 
+bipartisan. We try to steer away from the extremes. I think 
+that is healthy.
+    I look forward to using this hearing to look at the 
+Chairwoman's COAARAA legislation contained in H.R. 3669. Maybe 
+what we learn here today can help us weigh the need for an 
+office within the General Accounting Office to compile separate 
+analysis of regulations to balance the job currently done by 
+the Office of Management and Budget.
+    So I look forward to today's testimony and I thank the 
+Chairwoman for her indulgence.
+    Chairwoman Kelly. Thank you very much, Mr. Pascrell.
+    I do want to say one thing before we begin. I look forward 
+to the testimony, but I also thank all of you, every one in the 
+audience and everyone who is on the panel, for waiting for us 
+so patiently. We had no idea when we set the timing on this 
+hearing that we would be caught in the involvement on the floor 
+of the House. So I thank you very much, and with that, we will 
+begin with the testimony.
+    We will start with you, Mr. Hahn, Mr. Robert Hahn from the 
+AEI-Brookings Joint Center on Regulatory Studies. He is the 
+Director and we are very happy to have him with us today.
+
+  STATEMENT OF ROBERT W. HAHN, DIRECTOR, AEI-BROOKINGS JOINT 
+                  CENTER ON REGULATORY STUDIES
+
+    Mr. Hahn. Thank you, Chairwoman Kelly, Congressman 
+Pascrell, and Congressman Moore. In listening to your remarks, 
+I am reminded of a Woody Allen story which I will tell you 
+briefly, where his father comes home from work one day and says 
+to his wife, ``You would not believe it. You would not believe 
+it.'' And she goes, ``Well, what is wrong?'' And he goes, ``I 
+have been replaced by a machine.'' She goes, ``Oh, that is 
+terrible but you will go out and find another job.'' And his 
+mother immediately went out to the department store and bought 
+one of these machines. [Laughter.]
+    I basically think that the remarks that you made in many 
+ways reflect more common sense than what I am about to tell 
+you, but I want to fill in some of the details that I think are 
+important in talking about regulatory reform, but let me start 
+with a couple of formalities.
+    First, I am going to talk to you more, so I would ask that 
+my formal remarks be placed in the record. They reflect not 
+only my sentiments but those of Robert Litan, who is the Co-
+Director of the American Enterprise Institute-Brookings Joint 
+Center for Regulatory Studies.
+    Chairwoman Kelly. We are glad to have the remarks and we 
+will put them in the record. Thank you.
+    Mr. Hahn. Thank you. My sister once told my niece, who I am 
+hoping to visit later this afternoon if this hearing ends at a 
+reasonable hour, once told my niece what her Uncle Bobby did, 
+and she told her that he was an egghead. She said, ``Well, what 
+do eggheads do?'' ``They think a lot.'' So the next time I went 
+down to visit my niece, who is now five, she said, ``Uncle 
+Bobby, what is it that you really do?'' And I said, ``Well, I 
+study regulation.'' And she goes,``What is regulation?'' 
+Remember, I am talking to a five-year-old now. And I said, ``We sort of 
+study how when you tell a person to do something, you tell them to do 
+it in a nice way.'' She says, ``Well, how about an example?'' I said, 
+``Well, if Mommy tells you to clean up your room, she does not say, 
+`Put this toy over in that corner and put that toy under your bed,' or 
+whatever. She leaves it up to you how to do that.'' And she thought 
+about it for a minute and she says, ``That is great. Can we watch 
+Winnie-the-Pooh now?''
+    This is a real problem with regulatory reform in the large, 
+and I do not have to tell you that. One is, one conveying to 
+people why it is important, that it can have an impact on each 
+of our freedoms, it can have an impact on the size of the 
+economy, the way we run our personal lives, the way we choose 
+to engage with each other in business. So it seems that the 
+more things change, the more they remain the same.
+    I am sure you have heard the story and probably testimony 
+from former Senator George McGovern about when he left this 
+august body, in this case the Senate, he talks about how he 
+tried to start an inn in New England and he said, ``Gosh, if I 
+only knew then what I know now about regulation, I would have 
+done things a lot differently.''
+    There has been a steady stream of legislation and executive 
+orders related to regulatory reform which you, Congressman 
+Pascrell and you, Chairwoman Kelly, both told us about in your 
+introductory remarks. The reality is that not much has been 
+done. That is the bad news. The good news is, I think if we as 
+foot soldiers, I include you in that army, if you will, and 
+myself and the other distinguished members of the panel, if we 
+stay focused and we stay focused on the right thing, I think we 
+can make some headway.
+    First, let me start by asking what is the nature of the 
+problem, and we go into this in more detail in our formal 
+remarks. Well, the nature of the problem is the Federal 
+Government requires expenditures on the order of $200 billion a 
+year, very, very, very roughly speaking. Those costs are 
+imposed on the private sector, and to a lesser extent 
+government bodies, to do things. We do not have a particularly 
+good idea of what is being done.
+    Congressman Pascrell, you talked about you have a hunch 
+that some things are being done that do not make sense. Well, 
+let me give you one example based on a study that I did not do 
+but my colleagues, Randy Lutter and Elizabeth Mader, are just 
+releasing today at the Joint Center.
+    We have a lot of legislation regulating lead out there 
+because lead is of concern for children's health, among other 
+things. Did you know that the regulations that you were in 
+charge of making the laws for and that EPA and HUD are in 
+charge of implementing, those regulations require more 
+stringent regulation of lead at hazardous waste sites than in 
+the kid's back yard? There may be no kids at the hazardous 
+waste site. Lots of kids play in their back yard. Do we have a 
+problem? Maybe.
+    We could be doing a much better job of improving kids' 
+health, saving kids' lives, and saving money if we simply took 
+a careful look at the process. We could do a better job of 
+facilitating entrepreneurship in small business, in large 
+business, if we took a serious look at what the paperwork 
+requirements do and what these silly regulations of which I 
+just gave you one example. George McGovern, for all we know, 
+might be in business in New England today promoting bed and 
+breakfasts. We could do a much better job of making sure that 
+regulations do not impose a drag on the economy.
+    Okay, how do we do this? How do we begin to think about 
+improving the quality of regulation so that you and appointed 
+civil servants can make better decisions? The short answer is 
+it takes two things. One, you guys have got to step up to the 
+plate. You have got to have guts. This is in short supply in 
+this town. You have really got to have guts. And the second 
+thing is it requires common sense, which you have already 
+articulated in your opening remarks.
+    Let me say a little bit about what I think we know about 
+the quality of regulatory analyses, and I have a few people in 
+the audience who I would like to acknowledge who have helped me 
+on this, some of whom have already left me, very wisely. Irene 
+Chan, who did some seminal work on this last year, looking at 
+what the government actually does in terms of their regulatory 
+analyses, and my colleagues, Jason Burnett and Aaron Labor, and 
+will be happy to field any tough questions from you. But I will 
+give you the broad-brush view of what I think we know.
+    First of all, based on my earlier research, from an 
+economist's point of view, many of the regulations that the 
+Federal Government are implementing now are not likely to pass 
+an economist's version of a benefit-cost test. I estimate that 
+on the order of half the regulations, using the government's 
+own analyses as data, would not pass a benefit-cost test. I 
+find that rather disturbing. That is the first point.
+    The second point, which speaks, Chairwoman Kelly, to the 
+substance of this discussion today, is the quality of the 
+analyses themselves. Well, the quality of the analyses in my 
+view is really poor. We looked at analyses, so-called 
+regulatory impact analyses, over the last three years, between 
+1996 and 1999, all of them that we could find for major 
+environmental health and safety regulations, and the bottom 
+line is they do a bad job of even complying with their own 
+guidelines. This is based on a Joint Center study, not funded 
+by any particular business or whatever, just an independent 
+study by economists.
+    What do we find? We find that of those rules that we 
+reviewed carefully, and Irene and Jason can tell you more about 
+this, only 28 percent of those rules presented information on 
+net benefits, that is, benefits and costs and taking the 
+difference. Well, if you are going to be making multi-million 
+and in some cases multi-billion-dollar decisions, I think the 
+American public deserves to know what is happening.
+    The second thing we found is that they quantified benefits 
+and costs of alternatives for only a quarter of the 
+regulations. Did you think of another way to clean up your 
+room, Katie, or is this the only way to do it? Most of the 
+time, these guys did not bother to look whether there were 
+other ways to clean up the room, the hazardous waste site, or 
+the dirt in the back yard. Duh, we have got a problem.
+    All right. What are we going to do about this problem? I am 
+going to briefly go through some of my recommendations, some of 
+which are based on the good work of your Committee. The first 
+is, I think in the interest of accountability and transparency, 
+you ought to put these regulatory impact analyses and their 
+underlying supporting documents on the Internet. Hey, if Al 
+Gore invented it, we might as well use it. Let us use the 
+Internet to tell people what is happening about regulation, 
+with all due deference to the Vice President--just a joke. And 
+before a regulation--this is important--before a regulation is 
+actually considered at OMB, we ought to put it on the Internet 
+so it is available to eggheads like myself and also real 
+people.
+    My second point, and this is a point which you might find 
+astounding, but it is not, is that these regulatory impact 
+analyses do not summarize in any sort of standardized way what 
+they actually do. What does that mean? I have to hire a group 
+of some of the best graduate students to spend sometimes up to 
+a week to figure out what these analyses are saying. Well, 
+Congress people do not have a week to look at what is in these 
+analyses, so we recommend that you write a clear executive 
+summary when you do these regulatory impact analyses and you 
+attach a table to tell people what you did and what you did not 
+do.
+    Did you consider costs? Did you quantify them? Did you 
+consider benefits? Did you quantify them? Did you consider 
+alternatives? Did you try to quantify the impacts of those 
+alternatives?What were the kinds of technical assumptions you 
+made underlying these analyses to get your results?
+    Again, it is not rocket science, but this is not enough. As 
+Congressman Pascrell pointed out, you have got to figure out 
+whether you have the guts to enforce these things. I mean, 
+there are executive orders on the books here and there are tons 
+of beautiful laws in the Soviet Union, or the former Soviet 
+Union, that make it look like everything is hunky-dory, but, in 
+fact, everything is not always hunky-dory and sometimes you 
+have to step up to the plate to do things that we believe are 
+common sensical.
+    Our third recommendation, and this follows along the 
+suggestions of the Chairwoman, is to create something like the 
+Congressional Office of Regulatory Analysis. We think it would 
+help make the regulatory process more transparent to the 
+American people. It would help Congress in finding out what is 
+actually happening down at the other end of Pennsylvania Avenue 
+in terms of regulations and their impact.
+    If you want me to say more words about COAARAA, I will be 
+happy to do it. Mr. Litan and I testified on this, as you know, 
+previously. We are great supporters of these initiatives for 
+the reasons we state in the paper.
+    Something else we believe is important, and it would 
+require a little bit of stepping up to the plate, but again, it 
+is common sense, is we believe that Congress should require 
+agency heads to balance the costs and benefits of major 
+regulations. I am not even saying at this point, though I 
+believe the benefits should be at least equal to the cost and 
+ideally greater, but I am saying at least there should be a 
+statement that we balanced these things and this is how we 
+thought about them, if you are making a big decision like the 
+national ambient air quality standards.
+    And finally, and this is again where you can step up to the 
+plate to make things happen, is we believe that Congress should 
+require that all regulatory agencies adhere to established 
+principles of economic analysis when undertaking a regulatory 
+impact analysis. OMB has already articulated a beautiful set of 
+guidelines. The Joint Center has convened a group of scholars 
+that also talks about established principles. The question is, 
+as Congressman Pascrell pointed out, when are we going to begin 
+to think about implementing these things?
+    So in conclusion, as I said earlier, it is really going to 
+take guts and common sense. It is very clear to me that the 
+common sense is out there. I hope the political will is there, 
+and I will be happy to entertain any questions after the panel 
+or now. Thank you.
+    Chairwoman Kelly. Thank you very much, Mr. Hahn.
+    [Mr. Hahn's statement may be found in appendix.]
+    Chairwoman Kelly. Next, we go to Mr. Robert Murphy. Mr. 
+Murphy is the General Counsel for the General Accounting Office 
+and Mr. Murphy, COAARAA might land in your lap, so I am very 
+much looking forward to your testimony.
+
+    STATEMENT OF ROBERT P. MURPHY, GENERAL COUNSEL, GENERAL 
+ ACCOUNTING OFFICE; ACCOMPANIED BY CURTIS COPELAND, ASSISTANT 
+   DIRECTOR, GENERAL GOVERNMENT DIVISION, GENERAL ACCOUNTING 
+                             OFFICE
+
+    Mr. Murphy. Thank you, Madam Chairwoman, Mr. Pascrell. I am 
+pleased to be here today to talk about GAO reviews of the 
+compliance by agencies with procedural and analytical 
+requirements of rulemaking. One of the assistant directors at 
+GAO, Curtis Copeland, who led many of these jobs, accompanies 
+me at the table today. With your leave, I will briefly 
+summarize my testimony and in particular talk about two reviews 
+that we did of regulatory impact analyses and ask that the full 
+text of my prepared remarks be incorporated in the record.
+    Our reviews were conducted in response to Congressional 
+concern that agencies were not, as Mr. Pascrell pointed out 
+earlier, considering the effects of their actions on regulated 
+entities, nor had they worked to minimize those negative 
+effects. The requirements we examined are contained in a number 
+of statutes from the Administrative Procedures Act to the 
+Unfunded Mandates Reform Act, as well as Executive Orders 12866 
+and 12612.
+    While they may not have been representative of all 
+rulemakings, our work disclosed inadequate data, methodologies 
+and assumptions, and disclosed noncompliance with the statutory 
+requirements and executive orders. There were examples where, 
+as a result of our work, agencies changed their practices and 
+we helped ensure better adherence to applicable regulatory 
+requirements.
+    On the other hand, sometimes our reviews did not disclose 
+noncompliances but they provided the facts and the analysis to 
+the Congress to understand what the agencies were up to in 
+their rulemaking. Sometimes we discovered that the issues that 
+concerned the regulated community were not really those of the 
+agencies but were of the underlying statutes concerned, that 
+the aspects of the regulations that were considered burdensome 
+by the regulated community were actually required by the 
+statute being implemented.
+    Some of our work on regulatory issues has clearly 
+demonstrated the value of Congressional oversight of agency 
+rulemaking. Congressional oversight can clarify issues left 
+unclear in agencies' public statements about their rules and on 
+occasion can directly result in changes to agencies' rules. The 
+targets of that oversight can vary substantially, from the 
+particular and sometimes highly technical elements of agencies' 
+economic analyses used to support the rules to the general 
+public participation requirements in the rulemaking process.
+    I would like to address, as I said earlier, two particular 
+reviews by GAO. In the last 20 years, we have seen enormous 
+growth in both the breadth and the number of Federal 
+regulations. According to OMB, these regulations have improved 
+public health, safety, and environmental quality, but they come 
+at a real cost. I do not think anybody estimates the annual 
+cost of these regulations below hundreds of millions of dollars 
+every year.
+    To control the costs of these regulations, administrations 
+have issued executive orders, such as 12866, and Congress has 
+enacted laws, including the Unfunded Mandates Reform Act of 
+1995. These orders and laws require Federal agencies to prepare 
+and use economic analyses, also known as regulatory impact 
+analyses, to assess the benefit and costs of proposed 
+significant actions before promulgating those regulations. 
+These analyses are intended to inform and improve the 
+regulatory process by identifying the likely costs and benefits 
+of feasible alternatives.
+    We were asked to describe the extent to which Federal 
+agencies' economic analyses incorporate best practices and the 
+agencies' actual use of these analyses in regulatory decision 
+making. We included in our review all economically significant 
+proposed and final rules issued between July 1996 and March 
+1997 that addressed environmental, health, and safety matters. 
+As a result, GAO reviewed the economic analyses used in 
+promulgating 20 regulations by five agencies, the Departments 
+of Agriculture and Transportation, the Environmental Protection 
+Agency, the Food and Drug Administration within the Department 
+of Health and Human Services, and the Occupational Safety and 
+Health Administration in the Department of Labor.
+    We found that five of the 20 analyses did not discuss 
+alternatives to the proposed regulatory action, six did not 
+assign dollar values to the benefits, one did not assign dollar 
+values to thecosts, all of which OMB recommended in its best 
+practices guidelines. OMB guidance gives agencies flexibility to decide 
+how thorough their economic analyses should be. At the same time, the 
+guidance stresses the importance of disclosing the reasons for 
+omissions, gaps or other limitations. Although GAO found many instances 
+in which best practices were not followed in the analyses, the reason 
+for not following was disclosed in only one case.
+    In addition, eight of the economic analyses did not include 
+an executive summary that could help the Congress, decision 
+makers, the public, and other users quickly identify key 
+information addressed in the analyses. Finally, only one of the 
+20 analyses received an independent peer review.
+    I should say that this past March, OMB issued a revision to 
+its best practice guidance for agencies and we found that, 
+again, that guidance falls short of the recommendations that we 
+have made for best practices, and incidentally, several of 
+those that Mr. Hahn has touched upon today.
+    In another instance, we found that a Congressionally 
+requested review of agency regulatory analysis actually 
+resulted in a change to those rules. We reported last year on 
+the scientific basis for the Food and Drug Administration's 
+proposed rule on dietary supplements containing ephedrine 
+alkaloids and the agency's adherence to statutory and executive 
+regulatory analysis requirements. Although the number and type 
+of adverse event reports that FDA received warranted the 
+agency's consideration of steps to address safety issues, we 
+were concerned about the strength of the information FDA used 
+to support two aspects of the proposed rule, the dosing level 
+and the duration of use limits.
+    We concluded that FDA generally complied with the statutory 
+and executive orders applicable to rulemaking, but the economic 
+analysis that accompanied the rule did not reflect the full 
+range of uncertainty associated with the proposed rule. The 
+agency did not always disclose why certain key assumptions were 
+made or the degree of uncertainty involved in those 
+discussions. It also did not disclose that alternate 
+assumptions would have had a dramatic effect on the agency's 
+estimate of the benefits of the proposed actions.
+    We recommended that FDA obtain additional information to 
+support conclusions regarding the specific elements in the 
+proposed rule before proceeding to final rulemaking. We also 
+recommended that FDA improve the transparency of its cost-
+benefit analysis in its final rule.
+    I am happy to say that in April of 2000, FDA announced that 
+it was withdrawing certain portions of its proposed rule, 
+``because of concerns regarding the agency's basis for 
+proposing certain dietary ingredient level and a duration of 
+use limit for these products.'' That was an example of where 
+Congressional oversight had an immediate benefit to the public 
+and to the government.
+    There are numerous other examples of GAO reviews in recent 
+years that demonstrate that Congressional oversight can be 
+effective in ensuring that agency rules are carefully developed 
+and that agencies permit public participation in the rulemaking 
+process.
+    Madam Chairwoman, this concludes my statement. I would be 
+pleased to respond to any questions.
+    Chairwoman Kelly. Thank you very much, Mr. Murphy.
+    [Mr. Murphy's statement may be found in appendix.]
+    Chairwoman Kelly. Let us move on to Mr. David Addington. 
+Mr. Addington is Senior Vice President of the American Trucking 
+Associations. Mr. Addington, thank you very much for being here 
+today.
+
+    STATEMENT OF DAVID S. ADDINGTON, SENIOR VICE PRESIDENT, 
+                 AMERICAN TRUCKING ASSOCIATIONS
+
+    Mr. Addington. Thank you, Madam Chairwoman. I have two 
+documents I would like to ask your permission to have in the 
+record, my full written statement submitted to the Committee 
+and the document I transmitted to the staff yesterday, five 
+pages entitled ``Summary of the Federal Motor Carrier Safety 
+Administration's Proposed Hours of Service Changes, Updated May 
+15, 2000.''
+    Chairwoman Kelly. By all means, we will accept them into 
+the record. Thank you.
+    Mr. Addington. Madam Chairwoman and members of the 
+Subcommittee, we appreciate the invitation to discuss the 
+Department of Transportation's failure to properly conduct the 
+required analyses to determine the full impact of proposed 
+rules to govern the hours that truck drivers may work. The 
+hours of service scheme proposed by the Department's Federal 
+Motor Carrier Safety Administration is disastrous for the 
+trucking industry, for the safety of the traveling public, and 
+for American consumers. The proposed regulations hit trucking 
+companies hard and they hit small trucking companies hardest. I 
+will describe the trucking industry, some
+
+key problems with the Department's proposed rule, and the 
+defective analyses on which the Department of Transportation, 
+which I will call DOT, based its rule.
+    The American Trucking Associations, which I represent, is a 
+national trade association for the trucking industry, with more 
+than 2,500 motor carrier company members, large and small who 
+operate in every State of the union. Trucking is vital to the 
+nation's economy. Trucks move the majority of the freight that 
+moves in America. Trucking accounts for more than 80 percent of 
+the transportation revenue in the economy. Seventy percent of 
+America's communities depend for freight service exclusively on 
+trucks. So DOT regulations restricting what companies can do 
+with trucks and drivers directly affects a huge segment of the 
+American economy.
+    Although some trucking companies are multi-billion-dollar 
+companies whose names you know, such as Mr. Moore's district 
+has the Yellow Corporation, most of the trucking industry is 
+small business. According to DOT, almost 50 percent of motor 
+carriers have only one truck, and a full 95 percent of motor 
+carriers, almost 395,000 of them, have 20 or fewer trucks.
+    ATA has long called for reform of the existing Depression-
+era hours of service rule. We ask for new rules based on three 
+things, sound science, public safety, and needs of the American 
+economy. ATA spent two years forging an industry-wide consensus 
+on a proposal for new rules that would meet these requirements 
+and our board of directors adopted that proposal in November of 
+1999. We filed the ATA proposal with the Department of 
+Transportation in December 1999, but instead, the Department 
+published on May 2, 2000, proposed regulations that are 
+inconsistent in a number of ways with fatigue science and are 
+so far removed from safer highways and economic reality that 
+the ATA must strongly oppose the DOT proposal.
+    The Department's proposed rules fail the test of science, 
+safety, and economics. On science, for example, the DOT 
+proposal takes drivers whose jobs consist of five night shifts 
+a week and requires them to switch over to sleeping on both 
+weekend nights. But fatigue science would counsel against 
+requiring them to switch their sleep/wake cycle over on both 
+weekend nights.
+    On safety, the Department's proposal will put more trucks 
+and more drivers on the road just to move the same amount of 
+freight that trucks move today and it will force more of the 
+trucks to operate during daylight hours when traffic congestion 
+is at its peak. Regulations that put more of the trucks on the 
+roads when most of the cars are also on the roads can hardly be 
+characterized as a safety regulation.
+    On economics, shippers will face significant price 
+increases for freight service. Trucking companies will face 
+tough obstacles in trying to meet the payroll and turn a 
+profit. And businesses and consumers will pay more for the 
+goods they purchase. Congress should send DOT back to the 
+drawing board on its proposed hours of service regulation.
+    With regard to economic analysis, the Federal law requires 
+the Department of Transportation to conduct an initial 
+regulatory flexibility analysis, or IRFA, when it published its 
+proposed rule. The Department failed miserably in its attempt 
+to meet this legal requirement. The Department provided only a 
+cursory and inaccurate examination of the economic effects of 
+the proposed rules on the trucking industry. Moreover, it 
+completely ignored the larger economic impacts of the proposed 
+rules on the economy as a whole.
+    With regard to the trucking industry, the Department 
+undercounted by 100,000 the number of small trucking businesses 
+and that taints the Department's entire IRFA. The IRFA also 
+estimates the economic impact of only one part of the proposed 
+rule, the requirement that companies install in their trucks 
+electronic on-board recorders to monitor the compliance of 
+drivers with the Department's hours of service regulation, and 
+DOT even got that part wrong because DOT underestimates the 
+number of companies that must install the recorders to be in 
+compliance with DOT's proposed rule.
+    In any event, the regulatory costs that DOT attempted to 
+address are dwarfed by the additional costs that DOT ignored. 
+The Department's regulations will force trucking companies to 
+incur costs for the purchase of new trucks and hiring new 
+drivers. While ATA has not yet completed its final economic 
+analysis of the DOT proposal, our preliminary conclusion is 
+that labor and equipment costs to the trucking industry will 
+increase by approximately 20 to 30 percent.
+    More trucks moving the same amount of freight also requires 
+additional mechanics to maintain the trucks and additional dock 
+workers to handle getting the freight in and out of the trucks, 
+more costs that DOT ignored. Also, DOT ignored the cost of 
+realigning trucking terminal networks, which were principally 
+designed to allow truck drivers to move efficiently between 
+terminals within the driving hours allowed under the current 
+rules but not under the proposed DOT rules.
+    The Department also ignored the bigger economic impact 
+beyond the trucking industry. Shippers will pay more to move 
+freight, including smaller manufacturers, wholesalers, and 
+retailers who are the engine of the nation's economy. Many of 
+those costs will, of course, be passed on to consumers in the 
+form of higher prices for goods. The direct result of DOT's 
+proposed rule is inflation, which is hardly what the American 
+economy needs.
+    With regard specifically to small business, the Department 
+of Transportation failed to meet the legal requirement to 
+compare the economic effects of the proposed rules on small 
+entities with other alternatives. The Department examined 
+alternatives, but only alternatives for the entire trucking 
+industry. The Department did not design or analyze alternatives 
+solely with small companies in mind, nor did it consider the 
+alternatives for minimizing the impact on small entities that 
+the law requires DOT to consider. Thus, the Department failed 
+to produce an initial regulatory flexibility analysis comparing 
+the relative costs and benefits of alternatives as they pertain 
+to small entities.
+    The Department also made a mistake in its proposal that 
+calls into question the quality of the DOT economic analysis. 
+When it published its proposed rule on May 2, 2000, the 
+Department included the following sentence in the preamble to 
+its rule, ``Therefore, the FMCSA, in compliance with the 
+Regulatory Flexibility Act, 5 U.S.C. 601-612, has considered 
+the economic impact of these requirements on small entities and 
+certifies that this rule would not have a significant economic 
+impact on a substantial number of small entities.''
+    Now, on May 26, just a few weeks later, the Department 
+stated instead that, ``The FMCSA does not know with certainty 
+the full economic impact of the proposal and, therefore, 
+withdraws its negative certification.'' The withdrawal of the 
+notification is a notable change because the certification has 
+exempted the proposed rule from the Regulatory Flexibility 
+Act's requirements. The Department has explained that its 
+certification was included by error, but the initial erroneous 
+inclusion of the language raises doubts about whether the 
+Department conducted a careful initial regulatory flexibility 
+analysis in the first place. Of course, the practical question 
+also arises of how anyone at DOT could possibly think that the 
+proposed rule would not have a significant economic impact on a 
+substantial number of small entities.
+    Lastly, while the Department of Transportation admits it 
+does not know the full economic impact of its proposals, even 
+after DOT has looked at various changes to hours of service 
+rules for 20 years, it expects ATA and others to provide this 
+information to DOT within the 90-day period that DOT allowed 
+for comments on the proposed rule. We have asked for an 
+additional 90 days so that we can effectively survey our 
+trucking company members, large and small, and analyze and 
+report the resulting economic data, but the Department has not 
+granted our request.
+    When the trucking industry, the law enforcement community, 
+the manufacturing industry, the Teamsters, the AFL-CIO all 
+agree that more time is needed to analyze the economic impact 
+of the proposed rule, one would expect the Secretary of 
+Transportation to grant the additional 90 days, but that 
+request has not been granted.
+    Madam Chairwoman, the Subcommittee asked only that I 
+address the trucking hours of service issues and we appreciate 
+having that opportunity, but I would be remiss if I did not 
+draw the Subcommittee's attention that this rule is only one 
+front of the current three-front regulatory war that this 
+administration is conducting on the trucking industry. The 
+rules on the other two fronts, OSHA's proposed rule on 
+ergonomics and EPA's proposed rule on diesel engine and fuel 
+standards, also are based on faulty economic analyses.
+    On all three fronts, hours of service, ergonomics, and 
+diesel, the rulemaking process is not driven by the science, it 
+is not driven by health and safety, it is not driven by 
+economics, and it is not driven by the law. It is driven by the 
+desires of the heads of those agencies to issue final rules 
+before the administration leaves office in January 2001. The 
+interests of the public in these rulemakings should not be 
+subordinated to that artificial deadline. The agencies will 
+still be here with qualified people at the helm to make 
+decisions after next January. Let us take our time and get it 
+right.
+    Thank you, Madam Chairwoman.
+    Chairwoman Kelly. Thank you very much, Mr. Addington.
+    [Mr. Addington's statement may be found in appendix.]
+    Chairwoman Kelly. Next, we are going to hear from Mr. Sal 
+Ricciardi. Mr. Ricciardi, you are here in actually a double 
+capacity, are you not? You are the President of Purity 
+Wholesale Grocers, but also you are the President of the 
+Pharmaceutical Distributors Association, and we appreciate your 
+taking the time to be with us here today and look forward to 
+your testimony.
+
+    STATEMENT OF SAL RICCIARDI, PRESIDENT, PURITY WHOLESALE 
+   GROCERS, INC., AND PRESIDENT, PHARMACEUTICAL DISTRIBUTORS 
+                          ASSOCIATION
+
+    Mr. Ricciardi. Thank you, Madam Chairwoman and members of 
+the Subcommittee. Thank you for allowing me to speak to you 
+today. I feel like I am really getting my money's worth because 
+I am a member of his organization and I agree with everything 
+he just said.
+    Mr. Addington. Thank you.
+    Mr. Ricciardi. I request that the text of my prepared 
+statement be placed into the record.
+    My name is Sal Ricciardi and I am President of Purity 
+Wholesale Grocers of Boca Raton, Florida. I am speaking today 
+for Supreme Distributors, a division of Purity that distributes 
+prescription drugs and on behalf of the Pharmaceutical 
+Distributors Association, PDA, a trade association of ten Rx 
+drug distributors. Most importantly, I am informally 
+representing approximately 4,000 small businesses which are 
+licensed to distribute prescription drugs for human and animal 
+use according to Food and Drug Administration estimates. That 
+is an estimate the Food and Drug Administration made. And there 
+are many thousand customers across America.
+    As I explained in detail in my written statement, these 
+4,000 small businesses will be economically devastated and most 
+will be forced to close their doors if an FDA rule issued to 
+complete the implementation of a 1988 law known as the 
+Prescription Drug Marketing Act is allowed to go into effect. 
+The FDA rule establishes a ``catch-22'' type situation wherein 
+smaller drug distributors are required to obtain a very 
+detailed sales history for drug products going back to the 
+first sale by the drug manufacturer before those products can 
+legally be resold. However, neither the PDMA nor the FDA rule 
+require either the drug manufacturer or the large national 
+wholesalers who purchase the large majority of drug products 
+directly from manufacturers to provide this sales history to 
+the secondary distributors. I know this is a mouthful. However, 
+allow me to explain a little further.
+    The result is that the rule will make it illegal for most 
+wholesalers to resell prescription drugs and this will cause 
+the loss of thousands of jobs, disrupt existing distribution 
+channels for thousands of nursing homes, clinics, doctors' 
+offices, and veterinary practices across the country, 
+potentially putting patients and animals at risk and remove an 
+important restraint on pharmaceutical prices by reducing 
+marketplace competition.
+    To understand the real impact of the rule, we called the 
+authorities in each State who license the distribution of 
+prescription drugs. We found that more than 32,000 licenses had 
+been issued to distribute Rx drugs. It is obvious from this 
+figure that most distributors, including small companies like 
+mine, distribute in multiple States.
+    Of particular interest to the Subcommittee is the fact that 
+the FDA's analysis of the effect of this rule on small business 
+was 100 percent wrong. The FDA's analysis published in the 
+Federal Register concluded that the majority of the estimated 
+4,000 small distributors will not be affected by this rule. In 
+fact, they will all be seriously affected by the rule and most 
+will be driven out of business. The FDA's analysis did not 
+calculate the number of jobs that would be lost, the economic 
+loss to the owners of the business that would be wiped out, the 
+likely increased cost to pharmaceutical end users because of 
+the elimination of existing supply channels, and a decrease in 
+competition and the very real potential physical threat to 
+patients whose supply of life-saving and life-enhancing drugs 
+would be disrupted.
+    I believe that these impacts are more than large enough to 
+qualify this regulation as a major rule and that the FDA should 
+be required to perform the proper analysis before the rule is 
+reimposed. I would also like to note that for about the past 12 
+years during which the drug distribution has been operating 
+under FDA interim policy guidance, which does not require 
+tracing sales history of products back to the manufacturers, 
+there have been no significant quality or safety problems.
+    In conclusion, I would draw the Subcommittee's attention to 
+H.R. 4301, a bipartisan bill that would make small but vital 
+technical corrections to the statute. This bill would allow the 
+4,000 small distributors to continue to serve their customers 
+and provide vital price restraining competition while 
+preserving the current safety and integrity of our national 
+pharmaceutical distribution system.
+    I thank you for your attention and will be happy to answer 
+any questions you might have.
+    Chairwoman Kelly. Thank you very much, Mr. Ricciardi.
+    [Mr. Ricciardi's statement may be found in appendix.]
+    Chairwoman Kelly. Next, we would like to hear from Ms. 
+Wallman, and thank you for being so patient, Ms. Wallman. 
+Kathleen Wallman is President and CEO of Wallman Strategic 
+Consulting, LLC. Thank you very much for being with us.
+
+    STATEMENT OF KATHLEEN M.H. WALLMAN, PRESIDENT AND CHIEF 
+      EXECUTIVE OFFICER, WALLMAN STRATEGIC CONSULTING, LLC
+
+    Ms. Wallman. Thank you and good morning, Chairwoman Kelly 
+and Congressman Pascrell. Thank you for the opportunity to 
+participate in today's hearing.
+    My statement addresses the experience of a particular kind 
+of small business, rural telephone companies, and offers some 
+observations about regulatory impact analyses conducted by the 
+independent Federal regulatory agency that regulates them, the 
+FCC. My observations are based on my work with these companies 
+in different capacities. I have worked on these issues most 
+recently as an advisor to small companies and their Washington 
+representatives and previously as chief of the Federal 
+Communication Commission's Common Carrier Bureau and at the 
+White House as Deputy Assistant to the President for Economic 
+Policy at the National Economic Council.
+    Rural telephone companies have a vital role in ensuring 
+that all Americans, no matter where they live, have access to 
+telecom networks. The special challenges that these companies 
+face in serving remote and sparsely populated parts of our 
+country are well documented in the policy literature and in FCC 
+proceedings. Congress expressly recognized these small rural 
+telephone companies as a category unto themselves in the 
+Telecommunications Act of 1996. Most rural telephone companies 
+fit easily into the category of small business and do not have 
+resources devoted exclusively to monitoring Federal regulatory 
+matters or mounting advocacy efforts in FCC proceedings.
+    This is why the Regulatory Flexibility Act passed in 1980 
+and amended by the Small Business Regulatory Enforcement 
+Fairness Act in 1996 is potentially such an important tool in 
+ensuring that Federal rules are adopted with an adequate 
+awareness of the impact that the new rules or rule changes will 
+have on small companies, such as rural telephone companies. The 
+question is, how well is it working?
+    My own view that it is starting to work in some ways but 
+that its implementation can be improved. There are inherent 
+difficulties in trying to implement regulations that affect 
+rural telephone companies in a way that is sensitive to the 
+burdens that new regulations impose. One difficulty is the 
+inescapable complexity of common carrier regulation. Today's 
+common carrier regulation is the result of decades of Federal 
+and State legislative and regulatory action. There is some hope 
+that this area will become less complex as competition 
+diminishes the need for regulation, but that is unlikely to 
+happen very quickly. A topic for another day would be what 
+dramatic deregulatory and decomplexifying steps regulators and 
+Congress could take.
+    Another inherent difficulty and irony is the fact that many 
+of these complex regulations were adopted to help rural 
+telephone companies and their customers. Universal service 
+regulations,for example, impose burdens on small companies in 
+order to assess how much support the company and its customers should 
+receive. So in appraising the process, it is important to remember that 
+some regulations impose a burden in order to help the regulated entity.
+    Another difficulty is presented by two realities about the 
+rulemaking process at the FCC. First, there is the enormous 
+workload of the FCC. The dedicated staff at the Commission is 
+still working through the many assignments delegated to the 
+agency by the 1996 Act. Under the pressure of a production 
+schedule, it is not surprising that the agency has attracted 
+some criticism about their execution of the statutory 
+procedural requirements of the RFA.
+    The second reality is that there is a tension between 
+expertise and objectivity. It is very difficult to expect the 
+same internal experts who advise the Commissioners that a new 
+rule is sound and ripe for adoption to be objective in 
+criticizing and editing that rule because of its anticipated 
+impact on one constituency, small regulated companies.
+    Another difficulty is that rural telephone companies are 
+small. Some of them are very small. They do not have Washington 
+offices of their own. They rely on membership associations and 
+outside advisors. Even with such assistance, the resources 
+needed to monitor what is going on and to advocate reasonable 
+results in each of many pending proceedings spanning several of 
+the FCC's operating bureaus simply are not available.
+    There is some reason to praise progress and there are still 
+some opportunities for improvement. At least some rural 
+advocates have noticed some improvement. For example, OPASTCO, 
+one of the leading membership associations that covers small 
+telephone issues, has noted that the FCC has been more willing 
+to treat rural telephone companies as small businesses rather 
+than as dominant incumbents that would not be entitled to the 
+benefit of the RFA small business analysis.
+    But there remains room for more improvement and the 
+question is what should be done. The answer might include 
+legislation, but there are a few steps short of legislation 
+that would help, in my view.
+    First, Congress should consider whether the FCC needs more 
+focused resources to conduct better RFA analyses. Adding more 
+people to the process is not the answer, but adjusting the mix 
+to include the right people might help. Additional economists 
+and rural analysts specifically dedicated to the RFA process, 
+for example, would help.
+    Second, Congress should also consider whether there are 
+process changes that could be implemented at the FCC that would 
+address the tension between objectivity and expertise. The 
+people most intimately familiar with the substance of a 
+rulemaking may benefit from the perspective of others not so 
+closely involved in doing the RFA analysis. There may be 
+candidates already on the organizational chart at the FCC that 
+could provide such assistance and perspective if given the 
+right resources.
+    Third, Congress should consider encouraging the FCC to 
+adopt mechanisms that will allow it to communicate directly and 
+easily with rural telephone companies. The simplest, best way 
+for the FCC to ensure that it understands and can properly 
+assess the impact of a proposed rule on small telephone 
+companies is this: Ask them. But it is not always so simple. 
+There are hundreds of small telephone companies. Which one 
+should they call?
+    The FCC could make this ``just ask'' approach easier by 
+creating a standing task force or Federal advisory committee 
+consisting of rural telephone companies' representatives and 
+experts on rural economic development. This would put valuable 
+expertise close at hand and it would increase the likelihood 
+that the impact of new rules on rural telephone companies would 
+be authentically considered at the beginning of the process and 
+weighed appropriately throughout the process. That is the goal, 
+after all.
+    In a real way, the success of the RFA must be measured by 
+these substantive results, and even the most scrupulous 
+adherence to the formalities of the RFA's procedures should not 
+be viewed as a substitute.
+    My view is that it would be wise to pursue options such as 
+these before creating another step in the regulatory review 
+process, such as by empowering GAO to undertake its own RFA-
+type review. The views of GAO no doubt would make a thoughtful 
+contribution to the process, but one of the great problems of 
+rural telephone companies is the damage to investment plans 
+that uncertainty inflicts. Adding another possible review step 
+might exacerbate that uncertainty.
+    Nevertheless, even without new legislation, Congress can 
+have an important oversight role. Parties dissatisfied with the 
+way the RFA has been conducted in a particular case can call to 
+the Subcommittee's attention these deficiencies and provide the 
+basis for oversight steps with resulting guidance to the agency 
+for improvement.
+    I thank you very much, the Subcommittee, for your work in 
+this area and thank you very much for the opportunity to 
+testify.
+    Chairwoman Kelly. Thank you, Ms. Wallman.
+    [Ms. Wallman's statement may be found in appendix.]
+    Chairwoman Kelly. I appreciate the testimony of all of you 
+today. It seems to me that we have a problem with regard to an 
+enormous amount of rules and regulations that the agencies are 
+promulgating. I think that all of this testimony and any of it 
+is certainly helping us focus on how to resolve the problem and 
+make it easier for all of us to do our business, our small 
+businesses in the nation. I would like to ask some questions. I 
+am just going to ask a few of my questions first and then go to 
+Mr. Pascrell.
+    Mr. Murphy, I was really interested in some of your 
+testimony. I found that you cited cases where the statute 
+actually limited the agency's discretion in developing sound 
+regulation. When it is your belief that clarification is 
+necessary and that a law should be amended, how do you 
+communicate that to Congress?
+    Mr. Murphy. Well, in cases where we have been asked to look 
+at, for instance, the Unfunded Mandates Reform Act or the 
+Regulatory Flexibility Act and we have concluded that there 
+were aspects of the Act that really were not accomplishing what 
+we believe that the Congress intended by passing them in the 
+first place, we include recommendations in our reports to the 
+Congress suggesting that the Congress should consider whether 
+amending those statutes might accomplish their purpose.
+    Chairwoman Kelly. And that is a written report that comes 
+in?
+    Mr. Murphy. Yes, ma'am.
+    Chairwoman Kelly. I am interested because I am also 
+thinking that it might help us in Congress if you too 
+considered the Internet. That might be helpful to us. Are they 
+posted on the Internet?
+    Mr. Murphy. All of our reports are on the Internet. In 
+fact, our website gets some accolades. I think it includes not 
+only all of our reports, but all of our testimonies will be 
+there within a day of being given. Our legal opinions are 
+posted there, also.
+    Chairwoman Kelly. Do you know how often a member will then 
+take that information and use it to try to draft some sort of a 
+legislative solution or a fix to the problem?
+    Mr. Murphy. I have no way of knowing how often that occurs. 
+We have anecdotal--I can remember occasions when that occurred, 
+but we do not have any systematic way of measuring that.
+    Chairwoman Kelly. If you can already provide Congress with 
+independent assessments of the regulatory costs and benefits, 
+do you think that we could use COAARAA?
+    Mr. Murphy. Well, in this sense, I think it would be 
+important. The General Accounting Office, for example, is 
+responding to statutory requirements for evaluations and 
+requests from chairs and ranking minority members of Committees 
+and Subcommittees, and so when a request comes in for GAO to 
+take a look at a cost-benefit analysis, we do not have staff 
+that can drop the work they are doing for other members and 
+immediately jump on that. In order for the Congress to have 
+information about a regulatory impact analysis quickly enough 
+so that it can affect what the agency is actually accomplishing 
+and perhaps decide whether to use the Congressional Review Act, 
+which as you pointed out really has not been used at all, that 
+information has to come in very quickly.
+    So a CORA approach would allow GAO, or if it were located 
+someplace else, to establish a separate organization within GAO 
+staffed--we would have to hire economists and experts in 
+regulatory processes so that when the regulation hit the street 
+and a Committee was interested and wanted us to take a look at 
+it, we could look at it very, very quickly. Some of these 
+regulations are in development for years and so in order to 
+take a look at them and provide the information that Congress 
+needs, we think that a separate organization either within GAO 
+or in some other place is really critical.
+    Chairwoman Kelly. Do you think that the agencies, the sheer 
+number of regulations that the agencies produce every year 
+contributes to their inability to comply with all of the 
+regulations, or is that too loaded a question?
+    Mr. Murphy. I can only speculate, really. Every year, 
+agencies must report to GAO, provide to GAO and to the Congress 
+all of the rules which they are promulgating. I took a look at 
+the numbers that came in just last year to GAO and saw that 
+there were over 4,500 rules filed with GAO spread across a lot 
+of agencies. Many of these agencies have substantial numbers 
+that they are processing. I was looking at the Internal Revenue 
+Service which filed almost 250 rules with us. The Environmental 
+Protection Agency filed almost 750 rules with us, and that is 
+just in the last 12 months.
+    Chairwoman Kelly. That number again is 4,000 and something, 
+you said?
+    Mr. Murphy. Last year, yes, ma'am.
+    Chairwoman Kelly. Last year, it was 4,000----
+    Mr. Murphy. Four-thousand-five-hundred-and-thirty-four----
+    Chairwoman Kelly [continuing]. 534----
+    Mr. Murphy [continuing]. Regulations that were filed at GAO 
+in calendar year 1999.
+    Chairwoman Kelly. Well, it is no wonder that our small 
+businesses are having some problems with keeping up with 
+whatever is coming out there at them.
+    Mr. Murphy. It is a big government.
+    Chairwoman Kelly. And a highly active group of agencies.
+    Mr. Murphy. Yes, ma'am.
+    Chairwoman Kelly. It is not that anybody is doing something 
+that we perhaps do not need, but we need to find out if there 
+is a relief for some of this problem.
+    The other thing I would like to ask you is, when you look 
+at rules and regulations, do you also look for overlap and 
+redundancy?
+    Mr. Murphy. I think that is always something that you look 
+at. You look to see whether what the regulation is seeking to 
+accomplish is already being accomplished in other ways. That 
+would be a baseline that you would have to begin with.
+    Chairwoman Kelly. Within the single agency or across agency 
+lines?
+    Mr. Murphy. Well, we would have to be aware of whether it 
+was being accomplished across agency lines. That would be a 
+piece of information that agencies need. I am not sure as a 
+legal matter that that would be important to an agency who was 
+given the job of promulgating a regulation to implement a 
+statute. The fact that another agency is already working in 
+that area should be something that they take into account in 
+drafting their regulations, but they are still going to have to 
+implement their own regulations with respect to the statute.
+    Chairwoman Kelly. I am wondering, Mr. Hahn, I see you have 
+your hand up here. If you want to jump in, feel free. Anyone on 
+the panel is free to speak up here. These questions, I am just 
+speaking with Mr. Murphy, but feel free, Mr. Hahn.
+    Mr. Hahn. The problem that Mr. Murphy and you are talking 
+about is a fairly deep problem. Judge Breyer, before he became 
+Supreme Court Associate Justice, wrote a book called Breaking 
+the Vicious Circle, and one of the points that he made related 
+to a point that Mr. Murphy was making, that you have all of 
+these agencies trying to do good, if you will, on the basis of 
+statutes and turning out tremendous numbers of regulations. We 
+have no clue what is out there in terms of its impact. I can 
+say that because I am viewed at this point as one of the grand 
+old men in the field in terms of assessing the costs and 
+benefits. We do not even have time to look at the minor 
+regulations, and the agencies tell us they are simply too busy 
+to do it, cranking out stuff for Congress.
+    And Judge Breyer notes in his book, one of the problems is 
+each of these agencies, while they are trying to do good, they 
+are trying to do good usually in a single policy area, like the 
+environment, like consumer product safety, like FDA, whatever, 
+and he calls this tunnel vision, and it is not an accident that 
+that occurs. The question is, can we begin to develop 
+overarching legislation to put a check on this?
+    COAARAA is one example of that. We could talk about other 
+examples. I think COAARAA is really important. I think in 
+earlier testimony I pointed out that we are not sure that GAO 
+is the best place to put it. If I had my druthers, and perhaps 
+it is because I am obsessed with regulation, I would set up an 
+additional agency, which is not politically correct to do 
+today, but I think regulation is an important enough area to do 
+that. I think if you cannot do that, CBO is a more logical 
+place to put it.
+    But the generic problem, to suggest that we really know, in 
+direct response to your question, whether regulations are 
+consistent with each other and what is actually coming out of 
+the pipeline, we only have a very dim idea of what is going on.
+    Chairwoman Kelly. I thank you very much, Mr. Hahn. We have 
+considered some other alternatives as to the placement of 
+putting the office, the COAARAA office. Currently, I have a lot 
+of confidence in Mr. Murphy's group and I think a number of 
+other people do because they are in a position where they 
+already have a number of experts on staff. A separate 
+bureaucracy right now may be a step overreaching.
+    The importance to me of trying to get COAARAA in place is 
+simply that we have got, I think, to do something about the 
+fact that we are getting 4,534 regulations a year thrown at us 
+in all walks of business life and all walks of life, and I 
+think people get very concerned that we have this huge 
+bureaucracy. The only way that we can make it make sense is if 
+we make it accountable.
+    So I think that in the right instances, I think GAO is the 
+first place to do it, to start, and hopefully we will be able 
+to have in the budget enough money for them to be able to hire 
+people. We will get it started and we will at least begin the 
+walk. As you know, in Washington, thingsbegin slowly, and we 
+want to take it one step at a time because we want to make sure if we 
+are doing this, it is effective. That is the bottom line. We need to 
+relieve the problem, and I am sure you understand and agree with that.
+    Mr. Hahn, as long as we are talking, I think the 
+alternatives that are supplied often by the regulated community 
+and the data is often readily available, but the agencies just 
+ignore the alternatives and they pay no attention to the 
+executive order mandate. I wonder, again, if you want to 
+address that. Do you think that there is a way we can try to 
+make something happen there? I am concerned because from your 
+testimony, it seems to me that this is worse than I thought.
+    Mr. Hahn. Well, we did not know how bad it was until we 
+actually did this fairly serious study, which is published on 
+our website. How do you get the agencies to do it? Well, OMB 
+issued guidelines. Several distinguished economists have said 
+it is a good idea. Congressman Pascrell, this really relates to 
+the point you made in the beginning about implementation. You 
+and the other side of Pennsylvania Avenue have to have the 
+political will to do this. You both can exercise it 
+independently or you can work together, but you could do lots 
+of very simple things.
+    You could say, if you do not make an honest attempt to look 
+at alternatives, the regulation will not move forward, except 
+in cases of emergency because people will yell at you and say, 
+my gosh, what if there is this emergency regulation? But that 
+is one way to do it. You simply write into law that a 
+regulation is not going to move forward unless it passes the 
+kind of checklist that we put at the end of our testimony. Did 
+you consider cost? Did you consider benefits? Did you consider 
+alternatives? Did you consult with important parties to this 
+regulation, or whatever?
+    So you can do it. We are not talking rocket science here. 
+The reason I am big on providing a summary statement at the 
+beginning of a regulatory impact analysis and in clear English, 
+a paragraph, what you did--we took a look at this regulation on 
+truckers, for example, and we think it is going to have these 
+costs, these benefits, these groups will be advantaged, these 
+groups will be disadvantaged--people are going to see that.
+    Right now, these documents are written in Greek. They are 
+hard to dissect, purposely so in some cases. They do not want 
+you to know that they are not considering alternatives. There 
+are five people at OMB who know this. I know this. Jason 
+Burnett knows this. But most of the rest of the world does not 
+know or does not care. And if we can get this information out 
+there in summary form so people can use it, see in some cases 
+how regulations are well designed and in other cases they are 
+very poorly designed, I think we can make a lot of progress.
+    The key, as Congressman Pascrell points out, is what hooks 
+do you put in either legislation or what executive orders do 
+you impose and what enforcement guidelines are there. If there 
+is no enforcement, we can just forget it.
+    Chairwoman Kelly. So, Mr. Hahn, if I understand you 
+correctly--let me rephrase this. What is so difficult about 
+having some of these alternative things, do you think?
+    Mr. Hahn. Nothing. It is political will. My shorthand 
+language for that is guts. If a President wanted to spend some 
+political capital on this, he or she could do so. If the 
+Congress was oriented in this direction, and I think this is a 
+bipartisan issue in a lot of ways----
+    Chairwoman Kelly. It definitely is.
+    Mr. Hahn [continuing]. I just do not think it is on the 
+radar screen of lots of people because it does not have a high 
+political payoff, even though it is potentially big bucks in 
+the large for the economy, these 4,500 regulations that Mr. 
+Murphy talks about.
+    But I think a starting point that is just not going to be 
+controversial at all is to say, let us force these regulations 
+before they move forward, force the analysts who are doing 
+these analyses to fill out a little summary and write a 
+paragraph in English that a layperson can understand with a 
+high school education. I think that is a starting point, 
+because then you are going to see the kinds of results that 
+have emerged from our fairly exhaustive analysis, which took a 
+summer to do.
+    You can see it very quickly.
+    Chairwoman Kelly. Mr. Hahn, can you explain why in 
+approximately 60 percent of the rules that you studied, the 
+benefit numbers in the Federal Register were inconsistent with 
+the IRA?
+    Mr. Hahn. With the RIA?
+    Chairwoman Kelly. Excuse me, the RIA?
+    Mr. Hahn. I would ask Jason to answer that.
+    Chairwoman Kelly. Come forward and identify yourself, 
+please.
+    Mr. Burnett. I am Jason Burnett. I work at the AEI-
+Brookings Joint Center. I think that there are probably two 
+reasons for that. First of all, the RIA is created for the 
+proposed rule and there are some changes in the final rule and 
+some changes both in the analysis as well as the rule itself. 
+That would explain some of the inconsistencies.
+    The second reason may be that incompetency on the behalf of 
+agencies. We found several cases where agencies use an 
+inconsistent discount rate or dollar year within a single 
+document and there's no good explanation for that.
+    Chairwoman Kelly. Do you think there are two sets of 
+benefit numbers being calculated?
+    Mr. Burnett. Two separate?
+    Chairwoman Kelly. Yes, several sets?
+    Mr. Hahn. Let me take this question, Jason. Jason is not 
+used to being on the record. We simply do not know. I mean, we 
+do not have the data. As he pointed out, the inconsistencies 
+are there, but I do not think we know.
+    Chairwoman Kelly. Okay. Thank you very much.
+    I wanted to ask Mr. Ricciardi, Mr. Ricciardi, you have 
+asked for a stay of action, and I really appreciate your 
+testimony. I think both you and Mr. Addington offer good 
+examples of just what the problem is with regard to these 
+agencies promulgating rules that they perhaps have not looked 
+at the total effect of. Can you just quickly tell me where that 
+stay of action is?
+    Mr. Ricciardi. The stay has been granted. Originally, the 
+regulation was to take place December of this year and the stay 
+was granted until October of the year 2001. But if I can equate 
+it to our business and the businesses that I represent, I feel 
+like a prisoner on death row who has been stayed, and the 
+reason I say that is our attempts to bring our message to the 
+FDA, in correspondence that the FDA has made, they do not seem 
+to want to move on the regulation.
+    I am relatively new at this process, Madam Chairman, and I 
+am learning as I go. One of the suggestions I could make to any 
+agency is for representatives of those agencies, prior to 
+regulation, is to come and visit with the companies that they 
+are regulating. I have had a couple meetings and correspondence 
+with the FDA, and in every correspondence that I have had, I 
+have suggested that they come and visit our organization, and 
+to this date, they have not.
+    Chairwoman Kelly. Thank you. We have just been called for a 
+vote, and I am thinking I would like to hold this open. What I 
+am going to do is I am going to hold the hearing open.
+    I am going to allow Mr. Pascrell to question at this time. 
+We can stay for at least the second bell.
+    Mr. Pascrell. Thank you, Madam Chairman.
+    Mr. Hahn, you held up the regulatory impact summary. Are 
+you saying that nothing like that exists at this point?
+    Mr. Hahn. Nothing to my knowledge.
+    Mr. Pascrell. So this is a two-sheet form here which you 
+are recommending.
+    Mr. Hahn. Right. It could be a one-sheet form. It does not 
+really matter.
+    Mr. Pascrell. But how are records kept, then, by those rule 
+makers? I mean, this seems to be a very simple form to the 
+point you made it that way. This is like rule and regulation 
+making disclosure. I want to know who makes these things. The 
+folks out there have a right to know who makes the rules and 
+where the regulations are coming from, and if these folks are 
+hiding behind the screen of employment, behind their jobs, then 
+there is something wrong. I mean, talk about cooking the books. 
+If we are not disclosing the purpose of the rule, the cost and 
+the benefit, it seems to me we are not doing anything.
+    Mr. Hahn. They are disclosing. They are just disclosing 
+sometimes in 100 to 1,000 pages and I would prefer it in one or 
+two pages for people who do not have an infinite amount of time 
+to read this wonderfully written prose, so-called regulatory 
+impact analysis.
+    Mr. Pascrell. If we lay this out, I think the political 
+will will be there, and some of these things do not need 
+another bill passage. These things can be done internally, so 
+that if the administration, whatever that administration looks 
+like in the future or is now, that administration can basically 
+send out some orders to indicate that this is what we would 
+like to happen so we keep track of what is going on if we want 
+to do that. Now, we may not want to know what is going on. We 
+may not want to. We may simply want a headline that these are 
+the rules of the FDA, these are the rules, et cetera, et 
+cetera, but we do not care down the road what is going to 
+happen, what the results were going to be.
+    I was interested, Mr. Murphy, how many of those 4,500 rules 
+or regulations that you talked about were promulgated by the 
+INS, God bless them?
+    Mr. Murphy. Well, I think I can tell you, Mr. Pascrell. 
+Sixteen.
+    Mr. Pascrell. That is pretty conservative.
+    Mr. Murphy. I have to say that we do an audit comparing the 
+Federal Register to what is filed at GAO and we find annually 
+several hundred that are not filed at GAO, largely through 
+oversight. And also, there are a lot of regulations that are 
+not filed because the agencies contend they are not 
+regulations. For instance, the Tongass Forest management plan, 
+which took ten years to develop, the agency says it is not a 
+regulation and so they are not----
+    Mr. Pascrell. The agency determines itself whether it 
+defines such and such as a regulation?
+    Mr. Murphy. Yes. We have been unable to get OMB to take 
+leadership to clarify that over the last four years.
+    Mr. Pascrell. This is government in absentia. There is no 
+two ways about it. It seems to me there is very little 
+difference between Red China and what you are doing in 
+subverting the will of the people. That is why we have a 
+legislative branch of government, why we have an administrative 
+branch of government, in terms of checks and balances but even 
+to find public disclosure. I find that obscene, if I can choose 
+that word, since every other word has been used. I find it 
+obscene, the methodology of how most of these rules and 
+regulations are coming to the fore.
+    Let me ask, if the agencies are subverting--we have the 
+idea in our minds that the end goal is who is the President and 
+what does the Congress look like. Second-level, third-level 
+management in these agencies remain the same, and we do this on 
+the State level when I was a State legislator. We are 
+forgetting this. They are going along the merry path writing 
+these rules and regulations and I am sure it is not all 
+cavalier, but that is the impression I am getting.
+    Mr. Ricciardi, who benefits, to use your example, from the 
+definition, the shrinking definition of who can sell 
+pharmaceutical products? Who is benefitting from that rule, 
+from that----
+    Mr. Ricciardi. From that new regulation?
+    Mr. Pascrell. Yes.
+    Mr. Ricciardi. The manufacturers, and they will increase 
+drug prices.
+    Mr. Pascrell. So the pharmaceutical companies are.
+    Mr. Ricciardi. That is correct.
+    Mr. Pascrell. Can you explain for the record, very briefly, 
+how they do that?
+    Mr. Ricciardi. There is multiple pricing throughout the 
+country at any given point in time, and as long as there is 
+more than one drug for a particular illness, such as to treat 
+prostate, there is open market trading of pricing on drugs and 
+we as a company and the 4,000 companies that are out there find 
+opportunities to keep the prices down and buy throughout the 
+country. By eliminating us as part of the open market system, 
+the manufacturers will then be able to dictate their price and 
+will be able to charge higher prices to the wholesaler, 
+ultimately the consumer.
+    Mr. Pascrell. And this came out of a 1988 law?
+    Mr. Ricciardi. Yes.
+    Mr. Pascrell. And we are just getting to the promulgation 
+of this thing at this particular point, and 4,000 companies are 
+going to be affected.
+    Let me just conclude by saying this. The more I get into 
+this, the more animated I become in spirit. If we are to 
+compete on a worldwide basis, and indeed if we are going to 
+compete within our own borders, we need to make sure that we 
+are not shrinking the possibilities of competition.
+    It would seem to me that many of our companies that have to 
+deal with environmental rules and regulations have good records 
+on the environment, but how can our companies compete with the 
+Chinese rules and regulations in the final analysis? We have 
+found the downside of our trade with Mexico when our companies 
+just cannot compete. We have to spend thousands and thousands 
+of dollars to meet these rules and regulations while these 
+characters, many of them American corporations producing down 
+in Mexico, have a cakewalk.
+    So we talk out of both sides of our mouths and I want this 
+to continue. I do not think we can continue today, but I think 
+there is a lot more here than meets the eye and I really 
+appreciate all of your testimony.
+    Chairwoman Kelly. I am going to recess the Committee for 
+approximately ten minutes while we go to the floor and vote and 
+come back. Mr. Pascrell, thank you, and I will also hold the 
+hearing open so that you can submit written questions if you 
+would like. Thank you.
+    [Recess.]
+    Chairwoman Kelly. Thank you for waiting for the vote. I 
+apologize. It took a bit longer than we expected.
+    I want to go back and ask a couple more questions. I think 
+Mr. Pascrell is coming back, but even if not, there are a 
+couple more questions that I would like to ask.
+    Ms. Wallman, do you think the FCC adequately estimates the 
+costs and benefits of the proposed regulation of small 
+telephone companies?
+    Ms. Wallman. I think that there are ways in which they 
+could do a much better job. The analogy that comes to mind, 
+what I was thinking about, what I would do if I had a magic 
+wand goes back to 1993 when the FCC started hiring a lot of 
+economists. Before that time, the economic analysis review was 
+done at the end of the process. There was a chief economist 
+whohad no staff and he would look it over at the end and make sure it 
+did not commit any mortal sins, but by that time, the decision was 
+really made and it was made by people in other disciplines who did the 
+best job that they could figuring out what the right answer was based 
+on comments in the record.
+    In 1993 and 1994, the FCC started hiring a lot of 
+economists and they started sprinkling them throughout all the 
+bureaus and it really effected a transformation in the way that 
+the rules were conceived and developed and written because at 
+every stage, not just at the end, you had the influence of 
+economists saying not just what do you think is the right 
+answer but what is the empirical case for this being the right 
+answer or the best answer.
+    And so I think that really this is a question of management 
+focus and really changing the mission definition, the hearts 
+and minds of the people actually writing the rules and 
+sprinkling throughout the agency people who are adept at either 
+knowing on their own or being able to draw from people who are 
+in the small telephony business what the real impact will be on 
+a day-to-day basis.
+    So there is room for improvement, and if I had a magic 
+wand, what I would do is sprinkle that expertise throughout the 
+agency so that it would be there at the beginning, middle, and 
+end of the process, not just at the end looking back at what 
+has already been done.
+    Chairwoman Kelly. Thank you. I think that is a very 
+interesting and good answer that could be utilized by other 
+agencies, as well. Should the FCC, do you think, establish a 
+separate office? Would that help, a separate office to perform 
+the reg flex analyses?
+    Ms. Wallman. I think that they probably have enough boxes 
+on the organizational chart that there may be some candidates 
+there already. My experience there was in 1994 and 1995, so I 
+am sure things have changed since then, but my understanding 
+now is that in addition to having the bureau with substantive 
+expertise and actually writing the rule involved, they do get 
+comment from other groups. But the pen is held by the people in 
+the substantive bureau. It may be that the folks who have 
+stayed up all night actually writing a substantive regulation 
+would benefit from stronger input from the general counsel's 
+office and from the business opportunity office.
+    So establishing an additional box, my inclination is 
+generally against creating new units, but I think there are 
+talented people there whose talents could be supplemented with 
+the right resources so that they could improve the way that 
+they do the analyses.
+    Chairwoman Kelly. When the EPA and the OSHA issue some 
+significant proposal, they are required by law to put together 
+groups that are basically focus groups of the businesses, 
+people who are affected by the proposed rulemaking and by the 
+proposed rule. Do you think that that would be an option for 
+the FCC? It might slow the process, but do you think that might 
+be worth it?
+    Ms. Wallman. I think it would be a great idea. I had an 
+opportunity to see how some of those EPA-type groups work when 
+I was at the White House and I thought they were really quite 
+helpful. And hearing the presentation live was very helpful. 
+The FCC gets written comments. I should say that in many cases, 
+I know some decision makers in the Commission will bring people 
+in. Sometimes they will bring them in and sort of stage a 
+debate so that they can make sure they are not persuaded by the 
+last voice they have heard. They have people come in and they 
+actually go back and forth and try to hear the debate live. But 
+I think opportunities like that, like what EPA does, like what 
+OMB does in some cases, could be a real illumination of the 
+process at the FCC.
+    Chairwoman Kelly. Thank you. I really appreciate your 
+testimony here today. I think you have added a lot because of 
+your perspective.
+    I want to go to you, Mr. Addington. Yesterday at the full 
+Committee hearing, we had John Spotila, the Administrator of 
+OIRA and he commended the FMCSA for their regulatory 
+streamlining efforts, and I asked him then if the FMCSA had 
+developed too many resources to streamlining and not enough 
+resources to complete regulatory analysis, given the trucking 
+and bus industry's complaints about the hours of service rule, 
+and he replied, and I am quoting, that DOT would be considering 
+all of the comments and that the comment period has not yet 
+closed. He implied my question was jumping the gun.
+    How do you respond to his suggestion? My question really is 
+based a question that I am jumping from earlier that I asked, 
+basically, and that is do you think that we should wait for the 
+comment period to close before----
+    Mr. Addington. No, ma'am. As I told you in my testimony, 
+the American Trucking Associations has worked before years 
+because we want----
+    Chairwoman Kelly. Can you pull the microphone closer to 
+your mouth? Thank you.
+    Mr. Addington. The American Trucking Associations, as I 
+said in my testimony, has been seeking hours of service reform. 
+The rules we have now on the books come from 1937, I believe it 
+is. They last had any significant amendment in 1962 and they 
+are out of date and they need work, and we agree with the 
+government on that.
+    We were, frankly, surprised when they issued the proposal 
+that they issued because we had expected it to be somewhat in 
+the ballpark so that you could hope in the normal rulemaking 
+process to improve things, to get the data out there and fix 
+it. We also expected, frankly, that the Regulatory Flexibility 
+Act, all the other requirements would be complied with in such 
+a way that, frankly, they would have a better product. We think 
+it is so bad that we need to stop and start over.
+    One thing I will say in their defense in this process is 
+what is now the Federal Motor Carrier Safety Administration has 
+been through the bureaucratic equivalent of the seven circles 
+of hell in the last year. At the beginning of 1999, they were 
+known as the Office of Motor Carriers in the Federal Highway 
+Administration. Then Congress passed as part of the 
+Appropriation Act, because Congress was not satisfied with the 
+performance of that office as part of the Federal Highway 
+Administration, a prohibition on the Transportation 
+Department's appropriations bill for the fiscal year 2000 that 
+said the Secretary of Transportation cannot delegate his 
+trucking authority to that office as long as that office stays 
+in the Federal Highway Administration.
+    So the Transportation Department had to figure out, okay, 
+what do we do with it? They established a new office in the 
+Office of the Secretary of Transportation known as the Office 
+of Motor Carrier Safety, moved the bureaucratic boxes around, 
+pushed people, different people in charge, lots of paperwork 
+for delegations of authority and all that.
+    It was not there more than a few months, I believe, at the 
+most, because we, and we considered this a good thing, the 
+trucking industry fought for this, creation of the Federal 
+Motor Carrier Safety Administration as a separate modal in 
+administration of the Department. That took effect January 1.
+    So all the boxes over there are moving back and forth. The 
+people are moving back and forth. People are spending their 
+time trying to figure out, which appropriations accounts do I 
+charge for what? They are in all this while they are trying to 
+produce these rules. So that may account for some of the reason 
+that people did not quite get the thorough job that the law 
+requires done to put together the regulatory package. That is 
+not necessarily an excuse, and certainly is not to us. We will 
+fight in the rulemaking and we will fight in the courts later, 
+if necessary, because it is thegovernment's responsibility to 
+govern properly, but it may explain why they had as much trouble as 
+they had trying to put together a regulatory package.
+    Chairwoman Kelly. Well, I also sit on the Transportation 
+Committee and I was in on those hearings and I know why 
+Congress did what it did and I know it has been a problem 
+perhaps to make sure that you are getting the right letterhead 
+at the top of the stationery, but on the other hand, we want to 
+make sure that we are able to have an office that is a 
+responsible office. That was why it was moved around a little 
+bit, but----
+    Mr. Addington. And we supported what Congress did. We think 
+that is great.
+    Chairwoman Kelly. Oh, I know you did. I know you were 
+there, and there were many people from the industry that 
+testified. But I am very saddened to see this regulation coming 
+out and I am concerned that I believe there was just a sloppy 
+initial reg flex analysis on this. You evidently feel that they 
+just probably did not have the right information or enough 
+careful information in order to put the rule together before 
+they wrote the rule.
+    I am not going to ask that in the form of a question 
+because I do not want to put you on the spot, but I want to ask 
+another question and that is, do you think that this proposal 
+should be withdrawn and reissued after the DOT and the FMCSA do 
+another analysis under the Regulatory Flexibility Act?
+    Mr. Addington. Yes, ma'am. I think it ought to be withdrawn 
+and done properly under the current laws, and that will be part 
+of the comments that we will file with the Department. It is to 
+their advantage, as well, because there is no point in all of 
+us putting this massive energy in this to end up litigating 
+this in court because they have not complied with the 
+applicable laws.
+    Chairwoman Kelly. All right. Thank you very much. I will 
+not only--I am glad we have that in our record, but I will see 
+that we manage to get the record transmitted to the other 
+Committee, as well.
+    I want to go back now just to discuss COAARAA, since it is 
+dear to my heart. This question is really for Mr. Hahn and Mr. 
+Murphy. Some people feel that Congress has oversight at any 
+point in the process and that currently through hearings, 
+Congress can better understand agency rulemakings and analyses 
+and that COAARAA is not needed. I would like very much to hear 
+both of you discuss how you feel that COAARAA would be useful. 
+We can start with you, Mr. Hahn, or whichever. Mr. Murphy.
+    Mr. Hahn. I testified on this, and I am happy to refer you 
+to that, and I think you know more about this subject than I 
+do, but let me suggest that I think COAARAA is useful for at 
+least three reasons, and the relevant analogy here, as you 
+know, has to do with OMB, when we had a budget process without 
+CBO. I think it is much improved by having the two 
+organizations compete with each other and they provide an 
+independent check on each other. So that is one good reason. 
+You have an independent check on the analysis of the executive 
+branch.
+    A second is a lot of what OMB does is not always open to 
+the public, and I think COAARAA would make the process more 
+transparent and improve the process and in so doing it will 
+give you better ideas for improving your laws and the 
+regulators better ideas for improving regulations. So it is 
+really that simple to me.
+    Chairwoman Kelly. Thank you very much, Mr. Hahn. Mr. 
+Murphy?
+    Mr. Murphy. Madam Chairwoman, I was thinking that maybe one 
+way to respond would be to ask Curtis Copeland to talk about 
+some actual examples where we have been able to look at 
+economic models or look at the highly technical details of the 
+regulation process, something that really would be more 
+difficult for a Committee or a Subcommittee to do in the course 
+of the hearing format or the hearing model, and because we have 
+been able to get into those--in fact, we have a number underway 
+at the moment with respect to EPA regulations--we have been 
+able to get the kinds of information that would be useful to 
+the Congress, that otherwise would be very difficult to come up 
+with, through a more CORA-type model.
+    Chairwoman Kelly. Mr. Copeland, would you like to identify 
+yourself, and yes, by all means, we would be glad to hear from 
+you.
+    Mr. Copeland. Sure. I am Curtis Copeland. I am an Assistant 
+Director within the General Government Division at GAO and we 
+do a lot of the cross-cutting work that looks at agencies' 
+compliance with these analytical and procedural requirements.
+    The rules that we have looked at over the course of the 
+last few years in many cases are highly technical. For example, 
+we are looking at one now, a rule that EPA issued last year 
+that drops the threshold for reporting of lead and lead 
+compounds under the Toxic Release Inventory Program from 25,000 
+pounds to ten pounds, and EPA said that this rule would not 
+have a significant economic impact on small businesses and so 
+we have been asked to look at that certification statement.
+    It is extraordinarily difficult to plow into an economic 
+analysis that has six different chapters and is about 300 or 
+400 pages in length. So it is something that requires a great 
+deal of effort just to get comfortable with what the agency is 
+describing, much less trying to get into the particulars as to 
+what alternatives they might could have considered.
+    Last year, we looked at a rule that FDA issued on the 
+dietary supplements containing ephedrine alkaloids and the 
+science behind that and the adverse event reports that are 
+being reported to FDA, and after a great deal of review, 
+looking at more than 1,000 of these adverse event reports, we 
+determined that only 13 of them really constituted the basis of 
+the rule. And so it took a long time, though, to determine that 
+those 13 were the critical ones that FDA relied on, and so we 
+suggested that EPA get better data in order to support the 
+rulemaking and FDA agreed with us and in February of this year 
+withdrew the rule.
+    Chairwoman Kelly. Good. Thank you very much for saying 
+that. I think that is part of the problem. It is almost 
+impossible for our staffs here, if we wanted to look at a rule 
+before it was actually finalized, it is almost impossible for 
+our staffs to, under the workload that they carry, to examine 
+all of this. And also, it is a problem with regard to their 
+expertise. So I think it is always important that we try to do 
+something.
+    I think that the whole point of what I am trying to do with 
+COAARAA, what I am hoping to do with COAARAA is to raise the 
+quality of the analyses and ask the agencies to be more 
+careful, as you have just pointed out, in terms of not only 
+looking within themselves but also transmitting that 
+information to those people who are going to be affected by the 
+rule or regulation.
+    I think that we have identified in this hearing that there 
+is a problem and we are following your model, Mr. Hahn. We are 
+identifying the problem, we are analyzing the problem, and I 
+think the answer for us perhaps is to start with passing 
+COAARAA.
+    I really thank you very much. I think that it is really 
+wonderful that you were willing to sit through as lengthy a 
+process as this has been. I did not expect it to be that when 
+we set this meeting for ten o'clock in the morning, but I thank 
+all of you for being here and I thank you very much for your 
+testimony. You may be hearing from some of the other members of 
+the Committee simply because there is so much going on on the 
+Hill today, markups and so forth, that that is why some people 
+could not be here.
+    With that, I am going to adjourn. Thank you very much. 
+[Whereupon, at 1:00 p.m., the Subcommittee was adjourned.]
+[GRAPHIC] [TIFF OMITTED] T7352A.001
+
+[GRAPHIC] [TIFF OMITTED] T7352A.002
+
+[GRAPHIC] [TIFF OMITTED] T7352A.003
+
+[GRAPHIC] [TIFF OMITTED] T7352A.004
+
+[GRAPHIC] [TIFF OMITTED] T7352A.005
+
+[GRAPHIC] [TIFF OMITTED] T7352A.006
+
+[GRAPHIC] [TIFF OMITTED] T7352A.007
+
+[GRAPHIC] [TIFF OMITTED] T7352A.008
+
+[GRAPHIC] [TIFF OMITTED] T7352A.009
+
+[GRAPHIC] [TIFF OMITTED] T7352A.010
+
+[GRAPHIC] [TIFF OMITTED] T7352A.011
+
+[GRAPHIC] [TIFF OMITTED] T7352A.012
+
+[GRAPHIC] [TIFF OMITTED] T7352A.013
+
+[GRAPHIC] [TIFF OMITTED] T7352A.014
+
+[GRAPHIC] [TIFF OMITTED] T7352A.015
+
+[GRAPHIC] [TIFF OMITTED] T7352A.016
+
+[GRAPHIC] [TIFF OMITTED] T7352A.017
+
+[GRAPHIC] [TIFF OMITTED] T7352A.018
+
+[GRAPHIC] [TIFF OMITTED] T7352A.019
+
+[GRAPHIC] [TIFF OMITTED] T7352A.020
+
+[GRAPHIC] [TIFF OMITTED] T7352A.021
+
+[GRAPHIC] [TIFF OMITTED] T7352A.022
+
+[GRAPHIC] [TIFF OMITTED] T7352A.023
+
+[GRAPHIC] [TIFF OMITTED] T7352A.024
+
+[GRAPHIC] [TIFF OMITTED] T7352A.025
+
+[GRAPHIC] [TIFF OMITTED] T7352A.026
+
+[GRAPHIC] [TIFF OMITTED] T7352A.027
+
+[GRAPHIC] [TIFF OMITTED] T7352A.028
+
+[GRAPHIC] [TIFF OMITTED] T7352A.029
+
+[GRAPHIC] [TIFF OMITTED] T7352A.030
+
+[GRAPHIC] [TIFF OMITTED] T7352A.031
+
+[GRAPHIC] [TIFF OMITTED] T7352A.032
+
+[GRAPHIC] [TIFF OMITTED] T7352A.033
+
+[GRAPHIC] [TIFF OMITTED] T7352A.034
+
+[GRAPHIC] [TIFF OMITTED] T7352A.035
+
+[GRAPHIC] [TIFF OMITTED] T7352A.036
+
+[GRAPHIC] [TIFF OMITTED] T7352A.037
+
+[GRAPHIC] [TIFF OMITTED] T7352A.038
+
+[GRAPHIC] [TIFF OMITTED] T7352A.039
+
+[GRAPHIC] [TIFF OMITTED] T7352A.040
+
+[GRAPHIC] [TIFF OMITTED] T7352A.041
+
+[GRAPHIC] [TIFF OMITTED] T7352A.042
+
+[GRAPHIC] [TIFF OMITTED] T7352A.043
+
+[GRAPHIC] [TIFF OMITTED] T7352A.044
+
+[GRAPHIC] [TIFF OMITTED] T7352A.045
+
+[GRAPHIC] [TIFF OMITTED] T7352A.046
+
+[GRAPHIC] [TIFF OMITTED] T7352A.047
+
+[GRAPHIC] [TIFF OMITTED] T7352A.048
+
+[GRAPHIC] [TIFF OMITTED] T7352A.049
+
+[GRAPHIC] [TIFF OMITTED] T7352A.050
+
+[GRAPHIC] [TIFF OMITTED] T7352A.051
+
+[GRAPHIC] [TIFF OMITTED] T7352A.052
+
+[GRAPHIC] [TIFF OMITTED] T7352A.053
+
+[GRAPHIC] [TIFF OMITTED] T7352A.054
+
+[GRAPHIC] [TIFF OMITTED] T7352A.055
+
+[GRAPHIC] [TIFF OMITTED] T7352A.056
+
+[GRAPHIC] [TIFF OMITTED] T7352A.057
+
+[GRAPHIC] [TIFF OMITTED] T7352A.058
+
+[GRAPHIC] [TIFF OMITTED] T7352A.059
+
+[GRAPHIC] [TIFF OMITTED] T7352A.060
+
+[GRAPHIC] [TIFF OMITTED] T7352A.061
+
+[GRAPHIC] [TIFF OMITTED] T7352A.062
+
+[GRAPHIC] [TIFF OMITTED] T7352A.063
+
+[GRAPHIC] [TIFF OMITTED] T7352A.064
+
+[GRAPHIC] [TIFF OMITTED] T7352A.065
+
+[GRAPHIC] [TIFF OMITTED] T7352A.066
+
+[GRAPHIC] [TIFF OMITTED] T7352A.067
+
+[GRAPHIC] [TIFF OMITTED] T7352A.068
+
+[GRAPHIC] [TIFF OMITTED] T7352A.069
+
+[GRAPHIC] [TIFF OMITTED] T7352A.070
+
+[GRAPHIC] [TIFF OMITTED] T7352A.071
+
+[GRAPHIC] [TIFF OMITTED] T7352A.072
+
+[GRAPHIC] [TIFF OMITTED] T7352A.073
+
+[GRAPHIC] [TIFF OMITTED] T7352A.074
+
+[GRAPHIC] [TIFF OMITTED] T7352A.075
+
+[GRAPHIC] [TIFF OMITTED] T7352A.076
+
+[GRAPHIC] [TIFF OMITTED] T7352A.077
+
+[GRAPHIC] [TIFF OMITTED] T7352A.078
+
+[GRAPHIC] [TIFF OMITTED] T7352A.079
+
+[GRAPHIC] [TIFF OMITTED] T7352A.080
+
+[GRAPHIC] [TIFF OMITTED] T7352A.081
+
+[GRAPHIC] [TIFF OMITTED] T7352A.082
+
+[GRAPHIC] [TIFF OMITTED] T7352A.083
+
+[GRAPHIC] [TIFF OMITTED] T7352A.084
+
+[GRAPHIC] [TIFF OMITTED] T7352A.085
+
+[GRAPHIC] [TIFF OMITTED] T7352A.086
+
+[GRAPHIC] [TIFF OMITTED] T7352A.087
+
+[GRAPHIC] [TIFF OMITTED] T7352A.088
+
+[GRAPHIC] [TIFF OMITTED] T7352A.089
+
+[GRAPHIC] [TIFF OMITTED] T7352A.090
+
+[GRAPHIC] [TIFF OMITTED] T7352A.091
+
+[GRAPHIC] [TIFF OMITTED] T7352A.092
+
+[GRAPHIC] [TIFF OMITTED] T7352A.093
+
+[GRAPHIC] [TIFF OMITTED] T7352A.094
+
+[GRAPHIC] [TIFF OMITTED] T7352A.095
+
+[GRAPHIC] [TIFF OMITTED] T7352A.096
+
+[GRAPHIC] [TIFF OMITTED] T7352A.097
+
+[GRAPHIC] [TIFF OMITTED] T7352A.098
+
+[GRAPHIC] [TIFF OMITTED] T7352A.099
+
+[GRAPHIC] [TIFF OMITTED] T7352A.100
+
+[GRAPHIC] [TIFF OMITTED] T7352A.101
+
+[GRAPHIC] [TIFF OMITTED] T7352A.102
+
+[GRAPHIC] [TIFF OMITTED] T7352A.103
+
+[GRAPHIC] [TIFF OMITTED] T7352A.104
+
+[GRAPHIC] [TIFF OMITTED] T7352A.105
+
+                                <greek-d>
+
+</pre></body></html>

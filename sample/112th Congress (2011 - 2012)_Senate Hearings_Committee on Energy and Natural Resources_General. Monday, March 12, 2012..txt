@@ -1,0 +1,2791 @@
+<html>
+<title> - THE DEPARTMENT OF NAVY'S ENERGY PROGRAM</title>
+<body><pre>
+[Senate Hearing 112-389]
+[From the U.S. Government Printing Office]
+
+
+
+                                                        S. Hrg. 112-389
+ 
+                THE DEPARTMENT OF NAVY'S ENERGY PROGRAM
+
+=======================================================================
+
+
+
+                                HEARING
+
+                               before the
+
+                    SUBCOMMITTEE ON WATER AND POWER
+
+                                 of the
+
+                              COMMITTEE ON
+
+                      ENERGY AND NATURAL RESOURCES
+
+                          UNITED STATES SENATE
+
+                      ONE HUNDRED TWELFTH CONGRESS
+
+                             SECOND SESSION
+
+                                   TO
+
+ RECEIVE TESTIMONY ON SPECIFIC ENERGY AND WATER POLICIES AND PROGRAMS 
+THAT THE U.S. DEPARTMENT OF NAVY IS IMPLEMENTING AS IT PERTAINS TO ITS 
+                       OPERATIONS AND FACILITIES
+
+                               __________
+
+                      NORFOLK, VA, MARCH 12, 2012
+
+
+                       Printed for the use of the
+               Committee on Energy and Natural Resources
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+74-184                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+                  JEFF BINGAMAN, New Mexico, Chairman
+
+RON WYDEN, Oregon                    LISA MURKOWSKI, Alaska
+TIM JOHNSON, South Dakota            JOHN BARRASSO, Wyoming
+MARY L. LANDRIEU, Louisiana          JAMES E. RISCH, Idaho
+MARIA CANTWELL, Washington           MIKE LEE, Utah
+BERNARD SANDERS, Vermont             RAND PAUL, Kentucky
+DEBBIE STABENOW, Michigan            DANIEL COATS, Indiana
+MARK UDALL, Colorado                 ROB PORTMAN, Ohio
+JEANNE SHAHEEN, New Hampshire        JOHN HOEVEN, North Dakota
+AL FRANKEN, Minnesota                DEAN HELLER, Nevada
+JOE MANCHIN, III, West Virginia      BOB CORKER, Tennessee
+CHRISTOPHER A. COONS, Delaware
+
+                    Robert M. Simon, Staff Director
+                      Sam E. Fowler, Chief Counsel
+               McKie Campbell, Republican Staff Director
+               Karen K. Billups, Republican Chief Counsel
+                                 ------                                
+
+                    Subcommittee on Water and Power
+
+                JEANNE SHAHEEN, New Hampshire, Chairman
+
+RON WYDEN, Oregon                    MIKE LEE, Utah, Ranking
+TIM JOHNSON, South Dakota            JAMES E. RISCH, Idaho
+MARIA CANTWELL, Washington           DANIEL COATS, Indiana
+BERNARD SANDERS, Vermont             JOHN HOEVEN, North Dakota
+DEBBIE STABENOW, Michigan            DEAN HELLER, Nevada
+JOE MANCHIN, III, West Virginia      BOB CORKER, Tennessee
+
+    Jeff Bingaman and Lisa Murkowski are Ex Officio Members of the 
+                              Subcommittee
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                               STATEMENTS
+
+                                                                   Page
+
+Alexander, Rear Admiral Townsend, Commander, Navy Region Mid-
+  Atlantic, Department of the Navy...............................    30
+Charette, Colonel Robert, Director, Marine Corps Expeditionary 
+  Energy Office, Marine Corps....................................    33
+Cullom, Vice Admiral Philip, Deputy Chief of Naval Operations, 
+  Fleet Readiness and Logistics, Department of the Navy..........    29
+Hicks, Thomas, Deputy Assistant Secretary of the Navy, Energy, 
+  Department of the Navy.........................................    27
+Kessler, Major General James, Commander, Marine Corps 
+  Installations Command, Marine Corps............................    32
+Mabus, Hon. Raymond E., Secretary of the Navy, Department of the 
+  Navy...........................................................     5
+Shaheen, Hon. Jeanne, U.S. Senator From New Hampshire............     1
+Warner, Hon. Mark R., U.S Senator From Virginia..................     3
+Warner, Hon. John, Senator (R-VA), Ret...........................    19
+
+                                APPENDIX
+
+Responses to additional questions................................    39
+
+
+                       THE DEPARTMENT OF NAVY'S 
+                             ENERGY PROGRAM
+
+                              ----------                              
+
+
+                         MONDAY, MARCH 12, 2012
+
+                               U.S. Senate,
+                   Subcommittee on Water and Power,
+                 Committee on Energy and Natural Resources,
+                                                 Norfolk, Virginia.
+    The subcommittee met, pursuant to notice, at 2:10 p.m. at 
+the U.S. Naval Station aboard the USS Kearsarge in Norfolk, 
+Virginia, Hon. Jeanne Shaheen presiding.
+
+OPENING STATEMENT OF HON. JEANNE SHAHEEN, U.S. SENATOR FROM NEW 
+                           HAMPSHIRE
+
+    Senator Shaheen. Good afternoon, everyone. I will not bang 
+the gavel because we don't know what that will mean. But I 
+would like to welcome all of you to this hearing of the Senate 
+Energy and Natural Resources Subcommittee on Water and Power.
+    I'm Jeanne Shaheen. I'm the Senator from New Hampshire. I 
+chair that subcommittee.
+    We're delighted to be here aboard the USS Kearsarge at 
+Naval Station Norfolk to discuss the Department of the Navy's 
+ongoing work in energy efficiency and alternative energy. I 
+think it's important to point out that the Senate historian has 
+told us that this will be the first Senate Committee hearing on 
+a U.S. Navy ship since 1960. So we're making a little modern 
+history today.
+    I'm pleased to be joined by my good friend from the 
+Commonwealth of Virginia, Senator Mark Warner and our very 
+distinguished panel of experts.
+    We have 2 Senator Warners here. So we're very pleased about 
+that. We also have Senator John Warner, who will be joining us 
+as a panelist.
+    I want to give special thanks to Secretary Mabus, Secretary 
+of the Navy, for joining us today and for being here to testify 
+and for all of your leadership in addressing the issues that 
+we're here to talk about today.
+    I also want to thank Captain Jones and Rear Admiral Ann 
+Phillips for hosting us as well.
+    We're really pleased, I'm particularly pleased to be aboard 
+the USS Kearsarge because it is the forth ship in the history 
+of the Navy to be named after Mount Kearsarge which is in New 
+Hampshire. I'm not quite sure how that happened, but I'm going 
+to have to go back in history and find out which Senator made 
+it possible to have 4 ships named after Mount Kearsarge.
+    But we're delighted to be here today because this ship 
+really exemplifies many of the policy initiatives that we're 
+going to be discussing. We had a very impressive briefing 
+earlier this morning with so many of the initiatives that 
+you're using on board here described in a way that we really 
+need to get the word out. That's part of what we hoped to do 
+with this hearing today.
+    By embracing a comprehensive approach to energy 
+conservation the Kearsarge has successfully reduced its energy 
+usage and recently received a 2011 SECNAV Energy Conservation 
+Award.
+    I know we're all part of the choir here but energy 
+efficiency is the cheapest, fastest way to address our energy 
+needs in this country. The benefits of energy efficient 
+technologies to our domestic economy are obvious.
+    They lower energy costs.
+    They ultimately free up capital that allows businesses to 
+expand and our economies to grow.
+    It also has the potential to create thousands of new jobs 
+and help protect our environment.
+    I was pleased last year to work with Senator Rob Portman 
+from Ohio on an inter-comprehensive energy efficiency 
+legislation. We're still hoping we can get that to the floor.
+    One of the things that I learned as part of that effort, 
+again, that I know everyone here knows is that government is 
+the biggest user of energy in America. The military is the 
+biggest user of energy within the Federal Government. That's 
+demonstrated by this middle circle on this chart. You can 
+really see how energy use breaks down.
+    Today's hearing is going to focus on the impact of energy 
+efficiency and renewable energy on our national security. The 
+Department of Defense has long been interested in harnessing 
+new forms of power to improve our Nation's combat readiness. 
+However, the proliferation of advanced technology on the 
+battlefield has dramatically increased our military's energy 
+needs.
+    Today's service member requires an average of 22 gallons of 
+fuel per day, an increase of 175 percent since the Vietnam War. 
+Operations in Afghanistan alone require 20 million to 50 
+million gallons of fuel per month. The total cost to secure and 
+transport fuel to the battlefield, also known as the fully 
+burdened cost of energy, is estimated to be as high as $40 a 
+gallon.
+    Most important in 2010 there were 1,100 attacks on fuel 
+convoys. So as you all explained to me so eloquently this 
+morning, this is not just about cost in resources. This is 
+about also costs in lives. The conflicts in Iraq and 
+Afghanistan have illustrated the clear need for reform of DOD 
+energy policies.
+    Since 2008 the Department has made notable progress toward 
+that goal.
+    For example, the Department of the Navy, under the 
+leadership of Secretary Mabus, has committed itself to securing 
+50 percent of its energy from alternative sources, reducing 50 
+percent of its non-tactical petroleum use and ensuring 50 
+percent of all Navy and Marine Corps installations produce as 
+much energy as they consume by 2020.
+    The Navy is also increasingly making use of alternative 
+energy, particularly advanced biofuels. Using alternatives to 
+petroleum including algae, switch grass and camelina, again, we 
+had a very interesting demonstration of that this morning.
+    The Navy has already powered an F/A Team Green Hornet, a 
+riverine command boat and several components of the first green 
+carrier strike group, dubbed the ``Great Green Fleet''.
+    The Navy's development of advanced biofuels has the 
+potential to dramatically improve our energy security and could 
+lay the groundwork for wider utilization in our civilian 
+economy.
+    The Marine Corps has also committed itself to reducing 
+energy demand particularly on the battlefield.
+    For example, through the work of the Marine Corps 
+Expeditionary Energy Office, a marine unit in Afghanistan, 
+recently conducted a 3 week, foot patrol without resupplying 
+batteries, saving them 700 pounds of battery weight over the 
+course of the mission. Again, we got a very effective 
+demonstration of that earlier this morning.
+    Now I first had my introduction to some of the work that 
+the Navy is doing with Senator John Warner last summer, when we 
+had the opportunity to tour the Portsmouth Naval shipyard. You 
+know I couldn't be in Norfolk without mentioning Portsmouth, 
+which is between New Hampshire and Maine and obviously very 
+important to us in Maine and New Hampshire. We were able to 
+see, firsthand, the potential to reduce operating costs and 
+improve mission performance through more effective energy 
+management.
+    Again, I was pleased to present Portsmouth Naval Shipyards 
+with the 2011 SECNAV Energy and Water Management Award for 
+outstanding achievement in the industrial category. So this is 
+a continuation of learning more about those efforts that you 
+all have underway in the Navy and throughout the military.
+    I look forward to further exploring many of these issues 
+today as well as additional ways that Congress can be helpful 
+on this important issue. I think, as I said at the outset, one 
+of the most important things we need to do is to get the word 
+out about the great work that is going on here. So again, thank 
+you very much to everyone who's been involved in this visit, to 
+the Energy Committee staff in the Senate, who helped set it up.
+    Now I would like to ask Senator Warner if he would like to 
+make some opening remarks.
+
+         STATEMENT OF HON. MARK R. WARNER, U.S SENATOR 
+                         FROM VIRGINIA
+
+    Senator Mark Warner. Thank you, Madam Chairwoman.
+    Thank you Senator Shaheen for holding this hearing.
+    I am not a member of this subcommittee. But when Senator 
+Shaheen mentioned that she was coming to Norfolk and was going 
+to focus on some of the innovation and exciting opportunities 
+going on in the Navy and Marines, I wanted to be here.
+    I wanted to also commend Senator Shaheen for her leadership 
+in this field. She made brief mention of some legislation that 
+she and Senator Portman put together last year. I'm proud to be 
+a co-sponsor of as well. In terms of energy conservation, which 
+is really the lowest hanging fruit in terms of how we can save 
+resources, save money and lessen our dependence, particularly 
+upon foreign oil sources.
+    So I want to again, thank you for your work on that piece 
+of legislation that actually got out of committee, 18 to 3. 
+You'd think at that kind of vote it might actually get a chance 
+to get a vote on the floor at some point. So we're hopeful that 
+that may come to pass at some point soon.
+    I also want to commend Secretary Mabus for, once again, 
+being here in Virginia. We appreciate your leadership, your 
+wisdom and reaffirming Norfolk as the home of our carriers on 
+the East Coast of the United States. Something that is 
+critically important, as you have to make the very, very tough 
+choices as Secretary to make sure how, in these fiscally 
+constrained times, we can do more with less.
+    I think your commitment to energy efficiency and the 
+commitment Senator Shaheen mentioned in terms of trying to see 
+if we can move the Navy's usage to 50 percent alternative fuel 
+over the next few years is a very appropriate and worthy goal. 
+I don't understand how some Members of Congress just don't seem 
+to get it, that this initiative is about saving money. It's 
+about saving lives as we've seen some of the data shown 
+particularly from the conflicts in Iraq and Afghanistan, the 
+amount of harm that befalls some of our troops as we have to 
+convoy up fuels to those front lines.
+    So this truly is, these efforts, are about saving lives. 
+It's, once again, about having the Navy be an innovator. There 
+are things that you can do in terms of forward purchasing and I 
+want to get to this in some questions coming up that really can 
+spur innovation, not just for DOD, but across the whole energy 
+field.
+    Let me also make one comment. That, Madame Chair, it's a 
+bit intimidating to me and any member of the Virginia 
+Congressional Delegation to be on one of our great Navy vessels 
+when we have Senator John Warner in the audience. It was nearly 
+70 years ago that Senator Warner first signed up as a member of 
+the Navy, volunteered to serve our Nation and has served our 
+Nation in so many ways over those last, close to, 70 years both 
+in the Navy and the Marines, as Secretary of Navy, in the U.S. 
+Senate.
+    I personally am looking forward to the second panel when 
+I'm going to get a chance to really grill him on a number of 
+issues that I've, you know, I've been on the other side of the 
+podium, of the grilling, from John Warner in the past. So I'm 
+looking forward to that turn about, fair play. But it is a 
+real, real wonderful opportunity for me. There's no one that I 
+respect more than John Warner. His presence here today is 
+special for all of us.
+    Let me simply again, we got to get on to the testimony. But 
+I want to thank all of the sailors and the Marines, who do so 
+much to keep us safe. God Bless you for what you do. Thank you 
+again, for your work on this important effort as well showing 
+again, how we can save dollars, save lives and play an 
+incredibly important role in terms of bringing greater 
+innovation to the very, very important field of energy.
+    With that, Madame Chairman, I yield back.
+    Senator Shaheen. Thank you.
+    Just to reassure Senator Warner. I have the gavel. So fear 
+not. If he gets too difficult, we'll shut him down.
+    We have 3 panels this afternoon.
+    The first panel really needs no introduction, obviously. 
+It's the Secretary of the Navy, Ray Mabus. Thank you very much, 
+again, for being us, Mr. Secretary.
+
+  STATEMENT OF HON. RAYMOND E. MABUS, SECRETARY OF THE NAVY, 
+                     DEPARTMENT OF THE NAVY
+
+    Mr. Mabus. Senator, thank you so much.
+    Senator Shaheen, Senator Mark Warner, I particularly am 
+glad to be here on the Kearsarge, named for, as you pointed 
+out, the mountain in your home State. I'm also particularly 
+glad to be here with another Ol'Miss graduate, Senator Shaheen.
+    Senator Warner, you pointed out about our carriers. I'd 
+like to make one other point. Everybody thinks we have 11 
+carriers in the Navy.
+    This is living proof that we've got 22, that our big deck 
+amphibs perform the incredibly wide range of missions, that our 
+other conventional carriers perform. So our carrier force is 
+larger and more dispersed than almost anything else we have. 
+Projects our power and protects this country in unique ways.
+    So first I want to thank the 2 members here and the members 
+of your subcommittee and of the Senate for the support that you 
+give our sailors and marines, the men and women in uniform, 
+their families, who help us, have the best military the world 
+has ever seen. Protecting our national interest is exactly what 
+our efforts on reforming how we use, produce and procure energy 
+are all about.
+    Before I get into just a few specifics about what we're 
+doing I think it's important for us to understand the 
+environment we work in. The pride that the Commandant of the 
+Marine Corps, General Amos and the Chief of Naval Operations, 
+Admiral Greenert and I take in leading the Navy and Marine 
+Corps is exceeded only by the accomplishments of the brave and 
+selfless sailors, marines and civilians that we lead. Whatever 
+is asked of them by the American people through their Commander 
+in Chief from Afghanistan to Libya, from assisting the stricken 
+people of Japan to assuring open sea lanes around the world, 
+from bringing Osama Bin Laden to final justice, to rescuing 
+hostages wherever they may be hidden by either terrorist or 
+pirates, they answer the call. They get the job done.
+    As we pivot out of 2 long ground wars it became essential 
+to review our basic strategic posture. The new guidance 
+developed under the leadership of the President and the 
+Secretary of Defense and with the full cooperation of all the 
+service secretaries and the service chiefs, responds to a very 
+dynamic and complex, global security environment. Out of that 
+strategy we developed a budget which is now in front of you to 
+ensure the Navy and Marine Corps can execute this strategy 
+while staying within the limits placed by the Budget Control 
+Act.
+    The CNO, the Commandant and I are absolutely confident that 
+the United States Navy and the United States Marine Corps are 
+well prepared to maintain their status as the most formidable 
+expeditionary fighting force the world has ever known. No one 
+should ever doubt the ability, the capability or the 
+superiority of the Navy and Marine Corps.
+    This new strategy focusing on the Western Pacific, the 
+Arabian Gulf, while maintaining our global presence clearly 
+increases demand on maritime capability. It requires the Navy 
+and Marine Corps team that is built and ready for any 
+eventuality. Land, under the sea, in the air, on the sea or in 
+the vast cyber seas, and operated forward to protect American 
+interest, to deter crisis and if necessary, to fight and win 
+wars.
+    Understandably this has drawn a lot of attention to the 
+size of our fleet. I'd like to talk about that with some, few 
+basic facts. On 9/11 the United States Navy had 316 ships in 
+our battle fleet. That number dropped by 33 ships over the next 
+7 years. Reversing that trend and rebuilding our fleet has been 
+one of the top priorities of this Administration.
+    We have stabilized acquisition programs for our most 
+important platforms, increased competition, use many more fixed 
+price contracts, insisted on better performance and taken 
+tougher stands against fraud, abuse and mismanagement. Despite 
+the fiscal challenges and despite decommissioning 7 cruisers 
+early, our ship building plan will enable us to maintain the 
+same size fleet at the end of this 5-year period that we have 
+today. Before the end of this decade in 2019, we will again 
+have 300 ships in our battle fleet. I must also point out that 
+that fleet of 2019 will have far greater capabilities than the 
+fleet of today.
+    As I said the CNO, the Commandant and I are very confident 
+that we can meet the demands of our new strategy today. But the 
+threats we face are not static and neither is our defense 
+strategy nor our plans to continue to build our capabilities 
+and capacities to meet the strategy and whatever threats or 
+requirements come over the horizon. It's exactly because we 
+live in this ever changing, very dynamic security situation we 
+can't be complacent about how the Navy and Marine Corps use, 
+produce and procure energy.
+    Here again, regarding these efforts it's important to talk 
+about a few facts.
+    Resources have always been a potential source of conflict 
+throughout human history. Those who have abundant energy 
+resources sometimes use that as a weapon against others. While 
+those who lack energy supplies or have to depend on others to 
+fulfill their needs, recognize just how vulnerable that makes 
+them.
+    Today the United States controls just 2 percent of known 
+global oil reserves. But we consume over 20 percent of all the 
+world's oil. President Obama's, ``All of the Above'' energy 
+strategy, clearly advocates doing a better job of increasing 
+domestic oil production as much as possible. But the math is 
+very clear. Even if we used every possible source of oil 
+available to us, it wouldn't be enough to supply our needs.
+    That's why we rely so much on foreign sources of oil. Even 
+though many of those sources of which we are absolutely 
+dependent are in volatile or potentially volatile places on 
+Earth. Some of those oil suppliers probably don't have our best 
+interests at heart. We would never depend on those oil 
+suppliers to build our ships, our aircraft, our ground 
+equipment, but we give them a say in whether the ships sail, 
+the aircraft fly or the ground vehicles operate because we 
+depend on them for fuel.
+    Supply shocks are a real strategic vulnerability for us. 
+Price shocks make us equally vulnerable. For every dollar 
+increase in the price in a barrel of oil the United States Navy 
+gets an additional $31 million fuel bill.
+    Oil prices are a global commodity. Set globally in a market 
+that's often driven by rumor and speculation which can cause 
+price spikes that make budgeting absolutely impossible. When 
+the Libya unrest broke out last year about this time, the price 
+of a barrel of oil increased $38 which increased the Navy's 
+fuel bill by over a billion dollars.
+    There was only one place for us to go get that and that was 
+out of our operations accounts which meant that we steamed 
+less. We flew less. We trained less.
+    As you pointed out, Senator Shaheen, in theater fuel is 
+also a tactical and operational vulnerability. Fuel and water 
+are the 2 things we import the most into Afghanistan. For every 
+50 convoys of fuel and water a Marine is killed or wounded. 
+That is simply too high a price to pay.
+    Both the Navy and the Marine Corps have to use energy more 
+efficiently. We must lead in the development of alternative 
+energies. If we don't we put our military readiness, we put our 
+national security and we put the lives of our sailors and 
+Marines at risk.
+    Again, as you pointed out, nearly 3 years ago, I set 5 
+ambitious energy goals for the Department. We're making real 
+progress on all 5. Our efforts are already making us a lot 
+better war fighters.
+    Let me give you a few examples of that progress. Some of 
+which I know you saw earlier today.
+    By deploying to Afghanistan with solar blankets to charge 
+radios and some of their other small electrical equipment the 
+Marine patrol dropped 700 pounds of batteries from their packs 
+and didn't have to be resupplied as often.
+    Less efficient generators run all the time making noise 
+that No. 1, makes it hard for our Marines to hear things going 
+on outside the wire.
+    Number 2 makes them easy for the enemy to target.
+    More efficient generations run less often, make less noise 
+and are less easy to target.
+    More efficient means of powering our ships helps save money 
+leaving more money for other program platforms.
+    Just on the Kearsarge, stern flaps, other energy saving 
+devices, save about $2 million a year in fuel costs.
+    Its sister ship, the USS Makin Island, has a hybrid 
+electric drive which on its initial voyage from Pascagoula, 
+Mississippi, in my home State around South America to 
+California to San Diego, its home port, saved $2 million in 
+fuel at 2010 prices. That ship's ability over the--to use 
+electric power when it's cruising at lower speeds which is most 
+of the time for war ships, will mean over its life expectancy 
+that in 2010 dollars it will save $250 million in fuel costs. 
+That's why we're testing the same hybrid technology on our 
+guided missile destroyers.
+    Representatives of both the Navy and Marine Corps will 
+follow me and will talk about specifics on what we're doing to 
+secure greater independence, save money and save lives through 
+our comprehensive effort to reduce energy demand and provide 
+alternative forms of energy ashore, afloat, in the air and on 
+the ground. But before I finish let me mention 2 other 
+significant initiatives undertaken by Navy at the direction of 
+our Commander in Chief to advance the goals that I just 
+outlined.
+    The first is procuring one gigawatt of renewable energy 
+generation on or near our installations without any net cost to 
+taxpayers by using existing third party financing mechanisms. 
+So it's just a power purchase agreement. Joint ventures enhance 
+use leases. While we are a sea going service Navy and Marine 
+Corps has 3.3 million acres and 72,500 buildings. We believe 
+leveraging these assets to promote renewable alternatives will 
+help advantage our energy goals as well as increase clean 
+energy jobs in America.
+    The second initiative symbolizes about what you both 
+discussed, our effort to demonstrate the ``Great Green Fleet'' 
+has drawn some skepticism. Although I believe that a lot of 
+that is based on either misunderstandings or inaccuracies. Last 
+year the Navy bought what we think is the largest purchase of 
+biofuel ever in America to mix in a 50/50 blend with either 
+diesel fuel or AB gas to power a demonstration of how our ships 
+and planes can operate on alternative, liquid fuels during the 
+largest maritime exercises on Earth, the rim of the Pacific 
+this summer. During this exercise alternative fuel blends will 
+be used in operational activities such as refueling aircraft on 
+the deck of our carrier or underway replenishments.
+    We obviously dubbed this the ``Great Green Fleet'' as a 
+reminder of Teddy Roosevelt's ``Great White Fleet'' which 
+helped usher in America as a global power at the beginning of 
+the 20th century. The ``Great Green Fleet'' doesn't have an 
+environmental agenda. It's about maintaining America's military 
+and economic leadership across the goal in the 21 century.
+    Now it's true that biofuel blend costs us more than 
+conventional diesel and aviation fuels would have. But the 
+simple economics explains why. Alternative fuels can't become 
+competitive with oil unless there's a demand for them. But 
+demand at commercial scale will never be possible unless 
+there's a supply to meet that demand.
+    While our purchase was the largest single purchase ever, it 
+represents just a fraction of what Navy will need. But even 
+purchases of small amounts for our R and D efforts have shown 
+dramatic results by lowering the cost of biofuels which cost as 
+much today as they did 2 years ago.
+    One of the advantages that Navy has is our ability to help 
+stimulate both demand and supply. That's why the President 
+directed us to work with the Department of Agriculture and 
+Energy to develop a plan to create a domestic, commercially 
+viable, biofuels industry. We're making real progress on that 
+plan which calls for a government commitment of up to $510 
+million and a matching commitment at least one to one from the 
+private sector to help build this industry to provide energy 
+independence and American jobs.
+    When they were introduced, computers cost more than the 
+typewriters they replaced. In fact, the first Apple cost in 
+today's dollars about $2,440. The iPad just introduced is $499.
+    Smart phones, which Senator Warner knows a lot about, cost 
+more than rotary dial landlines when they were introduced. But 
+once the market got large enough the cost of these new 
+technologies came down dramatically. The capabilities increased 
+dramatically.
+    When anyone says we can't afford to invest in developing 
+alternative sources of energy, my reply is we can't afford not 
+to. We can't afford to wait until price shocks or supply shocks 
+leave us no alternative. We can't afford to wait while other 
+Nations get far ahead of us on energy reform. I don't want to 
+trade one source of foreign power for another.
+    We can't afford to be distracted by those who offer the 
+absolutely false choice of investing in ships or planes or 
+investing in more secure means of powering ships and planes. If 
+we don't have or cannot afford the energy to power those 
+platforms, the platforms themselves may be of little value. If 
+we develop a domestic fuel source that's less vulnerable to 
+price shocks we'll be able to afford more ships and planes that 
+we need.
+    This is not about choosing either ships or alternative 
+fuels. This is about building ships and using alternative 
+fuels.
+    To those who question why Navy would be a leader in energy 
+innovation are that its efforts are either outside or 
+obstructing its real mission. I would simply remind them of our 
+history.
+    In the middle of the 19th century we moved from sail to 
+coal.
+    Nearly 20th century we move from coal to oil.
+    In the 1950s we pioneered the use of nuclear.
+    At every one of those transitions, every single one of 
+them, there were people who questioned the need, who challenged 
+the cost or who simply opposed change of any kind. Those folks 
+were wrong then. The people who question the need for change 
+now, I believe, will be equally wrong.
+    For 236 years from sail to steam to nuclear, from the USS 
+Constitution to the USS Carl Vincent, from Tripoli to Tripoli, 
+our maritime warriors have upheld a proud heritage, protected 
+our Nation, protected our power and provided freedom of the 
+seas. Then, as now, our Navy and Marine Corps continue to 
+adapt, to innovate, to assure that America comes out on top.
+    Thank you all.
+    [The prepared statement of Mr. Mabus follows:]
+
+  Prepared Statement of Hon. Raymond E. Mabus, Secretary of the Navy, 
+Department of the Navy, and Jackalyne Pfannenstiel, Assistant Secretary 
+           of the Navy, Energy, Installations and Environment
+    Chairman Shaheen, Senator Warner, and members of the Subcommittee, 
+I am pleased to appear before you today to provide an overview of the 
+Department of Navy's investment in its energy programs.
+    It is critically important that we reform how the Navy and Marine 
+Corps use, produce, and procure energy, especially in this fiscally 
+constrained environment. We must use energy more efficiently and we 
+must lead in the development of alternative energy; otherwise, we allow 
+our military readiness to remain at risk.
+    In theater, fuel is a tactical and operational vulnerability. 
+Guarding fuel convoys puts our Sailors' and Marines' lives at risk and 
+takes them away from what we sent them there to do: to fight and 
+prevail, to engage and rebuild. For every 50 fuel convoys in theater, 
+there is one Marine casualty. This is simply too high a price to pay.
+    President Obama's ``All of the above'' strategy toward sources of 
+energy recognizes a fundamental math problem: while the United States 
+consumes 22 percent of the world's oil, we possess just two percent of 
+known oil reserves.
+    Oil prices are set on a global market often driven by speculation 
+and rumor, leaving the Department exposed to price shocks in the global 
+market.
+    Every time the cost of a barrel of oil goes up a dollar, it costs 
+the Department an additional $30 million in fuel costs. In FY12, in 
+large part due to political unrest in oil producing regions, the price 
+per barrel of oil has risen $38 over what was budgeted, raising Navy's 
+fuel bill by over $1 billion. These price spikes must be paid for out 
+of operations, meaning our Sailors and Marines are forced to steam 
+less, fly less, and train less.
+    Strategically, we are at risk because much of the fuel we use comes 
+from volatile regions of the world. We would never buy aircraft or 
+ships from many of the places that supply us oil because some are 
+unstable and some do not necessarily have our best interests at heart.
+    The Department of the Navy is committed to implementing an energy 
+program that enhances our national security and our military readiness 
+by reducing our dependence on imported fossil fuels. Energy security is 
+national security. Our energy program is comprehensive--it involves 
+both Services and contains initiatives to reduce energy demand and 
+provide alternative forms of energy supplies on shore, afloat, in the 
+air, and on the ground.
+    Navy's leadership on energy innovation is nothing new. It was the 
+Navy that shifted from sail to steam in the middle of the 19th Century, 
+steam to oil in the early 20th Century, and pioneered nuclear power in 
+the middle of the 20th Century. At each of those transitions, there 
+were those who questioned the need, challenged the cost or simply 
+opposed change of any kind.
+                department of navy goals and initiatives
+    Congress and previous administrations have recognized the 
+imperative of energy security as demonstrated in the Energy 
+Independence and Security Act of 2007, Energy Policy Act of 2005, and 
+the National Defense Authorization Act of 2007 and 2010, and several 
+executive orders. This administration has built on those actions, but 
+the program proposed for FY13 and beyond will exceed the goals set in 
+those previous laws because we must.
+    As Secretary of the Navy, I set five aggressive department-wide 
+goals to reduce the Department's overall consumption of energy, 
+decrease its reliance on petroleum, and increase its use of alternative 
+energy.
+    The goals are:
+
+  <bullet> By 2020, at least 50% of total DON energy will come from 
+        alternative energy resources,
+  <bullet> By 2020, DON will produce at least 50% of shore based energy 
+        requirements from alternative resources and 50% of Department 
+        installations will be net-zero,
+  <bullet> DON will demonstrate a Green Strike Group in local 
+        operations by 2012 and sail the Great Green Fleet by 2016,
+  <bullet> By 2015, DON will reduce petroleum use in non-tactical 
+        vehicles by 50%,
+  <bullet> Evaluation of energy factors will be used when awarding 
+        contracts for systems and buildings.
+
+    Meeting these goals requires that the Navy and Marine Corps value 
+energy as a critical resource across maritime, aviation, expeditionary, 
+and shore missions and myriad investments and activities. They will all 
+foster behaviors that will reduce the Navy and Marine Corps' overall 
+energy requirements and technologies that can provide adequate 
+substitutes for fossil-based energy. Two significant initiatives that 
+will be advanced in pursuit of the goals are:
+
+  <bullet> The development of alternative liquid fuels for our ships 
+        and planes.--To meet the goal of 50% of total DON energy from 
+        alternative sources, the DON has partnered with the DOE and 
+        USDA to collectively pool $510M to jump start commercial 
+        development of the advanced alternative fuels industry. The DON 
+        intends to use the Defense Production Act (DPA) Title III for 
+        its contribution. This effort will help to obtain the 8 million 
+        barrels of biofuel needed by 2016 to sail the ``Great Green 
+        Fleet.'' The alternative fuel that the DON will purchase must 
+        be available at prices competitive with the conventional 
+        petroleum fuels being replaced; it must not have negative 
+        consequences for the food supplies; and it must be a ``drop-
+        in'', that is, not requiring infrastructure or operational 
+        changes.
+  <bullet> Fostering the production of one gigawatt of renewable energy 
+        generation on DON installations.--To help meet the 50% shore 
+        alternative energy goal, the Department will, by the end of 
+        this year, design a strategy to facilitate the production and/
+        or consumption of large-scale renewable power projects on or 
+        near Naval installations. These projects will be developed 
+        without added cost to taxpayers by using existing third-party 
+        financing mechanisms such as power purchase agreements, joint 
+        ventures and enhanced use leases. The energy from the projects 
+        will cost less or at least no more than that from conventional 
+        energy sources over their life.
+                                funding
+
+    The Department has budgeted $1.0 billion in FY13 and approximately 
+$4.0 billion across the FDYP for operational and shore energy 
+initiatives. The funding sources are almost entirely Navy and Marine 
+Corps O&M funds and Research, Development, Test, and Evaluation (RDT&E) 
+dollars.
+                              achievements
+    The Department is on track to meet its goals.
+    Since flying the F/A18, dubbed `The Green Hornet', at MACH 1.7 in 
+2010 as part of the test and certification process using a 50-50 blend 
+of Camelina based JP-5, the Department has successfully conducted test 
+and certification on the MH-60 Seahawk helicopter, AV-8B Harrier, E-A6B 
+Prowler, MQ-8B Fire Scout, T-45C Goshawk, MV-22 Osprey. We also ran a 
+Riverine Command Boat, Landing Craft Air Cushion (LCAC), Landing Craft 
+Utility (LCU), 7m Rigid Hull Inflatable Boat (RHIB), the ex-USS Paul F 
+Foster, and an Allison 501K turbine generator. The DON partnered with 
+Maersk to run a large merchant ship on renewable biofuel. These tests 
+represent real milestones that are necessary to support the use of 
+alternative fuels to meet the goal of sailing the Great Green Fleet in 
+2016.
+    Throughout 2011 we demonstrated progress through an assortment of 
+programs, partnerships, and initiatives. Last summer, the Blue Angels 
+flew all six planes on biofuels during their 2-day air-show at NAS 
+Patuxent River. The USS MAKIN ISLAND, which is currently deployed to 
+the Pacific region, can use its electric drive 75% of the time it is 
+operating, needing its gas turbines only when it requires top speeds. 
+On its maiden voyage she saved $2M over predecessor steam ships and is 
+estimated to provide a cost avoidance of nearly $250M over her service 
+life. The Navy is continuing to move forward with installation of a 
+similar system on new construction DDGs and to look at the feasibility 
+of retrofitting the entire non-nuclear fleet with these systems in the 
+course of routine shipyard availabilities.
+    Additional energy initiatives, such as propeller and hull coatings, 
+were undertaken to make the existing inventory of ships more energy 
+efficient. Stern flaps will reduce energy consumption, as will some 
+combustor modifications and systems to monitor ship-wide energy use. 
+Energy conservation programs were put in place for both ships and 
+aircraft to educate and incentivize the Fleets to reduce energy 
+consumption and identify inefficient activities. The future Navy will 
+use advanced materials on propellers, energy storage and power 
+management systems, and advanced propulsion technology to make warships 
+more efficient while allowing them to meet their combat capability.
+    Last year, the Marines tested equipment that could be deployed on 
+battlefields at their Experimental Forward Operating Bases (ExFOB) at 
+Twenty-Nine Palms. The Third Battalion, Fifth Marines (the 3/5), 
+deployed in Afghanistan, managed to cut fuel use and logistical support 
+requirements by 25 percent at main operating bases and up to 90 percent 
+at combat outposts by relying on alternative energy sources such as 
+solar power generators and hybrid power. One three-week patrol reduced 
+weight by 700 lbs and saved $40,000 due to not requiring a battery 
+resupply.
+    The PV-powered battery recharging technology has allowed Marine 
+Patrols, which would normally require a battery re-supply every 2-3 
+days, to go three weeks without a battery re-supply, enhancing the 
+expeditionary nature of their missions and reducing the number of 
+dangerous re-supply missions needed.
+    Currently, the four most successful technologies used by the 3/5 
+are being deployed across all Marine Battalions in Afghanistan at a 
+cost of $25 million. These technologies will save more than $50 million 
+per year; paying for themselves in roughly six months and then continue 
+to return a $50 million annual savings over what we had been doing. 
+More importantly, this equates to a reduction in the number of resupply 
+flights by 450 or taking a total of 180 trucks off the road, reducing 
+the number of young men and young women put in harm's way. Again, 
+because we lose one Marine for every 50 convoys, these energy measures 
+are not just saving money, they are saving lives.
+    Recently, the next phase of ExFOB deployed with the Marines from 
+2nd Battalion, 4th Marines. They brought renewable and energy efficient 
+equipment that was identified during the ExFOB conducted during August 
+2010. The equipment targets a major battlefield power user: battalion-
+level command and control systems. Its capabilities include hybrid 
+power systems and efficient air conditioning, which demonstrated an 83% 
+savings in fuel compared to the conventional capabilities.
+    The Marine Corps continues to aggressively pursue technologies that 
+will increase combat effectiveness and reduce the need for fuel, water, 
+and battery logistics. The Marine Corps is committed to conducting two 
+ExFOBs per year (one in 29 Palms and one in Camp Lejeune) for the 
+foreseeable future. The upcoming ExFOB will concentrate on wearable 
+electric power systems and lightweight man-portable water purification 
+systems.
+    Through investments in expeditionary energy the Marine Corps will 
+stay longer, go further, at reduced risk. In 2017 the Marines will be 
+able to operate one month longer on the same amount of fuel they use 
+today, and they will need 208 fewer fuel trucks, thereby saving seven 
+million pounds of fuel per year. This translates into a lighter, more 
+agile and capable Marine Corps
+    In addition to these tactical applications, the DON is pursuing 
+energy efficiency and renewable energy projects at our facilities 
+ashore. As noted above, we are on track to secure half of our shore 
+energy from alternative sources. Effective programs to reduce overall 
+consumption will be necessary to manage the denominator. But, in 
+addition, we'll need about a gigawatt of renewable power at the bases.
+    Currently our bases support about 300 MW of renewable energy, 270 
+MW of which is from a geothermal power plant at China Lake. We are 
+actively exploring for additional geothermal resources.
+    We have awarded three solar projects under our Solar Multiple Award 
+Contracts (MAC) in the Southwest (SW) and are finalizing a similar 
+solar MAC for Hawaii. The three solar power purchase agreements (PPAs) 
+at China Lake, 29 Palms, and Barstow will save the Department $20 
+million in total over the 20 year life of those contracts. And, in all 
+three of these cases, we'll be paying less per kW-hour than 
+conventional power. These projects have the added benefit of providing 
+a measure of security from electric grid outages. The Hawaii solar MAC 
+will install 28 MW of solar PV on DON installations, including covering 
+the runway on Ford Island with PV, recreating the look of the runway as 
+seen from the air.
+    At Marine Corps bases in Albany, GA and Miramar, CA we have 
+partnered with the local communities to harness landfill gas to power 
+generators. This important technology is providing 25% of the electric 
+load in Albany and will provide up to 50% of the electric load at 
+Miramar when done. This is one of the most effective forms of waste-to-
+energy and we are exploring other applicable technologies.
+    Where the development of wind resources would be compatible with an 
+installation's missions, we would favor that technology. We are 
+watching with great interest the potential exploitation of the enormous 
+wind resource off the Atlantic coastline. As long as the wind turbines 
+can be placed at mission-compatible sites and the electricity can be 
+delivered to our facilities at a price competitive with the local 
+utility source, we could be a customer.
+    In order to support a wide range of facility energy efficiency 
+measures, we are aggressively conducting facility energy audits and 
+completing installation of ``smart'' electric metering. By the end of 
+this year, the over 27,000 meters installed or under contract to be 
+installed in our existing facilities will begin providing the 
+capability to monitor and control the amount of energy we are 
+consuming. This will allow our energy managers to provide real-time 
+feedback to the users and the installations' commands.
+    The Department continues to promote behavior and culture change 
+through education and training, to ensure that energy management is 
+understood to be a priority in tactical, expeditionary, and shore 
+missions. Awareness campaigns are used to encourage personal actions 
+that show commitment to energy program goals. The Naval Postgraduate 
+School has added an energy program to its curriculum targeting both the 
+Navy's and Marine Corps' most promising young Sailors and Marines as 
+well as an executive series targeting senior civilians and flag 
+officers. We have collaborated with the National Defense University to 
+pilot two culture change demonstrations--at MCB Camp Lejeune and NAVSTA 
+Mayport--to focus on raising energy awareness in civilian and military 
+personnel.
+    The Department will continue to cultivate strategic partnerships to 
+leverage our energy opportunities. By partnering with federal agencies, 
+such as the Department of Energy, the Department of Interior, the 
+Department of Agriculture, and the Small Business Administration, we 
+are broadening the scope of our programs. In addition, we are working 
+with academic institutions and private industry to bring innovative 
+ideas and approaches to the forefront.
+                               conclusion
+    Our Nation's Sea Services continue to operate in an increasingly 
+dispersed environment to support the maritime strategy and ensure the 
+freedom of the seas. We must continue to transform the way we procure 
+and consume energy.
+    Thank you for the opportunity to testify before you today. I look 
+forward to working with you to sustain the war fighting readiness and 
+quality of life for the most formidable expeditionary fighting force in 
+the world.
+    For 236 years, from sail to steam to nuclear; from USS Constitution 
+to USS Carl Vinson; from Tripoli to Tripoli; you have upheld a proud 
+heritage, protected our nation, projected our power, and provided 
+freedom of the seas. In the coming years, this new strategy and our 
+plans to execute that strategy will ultimately depend on your skills, 
+your talents and your well-being that will assure that our that our 
+Navy and Marine Corps not only perseveres but continues to prevail.
+
+    Senator Shaheen. Thank you very much, Mr. Secretary.
+    I wonder if you could begin, if we could begin the 
+questioning. You talked about the goals, the 5 goals that 
+you've laid out for energy efficiency. Can you update us on 
+where the Navy is in meeting those goals?
+    Mr. Mabus. The goals that you refer to, the broadest one is 
+by 2020 at least half of all our energy will come from non-
+fossil fuel sources.
+    The other goals that we will have at least half our bases 
+will be net zero to the grid. The fact that our non-combat, 
+non-tactical vehicles, will reduce their fuel consumption in 
+half by 2015. In these goals we are just in changing the kind 
+of vehicles we buy.
+    We are very close to reducing that usage in half. We're 
+beginning to build fueling stations for flex fuel vehicles for 
+electric vehicles, for the hybrid vehicles. That while they 
+start on our bases, we found technology then spreads to the 
+surrounding communities and then commercially.
+    We've gotten one base already to net zero to the grid. In 
+fact it's net positive to the grid. China Lake in California.
+    We have 120 megawatts of solar either being installed or on 
+the drawing board and ready to be installed. We have identified 
+things such as wind or wave action, geothermal, hydrothermal. 
+We have tested all our aircraft now on biofuels, on 50/50 blend 
+of biofuels. The only reason we still have to do 50/50 bio 
+blends are that biofuels simply don't provide the lubrication 
+yet that petroleum does. Although that's a science project 
+issue and one that I think we'll be able to solve in the 
+future.
+    We have also tested, as you pointed out, our riverine 
+craft. We are now testing our large surface combatants on 
+these. We have to have a drop in fuel. We're not going to 
+change the engines on a ship like the Makin Island or on our 
+aircraft.
+    But so far, the F-18 Green Hornet flew at 1.7 times the 
+speed of sound. The Blue Angels all flew on biofuels at one of 
+their air shows. The aircraft, the ships, have not noticed a 
+difference.
+    Senator Shaheen. Thank you.
+    Senator Warner, since we have no timer, we'll just go back 
+and forth. I'll do a question and Senator Warner will do one.
+    Senator Warner. Thank you, Madame Chair. Let me also, 
+again, thank you, Mr. Secretary, for your comments and concur 
+with you about the need for innovation.
+    I, as someone who managed to eke out a living in cell 
+phones, I think this notion of the Navy being an innovator is 
+very important. I think you rightfully pointed out when the 
+Navy, back in the 1950s, decided, Admiral Rickover, decided to 
+move to a nuclear Navy. I'm sure there were naysayers. Thank 
+God he had the vision and the political support at that point 
+to kind of make that kind of that transition.
+    It's my hope as well that you'll continue to push on this. 
+I personally believe that, and it pains me to say this a little 
+bit as a telecom guy, that over the next 25 years they'll be 
+more jobs created and wealth created in the energy field than 
+any other sector in the world. Quite candidly America in so 
+many areas around energy is not the leader that we should be.
+    One of the things that you pointed out, for example here on 
+the Kearsarge, that the stern flaps. I was anxious. I was 
+pleased to see that the payback was literally less than a year. 
+One of the things that I think you would be helpful for both of 
+us and for our colleagues is as we add these innovations, if 
+you can show us the kind of payback terms in 2 years, 3 years, 
+5 years, whatever payback term it would take.
+    I do want to get to one particular question here. One of 
+the challenges I know we've got is when, as you look at the 
+area around biofuels you made the mention of the point that 
+some of the purchases, at least in the short term, were 
+incrementally more expensive. However, if you were able to do a 
+5-year contract at a fixed price particularly based upon the 
+potential volatility of oil pricing over the next number of 
+years, I believe that could both spur innovation, give 
+predictability to a market and help drive toward your goals.
+    Obviously one of the challenges in making those choices 
+right now is the way CBO scores those kind of forward 
+purchases. Do you have any suggestions to us on how or ideas 
+that you may be kicking around about how we can allow you the 
+flexibility to do future contracting, particularly on fuel 
+purchases in a way that might be based upon more normal and 
+traditional accounting methods?
+    Mr. Mabus. Yes, thank you.
+    To go back to what you said at first. Most of the things 
+that we're putting on have a very short payback, particularly 
+those in the fleet. Onshore, our projects have an average 6-
+year payback. But after that initial investment the energy just 
+keeps coming at much, much reduced prices for years and years 
+after that.
+    We can, today, as you pointed out, we can do fuel contracts 
+for 5 years. But they are stored by the Congressional Budget 
+Office as though we were paying all the money up front. We 
+could use help in 2 areas.
+    One is to allow us to sign longer contracts than just 5 
+years. We can sign energy contracts for up to 30 years with a 
+waiver from the Secretary of Defense. But fuel contracts are 
+limited to 5 years. Lengthening that to give investors a longer 
+window to get a return on their investment, to give businesses 
+a more certain market, more stability would be a great help.
+    The other one is the scoring that you mentioned. We don't 
+use this energy, all in the first year. So if it could be 
+scored over the length of that contract instead of all at the 
+first of that contract.
+    That actually fits into normal commercial accounting rules. 
+It's a different rule that is used for the government which I 
+know comes as a surprise to you. But that's used for the 
+government then would be used in private industry.
+    So those 2 things would be a vast help in terms of meeting 
+some of these goals.
+    Senator Warner. Maybe look at fuel contracts beyond a 5-
+year window and again, revisiting with our friends at CBO, the 
+scoring process that puts all those costs in that first year 
+rather than timing them out when you actually draw down and use 
+the fuel. Both would be helpful tools, right?
+    Mr. Mabus. Yes.
+    Senator Shaheen. I want to just follow up on that a little 
+bit because certainly I think we would agree that getting CBO 
+to look at its scoring is very important as we think about how 
+we can better encourage more energy efficient activities. But 
+how do you, given the volatility of fuel costs, how do you 
+ensure to taxpayers and to Congress that those longer term 
+contracts are not going to lock in place increased fuel costs 
+that are happening over time.
+    Mr. Mabus. You could make them variable price contracts to 
+follow the market instead of a firm, fixed price forever. We, 
+today, Defense Logistics Agency, which buys our fuel sets 
+prices for that fuel yearly and sometimes more often depending 
+on the volatility. So volatility can be provided there just 
+like you would do in any fuel source or long term purchase 
+that's being made today both inside the government, but 
+particularly outside.
+    Senator Shaheen. Thank you.
+    Senator Warner. So again, you could use hedging techniques 
+that any other major purchaser would use.
+    Is there any way? Let me ask you one thing whether there 
+has been any analysis done. As we saw in the aftermath of the 
+Japanese nuclear accident, their increase then dependence upon 
+more imported oil as their energy mix changed.
+    With the critical role that the United States Navy plays in 
+keeping shipping lanes open virtually around the world. There's 
+been lots of talk and reports sometimes out there in the 
+popular press. Talking about, in effect, what added additional, 
+in effect, fuel tax we all play or oil tax we all pay that 
+basically American taxpayers bear for the whole rest of the 
+world. Since we, in effect, our great Navy, keeps shipping 
+lanes free and open for, in effect, the benefit of the whole 
+world.
+    Is there any kind of corollary where you could actually 
+draw a line of increased amounts of, particularly oil coming 
+out of the Middle East, increased shipping amounts of that oil 
+correlating to increasing costs in terms of keeping those 
+shipping lanes free, open and safe?
+    Mr. Mabus. I know there have been a couple of looks at 
+various ways to slice it. But one of the easiest ways is simply 
+to look at what happened when Iran simply threatened to close 
+the Straits of Hormuz, what happened to oil prices. They 
+spiked.
+    It's estimated that if Iran ever followed through on that 
+threat that regardless of how fast we cleared it, the price of 
+oil could go up by 40, 50 percent immediately, overnight. That 
+would have a huge impact on our economy. It would have a huge 
+impact on the world.
+    One of the things you pointed out is the American Navy, 
+almost alone in history, when we have had naval dominance in 
+the world, which we have since World War II, we have keep the 
+sea lanes open for everyone. It is no accident, I think, that 
+the economies of the world have done as well as they have 
+because of this. Because even with the new technologies, 90 
+percent of all trade still goes by sea. Ninetyfive percent of 
+all telecommunication still go under the sea.
+    So keeping these sea lanes open helps not only our economy, 
+but the entire world. What we do devote a large number of ships 
+and assets to keeping, particularly straits where oil or large 
+quantities of oil, like the Straits of Hormuz, open. That is 
+simply for that commodity.
+    Senator Shaheen. You know, one of the things that I was 
+really excited about in getting ready for today's hearing was 
+to be able to learn more about the collaboration that's going 
+on around the work that Navy and the military is doing with 
+energy efficiency. I think one of the challenges we often have 
+within government is that too much of our work is in silos and 
+not enough of it crosses agencies because there is, in fact, so 
+much overlap between what we do. You and the Navy have been 
+able to develop a Memorandum of Understanding with the 
+Departments of Energy and Agriculture to collaborate in the 
+development of advanced biofuels, which as you pointed out, has 
+been so much an important part of the work that's going on 
+here.
+    Can you talk about how that's working? Whether there are 
+lessons from what you've learned that you think should be 
+shared across government?
+    Mr. Mabus. What is happening on that is, and I think this 
+is a lesson that can be shared across government, is we each 
+brought something different to the table.
+    No. 1, we brought sources of funds from different areas to 
+this. Agriculture used commodity credit corporation funds, for 
+example. Navy is using Defense Production Act.
+    Defense Production Act has been in existence since the 
+early 1950s. Basically what it says is if there's an industry 
+that defense needs that the American--in order to defend 
+America we need that industry, that defense can invest in 
+creating that industry. So that's one area that I think we can 
+do.
+    A second area is that we each bring a different expertise. 
+We bring operations, but we also bring the market. You know, we 
+bring the demand side of the equation and not simply the supply 
+side.
+    Agriculture brings the supply side because virtually all 
+the biofuels, in one way or another, would affect American 
+farmers for the better.
+    Energy, obviously, brings its research and development, its 
+incredible expertise in how energy is developed.
+    One of the other things that I think we've learned, 
+Senator, is that we can also collaborate with some of our 
+private partners. The airline industry, for example, is looking 
+at biofuels very closely. They're particularly looking now that 
+Europe has said that planes flying from the U.S. or from 
+anywhere into Europe will have to pay a tax on the amount of 
+carbon that they emit on the flight.
+    But airlines like Federal Express, like United, have 
+already done test flights on biofuels. They know it will work. 
+What they are looking for is a way to get it at a commercially 
+viable price and scale. That's one of the things that Navy can 
+bring into this equation.
+    So I do think there are some attributes that this 
+Memorandum of Understanding, that was directed by the President 
+as Commander in Chief, can bring us.
+    Senator Shaheen. I want to follow up on that a little bit. 
+I know Senator Warner only has one more question. I think 
+you've raised something that is really important particularly 
+right now. Because in the Senate we're talking about whether 
+we're going to extend some of the tax credits to alternative 
+energy sources like biofuels that are important to the private 
+sector and to creating a market for these technologies.
+    Can you talk a little bit more about the role that you 
+think, not only Navy, but the military can play in encouraging 
+that private sector market for many of these technologies?
+    Mr. Mabus. A couple of things.
+    One is your chart that the Federal Government uses 2 
+percent of all the energy used by the United States, all the 
+fossil fuel energy. That DOD is 90 percent of that. So we're by 
+far the largest user of fossil fuels in the country. That's 
+something.
+    A second thing is the military has long led in new 
+technological advances. You can look at the Internet. You can 
+look at GPS. You can even look at flat screen TVs. All started 
+out as a military application and then migrated to the broader 
+commercial area.
+    The last thing, I do think history can teach us some 
+things. In the 1880s the American Navy was building its ships 
+out of steel from Europe mainly from Germany and England. That 
+steel was costing between $150 and $200 a ton.
+    The Navy decided that that was a vulnerability to be 
+dependent on an outside source of steel. So they went to 
+American steelmakers. They offered them $250 a ton for their 
+steel. They got no takers.
+    They offered $300. They got no takers. They kept upping the 
+offer until they got to $486 a ton when they got takers to 
+produce the steel.
+    Now that's almost 3 times what they were paying from 
+Europe. But 20 years later on the eve of World War I, we were 
+not only completely independent in terms of the steel that we 
+were getting at very competitive prices. But second we had the 
+greatest steel industry in the world. The military had spurred 
+that using, at first, some above market prices. But those very 
+quickly came down to market and made us independent in that.
+    I think that is a lesson there for the future.
+    Senator Shaheen. Thank you.
+    Senator Warner.
+    Senator Warner. Mr. Secretary, I just want to, again, close 
+with a thanks for your willingness to be bold in this field. To 
+my mind it is not only the business right thing to do, not only 
+short term in terms of brave men and women in the field of 
+combat right now in terms of the lifesavings on these convoys, 
+as we've mentioned. But I look at the fact that, as you pointed 
+out, we consume 20 percent of the world's oil.
+    We have about 2 percent of the world's oil reserves.
+    We've seen the kind of volatility in oil pricing with some 
+of the actions around Libya and more recently with some of the 
+potential threats that may or may not, God willing, not arise 
+around Iran.
+    Even for us and I didn't want to echo building. I'm with 
+Senator Webb, building on work that Senator John Warner started 
+that said, we do need to discover and take advantage of 
+additional domestic oil and gas reserves. We have even said, I 
+would personally even be willing to look off the coast of 
+Virginia as long as we get a share of the revenue.
+    But to exploit all those domestic assets even going full 
+bore right now, you know, short end 6 to 10 years before we saw 
+that additional production. Again, I keep coming back to that 2 
+percent of the reserves versus 20 percent of the world's usage. 
+So I absolutely believe that it is important to set these kind 
+of bold goals of 50 percent alternative fuels, the notion of 
+the kind of aspirational goal of a green fleet in terms of 
+2016.
+    At least this Senator, and I know Senator Shaheen has been 
+a true leader, we want to be your ally on this. So whether it 
+is on the CBO scoring, on trying to give you more of those out 
+year purchasing ability, these are the kind of tools that we 
+want to provide to make sure we've got the best Navy. But also 
+the Navy that's going to be least subject to the kind of 
+volatility that might take place if we continue our dependence 
+upon foreign oil, particularly foreign oil from the Middle 
+East.
+    So I thank you for those actions. Look forward to working 
+with you.
+    Mr. Mabus. Thank you very much.
+    Senator Shaheen. I don't think that was a question.
+    [Laughter.]
+    Mr. Mabus. No, but I appreciated it very much.
+    Senator Shaheen. Yes, I'm sure.
+    I do have a final question for you because in your 
+testimony you talk about the education and training effort to 
+change the culture around how energy is viewed within the Navy 
+and the military. I wonder if you could talk a little bit about 
+how you do that. I heard this morning at the briefing some 
+discussion about that. A recognition that we are talking about 
+doing things differently and often there's resistance to that.
+    So how do you begin to change that culture in a way that 
+makes people engage and support these efforts?
+    Mr. Mabus. I think the main way you do it is the way 
+Kearsarge has done it. That is to show how well it works. To 
+show how much better we can do our jobs by this.
+    The service that has embraced alternative energy with a 
+greater enthusiasm than anybody else is the United States 
+Marine Corps. I don't think when people think of the Marine 
+Corps, the first thing they think of is ardent 
+environmentalist.
+    So the Marines have seen that it saves lives.
+    The Marines have seen that it makes them better war 
+fighters.
+    The Marines have seen that it helps them do their job 
+better.
+    I think you change the culture just by showing that.
+    That Senator John Warner was a previous, incredibly 
+distinguished, Secretary of the Navy. One of, both of our 
+predecessors in the 1840s said that he would never turn the 
+fleet into fire belching monsters by going away from sail. I 
+think that the military has always shown an ability to change, 
+an ability to adapt, an ability to innovate, that ought to be 
+the envy of a lot of other organizations. Particularly today in 
+this budget constrained environment we have to show that 
+ability.
+    I'm very proud, as I am of everything that the Navy and 
+Marine Corps do, of how readily and how well they have embraced 
+this.
+    Senator Shaheen. Thank you very much. I, as you pointed 
+out, the Naval Post Graduate School, the National Defense 
+University, are all including the importance of energy and 
+energy efficiency in their curriculum. Is it time to do that 
+for the Naval Academy as well?
+    Mr. Mabus. Thank you for reminding me of that. We started 
+with the Naval Post Graduate School, which is one of the crown 
+jewels in our military education or any education. We're not 
+only offering a graduate degree now in energy, but we're also 
+doing 2 week seminars for leadership and things like that.
+    I think the Naval Academy is well on board in terms of 
+showing the importance in terms of showing how it will affect 
+the people going through there, how it will affect their 
+careers, their lives in the time that they serve the United 
+States. But it is a whole of service approach. It's not just 
+shipboard or just bases. It's also our educational 
+institutions. It's everybody.
+    I think, again, the military has shown a willingness and an 
+ability to be innovative and to lead. As I finish, I just want 
+to thank you, not only for holding this hearing and for what 
+the work that you're doing and what you've said, but also for 
+the support that you've given to our sailors and our Marines 
+over the years. They and their families protect us and we 
+deserve--we owe them no less.
+    Thanks to the work of the 2 of you. Thanks to the work of 
+Senator John Warner, earlier. I think that we're going a long 
+way toward meeting the commitment that we need to lead to the 
+people who wear the uniform of this country and keep us safe.
+    Thank you very much.
+    Senator Shaheen. Thank you very much, Mr. Secretary. Thank 
+you for that compelling message about the confluence of energy 
+and national security. It's a message that we hope we can 
+continue to get out, not just to all of our members of the 
+military, but to the entire Federal Government, to Congress and 
+to the public as a whole.
+    So again, thank you for being with you.
+    Mr. Mabus. Thank you.
+    Senator Shaheen. We will now switch out Secretary Mabus for 
+former Navy Secretary and Senator John Warner.
+    Senator Warner, as I will not go into a greater 
+introduction because I think current Senator Warner did a very 
+nice job of that that we are just so pleased that you're here. 
+I will turn it over to you for your testimony.
+
+      STATEMENT OF HON. JOHN WARNER, SENATOR (R-VA), RET.
+
+    Senator Warner. Thank you very much, Madame Chairman and my 
+dear and good friend, Mark Warner, who succeeded me in the 
+Senate. Saved a lot of money, didn't have to change the name on 
+the door. There it was. What a coincidence.
+    Senator Shaheen. Or the ballot either.
+    Senator Warner. But may I commend both of you for the 
+manner in which you've conducted this hearing and the questions 
+that you propounded to your witnesses because having, for 30 
+years, been in the U.S. Senate and sitting where you've been 
+sitting and questioning witnesses and holding hearings. Let me 
+tell you, you've got the art in total control. Don't make any 
+changes, the way to do it.
+    So I thank both of you very much for this opportunity. To 
+my good friend, the Secretary of the Navy, we have quite a 
+relationship between former Secretaries. It didn't make a 
+difference which party you're from, we all basically agree it's 
+the best job we ever had, ever will have. I feel that way about 
+the Navy. I'll have a few words at the end to speak of the 
+Navy.
+    But I've had the opportunity for the past few years to work 
+with the--when I left the Senate, to go to the Pew Trust. It's 
+one of a number of organizations, private sector organizations, 
+charitable sponsored and so forth that are working on the 
+question of energy. I urge you and your colleagues in Congress 
+to access their work.
+    Many foundations such as the Pew Trust, but the Pew took a 
+leadership. They brought me onboard to help them put together a 
+program which simply was to take the spotlight and shine it on 
+what men and women of the Armed Forces. Be they Army, Navy, Air 
+Force, Marines and Coast Guard what they have done to turn 2, 
+as we say in the military and snap 2, to help America deal with 
+its energy problems.
+    There's a clear nexus between our national security and our 
+energy security. Day by day that message is being brought home. 
+This hearing is a perfect example.
+    I have to tell you, Madame Chairman, I sat here astounded 
+when I heard you say that this was that first hearing about a 
+ship of the Senate. There I was for 30 years and 5 before that 
+as Secretary of the Navy I never had a hearing on a ship. Now, 
+I ought to be reprimanded for that. But I'm glad to exceed to 
+your record for doing that.
+    The Pew Trust have provided the opportunity for me and 
+members of their staff and others to travel to the bases and 
+installations across our country. To see exactly what the men 
+and women in the Armed Forces are doing, want to do. It's 
+unlimited.
+    There's an old saying in the Navy. Give them the tools and 
+leave them alone and they'll solve the problem. We saw that 
+today as we walked through the exhibits of what the fine work 
+that they're doing here.
+    So I'll finish up with a few thank yous to the sailors 
+aboard this ship and ships all across the world tonight, 
+tomorrow and the days to come, what they're doing.
+    Senator Warner, I want to say something. In one of your 
+questions you hit on an issue which I've been dealing with but 
+as yet we haven't brought it into clear focus in the minds of 
+the American public. Right now gas is somewhere, what, where we 
+are, $3.85, maybe a little below $4 in some areas?
+    You shell that out per gallon. But at the same time you 
+don't realize that you're shelling out through payment of 
+taxes. Not that tax assesses some at the gas pump that go into 
+the Federal system, but that's into the highways mostly.
+    But your income taxes, they're going to support the overall 
+budget of the men and women of the Armed Forces. They, 
+collectively, largely the Navy, but collectively, they are 
+keeping, I call it the energy lanes of transportation, 
+primarily the sea lanes, but there are land carters, some air 
+carters. They're keeping them open at their expense for the 
+benefit of the economies of the free world.
+    If I could be presumptuous enough to encourage you to 
+perhaps get the GAO to see if you can't write up a report. The 
+2 of you ask for it. Have it the clear facts so that we can 
+explain it to the American public.
+    I looked at gas prices today in England, Norway. They range 
+in between $8 and $11 a gallon. They're paying a very heavy tax 
+there. We're paying, if you add up what we're paying to keep 
+the sea lane, we're paying roughly, the equivalent of those 
+Nations per gallon.
+    So the country ought to have an awakening on that issue. 
+Your question, I thought, prompted excellent responses from the 
+Secretary. I think he covered it.
+    Now I do want to make a little history today. That is it 
+will be the shortest speech I've ever given since I was a 
+Senator for 30 years in this State. Do it for 2 reasons.
+    I like to put my testimony in the record and so shape my 
+remarks, as we say in the Senate floor, Senator, with those of 
+the Secretary of the Navy. I thought he laid it out very well. 
+I read his full statement beforehand. I'd like to associate 
+myself with his excellent remarks and add the few of my own by 
+putting it in the record.
+    Being brief because coming up behind me are individuals 
+that I have been working with for these near, going on 3 years 
+now, with the Pew foundations at endless conferences and 
+speeches and forums and so forth across America. You, Madame 
+Chairman, and your members of your staff very wisely chose the 
+brightest and best minds on this subject, certainly within the 
+Navy to come here today. So the less I say, the more time they 
+have to say it.
+    Now I want to emphasize also the questions of biofuels. The 
+Secretary received a question from the press over here which is 
+on the minds of the Americans today. Look this defense budget 
+is to buy more ships, more guns, more planes. Why should you be 
+pressing forward to explore this issue of say, the advanced 
+biofuels?
+    The Secretary gave a clear answer. Essentially that's been 
+the tradition of the Department of Defense since its very 
+beginning. We structure all of our future planning of the 
+Department of Defense on today's technology and such technology 
+as we can develop within the Department to show how best to 
+improve and modernize our weapons for the future.
+    So this has been the role of the Department since its 
+inception. I commend this Secretary and the Service Secretaries 
+of the Army and the Air Force. I've worked with all of them, 
+for the initiatives that they're taking to incentivize their 
+respective uniform members of the Armed Services to explore 
+innovation. Biofuels is a major innovation.
+    The Secretary very accurately discussed how we've got to 
+eventually get the price of the biofuels down where they're 
+market competitive. The airlines at which, incidentally 
+testified before the Pew Foundation this week, had a hearing, 
+explained that they're moving in that direction. They realize 
+that they need to get the volume of that fuel at a cost that's 
+market competitive.
+    If we join together with the private sector, military 
+cannot do it alone. We have to join in these private 
+agreements. The Secretary has structured this with the MOU. I 
+do hope that Congress will work its way to supporting that MOU 
+and perhaps others to follow.
+    He mentioned the Defense Production Act. That's what he's 
+relying on. You also have the Defense Logistic Administration 
+over here. Their limit of 5 years on basic contracts, that 
+should be addressed.
+    I say these things most respectfully to the 2 of you, the 
+active members of the Senate. Again, and I say, I know the 
+institution of that Senate and I'm confident that with the 
+leadership the 2 of you've shown and others of your colleagues. 
+I know very well your Chairman of your Committee and your 
+Ranking Member. They are Senate leaders.
+    You've got to help bridge this gap. It's called the Valley 
+of Death. Where you invent something, prove that it works. The 
+military proved the viability of drop in fuels, for example.
+    If you could just cross that Valley until the private 
+sector picks up those production needs and costs. Then it's 
+competitive. Then the military can pursue, I think, to a 
+greater extent, its utilization of these alternative fuels.
+    Because the Secretary pointed it out. I've been to the 
+Straits of Hormuz. I urge both of you to try and visit it 
+someday.
+    There's a 2 mile strip in there between Oman and Iran. Now 
+Oman is a very stable country compared to the others. But if 
+that were shut down, it would be catastrophic, economic to all 
+the Nations of the world, not just the United States. So I hope 
+that you can achieve that.
+    I also want to point out in section 526. You're familiar 
+with that. That was a part of a law in 2007.
+    I was there, voted for it, worked on it. That set certain 
+standards for the utilization of fuel to achieve greater 
+efficiency standards. Also to let the new innovations be 
+developed in such a way that they do not increase the pollution 
+that we're now experiencing, I think, at levels which are 
+becoming more and more significant and concern to all of us in 
+terms of our health and otherwise.
+    So with those brief remarks I would simply like to close by 
+expressing my profound thanks to the Navy and the Marine Corps. 
+Because I had the option, although it's of little consequence 
+to wear both uniforms, the Navy in World War II, the last year 
+and the Marine Corps during the war in Vietnam. The foundation 
+in my life was laid by those organizations and the training and 
+the education that they gave me.
+    To those young sailors out there, who may be listening to 
+what I'm saying, I hope a few are. I say to you, you hopefully 
+will never regret the opportunity that you've had to wear 
+proudly the uniform of this country.
+    The last piece of legislation that I did as a United States 
+Senator was team up with our colleague, Jim Webb, Senator 
+Warner, and Frank Lautenberg and Chuck Hagel, the 4 of us, all 
+4 veterans, to write the new GI bill. I received my basic 
+education from the GI bill of World War II and then a second 
+one that I got for modest service in Korea. That got me an 
+engineering degree and a law degree.
+    Now today we broadened it so if the uniform member doesn't 
+wish to use it, his spouse can use it. If that isn't used, then 
+one of the children can use it because they have earned it and 
+I just want to express my gratitude to this great Nation for 
+the opportunities it gave me. That was a modest innovation on 
+my part to do something for this generation and future 
+generations.
+    With that I say in the Senate, I yield the floor so as you 
+can get the real experts up there and hear them.
+    Now if you ask me questions, I can remain here and you can 
+fire them to the whole panel and maybe I'll chip in or what's 
+your pleasure.
+    [The prepared statement of Senator John Warner follows:]
+
+      Prepared Statement of Hon. John Warner, Senator (R-VA), Ret.
+    I am honored to be here in my home state at a base I know so well 
+from the days I had the honor to serve the considerable number of 
+military installations and private sector industrial infrastructure 
+throughout Virginia, first as Secretary of the Navy and then, for 30 
+years a member of the Senate Armed Services Committee.
+    Senator Shaheen, you were a well-informed host as we toured 
+Portsmouth Naval Shipyard together last summer studying their energy 
+plans, and I am pleased that you wisely selected a naval vessel as the 
+site of this important Senate hearing. The Navy is making critical 
+advancements in the area of energy innovation. We are very honored to 
+have Secretary of Navy Mabus, a very committed leader, testify today.
+    When I completed my 5th Senate term, I was desirous of continuing 
+my service with the men and women of the Armed Forces. As such, I have 
+been proud to work with the Pew Charitable Trusts. Together as we 
+launched the Pew Project on National Security, Energy and Climate, a 
+project to highlight the critical link between national security and 
+energy security.
+    Whether in my role as Secretary of the Navy or on the Armed 
+Services Committee, I have seen first-hand the ingenuity and commitment 
+of our uniformed men and women, and their civilian counterparts working 
+with them, to meet America's toughest challenges. The armed services' 
+approach to energy innovation is clearly at the forefront of 
+initiatives across America.
+    The American public needs to learn more about the great 
+advancements being made in energy by the Department of Defense. Pew is 
+proud to highlight their work to the American public.
+    One of the Pew Project's initial endeavors we worked on together 
+was to assemble the four branches of the military, active and retired, 
+with expertise in energy for an event we hosted in September 2009. This 
+event spurred the first Pew report on DoD, Reenergizing America's 
+Defense, published in April 2010. More recently, as a follow up, in 
+September 2011 Pew issued a second report, From Barracks to the 
+Battlefield, Clean Energy Innovation and America's Armed Forces. These 
+reports were widely disseminated.
+    In preparation for our second report, the Pew Project team and I 
+visited several military installations that are very active in adopting 
+clean energy technologies, improving energy efficiency, saving taxpayer 
+dollars and lessening risks to our troops. All in all, we have logged 
+more than 30,000 miles, visiting more than 20 states
+    As the Chairwoman knows, at the historic Portsmouth Naval Shipyard, 
+uniformed and civilian personnel are working to increase the base's 
+energy security by building LEED certified buildings, using 
+cogeneration technology, and using solar power as backup for 
+communications systems. At Fort Bragg, we toured the actual 
+implementation of the initiatives that are part of an Army-wide ``Net 
+Zero'' goal to reduce energy consumption, increase energy efficiency, 
+and increase the use of renewable and alternative energy sources. 
+Various initiatives across the four branches of the military are 
+resulting in financial savings and serve as a model for other military 
+bases--and in some instances, adjacent civilian communities.
+    I also had the greatest pleasure in visiting Quantico, where I had 
+served many years ago. I saw first-hand some of the technologies they 
+have innovated in order to make the Marines more energy efficient in 
+forward deployed missions.
+    Our nation is heavily dependent on imported foreign oil. The 
+consequences of that dependence are experienced not only here at home, 
+but by the brave men and women in uniform serving on their bases and 
+stations and particularly those serving on foreign deployments.
+    Under the strong leadership of former secretary of defense Robert 
+Gates, and now Secretary Leon Panetta and the three Service 
+Secretaries, the Department of Defense is exercising effective internal 
+policies and practices, especially setting aggressive energy-efficiency 
+goals to lessen our dependence and to enhance our nation's energy 
+security.
+    The bottom line is that the four branches of the military need our 
+nation's full support to continue to innovate. American's military 
+preparation, for the present and the future, is predicated on 
+innovation.
+    Since we are here to talk specifically about the Navy though, I 
+would like to note that the Navy is on the leading edge across all 
+initiatives, especially when it comes to the development and use of 
+biofuels. Navy scientists and engineers have developed great expertise 
+in assessing both the advantages--and even the limitations--of 
+biofuels. Their research and development has proven the concepts of 
+``drop in fuels'' in aircraft and ships.
+    There are two policy issues that I would like to address that 
+pertain to biofuels.
+    The first is the policy referred to as ``Section 526'' a provision 
+in the Energy Independence and Security Act of 2007. Under Section 526, 
+the Department of Defense and other federal agencies are not permitted 
+to purchase fuels that are less efficient than conventional petroleum 
+fuels.
+    DoD is the largest U.S. consumer of energy, and Section 526 has 
+been an important catalyst in its efforts to reduce our reliance on 
+foreign oil and find alternatives such as advanced biofuels to increase 
+energy independence and security.
+    Last year, there were numerous attempts in both the appropriations 
+and authorization process to repeal Section 526. DoD rightfully opposed 
+revisions to 526. Let the current law remain intact; it's working as 
+Congress intended.
+    Another issue of critical importance to the continued advancement 
+of biofuels is allowing a Memorandum of Understanding between the Navy, 
+the Department of Energy and the U.S. Department of Agriculture to go 
+forward. Under this MOU, DoE and USDA can co-invest with industry in 
+the construction or retrofit of multiple commercial facilities in order 
+to promote the private sector production of bio-based jet fuel at a 
+viable commercial level. Such a partnership on biofuels between these 
+agencies allows the strengths of each to be realized in a more 
+efficient and effective manner and sends a strong market signal to 
+future private investors that biofuels will play a pivotal role in our 
+nation's energy security through the 21st Century.
+    The importance of advanced biofuels to the Navy cannot be 
+underestimated. Some facts that I would like to share:
+
+  <bullet> Since October 2009, oil prices have risen on average from 
+        $76 to $89 per barrel, but over that time have fluctuated 
+        between $74 and $110 per barrel, in part due to political 
+        unrest in unstable regions. As I have been told by the 
+        Department of Defense, this variability creates $1.1 B 
+        budgeting uncertainty for the Navy, representing 7% of net FY10 
+        DLA Energy fuel sales.\1\
+---------------------------------------------------------------------------
+    \1\ $1.1B / $15.361 B. $15.361 B taken from DLA Energy FY10 Fact 
+Book, page 24. Internet WWW at URL: http://www.desc.dla.mil/dcm/files/
+Fact%20Book%20FY10%20Final%20Web.pdf. Accessed 7 October 2011.
+---------------------------------------------------------------------------
+  <bullet> Based on Department of Energy projections, this volatility 
+        will be an ongoing problem. In any budget climate, this level 
+        of uncertainty creates instability with the operating and 
+        training budgets.
+  <bullet> In addition to lessening volatility concerns, alternative 
+        fuels can provide a long-term cost advantage. A recent analysis 
+        shows that the DoD and commercial airline industry combined 
+        could potentially avoid approximately $39 billion to $165 
+        billion in total fuel costs by 2030 if commercial scale 
+        alternate fuel production becomes available at market prices 
+        competitive with other fuels.
+
+    Madame Chairman, I applaud the Naval personnel in Tidewater for 
+making advances in energy innovation and for appearing here today to 
+share their findings, their priorities and their policy needs in order 
+to continue down the path they are on. I yield now to your questions 
+and look forward to hearing the perspectives of the next panel of 
+witnesses.
+    Thank you.
+
+    Senator Shaheen. I actually would like to ask you one 
+question.
+    Senator Warner. Fire at will, Gridley.
+    Senator Shaheen. Senator Warner will ask one question. We 
+will certainly include your full testimony for the record.
+    Senator Warner. Good.
+    Senator Shaheen. Then we will release you and get the third 
+panel up.
+    Senator Warner. That's fine. But I'm going to sit here and 
+listen to them just like you will.
+    Senator Shaheen. Great.
+    I wonder if you would just expand a little bit on your 
+comments about section 526 because as you point out, it is that 
+section of the Energy Independence and Security Act of 2007 
+which says that the alternative fuels that we purchase should 
+be at least as clean as conventional fuels derived from 
+petroleum.
+    Senator Warner. Right.
+    Senator Shaheen. I think it's that, at least as clean, that 
+is maybe getting some questions and some criticism right now.
+    So I wonder if you could talk about why you think that 
+piece is important that it should be at least as clean?
+    Senator Warner. First and foremost it was passed in 2007 
+and industry, the private sector, primarily have relied on that 
+as being the law of the land. Made investments and moved ahead 
+in accordance with the goals of that law.
+    If you pull the plug on it now, they'll have lost what 
+they've in some instances have invested. Now I know the 
+pressures from where it's coming to change that. I respect 
+that.
+    Senator Warner and I are proud to represent a State which 
+is referred to one of the major States in the country for 
+production of coal. There is a process by which you can take 
+coal and possibly render it in a manner in which it can be 
+incorporated. But I think if you look at the cost of it and 
+perhaps an affluent that may come as a consequence of the 
+process and utilization, it would bump up against those 
+regulations.
+    But we have an obligation, the Congress, when we pass a 
+law, when the private sector invests and relies upon it, leave 
+it alone. Give it a chance to prove itself. So I urge you most 
+strongly to leave it as is.
+    Senator Shaheen. Thank you very much, Senator. I totally 
+agree with you.
+    Senator Warner.
+    Senator Warner, Madame Chairman, let me first of all, 
+again, thank you one more time because, you know, by holding 
+this hearing on this ship, first such hearing held since 19?
+    Senator Shaheen. Sixty.
+    Senator Warner. Yes, 1960. The new Senator Warner has now 
+done something that the 30-year veteran Senator Warner never 
+did. So I'm glad I've got that to lord over you finally.
+    Senator Warner. Yes, you do. Yes, you do. That's good. You 
+earned it.
+    Senator Shaheen. I guess you owe me.
+    Senator Warner You're a man of courage and you take on the 
+tough jobs in that Congress and do the very best you can to 
+achieve working relationships.
+    Senator Warner. I won't even remind all of our listeners 
+here that you were actually an electrician's mate as you first 
+started.
+    Senator Warner. That's right, third class.
+    Senator Warner. Third class.
+    Senator Warner. The most important promotion I've ever 
+received in my life was that one red stripe. I still have it 
+and it's right in my library, that little red stripe. May it 
+ever be.
+    Senator Warner. I also thought it was extraordinarily 
+important you pointed out that just as it is incumbent upon our 
+military to continue to develop next generation weapons that 
+it's been the legacy of our military forces to always be about 
+innovation. The activities that Secretary Mabus has been 
+advocating. You've been advocating. You know, is that next step 
+in innovation.
+    One thing, just as an aside, as someone who spent a career 
+helping companies grow, this question of so called, Valley of 
+Death. How we move from that innovative idea to the point where 
+it becomes fully commercial. There's legislation that actually 
+Senator Shaheen and I are working on now that's got broad 
+bipartisan support in terms of capital formation helping these 
+startup companies which over the last 20 years have been at 
+where about 80 percent of the job growth has come in this 
+country. Hopefully since neither one of us got the memo that 
+we're supposed to take Presidential election years off in the 
+Congress. So we actually hope to move that legislation shortly.
+    One of the things I'd hope you'd just spend a moment more 
+on is that this really is about national security, energy 
+efficiency, making our Navy be more innovative about its use 
+and conservation of energy. You know, how can we do a better 
+job of driving that point home that you don't even have to get 
+to the whole environmental issues? You just need to do this 
+purely in terms of making our Nation safer.
+    How can we do a better job of convincing our colleagues 
+that this is an area where we should be able to come together?
+    Senator Warner. Senator, that's the key question. The 
+answers I wish were clearer. But my answer would be if we 
+accept the assumption that's there a linkage.
+    The Secretary made the case. I think I've made my case 
+between national security and energy than why shouldn't our 
+budget put that emphasis that energy requires to move ahead 
+with innovation and sets legislation as needed. I remember 19--
+wait a minute, 2008, Joe Lieberman, Senator Lieberman and I put 
+in that one combined energy climate bill. It's the only bill 
+that has gotten through the Senate structure of committee, 
+adopted by the committee, got to the floor and was debated for 
+4 or 5 days.
+    The leadership, in a respectful way, came and said, look, 
+you're going to have to have 60 votes. Can you show them? We 
+could not show at that time the 60 votes.
+    So I'm hopeful someday Congress will pass a, one of those 
+words, comprehensive bill on a whole range of energy directives 
+because our country is waiting desperately for it. The other 
+world, if you look at the say, 20 strongest economic Nations in 
+the world, you will find that two-thirds of them have in place 
+a legislative or governmental process to foster energy. 
+Notably, China and India and I can go on and explain the other 
+countries.
+    If America doesn't have it our industrial base has to sort 
+of sit on the sidelines and not make those investments that are 
+necessary because there is not a legislative direction that 
+Congress will do this, but won't do that. Will do this, but 
+won't do that. At least they know what the ball field looks 
+like if they had a comprehensive plan.
+    So I say it respectfully to where I was privileged to work 
+those many years. You can do it. You will do it eventually. I 
+hope soon.
+    Thank you very much.
+    Senator Warner. Thank you, Senator Warner.
+    Senator Shaheen. Thank you very much. Very well said. We 
+appreciate your being here.
+    Senator Warner. I think I made a record of a short speech. 
+That's true.
+    [Laughter.]
+    Senator Shaheen. We will now call on our third panel. While 
+they're coming up to their seats I will just introduce them.
+    We have on the third panel, Tom Hicks, who is the Deputy 
+Assistant Secretary of the Navy for Energy.
+    We have Vice Admiral Phillip Cullom, who is the Deputy 
+Chief of Naval Operations for Fleet Readiness and Logistics.
+    We have Colonel Bob Charette, who is the Director of the 
+U.S. Marine Corps Expeditionary Energy Office.
+    Major General Kessler, the Commander of the Marine Corps 
+Installations Command.
+    Rear Admiral Townsend Alexander, who is the Commander of 
+the Navy, Mid-Atlantic Region.
+    So again, thank you very much to all of you for joining us 
+this afternoon. I know we are going to have a few minutes of 
+brief testimony from each of you before we open it up for 
+questions. So I will actually begin I think with Colonel 
+Charette. We'll move down the panel in order.
+    They're telling me that protocol says Mr. Hicks should go 
+first.
+
+ STATEMENT OF THOMAS HICKS, DEPUTY ASSISTANT SECRETARY OF THE 
+              NAVY, ENERGY, DEPARTMENT OF THE NAVY
+
+    Mr. Hicks. OK.
+    Senator Shaheen. You know, I'm not big on protocol.
+    [Laughter.]
+    Senator Shaheen. I have to say which is so, but I'm 
+learning. So forgive me.
+    Mr. Hicks. No worries. Thank you.
+    Having lived in your fine State for 3 years and been a 
+resident of the Commonwealth of Virginia the last 20, I just 
+wanted to say I have a special infinity for the leadership that 
+both of you provided.
+    Senator Shaheen. Thank you.
+    Mr. Hicks. Continue to support the DOD, the Navy and 
+indeed, our energy efforts that we are very pleased to be able 
+to talk to you about today.
+    Also I'd like to recognize your leadership on the Alliance 
+to Save Energy, Chair. Senator Warner, I realize that you're 
+the incoming Chair of that. I don't know if we have a 
+continuity of operations issue, but I think we've got it 
+underway.
+    Also, thank you, Senator Warner, for your provisions that 
+you put into the 2012 NDAA. I think that's certainly things 
+that are very well timed and very supportive of where we're 
+going.
+    I'm pleased to appear before you today and to provide an 
+overview of the Department of Navy's investment in the 
+operational and shore energy. The Department of the Navy's FY 
+2013 budget request includes $1 billion and $4 billion across 
+the Future Years Defense plan for these energy initiatives. 
+We're on track and intend to meet the energy goals set forth by 
+Congress and the Secretary of the Navy.
+    We understand that energy is an essential resource for our 
+Navy and Marine Corps requirements. Our use of new energy 
+technologies and resources will allow us to reduce our 
+dependency on fossil fuels that negatively impact our economy, 
+harm the environment and reduce our vulnerability to price 
+volatility. In efforts to meet Congress's renewable energy 
+goals and the Department of Navy's goal of producing 50 percent 
+of our shore energy from alternative sources, we are developing 
+a strategy to identify and execute large scale renewable 
+projects. We will use existing third party financing mechanisms 
+to avoid any cost to taxpayers over the life of those 
+contracts.
+    Our base or our installations support over 300 megawatts of 
+renewable energy. We have awarded contracts recently for 3 
+solar projects in the southwest, power purchase agreements. 
+These power purchase agreements in China Lake, 29 Palms and 
+Barstow will save the government $20 million over the course of 
+those contracts. From Day 1 when we produce--when we received 
+power from each of those power purchase agreements it will be 
+cheaper than conventional power. Over the life of those 
+contracts it will be cheaper than the rate of escalation for 
+conventional power.
+    Operationally we are in the final stages of testing all of 
+our ships and aircraft on ready drop in fuels, 50/50 blends and 
+in fact, we have tested all of our manned and unmanned 
+aircraft. Our Marine Corps tested equipment that could be 
+deployed in theater at their experimental fort operating base 
+at 29 Palms. These technologies and many that you have seen 
+here on display today have cut their fuel use requirements by 
+25 to as much 90 percent at outposts by relying on alternative 
+energy sources like solar power, generators and hybrid power.
+    As we implement these initiatives, we are working with NPS 
+and the National Defense University, as you noted Senator 
+Shaheen, on a study to reduce energy consumption across the 
+Navy and the Marine Corps installations by changing behavioral 
+attitudes toward energy consumption. The goal of all of these 
+efforts is to get every sailor, every Marine, every civilian, 
+every dependent to really value energy and energy efficiency 
+and to be more efficient and more effective in using the 
+energy.
+    In closing your support of the Department's FY 2013 budget 
+will ensure we have the best resources to provide our Navy and 
+Marine Corps to meet the challenges of the future. In closing 
+I'd just say, thank you for the opportunity to talk before here 
+today. I look forward to answering the questions that you may 
+have.
+    Thank you.
+    Senator Shaheen. Thank you very much. My staff has now got 
+me in protocol order. So hopefully I will do this right.
+    Vice Admiral Cullom.
+
+STATEMENT OF VICE ADMIRAL PHILIP CULLOM, DEPUTY CHIEF OF NAVAL 
+ OPERATIONS, FLEET READINESS AND LOGISTICS, DEPARTMENT OF THE 
+                              NAVY
+
+    Vice Admiral Cullom. Chairman Shaheen, Senator Warner, and 
+members of the Committee staff, it's an honor to have the 
+opportunity to appear before you today to discuss Navy's energy 
+program. A program aimed at enhancing our energy security and 
+sustaining our naval readiness for the long haul. Both ashore 
+and afloat our plan is to have more secure sources of energy to 
+do our mission and to be more Spartan or frugal in what we use.
+    Make no mistake. It's from the combination of both 
+alternatives and efficiency that our use of energy can be 
+turned from a vulnerability that the likes of al Qaeda attempt 
+to exploit into a combat capability multiplier. Having been at 
+the tip of the spear as both an engineer and a war fighter for 
+over 30 years I understand all too well that energy is a 
+critical enabler of war fighting capability.
+    During the Kosovo conflict in 1998 as Commanding Officer of 
+the USS Destroyer Mitscher, I conducted combat operations in 
+the Adriatic Sea. Mitscher was the only asset in the area with 
+Tomahawk strike capability needed for the mission at hand. At 
+the outset, we had to refuel every 4 to 5 days which took me 
+off station for 8 to 12 hours for every refuel.
+    During that time the required capability was simply not 
+available to the combatant commander and the President. Working 
+with my crew to operate as efficiently as possible, we were 
+eventually able to stretch this period to city by a couple of 
+days. But we lacked technology investments that could have 
+markedly increased our time in the launch box, the true measure 
+of our combat effectiveness.
+    Maximizing the combat capability of our platforms through 
+energy efficiency and energy innovation is what Navy's energy 
+program is about. Our fiscal year 2013 budget reflects this 
+focus with 95 percent of operational energy investment devoted 
+to efficiency. Importantly in this fiscally constrained 
+environment energy efficient technologies and practices also 
+reduce operating costs over the life cycle of our ships and 
+aircraft.
+    Some initiatives pay back within 5 years or even in the 
+first year. Others will take longer to pay back. But we are 
+committed to making smart investments now that reduce total 
+ownership costs in the decades ahead.
+    The President's budget 2013 supports implementation and 
+refit of several technologies on existing surface combatants, 
+amphibious ships and logistic ships just as we see here. As we 
+pursue solutions for existing systems we are also injecting 
+efficiency into acquisition of new systems for new ships and 
+aircraft. As well as funding R and D to support midterm gains 
+for ships and aircraft.
+    I'd like to thank the Commanding Officer and crew of the 
+Kearsarge for showing a dedication to energy conservation 
+during their recent deployment and support of operations 
+Enduring Freedom and Odyssey Dawn. Being the first large deck 
+amphibious ship to be retrofitted with a stern flap and one of 
+the first to receive the modification for improved boiler burn 
+combustion, Kearsarge served as an early adopter of new 
+technologies, technologies that combined to save nearly 8,000 
+barrels of fuel per year, the fourth fuel. That amounts to real 
+increases in endurance, range as well as a sizable reduction in 
+life cycle costs.
+    The details Secretary Mabus and Deputy Assistant Secretary 
+Hicks provided regarding the progress of alternative fuels 
+reflects our clear belief that it is a primary responsibility 
+of the service to execute a risk mitigation strategy against 
+the real and growing danger posed by over reliance on a single 
+source of liquid fuels at sea or a traditionally sourced grid 
+ashore. Both jeopardize our ability to complete critical 
+missions during peacetime as well as during contingency 
+operations. We must have an off ramp from petroleum and a more 
+secure grid. Alternative ensure mission resilience, mitigate 
+cost risk and today in remote expeditionary environments saves 
+the lives of sailors and Marines.
+    In closing I'll say that the most important part of our 
+program won't necessarily show up in a budget. Much like my 
+Kosovo sea story changing the way we think about and consume 
+energy, our energy ethos, is still profoundly important. We are 
+and must continue aggressively developing a generation of 
+warriors who take a Spartan approach to energy consumption.
+    We are driving this change through formal education, in the 
+training pipeline and on the deck plate. Naval post graduate 
+school has its first Master's candidates half way through their 
+first year. A fleet wide message was sent to all ships early 
+this year announcing that energy would be a part of their 
+annual battle efficiency award.
+    Our fleet and Force Master Chiefs under the Master Chief 
+Petty Officer of the Navy have formed a Senior Enlisted 
+Executive Steering Committee to advise taskforce energy. Our 
+special operators, the Navy Seals, are deploying forces, who 
+are working toward a goal of Net zero water and Net zero 
+energy. With contributions from every sailor, at every level we 
+will achieve our energy vision so that we remain partisil 
+potents, ready and able.
+    Thank you for the opportunity to testify before you today. 
+I look forward to your questions.
+    Senator Shaheen. Thank you very much, Vice Admiral Cullom.
+    I should point out that we are on a tight time table. If we 
+were on Senate time we'd be fine, but since we're on military 
+time, we don't have a lot of leeway. So we have only about 20 
+minutes left. I will ask Rear Admiral Townsend--or Rear Admiral 
+Alexander if you could go next.
+    Thank you.
+
+ STATEMENT OF REAR ADMIRAL TOWNSEND ALEXANDER, COMMANDER, NAVY 
+          REGION MID-ATLANTIC, DEPARTMENT OF THE NAVY
+
+    Rear Admiral Alexander. Thank you, Madame Chair Shaheen, 
+Senator Warner, members of the Committee staff. It's my 
+pleasure to speak to you regarding the Navy's installations 
+energy program.
+    I serve as Commander of the Navy's Mid-Atlantic region with 
+responsibility for shore installation management within a 13 
+State area that stretches from North Carolina to the Canadian 
+border. My responsibility as Regional Commander is to operate 
+the Navy's shore installations and ensure that our fleet, our 
+sailors and our families have the quality, support and services 
+ashore that they deserve. Every day the Navy consumes 
+approximately 20,000 megawatt hours of electricity.
+    Beyond the strategic significance the energy demands of the 
+Navy create constraints both at the operational and at the 
+ashore levels. Vulnerabilities associated with the commercial 
+grid present a growing risk to shore support for operational 
+forces particularly during the same emergencies that would call 
+upon our full range of capabilities. The Navy is dedicated to 
+ensuring that mission critical assets ashore remain resilient 
+to outages. Energy efficiency, viable alternative energy 
+sources and smart grid technology for use on base are key to 
+securing critical infrastructure.
+    The Navy has long been an adopter of new energy practices 
+and technologies. We continue that transformation today. Since 
+the establishment of the Shore Energy Office in the early 1980s 
+to administer efficiency and conservation efforts in response 
+to Federal and Department of Defense mandates energy intensity 
+ashore, that is the amount of energy consumed per square foot, 
+has been reduced significantly.
+    The Navy is the largest producer of alternative energy in 
+the Federal Government where geothermal production commenced at 
+Naval Air Weapon Station China Lake in 1987. This plant with a 
+full capacity of 270 megawatts provides reliable, renewable 
+power to 300,000 households in California. Other investments 
+include wind turbines and solar arrays at Navy bases across the 
+country.
+    The Navy is also investing in leading edge technologies 
+such as ocean thermal energy conversion and waste to energy. 
+Energy efficiency combined with the right alternative energy 
+technologies will enable some of our installations to eliminate 
+reliance on grid power that is become net zero energy 
+consumers. Such investments along with the advanced grid in 
+energy shore technologies will further enhance our energy 
+security.
+    In pursuing distributed renewable generation opportunities, 
+the Navy faces many of the same challenges that all 
+organizations face to include transmission capacity limits, 
+local economic impacts, environmental compatibility and power 
+storage technology. An investment in advanced monitoring ashore 
+will enable greater energy efficiency and wider adoption of 
+alternative energy. Efforts in these areas must ultimately be 
+measured against a strategic imperative of improving critical 
+infrastructure protection.
+    The loss of critical asset to shore, even temporarily, 
+would seriously hinder Navy operations. We are vulnerable to 
+the commercial electric grid which may experience outages from 
+natural disasters, accidents and physical and cyber attack. 
+Navy installations are working to ensure maximum resiliency 
+with comprehensive contingency planning. We are working to 
+protect our infrastructure from attack and we are exploring 
+viable alternative energy solutions for back up and base power 
+generation systems to protect our critical infrastructure.
+    Finally the success of our ashore energy policy requires 
+the dedication of all members of the Navy to contribute to a 
+culture that understands and values energy as a strategic 
+resource. Thank you. I look forward to your questions.
+    Senator Shaheen. Thank you.
+    General Kessler.
+
+  STATEMENT OF MAJOR GENERAL JAMES KESSLER, COMMANDER, MARINE 
+         CORPS INSTALLATIONS COMMAND, U.S. MARINE CORPS
+
+    Major General Kessler. Madam Chair, Senator Warner, it's my 
+pleasure to be able to speak to you today regarding the Marine 
+Corps Installations Energy program. The Marine Corps has taken 
+significant action to reduce energy and water consumption and 
+expand the use of renewable energy on our installations. 
+Although we have made solid progress we have more to accomplish 
+to fully comply with legislative mandates to drive down energy 
+costs, to increase energy security and to best support Marine 
+Corps readiness.
+    The Commandant has declared energy a top priority for the 
+Marine Corps. This is reflected in our bases to battlefield 
+energy strategy which provides the Commandant's vision for both 
+expeditionary and installation energy management. As it applies 
+to installations, the Commandant's intent is to ensure a 
+secure, reliable and affordable energy supply, reduce life 
+cycle operating costs of Marine Corps installations and support 
+our Nation's efforts to reduce greenhouse gas emissions, 
+environmental impacts and dependence on foreign oil.
+    For energy intensity or consumption per square foot, the 
+Energy Independence and Security Act of 2007 requires all 
+Federal agencies to reduce 3 percent per year. For the Marine 
+Corps that's the equivalent to turning off Marine Corps air 
+station Miramar California every year. To make it even more 
+challenging, the mandate doesn't account for the Marine Corps 
+extremely lean, efficient starting point or baseline.
+    For new construction the Marine Corps has adopted the U.S. 
+Green Building Council's LEED ratings system. By following 
+LEED's integrated process for sustainable design we have 
+recently brought online the most energy efficient buildings the 
+Marine Corps has ever had.
+    For existing facilities we are making an unprecedented 
+level of investment including our PB'13 budget request of $161 
+million to improve energy efficiency on Marine Corps 
+installations. This funding will specifically be targeted to 
+installed more efficient heating, cooling and ventilation 
+systems, improve the thermal envelopes of our buildings with 
+better insulation, windows and reflective roofing and implement 
+energy management systems to automatically adjust temperatures, 
+shed loads and adjust lighting. Our focused approach to energy 
+efficiency will bring the Marine Corps into compliance, reduce 
+utility costs and improve energy security.
+    Turning our attention to renewable energy. When the Energy 
+Policy Act of 2005 became law the Marine Corps really didn't 
+have any renewable energy on our installations. Since then we 
+have made a concerted effort to apply both appropriated and 
+third party funding to develop renewable energy sources. We now 
+have a growing portfolio of solar electric, solar thermal, 
+landfill gas and wind energy. In all of our renewable energy 
+projects we consistently sought the most cost effective 
+technologies available in the market at the time. As a result 
+of these efforts the Marine Corps will comply with the EPACT 
+2005 requirements for renewable energy by the end of this year.
+    While we have enjoyed limited success, meeting the more 
+aggressive renewable energy goals established in NDAA 2007 will 
+require a much more comprehensive approach. We will need to 
+execute larger scale projects requiring a level of investment 
+that will readily exceed our budgetary limits. Accordingly we 
+plan to partner with the private sector for third party 
+financing for cost effective renewable energy.
+    We have a number of diverse planning efforts underway 
+including landfill gas as well as waste to energy, geothermal 
+and biomass projects. With all of these large scale renewable 
+projects, we will carefully evaluate the impact on readiness, 
+cost effectiveness, energy security and legislative compliance 
+to make smart decisions for the Marine Corps. Since we cannot 
+manage what we do not measure, energy meter projects have been 
+a high priority for the past several years.
+    The Marine Corps is on track to complete metering for 
+electricity by October 2012. Knowing when and where energy is 
+consumed is critical for effective energy management. This 
+metered data will be provided to all installation and unit 
+leaders to establish clear accountability for energy use.
+    Reducing petroleum consumption is another critical 
+component of the Marine Corps energy strategy. Each year we 
+continue to increase the number of alternative fueled vehicles 
+in our fleet, reducing our use of traditional petroleum 
+products. We have a diverse vehicle fleet including a 
+significant number of E85 electric hybrid and compressed 
+natural gas vehicles as well as a couple of demonstrationsites 
+for hydrogen fueled vehicles.
+    Energy and water use directly affects readiness and the 
+quality of life on Marine Corps installations. The Marine Corps 
+has an all inclusive approach to energy. We are making energy a 
+priority for everyone and cultivating an energy ethos for all 
+hands.
+    I thank you for your shared interest in this very important 
+matter. I look forward to your questions.
+    Senator Shaheen. Thank you very much.
+    Colonel Charette.
+
+  STATEMENT OF COLONEL ROBERT CHARETTE, DIRECTOR, U.S. MARINE 
+      CORPS EXPEDITIONARY ENERGY OFFICE, U.S. MARINE CORPS
+
+    Colonel Charette. Yes, Madame Chairwoman. Thank you, 
+Senator Warner. Thank you for having us in the Committee.
+    It sounds like everything has been said from all our 
+talking points. So I'm going to yield back. I will just say 
+that I would recommend, take a look at our expeditionary energy 
+strategy, bases to battlefield. It says exactly where we intend 
+to go. Why we're going there.
+    I will yield back and I'd like to hear your questions to 
+get to what's on your mind.
+    Thank you.
+    Senator Shaheen. Thank you very much. Thank you especially, 
+for the briefing earlier today. It was very impressive to see 
+what the Marines are doing out in the field on operations.
+    Mr. Hicks, I'm going to begin with you. The Federal Tax 
+Code provides really important incentives to try and encourage 
+the development of clean energy. They've been referenced 
+already.
+    Senator Warner talked about it.
+    Secretary Mabus talked about it.
+    Those credits are about to expire. While I realize that the 
+military and the Federal Government can't take direct advantage 
+of those renewable energy tax credits. The fact is they do go a 
+long way toward incentivizing private sector businesses to do 
+the kind of work that the Navy and other branches in the 
+military benefit from.
+    So can you talk about what concerns you might have if these 
+tax credits expire and the businesses that they encourage are 
+affected by that?
+    Mr. Hicks. Absolutely. Thank you.
+    Those credits, I think, go right toward our ultimate 
+competitiveness. I think the 3 power purchase agreements that I 
+referenced before where we're receiving benefits and $20 
+million over the course of those 20-year contracts, would have 
+all been upside down and would not have been returning that 
+value to the government were those production tax credits not 
+exist.
+    So I think their value cannot be underestimated. As you 
+look at certain technologies whether it's solar or wind, where 
+there's more and more emphasis on buy America. To couple that 
+with production tax credits, I think, is something that can 
+really help and grow and sustain an industry here. Hopefully 
+avoid some of the things we've seen in the past where 
+industries have moved offshore, moved to Europe, moved to 
+Germany, where we can actually build these industries here in 
+the United States.
+    So I think it goes right to our ultimate competitiveness 
+and ultimate bottom line. Thank you.
+    Senator Shaheen. Thank you.
+    Senator Warner. Admiral Cullom, you've got obviously one of 
+the most important jobs in the Navy, the question of readiness. 
+I just want to ask you straight out. Can we achieve our 
+readiness goals while implementing an energy efficiency 
+strategy?
+    Vice Admiral Cullom. Senator, absolutely. In fact, I think 
+we need it to be able to keep ourselves ready. We're oftentimes 
+tempted, I think, to look to the very short term, quarterly 
+profit and loss or an annual statement. But I think in the--for 
+us in the military, we are charged with looking for the long 
+haul, the long term.
+    To be able to be ready for the long term, in the long haul, 
+we have to look to an energy program that prepares us for that 
+day. The volatility will eat us alive. Eventually we will have 
+no readiness. We will not be able to get our ships underway if 
+we are continually buffeted and subject to the volatility that 
+we clearly, I think, anticipate.
+    Senator Warner. I think that's a really significant answer 
+since the question of readiness clearly one of the most 
+strategically important issues you have to deal with. We have 
+to try to assess and obviously I concur with your answer. But 
+appreciate it.
+    Senator Shaheen. Colonel Charette, can you talk a little 
+bit about the procurement process? One of the things that I was 
+really interested in when you were showing me the various new 
+energy sources that are being used out in the field was who's 
+making those. One of the questions we get a lot from businesses 
+in our States is an opportunity to bid on government 
+procurement, to go through the procurement process to bid on 
+contracts.
+    So can you talk about how that's working as you're looking 
+at these energy efficiency efforts? How you look at small and 
+medium sized businesses and how they participate in this 
+contracting process?
+    Colonel Charette. Ma'am, I'm not an acquisitions 
+professional. I mean, so the intricacies sometimes I don't have 
+that. So I'd be remiss. I do know that we have some small set 
+asides for small business.
+    As far as what we do, everything has to be fully advertised 
+on Federal Biz Ops. When we do talk to smaller companies we get 
+quite a bit and larger companies. Monitoring Fed Biz Ops and 
+engage with our offices.
+    We're easy to get a hold off. We're on the Internet. Our 
+Marine Corps systems command has a very proactive small 
+business organization where they promote small businesses. It's 
+just really, some of it is just getting in contact with 
+somebody.
+    A lot of times that's what our office facilitates is 
+putting those companies in touch with the right people inside 
+the Marine Corps, the Office of Naval Resource or another 
+service that we may not be working on a project, but maybe the 
+other services are. So we're happy to talk to whoever you have 
+or to somebody that needs to get in touch with, we'll 
+facilitate that, Ma'am.
+    Senator Shaheen. Thank you.
+    Would anybody else like to add anything?
+    Vice Admiral Cullom. I'll just add a few thoughts.
+    One, as it relates to small businesses. One of the things 
+we heard quite clearly a few years ago from small businesses 
+was being able to find those opportunities that Colonel 
+Charette mentioned in Fed Biz Ops. It's a very voluminous 
+exercise for folks and very cost intensive for small 
+businesses.
+    So what the Navy did, initiated more than a year ago, was a 
+program called Green Biz Ops. We went through and filtered out 
+the opportunities, the energy and green opportunities and 
+sustainable opportunities and made those available on our 
+website. We since, through an MOU with the Small Business 
+Administration, have worked with them.
+    They have actually stood up their green portal to apply 
+that same idea in a much more elegant and better way throughout 
+the whole of government with the Navy being the first user of 
+that, if you will. So that's one of the great areas.
+    We also have contracts like our $50 million contract out in 
+Hawaii. 100 percent set aside for small businesses and annually 
+I think $370 million through our Navy SBIR program focused on 
+small, clean tech companies.
+    Senator Shaheen. OK. Thank you.
+    Senator Warner. Let me ask. I think this will be for you, 
+Mr. Hicks, but maybe somebody else wants to jump in. It really 
+builds upon Senator Shaheen's question.
+    You know, one of the things we got into the recent DOD 
+reauthorization bill was a requirement that DOD work with DOE 
+to make sure that there's kind of, in effect a list of the most 
+current energy saving products so that MIL-CON can look at that 
+list in an active way. Sense the private sector is constantly 
+moving forward in this area. How do we make sure that list is 
+going to be constantly updated as we look at MIL-CON projects 
+that they are taking advantage of what's out there in the 
+marketplace?
+    Mr. Hicks. I think one of the great areas would be to 
+continue to work with DOE and in fact, U.S. EPA on their Energy 
+Star designation. That's something that we apply and put in all 
+of our contracts that, you know, we're applicable. Where we can 
+get those technologies with that designation we go out and 
+search for those.
+    I think there's other things that we can do. Perhaps 
+Admiral Cullom could shed some light on how we can look at more 
+efficient, not just within MIL-CONs, but also outside in our 
+broader acquisitions of ships and aircraft.
+    Vice Admiral Cullom. Senator, what I would add to that is 
+that we have worked very hard with ARPA-E. Because they have 
+some just amazing projects underway that are taking things from 
+nascent ideas to take it up to that point of prototyping. But 
+oftentimes they find themselves not able to necessarily have an 
+industry partner at the other end that can be able to take it.
+    Yet we can oftentimes find that there's a military 
+capability for one or more of the projects that they have. So 
+we kind of serve to help bring them across that Valley of 
+Death. So that's a perfect way that we can latch up with 
+Department of Energy's ARPA-E projects.
+    Senator Warner. Thank you.
+    Didn't I also hear General Kessler that you've said that 
+you actually were using LEED certification on certain----
+    Major General Kessler. We are, yes, Senator. I would 
+address that probably in 2 different ways.
+    One, of course, is with MIL-CON as we pursue the 
+efficiencies that come with LEED certification but also as we 
+look to improve the energy envelope of existing facilities 
+where we work on HVAC systems or replacing windows and the 
+ability to respond to those innovations that are out in the 
+market today.
+    Senator Warner, I just would hope that we would have, I 
+mean, you may have some ideas you could share with us on how we 
+make sure that that list. This is such a fluid area where 
+things are changing so quickly that you guys have got the most 
+current stuff, most current processes and procedures on that 
+list.
+    Senator Shaheen. I want to follow up a little bit on that, 
+the LEED certification and the actual efficiencies within 
+buildings. I think, General Kessler, you talked about this. 
+Rear Admiral Alexander, I know you've also been involved in 
+this.
+    Am I correct that we're not doing anything around military 
+housing at this point in terms of energy efficiencies? Can you 
+talk about what the priority is as you think about how you 
+determine what we should be looking at for those building 
+efficiencies?
+    Major General Kessler. I'll start first, I guess. The vast 
+majority of our housing today is through our public/private 
+venture or PPV. So in all of those that is up to our partner as 
+they construct those houses.
+    However, one of the initiatives we have pursued and we're 
+pursuing this alongside with the Navy is what's called a resit 
+program where we actually meter each of those houses. In that 
+process what we do is we go through a very long strategic 
+communications plan with the family members that live in the 
+housing and then a mock billing period. So much like we all 
+experience out in town where you're responsible for your energy 
+consumption, we are now instituting a program where our 
+families living aboard bases in PPV housing are also 
+responsible for their energy consumption.
+    We establish a band about the mean where if they're within 
+that band, they either don't get a rebate nor do they receive a 
+bill. However, if they're above that mean, above 10 percent 
+above the mean, they get a bill for that difference. But if 
+they're conservative in their use of energy and they're 10 
+percent below the mean, they get a rebate.
+    What this does is it helps to build, once again, that 
+energy ethos and helps all of our Marines and sailors and their 
+families realize that the consumption of energy is of strategic 
+interest to us all. So we are, in fact, doing some things 
+within our housing.
+    Senator Shaheen. How has that been received by your 
+families?
+    Major General Kessler. We've done 2 pilot sites so far. We 
+did a pilot site with the Navy in Hawaii. The Marine Corps also 
+did a separate pilot site in Beaufort. There was some initial 
+questions, perhaps some consternation initially.
+    But what we have found is that for those families that 
+participated in those 2 pilots, very well received. Which is 
+why that strategic communication piece up front is so 
+important. Once they understand the process, to date, have all 
+come on board completely.
+    Senator Shaheen. Thank you.
+    Did you want to add to that?
+    Rear Admiral Alexander. Ma'am, I would only second what 
+General Kessler said. But also from the Navy perspective, as he 
+said, the vast majority of our homes are done through a public/
+private venture. It's certainly in our partnership's best 
+interest in the new construction to incorporate to the maximum 
+extent possible, energy efficiencies in the design and the 
+construction.
+    We've seen that. I saw that personally in new homes that 
+were built in Hawaii where solar hot water systems were 
+incorporated into the design of each home. So where 
+environmentally it makes sense to do that, our partners are 
+certainly doing that.
+    You know the rent that our residents pay in those 
+partnerships also pays their utility bills. Then the 
+partnership pays the provider. So it's certainly in the 
+partnership's interest from a financial standpoint to reduce 
+the cost of utilities as much as possible.
+    We're very engaged. I am a little familiar with the pilot 
+program in Hawaii. I would echo the comments that I think 
+initially there was, perhaps, a little skepticism. But we went 
+to great efforts to not only educate our families up front and 
+to be honest with them about what we were doing and why we were 
+doing it.
+    I think once our families became educated and aware of the 
+challenges that the partnership was facing, by and large 
+they're fully on board and support the program.
+    Senator Shaheen. That's great.
+    Senator Warner.
+    Senator Warner. Admiral Alexander and I actually worked on 
+some of these housing issues and appreciate the progress we're 
+making on that hearing in the Norfolk area.
+    I guess I would simply just add, I know our time is running 
+about up. But that the more we can really measure as I think 
+one of the folks testified. We need these metrics. We need to 
+demonstrate this kind of return on investments.
+    I mean, you bring an enormous amount of credibility. As we 
+see these actions that you all take whether it's on the corsage 
+of in terms of the military families across the board all of 
+the various ways we're trying to become more energy efficient 
+to utilize some of these new alternative fuels. Utilize some of 
+these new alternative energy sources.
+    You really help us build the case because you can bring the 
+credibility on these return on investment that really is 
+unparalleled. That helps us with some of our colleagues who 
+still need some convincing.
+    So again, Madame Chair, I really appreciate the opportunity 
+to be here and yield back.
+    Senator Shaheen. Colonel Charette, I tried to give you the 
+first word, now I'm going to give you the last word because I 
+want you to--we had a conversation earlier today where I asked 
+you about the Marines who are out in the field and how they 
+felt about using renewable energy as they were in combat. You 
+gave me, what I thought, was a great response to that. So maybe 
+you could, again, talk about what you've heard from folks out 
+in the war theater about what--how they feel about new 
+renewable energy sources.
+    Colonel Charette. It's, I think one of the neatest things 
+that we were talking about, Ma'am, was the fact that the 
+Marines like the fact that they don't have to call higher 
+headquarters for batteries or fuel anymore. You know, at this 
+remote petrol bases it's more about that self sufficiency and 
+having to rely on that line of, you know, that sustainment 
+line. So if you're more self sufficient on the battlefield and 
+you don't have to call higher headquarters for batteries, now 
+you can spend more time focusing on the enemy. You can actually 
+focus on the job at hand vice worrying about if you're going to 
+have enough power to power the systems you need.
+    So it's pretty fascinating. It goes back to the point 
+before about changing behaviors. Some of this is we just 
+haven't done it for 236 years.
+    Senator Shaheen. Thank you. Thank you all very much. Thank 
+you to all of you who have attended today.
+    To Captain Jones, who is hosting us and the men and women 
+of the USS Kearsarge, we thank you for your service to the 
+country. We look forward to continuing to support you in your 
+mission.
+    Thank you all very much.
+    The hearing is closed.
+    [Whereupon, at 4:09 p.m. the hearing was adjourned.]
+                                APPENDIX
+
+                   Responses to Additional Questions
+
+                              ----------                              
+
+ Responses of Hon. Raymond E. Mabus to Questions From Senator Bingaman
+                  military biofuels mou--navy funding
+    In August 2011, the Administration announced a $510 million 
+Memorandum of Understanding (MOU) between the Secretaries of Energy, 
+Navy, and Agriculture to assist the deployment of advanced drop-in 
+hydrocarbon biofuels that can meet Department of Defense specifications 
+and power both military and commercial transportation sectors.
+    Question 1. Why are advanced, drop-in biofuels well-suited to meet 
+military requirements?
+    Answer. Drop-in, advanced alternative fuels are well-suited to meet 
+military demands because they can be handled and used in the exact same 
+manner as the conventional petroleum-derived fuels that they replace. 
+No modifications or additions to infrastructure or tactical platforms 
+are needed and no changes in operational procedures or platform 
+performance occur. Therefore, the operator is free to conduct the 
+mission with no concern of special characteristics or considerations 
+that must be given to the fuel used, and the Navy does not have to 
+spend additional efforts and funds on new or different infrastructure 
+to handle these fuels.
+    The need to find cost competitive alternative fuels has never been 
+greater. Unrest in Libya, Iran and elsewhere in the Middle East drove 
+up the price of a barrel of oil by $38, which increases Navy's fuel 
+bill by over $1 billion. Because every $1 rise in a barrel of oil is 
+effectively a $30M unbudgeted bill to the Navy, in FY12 the Navy is 
+facing a greater than $900M additional fuel cost because the price has 
+risen faster than that estimated when the budget was passed. These 
+price increases force us to cut our training and readiness budget, 
+meaning our Sailors and Marines steam less, fly less and train less.
+    Question 2. Last year, the Department put out a Request for 
+Information (RFI) around this initiative, seeking detail from industry 
+about its ability to deliver safe, effective, and cost-competitive 
+advanced biofuels for military use. I understand that the Department 
+received over 100 responses to this RFI. What has the Department 
+learned from these responses? Do the responses indicate that the 
+initiative is likely to be a success in deploying advanced biofuels 
+plants and refineries?
+    Answer. The DON received over 100 responses to the RFI. Navy 
+learned the extent of the options available in terms of regional 
+feedstocks and various pathways (i.e., thermochemical, biochemical, 
+hybrid) that are ready to be placed into commercial-scale production 
+across the US and all US territories and protectorates. There are 
+certainly more viable, commercial-scale approaches than the effort will 
+have funding to see to fruition. The DON expects that following the 
+implementation of DPA Title III effort there will be multiple 
+integrated biorefineries that will produce fuels for the DON at 
+commercial scale at prices competitive with petroleum.
+    Question 3. In FY12, Congress added $150 million above the budget 
+request for Defense Production Act Title III activities. When and how 
+will the Department determine how this funding will be allocated?
+    Answer. The Navy's FY13 budget request includes $70 million for the 
+DPA initiative. In FY12, Navy has a commitment from DOD and DPA to use 
+$100 million of the $150 million added to the budget to complete Navy's 
+commitment to the MOU.
+    Question 4. The FY13 budget request includes $70 million in DPA 
+funding for advanced drop-in biofuels production. Does the Department 
+believe this request, in addition to funding that may be available in 
+FY12, will fully meet the DoD's portion of funding under the MOU or 
+will additional funding be requested in subsequent years?
+    Answer. If the Department of Navy receives $100 million for the 
+advanced drop-in biofuels production project as a part of the DPA Title 
+III initiative, and an additional$70 million is appropriated in the 
+FY13 DON budget, this would comprise the full DON commitment of $170 
+million to the DPA Title III program.
+    Question 5. Does the Department intend to release a Broad Agency 
+Announcement or a Request for a Proposal for this initiative in FY12, 
+and if so, when can we anticipate that will occur?
+    Answer. An industry roundtable is tentatively planned for May 18, 
+2012. A special notice for a Broad Agency Announcement (BAA) has been 
+released, and a formal BAA should be released during the summer of 
+2012.
+    Question 6. Switching to biofuels may help to advance the Navy's 
+objectives of becoming energy secure and independent, however, 
+producing biofuels requires orders of magnitude more water to produce 
+that traditional fossil fuels. Have you done an analysis of the water 
+usage and how biofuels will impact supplies of water? How about impacts 
+on food stocks? Are trade-offs required and how does the Navy 
+prioritize natural resource management in these cases if trade-offs are 
+required?
+    Answer. The Navy has not conducted independent analyses of the 
+water-and food-related impacts of biofuel production. However, the Navy 
+approach to alternative fuels is informed by expert assessments of 
+these issues, such as the findings from the National Research Council 
+colloquium ``Water Implications of Biofuel Production in the United 
+States'' (2008) and various Department of Energy studies.
+    Water use is a genuine environmental consideration to weigh, in 
+determining a given biofuel technologies suitability for a given site 
+in question. For Fischer Tropsch-based processes using nonrenewable 
+feedstocks, water is used in three major phases of the operation: 
+process water, boiler feed water, and cooling water as well as any 
+water used in cultivation of the feedstocks. For biorefineries, water 
+is utilized in irrigation of feedstocks and in processing and 
+conversion of the feedstocks into finished products.
+    The majority of the water consumption in the biofuel development is 
+within irrigation of feedstocks. However, according to findings from a 
+NRC Colloquium ``Water Implications of Biofuel Production in the United 
+States (2008),'' water consumption is poorly characterized and highly 
+variable. Factors that play into feedstock water consumption include: 
+location of feedstock agriculture activities, current water 
+availability in a particular location, type of crop being grown and 
+what crop is being displaced, whether the impact of energy feedstocks 
+in overall agricultural production, and irrigation practices vs. 
+feedstock needs met through rainfall.
+    There is more to the discussion on water consumption than a simple 
+metric which will follow, but coal to liquids through Fischer Tropsch 
+processes consumed in a range of 5:1 to 7:1 in gallons of water 
+compared to Coal-to-Liquid (CTL) fuel output. Cellulosic biofuel from 
+switchgrass and forest wood residue using no irrigation water and only 
+precipitation can be optimized to operate between 1.9:1 to 9.8:1 
+consumptive water to fuel produced. Algal oil has widely varying water 
+consumption values. Cultivating algae in open ponds can lead to high 
+water usage, driven by atmospheric evaporation. Total process water use 
+would vary based on the pathway used to refine the algal oil into a 
+finished fuel product. It is important to note that most algal 
+processes assume the use of saltwater or waste water (i.e. non-potable 
+water) for algal growth, so that algal oil production water usage will 
+not compete with irrigation. Using a closed photobioreactor or simply 
+placing a greenhouse enclosure on the pond would greatly reduce 
+evaporative losses and lower process water consumption.
+    In a DOE/NETL 2006 study, the researchers evaluated CTL plant 
+placement by analyzing maps of coal rich areas and their proximity to 
+water sources and also evaluated associated water demands in those 
+regions. Water usage issues must include constraints that are often 
+region-specific. Surface and groundwater withdrawals in the Western 
+U.S. will compete with crop and livestock irrigation. CTL plants in the 
+Illinois Basin and Pennsylvania/West Virginia regions will compete with 
+thermoelectric power generation and public supply requirements for 
+water. All of these regions have both surface water resources and 
+active coal mining operations.
+    For biofuels, the NRC concluded that increased agricultural 
+production will probably not alter the national landscape of water use. 
+However, depending on the crops utilized, where they are grown, and 
+associated increase in agricultural production could stress local and 
+regional water resources. The Navy continues to monitor this issue and 
+seeks to minimize water-related impacts of its efforts. According to an 
+Argonne National Lab 2009 study, California, Idaho, Colorado, and 
+Nebraska account for half of U.S. irrigation withdrawals. These are 
+also likely areas that are have highly stressed water resources. 
+Consideration of impacts on water usage is a critical point for 
+evaluation of projections considered under this effort. The exact 
+decision matrix for considering tradeoffs required
+    The Navy also has a goal that feedstocks cannot impact food 
+production. Any effort in our program must have a transition plan if 
+they use food-related feedstocks (e.g. soy oil, corn starch, 
+sugarcane), to ultimately use feedstocks that have no impact on food 
+production. In this area, there are no tradeoffs to be made. A process 
+or pathway that permanently competes with and/or impacts food 
+production will not be considered for long term use by the Navy.
+                         long-term contracting
+    In recent years, Members on both sides of the aisle have been 
+working on legislative authority for the Department of Defense to enter 
+into long-term contracts for alternative fuel purchases. However, each 
+of the legislative proposals brought forward has hit a roadblock 
+because of the way the Congressional Budget Office (CBO) calculates the 
+score. Specifically, CBO believes that such a contract must be fully 
+budgeted in the first year to account for the government's commitment 
+over the life of the contract.
+    Question 7. The FY12 NDAA requires the Department to submit to 
+Congress a report on its current authority for multiyear contracts and 
+additional authorities needed. Do you believe additional authority is 
+needed for the Department to enter into long-term contracts for 
+alternative fuels?
+    Answer. The Department of the Navy supports longer-term contract 
+authority than the current 5-year limit allows. The responses to our 
+2011 Request for Information (RFI) for the Defense Production Act Title 
+III advanced biofuels effort reveal that 10-15 year authority would 
+encourage private investment in advanced biofuels and bring costs per 
+gallon down. The current CBO and OMB interpretation that biofuels 
+contracts be fully budgeted in the first year of the contract also 
+needs to be revised. Budgeting for 10-15 years worth of fuel, 
+especially given the 2020 goal of 8 million barrels of biofuels to be 
+used by the Navy each year, is unrealistic in any fiscal environment. 
+It is more practical, and in keeping with other energy efforts, that 
+the first year's budget incur only the cost of the first year of fuel 
+deliveries, plus termination liabilities (if any). Each subsequent year 
+would need only the incremental amount of fuel budgeted.
+    Question 8. Do you believe that a long-term contract mechanism will 
+help address not just military requirements for fuel but also fuel 
+price volatility and the upward trajectory of the price of oil?
+    Answer. Long-term contract mechanisms can be used to lock in 
+pricing conditions that do not correlate directly with oil prices, so 
+that the prices paid under these long-term contracts would not have the 
+same volatility as oil prices in the spot markets. The Navy has 
+received proposals from multiple companies positioned in different 
+areas of the biofuels supply chain for long-term pricing formulas for 
+biofuels that are not pegged directly to petroleum prices. These 
+pricing formulas could potentially be affected by rises in petroleum 
+prices; albeit not at a 1:1 ratio. Therefore, the Navy has reason to 
+believe that with proper contract structuring, biofuels delivered under 
+long-term contracts can be less volatile than petroleum bought in the 
+spot market.
+    DON/DOD efforts that lead to a nationwide adoption of advanced 
+biofuels may exert some relief from the vagaries of oil prices, and is 
+a step in the right direction for the nation as a whole in terms of 
+price instability and oil price trajectory. Domestically produced 
+advanced biofuels will offer a measure of energy security not currently 
+available to petroleum supplies, because the supply of domestically 
+produced biofuels would not be affected by the closure of foreign 
+supply chokepoints, such as the Strait of Hormuz.
+    Question 9. In May 2010, the Department submitted language to 
+Congress addressing long-term contract authority for alternative fuels 
+for inclusion in the FY11 NDAA. Does the Department still support 
+authorization of long-term contract authority for alternative fuels in 
+the NDAA? Is there a reason that no request for long-term contract 
+authority was made in the FY13 budget? Does the Department plan to send 
+to Congress additional proposals for the FY13 NDAA? If so, when?
+    Answer. The Department supports long-term contracting authority for 
+alternative fuels and feels that long-term contracting authority needs 
+to be structured to provide for an individual year's payment 
+obligations to be appropriated in that same year's budget.
+    The DOD has submitted a legislative proposal which is under 
+consideration at the Office of Management and Budget (OMB). DOD is 
+working with OMB to ensure the proposal is consistent with overall 
+administration priorities.
+    Question 10. It is my understanding that long-term authority for 
+renewable energy projects exists for the DoD. Why is this different 
+from biofuel purchasing? Can you provide some examples of where long-
+term contracting has been used and succeeded? Are there instances of 
+long-term contracting that have not worked to the Navy's benefit?
+    Answer. The Navy really needs long-term authority for renewable 
+energy projects, it has been crucial to the Navy's ability to meet its 
+renewable energy goals while simultaneously providing energy savings to 
+the Navy. A long-term contract allows an energy services provider to 
+ensure the value of his/her project and obtain financing to undertake 
+the project; it also gives the Navy some surety on future energy 
+prices, ideally at a discount to existing rates.
+    Renewable energy projects are conducted under 10 USC Sec.  2922(a); 
+this authority does not extend to fuels for tactical use. Also, CBO and 
+OMB currently interpret renewable energy projects as operating leases, 
+which can be paid for on a yearly basis. These agencies view biofuels 
+contracts as capital leases, which must be fully budgeted in the first 
+year. Navy awarded a 20-year power purchase authority (PPA) contract 
+for installing 13.8MW of solar arrays at NAWS China Lake under 10 USC 
+2922a. The project will save the Navy $13M as compared to electric 
+power purchased from the grid over the contract term. A similar PPA is 
+being developed for DON and Army bases on Oahu. For these renewable 
+projects long term authority (within the life of the equipment) is 
+essential to achieve a reasonable payback period. The Navy has reaped 
+savings and achieved renewable goals through the use of Energy Savings 
+Performance Contracts (ESPCs), Utility Energy Service Contracts (UESC), 
+and Base Operations Support (BOS) contracts. These typically extend for 
+the life of the equipment in question or up to 20 years.
+    The Navy does not have examples of long-term alternative energy 
+contracts that have not benefited the Navy.
+              onshore energy and water efficiency efforts
+    Question 11. In his State of the Union Address, President Obama 
+announced that the Department of Defense will make one of the largest 
+commitments to clean energy in history. The Department of the Navy will 
+purchase 1 Gigawatt of renewable energy, or as the Navy has stated, 
+``the equivalent of powering a quarter of a million homes'', from 
+available technologies such as solar, wind, geothermal, ocean energy, 
+and waste-to-energy. How does the Navy propose to achieve this goal and 
+what is the timeline?
+    Answer. Following the State of the Union Address, the Secretary of 
+the Navy chartered the 1 Gigawatt Task Force (1GW TF), with the 
+expressed mandate of developing a strategy by which the Department of 
+the Navy (DON) can develop 1GW of renewable energy, in support of the 
+broader DON energy goal of 50% of all shore power coming from 
+alternative resources by 2020. The 1GW TF will focus on large-scale 
+renewable energy projects that use existing third-party financing 
+mechanisms such as power purchase agreements (PPAs), joint ventures 
+(JVs), enhanced use leases (EULs), utility energy service contracts 
+(UESCs), and energy saving performance contracts (ESPCs).
+    The 1GW TF strategy is due to the Assistant Secretary of the Navy 
+(Energy, Installations and Environment) by the end of fiscal year 2012. 
+The 1GW TF will examine all Navy and Marine Corps installations for 
+their potential to support large (multi-megawatt) renewable energy 
+projects, identify obstacles or constraints--regulatory, technical; and 
+determine which projects are most technically feasible and economically 
+viable.
+    Question 12. Cost savings can be achieved by implementing energy 
+and water efficiency upgrades to new and existing buildings and 
+facilities. Is the Navy actively installing smart meters to monitor 
+energy use and/or implementing existing ``green plumbing codes'' to 
+achieve water savings? Are there any other examples of onshore 
+efficiency upgrades that the Navy would like to highlight here?
+    Answer. Yes, the Navy is currently deploying an Advanced Metering 
+Infrastructure (AMI), which is also referred to as Smart Meters that 
+will capture up to 95 percent of the electrical consumption and 75 
+percent of the water consumption at DoN Installations worldwide. At its 
+completion, Navy and Marine Corps will have installed more than 28,000 
+smart meters on its facilities.
+
+  <bullet> The Navy continuously focuses on increasing efficiency and 
+        reducing consumption by conducting energy audits, which result 
+        in development of project proposals for energy reduction and 
+        increased efficiency. The Navy projects planned for FY12, FY13 
+        and FY14 are expected to maintain the Navy's downward trend in 
+        energy consumption.
+  <bullet> The lists below are sample of projects submitted for funding 
+        in FY12 and FY13 using the energy Return On Investment tool 
+        (eROI). In FY12, 147 projects were funded, which will save the 
+        Navy 1,200,176 MBtu annually with an average Payback of 4.46 
+        years. In FY13, the Navy plans to fund 196 projects, this will 
+        save the Navy a total of 2,633,404 MBtu with an average Payback 
+        of 3.2 years.
+  <bullet> Examples of projects planned for funding in FY12 and FY13:
+
+    --Energy recycle filter backwash water and water plan at NAS 
+            Lemoore
+    --Replace plumbing fixtures in 12 buildings at NAVSTA Pearl Harbor
+    --Installation of high efficiency plumbing fittings and fixtures in 
+            several buildings at NAS Fallon
+    --Installation of a transpired solar wall (uses solar energy to 
+            heat and ventilate indoor spaces) at NAS Oceana
+    --HVAC and lighting improvements at CBC Gulfport
+    --Building optimization and retro commissioning in NAS Kingsville
+    --Centralized irrigation at NAVSTA Pearl Harbor
+
+    Question 13. What steps is the Navy taking to conserve/recycle/
+reuse water on its bases? For example, are there any large-scale grey 
+water collection and reuse facilities on any of the onshore permanent 
+bases?
+    Answer. The Navy implements Department Of Energy's (DOE) Water best 
+management practices. We strive to include water conservation in as 
+many projects as we can. In addition, we set aside Energy Conservation 
+Investment Program (ECIP) funding each year to implement water 
+conservation projects.
+    The Navy has no grey water collection systems, but we do have 
+several reuse facilities at NAS Jacksonville, FL and Dam Neck, VA. The 
+system uses recycled grey water for cooling purposes among other 
+things.
+   Responses of Hon. Raymond E. Mabus to Questions From Senator Wyden
+                  buy american purchasing requirements
+    Question 14. Many military facilities that are installing renewable 
+energy capacity are using foreign manufactured technologies, such as 
+Chinese solar panels, rather than seizing the opportunity to support 
+technologies manufactured in America. This raises the concern that 
+while rightly seeking to reduce the United States' reliance on foreign 
+oil, the Department of Defense might be encouraging a shift towards an 
+undue reliance on foreign sourced renewable technologies. The Fiscal 
+Year 2011 National Defense Authorization Act imposes obligations on the 
+Department of Defense to meet Buy American requirements when buying 
+solar panels. What is the Department of the Navy doing to implement 
+these requirements in its purchasing practices?
+    Answer. The Department of the Navy is committed to ensuring Buy 
+American Act (BAA) requirements are met for renewable energy 
+procurement. Based upon contract level compliance with BAA and a 
+sampling of projects at the time of this question, all solar panels 
+purchased by the Navy have met BAA requirements.
+    The Federal Acquisition Regulation clause requiring compliance with 
+the BAA is placed in all applicable Navy contracts. Contract awardees 
+provide product submittals during the design and construction phase to 
+certify compliance with the provisions of the Act.
+                          non-direct purchases
+    Question 15. What further steps is the Department of the Navy 
+taking to ensure that other non-direct purchases of renewable energy 
+technologies, including power purchase agreements, comply with the 
+spirit of the Buy American requirements, and support American 
+manufactured renewable energy technologies?
+    Answer. The Department is committed to ensuring Buy American 
+requirements for renewable energy procurement are met by the Navy and 
+Marine Corps. Within the Secretariat, The Assistant Secretary of the 
+Navy for Energy, Installations and the Environment has established a 
+Shore Energy Policy Board tasked with coordinating development of 
+policy and guidance for DON energy related matters, ensuring the 
+services comply with all applicable federal laws and policies.
+
+                                    
+
+      
+
+</pre></body></html>

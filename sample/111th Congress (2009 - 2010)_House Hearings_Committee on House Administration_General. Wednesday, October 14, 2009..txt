@@ -1,0 +1,569 @@
+<html>
+<title> - SECURING PERSONALLY IDENTIFIABLE INFORMATION WITHIN THE UNITED STATES CAPITOL POLICE</title>
+<body><pre>
+[House Hearing, 111 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ SECURING PERSONALLY IDENTIFIABLE INFORMATION WITHIN THE UNITED STATES 
+                             CAPITOL POLICE
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                    SUBCOMMITTEE ON CAPITOL SECURITY
+
+                                 of the
+
+                           COMMITTEE ON HOUSE
+                             ADMINISTRATION
+                        HOUSE OF REPRESENTATIVES
+
+                     ONE HUNDRED ELEVENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                HELD IN WASHINGTON, DC, OCTOBER 14, 2009
+
+                               __________
+
+      Printed for the use of the Committee on House Administration
+
+
+                       Available on the Internet:
+   http://www.gpoaccess.gov/congress/house/administration/index.html
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+53-758                    WASHINGTON : 2009
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+
+
+
+
+
+
+
+                   COMMITTEE ON HOUSE ADMINISTRATION
+
+                ROBERT A. BRADY, Pennsylvania, Chairman
+ZOE LOFGREN, California              DANIEL E. LUNGREN, California
+  Vice-Chairwoman                      Ranking Minority Member
+MICHAEL E. CAPUANO, Massachusetts    KEVIN McCARTHY, California
+CHARLES A. GONZALEZ, Texas           GREGG HARPER, Mississippi
+SUSAN A. DAVIS, California
+ARTUR DAVIS, Alabama
+                      Jamie Fleet, Staff Director
+               Victor Arnold-Bik, Minority Staff Director
+                                 ------                                
+
+                    Subcommittee on Capitol Security
+
+MICHAEL E. CAPUANO, Massachusetts,   DANIEL E. LUNGREN, California
+  Chairman
+ROBERT A. BRADY, Pennsylvania
+
+ 
+ SECURING PERSONALLY IDENTIFIABLE INFORMATION WITHIN THE UNITED STATES 
+                             CAPITOL POLICE
+
+                              ----------                              
+
+
+                      WEDNESDAY, OCTOBER 14, 2009
+
+                  House of Representatives,
+                  Subcommittee on Capitol Security,
+                         Committee on House Administration,
+                                                    Washington, DC.
+
+    The subcommittee met, pursuant to call, at 11:02 a.m., in 
+room 1310, Longworth House Office Building, Hon. Michael E. 
+Capuano (chairman of the subcommittee) presiding.
+    Present: Representatives Capuano and Lungren.
+    Staff Present: Jamie Fleet, Staff Director; Charles Howell, 
+Chief Counsel; Matt Pinkus, Professional Staff Member, 
+Parliamentarian; Kyle Anderson, Press Director; Greg Abbott, 
+Professional Staff Member; Darrell O'Connor, Professional Staff 
+Member; Shervan Sebastian, Staff Assistant; Matt Field, 
+Minority Professional Staff; and Joe Wallace, Legislative 
+Clerk.
+    Mr. Capuano. First, I want to welcome everybody to the 
+hearing this morning. I want to welcome the Chief and Mr. 
+Hoecker particularly for coming and catching us up on this 
+issue. As I understand, this hearing is being held in relation 
+to H. Res. 40, which relates to the oversight--I forgot about 
+the technology--H. Res. 40, which relates to oversight for 
+various items. And my understanding is today we are going to 
+talk about some PII--I love these initials--personal 
+information, whatever the hell it is, I don't know. And I am 
+basically going to put the official statement on the record 
+because I hate it when these things get read. I am not going to 
+do that. And with that, I am going to ask Mr. Lungren if he 
+wants to do his.
+    [The statement of Mr. Capuano follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Lungren. Thank you very much, Mr. Chairman. It is 
+correct that we are calling this meeting pursuant to our 
+requirement for this oversight. I think, first of all, I would 
+like to express my appreciation to the Capitol Police for the 
+great job that they are doing in protecting our visitors and 
+the Members who are here. I think we have passed the 2 million 
+mark now over at the CVC. So we are having a tremendous 
+increase in the number of people who are able to access their 
+Nation's Capitol. But also we had the recent shooting incident 
+near the Senate office buildings. The swift initial defensive 
+actions of the officers involved, as well as the subsequent 
+efforts to prevent further injury to the perpetrator are a 
+credit to both their professionalism and their training. And I 
+think it is good for us to acknowledge that publicly. So Chief, 
+I hope that you will give that message to your people. And I am 
+pleased that we are here dealing with an issue that may sound 
+arcane, but it is rather important. It is what we do with the 
+personal private information of members and staff. When should 
+be it released? Under what circumstances should it be released? 
+How should it be protected? Do we have the means by which we 
+are protecting it? Oftentimes here in this House of 
+Representatives we are busy concerned with the privacy rights 
+of individuals, which is extremely important, but we also ought 
+to take a moment to see how we are handling the privacy 
+information of Members of Congress, which could also relate to 
+their families, and staff here who are helping us. And so I 
+believe that having both the Chief and the inspector general 
+with us will help us to see where we are now and how we might 
+improve, and give some assurance to those with whom we serve as 
+well as those who work with us that we consider their privacy 
+information important as well. So thank you, Mr. Chairman, for 
+having this, and I look forward to the testimony.
+              Prepared Statement of the Hon. Robert Brady
+    I would like to thank Chief Morse, and the Inspector General Mr. 
+Carl Hoecker, for being here today.
+    With identity theft becoming more and more commonplace, the need to 
+protect personally identifying information has become increasingly 
+important. It is obvious that as part of their day-to-day operations, 
+the Capitol Police would have to process personally identifying 
+information. Developing and implementing systems to protect that 
+information is a vitally important component of the mission of the 
+USCP. This is not just vital for Capitol Police employees, but for 
+Members and their staffs as well.
+    I would like to commend the diligence of the Inspector General in 
+identifying ways to improve information security within the Capitol 
+Police Force. Furthermore, I would like to commend Chief Morse for 
+immediately beginning, and actively implementing, the IG 
+recommendations. I appreciate the seriousness with which your 
+department has treated this matter.
+    Today, I look forward to hearing how the Capitol Police have 
+already begun to safeguard sensitive information, and what improvements 
+we can expect down the road. I want to ensure Members and their 
+staffers that their personal information is safe in the hands of the 
+U.S. Capitol Police.
+
+   STATEMENTS OF PHILLIP D. MORSE, SR., CHIEF, UNITED STATES 
+CAPITOL POLICE; AND CARL W. HOECKER, INSPECTOR GENERAL, UNITED 
+                     STATES CAPITOL POLICE
+
+    Mr. Capuano. Chief.
+
+                STATEMENT OF PHILLIP MORSE, SR.
+
+    Chief Morse. Good morning, Chairman, and good morning, Mr. 
+Lungren. I appreciate the opportunity to testify before you 
+today on personally identifiable information, or PII, of the 
+department's stakeholders. In addition to insuring the privacy 
+of our employees, the United States Capitol Police has the 
+unique responsibility of insuring the privacy of the Members of 
+Congress, congressional staff, and members of the public with 
+whom we have reason to come in contact. Also the U.S. Capitol 
+Police maintain some Department employee PII. The most 
+sensitive employee information is primarily maintained by 
+cross-servicing partner agencies. We actively and continually 
+work with our partners to protect this employee PII. In 
+addition to carrying out our mission, the department's policy 
+is to secure and maintain very limited personally identifiable 
+information on Members of Congress, such as names, residences, 
+addresses, and contact numbers. The Department also securely 
+maintains PII that is collected for law enforcement purposes 
+involving the public.
+    The Department has various policies, procedures, and 
+protocols in place to ensure that PII collected in these 
+various areas is necessary, reasonable, appropriately secured, 
+and properly maintained. Earlier this fiscal year, the U.S. 
+Capitol Police Office of Inspector General conducted an audit 
+on the Department's privacy program. In that audit, the 
+inspector general made three recommendations regarding the 
+measures the Department should take to establish a more unified 
+and formal privacy program to enhance the protection of PII.
+    As indicated in my response to the inspector general's 
+report, I concur and I embrace all of the recommendations. I am 
+also pleased to convey that we have taken steps to address a 
+number of these issues, and are actively engaged in deploying 
+plans on how to best address the remaining issues. Recently, 
+the Department appointed Mr. Norman Farley as our new chief 
+administrative officer and chief privacy officer. Related to 
+his duties as the Department's chief privacy officer, I have 
+asked Mr. Farley to review all existing policies, procedures, 
+and protocols, addressing privacy-related risks, and developing 
+cohesive guidance to assist in the identification, 
+implementation, and maintenance of a unified privacy program in 
+coordination with the Department's executive management team 
+and our Office of General Counsel.
+    In the short time since his appointment, Mr. Farley has 
+already begun to assess the Department's current activities 
+related to PII, and is slated to provide his findings and 
+implementation plan to the Department's executive team within 
+the next few months. This plan will include establishing 
+timelines and milestones for the full implementation of a 
+unified privacy program within the Department. Although the 
+office of inspector general audit recommendations will remain 
+open until the unified privacy program and policy are finalized 
+and implemented, I am also pleased to report that the 
+corrective actions we have identified to resolve the issues 
+raised in this report have been deemed by the inspector general 
+to be effective approaches to the issue.
+    I believe that the Department has the initial tools 
+required to effectively and efficiently facilitate the 
+establishment of a unified privacy program that will mitigate 
+identified privacy-related issues and risks. Please be assured 
+that we are fully committed to executing this plan to ensure 
+the security and privacy of our employees, the public, and 
+Members of Congress and their staffs.
+    Again I just want to thank you for the opportunity to 
+appear here today, and I am happy to answer any questions that 
+you may have. Thank you.
+    [The statement of Chief Morse follows:]
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    
+    Mr. Capuano. Mr. Hoecker.
+
+                   STATEMENT OF CARL HOECKER
+
+    Mr. Hoecker. Thank you, Mr. Chairman, Mr. Lungren. Good 
+morning. My name is Carl Hoecker. I am the Inspector General 
+for the Capitol Police. Thank you for inviting me here this 
+morning to discuss our work regarding the Department's privacy 
+program. My office conducted an audit of the Department's 
+privacy efforts. The objectives were to determine if the 
+Capitol Police had developed a privacy program that adheres to 
+Federal standards and best practices, and if the program's 
+safeguards assisted the Department in protecting stakeholder 
+information from potential disclosure, specifically that of 
+Congressional Members and their staff. Our scope included the 
+Department's privacy programs in effect as of October 1st, 
+2008.
+    We defined the term Personally Identifiable Information, 
+PII, as the information that can be used to distinguish or 
+trace an individual's identity, such as their name, social 
+security number, biometric records, et cetera, alone, or when 
+combined with other personal or identifying information which 
+is linked or linkable to a specific individual, such as date 
+and place of birth, mother's maiden name, et cetera. While the 
+Capitol Police is a legislative branch agency and generally not 
+required to comply with executive branch regulations, the 
+Department views the principles of the Office of Management and 
+Budget, (OMB), guidance and other sources as best practices to 
+develop its policies and procedures.
+    Federal privacy best practices require that each Federal 
+agency develop and implement policies and procedures for an 
+overall privacy program; identify and safeguard PII in both 
+paper and electronic form; develop a training program to 
+annually educate employees on requirements for handling PII; 
+perform risk assessments over major information systems and 
+implement appropriate safeguards based upon those risks; and 
+implement secure baseline configurations over information 
+systems. OIG found the Department does not have a formal 
+privacy program that ensures privacy-related risks have been 
+identified and adequately addressed. While the Capitol Police 
+do collect and handle PII of Congressional Members and their 
+staff, the Department has not identified where the PII is 
+collected, maintained, processed, or disseminated. The 
+Department has neither clearly defined the roles and 
+responsibilities of key privacy personnel, nor provided 
+applicable training to such personnel. We also noted that the 
+Capitol Police organizational chart did not identify the Chief 
+Privacy Officer, or CPO, or include this position within its 
+organizational structure. Additionally, the role of the CPO has 
+not yet been defined by the Department. The lack of a CPO 
+position on the organizational chart and the absence of a clear 
+role for the CPO indicate that the position's authority has not 
+been communicated or recognized within the Department.
+    During the course of our work, OIG noted no instances of 
+either intentional or inadvertent releases of PII. However, the 
+scope of the audit was not designed to identify breaches of 
+PII. The Department appointed a CPO in August of 2007. The 
+Department also had established a privacy board consisting of a 
+CPO and other key personnel. The board's overall objective is 
+to determine the appropriate policy, procedures, operational, 
+administrative, and technological issues within the Department 
+that affect individual privacy, as well as data integrity and 
+data interoperability and other privacy matters.
+    While the board has taken some action to address the 
+privacy concerns, the majority of the actions taken at the time 
+of our audit were either in draft or initial stages, and, 
+therefore, not functioning effectively. To improve the internal 
+efficiency and effectiveness of the Department's PII program, 
+and to assist in safeguarding such information, OIG recommended 
+that the Department finalize its policies and procedures, 
+identify the CPO in the org chart, clearly define roles, 
+responsibilities, and the authorities of the CPO and other key 
+privacy personnel, and to provide applicable privacy training 
+to all contractors and employees. Additionally, we recommended 
+that the Department immediately conduct a review to identify 
+where PII is collected, maintained, processed, and disseminated 
+within the organization. The Department has agreed with the 
+recommendations. Initial steps have been taken by the 
+Department toward improving programs. However, the 
+recommendations are still open. This concludes my testimony. I 
+would be happy to address your questions.
+    Mr. Capuano. Thank you, Mr. Hoecker.
+    [The statement of Mr. Hoecker follows:]
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    
+    Mr. Capuano. Chief, I am just curious, I am less interested 
+in my own privacy, because I have chosen a public life, and I 
+kind of figure pretty much everything you have anybody can find 
+out is my guess. Is that a reasonable--what do you have on me 
+that I don't already know?
+    Chief Morse. The limited information that we have on 
+Members is provided to us in hard copy, not electronically. It 
+is name, address, phone number, those types of things for 
+emergency contact.
+    Mr. Capuano. Okay. That is what I figured. For me, pretty 
+much everything can be found. And I think for most of us that 
+is pretty readily available by junior league person on the 
+Internet. So I am not worried about that. But I am interested 
+in the staff for the very simple reason that they have not 
+chosen the public life. I guess, Mr. Hoecker, I wanted to ask, 
+when audits get done, that is fine. At this point in time are 
+you reasonably satisfied that they are making reasonable 
+progress towards addressing the issues raised?
+    Mr. Hoecker. Yes, sir, I am. I think they have taken the 
+initial foundations, set the stage. The way that works is when 
+they satisfy or when the Department believes they have 
+satisfied a recommendation, they provide evidence to my office, 
+and we would look at it and make sure that that is kind of 
+where we are coming from. I think they are headed in the right 
+direction, to answer your question, sir.
+    Mr. Capuano. Okay. I think that is what audits always do. I 
+was a little concerned, though, when you said it was a 
+procedures-oriented, if I remember the terms, audit, as opposed 
+to one looking for breaches. At some point, once the proper 
+procedures are in place, who will then check whether to make 
+sure that the procedures actually work or they have to be 
+amended or whatever? Would that be you or the Department itself 
+or both?
+    Mr. Hoecker. It could be both, sir. What this looked at is 
+since there wasn't a formal policy, what we would do is when 
+there is a policy, we could test it if it is actually being 
+effectively implemented.
+    Mr. Capuano. Because even with the best of policies there 
+is going to be somebody, even the State Department, you know, 
+we read about all the time somebody at the State Department, 
+somebody at the IRS, State level, same thing, somebody will 
+access it inappropriately. And that is bad enough, but then 
+they will oftentimes catch it. I think that is kind of 
+important as well, to have the right procedures, but also have 
+the right investigative tools available after the fact.
+    Mr. Hoecker. Yes, sir.
+    Chief Morse. Yeah, one of the things that the program and 
+policies and procedures will address is internal controls to 
+prevent, obviously, any breaches of personal information, but 
+also to constantly check to ensure that those policies and 
+procedures are followed and updated on a regular basis.
+    Mr. Capuano. What kind of information do you have on the 
+average staff person? Same type of information?
+    Chief Morse. Yeah, there is really no reason for us to keep 
+information on any staff, because our emergency notification 
+system is more of a general notification through e-mail and 
+alert systems. Sometimes there may be information that, you 
+know, their names. But there is really no other reason to have 
+any other information unless there is a police report taken. In 
+the instance of police reports, whenever there is a damage to 
+auto or traffic accident or a crime, generally speaking, those 
+only require a name, and then their addresses and phone numbers 
+and things like that are identified as on file.
+    And then we have an internal document or police report that 
+identifies them as staff and who they work for and the 
+information that is needed. And then that is maintained in our 
+reports processing section.
+    Mr. Capuano. I heard some mention of the word 
+``biometrics.'' I mean, you got my DNA on file someplace?
+    Chief Morse. I do not.
+    Mr. Capuano. I can't imagine why you would want it, but 
+that is--all right. So at the moment you are not keeping any 
+biometric information on anybody then?
+    Chief Morse. Not that I am aware of.
+    Mr. Capuano. I don't know if that is the full answer now, 
+Chief. You are not supposed to be doing it.
+    Chief Morse. I do not keep any of that information, no, or 
+collect it.
+    Mr. Capuano. Okay. Thank you. Mr. Lungren.
+    Mr. Lungren. Why do you think they provide the water 
+bottles for you there? Thanks very much for your testimony. 
+Chief, according to your testimony, Mr. Hoecker's testimony, 
+there was appointed by the Department a chief privacy officer 
+in August of 2007, yet Mr. Hoecker's work was done as of 
+October 1, 2008. And I know you have mentioned that you 
+recently appointed a new chief information officer, chief 
+privacy officer. What happened between August 2007 and October 
+1, 2008, if we didn't have any policies in place at that point 
+in time?
+    Chief Morse. Well, I just want to clarify that the 
+Department does have policies and procedures in place. They 
+just don't fall under any unified program or chief information 
+officer, which we plan to do with this new program. So we do 
+have policies and procedures in place at various entities 
+within the police department that collect personal identifiable 
+information on employees.
+    Mr. Lungren. I am just trying to get at, did I 
+misunderstand you, Mr. Hoecker, when you said they didn't have 
+a policy in place?
+    Mr. Hoecker. I think the clarification is they don't have 
+any PII policy, something that rolls that all up. There may be 
+policies, for instance in the police section, where when you 
+apprehend a suspect and fill out a form, there may be policies 
+that safeguard reports, but there is no overall PII policy.
+    Mr. Lungren. Chief, when you mentioned that you have 
+information, limited information, personally identifiable 
+information on Members of Congress, names, residence addresses, 
+contact telephone numbers and so forth, is that your 
+independently kept record or is that information you get from 
+the CAO or the Speaker's office or someplace?
+    Chief Morse. Yeah, the information that I referred to is 
+provided to us in hard copy from the House Sergeant at Arms 
+office and is updated as necessary.
+    Mr. Lungren. So do you maintain a separate file from the 
+Sergeant at Arms?
+    Chief Morse. Yes.
+    Mr. Lungren. Does Sergeant at Arms maintain a file do you 
+know?
+    Chief Morse. Yes, I would assume they do, because we get a 
+hard copy matrix from them that is updated periodically. It is 
+kept in the command center of headquarters in a safe. And there 
+is a special operating procedure to direct what happens to that 
+information and how it is released or when it is released.
+    Mr. Lungren. Do you have it maintained electronically?
+    Chief Morse. We do not. It is only provided to us in hard 
+copy.
+    Mr. Lungren. So you haven't--you don't have any computer 
+list that you can access for Members if you need to get ahold 
+of them in an emergency or something?
+    Chief Morse. We do not.
+    Mr. Lungren. Okay. I know that the police department, your 
+office affords a function to Members' district offices. I know 
+you go out there and do reviews, security reviews and so forth, 
+and make recommendations. We have been the beneficiary of that. 
+In the course of that, do you identify individual employees so 
+that you have names and numbers of people at district offices 
+as opposed to just what happens here on the Hill?
+    Chief Morse. Yes, we do. And we protect that information.
+    Mr. Lungren. Is that also held in hard copy as opposed to 
+any computer information list?
+    Chief Morse. It is held in hard copy.
+    Mr. Lungren. Is there any plan to computerize those things 
+as we do just about everything else?
+    Chief Morse. I don't know that we have any plans to do 
+that, but we safeguard it, minimizing the risk that anyone else 
+can access it by having hard copy only. Once you go 
+electronically, then the risks increase that other people can 
+obtain that. So our preference is to maintain it hard copy 
+fashion.
+    Mr. Lungren. Mr. Hoecker, when you did your audit, how did 
+the United States Capitol Police's privacy program compare to 
+other Federal agencies, even though I know those are executive 
+branch agencies?
+    Mr. Hoecker. Well, sir, I haven't done any audits of other 
+executive branch agencies. But my sense is there is a mixed bag 
+of policies that are in place--specifically dealing with PII 
+versus agencies that don't have that policy. In that regard, I 
+think since the Capitol Police are a police organization, I 
+believe that my judgment would be that there is a significant 
+reduction of that risk because of the nature of a police 
+organization. So that you are dealing with witnesses, you are 
+dealing with subjects on an everyday basis.
+    Mr. Lungren. Chief, with respect to dealing with other law 
+enforcement agencies, do you treat the information that you 
+have on Members any differently than you would with other 
+information you would have dealing with other police 
+organizations?
+    Chief Morse. Well, there are seldom times when we, you 
+know, would share information that they don't already have. In 
+other words, we wouldn't provide them any. So as an example, if 
+we are doing a threat case, the bureau has the primary 
+responsibility and the investigation of that threat case, and 
+we are simply an assisting agency in helping facilitate that 
+investigation. So the information they have they protect, and 
+there is rarely an opportunity or situation that would come up 
+where we needed to provide them with personal information of 
+the person that they are investigating.
+    Mr. Lungren. Now here on the Hill, for I.D. purposes we 
+have I.D. that is created for family members. They have to give 
+certain information for that in order to assure that the person 
+who has the I.D. is the family member. Do you have that 
+information?
+    Chief Morse. I can't answer that now. I do not believe that 
+information is provided to us, because I don't believe we are 
+the ones who issue the identification.
+    Mr. Lungren. As far as you know, you do not maintain that 
+information on family members of Members of Congress?
+    Chief Morse. I do not believe we do. I can verify that and 
+give it to you for the record.
+    Mr. Lungren. Okay. Mr. Hoecker, any further recommendations 
+for the United States Capitol Police at this time?
+    Mr. Hoecker. No, sir.
+    Mr. Lungren. Okay. Thank you very much, Mr. Chairman.
+    Mr. Capuano. I just have one last question, Chief. How long 
+do you hang onto these things? When somebody leaves, how long 
+do you hang onto them? Can you give me Tip O'Neill's cell phone 
+number?
+    Chief Morse. No.
+    Mr. Lungren. Haven't been able to talk to him recently?
+    Mr. Capuano. Direct line.
+    Chief Morse. Once we are given a new hard copy that is 
+updated, the old copy is destroyed. So it is only current 
+members that we would need to contact or respond to their 
+residence in an emergency situation. So that is the only record 
+that we maintain.
+    Mr. Capuano. So when I leave, you are never going to call 
+me again?
+    Chief Morse. I will call you, but I guess I will have to 
+get that through somebody else, not my own information.
+    Mr. Capuano. All right. Thank you. I appreciate it. And I 
+appreciate the progress, too. I understand this is what audits 
+do, they show some weaknesses. And the measure is not in the 
+weaknesses, the measure is in the response to identified 
+weaknesses. And I congratulate you for making the IG happy. And 
+by doing so you are making us happy by making progress. So as 
+far as I am concerned, it sounds like you are going in the 
+right direction, and I appreciate the efforts. All set?
+    Mr. Lungren. I am all set. I would just say if you ascend 
+to the Senate, they will probably keep your information while 
+you are over there.
+    Mr. Capuano. Just change it to a different safe. Thank you 
+very much. I really appreciate it. And I appreciate taking time 
+to update us on this and the progress you have made. Thank you 
+very much, gentlemen.
+    [Whereupon, at 11:28 a.m., the subcommittee was adjourned.]
+
+                                  <all>
+
+</pre></body></html>

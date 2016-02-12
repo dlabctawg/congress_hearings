@@ -1,0 +1,1983 @@
+<html>
+<title> - COORDINATING REQUIREMENTS,</title>
+<body><pre>
+[House Hearing, 111 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+                         [H.A.S.C. No. 111-72]
+ 
+                       COORDINATING REQUIREMENTS,
+
+                        BUDGETS AND ACQUISITION:
+
+                      HOW DOES IT AFFECT COSTS AND
+
+                         ACQUISITION OUTCOMES?
+
+                               __________
+
+                                HEARING
+
+                               BEFORE THE
+
+                  PANEL ON DEFENSE ACQUISITION REFORM
+
+                                 OF THE
+
+                      COMMITTEE ON ARMED SERVICES
+
+                        HOUSE OF REPRESENTATIVES
+
+                     ONE HUNDRED ELEVENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              HEARING HELD
+
+                              JUNE 3, 2009
+
+                                     
+[GRAPHIC] [TIFF OMITTED] TONGRESS.#13
+
+                                     
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+51-765                    WASHINGTON : 2010
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+
+                  PANEL ON DEFENSE ACQUISITION REFORM
+
+                  ROBERT ANDREWS, New Jersey, Chairman
+JIM COOPER, Tennessee                K. MICHAEL CONAWAY, Texas
+BRAD ELLSWORTH, Indiana              DUNCAN HUNTER, California
+JOE SESTAK, Pennsylvania             MIKE COFFMAN, Colorado
+                Andrew Hunter, Professional Staff Member
+                 John Wason, Professional Staff Member
+                     Alicia Haley, Staff Assistant
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                     CHRONOLOGICAL LIST OF HEARINGS
+                                  2009
+
+                                                                   Page
+
+Hearing:
+
+Wednesday, June 3, 2009, Coordinating Requirements, Budgets and 
+  Acquisition: How Does It Affect Costs and Acquisition Outcomes?     1
+
+Appendix:
+
+Wednesday, June 3, 2009..........................................    27
+                              ----------                              
+
+                        WEDNESDAY, JUNE 3, 2009
+COORDINATING REQUIREMENTS, BUDGETS AND ACQUISITION: HOW DOES IT AFFECT 
+                    COSTS AND ACQUISITION OUTCOMES?
+              STATEMENTS PRESENTED BY MEMBERS OF CONGRESS
+
+Andrews, Hon. Robert, a Representative from New Jersey, Chairman, 
+  Panel on Defense Acquisition Reform............................     1
+
+                               WITNESSES
+
+England, Hon. Gordon, Former Deputy Secretary of Defense, Former 
+  Secretary of the Navy, and President, E6 Partners, LLC.........     4
+Giambastiani, Adm. Edmund, USN (Retired), Former Vice Chairman of 
+  the Joint Chiefs of Staff, and Chairman of the Board, Alenia, 
+  North America..................................................     5
+Kadish, Lt. Gen. Ron, USAF (Retired), Former Director, Missile 
+  Defense Agency, Former Chairman, Defense Acquisition 
+  Performance Assessment, and Vice President, Booz Allen Hamilton     8
+
+                                APPENDIX
+
+Prepared Statements:
+
+    Andrews, Hon. Robert.........................................    31
+    Coffman, Hon. Mike, a Representative from Colorado, Panel on 
+      Defense Acquisition Reform.................................    33
+    England, Hon. Gordon.........................................    36
+    Giambastiani, Adm. Edmund....................................    46
+    Kadish, Lt. Gen. Ron.........................................    56
+
+Documents Submitted for the Record:
+
+    The Defense Acquisition Performance Assessment Report, 
+      January 2006...............................................    69
+
+Witness Responses to Questions Asked During the Hearing:
+
+    Mr. Andrews..................................................   227
+
+Questions Submitted by Members Post Hearing:
+
+    [There were no Questions submitted post hearing.]
+COORDINATING REQUIREMENTS, BUDGETS AND ACQUISITION: HOW DOES IT AFFECT 
+                    COSTS AND ACQUISITION OUTCOMES?
+
+                              ----------                              
+
+                  House of Representatives,
+                       Committee on Armed Services,
+                          Defense Acquisition Reform Panel,
+                           Washington, DC, Wednesday, June 3, 2009.
+    The panel met, pursuant to call, at 8:09 a.m., in room 
+2212, Rayburn House Office Building, Hon. Robert Andrews 
+(chairman of the panel) presiding.
+
+OPENING STATEMENT OF HON. ROBERT ANDREWS, A REPRESENTATIVE FROM 
+   NEW JERSEY, CHAIRMAN, PANEL ON DEFENSE ACQUISITION REFORM
+
+    Mr. Andrews. Ladies and gentlemen, with the permission of 
+the minority staff and their gracious cooperation, we are going 
+to begin. I wanted to welcome the witnesses and the members of 
+the public and the media to this morning's hearing, and I 
+wanted to begin by thanking my colleagues on this panel for 
+their diligent work and the efforts that led to the acquisition 
+reform legislation signed by the President 12 days ago.
+    This panel was empanelled a very brief period of time ago, 
+and each of the members on both the Republican and Democratic 
+side put in a significant amount of time in learning these 
+issues and made a very valuable contribution to that effort 
+which has now become law. I did want to express my appreciation 
+to the staff as well as the colleagues on the panel for their 
+hard work. Our work, as we see it, is only about 20 percent 
+done in that statute. Maybe a little less than that. But 
+obviously, we have a responsibility as the statute was 
+implemented to understand whether it is working or not and to 
+determine what that means. But by any definition, about 80 
+percent of the procurement done by the Department of Defense 
+(DOD) is not touched by the statute the President signed 12 
+days ago because it dealt with the major weapons system 
+exclusively, as this panel knows well, and as many members of 
+our panel know very well as well that about 60 percent of the 
+procurement done by the Department of Defense is services, not 
+goods.
+    And of the 40 percent that is hardware, major weapon 
+systems only make up a part of that, maybe about a half of 
+that. So there is a lot of work left to be done. The panel 
+began with a series of questions and the first question that we 
+started with was what set of metrics should exist or can exist 
+to properly measure the difference between what we are paying 
+for goods and services procured by the DOD and what the value 
+of those goods and services is.
+    The delta, if any, between what we are paying and what we 
+are getting. And after a series of hearings on that, we are now 
+ready to proceed to our next step which is to ask the next 
+question, what hypotheses are out there as to why that 
+difference exists? In other words, given the fact that the 
+evidence is rather clear that there is a gap between what we 
+pay and what we receive, what are the causes of that gap. Today 
+is the first in a series of hearings that will be structured 
+around the idea of a hypothesis as to what those causes are. 
+This morning, the hypothesis would be this: The gap between 
+what we pay and what we receive is, in some part, explainable 
+by the absence of effective coordination among the requirements 
+process, the procurement process and the budgeting process. 
+That when one looks at those three significant initiatives that 
+must be accomplished in the Department of Defense, there is 
+either little or no coordination on too many occasions.
+    Now there are exceptions to that rule. There have been many 
+instances where there has been very effective coordination. I 
+think the bulk of the evidence is that that is more a function 
+of the talents and commitment of the individuals that are 
+involved, not necessarily the administrative structure within 
+which they are working. One of the corollary hypotheses to this 
+is maybe it doesn't matter much what the administrative 
+structure is. It is entirely dependent upon the skills and 
+personalities of the people involved and that there are very 
+finite limits as to what we can do with manipulating an 
+administrative structure. That may well be the case.
+    But the general purpose of this morning's hearing is to 
+hear from three incredibly accomplished individuals with deep 
+experience and broad knowledge in this area to address this 
+hypothesis to the extent there is a lack of coordination among 
+the requirement setting process, the procurement process and 
+the budgeting process to what extent is this the cause we have 
+identified as the gap between what we pay and what we get. 
+After this morning's hearing we will proceed with a lot of 
+other hypotheses that people have suggested over the years and 
+try to evaluate those and come to some understanding as to what 
+combination of hypotheses make the most sense in meeting our 
+ultimate objective, which is to come up with a series of 
+legislative recommendations to try to make the system work 
+better. Pleased to be joined by our friend from Colorado, Mr. 
+Coffman, and I realize he just dashed in. But I would give him 
+the opportunity to make an opening statement if he so desires.
+    [The prepared statement of Mr. Andrews can be found in the 
+Appendix on page 30.]
+    Mr. Coffman. Thank you, Mr. Chairman. I will submit my 
+statement for the record after the meeting. But I appreciate 
+you all for coming here and look forward to your testimony.
+    [The prepared statement of Mr. Coffman can be found in the 
+Appendix on page 32.]
+    Mr. Andrews. Thank you very much, Mr. Coffman. And without 
+objection, opening statements from any other member of the 
+panel will be included in the record should they choose to 
+submit them. We appreciate the indulgence of the witnesses in 
+waiting and arriving. I am going to give very brief 
+biographical introductions, because each of you truly is a 
+person who needs no introduction around here. We mean that as a 
+compliment.
+    But very briefly, Mr. Gordon England is now President of E6 
+Partners, LLC, a firm specializing in international business. 
+As we well know, he has previously served as the 29th Deputy 
+Secretary of Defense. He also served as the 72nd and 73rd 
+Secretary of the Navy and the first Deputy Secretary of the 
+Department of Homeland Security. He is a native of Baltimore, 
+graduated from the University of Maryland in 1961, earned his 
+masters in business administration from the M.J. Neeley School 
+of Business at the Texas Christian University and has been a 
+leader in civic and charitable organizations as well as his 
+exemplary service to our country. Welcome, Secretary England. 
+Nice to have you back with us.
+    Secretary England. Chairman, thank you.
+    Mr. Andrews. The Admiral is next. The bio is here. Admiral 
+Edmund Giambastiani. Is that correct, Admiral?
+    Admiral Giambastiani. Yes, sir.
+    Mr. Andrews. I am from New Jersey. So I get a lot of 
+practice. It is a beautiful Italian name. He joined Alenia 
+North America, Inc., in January of 2008 as Chairman of the 
+Board of Directors. In addition, he serves as Director of SRA 
+International, Inc., Monster Worldwide, Inc., The Atlantic 
+Council of the United States, QinetiQ Group in the United 
+Kingdom. A career nuclear submarine officer, the Admiral 
+retired from active duty on October 1, 2007. In his last 
+assignment, he served as the Nation's 7th Vice Chairman of the 
+Joint Chiefs of Staff and its second highest ranking military 
+officer. He is a native of Canastota, New York. And he 
+graduated from the U.S. Naval Academy in 1970 with leadership 
+distinction. Welcome, Admiral. Thank you for your service.
+    Admiral Giambastiani. Thank you, chairman.
+    Mr. Andrews. And Lieutenant General Ronald Kadish is 
+presently the Vice President and the partner in the aerospace 
+marketing group for Booz Allen Hamilton, Inc. He joined that 
+firm on February 15, 2005. He has distinguished himself there 
+as panel Chairman of the Defense Acquisition Performance 
+Assessment, examining the strengths and deficiencies of the 
+current defense acquisition process. He has worked with us for 
+a very long time on this committee as the Director of the 
+Missile Defense Agency in the Office of the Secretary of 
+Defense. As director, General Kadish was the acquisition 
+executive for all ballistic missile defense systems and 
+programs. He entered the Air Force in 1970 after graduating 
+from the Reserve Officers' Training Corps (ROTC) program at St. 
+Joseph's University in Philadelphia. We had another St. Joe's 
+witness earlier. I said the hawk will never die to those 
+witnesses, right, General?
+    It is great to have you with us, gentlemen. We will start 
+with Secretary England. You know the rules well, that we ask 
+people to summarize their oral testimony in about--their 
+written testimony rather in about five minutes. Your written 
+statements in their entirety will be made a part of the record. 
+We try to maximize the amount of question time for the members 
+so we can get the benefit of your excellent work. So, Mr. 
+Secretary, you are on.
+
+ STATEMENT OF HON. GORDON ENGLAND, FORMER DEPUTY SECRETARY OF 
+   DEFENSE, FORMER SECRETARY OF THE NAVY, AND PRESIDENT, E6 
+                         PARTNERS, LLC
+
+    Secretary England. So, first, Mr. Chairman, thanks for the 
+opportunity to come by again. First of all, I applaud you. You 
+have to be pretty brave to enter this arena as you know. In my 
+commercial days, I ran several Defense Science Board studies on 
+acquisition reform and probably served on another dozen over my 
+career. When I became the deputy, I had a group, in fact, 
+General Kadish was one of the leaders of that group to look at 
+the 123, I believe, prior formal studies on acquisition reform 
+and that didn't include all the work by think tanks and 
+everybody else in the Government Accountability Office (GAO) 
+and the Congress and so this is not new ground being plowed. 
+But that would tend to indicate that this is an extraordinarily 
+complex topic that you are about. And I would make just a 
+couple of recommendations and observations in terms of how you 
+might improve this process. Obviously requirements is key. I am 
+sure Admiral Giambastiani will have something to say about that 
+because he actually ran the organization in terms of 
+requirements.
+    I do believe there are some organizational changes that 
+were put in the Department frankly when I was there that are 
+hopefully beneficial to help tie together the requirements, the 
+budgeting, the acquisition, in fact, the operational end of 
+this business. We now have processes in place. I hope they are 
+still in place, specifically called the DAWG, which is the 
+Deputy's Advisory Working Group, which is all the senior 
+leadership, four-stars and civilian leadership met every week 
+several times a week, and literally went over every single 
+program, what the budget was, what was the performance, what 
+was the need, what were the requirements so we integrated this 
+across the department because programs are no longer operated 
+as individual programs.
+    They are now overarching capabilities. So then we also put 
+processes together to look across all of the programs in terms 
+of how did they all integrate, because frankly they all come 
+together at some point in time. So they have to be 
+synchronized. Everything has to be synchronized so that it all 
+works together when it comes together in terms of being fielded 
+because all of this is integrated some very high level and not 
+individual programs.
+    So I think some steps have been made to address that, but 
+this is a complex issue and that is one process that was tried 
+as a way to get better visibility and better ways of 
+controlling. In my statement, I made a few recommendations. 
+First of all, I will tell you, the system is very complex. 
+Counterintuitively, that means you want to give managers more 
+flexibility. The more complex the system, the more flexibility 
+you need, managers need. The trend is always the other way. 
+That is it gets more complex, we add layers of bureaucracy and 
+regulation and control and that makes it almost impossible to 
+run very complex programs. So the system today is way over-
+burdened. It is over-burdened by the Department, it is over-
+burdened by the Congress. As it becomes a more complex system, 
+we need to simplify it, otherwise managers won't be able to 
+operate.
+    But the other comment I will make is I think multi-years, 
+we have the wrong approach on multi-year contracts. Stability 
+is what counts in these programs, predictability in programs. 
+Today we have multi-years based on savings. But frankly, in my 
+view, that is the wrong criteria. Multi-year programs almost 
+always hit their targets year after year because there is a 
+long-term commitment of money to the program, people know what 
+the schedule is, they know what the requirements are, they can 
+rely on future years, companies can invest. So we look at 
+saving money. My own view is we should have more and more 
+multi-years on the basis of providing stability of programs so 
+cost doesn't grow. I mean, one approach is to look at cost 
+savings. The other approach is how do you put a structure in 
+place so that costs do not grow in the future. So I would turn 
+that process around.
+    My last comment would be--you mentioned metrics. I think 
+you need to decide what your objective is here. Not all things 
+are, ``going to come out with a perfect answer,'' just like our 
+international relations. You have to set what the objective is. 
+This is an extraordinarily complex process with many competing 
+interests and cross-currents that go in every day and every 
+year in industry, in government and the DOD and the military. 
+So you have to decide what is the plateau you are trying to 
+achieve in this. Because otherwise, I think if we are looking 
+to end up with this sort of perfect system, perfect meaning 
+manageable like--I almost said a car company, but that is 
+probably a bad example--but manageable like a commercial 
+product. You know, where we put out regular products on a 
+repetitive basis. It is never going to achieve that level of 
+performance because that is not the nature of what this 
+business is about.
+    So a few comments. My statement hopefully is clear in terms 
+of some observations and recommendations. But I would like to 
+engage in a discussion with the members.
+    [The prepared statement of Secretary England can be found 
+in the Appendix on page 35.]
+    Mr. Andrews. Thank you, Mr. Secretary. And we have had a 
+chance to read your testimony prior to this. We appreciate it 
+very much. And I appreciate you giving us a chance to expand 
+the question time, too. Admiral, welcome back. It is great to 
+have you with us again.
+
+ STATEMENT OF ADM. EDMUND GIAMBASTIANI, USN (RETIRED), FORMER 
+VICE CHAIRMAN OF THE JOINT CHIEFS OF STAFF, AND CHAIRMAN OF THE 
+                  BOARD, ALENIA, NORTH AMERICA
+
+    Admiral Giambastiani. Thank you, Chairman. And thanks to 
+you and all the members of the committee for inviting not only 
+me, but obviously this group to participate this morning in 
+this incredibly important hearing. I might just mention that 
+the fact that you have focused on, if you will, requirements, 
+budgets and acquisition is gratifying to me because recently, 
+over the last year, I have been helping the Secretary of the 
+Navy out in his advisory panel and my mantra frankly for a year 
+has been requirements, budgets and acquisition. But I would 
+tell you it has been integration of those as opposed to just 
+coordination of them. Coordination is that level that is very 
+helpful, but if you can integrate these and bring them to a 
+higher level, frankly, I found you are much more successful in 
+the long run. It also feels like old times again to be here 
+with these three individuals. Gordon didn't mention in, but--
+and Ron may, but I will pre-empt here and just tell you the 
+last time the three of us appeared together in a hearing on 
+this very subject was September of 2005 before the Senate Armed 
+Services Committee.
+    We also had Ken Krieg at the time who was the new Under 
+Secretary. We were all--Gordon and I were new in our roles as 
+Ken Krieg was and Ron was working on that DAPA report, the 
+Defense Acquisition Performance Assessment. So it is old times 
+here this morning.
+    Let me make a few points here and you may hear a little bit 
+of repetition on the stability front on what Gordon talked 
+about. But first of all, as I said, I am very pleased that you 
+are covering this. A fundamental premise in my view to our 
+success is based on well informed risk management, a very 
+important thing, well-informed risk management. And I call the 
+requirements, if you will, the budget and acquisition portions 
+of this, the three legs of the stool. And I will refer to these 
+three legs and the integration of them repeatedly. But I would 
+emphasize with the three legs--there is three things that I 
+have always found important across all of them and that is 
+affordability, stability and simplicity. And let me just talk 
+about requirements for a couple of moments, and again, I will 
+summarize what I have got in my statement.
+    I have participated in these requirements generations, 
+frankly, since I was in my first commanding officer role in the 
+early 1980s, and then onwards throughout successive commands, 
+successive tours in the Pentagon and then in joint and allied 
+positions. In my opinion, at least 50 percent of getting a 
+program right is establishing realistic, sound, practical, 
+simple requirements up front and then, of course, sticking with 
+them.
+    Affordability, stability and simplicity, those three 
+factors are really important and executable set of requirements 
+for any procurement in my view. Let me talk just for a moment 
+on the affordability front. All too often, this word is 
+forgotten in the course of talking about this, the 
+affordability piece right up front. We need to give military 
+officers who are tasked with defining requirements more and 
+better insights into the cost drivers, the cost drivers in the 
+requirements they are defining.
+    Now, I just might mention this. I uniquely had a very good 
+relationship here with this gentleman next to me. He was a 
+wonderful man to work with, it is the Deputy Secretary. And I 
+might mention three processes that I spent a lot of time 
+working. And the first one he mentioned was the Deputy's 
+Advisory Working Group. What he didn't tell you is that he, as 
+the Deputy Secretary, went so far as to name me as the co-chair 
+of the Deputy's Advisory Working Group. This was very 
+important, once again, to bring the military side of the 
+equation and the civilian side to produce capabilities for our 
+service personnel together.
+    He did that early on and it was very important. So that 
+helped me work in the concept, in the resource side as a co-
+chair of this group. Very important. The second thing, 
+obviously, I was the chairman of the Joint Requirements 
+Oversight Council (JROC) which sets military requirements. But 
+thirdly, and just as important, I served as the co-chair of the 
+Defense Acquisition Board. So those three things allowed me as 
+a senior military officer to work in all three legs of the 
+stool, if you will, in a line way. Very important.
+    In the recommendations I have made in panels to date--for 
+example, in the Secretary of Defense (SECDEF) advisory panel 
+with the Business Executives for National Security and the rest 
+is to make sure that we, in fact, take senior military leaders 
+and allow them to be participating in a line functional way in 
+all three of these legs, so that I think it will help them make 
+better decisions, at least in my perspective, as a military 
+officer. Cost-driver-analysis, as I said, in these is very 
+important. And I can elaborate on that, and clearly my 
+statement does. But I borrowed most of the cost-driver-analysis 
+techniques from reviews I learned early on in the acquisition 
+process as a co-chairman of the Defense Acquisition Board, we 
+were looking at the Joint Tactical Radio System, JTRS, we were 
+looking at the National Polar-orbiting Operational 
+Environmental Satellite System. And frankly, we then introduced 
+and made it a requirement through a chairman instruction that 
+all of the services had to bring in cost drivers. Very 
+important.
+    On the stability front, it should be no news to anyone 
+sitting in this hearing, just as Gordon England has said, is 
+that setting unrealistic requirements during program definition 
+and subsequent requirements creeps are major causes of failing 
+programs. And let me just reiterate one important point here. I 
+believe that delivering 80 to 90 percent of a solution on time 
+with a life cycle maintenance plan allowing for further growth 
+is far superior to trying to go after a 100 or 120 percent 
+solution. Stabilizing requirements is tough. We all see how a 
+program could be better if we could incorporate the latest 
+technology or some additional capacity. Which leads me to my 
+last point of simplicity. We have done best, in my view, as I 
+said, by trying to be simple. I have given you a series of 
+examples in the written testimony. F-16, the series of the F-
+16, the F/A-18 Super Hornet E/F/G, Los Angeles-class, Arleigh 
+Burke-class, Virginia-class submarine. These have all been 
+successful programs and are successful programs because we kept 
+simplicity, if you will, affordability, we kept that block 
+approach as we provided these capabilities. Funding stability 
+is incredibly important.
+    Gordon mentioned greater use of multi-year buys. I cannot 
+over-emphasize how this takes risk out of the industrial side 
+of the equation and takes risk out on the defense side. The 
+ability to plan ahead, the ability to invest in Research and 
+Development (R&D), the ability to invest in installation and 
+the rest is incredibly important. All those programs I cited 
+before in general had some type of multi-year or risk 
+management that really made them incredibly effective.
+    Lastly, budgets have no memories. It is something an old 
+Pentagon saying I learned very early on. In order to add memory 
+to the process of procurement, if you will, writ large across 
+our government, multi-year buys are important risk reduction 
+techniques to inject a memory into the budget.
+    One last point I will just make, and it is very important. 
+Again, I borrowed these from the acquisition side and they are 
+the introduction of technology readiness levels and 
+manufacturing readiness levels into the requirements generation 
+piece where you take these and lift them, if you will, from the 
+acquisition side. You bring them into the requirements 
+generation so you are not trying to shoot for the moon, you are 
+keeping it simple and reduce the risk on a program to make it, 
+if you will, more doable and make it more successful. The 
+healthy conversation to do all of this stuff between industry, 
+the civilian and military sides and with Congress is incredibly 
+important.
+    Thank you again for allowing me to introduce my written 
+testimony, chairman, and the members of the committee. 
+Recommendations regarding this three-legged stool if I could 
+leave you with one point, those three words, affordability, 
+stability and simplicity. Thank you.
+    Mr. Andrews. Thank you, Admiral very much.
+    [The prepared statement of Admiral Giambastiani can be 
+found in the Appendix on page 45.]
+    Mr. Andrews. Again, we have had the chance to review your 
+written testimony and look forward to questions. General 
+Kadish, welcome back. It is good to have you with us.
+
+   STATEMENT OF LT. GEN. RON KADISH, USAF (RETIRED), FORMER 
+  DIRECTOR, MISSILE DEFENSE AGENCY, FORMER CHAIRMAN, DEFENSE 
+ ACQUISITION PERFORMANCE ASSESSMENT, AND VICE PRESIDENT, BOOZ 
+                         ALLEN HAMILTON
+
+    General Kadish. It is great to be back, Mr. Chairman. I 
+spent a lot of time in this system and, quite frankly, have 
+been a victim of it at certain times. So I have a perspective 
+and Secretary England allowed me to spend some time on that 
+commission called DAPA, Defense Acquisition Performance 
+Assessment Group, to think about this even more. And my 
+statement has a lot of what the DAPA report came up with it is 
+not so much interesting for this group for the specific 
+recommendations as it is to describe the problem a little bit 
+more in detail and how we saw the issues that both Secretary 
+England and Admiral Giambastiani talked about. But there is 
+just a couple of points I would like to re-emphasize and I 
+would also recommend that if you would allow to have the DAPA 
+report in your record.
+    [The information referred to can be found in the Appendix 
+on page 67.]
+    Mr. Andrews. Without objection.
+    General Kadish. The first issue is it has never really been 
+clear to me when we looked at the system what the criteria for 
+success is and when we were dissatisfied with it. We talked a 
+little bit about the metrics and the value equation and that is 
+certainly an important aspect. But as you look in the history 
+where all these studies have been done, in fact, you can go 
+probably to the Civil War and earlier on some of these very 
+same issues, the fact of the matter might be that we need to 
+adjust our expectations a little bit in a sense of the outcomes 
+of this.
+    All of the hardware, if not most of the hardware and the 
+equipment we have put out of this system over many years have 
+given us a technological edge. So we shouldn't forget that. 
+There are thousands of people working out there every day to 
+make this happen and doing a very good job. Now, we see some of 
+the disasters, but I think that is more a function of the 
+difficulty of the job. These systems that we are talking about 
+and even the services, under very difficult circumstances in a 
+lot of cases, are difficult tasks, especially in a wartime 
+environment and in a peacetime environment when we faced the 
+Cold War, we produced some of the most technologically 
+sophisticated elements that the world has ever seen.
+    And the newest examples, you could go right down the list 
+from Unmanned Aerial Vehicles (UAVs) to some of the robotics 
+that we are doing today and especially in medical fields. It is 
+phenomenal what we have been able to accomplish. So we 
+shouldn't lose sight of that. But in the process of trying to 
+improve this system over many years, we have made it almost 
+unintelligibly complex to understand. And that complexity 
+drives a lot of what--the problems we see today. And I would 
+challenge anybody to, in one day's study, try to understand how 
+we actually do business in this area. And I think you might be 
+experiencing that yourselves in the sense that even people who 
+have spent careers like myself here, I still marvel at some of 
+the things that we have in our rule book that we just don't 
+necessarily understand.
+    So that complexity is an albatross around our expectations 
+for success. And it gets translated into lengthy schedules, 
+time that is out of control and that all translates into huge 
+cost expectations that are not met. However, the system is, if 
+you look at it, could be simply described. Requirements, budget 
+and acquisition and they need to somehow work together and on 
+the charts it looks pretty good. In addition to complexity, 
+we--because of the way we operate independent in each one of 
+those processes, we introduce instability and that is financial 
+instability--I don't think I have ever been if a program where 
+my budget didn't change every 12 to 18 months.
+    It is remarkable that the people we have out there doing 
+this every day can make this work still under the systems that 
+we impose on ourselves. And all for good reason. There are a 
+lot of heroes out there really making this work and I would 
+almost say in spite of the system. And we tend to, especially 
+at our level with Admiral Giambastiani and Secretary England, 
+work very hard at the top level and we could very easily see 
+that these things are solvable in the sense of making 
+requirements more simple.
+    And I will just take one example. We came up with a system 
+of key performance parameters not too many years ago and the 
+idea was very simple. If we could leave three to four or maybe 
+five key performance parameters and specify a system, we would 
+be satisfied with that system. And if we didn't, we would have 
+it come back and reevaluate whether we wanted that system. 
+Well, now, we have programs with 14, 15, 16 key performance 
+parameters, and each one of those key performance parameters 
+drives specifications in a tree like manner down to 2,500 to 
+3,000, to 10,000 specific specification requirements you have 
+got to make.
+    So the decisions that look very simple, coherent and 
+practical at the top of the pyramid get implemented through 
+this system and through a following of all the rules into very 
+complex and difficult tasks. The last point I would make in 
+summarizing my testimony is that there is a set of criteria--
+and some questions you should challenge this hypothesis with 
+any procurement improvement idea that might be postulated.
+    And the first one would be: Will it reduce complexity? And 
+going back to the Admiral's idea of simplicity here. If it 
+increases the complexity of the system and it adds to the rule 
+book without something coming out, it ought to be challenged. 
+And other layers of oversight and management don't necessarily 
+improve the process. Second, will it be more--will it add 
+stability to the programs at all levels? The big ones we all 
+understand, but the smaller ones out there that people are 
+operating at the same--under the same rule book and having the 
+same challenges. So the stability idea where you can get a 
+decision and operate under it and only have a problem when you 
+cannot perform because the technology is too challenging or you 
+run into an obstacle and not the system coming back and saying 
+you are not spending your money fast enough so we have to take 
+half of it away for next year.
+    Okay. And the third one, and I think the final point I will 
+make is that we too often substitute costs for the real issue 
+here and that issue is time. The time value of the things that 
+we do is ignored in a lot of cases in decision making. 
+Schedules seem to be more of an afterthought and a desire 
+rather than a sense of urgency in the process. And time--and I 
+am talking about time to make decisions, to do budgets, as well 
+as to write specifications and do the drawings and those types 
+of things that make these systems work and perform the 
+services. The time value of this capability to the warfighter, 
+especially in wartime is incredibly important. And it is 
+similar to the time value of money concept, the dollar today is 
+worth more than the dollar tomorrow.
+    That is what I have been taught in the economics books. And 
+the same way with the time value of these systems and services. 
+Done today, they are cheaper, better than if we wait years. 
+Some technology requires more time. But we ought to focus more 
+on the time required to make the decisions and implement them 
+and hold people accountable for that and we will reduce the 
+costs.
+    And finally, this idea that I don't think process is going 
+to fix this problem. When we add process and improvements, we 
+tend to really add things and not take things away. And under 
+that approach, I think we will just increase complexity.
+    So I would be--I would advise a lot of caution in adding 
+things without asking the question what are you going to take 
+away to make these processes more integrated and less complex. 
+And at the end of the day, it is the people doing the job, 
+making more right decisions than wrong decisions that are going 
+to produce the outcome here. And it really does--it might 
+really come down to the fact that we can make the 
+administrative systems as good as we can make them in human 
+terms, but it is going to come down to people doing the job 
+every day. And we have got to select them right and we have got 
+to support them and make them perform and hold them 
+accountable. Thank you, Mr. Chairman.
+    [The prepared statement of General Kadish can be found in 
+the Appendix on page 55.]
+    Mr. Andrews. Thank you, General. I thank the panelists for 
+excellent presentations. We will begin with the question time. 
+I think it is fair to say that we have heard a consensus that 
+lack of coordination that we see in the requirements and 
+procurement and budget process is a result of too many rules 
+and too many attempts to fix the problem, which creates a sort 
+of archeological dig where there is one solution piled on top 
+of another, piled on top of another, piled on top of another 
+that worsens the problem. And that these add--to use the 
+General's criteria--they add complexity, they reduce stability 
+and they extend time, therefore adding to costs and adding to 
+complexity. Which starts the whole downward spiral all over.
+    I think I also hear a consensus that an expansion of multi-
+year budgeting and therefore multi-year contracting authority 
+would be one way to address this problem. Because if you do a 
+multi-year contract, sort of by definition, assuming you have 
+got a cleaned up requirements process that goes more toward 
+that 80 percent solution, if you go the multi-year contracting, 
+almost by definition, the procurement and budgeting steps are 
+integrated because of the way you think about a multi-year 
+budget or contract.
+    Let me play devil's advocate for a moment. Isn't this 
+saying that systems that have produced dramatic cost overruns 
+are now going to buy more of it because we are going to do 
+three or four years' worth of budgeting instead of one and buy 
+three or four years' worth of mistakes instead of one? Doesn't 
+that take away the oversight function of the legislative branch 
+in a way that would be deleterious?
+    Secretary England. I guess, Mr. Chairman, I would say you 
+are obviously not going to put everything into a multi-year. 
+But right now we do very few programs and not just production. 
+I would actually look at development programs because when you 
+go to that multi-year, you basically freeze the requirements, 
+you know, what the dollars are, not only this year, but in out-
+years, which you never know, because every program, other than 
+a multi-year is funded yearly. So you actually never know your 
+out-year funding. The contractor doesn't know the out-year 
+funding. Everybody gets a bite at this apple, in the services, 
+in the building, in the Congress. Right? So you still have to 
+be selective at this.
+    Mr. Andrews. What would be the criteria for that selection? 
+Which projects and systems would fall into the multi-year 
+basket and which wouldn't?
+    Secretary England. First, I say ones that are critical and 
+national importance I would always look to put in that basket 
+because I believe those----
+    Mr. Andrews. I don't say this to be facetious, but have you 
+ever heard somebody come in here and testify that something is 
+not of critical national importance? I don't mean to be 
+whimsical----
+    Secretary England. You are right. So obviously judgment 
+applies--and I am not sure that there is a formula for that 
+judgment. My only comment would be the formula in the past has 
+been a program that is reasonably stable and that you can 
+predict basically 10 or 15 percent cost savings. And I would 
+say that any program you can predict that if you actually want 
+to because the baseline is always unknown some extent. So I am 
+not sure it is a reasonable baseline anyway. And I would just 
+suggest when you look at the multi-years, don't look at it in 
+terms of savings, look at it in terms of stability achieved so 
+that you don't get the cost----
+    Mr. Andrews. Productivity.
+    Secretary England. Well, predictability. The budgets will 
+be in the out-years. Contractors can invest in improvements 
+because they know there is business in the out-years. I mean, 
+there is incentives in this system to perform better as opposed 
+to a year-by-year type process.
+    Mr. Andrews. As a follow-on to that to either of the--any 
+of the panelists, if the taxpayers are going to make a multi-
+year budget and contract commitment, should there then be more 
+rigid standards from the contractors to have fewer overruns? In 
+other words, if we are giving you three or four years of 
+stability in a contract, should change orders and cost overruns 
+in the contract be much, much more rare as a quid pro quo?
+    Secretary England. There are fixed price contracts. Multi-
+years are fixed price contracts. So we negotiate a fixed price 
+contract, and therefore every change has to go through a formal 
+change process and you immediately get control of changes and 
+contractors with the overrun, that is on them.
+    Mr. Andrews. I am aware of that, but of course, the fixed 
+price very often turns out to be a fictional aspiration, rather 
+than a legal reality. Shouldn't it be much more difficult to 
+get ahead of that fixed price contract? If we do a multi-year, 
+shouldn't there be a much, much heavier burden on the vendor to 
+come in and say you have got to go beyond the target that was 
+originally in the contract?
+    General Kadish. Can I----
+    Mr. Andrews. Yes.
+    General Kadish. I would like to make sure I understand 
+exactly what we are talking about in terms of the multi-year 
+because I think what Secretary England at least what I heard 
+was that he is introducing the concept for stability and maybe 
+for programs that we haven't done multi-years before. And your 
+question is how do you pick these and what value would you get 
+out of them. And I guess the way--one of the things that we 
+have a problem with in our system today is defining programs 
+and when they are a program. Okay? And it leads to a lot of 
+misunderstanding. Multi-years are most effective and have been 
+designed over the years for cost savings for programs that are 
+in deep production. They are actually putting hardware out, 
+whether it is rifles, or F-22s.
+    Mr. Andrews. Would you start sooner in the process than 
+that?
+    General Kadish. Those have been very effective if you go 
+back and look at them and C-17 and--there is a big track. Let 
+us postulate moving multi-years sooner in the development 
+context. If we had major programs that had mature technologies 
+but we are pushing a mature technology and not a new technology 
+and I will give you an example. We have been building airplanes 
+for 100 years. I would say that is my maturing technology. Now, 
+parts of those airplanes are really cutting edge, but overall, 
+airplanes are maturing technology. So if we had to postulate 
+that a development program--I hesitate to bring it up--but for 
+an airlift tanker, could be a multi-year development program if 
+the parameters for that were set properly.
+    On the other hand, in something like missile defense where 
+the technology is disruptive, new and challenging, it would be 
+very hard for me as a program manager to come to you and say 
+give me a multi-year and I will deliver this----
+    Mr. Andrews. It has gotten a lot harder in the last couple 
+of week, hasn't it?
+    General Kadish. On those situations, level the budgets 
+where you have the insight and the oversight to see what is 
+going on, where you don't have to--one of the difficulties we 
+have in our system today is that the system demands in all 
+three of those areas that the day you charter the program, you 
+have to put a cost estimate down on a piece of paper, even if 
+you are going to deliver it 20 years from now or 15 or 10----
+    Mr. Andrews. I appreciate that. Admiral, do you want to 
+jump in? I am going to stop so Mr. Coff--one point I want to 
+just interject--I would ask the staff to take a look at his 
+data. I am sure the GAO or someone has this. I am curious as to 
+the percentage of the cost overruns identified by the GAO which 
+I know are controversial, Mr. Secretary. But if you start from 
+that starting point, the percentage of those cost overruns that 
+flowed from multi-year versus non-multi-year contracts. It 
+would be interesting to see if there is any significant 
+difference. Admiral?
+    Admiral Giambastiani. If I could add just a couple of 
+points to what Secretary England and General Kadish have 
+brought up. Number one, dealing in multi-years for programs 
+that have mature technologies, stable requirements and the rest 
+are incredibly important. An example of these would be aircraft 
+programs. For example, when I was a resource director for the 
+Navy back in 2000, we went after multi-years to procure the 
+Super Hornet. We wanted to stabilize production. We had, if you 
+will, an aircraft that was fairly mature in its production and 
+we could stabilize it and move on. We do these things with 
+destroyers. We do them with submarines. Areas where we have 
+again stable requirements, we are not making massive changes 
+and we can see the benefits of the risk reduction methods that 
+we have used to go into them.
+    Requirements for programs that General Kadish talked about, 
+for example, on missile defense where you are dealing in very 
+high-leverage, high-risk, high-payoff technologies but you just 
+don't know if they are going to be successful or not, it is 
+incredibly difficult to go after a multi-year and I am the type 
+of person that would not suggest to you to do that. But if the 
+system is ruthless with, if you will, low-risk technologies and 
+the rest and you are ruthless in not allowing requirements to 
+change willy-nilly and you produce these things, you can do 
+upgrades in the future life of that platform, for example, or 
+vehicle or whatever you are building generally so that you can 
+put upgrades in later and later. And we have got just a bevy of 
+programs like this that have been incredibly successful that 
+have been multi-year buys. However, a multi-year by itself is 
+not going to be successful if you don't have the other 
+integrated components with it.
+    Mr. Andrews. Did you agree that integration is easier in a 
+multi-year context, though?
+    Admiral Giambastiani. It probably is, again, if you have 
+stability and simplicity in those three components that you 
+bring into the program.
+    Mr. Andrews. Mr. Coffman is recognized.
+    Mr. Coffman. Thank you, Mr. Chairman. Just a question about 
+changes in requirements in terms of being a cost driver. 
+Where--are those primarily because of the fact that in your 
+view, that it is an immature technology that is being developed 
+or is it from the military side of the House that maybe there 
+is a changing environment tactically in terms of threat 
+scenarios on a given weapon system? So there are changes in 
+requirements there. Where do you think the changes primarily 
+come from?
+    Admiral Giambastiani. There are a variety of ways to look 
+at requirements and let me give you an example of this. I am 
+going to use a real life example. Again, I will just pick the 
+Super Hornet. The Navy had just come out of a very, very bad 
+experience with the A-12 aircraft being cancelled. It was very 
+unsuccessful, it was a high-risk venture and there were a whole 
+variety of things on all of the reasons on why a program fails. 
+Many within the Naval aviation and Navy communities wanted to 
+build a more cutting-edge aircraft. But what happened is the 
+Navy got together and brought forward a fighter bomber, if you 
+will, based on some pretty proven technologies without over-
+the-top requirements. In other words, we didn't double or 
+triple the range.
+    We didn't try to do things that were just so cutting edge 
+that it would be very high-risk and difficult to do. So 
+therefore you produced a good, solid aircraft, if you will, 
+based on solid requirements. If you try to extend yourself in 
+very high-risk ways and in different technologies, you are not 
+going to be able to produce a program, an aircraft, a ship or 
+whatever you are doing in an effective way because you are 
+working in these high-technology, high-risk areas that you 
+simply can't predict. That is the reason why you want to go 
+after, if you will, more mature technologies for these long-
+term programs.
+    You do need to do programs that push the envelope, like 
+missile defense and others, but they are very different from 
+the types that we are talking about that could potentially give 
+you multi-years or if you will, stability.
+    General Kadish. I would like to add to that and take you 
+down a level because I think my experience is where we get into 
+trouble with requirements is not at the deliberative level that 
+the Admiral is talking about. There are sometimes we push a 
+range, payloads or something like that as a peak performance 
+priority that really gets in trouble. There are very few of 
+those and they are remarkably stable because people have taken 
+a deliberative approach.
+    Where I see we get in trouble is that when we start 
+translating those top level ideas or requirements into actual 
+specifications, our culture is and it is very much encouraged 
+that the people who are managing the program, go to the people 
+who will use this equipment or idea and say we could do it this 
+way or we could do it that way, which would you prefer? Or more 
+likely, they start looking at what we are doing and they say we 
+would rather do it this way. That is where you get the 
+proliferation of changes where something seemingly easy to do 
+in the first week of the design turns into a disaster as you 
+try to build it. And I can't give you a lot of examples of this 
+because it gets in the minutiae here to make it explainable. 
+But the process is geared to work with the future user and that 
+interaction at the lower levels tend to make the problem a lot 
+harder, although it is necessary at the same time. I am not 
+saying we shouldn't do that, but that is where we get into 
+trouble.
+    Admiral Giambastiani. Let me just add to this because I 
+think it is very important, I had a section originally in my--
+but it got into the very technical minutiae level. But let me 
+just quickly tell you. Requirements are key performance 
+parameters that the JROC approves and controls day to day. As 
+General Kadish said, typically if we do a program right, they 
+don't change much and generally we are in pretty good shape 
+with them unless we proliferate the rest. The requirements he 
+is talking about are the next level down and the level below 
+them. They are called key system attributes and other things 
+below this. What happens with these requirements is the JROC 
+for example, assigns responsibility to the Air Force or some 
+other agency or service to control those. And I said it in my 
+testimony that requirements people have to be ruthless on 
+controlling these. And the reason why you have to be ruthless 
+on controlling them is because everybody comes up with up great 
+ideas and this is where change orders come from. They don't 
+always come from that. Sometimes there is a technical reason 
+why you really have to do it to make it work. But you try to 
+avoid all of these other change orders based on I have got a 
+really good idea and I want to insert this because I know it 
+will work better or we have been building this for a while and 
+I really think I have a better way to do it. This is--we found 
+in studies and you can get these from the joint staff, that a 
+vast majority of requirements level cost increases actually 
+came from this level of requirements change and they were done, 
+if you will, at a much lower level, day-to-day basis and there 
+is data on this and I know the joint staff, J8, can provide it 
+to you.
+    Secretary England. Another perspective, though, changing 
+requirements is not all bad. We tend to view it as bad. It is 
+actually--my view is we don't change them enough in a lot of 
+respects. Having been on the other side of this in the industry 
+and built a lot of products, F-16s and M1 tanks and every other 
+kind of system imaginable. At our level it is easy to talk, at 
+your level to talk about requirements up here. When you get 
+down to the contractor level there is volumes and pages and 
+great, great detail about this and over time they actually do 
+have to change because it is a reality of design and 
+production. You want them to change. Fact of the matter is 
+there is great reluctance to change any of this once the 
+contract is let because there is pressure on the system not to 
+make those changes.
+    So this is a more complex than just deciding the range. In 
+the reality, I would say the system is pretty rigid, 
+particularly going forward and that rigidity actually costs us 
+money as people struggle to meet requirements that are not 
+really germane to the ultimate utility. So it is not obviously 
+always the case, but that is still a dimension. It is not all 
+bad to change, quote, requirements as a program proceeds, and I 
+would say you have to have the flexibility to do that or else 
+you will have cost growth.
+    Admiral Giambastiani. And this is how you do block 
+upgrades, this is how you do the types of things for all those 
+programs I cited in the testimony. If you do them in a sensible 
+manner, you are going to get a really good product that over 
+the life cycle produces what this Nation needs.
+    Secretary England. Mr. Andrews is about people by the way. 
+I mean, look, you can have all these--at the end of the day, it 
+is somebody that understands the technology, the business. 
+These are people who exercise good judgment at various steps 
+along the way and you cannot replace that good judgment with 
+systems that you----
+    Mr. Andrews. I have no doubt about that.
+    Secretary England. I used to tell the Secretary, I would 
+take ten John Youngs over all the changes of the acquisition 
+system. An extraordinarily capable person is invaluable in this 
+system and that is true throughout the acquisition process.
+    Mr. Andrews. Mr. Coffman.
+    Mr. Coffman. Thank you, Mr. Chairman.
+    Mr. Andrews. Thank you. Mr. Cooper is recognized.
+    Mr. Cooper. Thank you, Mr. Chairman. General Kadish, you 
+mentioned that even with a lifetime of experience in dealing 
+with acquisition, occasionally you run across rules that you 
+didn't know about, make no apparent sense. Would you be willing 
+to go through these rule books with a red magic marker and try 
+to--pages, volumes?
+    Secretary England. It was done. There was a congressional--
+there was a study group in the early 1990s that recommended 
+hundreds of changes, and I think some were made, but I don't 
+think many were.
+    General Kadish. To answer your question, I would love to do 
+that if I had the time. But what is interesting about the rule 
+books is that, to me, anyway, is that the more they change, the 
+more they stay the same in a lot of areas. You have got--you 
+have got the 5000 series regulations in the Department of 
+Defense that are the bibles for this type of stuff. And then 
+you have got the Federal Acquisition Regulations. All right? 
+And I will tell you if you start reading your contract and look 
+at the clauses that are put on contracts and how they all 
+operate, it is really difficult to understand why we do some of 
+these things. To eliminate them, I would like that challenge. 
+But----
+    Mr. Cooper. I am worried about the Tower of Babel effect 
+when we create a system that is so complex that nobody can 
+understand it. We were just joking prior to the hearing that 
+how many people actually read the weapons acquisition bill that 
+we just passed. Nobody.
+    General Kadish. I tried to.
+    Admiral Giambastiani. I tried to.
+    Mr. Cooper. This is an impenetrable thicket that is 
+almost--you challenged us, spend a day trying to figure out the 
+system. Nobody has a clue. So why don't we try simplification, 
+get back to basics? If it is people driven and if Secretary 
+England would love to have ten John Youngs--have we even gone 
+through the task of identifying--I think of them as, like, that 
+marvelous job foreman or the marvelous general contractor, 
+somebody who really knows what is going on and knows how to get 
+stuff done. If we identified folks with those skills that we 
+want to reward and perpetuate and grow more of them like that.
+    And then I see, like, U.S. Special Operations Command 
+(SOCOM) able to exempt it itself from lots of acquisition 
+regulations, gets the job done pretty well--maybe not with 
+super complex weapon systems, but shouldn't this be tried at 
+least on an experimental basis with some of the services, some 
+of the projects and just say maybe we don't need any of this 
+stuff?
+    General Kadish. Well, I think that idea is very interesting 
+because that is basically what happened to the Missile Defense 
+Agency, it got special authorities. Properly applied and 
+chosen, a team of people--and I do emphasize a team, not just 
+one individual--given the proper authorities would make better 
+decisions more rapidly than under normal circumstances. This 
+system is so big that it would be hard to do that carte 
+blanche, okay, because you are going to hire 30,000 new people 
+in the process and that might fix some things in terms of 
+numbers but it could create huge problems with more people 
+making--in the process making decisions to be unstable. But 
+choosing the organizational entity, projects, programs along 
+with this multi-year idea could have great benefit if you free 
+them from some of the issues.
+    Secretary England. Mr. Cooper, if I can add, though, the 
+Department has authorities. We can use commercial acquisition 
+rules, et cetera, and buy things. But you have to be really 
+brave to do that because you get criticized when you do that. 
+That is, you don't have the same amount of oversight, you don't 
+get the same amount of data, you don't get the high degree of 
+assurance. These are all trade-offs and risk, right? I mean, 
+this system, this layer exists because it gives comfort, right, 
+that no one is going to do anything wrong and there is a 
+certain degree of comfort that has been laid on. When you move 
+aside and do a commercial acquisition, you no longer have that 
+same degree of comfort. So I will tell you people in the 
+Department, my experience is, people will shy away from using 
+those authorities because you open yourself to severe, severe 
+criticism and in fact programs get stopped sometimes here in 
+the Congress because they don't have the quote sufficient 
+levels of oversight reporting. So this is a complex environment 
+we operate in with many stakeholders and many different 
+objectives that people are trying to achieve. And they don't 
+always come together in some coherent way.
+    Mr. Cooper. But, Mr. Secretary, aren't our services all 
+about bravery? Isn't sacrifice on the battlefield about life 
+and death? Then we have folks in the puzzle palace afraid of 
+stepping across a bureaucratic line in order to get the job 
+done because they might be criticized?
+    Secretary England. If you are a hero in combat. You get 
+promoted. If you are a hero in this arena, then you get demoted 
+or you don't get----
+    Mr. Cooper. Let us change the promotion system, let us 
+change the incentive structure so that you can be a hero. I 
+talked about identifying like you did the ten John Youngs, who 
+are these people, how can we reward them? Instead of them 
+fearing criticism, how can they be honored? Why don't we create 
+a system like that?
+    Secretary England. Fair enough, but we all have to do it 
+together. It is not just the Pentagon.
+    Mr. Cooper. That is why we are having hearings to explore 
+these topics. Admiral.
+    Admiral Giambastiani. Mr. Cooper, let me add something that 
+I have observed here over a number of years. Because of the 
+level of regulations you are all asking the right question, how 
+can we make this simpler. And that is the reason why you have a 
+guy like General Kadish that will say that is pretty attractive 
+if I had the time to do it. I would just say to you that I have 
+learned over the years since Goldwater-Nichols there is a lot 
+of good stuff that came out of Goldwater-Nichols, for example. 
+But one of the things that came out of this is that with all of 
+the joint requirements and, by the way, which I believe in 
+deeply, with regard to the joint requirements for operational 
+excellence, one of the things that has occurred is that there 
+is less likelihood of senior line officers, if you will, across 
+all of the services who have vast operational experience 
+existing in the acquisition community, in other words moving 
+back and forth.
+    And this long-term problem has created a level of 
+misunderstanding, if you will, in technical expertise. We keep 
+telling you people make the difference here, experienced people 
+make the difference. But if you can't have somebody that has 
+got good operational credentials and take hostages and put them 
+in the acquisition community and have them move back and forth, 
+it is very difficult, for example, in some cases for them to 
+truly understand some of these requirements level pieces that 
+are so important. Many of those really effective programs I 
+cited before were built under a system where people came up and 
+spent a significant amount of time in a variety of these 
+different communities and their experiences really paid great 
+benefits to the system. The question is how do you recreate 
+that, how do you get people who can go into the acquisition 
+side, how do you take hostages, if you will, and exchange them 
+between these different communities? That is one of the things 
+that some of us have spent some time trying to figure out how 
+to do this.
+    Secretary England. If I could focus this a little bit, Mr. 
+Chairman. I don't believe we are going to end up redoing the 
+acquisition system. This has been going on a long time. It 
+would seem to me the objective and what I would recommend are 
+one of the few things you know you can pass and get through the 
+Congress that would have a marked improvement. How can you 
+improve--how do you know you are going to improve and actually 
+not make it worse? It is a complex system. You always have that 
+problem, right? So what are the few things you can do and so I 
+would just try to address a few practical things. Give people 
+reserve because now every cent is accounted for, and if 
+something changes, you don't have the money to accommodate 
+whatever you need money for and that costs you ten dollars for 
+every dollar you don't have at the front end, it costs you ten 
+dollars. Make it feasible for people to have reserve. Make the 
+reprogramming easier. I mean, the thresholds are way too low 
+for the level of expenditure and the complexity of it. That is 
+part of the simplicity.
+    I mean, there are some things you can do to make this 
+system simpler, easier to operate within, without trying to 
+redo this whole system. And I would focus on three or four 
+things that you can get concurrence from the Department and the 
+Congress, and I keep doing this incrementally. The problem you 
+are going to have is if you try to make too big a change, I 
+keep telling people it is easy to destroy value and it is 
+extraordinarily hard to build value. So we didn't get here just 
+randomly. A lot of this was put into place for a reason. If we 
+start to dismantle it, we better understand the reasons and 
+make sure we are dismantling the right part of this because 
+some parts that you don't want to dismantle. So I would do this 
+on an incremental basis.
+    Every year I would work this, and every year I would get 
+people to address and I would keep making incremental changes, 
+and I would set my objective that way. So again, recommendation 
+is to get the specific--a few things everybody agrees on and 
+move forward rather than look at this whole thing because as 
+you can tell from his testimony, you can just stay enmeshed in 
+this detail and never get to the one or two few things that you 
+can really do to improve the system.
+    Mr. Andrews. Very good.
+    Secretary England. That is right.
+    Mr. Andrews. Thank you, Mr. Cooper.
+    Mr. Andrews. Mr. Ellsworth.
+    Mr. Ellsworth. Thank you, Mr. Chairman. Thank you for 
+holding this very informative hearing. Thank you, gentlemen. I 
+have become a little concerned. We know there is at least 120 
+prior studies that go back to the Civil War. I am glad we 
+assembled the group that is finally going to figure this thing 
+out and straighten it out. But that is our challenge. Most of 
+my questions were answered. I would ask one thing maybe for the 
+discussion of how much plays into, and I wouldn't want anybody 
+to take this wrong, that I don't want to give our troops 
+everything they need to do their job. How much of that plays 
+into this?
+    I can remember back in my days of law enforcement when we 
+would duct tape a flashlight to the barrel of our shotgun. It 
+would have been nice to have a built in flashlight in our 
+shotguns, but we didn't have that. How much of it is the cause 
+of this when someone in the field, someone says wouldn't it be 
+nice to have the switch on this side on the thumb instead of 
+the index finger or if this were in my left hand instead of my 
+right, or if this seat were a little more cushioned or how much 
+is it that we want to do everything we can for our troops on 
+the acquisitions that come out and I think it goes back to 
+those change orders and improvements. I don't have a problem 
+with that. But does that add to the problem of kind of we need 
+to give everything we can, whatever is even suggested. Is that 
+even--I think most of my questions were answered about adding 
+to and improving, but there is a play in there. There is wants 
+and needs and it is a good lesson between what we want and what 
+we need and sometimes you don't always get what you want, but 
+we definitely want to give you what you need. I am not sure the 
+question is in there.
+    Secretary England. It is in the eye of the beholder what 
+the value is. That is sort of the challenge always. There is 
+always many more things you can do in the Department of Defense 
+than you will ever have money for. No matter how much the 
+budget goes up, there will always be needs, unmet needs. 
+Because if you are a military person, obviously you want the 
+very best equipment or latest equipment, you want the switch on 
+the right side and frankly they should expect that. That said, 
+there are still limitations. There are boundaries you have to 
+work within. That is the trade-off that you keep making. And 
+that is an imperfect world. That is judgments by people between 
+the military, the civilians, the Congress who has an oversight 
+role.
+    I mean, everybody places judgments on this, frankly at the 
+end of the day, it sort of works pretty well. You know, 
+everybody has an input and it tends to balance out, right, 
+between the military, the civilian leadership, the 
+Administration, the Congress, I mean, all of this pushing and 
+shoving--I mean, it looks bad frankly, but I am not sure it 
+doesn't come out with best results you can get given all these 
+competing interests that come to bear on this so it is an ugly 
+process but I am not sure it is ever going to be a pretty 
+process because that is the nature of what we do and these are 
+all judgments. This isn't a black and white. This is almost in 
+every single case judgment calls by well-meaning people and 
+people disagree a lot of times.
+    Mr. Ellsworth. And that vendor that has to move that switch 
+from the right to the left or left to right, they have to 
+retool machines that adds to the price. Is that--you make that 
+determination--worth it versus armoring up a Humvee while the 
+guys in the field are catching shrapnel, let us do that, let us 
+do it quick, let us add panels, whatever we have to do. I can 
+see the difference there. But I agree with that. I think it is 
+an imperfect world. But that is kind of what we have to deal 
+with.
+    Secretary England. That is the world we are in and that is 
+the world we deal with.
+    Admiral Giambastiani. Let me give you a perspective from 
+somebody who has worn a uniform and been out and used this 
+stuff for a hell of a lot of my life. We have very, very 
+thoughtful and good people. And as Gordon said, you are always 
+going to have people making recommendations for changes. It 
+just is the way we train them. We tell them we want to do our 
+best and they expect the best from what they get. So the 
+question then is how can you incorporate and bring these things 
+to bear in a timely and useful manner so that they can use them 
+to do whatever--and accomplish the mission that they have at 
+hand. There has been a lot of discussion, for example, about a 
+peacetime procurement system and what you do in wartime and the 
+rest of it. Well, it makes a difference. When you have the 
+urgency of impact out there, you are going to modify what you 
+do on a peacetime basis. What is important today in wartime may 
+not be as important during peacetime unfortunately or vice 
+versa. So you modify processes and you modify the way you 
+deliver capability.
+    There is a whole variety of these joint rapid acquisition 
+programs. You do the things that make sense to deliver 
+capabilities and modify capabilities. And it is always going to 
+happen, but we train our people--the culture is you want better 
+and you are going to work for better, and hopefully we can 
+provide them with the tools that keep them safe and allow them 
+to effectively make their mission. That is pretty general. But 
+my comment is we always have to have during wartime a 
+willingness to also fail and maybe not get it right, because if 
+we are in a zero defect environment trying to protect these 
+people and allow them to accomplish their mission, then we have 
+got problems. How do you balance those and get that capability 
+out there?
+    General Kadish. I would add there is an element of trust 
+that we have. I have been on both sides. Operating and flying 
+airplanes and buying and developing things. And that trust of 
+the soldier, sailor, airman in the field, that they are going 
+to get the best from our country is something that is unspoken 
+but part of our culture. And I will just give you an example 
+from my own life.
+    I will never forget when I was in pilot training I had an 
+old combat instructor that was teaching me that day and I had 
+been very clever that morning and went out and bought a 
+flashlight because--a small one that I thought was kind of neat 
+because we were going to practice dark cockpit type stuff. And 
+we were walking to the airplane and I discarded my big 
+flashlight that was the traditional issued type of thing. And 
+he said what are you doing? I said I got this new flashlight. 
+He said you trust that at 30,000 feet. It works great on the 
+ground. I will take my Government Issued (GI). And that made an 
+impression on me because if we are going to put people in 
+harm's way, yes, we have resource issues, we make those trade-
+offs every day. But that trust, we are going to give them the 
+best we know how to give them has got to be there.
+    Mr. Ellsworth. Thank you, Mr. Chairman. I yield back.
+    Mr. Andrews. Thank you, do any of the members have any 
+follow-up they would like to engage in at this time? Yes, Mr. 
+Cooper.
+    Mr. Cooper. Secretary England impressed me with his rousing 
+defense of the status quo. And I don't want to be a hopeless 
+idealist, but I also don't want to give up on making the system 
+better either. And surely there is some compromise between the 
+two and I realize there are plenty of obstacles, but surely 
+with your long tenure both in the private industry and as 
+Secretary, there are specific recommendations you can give us 
+that are deeper than more--a politician would call it a slush 
+fund--wiggle room, an extra $57 billion, here, there, whatever 
+the amount is to get the job done, smooth wrinkles. This is the 
+most massive bureaucracy probably in human history, it is the 
+least auditable of all government agencies, perhaps it has the 
+toughest job. But we are, you know, the most important military 
+force in the world. And it is so important for every troop and 
+for every citizen that we get this really right. So to me, 
+after your long experience, kind of waiting for more and deeper 
+advice.
+    Secretary England. What I recommend, Mr. Cooper, I don't 
+recommend the status quo. Everything can always be improved. 
+The Nation is at war. We are buying equipment. We are meeting 
+warfighter's needs. I only recommend that you do this 
+incrementally because you don't want to do something that is 
+also going to make it harder or harmful. So if they are in 
+complex system, I tend to go much more deliberate and so I 
+would take--I would decide what are those things that you can 
+identify and I would work with the Department on this, the 
+current Administration. I say what are those things that we can 
+make changes to that would immediately improve your operation 
+and I believe there are some things you can do that would be 
+embraced by everyone that would actually have a meaningful 
+effect on this. I mean, this is small things like reserves, 
+small things like reprogramming are very, very large. The 
+multi-year is very important. I think if you can--the National 
+Security Personnel System (NSPS) provides a whole personnel 
+system. It is important. It is hard to get people in the 
+acquisition arena, particularly civilians. We make it very 
+onerous. So if you can attack some of these issues that are 
+identified issues within the Department, you will move the ball 
+forward and you can do that quickly. I mean, you can do that, 
+in effect, what they are doing in the coming budget as opposed 
+to over a long budget. So I am just suggesting take a 
+deliberate approach on this, accomplish what you can accomplish 
+and don't get mired down in this whole system because this 
+whole system has been built up literally over at least 50 
+years.
+    Mr. Cooper. George Will had a famous column at one time in 
+which he quoted Mr. Hilton of Hilton Hotels who, when asked, I 
+think at a graduation speech, what his advice would be to 
+future generations. He summed it up succinctly and he said 
+please put the shower curtain inside the tub.
+    Mr. Andrews. Is this the person that raised Paris Hilton?
+    Mr. Cooper. Thank you, Mr. Chairman.
+    Mr. Andrews. Bizarre note. I did have--I meant my comment, 
+not yours. I did have one quick question if I could just ask 
+the panel. The Center for Strategic and International Studies 
+(CSIS) did a report and they made a recommendation which I am 
+going to read from. I just briefly want to ask the three of you 
+what you think of the recommendation. And frankly, you can 
+supplement your answer in writing if you would like. CSIS 
+recommends that we modify title 10 to require that all JROC 
+memoranda signed by either the chairman or vice chair of the 
+joint chiefs, the Joint Requirement Oversight Council 
+Memorandums (JROCMs), be provided to the Deputy Secretary of 
+Defense for his review. The Deputy Secretary could then issue 
+any JROCMs he approves as binding guidance to DOD components. 
+What do you think of that? Is that something we should do by 
+statute or not?
+    Secretary England. My question to title 10, do you give 
+title 10 authority to the vice chairman?
+    Mr. Andrews. No. Let me read it again. To the Deputy 
+Secretary. In other words, the Vice Chair and the Chair would 
+pass these draft memo up to the Deputy Secretary. He would then 
+or she would then have the authority to give them binding or 
+not to give them binding effect or modify. So what it would do 
+would be to institutionalize a role for the Deputy Secretary 
+that binds the services.
+    Secretary England. My first reaction would be--that is a 
+responsibility of Acquisition, Technology and Logistics (AT&L), 
+the Deputy would just literally go to the AT&L responsible 
+person because they have all of the everyday work in the 
+acquisition arena, they have the authority for acquisition. I 
+mean, my view being the Deputy, I would, at that point, have 
+gone to John Young or Ken Krieg and got their view on that 
+because they are dealing with that every day. Not the Deputy. 
+The Deputy does this, you know, sort of on an as needed as 
+required basis, not--I wouldn't put the Deputy in that role 
+frankly. I would put the AT&L. And I haven't thought about what 
+all the implications of that are.
+    Mr. Andrews. I would like you to think about that if you 
+could and then supplement your answer to the record if you have 
+time.
+    [The information referred to can be found in the Appendix 
+on page 225.]
+    Mr. Andrews. Admiral, what do you think?
+    Admiral Giambastiani. I would tell you that I think the 
+Deputy is the wrong person in that case. But I do think the 
+Under Secretary for Acquisition, Technology and Logistics is 
+the right person to be doing this. Now, recognizing you could 
+make this a legislative piece clearly that would be a big deal 
+because you were including a civilian in this military 
+requirements discussion, but it is one way to help integrate, 
+if you will, the system.
+    Now, what I would suggest to you is that I didn't make him 
+the co-chair, but I invited AT&L to every session of the 
+requirements, JROC pieces that I did for two years, and in 
+fact, AT&L attended everything. Ken Krieg personally as the 
+Under Secretary did not, but he always had a senior 
+representative there, and in fact, they did a lot of 
+preparation----
+    Mr. Andrews. The question is the difference between 
+attendance and authority.
+    Admiral Giambastiani. Correct. So what you have to think 
+about is if you are going to make the vice chairman, for 
+example, the co-chair of the Defense Acquisition Board, then 
+would it be reasonable to make the Under Secretary the co-
+chairman of the JROC? And I don't think that is bad. If you go 
+back to the Packard commission, one of the things they talked 
+about was--I think it was called a Joint Requirements and 
+Management Board (JRMB). It was a joint requirements material 
+board or something that compromised mainly of military but also 
+brought some civilian expertise on the acquisition side into 
+it. I personally don't think it is a bad idea at all.
+    Mr. Andrews. General, what do you think?
+    General Kadish. Mr. Chairman, I, in fact, talked about it 
+to CSIS. I think if I am not mistaken and read it right, this 
+is a reflection of the fact that the only time those three 
+processes come together in the Department is at the Deputy 
+Secretary.
+    Mr. Andrews. I think that is right, yeah.
+    General Kadish. And because budget decision is really 
+resident there primarily because that is the one that usually 
+is the outlier in these decisions. So making it statutory might 
+be a good idea, but it could also be very problematic because 
+fundamentally, the Deputy Secretary and I hesitate to speak for 
+Secretary England here, because I never was one of those, but 
+it is a huge job to do these types of things. But the processes 
+are designed today to come together at that level.
+    Mr. Andrews. Yeah. I mean, I asked the question as an 
+agnostic. I read segments in the report and wondered what you 
+thought. The attraction of the idea is as the General says it 
+is the venue where these processes come together. And investing 
+the person who sits at that venue with some enforcement 
+authority has some attraction. On the other hand, it does speak 
+to the caution that all three of you have given us from 
+significant experience which adding new process may exacerbate 
+the problem it may not solve it. So upon further reflection, I 
+would like you to think about whether you think vesting some 
+person with that kind of authority coming off the JROC process 
+makes sense. And if so, whom would that person be?
+    Admiral Giambastiani. I can tell you, most military 
+personnel probably would not like that.
+    Mr. Andrews. Is that an argument for doing it or against 
+it?
+    Admiral Giambastiani. I am trying to tell you, you have to 
+integrate this. But, with all due respect to my Deputy 
+Secretary former shipmate here, I think the person who really 
+is vested in where all three of these come through, despite 
+what Ron has said to you, is the Secretary of Defense. Because 
+you have service secretaries and service chiefs in there and 
+that is where the ultimate authority for all three of these are 
+supposed to come together, and when you move it to a different 
+level, you change the overall dynamic here in a way sometimes 
+that is not good.
+    Mr. Andrews. You may actually deemphasize the importance of 
+it?
+    Admiral Giambastiani. Correct. So some that, though, is 
+very important.
+    Mr. Andrews. My question is whether a person should be 
+vested with the authority. And your position is maybe it should 
+be the SECDEF.
+    Admiral Giambastiani. The SECDEF is not going to go to 
+every JROC meeting because he sure doesn't have time for that. 
+But the point is, how do you get that done so he gets advice 
+properly?
+    Secretary England. Chairman Andrews, your original comment 
+about people and personalities. A lot of this is who makes 
+these decisions at any given time, frankly, because it varies 
+dramatically in terms of background and experience and 
+capabilities. So when you say----
+    Mr. Andrews. The Constitution would probably prohibit us 
+from mandating a certain person.
+    Secretary England. I would say what worked out well with 
+what Admiral Giambastiani said is that John Young is the 
+perfect person to do that. So, for all practical purposes, you 
+sort of achieved that when they were together in the offices, 
+because you want to get the requirements right. They were both 
+quite capable, the same reason I brought Ed in on the DAWG. So 
+personality goes a long way on this.
+    Mr. Andrews. I hear you. One of the recurring things in our 
+work, and we will wrap up with this, we think it is self-
+evident that the talent of the individuals in these positions 
+and the nature of those individuals is central to any result. 
+But what we can do in the law and procedure is create a series 
+of incentives and disincentives that hopefully incent the more 
+desirable behavior and disincent the less desirable behavior. 
+And what we are trying to fumble through is to figure out in 
+this instance.
+    So I think in closing is if the hypothesis this morning is 
+that the gap between value and cost paid is in part 
+attributable to a lack of coordination among the requirement 
+and procurement and budgeting process, I think the answer is, 
+sure is, there is a significant problem. What we are trying to 
+do is figure out a way to create the right set of incentives 
+that would cause integration, the right set of disincentives 
+that would mitigate against disintegration, but do so hopefully 
+by going to Mr. Cooper's question, by taking things out of rule 
+books rather than putting them in, and by creating fewer levels 
+of oversight, more transparency, not more levels of oversight 
+and less transparency. That is a tall order, but I think that 
+summarizes what we are about.
+    Each of you has made a very significant contribution in 
+that effort this morning. We appreciate that. It is entirely 
+consistent with your lifelong contributions to our country in 
+this and other areas, for which we are very grateful, and we 
+thank you very much for your participation. The hearing is 
+adjourned.
+    [Whereupon, at 9:33 a.m., the panel was adjourned.]
+
+
+
+=======================================================================
+
+
+                            A P P E N D I X
+
+                              June 3, 2009
+
+=======================================================================
+
+
+
+
+=======================================================================
+
+
+              PREPARED STATEMENTS SUBMITTED FOR THE RECORD
+
+                              June 3, 2009
+
+=======================================================================
+
+      
+      
+    [GRAPHIC] [TIFF OMITTED] 51765.001
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.002
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.003
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.004
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.005
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.006
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.007
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.008
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.009
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.010
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.011
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.012
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.013
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.014
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.015
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.016
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.017
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.018
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.019
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.020
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.021
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.022
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.023
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.024
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.025
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.026
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.027
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.028
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.029
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.030
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.031
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.032
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.033
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.034
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.035
+    
+?
+
+      
+=======================================================================
+
+
+                   DOCUMENTS SUBMITTED FOR THE RECORD
+
+                              June 3, 2009
+
+=======================================================================
+
+      
+      
+    [GRAPHIC] [TIFF OMITTED] 51765.036
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.037
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.038
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.039
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.040
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.041
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.042
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.043
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.044
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.045
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.046
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.047
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.048
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.049
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.050
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.051
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.052
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.053
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.054
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.055
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.056
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.057
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.058
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.059
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.060
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.061
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.062
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.063
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.064
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.065
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.066
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.067
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.068
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.069
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.070
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.071
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.072
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.073
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.074
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.075
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.076
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.077
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.078
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.079
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.080
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.081
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.082
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.083
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.084
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.085
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.086
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.087
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.088
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.089
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.090
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.091
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.092
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.093
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.094
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.095
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.096
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.097
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.098
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.099
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.100
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.101
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.102
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.103
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.104
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.105
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.106
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.107
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.108
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.109
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.110
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.111
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.112
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.113
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.114
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.115
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.116
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.117
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.118
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.119
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.120
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.121
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.122
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.123
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.124
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.125
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.126
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.127
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.128
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.129
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.130
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.131
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.132
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.133
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.134
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.135
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.136
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.137
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.138
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.139
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.140
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.141
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.142
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.143
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.144
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.145
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.146
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.147
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.148
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.149
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.150
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.151
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.152
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.153
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.154
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.155
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.156
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.157
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.158
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.159
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.160
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.161
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.162
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.163
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.164
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.165
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.166
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.167
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.168
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.169
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.170
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.171
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.172
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.173
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.174
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.175
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.176
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.177
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.178
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.179
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.180
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.181
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.182
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.183
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.184
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.185
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.186
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.187
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.188
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.189
+    
+    [GRAPHIC] [TIFF OMITTED] 51765.190
+    
+?
+
+      
+=======================================================================
+
+
+              WITNESS RESPONSES TO QUESTIONS ASKED DURING
+
+                              THE HEARING
+
+                              June 3, 2009
+
+=======================================================================
+
+      
+             RESPONSE TO QUESTION SUBMITTED BY MR. ANDREWS
+
+    Mr. England. The current system provides a series of checks and 
+balances, allowing appropriate military advice to be provided to the 
+civilian leadership while allowing the civilian leadership to define 
+strategy and allocate resources consistent with the President's policy 
+and budget priorities. There is a large staff which supports the JROC 
+in the requirements review and approval process. The Office of the 
+Deputy Secretary of Defense is not staffed for comprehensive review of 
+the JROC requirements. Further, the Deputy Secretary already must 
+address a broad spectrum of issues, and this additional workload would 
+be very difficult to manage within the Office of the Deputy Secretary 
+of Defense. As importantly, the current system established by the 
+Congress through Goldwater Nichols legislation provides checks and 
+balances in the systems while also allowing for independent military 
+advice to be provided to the Nation's civilian leadership. It may not 
+be appropriate for the Deputy Secretary of Defense to approve or 
+disapprove individual requirements sequentially. The Deputy Secretary 
+of Defense already indirectly provides a role in this process by 
+balancing the JROC requirements against the President's policy and 
+strategy objectives, making these decisions in the context of the 
+President's budget process. It is not clear that the process would be 
+improved by requiring the Deputy Secretary to personally approve JROC 
+memoranda. [See page 23.]
+
+                                  <all>
+
+</pre></body></html>

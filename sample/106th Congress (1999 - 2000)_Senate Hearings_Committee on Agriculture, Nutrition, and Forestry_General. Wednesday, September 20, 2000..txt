@@ -1,0 +1,3169 @@
+<html>
+<title> - HOW SHOULD OUR FOOD SAFETY SYSTEM ADDRESS MICROBIAL CONTAMINATION?</title>
+<body><pre>
+[Senate Hearing 106-948]
+[From the U.S. Government Printing Office]
+
+
+
+
+
+                                                        S. Hrg. 106-948
+
+   HOW SHOULD OUR FOOD SAFETY SYSTEM ADDRESS MICROBIAL CONTAMINATION?
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                       COMMITTEE ON AGRICULTURE,
+                        NUTRITION, AND FORESTRY
+                          UNITED STATES SENATE
+
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             SECOND SESSION
+
+                                   ON
+
+   HOW SHOULD OUR FOOD SAFETY SYSTEM ADDRESS MICROBIAL CONTAMINATION?
+
+                               __________
+
+                           SEPTEMBER 20, 2000
+
+                               __________
+
+                       Printed for the use of the
+           Committee on Agriculture, Nutrition, and Forestry
+
+
+                   U.S. GOVERNMENT PRINTING OFFICE
+71-374                     WASHINGTON : 2001
+
+
+_______________________________________________________________________
+            For sale by the U.S. Government Printing Office
+Superintendent of Documents, Congressional Sales Office, Washington, DC 
+                                 20402
+
+
+           COMMITTEE ON AGRICULTURE, NUTRITION, AND FORESTRY
+
+
+
+                  RICHARD G. LUGAR, Indiana, Chairman
+
+JESSE HELMS, North Carolina          TOM HARKIN, Iowa
+THAD COCHRAN, Mississippi            PATRICK J. LEAHY, Vermont
+MITCH McCONNELL, Kentucky            KENT CONRAD, North Dakota
+PAT ROBERTS, Kansas                  THOMAS A. DASCHLE, South Dakota
+PETER G. FITZGERALD, Illinois        MAX BAUCUS, Montana
+CHARLES E. GRASSLEY, Iowa            J. ROBERT KERREY, Nebraska
+LARRY E. CRAIG, Idaho                TIM JOHNSON, South Dakota
+RICK SANTORUM, Pennsylvania          BLANCHE L. LINCOLN, Arkansas
+GORDON SMITH, Oregon                 ZELL MILLIER, Georgia
+
+                       Keith Luse, Staff Director
+
+                    David L. Johnson, Chief Counsel
+
+                      Robert E. Sturm, Chief Clerk
+
+            Mark Halverson, Staff Director for the Minority
+
+                                  (ii)
+
+  
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+
+Hearing:
+
+Wednesday, September 20, 2000, How Should Our Food Safety System 
+  Address Microbial Contamination?...............................     1
+
+Appendix:
+Wednesday, September 20, 2000....................................    49
+Document(s) submitted for the record:
+Wednesday, September 20, 2000....................................   181
+Question(s) and answers submitted for the record:
+Wednesday, September 20, 2000....................................   203
+
+                              ----------                              
+
+                     Wednesday, September 20, 2000
+                    STATEMENTS PRESENTED BY SENATORS
+
+Lugar, Hon. Richard G., a U.S. Senator from Indiana, Chairman, 
+  Committee on Agriculture, Nutrition, and Forestry..............     1
+Harkin, Hon. Tom, a U.S. Senator from Iowa, Ranking Member, 
+  Committee on Agriculture, Nutrition, and Forestry..............    10
+Daschle, Hon. Tom, a U.S. Senator from South Dakota..............     2
+Kerrey, Hon. J. Robert, a U.S. Senator from Nebraska.............    13
+Miller, Hon. Zell, a U.S. Senator from Georgia...................     4
+                              ----------                              
+
+                               WITNESSES
+
+Glickman, Hon. Dan, Secretary, U.S. Department of Agriculture, 
+  Washington, DC., accompanied by Catherine E. Woteki, Under 
+  Secretary for Food Safety, and Thomas J. Bill, Food Safety and 
+  Inspection Service Administrator...............................     5
+
+                                PANEL I
+
+Levitt, Joseph A. Esq., Director, center for Food Safety and 
+  Applied Nutrition, Food and Drug Administration, Washington, 
+  DC.............................................................    25
+Ostroff, Stephen M. Dr., Associate Director for Epidemiologic 
+  Science, National Center for Infectious Diseases, centers for 
+  Disease Control and Prevention, Atlanta, GA....................    26
+
+                                PANEL II
+
+Dyckman, Lawrence, Director, Food and Agriculture Issues 
+  Resources, Community, and Economic Development Division, U.S. 
+  General Accounting Office, Washington, DC., accompanied by 
+  Keith Oleson, Assistant Director, and Brad Dobbins, Senior 
+  Analyst........................................................    44
+
+                               PANEL III
+
+Doyle, Michael, Dr., Director, Center for Food Safety and Quality 
+  Enhancement, University of Georgia, Griffin, GA., on behalf of 
+  the Council for Agricultural Science and Technology............    42
+                              ----------                              
+
+                                APPENDIX
+
+Prepared Statements:
+    Lugar, Hon. Richard G........................................    50
+    Harkin, Hon. Tom.............................................    51
+    Daschle, Hon. Tom............................................    53
+    Roberts, Hon. Pat............................................    56
+    Leahy, Hon. Patrick J........................................    57
+    Bernard, Dane................................................   128
+    DeWaal, Caroline Smith.......................................   153
+    Doyle, Michael...............................................   124
+    Dyckman, Lawrence............................................   109
+    Garren, Donna................................................   134
+    Glickman, Dan................................................    62
+    Hollingsworth, Ann...........................................   147
+    Levinson, Richard............................................   175
+    Levitt, Joseph A.............................................    71
+    Ostroff, Stephen M...........................................    94
+    Weber, Gary..................................................   139
+Document(s) submitted for the record:
+    The Role of Microbiological Testing in Beef Food Safety 
+      Programs, submitted by Ann Hollingsworth...................   182
+    Pamphlet: Preventing Emerging Infectious Disease, submitted 
+      by Richard Levinson, MD, DPA (retained in the Committee 
+      files).....................................................
+    Emerging Infectious Diseases: A Public Health Response, 
+      submitted by Richard Levinson, MD, DPA (retained in the 
+      Committee files)...........................................
+
+ 
+   HOW SHOULD OUR FOOD SAFETY SYSTEM ADDRESS MICROBIAL CONTAMINATION?
+
+                              ----------                              
+
+
+                     WEDNESDAY, SEPTEMBER 20, 2000
+
+                                       U.S. Senate,
+         Committee on Agriculture, Nutrition, and Forestry,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 9:00 a.m., in 
+room SR-328A, Russell Senate Office Building, Hon. Richard G. 
+Lugar, (Chairman of the Committee), presiding.
+    Present or submitting a statement: Senators Lugar, Smith, 
+Harkin, Leahy, Daschle, Kerrey, and Miller.
+
+OPENING STATEMENT OF HON. RICHARD G. LUGAR, A U.S. SENATOR FROM 
+  INDIANA, CHAIRMAN, COMMITTEE ON AGRICULTURE, NUTRITION, AND 
+                            FORESTRY
+
+    The Chairman. This hearing of the Senate Agriculture 
+Committee is called to order. Today, the Committee holds an 
+important hearing to review our food safety system and how it 
+addresses microbial contamination. We will hear from a number 
+of scientific experts and representatives of the Federal 
+Government and the consumer and public health community. We are 
+hopeful today's hearing will help the Committee gather answers 
+to these questions.
+    Microbial contamination is the most significant threat to 
+our food safety system. What are the food safety 
+responsibilities of the Federal Government and the private 
+sector related to microbial contamination? What is the value of 
+the Hazard Analysis and Critical Control Points [HACCP], HACCP, 
+approach to food safety and addressing microbial contamination? 
+And what are the barriers to the development and implementation 
+of the new technologies and tools to detect, prevent, and 
+reduce microbial contamination? Are changes needed in the food 
+safety system to aid in that detection, prevention, and 
+reduction?
+    Obviously, we know that all of the witnesses will not be 
+able to address all of the questions, but we will be interested 
+in hearing different perspectives from each of a number of 
+distinguished witnesses today.
+    At this hearing, we now look forward to hearing the 
+testimony from our Secretary of Agriculture and officials from 
+the Food and Drug Administration and the Centers for Disease 
+Control and Prevention about the responsibilities of the 
+Federal Government. We will also hear findings from the General 
+Accounting Office about a food safety resources project that 
+Senators Harkin, Hagel, and myself requested last year. And 
+finally, we will learn food safety perspectives from 
+representatives of academia and scientific studies, food 
+processors, shippers and suppliers, growers and producers, 
+consumers, and the public health organizations. I welcome all 
+of our witnesses and look forward to receiving their testimony.
+    [The prepared statement of Chairman Lugar can be found in 
+the appendix on page 50.]
+    I would like to note also the presence of the distinguished 
+Democratic leader, Senator Daschle. Do you have an opening 
+comment, Senator?
+
+  STATEMENT OF HON. THOMAS DASCHLE, A U.S. SENATOR FROM SOUTH 
+                             DAKOTA
+
+    Senator Daschle. I do, Mr. Chairman, and I thank you very 
+much for your recognition and for convening this hearing today 
+to consider the efficacy of our food safety system.
+    Food poisoning tragedies in recent years have underscored 
+the importance of enforcing tough food safety standards, and I 
+sincerely commend the Chairman for his continuing effort to 
+make America's food supply the safest in the world. To respond 
+to the challenge of making our food supply as safe as possible, 
+USDA has made dramatic changes in the way it inspects meat 
+products, including full implementation of HACCP. Since then, 
+the Centers for Disease Control has found that foodborne 
+illness has been cut in half.
+    At the same time, challenges remain. USDA is struggling to 
+provide sufficient inspectors to meet the demands of new 
+programs. It still lacks the full complement of tools to 
+respond to all the food safety issues we confront today and 
+should be given mandatory recall authority. Moreover, questions 
+remain about USDA's authority to set and enforce microbial 
+testing standards. In fact, the recent court decision in the 
+Supreme Beef v. USDA highlighted the issue of microbial 
+testing, and in July, Senator Harkin offered an amendment to 
+the agriculture appropriations bill to clarify Congress' intent 
+that USDA have the authority to set and enforce standards for 
+pathogen testing.
+    The question of microbial testing encompasses a number of 
+related issues. To understand how the system functions, we need 
+to break it down into component parts. Considering these 
+related issues separately helps clarify this debate. It becomes 
+possible to assert that USDA should have the authority to set 
+standards generally while challenging the standards currently 
+in place. Or we can agree to support the need to provide USDA 
+with sufficient enforcement authority while asserting that USDA 
+should change or clarify its enforcement procedures.
+    I hope we hear this morning that microbial testing of meat 
+is a beneficial tool independent of plant sanitation. In other 
+words, it is possible to find pathogens on meat in a plant that 
+has no detectable sanitation problems. Such a plant should not 
+necessarily be penalized for meat that tests positive, but 
+neither should excessive levels of pathogens be disregarded 
+simply because their origin is not linked to plant sanitation.
+    The threat that foodborne pathogens pose to human health is 
+not lessened by our inability to trace their origin. They are 
+just as deadly. They are an invaluable indicator of a weak link 
+in the system, and their detection should prompt USDA to work 
+with the packers or slaughterhouses to identify the cause or 
+source and eliminate it. Pathogen testing is very useful and is 
+absolutely necessary if we are to have confidence in our food 
+supply.
+    The other issue I hope we can explore today is whether USDA 
+should enforce standards. There are two questions embedded 
+here, what a standard should be and how a standard should be 
+enforced. The concerns I have heard are a blend of 
+dissatisfaction with the current standards and a fear over how 
+USDA might enforce standards in the future. The fact is, we 
+need more data to determine whether it is most appropriate to 
+set standards. While we have an abundant evidence showing that 
+foodborne pathogens are a distinct threat to human health, it 
+is my understanding that scientists and regulators do not have 
+the data they need to precisely gauge the relationship between 
+pathogen presence and the risk to human health.
+    With regard to fears related to enforcement, I urge my 
+colleagues to consider USDA's record in enforcing the existing 
+standard. The Supreme Beef case provides a good case study. It 
+illustrates that USDA does not withdraw inspectors and 
+effectively shuts down plants based on micro testing 
+performance. In fact, in the Supreme Beef case, USDA tried to 
+work with Supreme Beef for nearly a year before withdrawing 
+inspectors, and it only resorted to that step when Supreme Beef 
+became completely recalcitrant, effectively disregarding the 
+risk they were posing to the public. If a packing plant 
+supplying the public refuses even to try to reduce pathogens in 
+their product, I question the good sense of anyone who wouldn't 
+want USDA to withdraw inspectors at that point.
+    Moreover, I cannot understand how anyone can seriously 
+argue that USDA intends to misuse the micro standard as an 
+arbitrary litmus test. The agency has no record of doing so. It 
+may be reasonable, however, for Congress to more clearly 
+delineate the enforcement process so packers will know what to 
+expect.
+    Last November, I introduced S. 1988 with Senator Hatch. We 
+have 22 cosponsors, Republicans and Democrats. The reason I 
+mention the legislation amid remarks on food safety is that for 
+the first time in 30-years, this idea is supported by consumer 
+and food safety groups. The bill also enjoys a number of first-
+time Senate cosponsors. Their support is due in large part to 
+the fact that the uniform testing for pathogens in end products 
+called for by the bill will increase the reliability of our 
+overall food safety system.
+    It should be noted, however, that this uniformity is also a 
+trade issue. Being able to assure that all of our exported 
+project is subject to uniform inspection and that USDA is 
+accountable for the performance of plants in that system 
+protects our producers from potential trade barriers thrown up 
+by other countries. If they can argue that our exports are 
+inspected in systems that they have not specifically improved, 
+then they would have grounds to reject not just some but all of 
+our product. Therefore, while the uniformity requirement 
+attracts the support of the consumer and food safety groups, it 
+is necessary to protect access to foreign markets.
+    In conclusion, I want to reiterate my strong support for 
+the HACCP system, my support for pathogen testing, and my 
+support for the use of specific standards and enforcement 
+authority employed similarly to the USDA's current practices. 
+We should take this opportunity to explore ways to do even 
+better. In particular, I hope we can provide USDA with 
+mandatory recall authority, improve standards with better data, 
+to the extent possible, correlate micro testing results with 
+the public health indicators, and ensure that we never use this 
+inspection system punitively.
+    In the end, we need a food system that instills confidence 
+in the public by achieving results. When a plant has a problem, 
+USDA should work with the plant to fix the problem on an 
+expedited basis and thereby protect the public health. But in 
+the case of the rare bad actor, I hope we can agree that USDA 
+should have the authority to withdraw inspectors as a last 
+resort.
+    [The prepared statement of Senator Daschle can be found in 
+the appendix on page 53.]
+    Again, Mr. Chairman, I thank you for holding this very 
+important hearing.
+    The Chairman. Thank you very much, Senator Daschle, for a 
+very important statement.
+    Senator Miller, do you have a comment this morning?
+
+   STATEMENT OF HON. ZELL MILLER, A U.S. SENATOR FROM GEORGIA
+
+    Senator Miller. Thank you, Mr. Chairman. I will be very 
+brief. First of all, I want to thank you for your willingness 
+to hold this important hearing on an issue of great importance 
+to this country. While I am the rookie on this committee, I 
+have already determined that you keep this committee focused on 
+issues that in some way or another affect each of us in our 
+daily life and I thank you for that.
+    Food safety is obviously an issue that we all care about 
+and that we all want to promote in this country. I would 
+venture to say that everyone in this room is committed to doing 
+all we can to protect our citizens and our domestic food 
+supply. But we must approach this effort with a keen eye toward 
+sound science and a commensurate regulatory system.
+    For the most part, I think that we have done a good job. It 
+is often said that America produces the safest food in the 
+world. I believe this. But it only takes one well-publicized 
+incident to damage a reputation and signal that we must be 
+diligent in the monitoring of our food safety systems. I also 
+believe that USDA must be a critical partner in that effort and 
+I look forward to Secretary Glickman's testimony shortly.
+    This issue is very, very important to my State of Georgia 
+for two reasons. The first is obvious. Georgia regularly 
+alternates with Arkansas as the top poultry-producing State in 
+the Nation, and coming from the heart of the poultry country in 
+north Georgia, I must add that I have a first-hand view of its 
+importance to our agricultural economy.
+    The second factor is the tremendous dedication the 
+University of Georgia's College of Agriculture has to food 
+safety research. We have testifying before the Committee today 
+one of the Nation's leading food safety authorities in Mike 
+Doyle, who works at the University of Georgia. Mike has lent 
+great expertise to Congress over the years with his work on E. 
+coli research and he has helped establish the Center for Food 
+Safety at the University of Georgia, a tremendous resource for 
+those working on these issues. We are fortunate to have Mike 
+with us today and I look forward to reviewing his testimony, 
+also.
+    In closing, Mr. Chairman, I believe we must do all we can 
+to make sure that food production and food safety never become 
+competing interests. We have to do all we can on this committee 
+to promote both. I would like to thank you again for your 
+interest in an issue that is important to my State and our 
+country. I am anxious to learn more about these important 
+issues today and to work with my fellow committee members in 
+addressing them. Thank you, Mr. Chairman.
+    The Chairman. Thank you very much, Senator Miller.
+    It is a privilege to recognize again the presence today of 
+our Secretary of Agriculture, Dan Glickman. He is accompanied 
+by Catherine Woteki, who is Under Secretary for Food Safety, 
+and Thomas J. Billy, the Food Safety and Inspection Service 
+Administrator.
+    I know, Secretary Glickman, that you have a time commitment 
+to another committee and will need to leave around 9:30 or 
+thereabouts and will leave behind your cohorts who are here 
+today. But let me take just a moment to thank you for the work 
+you have done as Secretary of Agriculture. I do not know that 
+this will necessarily be our last committee hearing or the last 
+time we will have an opportunity to request your presence, but 
+I thank you for your willingness to be so forthcoming and 
+generous with your time and consultation, both here in the 
+Committee room as well as at the Department. It has been a real 
+pleasure to work with you. We recognize you for your testimony.
+
+ STATEMENT OF HON. DAN GLICKMAN, SECRETARY, U.S. DEPARTMENT OF 
+   AGRICULTURE, WASHINGTON, DC.; ACCOMPANIED BY CATHERINE E. 
+ WOTEKI, UNDER SECRETARY FOR FOOD SAFETY; AND THOMAS J. BILLY, 
+       ADMINISTRATOR, FOOD SAFETY AND INSPECTION SERVICE
+
+    Secretary Glickman. Thank you, Mr. Chairman. I remember 
+those days going through vetting with your staff right here, 
+those very pleasant days during the process of going through 
+the confirmation proceedings. But there was never any 
+unpleasantness from you or this committee, and I thank you for 
+your friendship. I think you have been an excellent chairman 
+and focusing on a lot of very interesting and controversial 
+issues affecting American agriculture, and never one to run 
+from controversy, either, so I appreciate that.
+    I appreciate my friend Tom Daschle and his statement and 
+his dramatic interest in agricultural issues. In fact, I think 
+about 80-percent of the calls into our Department are from the 
+Daschle organization usually.
+    [Laughter.]
+    And I would welcome Senator Miller. I visited the 
+governor's mansion, I remember at the Atlanta Olympics with the 
+President. You talked about Dr. Doyle and the University of 
+Georgia. Of course, USDA has a very fine food research/food 
+safety laboratory by our Agricultural Research Service and the 
+Food Safety and Inspection Service working with Dr. Doyle and 
+the University of Georgia and that is a place where a lot of 
+research is currently being done on pathogens and so we 
+appreciate their work.
+    Let me just first of all say that under the 
+administration's leadership, we have made a wide range of 
+improvements in our food safety system across the Government. 
+Overall in the U.S., we have the safest food safety system in 
+the world--I believe that very strongly--the FDA, CDC, USDA, 
+and other agencies. It is not perfect, however. It is evolving 
+and we are all working to make it better and nowhere is that 
+more apparent than at USDA.
+    Our Food Safety and Inspection Service is probably the 
+largest and most effective food safety inspection force in the 
+entire world. Last year, our inspectors examined approximately 
+8.5-billion-carcasses and 3.4-billion-pounds-of-egg-products in 
+over 6,000 plants. To ensure the safety of imported products, 
+we also maintain a comprehensive system of import inspection 
+and controls.
+    When the Department was reorganized in 1994, we created a 
+separate food safety mission area to ensure an arm's length 
+regulatory system that is independent of our market promotion 
+activities. The theory was, in order to keep consumer 
+confidence, they had to believe that the people who were doing 
+the inspection were not subject to the same people who were 
+doing the selling, and that separation, I think, has been most 
+effective.
+    In 1996, we launched revolutionary improvements to our meat 
+and poultry inspection system through our pathogen reduction 
+and HACCP rulemaking. Our new system directly targets pathogens 
+like salmonella and E. coli that cannot be detected with the 
+naked eye. Microbiological contamination of food by pathogens 
+is the most serious food-related public health threat, 
+responsible for an estimated 76-million-illnesses a year, most 
+mild, but some very serious and some causing death.
+    By no means have we abandoned traditional physical 
+inspection, the sight, touch, and smell check performed by our 
+USDA inspectors. But our focus now is on reducing pathogens. 
+HACCP provides the framework for our pathogen reduction 
+strategy. Each meat and poultry plant is responsible for 
+setting up and following a plan to prevent, reduce, and control 
+food safety hazards, and by and large, industry has done a good 
+job in devising their own HACCP plans that comply with these 
+rules. That is not to say that there are not some bad actors, 
+but the vast majority of industry has successfully risen to the 
+HACCP challenge.
+    It is important to recognize how significant of a step 
+HACCP is. It represents nothing short of a revolutionary change 
+in food safety policy, and like most revolutionary changes, it 
+often causes people to perhaps want to go back to the way 
+things were. But it has incorporated for the first time modern 
+scientific knowledge and principles and it has replaced an 
+antiquated system that I think, while it did an excellent job, 
+did not keep up with nearly a century's worth of progress in 
+the science area.
+    But HACCP is not enough. At USDA, we believe in addition to 
+HACCP, setting up the critical control points, it is imperative 
+to set clear, measurable, objective performance standards that 
+industry must meet. Without some kind of benchmark, we have no 
+way of measuring success and progress in reducing contamination 
+and foodborne illness. Without performance standards, we would 
+be relying on little more than an industry honor code.
+    We began by setting a performance standard for salmonella. 
+It is very simple. We collected data to establish the national 
+rate of contamination in raw meat and poultry products. Some 
+plants were above the average, some were below the average. 
+Under the performance standard, all plants must now have a 
+salmonella contamination rate that is at least no worse than 
+this baseline.
+    Adolph Rupp, the legendary former basketball coach of the 
+University of Kentucky, once said, ``If it does not matter 
+whether you win or lose, then why do we keep score?'' 
+Performance standards are simply our mechanism for keeping 
+score, for making sure that plants are meeting their food 
+safety responsibilities. And needless to say, when it comes to 
+the safety of our food supply, it matters a great deal whether 
+we win or lose.
+    This is something of a new paradigm in food safety and not 
+one that everyone agrees with. Performance standards were a 
+source of great controversy when the original HACCP rule was 
+being debated and drafted, and more recently, they have been 
+challenged in the courts, as was referred to in Senator 
+Daschle's statement. I believe these attempts to undermine 
+performance standards are dangerously misguided. The fact is 
+that these standards are reasonable and reachable and I do 
+agree that they must be applied fairly by USDA, as well. And 
+most importantly, the standards are working.
+    Today, we are releasing new data that demonstrate dramatic 
+salmonella reductions over the last year, that is, from July of 
+1999 to July of 2000. For example, in those plants that have 
+completed HACCP implementation, salmonella has been cut by more 
+than half on chicken carcasses and by one-third on ground beef. 
+And for every product we regulate, at least 82-percent of 
+plants have met or done better than the performance standard.
+    Given the success thus far, we hope in the future to be 
+able to set the bar even higher, to establish even more 
+stringent performance standards. We are also looking at the 
+possibility of establishing performance standards for other 
+pathogens beyond salmonella. Next month, we will complete a 
+preliminary survey on the prevalence of another pathogen, 
+Campylobacter in poultry, the first step towards possible 
+performance standards there, as well.
+    It is important to recognize that pathogen reduction and 
+other food safety imperatives do not begin and end at the 
+slaughterhouse door. Pathogens and other food safety hazards 
+can be introduced on the farm, in storage, during 
+transportation, or in the home or restaurant. Producers, 
+packers, shippers, wholesalers, retailers, and consumers all 
+share food safety responsibility. That is why we have pursued a 
+seamless farm-to-table food safety strategy.
+    For example, we have provided farmers with information on 
+residue avoidance and helped them adopt quality assurance 
+practices. We have also launched a public information campaign 
+to educate consumers about safe food handling and preparation. 
+Frankly, I would like to see us do more of this, perhaps by 
+funding top-of-the-line public service announcements to keep 
+emphasizing the food safety message. This is expensive to do. 
+USDA does not have the dollars to do very much of this, but 
+just for example, the mere washing of hands on a periodic basis 
+can reduce food safety illness dramatically. The mere cooking 
+of meat and poultry to the appropriate temperatures can reduce 
+food safety contamination dramatically. It would be nice if we 
+could develop some clear-cut messages on television and radio 
+to communicate those simple messages very clearly and I would 
+hope that we could wok with the Congress in establishing some 
+budgets in the future that would do that. Of course, all of 
+this is not substitute for strong regulation and sound science-
+based inspection, but it is an important complement that we 
+must continue to pursue.
+    USDA has devised a pathogen reduction system and an overall 
+food safety system in which public health trumps all other 
+interests and concerns. I think the system is working. But to 
+ensure our continued success, we must constantly integrate new 
+technologies, adopt new research techniques, and be on the 
+lookout for emerging and evolving pathogens.
+    Our continued success also depends on help from the 
+Congress. Congress has been very supportive of USDA's food 
+safety efforts, but the Senate's fiscal year 2001 
+appropriations bill is currently several million dollars below 
+our request. We also need $6 million on top of our budget 
+request to cover costs associated with the delay in the 
+implementation of the HACCP models project. And to ensure 
+effective future use of resources to address egg safety, a 
+restriction on the Secretary of Agriculture's ability to 
+delegate shell egg surveillance activities, we would hope 
+should be removed from the appropriations language.
+    I would like to just echo one point Senator Daschle made. I 
+strongly believe that Congress should empower USDA with 
+expanded authorities that will put more teeth in our food 
+safety efforts. We must have mandatory recall and notification 
+authority. The current system of voluntary industry recall is 
+simply not reliable enough. And I have said this point many 
+times before. The Consumer Product Safety Commission can order 
+recalls of defective lamps and plugs and toys and other 
+products, but we cannot do that with respect to defective food 
+products. That is wrong, and that, I hope, is something that 
+Congress will allow us to do in the future.
+    To ensure that there is some accountability and flexibility 
+in the system, we also need the authority to impose civil 
+penalties against firms that violate Federal food safety rules. 
+Right now, we are limited to basically either removing the USDA 
+mark, which effectively is shutting a plant down totally, or 
+else referring a matter to the Justice Department for 
+prosecution. But most regulatory agencies have a middle ground 
+approach, which is civil sanctions.
+    Industry is worried about this because they worry how it 
+would be applied and I understand that and I am working with 
+Congress. I am sure we could come up on ways to make sure that 
+those standards are fair. But it would give the enforcement 
+folks at the Department more flexibility in dealing with food 
+safety problems that often do not require what I call the 
+atomic bomb, which is the removal of the mark and shutting a 
+plant down. There has got to be some middle ground approach 
+there to deal with.
+    Let me just conclude by saying this. The key here is, I 
+think, beyond making sure that people do not get sick and eat 
+safe food, is consumer confidence. Safe food sells. If the 
+public believes their food is safe, they will buy it. If they 
+get hysterical about it, they will not. And we see a lot of 
+hysteria around the world, not very much here in our country, 
+because I think people have confidence that USDA, FDA, CDC, and 
+the other food safety agencies are basically on the level, 
+trying to work as hard as they can, call the shots as they see 
+them and are willing to enforce the law in an independent way, 
+a fair way, and an arm's length way from industry. But in other 
+parts of the world, on any of these food-related issues, one 
+small incident explodes into an opportunity for non-science-
+based hysteria to govern and it certainly affects people's 
+habits in terms of what they buy and what they eat.
+    I have found that even the most outspoken skeptics of 
+government activism agree that food safety regulation is 
+necessary to keep our food supply safe and protect consumers 
+from food-related illnesses. There are differences of opinion 
+about what kind of powers and roles USDA has had, but I do not 
+believe anybody wants to get rid of the mechanism that is 
+there.
+    We are proud of the record we have built, but we also know 
+that we can do and should do better. I hope that Congress can 
+work with us to help USDA and help the entire Federal 
+regulatory system become even more effective in terms of 
+fighting for consumers and fighting for food safety in the 
+future. Thank you very much, Mr. Chairman.
+    [The prepared statement of Secretary Glickman can be found 
+in the appendix on page 62.]
+    The Chairman. Thank you very much, Secretary Glickman.
+    I am going to recognize Senator Harkin a moment for his 
+opening comment, but while you are here, I just wanted to raise 
+this question directly. The leaders in the meat industry who 
+have met with many members of our committee state that the 
+salmonella standard is scientifically flawed because it does 
+not take into account the regional difficulties or seasonal 
+differences in the prevalence of salmonella. Furthermore, they 
+believe an advisory committee on microbiological criteria 
+should have been consulted by USDA about the scientific 
+validity of the performance standards.
+    So they believe both on the regional and seasonal business 
+and the lack of consultation with this committee that the 
+standard you have talked about is flawed and, therefore, the 
+results that come from it are flawed. Do you have a response to 
+that?
+    Secretary Glickman. I would like for both Mr. Billy and Dr. 
+Woteki to respond briefly and then I will take a stab at it, as 
+well.
+    Ms. Woteki. I would like to respond first of all from a 
+scientific standpoint. I am a scientist. I am a member also of 
+the Institute of Medicine of the National Academy of Sciences, 
+which recognizes scientists nationwide. So I think I can 
+provide a scientific response to your question.
+    I feel that the salmonella performance standard does have a 
+very sound scientific base and that base is one of reducing 
+pathogens through an approach that has been used widely in the 
+public health community but has not been applied previously to 
+food safety areas and certainly not in the meat and poultry 
+inspection area. But the basis of it is, first of all, to 
+establish what is the prevalence of a pathogen in the food 
+supply. That was done through the baseline studies that FSIS 
+performed while they were preparing the HACCP rule and prior to 
+the implementation of the rule.
+    Based on those baseline studies, the performance standard 
+was established at the midpoint of the prevalence and the 
+scientific rationale, then, is to move the distribution of the 
+pathogen in products below what that average was prior to the 
+implementation of HACCP. And what we have demonstrated and 
+through the data that are being released today and are 
+following up on data that we have released on the first year as 
+well as the second year of implementation of HACCP, we have 
+demonstrated that, that approach can move downward the presence 
+of salmonella in meat and poultry products.
+    So there is a very sound scientific rationale for it. There 
+is also a history in other public health areas in using this 
+approach to move downwards the distribution of, in this case, a 
+pathogen in the food supply.
+     Mr. Billy?
+    Mr. Billy. Just to supplement what Dr. Woteki has said, we 
+believe that the date, the raw data that we used to establish 
+the performance standard for ground beef, which I think is the 
+one you are focusing in on, is representative geographically 
+and seasonally in terms of what levels of salmonella are in 
+products produced by industry.
+    I think what is probably the best measure of that is to 
+look at the results across a large number of plants now where 
+they have, in fact, been able to achieve the performance 
+standard. As the Secretary said, this was established based on 
+a national average in industry. We are holding all of industry 
+to meet that national average, and clearly they are succeeding.
+    From a public health perspective, the notion that we should 
+somehow make adjustments to allow industry to have higher 
+levels of salmonella in certain parts of the country because it 
+is higher at certain times of the year is contrary to our 
+public health interest.
+    So I think we have got a good foundation. We have an 
+opportunity with all of the data we have collected to look at 
+revising the standard. We have got a strong database now to do 
+that and would plan to forward and do that in the future, as 
+the Secretary has indicated.
+    The Chairman. Thank you for those responses.
+    I would recognize now the distinguished Ranking Member, 
+Senator Harkin, who has had, of course, a tremendous interest 
+in this issue for many years.
+    Senator Harkin. Thank you very much, Mr. Chairman. I 
+apologize for being a little late and I thank the Secretary and 
+Dr. Woteki and Mr. Billy for being here this morning. I just 
+ask that my full statement be made a part of the record.
+    The Chairman. That will be included in the record in full.
+
+STATEMENT OF HON. TOM HARKIN, A U.S. SENATOR FROM IOWA, RANKING 
+   MEMBER, COMMITTEE ON AGRICULTURE, NUTRITION, AND FORESTRY
+
+    Senator Harkin. I will make a couple of comments. I do want 
+to commend you, Mr. Chairman, for your interest in food safety 
+and for calling this hearing to examine how well our food 
+safety system is addressing microbiological threats. As you 
+said, I have had a long interest in this and I have introduced 
+several bills that would help strengthen our food safety 
+system.
+    S. 18, the Safer Meat and Poultry Act, would give USDA the 
+enforcement authority they need other than the atomic bomb of 
+inspection withdrawal that you spoke about, Mr. Secretary. S. 
+823, the Fruit and Vegetable Safety Act, would require that all 
+fruit and vegetable processors meet existing good manufacturing 
+practices, basically just have them do what they are supposed 
+to be doing. S. 2760, the Microbiological Performance Standard 
+Clarification Act, which would clarify USDA's authority to 
+issue and enforce microbiological performance standards for 
+reducing pathogens. I think all of these bills taken together 
+would definitely strengthen our system.
+    HACCP has gone, as you said, Dr. Woteki, has gone a long 
+way towards providing a stronger and more science-based food 
+safety system, particularly in meat and poultry. However, in 
+the last year, USDA's legal authority to enforce its 
+microbiological performance standards has been seriously 
+challenged. I am talking about the Supreme Beef case. This case 
+directly undercuts USDA's attempt to create a standard based on 
+the logic that reducing the level of pathogens on food 
+nationwide will benefit the public's health.
+    We have to address this question directly. How do we ensure 
+that companies nationwide are reducing pathogens? If we do not 
+have some measure of a plant's performance, how do we verify 
+that HACCP is really doing its job? There needs to be 
+enforcement if consumers are to have confidence in this system. 
+We need to find out how HACCP regulations and microbiological 
+performance standards can best be enforced.
+    Generally we have done, a good job--the data shows that--in 
+meat and poultry regulation. That does not mean we cannot do 
+better. I believe there are ways that we can plug up some of 
+the holes in enforcing these standards.
+    I am anticipating the testimony I read last night from the 
+Center for Science in the Public Interest. I do not verify 
+their data myself, But they say that nearly four times as many 
+outbreaks were linked to Food and Drug Administration regulated 
+foods as were linked to U.S. Department of Agriculture related 
+foods. Their findings are that 682 outbreaks were linked to FDA 
+regulated foods as compared to 179 outbreaks linked to USDA 
+regulated foods. Lastly, they say our outbreak tracking shows 
+that FDA regulated foods have been associated with many 
+foodborne illness outbreaks-many more than USDA. However, FDA's 
+budget for regulating foods is only about one-third of USDA's 
+food inspection budget. In essence, FDA regulates more food 
+with less money.
+    Mr. Chairman, the more that I have studied this, the more I 
+am thinking that we have got these two separate agencies out 
+there, both talking about food. It seems to me we need to bring 
+them together somehow. I do not want to denigrate FDA. They are 
+a great organization. But I must say for the record and openly 
+and as frankly as I can that the Food and Drug Administration 
+is really the Drug Administration. They have focused more on 
+drugs, which is fine. We need to have them focus on drugs and 
+the safety of drugs and the application of drugs.
+    I think the Food and Drug Administration basically has 
+given food a back seat to drugs. I do not think that is true at 
+USDA. So I am hoping that out of this, somehow we find some way 
+of putting all of food safety together under one umbrella. I 
+think that is the path we have to go. How that is going to be 
+done, I do not know, but I hope we can begin to examine that 
+process. Thank you very much, Mr. Chairman.
+    [The prepared statement of Senator Harkin can be found in 
+the appendix on page 51.]
+    Secretary Glickman. Can I just make a comment on that?
+    The Chairman. Yes.
+    Secretary Glickman. I think your point is a useful one. 
+First of all, clearly, FDA has not had the resources to do 
+these things. I mean, from the beginning, you look at the 
+history of food safety activities, they occurred as a result of 
+the progress era and the monies came into USDA and meat and 
+poultry inspection was the prime function of USDA and other 
+food safety inspections were basically not relegated to 
+anybody, even though we had a Pure Food and Drug Act and there 
+were some things there. But FDA was largely not given the 
+authority nor the personnel to do that work.
+    We are working together. The President has, of course, 
+created a food safety initiative that has resulted in 
+attempting to get budget increases across the board and we are 
+looking at what the structural role ought to be in the future 
+to deal with the problems you talked about. It is probably 
+going to be in the next Congress and the next administration 
+before any of these decisions are going to be made, but I think 
+you raise a very important point. We are going to have to 
+modernize the way we handle the regulatory structure of our 
+food safety system.
+    Senator Harkin. We are approaching it today the same way we 
+did 30-, 40-years ago, but the whole system of food production, 
+distribution, consumption, has changed dramatically, and so we 
+need a dramatic change in how we enhance and protect the public 
+in that whole chain, from production to consumption.
+    Secretary Glickman. We just, I think, need to build on the 
+strengths. There are certain strengths in the system and there 
+are certain talents in the system. But I agree. I think that it 
+is time to really look at this question in a very open way and 
+I have not prejudged it myself. I think we have got to figure 
+out in the modern world how we deal with the whole litany of 
+food safety issues beyond just the historical way of doing it.
+    Senator Harkin. Thank you very much, Mr. Secretary. Thank 
+you, Mr. Chairman.
+    The Chairman. Just a quick question following up on this 
+colloquy. How did we get the separation to begin with? In other 
+words, why is FDA involved in this way and USDA, because 
+obviously it begs the question of why we do not do something 
+about it. I am grateful you are doing something, but it 
+certainly highlights for this committee a very important agenda 
+item, I would think, because this is totally unsatisfactory. If 
+you are testifying that FDA regulated foods, people are three 
+or four times more likely to get sick than the ones that you 
+are doing----
+    Secretary Glickman. Of course, Senator Harkin testified to 
+that.
+    [Laughter.]
+    The Chairman. You are exempt. Give us a little bit of 
+history, if you will.
+    Secretary Glickman. I think Dr. Woteki----
+    Ms. Woteki. I can provide you a little bit of historical 
+background. In 1906, Congress enacted the two laws that have 
+led to our current food safety system that----
+    The Chairman. Nineteen-oh-six?
+    Ms. Woteki. Nineteen-oh-six, the Federal Meat Inspection 
+Act and the Pure Food and Drug Act. The Department of 
+Agriculture administered both of those laws until the, I 
+believe it was in the late 1930s or early 1940s when the food 
+and drug responsibilities were separated out, eventually 
+finding a home in Health and Human Services. At that point, 
+there was a lot of concern about something that the Secretary 
+alluded to in his testimony of a potential conflict of interest 
+within the Department for administering the Food and Drug Act 
+and it was felt that it was appropriate that, that be separated 
+out.
+    The Chairman. Senator Kerrey?
+    Senator Kerrey. Mr. Chairman, that was before PAC 
+contributions so that could not be the reason that the 
+separation occurred.
+    [Laughter.]
+
+    STATEMENT OF HON. J. ROBERT KERREY, A U.S. SENATOR FROM 
+                            NEBRASKA
+
+    Senator Kerrey. I am sure it probably had something to do 
+with Congressional oversight. I am not sure exactly what.
+    First of all, let me thank both you and Senator Harkin for 
+holding these hearings. I think it is extremely important. We 
+pay tribute to the United States Department of Agriculture 
+insufficiently for making certain that we have the safest food 
+supply in the world. Our consumer confidence is good as a 
+consequence. We cannot be vigilant enough, in my view, given 
+the new situation that we have in the marketplace, which is 
+that it is a world market, not just world market in theory, it 
+is a world market in practice, so that my consumers, no matter 
+if I am manufacturing product in some little town in Ohio or 
+some little town in Nebraska, they know worldwide. If there is 
+a problem with my food product, they know it worldwide 
+immediately and the market will put a substantial penalty.
+    This is the exchange, Mr. Secretary, you and I had before 
+on the comparison with consumer products. It is a much 
+different environment. If I put salmonella out to my customers, 
+my customers will quit coming into my restaurant. I do not care 
+what you do. FDA does not have to do anything. You do not have 
+to do anything. The State Department of Health does not have to 
+do anything. If there is a story in the Omaha World Herald that 
+my customers have gotten sick from eating salmonella--and by 
+the way, they are much more apt to get sick as a consequence of 
+mishandling of dairy products than they are of meat products--
+if they get sick as a consequence of my serving them 
+salmonella, I am out of business and I am going to have trouble 
+in any other part of the country where I am operating as a 
+consequence of that having occurred.
+    So everybody understands that in the food business that 
+wants to stay in the food business and they are training their 
+employees and working with their employees to make certain that 
+does not happen. Now, occasionally you have got people, as in 
+any economic environment, who do not care, and they are always 
+running at the margin. They are always pressing the envelope 
+and they are always trying to cut corners and they put 
+everybody at risk as a consequence.
+    Therefore, it is very important that we give you the 
+authority, in my view, to get the bad people out and keep the 
+good people in the business, and that was really the underlying 
+principle of HACCP. Not only are we going to use good science 
+to go to the critical control points, and I was very much 
+involved in trying to make HACCP a reality, but one of the 
+things that I am also very much aware of is that there has been 
+significant resistance inside of the meat inspectors' union to 
+this new system and I would like to talk about that a bit.
+    One of the things I have privately talked about to my 
+staff, and it is the first time I have said it out loud, 
+perhaps because I am not running for reelection, but----
+    [Laughter.]
+    Senator Kerrey.--that maybe in statute we should abolish 
+this union and rewrite the law and create a real health-
+oriented organization, because they still are thinking like 
+inspectors. They are still thinking in the old world, and a lot 
+of them do not like this new system. They do not like it at all 
+and they have oftentimes been reluctant to follow your 
+instructions.
+    You are nodding. I wonder if you are willing to say, yes, 
+that you have had some difficulty----
+    [Laughter.]
+    Secretary Glickman. Well, I am not running for reelection, 
+either, Senator.
+    [Laughter.]
+    But I am going to let Mr. Billy answer that.
+    Senator Kerrey. Mr. Billy was nodding in the affirmative. 
+Has there not been resistance inside the meat inspectors' union 
+to making this change?
+    Mr. Billy. Yes, there has been resistance and----
+    Senator Kerrey. Why not at least change the name of it so 
+they are not called meat inspectors anymore, so they are called 
+food safety, even health specialists and require them to 
+establish real liaisons with epidemiological people in the 
+Departments of Health and so forth so that we can make these 
+kinds of discoveries and track down where the problems are. Why 
+not just change the name of the union, or the name of the job 
+and just aggressively go in there and say, look, if you are 
+willing to do a system which is health-based, which is 
+basically saying there is a new sheriff in town--it is like 
+``48 Hours,'' you know. It is Eddie Murphy walking in the bar 
+and saying, ``There is a new sheriff in town here.''
+    [Laughter.]
+    If you are willing to help us figure out how to reduce 
+pathogens at the levels that we have set, we will be your best 
+friend. And if you are not, we are your worst enemy. We are 
+your worst nightmare. I mean, why not that kind of an approach? 
+Is it going to take Congress to impose in the statute what it 
+seems to me there has been great difficulty in doing 
+administratively?
+    Mr. Billy. I am intending to stay in my position----
+    [Laughter.]
+    and I do face certain requirements under labor-management 
+law, so I am not going to comment on the union. But let me say 
+this. We certainly agree that we need a different kind of 
+person looking to the future that carries out our 
+responsibilities in food safety and it is for that very reason 
+that we have embarked upon the establishment of a new kind of 
+position called the consumer safety officer that is college-
+educated, comes to us properly trained in the sciences, and 
+then with additional training with respect to their job can 
+play an entirely different role than the one we have looked to 
+our inspectors to play traditionally.
+    Senator Kerrey. Do not give the colleges more power than 
+they need. They do not necessarily have to be college educated, 
+do they, to understand the----
+    Mr. Billy. I think in this day and age, they do. Otherwise, 
+it will force us to do a great deal of additional training at 
+our expense and it would shorten that process if we could 
+acquire people that have the basic training in the sciences, 
+math, and so forth to carry out the kind of thinking and 
+decision making that is required under a HACCP-type approach.
+    We have asked for and forwarded to Congress proposals to 
+implement this shift to consumer safety officers. 
+Unfortunately, we have not gotten support from Congress in 
+terms of moving forward and we are sort of wallowing----
+    Senator Kerrey. You are talking about an add-on. You are 
+talking about----
+    Mr. Billy. No, we have----
+    Senator Kerrey. Would you still have people in GS positions 
+that would be called meat inspectors?
+    Mr. Billy. We would through an interim period as we 
+complete filling out what we consider to be our workforce of 
+the future.
+    Senator Kerrey. How long is the interim period?
+    Mr. Billy. Probably several years, Sir.
+    Senator Kerrey. What is several?
+    Mr. Billy. Probably about 5-years it would take us to go 
+through a transition like I have described, and that is with 
+full support for it.
+    Senator Kerrey. Just one person's opinion on this thing, I 
+think this is one where you have just got to cut the cord. I 
+think you start right now and say it is food safety specialist. 
+Let us train them up. I mean, the market is demanding it. And, 
+by the way, we are finding ourselves, those of us who supported 
+HACCP, we are on the defensive. HACCP is not working. HACCP 
+does not provide the intensity of regulation. It is a pro-
+industry champ. You are shaking your head no, but those of us 
+who supported HACCP are answering press calls from people who 
+are saying, this is not working, that HACCP is not a good 
+system.
+    And I think my view is it is in part related to this old 
+system of saying I am a meat inspector. I was trained as a meat 
+inspector. I am a meat inspector and I am going to go out to 
+that plant and act like a meat inspector. Fine. Give me your 
+pathogen requirements and pathogen standards, but I am going to 
+go out there as a meat inspector, and I think it creates a real 
+problem in the field.
+    Senator Harkin. I just might add, Bob, I think Senator 
+Kerrey is absolutely right. HACCP works. If you have got a 
+conscientious, good company that really wants to do it, HACCP 
+works. But if you have got someone like you said that is--you 
+know, there is always somebody cutting the edge, trying to be 
+on the edge--then it does not work.
+    Senator Kerrey. But I am skeptical about you needing 
+additional authority. If you have got somebody out there who is 
+a bad operator, shut them down. Just shut them down. I mean, 
+you have got the authority to do that. Shut them down. Why do 
+you need, what is it----
+    Secretary Glickman. Mandatory recall, which I think we 
+ought to have, and we also have asked for the same authorities 
+that the FAA has, that the banking regulators have, and that is 
+civil authority, civil fines. In some cases, it is more 
+effective to levy a $100,000 fine a day than it is to shut them 
+down. In some cases it is not. I am just saying that 
+flexibility is there in most regulatory----
+    Senator Kerrey. I see a discontinuity, I must say, Mr. 
+Secretary. On the one hand, you talk about the consumer 
+confidence they have in the food supply in the United States. I 
+do not want to, because we have other panelists coming up here, 
+I would love to explore the salmonella issue a bit because I do 
+understand it fairly well from serving food product on a 
+regular basis. But when you say we need more authority and you 
+make the case for more authority, oftentimes when you make the 
+case, you leave the impression that there are great gaps in our 
+capacity to regulate and I do not see it.
+    Secretary Glickman. I guess one parallel I would say was 
+the airline industry. The FAA could always shut an airline down 
+and remove its certification to fly, but they found that it was 
+also useful when there were perhaps less serious things than 
+massive safety problems, that civil fines, and that is a big 
+deal now with the airlines and they publicize those fines and 
+it has had an impact. I am just saying there are perhaps 
+parallels.
+    Let me just mention one other thing. That is, there is a 
+spectrum of viewpoints within the employees' sector on the 
+HACCP program. There are a lot of our employees who think this 
+is the right way to go. I want you to know that. Now, I think 
+they----
+    Senator Kerrey. I must say, that is not comforting. The 
+word ``lot'' is not comforting.
+    Secretary Glickman. No, no, no. In fact, in my judgment, it 
+is the majority of employees feel that way.
+    Senator Kerrey. That is not comforting.
+    [Laughter.]
+    Secretary Glickman. When you have traditional labor-
+management relationships, this is always going to be a problem 
+area. Now----
+    Senator Kerrey. I think Mr. Billy's answer said it all. He 
+cannot tell us what his opinion is. So I think we need to 
+change the law. I think unless we change the law that gives you 
+the authority to do what you have to do, you are not going to 
+be able to it. Your answer, which is I cannot answer your 
+question, Senator, because of--what was it, labor something or 
+other----
+    Mr. Billy. Labor-management law.
+    Senator Kerrey.--labor-management law. The labor-management 
+law does not allow you to tell me whether or not you can do the 
+job. I mean, I think you made the case by not being able to 
+answer the question, even though I saw the head going this way 
+[nodding] when I was asking.
+    [Laughter.]
+    Anyway, thank you, Mr. Chairman.
+    The Chairman. Thank you. I need to get Secretary Glickman 
+out of the hearing as gracefully as possible because he has 
+made a commitment really to be somewhere else at 9:30 and he 
+has been most generous.
+    Secretary Glickman. Thank you.
+    The Chairman. All right, one more.
+    Senator Harkin. Just before he leaves, again, the 
+salmonella performance standards have not been revised since 
+they were issued in 1996, yet there have been plans to revise 
+them. Do you know where you are in that process?
+    Secretary Glickman. Mr. Billy?
+    Mr. Billy. Yes. We made a commitment that after the very 
+small plants had implemented HACCP and we had a measure of 
+their ability to meet the initial performance standards, we 
+would then review all them and move forward to make revisions. 
+The very small plants implemented in January of this year. We 
+are now collecting data from them. So about the end of this 
+calendar year, we will be in a position to make decisions about 
+revisions to the various performance standards. Obviously----
+    Senator Harkin. So we could expect those early next year 
+maybe?
+    Mr. Billy. Early next year, yes, Sir.
+    Senator Harkin. By March, April?
+    Mr. Billy. Yes, we will be in a position to do it by March.
+    Senator Harkin. Thank you.
+    The Chairman. Thank you very much. Thank you, Mr. 
+Secretary. Will the other witnesses remain so that we can 
+continue to visit with Mr. Billy and Dr. Woteki.
+    In the chart that is presented here, essentially, you have 
+said or used the words ``salmonella prevalence.'' What does 
+that mean? What odes it mean, the prevalence of salmonella? Is 
+this a standard all by itself or----
+    Ms. Woteki. It is a rate, the percentage of products that 
+test positive for the pathogen.
+    The Chairman. Would some product not have any salmonella? I 
+mean, is there a situation where there is none?
+    Ms. Woteki. Correct.
+    The Chairman. You move from zero to prevalence. What is 
+that range?
+    Ms. Woteki. OK. In the testing that the Agency does, there 
+are, for different products, a certain number of samples that 
+are taken----
+    The Chairman. Yes.
+    Ms. Woteki.--and each one of those samples is tested for 
+salmonella. So the percents that you see there are the percents 
+out of that set of tests that were done that were positive.
+    The Chairman. By positive, you mean they had at least one 
+unit of salmonella as opposed to zero?
+    Ms. Woteki. Well, there was a detectable level of the 
+salmonella.
+    The Chairman. A detectable level of salmonella.
+    Ms. Woteki. Right.
+    The Chairman. So prevalence means detectable level as 
+opposed to none at all?
+    Ms. Woteki. It is the percent of products tested that had a 
+detectable level.
+    The Chairman. Let us try it again. Let us say that you have 
+15 different kinds of hot dogs and you get one kind of hot dog 
+and a majority of the hot dogs in that category had salmonella.
+    Ms. Woteki. So that would be over 50-percent.
+    The Chairman. OK, of that particular item.
+    Ms. Woteki. Of that particular hot dog.
+    The Chairman. There could be many, many things this plant 
+is doing, but that particular one had a majority of the pieces 
+of hot dogs had salmonella. Now, in the chart that you have, 
+for example, with broilers, prior to the HACCP baseline 
+studies, you point out 25-percent of these lines had a 
+prevalence of salmonella, and this is down ought of 9.9-
+percent----
+    Ms. Woteki. Correct.
+    The Chairman.--following the standard you have imposed. 
+Will the standard be a floating standard? In other words, you 
+talk about improvement. Is the improvement in the standard or 
+the improvement in the number of times that you have a line 
+that has prevalence?
+    Ms. Woteki. Well, the concept is that after HACCP 
+implementation, after this last year when the very smallest of 
+the plants came on line and we had experience from them from 
+their performance with respect to the performance standard, 
+that the Agency would then evaluate the overall performance of 
+the industry and consider whether they would move downward the 
+performance standard. And so far, the data are indicating for 
+broilers, as you were pointing out, that the baseline studies 
+that were conducted before HACCP implementation, 20-percent of 
+broilers, that was kind of the mid-point of that distribution--
+tested positive for salmonella. Now it is just under 10-
+percent. So that whole distribution of product prevalence for 
+salmonella has shifted downward. So it would make an argument, 
+I think, for reexamining whether we should establish a new 
+performance standard that will be lower than 20-percent for 
+broilers.
+    The Chairman. Yes, Sir?
+    Mr. Billy. And for the other performance standards for the 
+various market or product categories. We would do this through 
+notice and comment rulemaking. We have the data from all of our 
+analyses, so we have a data set to use. We would pursue 
+changing the existing performance standard and tighten them 
+based on industry performance. In response to Senator Harkin's 
+question, what I indicated was we would be prepared to move 
+forward on that early next year.
+    The Chairman. Well, obviously, progress has been made, but 
+getting back to the logic of Senator Kerrey's reasoning, is 
+this comforting that 9.9-percent of broiler samples have a 
+prevalence of salmonella? In other words, granted, you have 
+gotten from 20 to roughly ten. Maybe next time you will try for 
+five or so forth. But what does this mean in terms of the food 
+supply of the country----
+    Ms. Woteki. It is comforting----
+    The Chairman.--that in this case, 9-percent of the poultry 
+out there have a prevalence of salmonella?
+    Ms. Woteki. It is comforting from the perspective that the 
+direction that it is going is downward. We are certainly not 
+happy with that level of salmonella prevalence in the food 
+supply and in this particular product class. But the direction 
+that it is going is downward and that has a public health 
+benefit.
+    The Chairman. Well, of course, but I am still trying to 
+drive at what it is that we are finally about. Is it zero 
+salmonella? Why should there be any salmonella? Or will 
+somebody argue today, and we will find out, that we are being 
+far too rigorous? In other words, if you have some evidence of 
+salmonella, it does not make that much difference in terms of 
+public health, a certain toleration level. In other words, we 
+are talking about an impossible situation in which you knock 
+out a good part of the food supply. What does any salmonella 
+mean with regard to the safety of somebody ingesting food in 
+America?
+    Ms. Woteki. Well, any salmonella poses a potential risk 
+because it is an organism that can grow and multiply. So a raw 
+food product with salmonella present within it, if it is not 
+properly handled, not kept refrigerated, not cooked properly, 
+has the potential for causing illnesses in people who consume 
+that product.
+    The Chairman. When the meat industry, and you are correct, 
+Mr. Billy, they were talking about the ground beef case 
+essentially, say that an advisory committee was set up and it 
+was going to look at this in a scientific way and they feel 
+that has been ignored, that essentially over at USDA you sort 
+of hit a standard and now you are going to lower it some more. 
+As you find that people are complying, you may lower it some 
+more, driving, from my question, it still not to zero, so now I 
+am worrying about the public as a whole ingesting anything 
+here.
+    How do you meet these arguments that people are actually 
+producing this meat in the South in this particular case, the 
+regional argument that was made, and you point out, well, after 
+all, people in the South ought to be protected the same as 
+people in the North. The fact that the weather changed should 
+not make a difference, but it probably does make a difference 
+if you are a producer, apparently, of ground beef.
+    So with all of these things floating around, how are we 
+going to come to some equity that a court of law that heard all 
+this case and sort of ruled USDA out of the picture for the 
+moment is going to come to a reasonable conclusion?
+    Mr. Billy. We knew from the outset that progress on 
+reducing pathogens would come incrementally based on the 
+availability of science, the understanding of where the 
+pathogens are coming from and why, and the technology that is 
+available. It is for that reason that we set a course that we 
+described as farm-to-table, that you cannot solve this in one 
+location, one place.
+    If we can find better ways to produce the animals that 
+minimize the presence of salmonella, we ought to figure that 
+out and do it. If we can introduce new technology, which 
+industry has done--steam pasteurization, steam vacuum, hot 
+water washes, things like that, that can impact the presence of 
+salmonella on a carcass, we should do that. There is a new 
+technology, irradiation, available, that is available for 
+products. Then we need to focus on the food service sector and 
+the retail sector and training and the things that they need to 
+do, and then finally the consumer in the home.
+    If we do all those things, our knowledge base and the 
+technology that is available will allow us to minimize the risk 
+of foodborne illness from salmonella. That is our goal. We do 
+not know the answer of where the end point is. I think we need 
+to be driven by our knowledge and by the technology that is 
+available. As we see progress, ratchet down the standards and 
+then that will force those that are marginal to do even better, 
+and those that have resisted some of this new technology to put 
+it in their plans or to follow different production practices.
+    So I think it is an incremental progress that we can expect 
+here and we are seeing it and I expect it to continue. It is 
+the beauty, I believe, of the performance standards, because it 
+allows the calibration of HACCP, how effective it needs to be, 
+and we are seeing that, in fact, the vast majority of industry 
+can achieve the levels that we have set initially and I believe 
+even if we tighten them up some.
+    The Chairman. Senator Kerrey?
+    Senator Kerrey. I need to stipulate one more time at the 
+beginning of my questions a couple things. One is that I want, 
+whether it is USDA or FDA, I want you to shut down anybody that 
+is putting the consumer at risk because they put me at risk, as 
+well, and not just in my private businesses but also I have 
+100,000 people in Nebraska that work in the meat industry. They 
+put them all at risk. Shut them down. So I am not going to 
+shill for anybody out there that is putting somebody at risk.
+    Second, I think you guys are doing the best job that you 
+can, so I am complimentary of you, but I am going to get into 
+some stuff that may sound like it is not, because I challenge, 
+along the lines that the Chairman is going, this idea of 
+prevalence.
+    First of all, you say, Dr. Woteki, detectable. I presume 
+you mean detectable with a given set of scientific tools, 
+because if you want to, you can detect down to one. You could--
+no?
+    Ms. Woteki. Well, not necessarily.
+    Senator Kerrey. You are saying that there are not 
+scientific tools that could tell you whether or not there is 
+salmonella in my coffee?
+    Ms. Woteki. We have at this point very good microbiological 
+tests, but as with other types of scientific tests, as well, 
+chemical as well as microbiological tests, there is a range as 
+you get down to fewer and fewer organisms and fewer and fewer 
+molecules, approaching zero, where you will come up with a 
+negative test. You will have a non-detect. But there still 
+might be an organism there----
+    Senator Kerrey. All right. So you do not want to say to the 
+consumer, when we say detectable, we do not mean that the 
+product necessarily is completely free of salmonella. There 
+still may be--you may have one organism.
+    Ms. Woteki. Yes.
+    Senator Kerrey. You may have ten organisms on the product. 
+You may still have some. On that basis, if you came in and let 
+us say you tested 535 members of Congress to find out whether 
+or not we had washed our hands. Is it possible there is 
+salmonella on my fingers right now?
+    Ms. Woteki. Yes.
+    Senator Kerrey. Then it is possible that you could come in 
+and say that there is a 50-percent presence of salmonella in 
+Congress as a consequence of us not understanding how to wash 
+our hands properly, is that not true?
+    Ms. Woteki. Possible.
+    Senator Kerrey. I could acquire salmonella poisoning, I 
+could produce the gastroenterological, whatever the impact is. 
+I forget why it makes you sick. Why does it make you sick, by 
+the way? I have lots of organisms in me that are not making me 
+sick. Why does that one make me sick?
+    Ms. Woteki. Well, some of these microorganisms, when they 
+are in a food, produce a toxin, and so when you consume that 
+toxin, it makes you sick. Others, when you eat the organism----
+    Senator Kerrey. Or I might get used to the toxin. I mean, 
+if I travel from one country to another or one region of the 
+country to another----
+    Ms. Woteki. You may develop a resistance to the organism. 
+But for those organisms like salmonella, when you ingest it, it 
+can then produce a toxin inside your body that makes you sick.
+    Senator Kerrey. I am just saying that the prevalence rate 
+of salmonella on the hands of members of Congress could be 
+higher than it is, let us say, in steers and heifers, could it 
+not?
+    Ms. Woteki. A better comparison would be your GI tract with 
+their GI tract.
+    [Laughter.]
+    Senator Kerrey. Do we have to?
+    [Laughter.]
+    But it follows on what the Chairman is asking. I mean, what 
+level of confidence do we acquire? Again, as I understand 
+HACCP, not only do we do critical control points inside of the 
+plant, we go after those things that produce the greatest 
+chance of making consumers sick, and there you are talking 
+about human beings with lower resistance. It will be children 
+because of their lower body weight. It could be elderly people 
+as a consequence of perhaps lower resistance, as well. Should 
+we not be targeting in that fashion? It could come as a 
+consequence of the consumers just simply not knowing what they 
+used to know.
+    I mean, if I go to a picnic in the summertime, I do not eat 
+deviled eggs. I think that is because my mom told me to be 
+careful about eating deviled eggs. Well, I am not sure I told 
+my kids that. And increasingly, consumers are not preparing 
+their food as much. Somebody else is preparing it for them. You 
+are talking about farm to table. Should we not be targeting 
+inside of that chain in aggressive fashions in an objective way 
+to try to reduce illness?
+    Ms. Woteki. That is----
+    Senator Kerrey. I mean, trying to reduce pathogens does not 
+tell us anything. We should be trying to reduce the illnesses 
+that are associated with the consumption.
+    Ms. Woteki. And the way that you do that is exactly right, 
+Senator, in taking a farm-to-table approach.
+    Senator Kerrey. But it could lead you back to washrooms in 
+the Senate dining room. It could take you other places than 
+just out to somebody that is processing steers and heifers.
+    Ms. Woteki. And that is why we have an active education 
+program. That is why the Secretary was asking for some 
+additional assistance to get out messages to consumers. And 
+that is also why we have a very active research program.
+    Senator Kerrey. But with great respect to the requests that 
+are coming from the Secretary, the impression is being left, I 
+believe, with the consumers that the number one problem is the 
+bacteria, the pathogens--which is itself a rather provocative 
+word--the prevalence of pathogens, in this case salmonella, 
+that exists inside of processing plants. And in my view, in 
+many ways, it is the least of our problems.
+    Ms. Woteki. Well, our overall message in our farm-to-table 
+strategy to consumers has been that everybody has a 
+responsibility for food safety, everybody who is involved----
+    Senator Kerrey. If you get the prevalence down----
+    Ms. Woteki.--from production through to the final point 
+where you do the preparation and serving to your family.
+    Senator Kerrey. What is your----
+    Ms. Woteki. We have provided educational messages through a 
+partnership with the industry and with consumer groups, the 
+``Fight BAC'' campaign that has gotten a lot of visibility but 
+not as much as we would like to get those messages out about 
+the things that consumers can do to help protect themselves. 
+And the role of regulation and the role of HACCP in this is 
+part of an overall strategy.
+    Mr. Billy. Can I add something here?
+    Senator Kerrey. Sure.
+    Mr. Billy. You have a witness about to come up that is an 
+expert in this area in terms of salmonella from CDC. I think 
+their testimony is right on point in terms of your questions 
+and I would suggest that you hear them out and then come back 
+to your questions based on their views about this approach and 
+what it is achieving and the overall problem----
+    Senator Kerrey. Mr. Billy, what the Chairman is saying, and 
+I will just say it directly, I do not have any confidence of 
+going from 49-percent in ground turkey down to 30-percent is 
+going to reduce the number of illnesses in America, and that is 
+the objective.
+    Mr. Billy. OK.
+    Senator Kerrey. You can go from 30-percent down to five 
+percent. One out of 20 is not great odds. If you go down to 
+five percent, have you got the problem solved? The answer is 
+no. We do not know that 30-percent is producing illnesses, that 
+there is an epidemiological connection between that 30-percent 
+and illnesses.
+    Ms. Woteki. We know that it is going in the right direction 
+to reduce illnesses.
+    Senator Kerrey. Tell me how you know that.
+    Ms. Woteki. Because if you have fewer people exposed, then 
+you are reducing the likelihood that there will be illnesses.
+    Senator Kerrey. Reducing the people that are exposed 
+reduces the likelihood is not a scientific-based statement. I 
+mean, that----
+    Ms. Woteki. Yes, it is, Sir.
+    Senator Kerrey. No, ma'am, it is not. If I----
+    Ms. Woteki. We use statistics.
+    Senator Kerrey. It lacks the precision necessary. You are 
+establishing, it seems to me, a principle under HACCP that we 
+are going to go at critical control points to reduce illnesses. 
+So why not back this thing off and say, here is the number of 
+illnesses that are occurring in America today. Here is where 
+the illnesses are occurring and we are going to try to reduce 
+the illnesses.
+    Ms. Woteki. That is----
+    Senator Kerrey. That seems to me to be a scientific 
+approach.
+    Ms. Woteki. And that----
+    Senator Kerrey. But you start off by saying, we are going 
+to just try to reduce the likelihood as a consequence of this 
+effort. I do not necessarily think there is going to be a cause 
+and effect relationship between the regulatory cost to the 
+consumer and the benefits that the consumer receives.
+    Ms. Woteki. I think I would refer you to Mr. Billy's 
+comment. You are going to hear from an expert that is 
+monitoring the occurrence of illnesses in the U.S. population.
+    Senator Kerrey. You underestimate both of your abilities. 
+Both of you are experts, as well, and I am just saying I do not 
+think you can give the consumers a great deal of confidence 
+going from 50-percent down to 30-percent because you do not 
+necessarily----
+    Ms. Woteki. I think it is a remarkable accomplishment, both 
+by the industry as well as by the Food Safety and Inspection 
+Service. It is moving us in the right direction. It is moving 
+us towards lower levels of pathogens overall as well as 
+reducing the occurrence of pathogens in products. That reduces 
+exposure and that is going to lead to fewer illnesses.
+    Senator Kerrey. It does not necessarily reduce exposure. It 
+reduces----
+    Ms. Woteki. Yes, it does.
+    Senator Kerrey. No, it does not necessarily reduce exposure 
+based upon the statement that you made earlier, because you do 
+not know what is happening in the rest of the food chain. You 
+could have increased exposure in all the rest of the food chain 
+and as a consequence you do not get reduced illnesses as a 
+result of this reduction.
+    Ms. Woteki. Well, the data are showing that there are an 
+overall reduction in foodborne illnesses. That reduction has 
+occurred at the same point in time that----
+    Senator Kerrey. Well, that is like saying I just had four 
+sunspots in a row and George Bush dropped 20 points in the 
+polls and that is why. You are establishing a cause and effect 
+relationship because one thing happened right after another and 
+it does not necessarily--you know this--it does not necessarily 
+mean that one thing caused the other.
+    Ms. Woteki. Epidemiologically, we also deal with 
+associations. What I have described is an association in time. 
+It has a biologically plausible base and it is, therefore, a 
+scientifically sound inference to draw from our current 
+program.
+    Senator Kerrey. I sat for a long time on the floor of the 
+Senate listening to arguments about asking for increased 
+authority for USDA and the arguments that were used for asking 
+for increased authority, I believe, set off unnecessary fears 
+in consumers that they have got problems in processing plants 
+in America and that there is great danger out there associated 
+with consuming American food.
+    I have supported your programs. I like what you are trying 
+to get done. I am just saying that I think there is a flaw in 
+the thinking here. I do not necessarily disagree that it has 
+been an accomplishment to go from 49- to 30-percent in ground 
+turkey, but what does it tell us?
+    Mr. Chairman, I will wait for the additional witnesses. I 
+think the horse is dead and I am continuing to feed it.
+    [Laughter.]
+    Senator Kerrey. I appreciate the exchange.
+    The Chairman. This is a characteristic of our Agriculture 
+Committee hearings, that we have a spirited exchange and 
+illumination, hopefully. I appreciate both of you coming and 
+staying with the Secretary.
+    I want to make a comment that Senator Roberts has submitted 
+a statement for the record, which we will include.
+    [The prepared statement of Senator Roberts can be found in 
+the appendix on page 56.]
+    Senator Roberts has submitted, as well, a question that he 
+would like an answer to and it has to do with the shortage in 
+many of the packing plants in Western Kansas of inspectors. Of 
+course, that is a problem all by itself in terms of the 
+mechanics of making all this work, and if you would respond 
+promptly to Senator Roberts' question, I would appreciate it.
+    We thank you both and you have heralded our next witnesses 
+that we look forward to now with great anticipation. Thank you.
+    The next witnesses are Mr. Joseph A. Levitt, Director of 
+the Center for Food Safety and Applied Nutrition of the Food 
+and Drug Administration, and Dr. Stephen Ostroff, Associate 
+Director for Epidemiologic Science, National Center for 
+Infectious Diseases, Centers for Disease Control and Prevention 
+in Atlanta, Georgia.
+    Gentlemen, we welcome you. I will ask you to testify in the 
+order that I have introduced you, which will be Mr. Levitt 
+first. To the extent that you are able to summarize your full 
+testimony, we would appreciate it. The full testimony will be 
+made a part of the record for both of you, and for that matter 
+for all of our witnesses today. Mr. Levitt, would you proceed.
+
+ STATEMENT OF JOSEPH A. LEVITT, ESQ. DIRECTOR, CENTER FOR FOOD 
+  SAFETY AND APPLIED NUTRITION, FOOD AND DRUG ADMINISTRATION, 
+                        WASHINGTON, DC.
+
+    Mr. Levitt. Thank you very much. Mr. Chairman, it is a 
+pleasure to be here today. My name is Joseph A. Levitt. I am 
+the Director of FDA's Center for Food Safety and Applied 
+Nutrition. As you know, Dr. Henney, the FDA Commissioner, is 
+concurrently testifying at another hearing at the same time.
+    The Chairman. Dr. Henney called me--I will mention this for 
+the record--and indicated that she would be in another hearing 
+and very much missed being here today, and we miss her but we 
+are delighted that you are here.
+    Mr. Levitt. Thank you very much. Food safety is clearly a 
+top priority at the FDA and I would summarize my testimony by 
+making five main points with one small introduction, which I 
+have here, in addition to the glass I am drinking from, a glass 
+of water which is halfway down, and a lot of the questions I 
+think that came up in the last panel that will continue to come 
+up, is whether or not this glass is half empty or half full. 
+What I think all of us in the Federal agencies believe is that 
+it is halfway but moving in the right direction, and that as we 
+continue to have these hearings into the future, we will 
+continue to show clear progress.
+    Five points that I would like to make. Number one, food 
+safety is clearly a compelling public health problem. The CDC 
+estimates, and that everyone has repeated, 76-million-
+illnesses, 300,000 hospitalizations, 5,000 deaths annually, 
+means that we must do all we possibly can to reduce the 
+incidence of foodborne illness, and Senator Kerrey, you are 
+right. We need to focus ultimately on reducing the illnesses, 
+that is what our ultimate goal needs to be. The focus is 
+clearly on microbial contamination, but we cannot let it be 
+exclusively that. There are important issues of chemical 
+contamination and physical hazards and these vary according to 
+the different products that we regulate. So we cannot do one at 
+the exclusion of the other, but microbial contamination is 
+clearly of a paramount concern to all of us.
+    Point number two, again, a point that has been made 
+already, we need science-based solutions to address this 
+problem and address that all the way from the farm to the 
+table. FDA has a strong tradition of being a science-based 
+regulatory agency. The science enables us first to try and 
+understand truly what the problem is and then to be able to 
+devise solutions that could be scientifically shown to be 
+effective. FDA has initiated a number of food safety programs, 
+and I have a chart over here, that we have ongoing. While I 
+list them there as accomplishments, the accomplishment is 
+really at this point in the initiation and the approach in the 
+issue. We have more work to do.
+    We have programs, you can see, through HACCP. Seafood HAACP 
+was the first HACCP program put into place several years ago, 
+about the same time as the meat and poultry program. We have a 
+new program in good agricultural practices that we are 
+addressing both domestically and internationally. We have a 
+program on juice safety which started with warnings but is 
+proceeding to preventive controls to be sure that all the juice 
+is safe. We have devised with the Department of Agriculture an 
+egg safety action plan to reduce the risk from salmonella 
+enteritidis in eggs.
+    We are working with the Customs Service on an imported 
+foods action plan. We do have a world economy. Imports are 
+skyrocketing in the foods area. We have to be able to address 
+those both at the border but also with an increased overseas 
+presence.
+    We are focusing our domestic inspections on those firms 
+that produce foods at highest risk and have our goal with a 
+budget that Congress is providing to get to those firms 
+annually. We know that prevention is the key, but we cannot 
+prevent everything, and so an effective outbreak response in 
+conjunction with CDC, in conjunction with the State and local 
+authorities, in conjunction with the Department of Agriculture 
+is key and we have been putting in place systems that are more 
+rapidly detecting and containing illnesses. Those are supported 
+by research, risk assessment, and education.
+    Point number three, we have not done this alone and we 
+could not do this alone. The Nation is focused this week on the 
+Olympics. We are all familiar with the five Olympic rings 
+linking the five continents of the world. So, too, in food 
+safety. We have the Federal agencies. We have the State and 
+local agencies. We have the industries, the consumers, and the 
+health professionals. We are all interlinked and must remain 
+so. The system is only as strong, as we know, as its weakest 
+link.
+    Point number four, these programs are already showing what 
+we believe are clear and undeniable results. The CDC data that 
+you are about to see does show actual reductions in foodborne 
+illness, not everywhere, but clearly in areas where we have 
+applied attention and we are gratified on that. We believe the 
+investment to date has been well spent.
+    But point number five, this is just a down payment. We must 
+do more. These programs are working, but they are just 
+starting. We must continue our resolve and go the distance to 
+benefit American consumers, and the strategic plan to be 
+unveiled by the administration this fall by the President's 
+council that Secretary Glickman referenced, we believe will set 
+a blueprint for the future.
+    In conclusion, in just 3-years, we that are involved 
+believe that we have fundamentally improved the Nation's food 
+safety system. There is no turning back, but there is much more 
+work to be done.
+    I am very proud to be working here at the FDA at this 
+critical time and I am especially proud of the hundreds of 
+dedicated men and women at the FDA as well as the many more at 
+all the other agencies who are working tirelessly to make our 
+nation's food supply as safe as it can possibly be. Thank you 
+very much.
+    [The prepared statement of Mr. Levitt can be found in the 
+appendix on page 71.]
+    The Chairman. Thank you very much, Mr. Levitt.
+    Dr. Ostroff.
+
+  STATEMENT OF STEPHEN M. OSTROFF, MD, ASSOCIATE DIRECTOR FOR 
+EPIDEMIOLOGIC SCIENCE, NATIONAL CENTER FOR INFECTIOUS DISEASES, 
+    CENTERS FOR DISEASE CONTROL AND PREVENTION, ATLANTA, GA
+
+    Dr. Ostroff. Thank you, Mr. Chairman, members of the 
+Committee, for the opportunity for us to be here today and to 
+discuss the CDC's role in addressing the challenges posed by 
+foodborne diseases.
+    Much of this country's public health system was built 
+around the control and prevention of food and waterborne 
+illnesses, and I believe that all of us would agree that the 
+century which just ended was largely one of success. Diseases 
+which were common a century ago, like typhoid fever and 
+botulism, have mostly faded from memory and our food supply is 
+nutritious, varied, abundant, and among the safest in the 
+world.
+    However, we also live in a time of rapid change and this 
+has an impact on our ability to deal with foodborne illness. In 
+an era of emerging infectious diseases, probably no area has 
+seen more change than foodborne illness. Let me give some 
+examples.
+    Twenty-five-years-ago, we did not recognize Campylobacter 
+as a foodborne pathogen, yet now we know it is the most common 
+of the major bacterial foodborne threats. Twenty-years-ago, E. 
+coli O157:H7, which today strikes fear in parents throughout 
+the country and is the most common cause of acute kidney 
+failure in children, was unknown. Ten-year- ago, Cyclospora, 
+the parasite which caused large outbreaks linked to Guatemalan 
+raspberries, had not even been identified. And only 5-years-
+ago, no one knew that bovine spongiform encephalopathy, or 
+``mad cow disease,'' posed a threat of fatal human illness.
+    Such a situation occurs because our food supply and 
+production system is highly dynamic. Today's consumers have 
+different preferences and demands than their predecessors and 
+the food supply must keep pace. While today's diversified 
+global food supply brings many benefits, it also brings with it 
+an array of real and potential pathogens. Large-scale food 
+production and distribution brings efficiency and economy of 
+scale, but also creates opportunities for outbreaks of similar 
+size and distribution. New prepared and prepackaged products 
+make life easier in the kitchen, but they also produce new and 
+different risks.
+    Last year, CDC published our first estimates of the burden 
+of foodborne illness in the United States in a number of years. 
+Our findings suggest that there are approximately 76-million-
+episodes of foodborne illness every year. While most of these 
+episodes are mild and self-limited, others are more serious and 
+result in 325,000 annual hospitalizations and 5,200 deaths.
+    Of these 76-million-illnesses, only 18-percent are caused 
+by pathogens that we currently recognize. While some proportion 
+of the remainder of the illnesses may not be due to infectious 
+agents, many probably result from viruses, bacteria, and 
+parasites still waiting to be discovered. With today's 
+technologies, in the next 25-years we will probably find even 
+more disease-causing agents than we did over the last 25-years.
+    Despite our 20th century successes, our estimates of 
+foodborne disease demonstrate that we still have work to do. 
+CDC's major role is to monitor trends in foodborne illness and 
+the factors responsible for these trends. In response, we have 
+worked with our partners at USDA and FDA and in State and local 
+health departments to improve our ability to recognize, 
+monitor, and respond to foodborne illnesses.
+    Among the more significant enhancements are the FoodNet and 
+the PulseNet system. FoodNet is a network of nine sites around 
+the country, as you see on the map, which actively and 
+systematically monitors for the major bacterial, viral, and 
+parasitic causes of foodborne illness, conducts surveys for 
+unreported illnesses, and conduct risk factor studies. The 
+combined population being monitored is 29-million-persons, or 
+11-percent of the U.S. population.
+    PulseNet is the Innovations in Government award-winning 
+system of local, State, USDA, and FDA laboratories which does 
+molecular fingerprinting of bacterial foodborne pathogens, 
+allowing prompt recognition of large and small foodborne 
+outbreaks so that interventions can occur earlier and disease 
+prevented. Currently, 48 public health laboratories in 46 
+States take part.
+    FoodNet and PulseNet are powerful tools which harness 21st 
+century technology to give us insights into patterns of 
+foodborne disease not previously available. Because the FoodNet 
+data are systematically collected, for the first time, we can 
+actually evaluate trends over time and across sites, helping to 
+prioritize interventions such as HACCP and then see their 
+impact on disease occurrence.
+    Since FoodNet was started in 1997, we have seen some very 
+positive trends. Among all the bacterial pathogens being 
+monitored, we have seen approximately a 20-percent decline in 
+the incidence of disease caused by these organisms, which 
+translates into 855,000 fewer illnesses in 1999 compared with 
+only 2-years earlier. Encompassed in these declines is a 22 
+percent drop in E. coli O157, a 26-percent decline in 
+Campylobacter, a 44-percent decline in shigellosis, and a 48-
+percent decline in Salmonella enteritidis, the type of 
+salmonella which is associated with eggs. Cases of Cyclospora 
+have essentially dropped to zero since FDA took actions related 
+to Guatemalan raspberries.
+    Since these trends are consistent across FoodNet sites, we 
+believe they are real and strongly suggest that the food safety 
+interventions taken over the last few years have had a 
+positive, measurable impact.
+    One trend which is not improving is antibiotic resistance 
+among foodborne bacterial pathogens. CDC and FDA monitor such 
+resistance through the National Antibiotic Resistance 
+Monitoring System. Between 1980 and 1999, the percentage of 
+Salmonella strains resistant to at least one antibiotic has 
+increased from 15-percent to 26-percent, while the proportion 
+which were multi-drug resistant increased from 12- to 21-
+percent. Clearly, more needs to be done in this area, which has 
+a direct impact on our ability to take care of patients with 
+these diseases. Of note, as we meet, another hearing chaired by 
+Senator Cochran is taking place in the Labor-HHS Subcommittee 
+of the Senate Appropriations Committee to see what can be done 
+to address this serious problem.
+    CDC is committed to work with our partners in government, 
+industry, and the consuming public to continue to improve our 
+ability to monitor, control, and prevent foodborne illness. We 
+have defined core capacities at the State level to address 
+foodborne illness and will soon make our outbreak data more 
+readily available on the Internet to our partners and to the 
+public. We will also periodically update the foodborne illness 
+burden estimates as we hopefully expand the scope and breadth 
+of our monitoring systems.
+    The recent FoodNet data suggests efforts to improve food 
+safety are bearing fruit even with the challenges of a changing 
+food supply. We hope to be able to report continued improvement 
+to you in the future as we work together to improve food 
+safety. I thank you and will answer any questions that you may 
+have.
+    [The prepared statement of Dr. Ostroff can be found in the 
+appendix on page 94.]
+    The Chairman. Thank you both. The testimony you have 
+presented, I think, is fascinating in implications for those of 
+us who are semi-amateurs looking in at your work.
+    To begin with, the figure you have used, as did the 
+previous panel, 76-million Americans having a problem here is a 
+very significant number. It is one of every four of us in this 
+room, on average, each year. But then beyond that, as you say, 
+some of this is temporary, but 325,000 hospitalizations. So the 
+health care costs associated with this situation is a profound 
+figure. Have any of you come to that idea of what we are 
+talking about in terms of the incidence of health care costs?
+    Dr. Ostroff. We are in the process of doing economic 
+analyses, both looking at the costs of the illnesses as well as 
+the relative efficacy of interventions from an economic point 
+of view.
+    The Chairman. If we were in a different committee at a 
+different time, we would be talking about Medicaid and 
+Medicare, health insurance. Obviously, this is not----
+    Dr. Ostroff. But this is a substantial cost, there is no 
+question about it.
+    The Chairman. I would think so. So one of the cost-benefit 
+ratios of all this has to be what kinds of investments can be 
+made in the kinds of work that you are doing and USDA and what 
+kind of payoff there is going to be. Now, in addition to 
+limiting human suffering, the incidence with regard to our 
+medical costs and our health care costs could be significant.
+    Dr. Ostroff. Right, and there is no question, if you look 
+at these data, that suggests that there are probably close to a 
+million fewer illnesses than there were 2-years ago, and 
+especially since what we are monitoring here is among the more 
+severe of the bacterial pathogens, that impact has also been 
+significant in terms of cost saving.
+    The Chairman. Sobering in all of this, though, is the 
+figure then that modifies the 76 in which you said that maybe 
+only 18-million of these cases out of the 76, less than one out 
+of four, actually can be traced to the pathogens that we know 
+about now.
+    Dr. Ostroff. That is correct. Actually, it is 14-million. 
+It is 18-percent.
+    The Chairman. Oh, I see, 18-percent. So is daunting because 
+out there somewhere, the other 50-some million people may have 
+had something we do not know about. You sort of charted the 
+times of discovery of the various things we do know about so 
+that we have those on the radar screen at least, and we can 
+argue as to how well we are proceeding with that, but the 
+unknown, we do not know. How much time and money is being spent 
+trying to discover the rest of it, how the other 50-some 
+million Americans become ill?
+    Dr. Ostroff. I think all of the agencies are looking to 
+identify additional agents that may be responsible for 
+foodborne illnesses. We see disease outbreaks very often, and 
+some of it is due to technological limitations where we cannot 
+identify what the causative agent is. We have a condition, one 
+that comes to mind is something called Brainard diarrhea, which 
+causes a chronic diarrheal illness, and we have had outbreaks 
+caused by this over the years and we have looked and we have 
+looked and we have looked and we cannot quite identify what the 
+pathogen is.
+    It is a dynamic era. We see this all the time, not only in 
+the foodborne disease arena but in all the other areas that we 
+deal with, emerging infectious diseases, that there are lots of 
+other agents out there yet waiting to be found and it is a 
+challenge for anyone that deals with food safety, whether it is 
+at the Federal level, at the State level, in the academic 
+setting, etc., I think that over the coming years, we will 
+clearly identify additional pathogens that we just simply have 
+not had the technology to be able to find yet.
+    The Chairman. You have identified a network of people in 
+your agency or allied with that are monitoring all the time the 
+situation, but do they monitor situations--for instance, we had 
+in the Committee a while back Senator Abraham of Michigan and 
+he was here along with some parents who were aggrieved about 
+strawberries.
+    Dr. Ostroff. I remember that one well.
+    The Chairman. For instance, from things like that, do you 
+see patterns or do you see an incident bobbing up and do you 
+immediately go to the source, I suppose, to try to find is it 
+something new, is it something different----
+    Dr. Ostroff. Oh, absolutely. Absolutely.
+    The Chairman. Is that a way of discovery, then, of----
+    Dr. Ostroff. Outbreaks are always unfortunate. I mean, I 
+would love to be put out of business, to never see an outbreak 
+of any disease. But in point of fact, they are very valuable to 
+us. They very often are the sentinel event that tells us that 
+something new and different is occurring. Whether that new and 
+different thing may be a new pathogen that we have not seen 
+before or may represent a new risk factor, because again, the 
+food supply itself is dynamic and changing, so over time you 
+recognize patterns of disease outbreaks that have different 
+causes and different reasons for occurring.
+    So from our perspective, it is very important to 
+investigate as thoroughly as possible every outbreak that we 
+see because you just never know when you are going to recognize 
+some new and different threat that----
+    The Chairman. But back there at central headquarters, when 
+something bobs up at all in America, you go after it.
+    Dr. Ostroff. Well, you know, the responsibility for doing 
+so rests at the State level. We are a non-regulatory agency and 
+we do not have authority to go out and actually investigate. We 
+do so at the invitation of the appropriate State health 
+department.
+    The Chairman. I see. So until a State health department 
+calls you, you are sort of mute back there?
+    Dr. Ostroff. Well, we can offer assistance even if they do 
+not call us to come out into the field such as, accepting 
+specimens to do advanced diagnostics to find the causative 
+agents, assisting them with their investigations, etc..
+    The Chairman. Are these State groups usually pretty quick 
+in calling you, or----
+    Dr. Ostroff. They are very cooperative and it has been very 
+helpful to us. We have used many of the resources that we have 
+gotten through the food safety initiative to channel them to 
+the State health departments and even to the local health 
+departments, so they can do their job better, and that creates 
+a network, a network not only within our traditional partners 
+in the State health departments, but also in the Department of 
+Agriculture, etc., so that we can actually work better to 
+respond to these problems.
+    The Chairman. Earlier, we were discussing the salmonella 
+with regard to ground beef, but the salmonella you have here is 
+with regard to eggs. There has been a 48-percent reduction in 
+terms of illness over the course of this period of time you are 
+graphing here. How important is the salmonella situation? 
+Clearly, that has come to the fore because of the court case 
+and one of the impetus of this hearing, but give us some 
+perspective as to how important it is.
+    Dr. Ostroff. It is important for several reasons. One is 
+that it is among the most common of the bacterial foodborne 
+causes of disease. It usually runs neck and neck with 
+Campylobacter, being the more recent one. Campylobacter, 
+generally, in most of the surveys, you find the incidences 
+higher than Salmonella, but the severity of illness is 
+significant. We do know that in terms of fatalities, that it is 
+among the big three.
+    The Chairman. What are the other two?
+    Dr. Ostroff. One is a parasite called toxoplasmosis, 
+something that has not been discussed, and the third one is 
+Listeria. Those, among the known pathogens, account for about 
+75-percent of all of the foodborne-related deaths. So it is a 
+very significant pathogen. You are talking about millions of 
+cases of illness every year and those are the ones that 
+basically we know about. So ability to deal with and control 
+the occurrence of Salmonella would have a significant impact on 
+the burden of foodborne illness.
+    The Chairman. What would be your comment--as you recall in 
+the court case last December, there was a separation between 
+the idea of a sanitary plant and the idea of a specific 
+standard for salmonella. These were two different things, at 
+least the court apparently found that they were. What sort of 
+comment would you have about that?
+    Dr. Ostroff. Well, the only thing that I would say is that 
+it is hard for us as a non-regulatory agency to comment on 
+regulatory issues, but we are also an agency that likes to 
+measure. That is what we do. We measure incidence and 
+occurrence of many things and I think that the more we can 
+define objective, measurable standards, the more likely we are 
+to have something that we can hold ourselves against and seek 
+to achieve.
+    The Chairman. Well, that is probably true. Now, looking at 
+it from our standpoint in Congress, should we have written the 
+law in a different way? In other words, is it possible that 
+someone could say, well, the law as it is written says the 
+plant must be sanitary. It does not say the salmonella 
+prevalence must be such or that you cannot have any.
+    Dr. Ostroff. Right.
+    The Chairman. In other words, as legislators, should we 
+sort of go down this chart and say, in essence, in your plant, 
+our tolerance is zero for salmonella, that is the law, so it is 
+unambiguous? Granted, I understand what you do, but I am asking 
+you for advice as a witness on what the law of the land should 
+be.
+    Dr. Ostroff. My personal belief, and again, this is not an 
+agency position, my personal belief is similar to what Senator 
+Kerrey said. It is not that you can just focus on one 
+particular thing. I do not think that it should be an either/or 
+situation, to say that either it ought to be sanitary or you 
+ought to have this standard. Quite frankly, I think that both 
+are important. I think the more opportunities that we have to 
+limit the burden of pathogens in the food supply, the more 
+likely it is--and I hate to use that term ``more likely,'' but 
+Senator Kerrey is right, it is associations--the more likely it 
+is that we will reduce the incidence of disease.
+    The Chairman. Mr. Levitt, you heard earlier some discussion 
+by Senators as well as witnesses about the role of FDA and the 
+role of USDA in all of this and whether we need to clarify who 
+does what. What is your own view? You are here for the FDA and 
+obviously proud of the work that you and your associates are 
+doing, but it does appear that there is some confusion as to 
+the history of this, starting with the laws in 1906 and 
+progressing through the history we heard in the 1930s and 1940s 
+that may have come from enthusiasm of the Agency, a President, 
+the Congress, whoever initiated these situations. But what 
+would be your own recommendation as to how we get this back 
+under control where we have some unity of effort?
+    Mr. Levitt. I think, number one, the FDA does regulate 
+about 80-percent of the food supply.
+    The Chairman. Eighty percent?
+    Mr. Levitt. Yes. I think the number in testimony is 78.
+    The Chairman. I see.
+    Mr. Levitt. And so when somebody suggests that the majority 
+of outbreaks are on products that are under our purview, well, 
+most of the products are under our purview. To the extent that 
+people thought originally because of some of the early episodes 
+that the real problem on food safety was ground beef simply, 
+that is wrong. We have found problems throughout, and to the 
+extent that these organisms are in the environment, they get 
+into different products. And so that is why we have this long 
+litany of programs addressing the different kinds of product 
+areas--a program for eggs, a program for fresh fruits and 
+vegetables, a program for seafood. We need to look at each of 
+these on their merits and I think we have tried to go in a 
+risk-based way on how to apply and get that cup a little more 
+full with each successive year. So I think point one is, we do 
+have a lot of responsibility in this area.
+    Two is that we feel that a strong part of our history--I 
+think each agency, we have our strengths. FDA's strength is 
+strong science and know how and bang for your buck. One of the 
+large food safety scares back in the 1970s was a concern about 
+botulism. It was not a concern, it was a reality of botulism in 
+canned food and FDA very quickly--this is all clearly before my 
+time--brought to the fore the science, what do you need to do, 
+and came forward with the low-acid canned food regulations 
+which are the predecessor to today's HACCP regulations. So it 
+is an agency that has traditionally risen to the occasion.
+    What these kind of issues do is they raise the issue of 
+coverage, of resources. We have over the last 3-years within 
+the FDA under the food safety initiative, most of the increased 
+funding has gone to the food part of the FDA, and I think we 
+all feel that is needed and we all anticipate probably a lot 
+more will be needed and GAO will have words to say, I am sure, 
+on the resource front.
+    But I think the critical issue is, do we have, if you will, 
+our eye on the ball? Are we addressing these problems in a way 
+that is achieving real results? And if we are, then we need to, 
+a combination of stay the course and accelerate the course. We 
+have a program that is getting the job done. We are all 
+impatient. Impatience here is good. We want it to go faster 
+than maybe it does. There were some other discussions about how 
+long things take. Change takes time. We wish it would take less 
+time.
+    We have a conundrum of one of the safest food supplies in 
+the world, and yet looking at these numbers, we want to make it 
+even safer. And so I think we need to continue to approach it 
+in a way that is getting us somewhere, that is cost effective, 
+that is receiving real results, and that we have to also 
+realize we have to change a little with time.
+    I see Senator Harkin has rejoined us. I had the 
+opportunity, Senator, earlier this week at a conference of--not 
+a food safety conference but a different conference where you 
+were not able to come in person but you were able to send a 
+video and you talked there about the difference between the 
+torch bearers that are moving into the future and the 
+pallbearers that are trying to return to the past. I think in 
+this setting we feel very much that we are the torch bearers. 
+All of us are the torch bearers moving ahead on food safety.
+    We have a system that has been in place for a long period 
+of time. We have changes that are going on all around us--the 
+global economy, the changes in the demographics of the 
+population with a greater number of elderly and immune-
+compromised in the population, more people eating outside the 
+home.
+    We have not talked much about retail. One thing FDA has is 
+while the States have the primary responsibility for retail, 
+the FDA has put out and established what we call the food code, 
+which is a set of model recommendations to States and States 
+are adopting it more and more. We wish it were faster, but we 
+are proceeding.
+    So we have in place a system that while imperfect is 
+filling up that glass, and we have very much benefitted by 
+Congress' support in the area of funding, and as I said, in the 
+administration's plan, we are trying to lay out what we think 
+we need over the long haul.
+    The Chairman. Let me, while Senator Harkin is getting his 
+breath, ask Senator Kerrey to continue the questioning.
+    Senator Kerrey. Thank you very much, Mr. Chairman.
+    First of all, I appreciate both the witnesses' testimony 
+and obviously successful efforts in making our food supply 
+safer. What concerns me still is that we talk about regulating 
+using science but we oftentimes do not.
+    For example, Dr. Ostroff, I do not think there is really 
+any scientific basis for this chart that you put up here. I 
+mean, there is no question there has been declines in foodborne 
+illnesses of a million. I do not question that. But as to 
+whether that was caused by CDC's program, which was at least 
+inferred in the testimony, that CDC's program produced that 
+reduction. My guess is you do not have a scientific basis for 
+that evaluation. It may have occurred as a consequence of 
+parents and other consumers watching television and learning in 
+the process of the 0157:H7 debate that they have got to cook at 
+180 degrees and you could see the reduction occurring just 
+because people are not ordering rare hamburger anymore, medium-
+rare product as a consequence of acquiring some understanding 
+that came as a result of now being more afraid of eating the 
+product than they were before.
+    I presume that you have not done a scientific evaluation in 
+order to produce that chart, although I would say it is likely 
+that the chart will be reused in arguments, that there have 
+been a million fewer illnesses, etc.. That there is a cause and 
+effect relationship may not be quite as obvious as the chart at 
+least implies that there is.
+    Dr. Ostroff. Well, first of all, it is not CDC's program. 
+We again are not taking the regulatory actions. We obviously 
+have participated in trying to get the prevention messages out, 
+to conducting the investigations to identify the risk factors, 
+etc..
+    Senator Kerrey. I was less under the impression that you 
+were making the case that FoodNet had produced substantial 
+successes and that----
+    Dr. Ostroff. No. Before we had such a system which 
+systematically and methodically uses the same exact technique 
+year after year after year to accumulate the data, when we saw 
+changes, either up or down, we were never confident that those 
+were true changes, that they could simply be artifact. The 
+State of Nebraska may have changed the way that they do 
+monitoring of foodborne illnesses, and so from 1-year to the 
+next they all of a sudden see more disease.
+    We have had many instances where we have had what we refer 
+to as pseudo outbreaks, where all of a sudden we have 
+laboratories that start testing for a pathogen and you see a 
+tremendous upsurge in the number of cases of E. coli or 
+something like that and it is not real. It is simply because 
+there was a change in the practices of the monitoring.
+    But because we have the FoodNet and we have the sites doing 
+the same thing exactly the same way from 1-year to the next, we 
+are in a position now to say that these trends do actually 
+represent reductions. But what I cannot say, and you are 
+absolutely correct, is that it may be true, but unrelated. I 
+mean, it could be both.
+    Senator Kerrey. You say there are 5,200, approximately, 
+deaths a year----
+    Dr. Ostroff. Correct.
+    Senator Kerrey.--that occur as a consequence of food 
+illnesses----
+    Dr. Ostroff. Correct.
+    Senator Kerrey.--and 360,000 hospitalizations that occur as 
+a consequence of food----
+    Dr. Ostroff. Correct.
+    Senator Kerrey. Do you have data that allows us as policy 
+makers to try to figure out how much money to put in education, 
+how much and how to regulate? Do you have data that allows us 
+to know what it is that is killing American people, what is 
+producing the deaths?
+    Dr. Ostroff. Well, again, as was pointed out before, for a 
+substantial proportion of those deaths, the pathogen is not 
+identified. However----
+    Senator Kerrey. Does that mean you are not certain that it 
+was a foodborne illness?
+    Dr. Ostroff. No, we are not certain. We know that it was 
+food associated, but we do not exactly know what the causative 
+pathogenic agent was. In other words, the microbe has not been 
+identified.
+    Senator Kerrey. Does that mean you are not certain--I mean, 
+you have 5,200 deaths a year. Do you have data for each one of 
+those deaths or is that an extrapolation from a smaller set?
+    Dr. Ostroff. No, it is an extrapolation.
+    Senator Kerrey. An extrapolation from a smaller sample?
+    Dr. Ostroff. Right.
+    Senator Kerrey. You have deaths that are occurring, and are 
+you able then to break that down to guide us? I mean, I take 
+Mr. Levitt, and I presume you agree with Mr. Levitt's five 
+things, that the first order of business has got to be 
+scientific based, and we should have both our regulation and an 
+education effort be scientific based. And part of our purpose 
+on this committee is trying to decide what the regulation ought 
+to be. We heard USDA earlier making an appeal for increased 
+authority to regulate.
+    Mr. Levitt. Right.
+    Senator Kerrey. And we are trying to figure out, should we 
+give increased authority. Will that increased authority reduce 
+the number of deaths, reduce the number of hospitalizations, 
+reduce the number of foodborne illnesses? So it seems to me 
+that from you, we need to be able to track this in a more 
+precise fashion.
+    Dr. Ostroff. Right. You know, there are many thins that are 
+occurring at the same time--consumer education, the HACCP 
+regulation, changes on the farm, changes in handling after 
+product leaves the plant. It is difficult for us to say what 
+the relative contribution of each of those changes is to the 
+reductions that we see. All we can say to you is that based on 
+the monitoring systems that we have in place, we do see 
+reductions in the number of illnesses. We have to believe that 
+the reasons behind those reductions----
+    Senator Kerrey. Let me give you an example, Dr. Ostroff. 
+Let us say Congress passes a law and says that the United 
+States of America will not accept any food imports whatsoever. 
+We will guard our borders. No more food from outside the United 
+States is going to come in. Consumers of America are going to 
+have to eat only those things that are grown and processed 
+here. Will that reduce the number of deaths in America as a 
+consequence of foodborne illnesses?
+    Dr. Ostroff. We have always maintained that we do not have 
+data that suggests that food that comes into the country from 
+overseas is any riskier than food which is produced 
+domestically. All we know is that the patterns of the----
+    Senator Kerrey. Does that apply to all countries, Dr. 
+Ostroff, or just to----
+    Dr. Ostroff. All I know is that we have no data right now 
+that shows we see more foodborne disease associated with 
+imported products on a relative basis than we----
+    Senator Kerrey. Do you have sufficient data to reach that 
+conclusion, do you think, or----
+    Dr. Ostroff. We do not have data that tells us that one is 
+riskier than the other. All we do know is that the patterns of 
+pathogens that we see in foods that come into the country 
+versus foods that are produced domestically are different.
+    Senator Kerrey. My own view is that we would be on sounder 
+ground, especially on the regulation side, to track these 
+deaths from foodborne illnesses back into regulatory responses. 
+Whatever the regulatory response is, let the science and let 
+whatever is happening out there with consumers guide our 
+decisions both on regulation and on education, because I think 
+what is happening is not that, and I acknowledge that in 
+politics it is rare that we use science to evaluate what it is 
+that we are doing.
+    Dr. Ostroff. Right.
+    Senator Kerrey. But it seems to me that when you are 
+dealing with something like the food supply of this country, 
+that it should, and it seems to me the most important indicator 
+is the ones that you provided. Even though you have 
+extrapolated it from smaller samples and you are not 100-
+percent certain, it seems to me that the beginning point ought 
+to be people that you think that have died as a consequence of 
+consuming food in the United States or who were ill as a 
+consequence of consuming food and we ought to track that back 
+and produce a regulatory response that tries to reduce those 
+numbers.
+    Dr. Ostroff. What I can say is that at the same time that 
+we have noticed these reductions in the incidence of foodborne 
+disease caused by these pathogens, we have also seen reductions 
+in, and I hate to use the term ``prevalence'' again, in the 
+prevalence of organisms in the various products that are being 
+assessed. While it is possible that those are completely 
+unrelated to each other, that it is a chance coincidence, you 
+have to believe that since it is biologically plausible that 
+there is a cause and effect there.
+    Senator Kerrey. What I am suggesting is that our response, 
+our regulatory response needs to begin with the thing that 
+provokes the most concern. The most concern amongst consumers 
+is, and indeed, I drink this water comfortably as a consequence 
+of presuming that the Washington, D.C., water supply is safe. 
+You are drinking a glass of water there. Have you checked out 
+our ice machine?
+    Dr. Ostroff. Not today.
+    Senator Kerrey. Perhaps you should before you drink it. I 
+do not know. So I am consuming based upon believing that I can 
+drink this glass of water without either getting sick or dying, 
+because I prefer not to have either one of those two things 
+happen. So it seems to me that our regulatory response should 
+begin with that concern, and I am not sure it does. I am not 
+sure it does at all. We have a HACCP system that is supposed to 
+be paying attention to critical control points, but I see less 
+science than I would like when it comes to trying to evaluate 
+what our regulatory response ought to be in our food 
+industries, and I thank you.
+    The Chairman. Thank you very much, Senator Kerrey.
+    Senator Harkin.
+    Senator Harkin. Thank you very much, Mr. Chairman. Again, I 
+am sorry I had to leave. We had to report some bills out of 
+another committee, so I had to leave for a little bit.
+    Mr. Levitt, first, I just want to say that I am happy to 
+see that FDA is making progress in picking up review of new 
+food safety technologies, especially in the area of--we had to 
+deal with packaging materials for electron beam irradiation.
+    Mr. Levitt. I remember that.
+    Senator Harkin. I am glad we got that through. I often 
+wonder, why did it take so long? I mean, we had packaging 
+materials that were safe for gamma ray radiation which any 
+scientist will tell you, if it is safe for that, it has got to 
+be perfectly safe for electron beam irradiation, yet it just 
+took months and months. It just drug on and on, and finally we 
+got it, but I wonder why it just took so long to do that. I am 
+happy we finally got it done.
+    I am also concerned about FDA's labeling on electron beam 
+irradiation. Processors and manufacturers still have to put 
+that symbol on there and I am wondering why. Why do you have to 
+put that symbol on there? Why don't you allow alternatives? Why 
+do we have to continue with this, what do they call it--I 
+forget the name of it, that symbol you put----
+    Mr. Levitt. The radura symbol.
+    Senator Harkin. Yes, the radura symbol, that is right. Why?
+    Mr. Levitt. The background on the labeling for food 
+irradiation is that FDA's labeling regulations and laws are 
+based on has something changed about the food that we would 
+consider a material fact for consumers to know. And in the case 
+of food irradiation, when the safety determinations were made, 
+with which we have very high confidence, there was also a 
+conclusion made that the irradiation process can make some 
+changes, if you will, in kind of the texture or the quality of 
+the food in terms of how it feels, not how safe it is. And so 
+the conclusion was made that we needed to put that on the label 
+as a material fact.
+    Now, we have received a lot of comment on that point from 
+opposing sides. We have consumers that are saying we must know. 
+It is very important for us to know if this is used. We have 
+others from the industry that have argued forcefully it is 
+scaring people. It is, if irradiation is going to help, we have 
+to be able to use it in a way that is consumer friendly, if you 
+will.
+    Senator Harkin. Well, I like to call it electron beam 
+pasteurization because it is closer to a pasteurization process 
+than it is to a radiation process. We are not using any kind of 
+nuclear materials or anything like that for gamma rays. This is 
+only electron beams. It is similar to the electron beams in a 
+microwave, not quite the same, but similar. So to use that 
+terminology is a holdover from the past when, in fact, it was a 
+gamma ray radiation.
+    Mr. Levitt. We did issue an advanced notice of proposed 
+rulemaking and we will be proceeding ahead to kind of relook at 
+the issue.
+    Senator Harkin. Well, I hope so, because I think you----
+    Mr. Levitt. I cannot say how that relook will come out, but 
+I know there is a lot of interest, certainly from you, from a 
+number of other members of the Congress. In our appropriations, 
+I believe we are being directed to pursue vigorously ahead on 
+that, and so we will be relooking at that issue.
+    Senator Harkin. Do you not agree that, that is a 
+significant step that can be used to significantly reduce 
+pathogens in food and food products?
+    Mr. Levitt. I would certainly agree. We have----
+    Senator Harkin. That does not absolutely ensure it. 
+Obviously, when it gets into consumers' hands, if they 
+mishandle it, obviously, you cannot prevent that.
+    Mr. Levitt. But again, you look at the numbers of and the 
+scope of the problem. If we have a tool, whether it is food 
+irradiation or other technologies, we need to be able to use 
+those tools effectively to make the food supply as safe as 
+possible--we are in 100-percent agreement on that.
+    Senator Harkin. Well, this is just in the beginning and 
+obviously there are storage, transportation, consumer 
+information, ``Fight BAC,'' all the other things you and USDA 
+are doing, which are good.
+    Mr. Levitt. Right.
+    Senator Harkin. But I am glad to hear you are moving ahead 
+on that.
+    On another topic, seafood--I am told that a large part of 
+the seafood industry still fails to comply with the seafood 
+HACCP rule that you have had for a couple of years now. In 
+addition FDA still has not addressed concerns with mercury in 
+seafood that Senator Leahy and I have repeatedly asked you to 
+address.
+    Two questions. Why is it taking so long to get seafood 
+processors compliant with HACCP and what are your plans for 
+addressing mercury in seafood?
+    Mr. Levitt. Let me begin with seafood HACCP. Again, it is a 
+little bit of a half empty, half full story. We believe that we 
+are and the industry is making truly significant progress. We 
+are dealing with an industry that prior to this regulation in 
+December of 1997 was very much, if you will, in the old school 
+of how to produce food, and we have worked through what we call 
+a seafood HACCP alliance with training with the industry. We 
+have produced something called the Fish and Fishery Products 
+Hazards and Control Guide, which is an over 200-page manual 
+addressing how to do seafood HACCP right.
+    Now, we are dealing with over 150 species of fish and we 
+are dealing with, for the most part, an industry with small 
+businesses throughout. We recognize that and try to put into 
+place, if you will, a progressive program, where year one we 
+went out and inspected and the good news was out of the 4,000 
+domestic processors, 1,000 got it right the first time, and we 
+have a very rigorous rating system. We grade these plants on 11 
+different types of hazards that could apply there, and if the 
+company passes on ten and does not pass on the eleventh, they 
+do not get an overall passing grade. So the overall grade is 
+designed to encourage comprehensiveness in approach.
+    The second year, we have got a lot of progress. The third 
+year, we are seeing more. We are also losing patience. We also 
+took our first enforcement action just a short time ago and we 
+have entered into a consent decree of injunction with one 
+company that simply was not getting it at all. And so there is 
+a limit, that we feel if it is raising a public health issue, 
+the company has had time, then we need to take the next step.
+    But we feel that if you look at it as a whole, each year we 
+are making clear progression. The industry is seeing it. There 
+was an interesting survey done or study done--we did not even 
+know anything about it--by a sea grant college up in 
+Stonybrook, New York, which did their own survey of the 
+industry. And what they found and documented was that, that 
+industry is going through an entire thought change on what it 
+means for food safety. They are looking and identifying their 
+hazards. They are putting in, what are the control points that 
+are critical? What are the limits that I have to meet? What is 
+the verification? What is the monitoring? What is my built-in 
+corrective action? This is an entirely new way of doing 
+business.
+    Based on what limited baseline data we had, we are 
+progressing ahead. The reality is, we are probably on a 5-year 
+plan to get to where everybody would like to be. But I think 
+that we feel so long as we are seeing progress and that we 
+should continue in this direction.
+    At the same time, we have to realize maybe we need to make 
+some mid-course corrections. We are doing that in two ways. 
+Number one, we are looking and evaluating to say where are most 
+of the problems we are seeing and really channel the next 
+degree of training and inspections focusing on where the 
+biggest problems are.
+    Second, our program, seafood HACCP, has been cited for an 
+inadequate amount of testing that is done, and beginning in 
+this coming fiscal year--we actually started last year partway 
+through the year to increase the testing, but we will be 
+increasing our verification testing that FDA will be doing when 
+we go out and inspect in the 2001 cycle. So we are trying to be 
+responsive but also realize that if we are moving ahead, again, 
+let us continue to press. We do not mind being tough graders. 
+We think that is important. So again, we think the cup is half 
+full and getting fuller, but we know it is a work in progress. 
+We know we are not all the way there.
+    Senator Harkin. I appreciate that. I think in your 
+testimony you said that your HACCP requirement requires all 
+4,100 seafood processors and 150 species of fish to complete 
+HACCP systems.
+    Mr. Levitt. Right.
+    Senator Harkin. Beginning in 1998, your goal has been to 
+inspect domestic seafood processors annually. Is that still 
+your goal, just once a year?
+    Mr. Levitt. Yes, and within our, if you will, world, that 
+is----
+    Senator Harkin. How would you feel if we just had meat and 
+poultry inspections once a year, that someone came by a plant 
+once a year?
+    Mr. Levitt. That is really not my area.
+    Senator Harkin. Well, I know it is not your area, but 
+people eat seafood like they eat meat and poultry. Again, I am 
+not taking you to task. What I am trying to do is to make a 
+point. In your testimony, you said you cover 78-percent of all 
+domestic and imported food. That means Agriculture does the 
+other 22-percent.
+    Mr. Levitt. Right.
+    Senator Harkin. Yet their budget for food safety and 
+inspection is, what, three times yours? So you are covering 
+three times as much food with one-third as much money.
+    Mr. Levitt. That is correct.
+    Senator Harkin. Well, I am saying there is a problem there.
+    Mr. Levitt. Right, and that is why we have been requesting 
+increases, and I know you are a member of the Appropriations 
+Committee and you have been supporting those.
+    Senator Harkin. I sure have.
+    Mr. Levitt. And as I said, I think that the investment is 
+paying off.
+    Senator Harkin. Let me ask you another pointed question, 
+Mr. Levitt. How good is your tracing ability? If there is an 
+outbreak of illness due to seafood, how good do you think your 
+tracing ability is to trace it back to the source and to find 
+out where other elements of that seafood may have been 
+distributed?
+    Mr. Levitt. I think in terms of ability--I will get to 
+authority, but let us start with ability.
+    Senator Harkin. Ability, yes.
+    Mr. Levitt. Ability to do it is improving. We all think we 
+need to continue to get better at it. That is both FDA in 
+conjunction with CDC and the----
+    Senator Harkin. Well, CDC obviously has a part of this, 
+too.
+    Mr. Levitt. Right, and the State and local health officials 
+do, also. We are working hard at it and getting better at it, 
+but it is difficult.
+    Senator Harkin. It is my information--again, I could be 
+corrected, and I ask Dr. Ostroff if he wants to chime in on 
+this--that when it comes to meat and poultry, that the tracing 
+ability, both of FSIS and CDC in conjunction with them, is 
+pretty darn good. They can trace an outbreak back pretty well. 
+But in terms of seafood, it is not that good. That is just my 
+information and that is why I asked you the question.
+    Mr. Levitt. Yes. Well, I mean, it kind of goes back to one 
+of the initial perceptions----
+    Senator Harkin. OK.
+    Mr. Levitt.--which was probably true at the beginning of 
+the century when the laws were set up, which is that the meat 
+by its nature poses a greater hazard than the other products 
+which are now regulated by FDA. And so different statutory 
+systems were set up that were felt to be appropriate with each.
+    What we are seeing today is that the hazards have changed, 
+the foods implicated have changed, and we are needing to keep 
+up and being sure all our programs are modernized, and I think 
+you are speaking directly to the need for that.
+    Senator Harkin. Exactly.
+    Mr. Levitt. So I think we would agree.
+    Senator Harkin. Thank you. I appreciate that. Thank you 
+very much, Mr. Chairman. I know you have to move on. We could 
+go on with this panel for a long time.
+    The Chairman. Well, thank you. We could, indeed, and we 
+really appreciate your working with us, really, throughout what 
+has been an hour or more of testimony.
+    Mr. Levitt. It was our pleasure. Thank you very much.
+    The Chairman. Thank you for coming and for your 
+achievements.
+    Dr. Ostroff. And thank you for your attention to this 
+matter. We appreciate it very much, Mr. Chairman.
+    Mr. Levitt. Thank you.
+    The Chairman. The Chair would like to call now a panel that 
+will include Mr. Lawrence Dyckman, Director of the Food and 
+Agriculture Issues at the U.S. General Accounting Office; Dr. 
+Michael Doyle, Director of the Center for Food Safety and 
+Quality Enhancement, University of Georgia, Griffin, Georgia, 
+on behalf of the Council for Agricultural Science and 
+Technology; Mr. Dane Bernard, Vice President, Food Safety 
+Programs, National Food Processors Association, Washington, 
+DC.; Dr. Donna Garren, Vice President of Scientific and 
+Technical Affairs, United Fresh Fruit and Vegetable 
+Association, Alexandria, Virginia; Dr. Gary Weber, Executive 
+Director, Regulatory Affairs, National Cattlemen's Beef 
+Association, Washington, DC.; Dr. Ann Hollingsworth, President 
+of the American Meat Science Association, Carrollton, Georgia, 
+on behalf of the American Meat Science Association and the 
+American Meat Institute; Ms. Caroline Smith DeWaal, Director of 
+Food Safety, Center for Science in the Public Interest, 
+Washington, DC.; and Mohammad Akhter, MD, Executive Director of 
+the American Public Health Association in Washington, DC.
+    Senator Harkin. While these witnesses are taking their 
+seats, I wonder if I might just ask Mr. Billy a question here. 
+I am sorry I had to leave early. Mr. Billy, I am going to put 
+this in the record but there is a report, and let me just read 
+it to you. ``Using fluorescent spectroscopy, the ARS 
+researchers and Iowa State University chemist Jacob W. Petrich 
+built a detector that illuminates unseen fecal contamination on 
+meat. Petrich says the device is adaptable to any size packing 
+plant. As a hand-held unit, similar to a metal detectors used 
+in airports, the instrument could alert meat packers to fecal 
+contamination within seconds. The contaminated carcass could 
+then be sanitized before the contamination spreads.'' Do you 
+know about that and do you know if that technology is being 
+utilized or what is being done with it?
+    Mr. Billy. I am aware of the research that is going on and 
+I think it is very promising, and I think it offers the 
+potential to see changes in how we examine carcasses using that 
+kind of technology. We are planning to hold another technology 
+conference and feature that kind of new development. We think 
+it is a terrific new development.
+    Senator Harkin. Would you work with my staff on this? I 
+want to see, if this technology really works, why are we not 
+implementing this? This seems to me another device or another 
+way we could use to really cut down on fecal contamination.
+    Mr. Billy. Oh, I agree----
+    Senator Harkin. I just wondered if you were aware of it.
+    Mr. Billy.--and that is the source of a lot of pathogens, 
+so it is a real--very vital area to what we are trying to do.
+    Senator Harkin. Thank you, Mr. Billy. Thank you, Mr. 
+Chairman, for indulging me.
+    The Chairman. Thank you, Senator Harkin. Thank you again, 
+Mr. Billy.
+    I will ask you to testify in the order that I introduced 
+you, and let me mention that, in fact, testifying on behalf of 
+the American Public Health Association will be Dr. Richard 
+Levinson.
+    First of all, let me state that all of your testimony will 
+be placed in the record in full and you need not ask or request 
+that. It will be done. second, we will ask that you confine 
+your initial comments to 5-minutes so that all can be heard and 
+we can then get into a free-flowing comment here, as you 
+witnessed with the previous panel.
+    First of all, Dr. Doyle.
+
+STATEMENT OF MICHAEL P. DOYLE, DIRECTOR, CENTER FOR FOOD SAFETY 
+   AND QUALITY ENHANCEMENT, UNIVERSITY OF GEORGIA, GRIFFIN, 
+GEORGIA; ON BEHALF OF THE COUNCIL FOR AGRICULTURAL SCIENCE AND 
+                           TECHNOLOGY
+
+    Mr. Doyle. Good morning and thank you, Mr. Chairman and 
+members of the Committee. I appreciate the invitation to 
+present testimony before the Senate Committee, especially as 
+related to approaches to increase the microbiological safety of 
+foods. I hope my testimony will be helpful in understanding the 
+value of the HACCP approach to increasing the safety of foods 
+and in identifying changes needed in the food safety system to 
+aid in the reduction of microbial contamination.
+    I am Michael Doyle, the Director of the Center for Food 
+Safety and Quality Enhancement at the University of Georgia and 
+my primary professional experience has been focused on research 
+and developing methods to detect and control foodborne 
+pathogens at all levels of the food continuum, from farm to 
+table.
+    My primary involvement in the topics of interest to this 
+committee include membership on the Institute of Medicine 
+Committee to ensure safe food from production to consumption 
+and on the Council of Agriculture, Science, and Technology, 
+task force on foodborne pathogens, risk, and consequences.
+    I am testifying on behalf of CAST, which is a nonprofit 
+consortium of 38 scientific societies representing more than 
+180,000 scientists and many individual student, company, 
+nonprofit, and associate society members. The mission of CAST 
+is to identify food and fiber, environmental and other 
+environmental issues, and to interpret related scientific 
+research information for legislators, regulators, and the media 
+for use in public policy decision making.
+    Now the information I shall provide you largely has been 
+extracted from three sources, and these include a CAST report 
+on foodborne pathogens entitled ``A Review of 
+Recommendations;'' a second CAST report which addresses 
+foodborne pathogens, risks, and consequences; and a third 
+report which deals with an Institute of Medicine report 
+addressing ensuring safe food from production to consumption.
+    A large variety of microorganisms having varied growth 
+characteristics, unique niches in animals and processing 
+facilities, and differing tolerances or sensitivities to food 
+preservatives and processing treatments are responsible for an 
+estimated 76-million-cases of foodborne illness annually in the 
+United States. Considering the wide diversity of sources, 
+tolerances, and growth properties of foodborne pathogens, there 
+is no single process that can assure absolute safety of all 
+foods and still retain desirable eating characteristics.
+    For this reason, a science-based systematic approach that 
+identifies and assesses the microbiological hazards and risks 
+associated with food and incorporates effective treatments for 
+their control was needed to effectively reduce the risk of 
+foodborne illness. Hence, the HACCP system subsequently was 
+developed to meet this need, largely through the efforts of the 
+International Commission on Microbiological Specifications for 
+Foods and through the USDA and FDA National Advisory Committee 
+on Microbiological Criteria for Food.
+    Many refinements and improvements of HACCP have been made 
+since the HACCP concept was first introduced. However, the 
+HACCP system is believed by the food safety community to be the 
+best approach available both nationally and internationally for 
+reducing the risk of foodborne illness. CAST recommends that 
+HACCP principles be applied from farm or other production 
+sources all the way through consumption.
+    It should be recognized that HACCP is not a panacea. For 
+example, not detect emerging hazards and no minimum level of 
+safety is guaranteed. Furthermore, the HACCP approach is a 
+dynamic process and refinements and adjustments will 
+continually need to be made as new foodborne hazards are 
+detected and processes are modified. A major limitation to the 
+adoption of HACCP by food processors is that small firms have 
+minimal resources to develop, implement, and maintain effective 
+HACCP programs. Progress is being made at this level, but more 
+resources may be needed to assist small processors in adopting 
+the HACCP system.
+    Under the current statutory and budgetary constraints, the 
+benefits of HACCP systems cannot be fully realized. For 
+example, current resources are inadequate to continue 
+traditional inspection and to implement HACCP systems fully. A 
+glaring defect in the present USDA meat and poultry inspection 
+is that substantial resources are directed to problems that do 
+not have the greatest health impact, for example, carcass-by-
+carcass organoleptic visual or water detection, which is 
+involved in the inspection of meat and poultry.
+    The elimination of continuing inspection of meat and 
+poultry would not necessarily end all anti-and postmortem 
+inspections of carcasses if HACCP programs were appropriately 
+developed and implemented. Such programs would have to include 
+appropriate methods to identify diseased animals which might 
+require some level of carcass inspection as identified by 
+hazard analysis.
+    An additional impediment to the application of HACCP to 
+reduce the risk of foodborne illness is the failure of many 
+segments of food production to adopt effective intervention 
+strategies that can be used on the farm. When practical and 
+effective intervention strategies on the farm and on-site 
+preharvest levels are made available, food producers should be 
+provided resources where needed and should be required to use 
+such strategies in the interest of enhancing public health.
+    An overarching impediment to improving efficient and 
+effective regulatory attention to microbiological food safety 
+issues is the major statutory shortfall that exists for our 
+current system. Specifically, they are inconsistent, uneven, 
+and at times archaic food statutes that inhibit the use of 
+science-based decision making in activities related to food 
+safety.
+    Also, these statutes can be inconsistently interpreted and 
+enforced among agencies. For example, the current directive 
+embedded in statute requires that each meat and poultry carcass 
+be subjected to physical inspection. Although physical 
+inspection may have been appropriate for hazards present 70-
+years-ago, the process impedes the FSIS efforts to allocate its 
+substantial regulatory resources in ways that correspond to the 
+health hazards presented by contemporary sources of food or 
+modern means of food production and processing, specifically 
+the implementation of HACCP-based inspection.
+    In short, the hazards of greatest concern today are 
+microbiological contamination and they are not readily 
+detectable with the traditional inspection methods of sight, 
+sound, odor, and touch. This regulatory statute impedes 
+coherent risk-based regulation to enable implementation of a 
+more science-based inspection system now available to 
+regulatory agencies.
+    Again, I thank you, Mr. Chairman, for this opportunity to 
+comment on this very important issue and I would be happy to 
+answer any questions.
+    [The prepared statement of Mr. Doyle can be found in the 
+appendix on page 124.]
+    The Chairman. Thank you very much, Dr. Doyle.
+    Let me mention that in introducing all of the witnesses, I 
+neglected to mention that the Director of Food and Agriculture 
+Issues at the U.S. General Accounting Office, Mr. Dyckman, is 
+here, and he has two helpers with him, Mr. Oleson and Mr. 
+Dobbins. I would like to hear now from you, Mr. Dyckman, and 
+then we will proceed with the remainder of the panel of which 
+Dr. Doyle was the first in line. Would you proceed with your 
+testimony?
+
+     STATEMENT OF LAWRENCE J. DYCKMAN, DIRECTOR, FOOD AND 
+    AGRICULTURE ISSUES, RESOURCES, COMMUNITY, AND ECONOMIC 
+     DEVELOPMENT DIVISION, U.S. GENERAL ACCOUNTING OFFICE, 
+    WASHINGTON, DC.; ACCOMPANIED BY KEITH OLESON, ASSISTANT 
+           DIRECTOR; AND BRAD DOBBINS, SENIOR ANALYST
+
+    Mr. Dyckman. I am with distinguished company, so I am not 
+at all offended, Senator.
+    Mr. Oleson, to my left, is the Assistant Director who has 
+done much of the food safety work over the last several years, 
+and Mr. Dobbins from San Francisco also heads the effort that 
+we are doing for you today.
+    Mr. Chairman, we are pleased to be here today to provide an 
+overview of the food safety expenditures by the Department of 
+Agriculture's Food Safety and Inspection Service and the Food 
+and Drug Administration. FSIS is responsible for ensuring the 
+safety of meat, poultry, and processed egg products moving in 
+interstate and foreign commerce and FDA oversees all other 
+foods and animal drugs and feeds.
+    As this committee and Senator Hagel requested, we are 
+conducting a review to determine for fiscal years 1998 and 1999 
+the amount of resources available to both of these agencies, 
+how these resources were spent, and how much States are 
+spending on food safety themselves.
+    My testimony today presents an overview of our work to date 
+on Federal agencies' expenditures. We have not finished our 
+surveys of the States and will be reporting that to you in our 
+final report.
+    You have heard a lot of background about foodborne 
+illnesses, so I will not bore you with the details or Senator 
+Harkin. But I just want to repeat that the CDC estimates that 
+there are 76-million illnesses. We took those estimates and we, 
+from a much smaller number of illnesses reported to CDC for 
+which the source of the illness was confirmed, we computed that 
+85-percent, were associated with food products that FDA 
+regulates and 15-percent with products under FSIS jurisdiction, 
+and I think this has some relevance to the budgets that we will 
+be talking about right now.
+    FSIS spent about $678 million in 1998 and $712 million in 
+1999 on food safety activities. Figure 1 in my full statement, 
+and it is on page five, shows that about 84-percent of FSIS's 
+1999 expenditures were for field activities. Inspections at 
+slaughter, processing, and import establishments accounted for 
+$486 million, or 68-percent of the total agency's expenditures. 
+Field office administration, supervision, and compliance 
+activities accounted for another $34 million. Also, the Office 
+of Field Operations in Washington, DC., the office that manages 
+field activities, spent another $80 million, of which $44 
+million was in support of State inspections.
+    FSIS headquarters-based activities accounted for $112 
+million in 1999 or 16-percent of that agency's dollars. Four 
+offices conduct these activities. There is the Office of 
+Management, which spent about $62 million. Next comes the 
+Office of Public Health and Science, spent about $25 million. 
+The Office of Policy Program Development and Evaluation, about 
+$19 million. And finally, the Office of the Administrator, and 
+they spent about $6 million.
+    Moving on to FDA's food expenditures, in 1998 and 1999, 
+they spent about $231 and $260 million, respectively, obviously 
+much less than FSIS. As shown in Figure 2, which is on page 
+eight of my full statement, about $146 million, or 56-percent 
+of fiscal year 1999 money, went to field activities. About 44-
+percent went to headquarters activities involving three 
+centers.
+    The Office of Regulatory Affairs conducted field activities 
+for FDA centers. Its staff conducts inspections and enforcement 
+activities as well as criminal investigations, education, and 
+outreach activities. For 1999, the office's work for the Center 
+for Food Safety and Applied Nutrition totaled $134 million and 
+work for the Center for Veterinary Medicine totalled about $12 
+million.
+    In aggregate, FDA's headquarters' based activities totaled 
+$114 million and the vast majority went to the two centers I 
+just mentioned.
+    Now, Mr. Chairman, I would like to end with a perspective 
+on some of the reasons for the relative size of FSIS and FDA's 
+food safety budgets. Prior witnesses have touched upon this, 
+but by legislation, FSIS must preapprove products under its 
+jurisdiction before they can be marketed. It operates under a 
+mandated inspection frequency that marks all inspected and 
+approved meat, poultry, and egg products with a USDA inspection 
+stamp so that they can be legally sold.
+    In contrast, by law, FDA generally allows the food products 
+it regulates to enter the market without preapproval. It has no 
+mandated inspection frequency. As such, FDA inspects food 
+establishments under its jurisdiction about once every 5-years 
+and inspects only 1-percent of the almost 4-million annual 
+imported food entries.
+    Mr. Chairman, we plan to issue you and Senator Hagel a 
+report in early 2001. We will include information on States and 
+more analysis of these figures.
+    This completes my prepared statement. My colleagues and I 
+will be happy to answer any questions you or Senator Harkin 
+have.
+    [The prepared statement of Mr. Dyckman can be found in the 
+appendix on page 109.]
+    The Chairman. Thank you very much for your oral testimony, 
+likewise for your very full statement. This is made a part of 
+the record.
+    Let me mention a procedural problem at this point. I am 
+told, due to objections from Senator Murray and other Democrats 
+on the Senate floor, there has been an objection to committees 
+continuing past the hour of 11:30, which gives us 1-minute. Let 
+me consult with my colleague, Senator Harkin. My idea would be, 
+Tom, to proceed in this way, that we have already put into the 
+record the full statement of all of our witnesses and at 11:30 
+we will ask the stenographer and court reporter to cease 
+operations, but the two of us might then continue to hear the 
+witnesses and engage in colloquy with them because we 
+appreciate your coming, taking time to come here. Your 
+statements are going to be a part of our record and made 
+available to everybody in a public manner. But at the same 
+time, there may be some benefit to Senator Harkin and to myself 
+from visiting with you informally, as we would be doing. Is 
+that a satisfactory procedure?
+    Senator Harkin. As long as we do not get hauled into court 
+someplace.
+    [Laughter.]
+    The Chairman. I think this will suffice. The Committee has 
+faced this problem before and we have usually overcome in about 
+this manner.
+    We will at this point bring the official hearing to a 
+conclusion. The official hearing is adjourned.
+    Senator Smith. Mr. Chairman?
+    The Chairman. Yes?
+    Senator Smith. Before we adjourn, may I include in the 
+record my opening statement and perhaps a few questions I had 
+for earlier witnesses?
+    The Chairman. Yes, we will include that in the official 
+record, Senator Smith's statement and his questions and ask 
+witnesses to respond as rapidly as possible.
+    [The prepared statement of Mr. Bernard can be found in the 
+appendix on page 128.]
+    [The prepared statement of Dr. Garren can be found in the 
+appendix on page 134.]
+    [The prepared statement of Dr. Weber can be found in the 
+appendix on page 139.]
+    [The prepared statement of Dr. Hollingsworth can be found 
+in the appendix on page 147.]
+    [The prepared statement of Ms. DeWaal can be found in the 
+appendix on page 153.]
+    [The prepared statement of Dr. Levinson can be found in the 
+appendix on page 175.]
+    The Chairman. Having said that, now we are officially 
+adjourned and we move into an informal session.
+    [Whereupon, at 11:30 a.m., the Committee was adjourned.]
+      
+=======================================================================
+
+
+                            A P P E N D I X
+
+                           September 20, 2000
+
+
+
+      
+=======================================================================
+
+[GRAPHIC] [TIFF OMITTED] T1374.161
+
+[GRAPHIC] [TIFF OMITTED] T1374.002
+
+[GRAPHIC] [TIFF OMITTED] T1374.003
+
+[GRAPHIC] [TIFF OMITTED] T1374.004
+
+[GRAPHIC] [TIFF OMITTED] T1374.005
+
+[GRAPHIC] [TIFF OMITTED] T1374.006
+
+[GRAPHIC] [TIFF OMITTED] T1374.007
+
+[GRAPHIC] [TIFF OMITTED] T1374.008
+
+[GRAPHIC] [TIFF OMITTED] T1374.009
+
+[GRAPHIC] [TIFF OMITTED] T1374.010
+
+[GRAPHIC] [TIFF OMITTED] T1374.011
+
+[GRAPHIC] [TIFF OMITTED] T1374.012
+
+[GRAPHIC] [TIFF OMITTED] T1374.013
+
+[GRAPHIC] [TIFF OMITTED] T1374.014
+
+[GRAPHIC] [TIFF OMITTED] T1374.015
+
+[GRAPHIC] [TIFF OMITTED] T1374.016
+
+[GRAPHIC] [TIFF OMITTED] T1374.017
+
+[GRAPHIC] [TIFF OMITTED] T1374.018
+
+[GRAPHIC] [TIFF OMITTED] T1374.019
+
+[GRAPHIC] [TIFF OMITTED] T1374.020
+
+[GRAPHIC] [TIFF OMITTED] T1374.021
+
+[GRAPHIC] [TIFF OMITTED] T1374.022
+
+[GRAPHIC] [TIFF OMITTED] T1374.023
+
+[GRAPHIC] [TIFF OMITTED] T1374.024
+
+[GRAPHIC] [TIFF OMITTED] T1374.025
+
+[GRAPHIC] [TIFF OMITTED] T1374.026
+
+[GRAPHIC] [TIFF OMITTED] T1374.027
+
+[GRAPHIC] [TIFF OMITTED] T1374.028
+
+[GRAPHIC] [TIFF OMITTED] T1374.029
+
+[GRAPHIC] [TIFF OMITTED] T1374.030
+
+[GRAPHIC] [TIFF OMITTED] T1374.031
+
+[GRAPHIC] [TIFF OMITTED] T1374.032
+
+[GRAPHIC] [TIFF OMITTED] T1374.033
+
+[GRAPHIC] [TIFF OMITTED] T1374.034
+
+[GRAPHIC] [TIFF OMITTED] T1374.035
+
+[GRAPHIC] [TIFF OMITTED] T1374.036
+
+[GRAPHIC] [TIFF OMITTED] T1374.037
+
+[GRAPHIC] [TIFF OMITTED] T1374.038
+
+[GRAPHIC] [TIFF OMITTED] T1374.039
+
+[GRAPHIC] [TIFF OMITTED] T1374.040
+
+[GRAPHIC] [TIFF OMITTED] T1374.041
+
+[GRAPHIC] [TIFF OMITTED] T1374.042
+
+[GRAPHIC] [TIFF OMITTED] T1374.043
+
+[GRAPHIC] [TIFF OMITTED] T1374.044
+
+[GRAPHIC] [TIFF OMITTED] T1374.045
+
+[GRAPHIC] [TIFF OMITTED] T1374.046
+
+[GRAPHIC] [TIFF OMITTED] T1374.047
+
+[GRAPHIC] [TIFF OMITTED] T1374.048
+
+[GRAPHIC] [TIFF OMITTED] T1374.049
+
+[GRAPHIC] [TIFF OMITTED] T1374.050
+
+[GRAPHIC] [TIFF OMITTED] T1374.051
+
+[GRAPHIC] [TIFF OMITTED] T1374.052
+
+[GRAPHIC] [TIFF OMITTED] T1374.053
+
+[GRAPHIC] [TIFF OMITTED] T1374.054
+
+[GRAPHIC] [TIFF OMITTED] T1374.055
+
+[GRAPHIC] [TIFF OMITTED] T1374.056
+
+[GRAPHIC] [TIFF OMITTED] T1374.057
+
+[GRAPHIC] [TIFF OMITTED] T1374.058
+
+[GRAPHIC] [TIFF OMITTED] T1374.059
+
+[GRAPHIC] [TIFF OMITTED] T1374.060
+
+[GRAPHIC] [TIFF OMITTED] T1374.061
+
+[GRAPHIC] [TIFF OMITTED] T1374.062
+
+[GRAPHIC] [TIFF OMITTED] T1374.063
+
+[GRAPHIC] [TIFF OMITTED] T1374.064
+
+[GRAPHIC] [TIFF OMITTED] T1374.065
+
+[GRAPHIC] [TIFF OMITTED] T1374.066
+
+[GRAPHIC] [TIFF OMITTED] T1374.067
+
+[GRAPHIC] [TIFF OMITTED] T1374.068
+
+[GRAPHIC] [TIFF OMITTED] T1374.069
+
+[GRAPHIC] [TIFF OMITTED] T1374.070
+
+[GRAPHIC] [TIFF OMITTED] T1374.071
+
+[GRAPHIC] [TIFF OMITTED] T1374.072
+
+[GRAPHIC] [TIFF OMITTED] T1374.073
+
+[GRAPHIC] [TIFF OMITTED] T1374.074
+
+[GRAPHIC] [TIFF OMITTED] T1374.075
+
+[GRAPHIC] [TIFF OMITTED] T1374.076
+
+[GRAPHIC] [TIFF OMITTED] T1374.077
+
+[GRAPHIC] [TIFF OMITTED] T1374.078
+
+[GRAPHIC] [TIFF OMITTED] T1374.079
+
+[GRAPHIC] [TIFF OMITTED] T1374.080
+
+[GRAPHIC] [TIFF OMITTED] T1374.081
+
+[GRAPHIC] [TIFF OMITTED] T1374.082
+
+[GRAPHIC] [TIFF OMITTED] T1374.083
+
+[GRAPHIC] [TIFF OMITTED] T1374.084
+
+[GRAPHIC] [TIFF OMITTED] T1374.085
+
+[GRAPHIC] [TIFF OMITTED] T1374.086
+
+[GRAPHIC] [TIFF OMITTED] T1374.087
+
+[GRAPHIC] [TIFF OMITTED] T1374.088
+
+[GRAPHIC] [TIFF OMITTED] T1374.089
+
+[GRAPHIC] [TIFF OMITTED] T1374.090
+
+[GRAPHIC] [TIFF OMITTED] T1374.091
+
+[GRAPHIC] [TIFF OMITTED] T1374.092
+
+[GRAPHIC] [TIFF OMITTED] T1374.093
+
+[GRAPHIC] [TIFF OMITTED] T1374.094
+
+[GRAPHIC] [TIFF OMITTED] T1374.095
+
+[GRAPHIC] [TIFF OMITTED] T1374.096
+
+[GRAPHIC] [TIFF OMITTED] T1374.097
+
+[GRAPHIC] [TIFF OMITTED] T1374.098
+
+[GRAPHIC] [TIFF OMITTED] T1374.099
+
+[GRAPHIC] [TIFF OMITTED] T1374.100
+
+[GRAPHIC] [TIFF OMITTED] T1374.101
+
+[GRAPHIC] [TIFF OMITTED] T1374.102
+
+[GRAPHIC] [TIFF OMITTED] T1374.103
+
+[GRAPHIC] [TIFF OMITTED] T1374.104
+
+[GRAPHIC] [TIFF OMITTED] T1374.105
+
+[GRAPHIC] [TIFF OMITTED] T1374.106
+
+[GRAPHIC] [TIFF OMITTED] T1374.107
+
+[GRAPHIC] [TIFF OMITTED] T1374.108
+
+[GRAPHIC] [TIFF OMITTED] T1374.109
+
+[GRAPHIC] [TIFF OMITTED] T1374.110
+
+[GRAPHIC] [TIFF OMITTED] T1374.111
+
+[GRAPHIC] [TIFF OMITTED] T1374.112
+
+[GRAPHIC] [TIFF OMITTED] T1374.113
+
+[GRAPHIC] [TIFF OMITTED] T1374.114
+
+[GRAPHIC] [TIFF OMITTED] T1374.115
+
+[GRAPHIC] [TIFF OMITTED] T1374.116
+
+[GRAPHIC] [TIFF OMITTED] T1374.117
+
+[GRAPHIC] [TIFF OMITTED] T1374.118
+
+[GRAPHIC] [TIFF OMITTED] T1374.119
+
+[GRAPHIC] [TIFF OMITTED] T1374.120
+
+[GRAPHIC] [TIFF OMITTED] T1374.121
+
+[GRAPHIC] [TIFF OMITTED] T1374.122
+
+[GRAPHIC] [TIFF OMITTED] T1374.123
+
+[GRAPHIC] [TIFF OMITTED] T1374.124
+
+[GRAPHIC] [TIFF OMITTED] T1374.125
+
+[GRAPHIC] [TIFF OMITTED] T1374.126
+
+[GRAPHIC] [TIFF OMITTED] T1374.127
+
+[GRAPHIC] [TIFF OMITTED] T1374.128
+
+[GRAPHIC] [TIFF OMITTED] T1374.129
+
+[GRAPHIC] [TIFF OMITTED] T1374.130
+
+      
+=======================================================================
+
+
+                   DOCUMENTS SUBMITTED FOR THE RECORD
+
+                           September 20, 2000
+
+
+
+      
+=======================================================================
+
+[GRAPHIC] [TIFF OMITTED] T1374.131
+
+[GRAPHIC] [TIFF OMITTED] T1374.132
+
+[GRAPHIC] [TIFF OMITTED] T1374.133
+
+[GRAPHIC] [TIFF OMITTED] T1374.134
+
+[GRAPHIC] [TIFF OMITTED] T1374.135
+
+[GRAPHIC] [TIFF OMITTED] T1374.136
+
+[GRAPHIC] [TIFF OMITTED] T1374.137
+
+[GRAPHIC] [TIFF OMITTED] T1374.138
+
+[GRAPHIC] [TIFF OMITTED] T1374.139
+
+[GRAPHIC] [TIFF OMITTED] T1374.140
+
+[GRAPHIC] [TIFF OMITTED] T1374.141
+
+[GRAPHIC] [TIFF OMITTED] T1374.142
+
+[GRAPHIC] [TIFF OMITTED] T1374.143
+
+[GRAPHIC] [TIFF OMITTED] T1374.144
+
+[GRAPHIC] [TIFF OMITTED] T1374.145
+
+[GRAPHIC] [TIFF OMITTED] T1374.146
+
+[GRAPHIC] [TIFF OMITTED] T1374.147
+
+[GRAPHIC] [TIFF OMITTED] T1374.148
+
+[GRAPHIC] [TIFF OMITTED] T1374.149
+
+[GRAPHIC] [TIFF OMITTED] T1374.150
+
+      
+=======================================================================
+
+
+             QUESTIONS AND ANSWERS SUBMITTED FOR THE RECORD
+
+                           September 20, 2000
+
+
+
+      
+=======================================================================
+
+[GRAPHIC] [TIFF OMITTED] T1374.151
+
+[GRAPHIC] [TIFF OMITTED] T1374.152
+
+[GRAPHIC] [TIFF OMITTED] T1374.153
+
+[GRAPHIC] [TIFF OMITTED] T1374.154
+
+[GRAPHIC] [TIFF OMITTED] T1374.155
+
+[GRAPHIC] [TIFF OMITTED] T1374.156
+
+[GRAPHIC] [TIFF OMITTED] T1374.157
+
+[GRAPHIC] [TIFF OMITTED] T1374.158
+
+[GRAPHIC] [TIFF OMITTED] T1374.159
+
+[GRAPHIC] [TIFF OMITTED] T1374.160
+
+                                    
+
+</pre></body></html>

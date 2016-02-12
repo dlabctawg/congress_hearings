@@ -1,0 +1,1987 @@
+<html>
+<title> - THE RAPID ACT; THE SUNSHINE FOR REGULATORY DECREES AND SETTLEMENTS ACT OF 2015; AND THE SCRUB ACT OF 2015</title>
+<body><pre>
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+                   THE RAPID ACT; THE SUNSHINE FOR
+                 REGULATORY DECREES AND SETTLEMENTS ACT
+                   OF 2015; AND THE SCRUB ACT OF 2015
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                            SUBCOMMITTEE ON
+                            
+                           REGULATORY REFORM,
+                           
+                      COMMERCIAL AND ANTITRUST LAW
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+                       
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED FOURTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                                   ON
+
+                   H.R. 348, H.R. 712, and H.R. 1155
+
+                               __________
+
+                             MARCH 2, 2015
+
+                               __________
+
+                           Serial No. 114-14
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+
+      Available via the World Wide Web: http://judiciary.house.gov
+      
+      
+                                 _______
+                                  
+                     U.S. GOVERNMENT PUBLISHING OFFICE 
+
+93-599 PDF                     WASHINGTON : 2015 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Publishing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001 
+                          
+      
+                       COMMITTEE ON THE JUDICIARY
+
+                   BOB GOODLATTE, Virginia, Chairman
+F. JAMES SENSENBRENNER, Jr.,         JOHN CONYERS, Jr., Michigan
+    Wisconsin                        JERROLD NADLER, New York
+LAMAR S. SMITH, Texas                ZOE LOFGREN, California
+STEVE CHABOT, Ohio                   SHEILA JACKSON LEE, Texas
+DARRELL E. ISSA, California          STEVE COHEN, Tennessee
+J. RANDY FORBES, Virginia            HENRY C. ``HANK'' JOHNSON, Jr.,
+STEVE KING, Iowa                       Georgia
+TRENT FRANKS, Arizona                PEDRO R. PIERLUISI, Puerto Rico
+LOUIE GOHMERT, Texas                 JUDY CHU, California
+JIM JORDAN, Ohio                     TED DEUTCH, Florida
+TED POE, Texas                       LUIS V. GUTIERREZ, Illinois
+JASON CHAFFETZ, Utah                 KAREN BASS, California
+TOM MARINO, Pennsylvania             CEDRIC RICHMOND, Louisiana
+TREY GOWDY, South Carolina           SUZAN DelBENE, Washington
+RAUL LABRADOR, Idaho                 HAKEEM JEFFRIES, New York
+BLAKE FARENTHOLD, Texas              DAVID N. CICILLINE, Rhode Island
+DOUG COLLINS, Georgia                SCOTT PETERS, California
+RON DeSANTIS, Florida
+MIMI WALTERS, California
+KEN BUCK, Colorado
+JOHN RATCLIFFE, Texas
+DAVE TROTT, Michigan
+MIKE BISHOP, Michigan
+
+           Shelley Husband, Chief of Staff & General Counsel
+        Perry Apelbaum, Minority Staff Director & Chief Counsel
+                                 ------                                
+
+    Subcommittee on Regulatory Reform, Commercial and Antitrust Law
+
+                   TOM MARINO, Pennsylvania, Chairman
+
+                 BLAKE FARENTHOLD, Texas, Vice-Chairman
+
+DARRELL E. ISSA, California          HENRY C. ``HANK'' JOHNSON, Jr.,
+DOUG COLLINS, Georgia                  Georgia
+MIMI WALTERS, California             SUZAN DelBENE, Washington
+JOHN RATCLIFFE, Texas                HAKEEM JEFFRIES, New York
+DAVE TROTT, Michigan                 DAVID N. CICILLINE, Rhode Island
+MIKE BISHOP, Michigan                SCOTT PETERS, California
+
+                      Daniel Flores, Chief Counsel
+                      
+                            C O N T E N T S
+
+                              ----------                              
+
+                             MARCH 2, 2015
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Tom Marino, a Representative in Congress from the 
+  State of Pennsylvania, and Chairman, Subcommittee on Regulatory 
+  Reform, Commercial and Antitrust Law...........................     1
+The Honorable Henry C. ``Hank'' Johnson, Jr., a Representative in 
+  Congress from the State of Georgia, and Ranking Member, 
+  Subcommittee on Regulatory Reform, Commercial and Antitrust Law     3
+The Honorable Bob Goodlatte, a Representative in Congress from 
+  the State of Virginia, and Chairman, Committee on the Judiciary     4
+The Honorable John Conyers, Jr., a Representative in Congress 
+  from the State of Michigan, and Ranking Member, Committee on 
+  the Judiciary..................................................     5
+
+                               WITNESSES
+
+William L. Kovacs, Senior Vice President, Environment, Technology 
+  & Regulatory Affairs, U.S. Chamber of Commerce
+  Oral Testimony.................................................     9
+  Prepared Statement.............................................    11
+Sam Batkins, Director of Regulatory Policy, American Action Forum
+  Oral Testimony.................................................    35
+  Prepared Statement.............................................    37
+Patrick A. McLaughlin, Ph.D., Senior Research Fellow, Mercatus 
+  Center at George Mason University
+  Oral Testimony.................................................    47
+  Prepared Statement.............................................    49
+Amit Narang, Regulatory Policy Advocate, Public Citizen
+  Oral Testimony.................................................    56
+  Prepared Statement.............................................    59
+
+          LETTERS, STATEMENTS, ETC., SUBMITTED FOR THE HEARING
+
+Material submitted by the Honorable Doug Collins, a 
+  Representative in Congress from the State of Georgia, and 
+  Member, Subcommittee on Regulatory Reform, Commercial and 
+  Antitrust Law..................................................    73
+Material submitted by the Honorable Henry C. ``Hank'' Johnson, 
+  Jr., a Representative in Congress from the State of Georgia, 
+  and Ranking Member, Subcommittee on Regulatory Reform, 
+  Commercial and Antitrust Law...................................    81
+Material submitted by the Honorable Tom Marino, a Representative 
+  in Congress from the State of Pennsylvania, and Chairman, 
+  Subcommittee on Regulatory Reform, Commercial and Antitrust Law   137
+
+                                APPENDIX
+               Material Submitted for the Hearing Record
+
+Letter from Blake Hurst, President, Missouri Farm Bureau 
+  Federation.....................................................   144
+Response to Questions for the Record from William L. Kovacs, 
+  Senior Vice President, Environment, Technology & Regulatory 
+  Affairs, U.S. Chamber of Commerce..............................   145
+Questions for the Record submitted to and Response from Amit 
+  Narang, Regulatory Policy Advocate, Public Citizen.............   154
+H.R. 348, the ``Responsibly And Professionally Invigorating 
+  Development (RAPID) Act of 2015''..............................   162
+H.R. 712, the ``Sunshine for Regulatory Decrees and Settlements 
+  Act of 2015''..................................................   195
+Text of H.R. __, the ``Searching for and Cutting Regulations that 
+  are Unnecessarily Burdensome (SCRUB) Act of 2015''.............   210
+Introduced Version of H.R. 1155, the ``Searching for and Cutting 
+  Regulations that are Unnecessarily Burdensome (SCRUB) Act of 
+  2015''.........................................................   239
+
+ 
+THE RAPID ACT; THE SUNSHINE FOR REGULATORY DECREES AND SETTLEMENTS ACT 
+                   OF 2015; AND THE SCRUB ACT OF 2015
+
+                              ----------                              
+
+
+                         MONDAY, MARCH 2, 2015
+
+                       House of Representatives,
+
+                  Subcommittee on Regulatory Reform, 
+                      Commercial and Antitrust Law
+
+                      Committee on the Judiciary,
+
+                            Washington, DC.
+
+    The Subcommittee met, pursuant to call, at 4:01 p.m., in 
+room 2141, Rayburn House Office Building, the Honorable Tom 
+Marino (Chairman of the Subcommittee) presiding.
+    Present: Representatives Marino, Goodlatte, Issa, Collins, 
+Ratcliffe, Trott, Bishop, Johnson, Conyers and Peters.
+    Staff Present: (Majority) Daniel Flores, Subcommittee Chief 
+Counsel; Andrea Lindsey, Clerk; and (Minority) Slade Bond, 
+Counsel.
+    Mr. Marino. Good afternoon. I want to thank you for being 
+here, and the Subcommittee on Regulatory Reform, Commercial and 
+Antitrust Law will come to order.
+    Without objection, the Chair's authorized to declare 
+recesses of the Committee at any time.
+    We welcome everyone to today's hearing on H.R. 348, the 
+``Responsibly And Professionally Invigorating Development Act 
+of 2015,'' also known as the ``RAPID Act,'' H.R. 712, the 
+``Sunshine for Regulatory Decrees and Settlements Act of 
+2015,'' and H.R. 1155, the ``Searching for and Cutting 
+Regulations that are Unnecessarily Burdensome (SCRUB) Act of 
+2015.''
+    I will recognize myself for my opening statement. The 
+American historical record has always been, ``the worse the 
+recession, the stronger the recovery.'' Regrettably for many 
+Americans I think we can all agree the recovery from the 
+recession has been anything but strong. According to the 
+Federal Reserve Bank of Minneapolis in the 10 previous 
+recessions since the depression, the economy recovered all jobs 
+lost during the recession after an average of 25 months from 
+the prior jobs peek.
+    Under the current Administration however, it took until 
+June 2014, 78 months after the prior jobs peek or 6 and a half 
+years later for even The New York Times to claim we had 
+recovered all of the recession's job losses. Besides losing 
+paychecks, many of Americans have lost the dignity and 
+satisfaction that comes from earning a living and supporting a 
+family with a full time job. No government benefit can 
+compensate a person for that.
+    Americans are ready to work. Employers are eager to create 
+jobs, if only the government could just get out of the way. As 
+we will hear from the witnesses today the job opportunities are 
+here on U.S. soil. A study of proposed projects in just one 
+sector of the economy, the energy sector found that if a modest 
+number of these projects were allowed to go forward and break 
+ground and the direct and indirect economic benefits would be 
+tremendous. It identified 351 projects if approved to generate 
+$1.1 trillion and create 1.9 million jobs annually.
+    The U.S. Chamber of Commerce's study, Project No Project, 
+looked at the potential economic impact of permitting 
+challenges faced by U.S. companies attempting to propose new 
+energy projects. For example, Penn-Mar Ethanol attempted to 
+construct an ethanol reducing plant in Conoy Township 
+Pennsylvania, but neighboring Hellam Township sent a letter 
+to--excuse me, Conoy Township's board of supervisors objecting 
+to the ethanol plan. Hellam Townships objections included 
+environmental risks to the surrounding area and a risk of 
+causing the beautiful area surrounding the Susquehanna River to 
+become an undesirable site. Is that when we mean when we talk 
+about negative environmental impact and obstructed scenic view? 
+Certainly job creators can't be effective in creating jobs 
+until such an over expansive extreme regime.
+    After hearing about the numerous projects currently 
+awaiting approval, many of us might be asking ourselves if the 
+workers are here, and the jobs are here, then what's keeping 
+workers idle? Well, I will tell you, it is our outdated, 
+burdensome, convoluted, Federal permitting process that has 
+become a hotbed for the environmental extremists looking to 
+hold up infrastructure of building and growth that our country 
+so desperately needs.
+    Today there is no limit to the objections various agencies 
+can raise. Environmental reviews not uncommonly take up to a 
+decade or more holding jobs hostage in the process. Antigrowth, 
+antipermitting advocates meanwhile can lie in the weeds for 
+another 6 years once a permit is finally granted, before 
+ambushing good faith project developers with dilatory job and 
+project killing litigation.
+    Instead of empowering businesses to be the engine of our 
+economy, we instead tie them up with thousands of pages of 
+decisions in interminable administrative and litigation delays. 
+This is incomprehensible to anyone but a specialist, a costly 
+legal team or a so-called advocacy group that seeks to kill 
+economic activity and the jobs in growth for hardworking 
+Americans that come with it.
+    I introduced the RAPID Act to right the ship, restore 
+balance and impose sanity on our Federal permitting system. My 
+esteemed colleague Mr. Collins from Georgia and Mr. Smith from 
+Missouri similarly introduced the Sunshine for Regulatory 
+Decrees and Settlements Act and the SCRUB Act to achieve the 
+same thing in litigation that seeks to force new regulations in 
+an effort to clear from the code of Federal regulations 
+overburdensome regulations we no longer need.
+    The key to these reforms is balance, and each of these 
+reforms has that. My RAPID Act strikes the right balance 
+between conservation, and deployment, and development.
+    The Sunshine for Regulatory Decrees and Settlement Act 
+strikes the right balance between respect for plaintiffs and 
+defendant's right and regulatory litigation in fairness to 
+regulate entities in State coregulators that must bear the 
+burden of living under and implementing new regulations.
+    And the SCRUB Act strikes the right balance between keeping 
+regulations we still need in scrubbing from the books 
+regulations that are unnecessary obstacles to jobs and growth. 
+I thank our witnesses for attending and sharing their valuable 
+expertise with us and look forward to their testimony.
+    It is my pleasure now to recognize the gentleman from 
+Georgia, the Ranking Member of the Subcommittee on Regulatory 
+Reform, Commercial and Antitrust Law, Congressman Johnson.
+    Mr. Johnson. Thank you, Mr. Chairman.
+    In 1981 a professor of law at the University of Chicago 
+described the difference between the parties as quite simple, 
+while cautioning Republicans against the fervent pursuit of 
+regulatory reform stating, Democrats want to run the country 
+and Republicans don't want them to. Republicans seem delighted 
+in the prospect of legislation that will make change more 
+difficult. Where government action is needed by the private 
+sector as it is for the licensing of new nuclear plants, the 
+procedural safeguards and judicial review protections so 
+carefully nurtured in other contexts by the corporate bar have 
+proven to be a Frankenstein, affording licensing opponents, 
+unlimited opportunities to impose costly delays.
+    The professor concluded that regulatory reform measures do 
+not deter regulation, they deter change no matter the cost of 
+inaction. That professor would go on to become an Associate 
+Justice of the United States Supreme Court and his name, none 
+other than Antonin Scalia. It is indeed rare for me to quote 
+Justice Scalia in any context, let alone with approval, but I'm 
+struck by the prescience of the Justice over 3 decades ago in 
+describing the short-sighted nature of proponents of regulatory 
+reform.
+    During today's hearing this Subcommittee will consider 
+three pieces of legislation that do absolutely nothing to 
+protect the public interest, grow the economy or create jobs. 
+The only connection between these bills is their bold 
+corporatism. H.R. 348, the so-called Responsibly and 
+Professionally Invigorating Development Act of 2015 will result 
+in widespread confusion and delay in the review and permitting 
+process under the National Environmental Policy Act by carving 
+out a separate environmental review process for construction 
+projects, which the bill doesn't even define. And if an agency 
+fails to meet the unrealistic deadlines mandated by H.R. 348, 
+the bill would automatically green light a project regardless 
+of whether the agency has thoroughly reviewed the project's 
+risks.
+    This legislation is a solution feverishly in search of a 
+problem. The nonpartisan Congressional Research Service 
+reported in 2012 that project approval delays based on 
+environmental requirements are not caused by NEPA, but are more 
+often tied to local, State and project specific factors, 
+primarily local state agency priorities, project funding 
+levels, local opposition to a project, project complexity or 
+late changes in project scope.
+    I also have serious concerns with H.R. 712, the ``Sunshine 
+for Regulatory Decrees and Settlements Act of 2015.'' Consent 
+decrees and settlement agreements help ensure that agencies 
+take necessary action by a certain date. The Government 
+Accountability Office also reported in December of 2014 that 
+there is zero evidence indicating that agencies collude with 
+public interest groups in bringing these consent decrees that 
+the Chamber has often claimed.
+    H.R. 712 would allow for nearly any private party to 
+intervene in a consent decree revealing the legislation's true 
+purpose of stacking the deck in industry's favor to avoid the 
+enforcement of the law.
+    Lastly, H.R. 1155, the ``SCRUB Act'' is a one-way ratchet 
+with the sole aim of prioritizing cost over benefits through 
+the reckless elimination of rules without consideration of 
+their benefits. This legislation would shift the cost of rules 
+from corporations to consumers while posing substantial burdens 
+and delays to agencies undermining public health and safety. It 
+is indeed an act that should be scrubbed.
+    In closing, I strongly oppose each of these deregulatory 
+train wrecks that comprise the subject of today's hearing.
+    And I yield back.
+    Mr. Marino. Thank you, Mr. Johnson.
+    It is now my pleasure to recognize the Chairman of the full 
+Judiciary Committee, the gentleman from Virginia, Chairman Bob 
+Goodlatte.
+    Mr. Goodlatte. Thank you, Mr. Chairman.
+    America's voters sent the 114th Congress to Washington to 
+do one thing above all other others, help turn around this 
+Nation's struggling economy. From the outset of the term, the 
+Judiciary Committee has responded to that mandate with urgently 
+needed reforms of Washington's regulatory system. A system that 
+virtually every day places new obstacles in the path of 
+American jobs and economic growth.
+    Already the House has passed two critical Judiciary 
+Committee regulatory reform bills. The Regulatory 
+Accountability Act to force regulators to account for and 
+control far better the excessive cost of new regulations and 
+the Small Business Regulatory Flexibility Improvements Act to 
+force regulators finally to accommodate better the needs of 
+small businesses when they issue new regulations.
+    Today's hearing considers three more integral parts of the 
+Judiciary Committee's regulatory reform package, the RAPID Act, 
+the Sunshine for Regulatory Decrees and Settlements Act and the 
+Searching for and Cutting Regulations That Are Unnecessarily 
+Burdensome or SCRUB Act.
+    The RAPID Act contains common sense reform to streamline 
+permitting for Federally funded and Federally permitted 
+construction projects. It gives lead agencies more power to 
+conduct and conclude efficient interagency reviews of permit 
+requests and requires lawsuits that challenge permitting 
+decisions to be filed within 6 months of the decisions. These 
+are simple but powerful reforms that will allow good projects 
+to move forward more quickly delivering high quality jobs and 
+improvements to American daily lives.
+    The Sunshine for Regulatory Decrees and Settlements Act 
+curbs the abuse of sue and settle consent decrees and 
+settlement agreements to force through new regulations under 
+judicial authority without adequate consideration of the views 
+of those who are regulated and of the States who so often must 
+shoulder the hard work of implementing Federal regulatory 
+decisions.
+    Finally, the SCRUB Act institutes a blue ribbon commission 
+to help identify and eliminate costly regulations that can 
+safely be removed from the code of regulations. These include, 
+for example, regulations that have achieved their purpose and 
+are no longer truly needed, imposed paperwork burdens that can 
+be reduced substantially without significantly undercutting 
+regulatory effectiveness or impede the new introduction of new, 
+safer and more efficient technologies.
+    Opponents of these bills contend that there are no problems 
+with regulations or that these bills overreact to the problems 
+and would bring needed regulatory actions to a halt. The 
+American people know better. In the middle of it this winter's 
+historic cold, ask any worker displaced by a new ideologically 
+driven power plant regulation how warm they are as they 
+continue in vain to look for a new job.
+    Ask any farmer who fears that the Environmental Protection 
+Agency's new Waters of the United States rule will place 
+Federal permitting shackles on the use of their property 
+because once in a while there is a puddle in a middle of field.
+    Ask municipality and manufacturers across the country that 
+will not be able to grow because of the EPA's new ozone rule, 
+the most costly single regulation ever issued. Like each bill 
+in the Judiciary Committee's regulatory reform package, each of 
+these bills contains well thought out balanced reforms. They 
+allow needed regulatory actions to take place but provide for 
+more transparency, more public input and more accountability in 
+the regulatory process. They also provide for more efficient 
+decisionmaking and more effective tools to prevent or remove 
+from the books regulatory actions that are not needed, are ill-
+considered or are the overreaching fruits of back door 
+sweetheart negotiations between regulators and pro regulatory 
+advocates.
+    I urge my colleagues to consider well and support these 
+important pieces of legislation. I look forward to the 
+testimony of our witnesses.
+    And I yield back, thank you, Mr. Chairman.
+    Mr. Marino. Thank you, Chairman.
+    It is new my pleasure to recognize the Judiciary Committee 
+Ranking Member, Mr. Conyers of Michigan for his opening 
+statement.
+    Mr. Conyers. Thank you.
+    We seem to have on the Committee very differing views of 
+what we're going to be talking about today, I suppose the 
+witnesses have picked up on that already.
+    I'd like to describe what I think are three thoroughly 
+flawed bills, and I begin with H.R. 348 the misleadingly titled 
+``Responsibly And Professionally Invigorating Development Act 
+of 2015.'' Rather than making real reforms to the process which 
+Federal agencies undertake environmental impact reviews as 
+required by the National Environmental Policy Act, this 
+legislation will make this process less responsible, less 
+professional and less accountable.
+    I think that will come out during the course of our 
+discussion between us today. But worse yet this measure could 
+jeopardize public health and safety by prioritizing speed over 
+meaningful analysis. Under the guise of streamlining the 
+approval process, the bill forecloses potentially critical 
+input from various stakeholders, including Federal, State and 
+local agencies for construction projects that are Federally 
+funded or that require Federal approval.
+    Disturbingly, this measure could even allow such projects 
+to be approved before the required review is completed. As a 
+result, H.R. 348 could allow projects to proceed that put 
+public health and safety at risk. These failings along with 
+many others explain why the Administration and the President's 
+Council on Environmental Quality, along with 25 respected 
+environmental groups, including the Audubon Society, the League 
+of Conservation Voters, Natural Resources Defense Council and 
+the Sierra Club strenuously oppose similar legislation 
+considered in the last Congress.
+    The next bill, H.R. 712, the ``Sunshine for Regulatory 
+Decrees and Settlements Act of 2015,'' has a simple goal, to 
+greatly discourage the use of settlement agreements and consent 
+decrees by Federal agencies when they fail to meet their 
+regulatory obligations as mandated by Congress.
+    Why is this bill problematic? Well, here are a few reasons, 
+as with the prior bill, H.R. 712 would effectively delay the 
+implementation of regulatory protections, thereby jeopardizing 
+public health and safety. For example, the bill gives opponents 
+of regulation multiple opportunities to stifle rulemaking by 
+allowing essentially any third party who is affected by the 
+regulatory action at issue in a covered civil action to 
+intervene in that civil action subject to rebuttal, to 
+participate in settlement negotiations, and to submit public 
+comments about a proposed consent decree or settlement 
+agreement that agencies would be required to respond to before 
+such decree or agreement can be entered in court.
+    Remember, Federal agencies are often sued for their failure 
+to meet their statutory obligations, including missing 
+rulemaking deadlines. Consent decrees and settlement agreements 
+help to enforce the statutory mandates and assure that these 
+agencies meet their obligations by a date certain. But, H.R. 
+712 would needlessly impede this enforcement process by 
+imposing an extensive series of burdensome requirements on 
+agencies seeking to enter into consent decrees or settlement 
+agreements.
+    A broad coalition of civil rights, environmental consumer 
+protection, and other public interest groups opposed a 
+substantially similar bill considered in the 112th and the 
+113th Congresses. These organizations include the Alliance for 
+Justice, the American Association for Justice, the Center for 
+Food Safety, the Defenders of Wildlife, Earth Justice, the 
+Natural Resources Defense Council and the Center for Effective 
+Government and Public Citizen. Additionally, the Administration 
+threatened to veto H.R. 712's predecessor from the 112th 
+Congress, stating that it would spawn excessive regulatory 
+litigation and introduce redundant processes for litigation 
+settlements.
+    And finally, we have H.R. 1155, the ``Searching for and 
+Cutting Regulations that are Unnecessarily Burdensome Act of 
+2015'' or for short the ``SCRUB Act.'' Most observers would 
+agree in principle that retrospective review of existing 
+regulations is a good idea. Agencies should periodically assess 
+whether the rules they have promulgated are as effective as 
+they can be or whether they are even necessary in light of 
+changed circumstances. Unfortunately, the SCRUB Act would not 
+simply require retrospective review, instead it is yet another 
+attempt to hobble the ability of agencies to regulate and 
+thereby prevent them from protecting public health and safety 
+based on unsubstantiated rhetoric that regulations inhibit 
+economic growth.
+    As a threshold matter, the central feature of the bill is 
+the establishment of a commission to identify rules that should 
+be eliminated. The commission would effectively be able to 
+second guess the judgments of Congress and the agencies with 
+respect to the need for certain rules and the science and 
+analysis warranting such rule.
+    The bill reflects a blatantly one sized, unbalanced 
+approach to retrospective review. For example, virtually all of 
+the bills objectives and mechanisms are one-way ratchet. The 
+measure is designed to result in the repeal or amendment of a 
+rule only to eliminate or reduce costs regardless of the rules 
+benefits. Tellingly, H.R. 1155 does absolutely nothing to 
+promote actions that would enhance the benefits of rules.
+    In closing these measures threaten critical public health 
+and safety protections. It's a shame that the majority has 
+chosen to largely ignore the concerns of my colleagues and I 
+have previously identified with these bills.
+    I thank the witnesses for appearing today and look forward 
+to their testimony.
+    Mr. Marino. Thank you, Mr. Conyers.
+    Without objection, other Members opening statements will be 
+made part of the record.
+    We have a very distinguished panel before us today.
+    And I will begin by swearing in our witnesses before 
+introducing them.
+    If you would please rise and raise your right hand.
+    Do you swear that the testimony you are about to give is 
+the truth, the whole truth, and nothing but the truth, so help 
+you God?
+    Please let the record reflect that all the witnesses have 
+responded in the affirmative, and you may be seated, gentlemen.
+    Our first witness is Mr. William Kovacs. Mr. Kovacs 
+provides the overall direction, strategy and management for the 
+environment, technology and regulatory affairs division as 
+senior vice president of the division at the U.S. Chamber of 
+Commerce. Since he joined the Chamber in March 1998, Mr. Kovacs 
+has transformed a small division, concentrated on a handful of 
+issues in Committee meetings into one of most significant in 
+the organization. His division initiates and leads campaign 
+issue campaigns on energy, legislation, complex environmental 
+rulemaking, telecommunications reform, emerging technologies 
+and applying sound science to the Federal regulatory process.
+    Mr. Kovacs previously served as chief counsel and staff 
+director for the House Subcommittee on Transportation and 
+Commerce. He earned his J.D. from the Ohio State University 
+College of Law and a Bachelor's degree of science degree from 
+the University of Scranton magna cum laude.
+    Welcome, sir.
+    Mr. Kovacs. Thank you, Mr. Chairman.
+    Mr. Marino. Sir, I'm going to introduce everybody and then 
+we will come back, do it that way.
+    Our second witness is Mr. Sam Batkins. Mr. Batkins is 
+director of regulatory policy at the American Action Forum. Mr. 
+Batkins research focuses on the rulemaking efforts of 
+administrative agencies and related efforts of Congress. His 
+work has appeared in The Wall Street Journal, The New York 
+Times, the Hill, National Review Online, Reuters, the 
+Washington Post among other publications.
+    Prior to joining the Forum, Mr. Batkins worked at the U.S. 
+Chamber of Commerce Institute for Legal Reform and National 
+Taxpayers Union. At the U.S. Chamber he focused on lawsuit 
+abuse, tort reform and Federal regulations. At the National 
+Taxpayers Union he focused on State and Federal spending. Mr. 
+Batkins received his B.A. in political science summa cum laude 
+from Sewanee, University of the South. He received his J.D. 
+from Catholic University of America, Columbus School of Law. 
+Welcome, sir.
+    Our next witness is Dr. Patrick McLaughlin. Am I 
+pronouncing that correctly?
+    Mr. McLaughlin. Yes.
+    Mr. Marino. Dr. McLaughlin is senior research fellow at the 
+Mercatus Center for George Mason University. His research 
+focuses on regulation and the regulatory process with 
+additional interest in environmental economics, international 
+trade, industrial organization, and transportation economics. 
+And his research is regularly published.
+    Prior to joining Mercatus, Dr. McLaughlin served as a 
+senior economist at the Federal railway administration in the 
+United States Department of Transportation. Dr. McLaughlin has 
+published in the fields of law and economics, public choice 
+environmental economics and international trade. He owns a 
+Ph.D. in economics from Clemson University, and welcome to you, 
+sir.
+    And our final witness is Mr. Amit Narang.
+    Mr. Narang. Very good.
+    Mr. Marino. Good. Mr. Narang is the regulatory policy 
+advocate for Public Citizen and specializes on issues related 
+to the Federal regulatory process. Prior to working for Public 
+Citizen, Mr. Narang worked at the Administrative Law Review as 
+an articles editor.
+    Mr. Narang has many media appearances, including quotes in 
+The New York Times and Bloomberg BNA, formerly the Bureau of 
+National Affairs, Mr. Narang is a graduate of the American 
+University, Washington College of Law. And thank you, sir.
+    Each of the witnesses' testimonies or written statements 
+will be entered into the record in its entirety. I ask that 
+each witness summarize his testimony in 5 minutes or less. And 
+to help you stay within that time, there is a timing light in 
+front of you. The light will switch from green to yellow, 
+indicating that you 1 minute to conclude your testimony.
+    And when the light turns red it indicates that your 5 
+minutes have expired. And if you go over that a little bit, 
+that's not a real problem, I'll just tap to give you an 
+indication that perhaps you could wrap up for us.
+    With that, I'm going to call on Mr. Kovacs for his opening 
+statement.
+
+    TESTIMONY OF WILLIAM L. KOVACS, SENIOR VICE PRESIDENT, 
+ ENVIRONMENT, TECHNOLOGY & REGULATORY AFFAIRS, U.S. CHAMBER OF 
+                            COMMERCE
+
+    Mr. Kovacs. Thank you, Chairman Marino and Ranking Member 
+Johnson and Members of the Committee for inviting me here today 
+to testify on H.R. 348, currently known as RAPID, which 
+addresses permit streamlining, and H.R. 712, which we refer to 
+as the Sunshine Act, and that would bring transparency to the 
+sue and settle process which enables interest groups to set 
+agency priorities.
+    When we discuss regulatory reform it is usually about 
+Federal agency accountability, transparency, public 
+participation and efficiency, but one of the points that we've 
+been making lately is regulatory reform is also about Article I 
+of the Constitution and Congress' ability to hold agencies 
+accountable for the intent of Congress.
+    The primary goal of RAPID is to bring good management 
+practices, and I repeat that just good management practices, to 
+the process of issuing infrastructure permits by requiring 
+Federal agencies to do a few simple things. One, designate a 
+lead agency to coordinate and manage the environmental review 
+process within specified time frames. Two, manage Federal and 
+State environmental reviews concurrently rather than 
+sequentially. And three, establish a 6-month statute of 
+limitations for bringing suit against the project, a time 
+period Congress has similarly set for legal challenges in 
+Federal construction projects and water construction projects.
+    Passage of RAPID is essential if this Nation is to foster 
+job creation. RAPID does not and I want to repeat this, does 
+not mandate that any particular project be built, but it does 
+require Federal agencies to provide the developer with a 
+decision within a fixed period of time. Moreover, when RAPID 
+was deployed in transportation construction projects in 
+SAFETEA-LU, it cut the time to complete a NEPA statement from 
+73 months to 37 months. The concept of permit streamlining has 
+been supported in various amendments in the House and the 
+Senate by the Administration and by Senators as diverse as 
+Boxer and Barrasso and governors across the Nation. This is a 
+bipartisan issue that this Congress should be capable of 
+enacting.
+    Turning now to H.R. 712, the Sunshine Act, this addresses 
+the issue of sue and settle, a situation which occurs when an 
+agency agrees to the demands of an interest group by 
+voluntarily entering into a court approved consent decree. The 
+process has resulted in over 100 regulations being issued in 
+the last 5 years, many of them imposing costs over a $1 billion 
+per regulation.
+    The Sunshine Act and I am going to use the word merely 
+again, the Sunshine Act, merely requires that an agency seek 
+public comment from the public prior to the filing of a consent 
+decree and provide the comments to the court.
+    Second, it allows interested parties to seek to intervene 
+if they can establish that their rights are not being 
+adequately protected.
+    The Chambers' interest in these issues grew out of the fact 
+that the regulations were being imposed both on States and our 
+members as a result of settlements that they had no knowledge 
+of. We discovered that neither EPA nor the Department of 
+Justice even maintained a database of such lawsuits but we were 
+assured there were very few. We therefore undertook the 
+research that culminated with a very extensive inventory of sue 
+and settle amendments and it lists well over 100 new 
+regulations that have resulted in the last 6 years from sue and 
+settle agreements.
+    Bringing a management process to the issuance of permits, a 
+management process, none of the substances changed. And 
+bringing transparency to the filing of consent decrees that are 
+going to bind the agency for years can only describe as good 
+government, I'm sure I'll have some questions on it. Thank you 
+very much.
+    Mr. Marino. Thank you, sir.
+    [The prepared statement of Mr. Kovacs follows:]
+    
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    
+    
+    
+                               __________
+    Mr. Marino. Mr. Batkins.
+
+             TESTIMONY OF SAM BATKINS, DIRECTOR OF 
+            REGULATORY POLICY, AMERICAN ACTION FORUM
+
+    Mr. Batkins. Thank you, Chairman Marino, Ranking Member 
+Johnson and Members of the Subcommittee.
+    The Federal Government should endeavor to remove outdated 
+regulations that stifle job creation and make our economy less 
+competitive. That was President Obama echoing similar 
+statements made from every President since Jimmy Carter. Both 
+Presidents focused on regulatory accumulation and both tasked 
+their agencies to look back at their existing regulatory slate 
+and reform rules.
+    Yet more than a generation later, here we are again 
+discussing reform regulation. And it is because regulatory 
+reform has failed so often in the past that we continue to talk 
+about its place in the future. When we say past reform has 
+failed, it is not just a cavalier opinion, it is a fact. The 
+agencies and the Administration tell us reform has failed. 
+Every year the Office of Information and Regulatory Affairs 
+OIRA discloses hundreds of paperwork violations. HHS alone was 
+responsible for 80 violations last year.
+    When Congress amended the Paperwork Reduction Act in the 
+1990's, OIRA set a goal to reduce cumulative regulatory burdens 
+by 35 percent, a reduction of 4.6 billion hours. Instead 
+regulators increased paperwork hours by 17 percent.
+    Then, Congress passed the Congressional Review Act the CRA, 
+they instructed agencies to send all rules including major 
+regulations to Congress and the Government Accountability 
+Office, they haven't. In a recent report Curtis Copeland, at 
+the Administrative Conference of the United States found 
+thousands of rules that violated the CRA, including 43 major 
+rules.
+    In 2012, only 71.6 percent of Federal rules followed CRA 
+procedure. I am sure regulators expect better compliance rates 
+from companies and that Congress expects better performance 
+from regulatory agencies. The history of regulatory reform 
+instructs the debate today. It is clear that given the current 
+resources at agencies, regulatory reform and looking back at 
+existing rules might not be a major priority. And that's 
+understandable, but just look at the retrospective reports that 
+claim that new ACA rules or the regulation on for-profit 
+colleges universities is somehow considered a regulatory 
+lookback.
+    Either agencies examine past regulations and seek to 
+improve their effectiveness or they implement rules that to add 
+to the cumulative regulatory burden. Too often agencies 
+practice the latter. If that's retrospective review, then 
+everything is. Asking agencies to issue new regulations and 
+examine the cumulative impact of existing rules appears to be 
+asking for too much. This is why scholars from across the 
+political spectrum have endorsed the idea of an independent 
+commission charged with reviewing the regulatory burden. A body 
+charged with conducting a comprehensive analysis of the 
+regulatory state while ensuring that our regulations remain 
+effective could yield tremendous benefits.
+    The goal is not to undue the regulatory state, the goal is 
+to improve it. There is so much we simply don't know about the 
+175,000 pages of Federal regulation. This ignorance doesn't 
+help us ensure the health and safety of Americans and it 
+doesn't help us promote economic growth.
+    As President Carter and President Obama understood, there 
+have been tremendous benefits to regulatory reform, and there 
+are additional cost savings that could be achieved here today. 
+According to our estimates, it's successful. It could generate 
+approximately 1.5 billion hours of less paperwork for 
+Americans, anywhere from 48 billion to 90 billion in reduced 
+regulatory costs.
+    The dual goals of a thorough review of the entire 
+regulatory system and reducing burdens by 15 percent are 
+ambitious, but so were the initial executive orders on 
+regulatory reform. While past attempts at reform might have 
+been unsuccessful, there is no reason policymakers can't learn 
+from previous mistakes and establish a balanced system that 
+increases transparency, evaluates the regulatory slate and 
+reduces burdens and rules all while protecting health and 
+safety. These are bipartisan principles, standard practice 
+internationally and not controversial ideas.
+    Thank you for the time. I look forward to answering your 
+questions.
+    Mr. Marino. Thank you, sir.
+    [The prepared statement of Mr. Batkins follows:]
+    
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    
+    
+                               __________
+    Mr. Marino. Dr. McLaughlin.
+
+  TESTIMONY OF PATRICK A. McLAUGHLIN, Ph.D., SENIOR RESEARCH 
+       FELLOW, MERCATUS CENTER AT GEORGE MASON UNIVERSITY
+
+    Mr. McLaughlin. Chairman Marino, Ranking Member Johnson and 
+Members of the Committee, thank you for inviting me.
+    As an economist and senior research fellow at the Marcatus 
+Center at George Mason University, my primary research focuses 
+on regulatory accumulation legislation and the regulatory 
+process so it is my pleasure to testify on today's topic.
+    In previous testimony, I have highlighted the fact that 
+regulatory accumulation creates substantial drag on the 
+economic growth by impeding innovation and entrepreneurship. 
+Today, I have two other points that may happen help in 
+examining the reforms under consideration.
+    First, I will discuss the affects of regulatory 
+accumulation or to put it another way, why retrospective 
+analysis of regulations can result in what amounts to a tax 
+refund with benefits going largely to lower income Americans.
+    My second point is that not all attempts at regulatory 
+reform are equal. Several factors tend to contribute to 
+meaningful and successful regulatory reform efforts. The most 
+important of these is the use of an independent body to 
+identify regulations that need to be modified or eliminated. 
+Any retrospective analysis efforts that leaves this task in the 
+hands of the same agencies that created the regulations in the 
+first place is unlikely to succeed.
+    Regulations can be regressive, particularly in their 
+affects on the prices paid by consumers. A regressive 
+regulation is one whose burden disproportionately falls on 
+lower-income individuals and households. When regulations force 
+producers to use more expensive production processes, some of 
+those production cost increases are passed along to consumers 
+in the form of higher prices. For example, in 2005 the Food and 
+Drug Administration banned the use of chlorofluorocarbons as 
+propellants in medical inhalers, like the inhalers millions of 
+Americans use to treat asthma. Since then the average price of 
+inhalers has tripled. While individuals with high incomes might 
+be able to absorb this price increase, people with low incomes 
+may have to choose not to buy an inhaler and instead leave the 
+asthma untreated.
+    The cumulative costs of regulations amounts to a hidden 
+regressive burden, but it is a burden that could be lightened. 
+In fact, one way of viewing that burden is as an opportunity, 
+retrospective analysis that eliminates a portion of the 
+regulatory cost burden would act like a progressive tax refund. 
+Let me explain with an example. The regulatory cost burden can 
+be viewed as a tax form by all households. For illustrative 
+purposes, suppose the regulatory cost burden equals about 
+$8,000 per household.
+    Now consider a regulatory reform that would reduce this 
+cost burden by 15 percent, which would be $1,200 per household 
+per year, this is effectively an annual regulatory cost refund.
+    This reduction in regulatory burden would have a much 
+larger affect on the purchasing power of the low-income 
+household than the high-income end household. To the low-income 
+household the regulatory cost refund would equal nearly 5 
+percent of 1 year's household income. To the high income 
+household, it would equal only.4 percent of 1 year's income. 
+This shows that a regulatory cost refund of any amount would 
+work just like a progressive tax cut. Even better, unlike one-
+time tax rebates this regulatory cost refund would repeat year 
+after year.
+    So what makes for a successful retrospective analysis? I 
+discuss several key factors for success in my written testimony 
+as well as in my research and I would like to highlight just 
+two of them here today. First, we need to establish criteria 
+for identifying unwanted regulations, I suggest a test of 
+whether a regulation is functional.
+    Functional rules address current significant risks, 
+mitigate some amount of those risks and do not have significant 
+unintended consequences or excessive compliance costs relative 
+to their benefits, non functional rules are missing one or more 
+of these features.
+    The key to achieving significant improvement of the problem 
+of regulatory accumulation is first identifying as many 
+nonfunctional rules as possible and then either eliminating 
+them or changing them so that they become functional.
+    Second, the task of identifying nonfunctional rules should 
+be placed in the hands of an independent body. The reason for 
+that is to achieve as objective an assessment as possible. If 
+the body tasked with the analysis of a rule has incentive to 
+find that the rule is functional or has insensitive to find 
+that it is non functional, the review risks becoming exercise 
+in advocacy rather than an objective analysis. This is a 
+primary reason why I recommend that retrospective analysis of 
+regulations should not be left in the hands of agencies that 
+have incentives find specific results. We should not expect 
+agencies to give any better assessment of their own rules than 
+professors would expect of students grading their own tests 
+students.
+    In conclusion, regulatory accumulation with its adverse 
+impact on economic growth by impeding innovation and 
+entrepreneurship is now a widely recognized problem. 
+Furthermore, the costs of regulation are disproportionately 
+born by low income households. Retrospective analysis of 
+regulations is an opportunity to improve our economy to 
+facilitate innovation and to create a progressive regulatory 
+cost refund. Thank you, and I would be happy to answer any 
+questions.
+    Mr. Marino. Thank you.
+    [The prepared statement of Mr. McLaughlin follows:]*
+---------------------------------------------------------------------------
+    *Note: Supplemental material submitted with this witness statement 
+is not included in this printed record but is on file with the 
+Subcommittee and the statement can be accessed, in its entirety, at:
+
+      http://docs.house.gov/meetings/JU/JU05/20150302/103063/
+      
+      HHRG-114-JU05-Wstate-McLaughlinP-20150302.pdf.
+      
+      [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+      
+                       __________
+                       
+                       
+    Mr. Marino. And sir, again I want to be sure I'm 
+pronouncing you name correctly, is it Narang.
+    Mr. Narang. It's Narang.
+    Mr. Marino. Narang.
+    Mr. Narang. Although you give it a much better first try 
+than most.
+    Mr. Marino. Narang, okay. Mr. Narang, would you please give 
+your opening statement.
+    And I apologize.
+
+                   TESTIMONY OF AMIT NARANG, 
+           REGULATORY POLICY ADVOCATE, PUBLIC CITIZEN
+
+    Mr. Narang. Chairman Marino, Ranking Member Johnson and 
+Members of the Subcommittee, thank you for the opportunity to 
+testify today on the three legislative proposals that are the 
+subject of today's hearing.
+    I am Amit Narang, regulatory policy advocate of Public 
+Citizen's Congress Watch. Public Citizen is a national public 
+interest organization with more than 350,00 members and 
+supporters. For more than 40 years we have successfully 
+advocated for stronger health, safety, consumer protection and 
+other rules, as well as for a robust regulatory system that 
+curtails corporate wrongdoing and advances the public interest.
+    I'd like to first address the proclaimed rationale for this 
+legislation which is the claim that regulations hurt the 
+economy. This rhetoric is simply not supported by reality. All 
+studies that have attempted to demonstrate this falsehood have 
+been thoroughly discredited by credible independent and in 
+certain cases nonpartisan observers such as the Congressional 
+Research Service. None of these studies have been subjected to 
+peer review and none would pass scrutiny under peer review.
+    I want to focus on one report in particular by the 
+Competitive Enterprise Institute which asserts that regulation 
+costs our economy $1.8 trillion annually, which breaks down to 
+about $15,000 per household. The CEI report is readily cited by 
+lawmakers and by a fellow witness at this hearing written 
+testimony. And yet The Washington Post found the study 
+``misleading'' and worthy of two Pinocchios. The reports 
+authors themselves claim it is ``not scientific'' and ``rather 
+back of the envelope.''
+    This report and others relying on similar discredited and 
+methodology can not and should not inform critical policy 
+debates and certainly should not be the primary justification 
+for any legislation.
+    Turning to the legislation itself, let me start with the 
+SCRUB Act. The SCRUB Act presumes there are volumes of outdated 
+and unnecessary regulations ripe for repeal. But this 
+presumption is problematic given the lack of any concrete and 
+tangible examples of outdated or unnecessary regulations cited 
+by my fellow witnesses in their testimony.
+    Supporters may point to the Obama administration's 
+retrospective review process as proof that such regulations 
+exist. Actually, this compounds the SCRUB Act's problematic 
+premise. If the Administration has and is continuing to take 
+these regulations off the books, what is there really left for 
+the commission to do?
+    The commission would be better titled the retrospective 
+regulatory reduction commission since the commission only 
+promotes deregulation with no corollary mission to strengthen 
+regulatory standards that are too weak or identify gaps in our 
+regulatory protections that could prevent the next massive 
+chemical spill like the one we tragically saw occur in West 
+Virginia last year.
+    This lack of balance carries over to Title II of the bill, 
+which requires agencies to repeal commission identified rules 
+before issuing new ones. Here the repeal of rules would not 
+undergo cost benefit or any regulatory impact analysis nor 
+would the public be allowed to comment both of which would 
+still pertain to the issuance of new rules.
+    Potentially even more troubling in this double standard is 
+the lack of any exceptions to one in, one out scheme for 
+emergency rules, addressing urgent public health and safety 
+crisis. This could endanger the public by forcing agencies to 
+repeal rules before they can issue new health and safety 
+regulations to address a public health emergency, such as an 
+Ebola outbreak.
+    Now let me turn to the Sunshine Act. The Sunshine Act 
+reveals one of the most troubling aspects of our current 
+regulatory system. The fact that agencies routinely miss 
+explicit and mandatory congressional deadlines to issue new 
+rules. One quick glance at Public Citizens' visual depiction of 
+the regulatory process explains why. The current process is a 
+paragon of inefficiency with a maze of redundant requirements 
+for agencies to complete before finalizing any rules. It's no 
+wonder given dwindling resources that agencies often fail to 
+meet congressional deadlines.
+    Congress should be making it easier to enforce the law when 
+agencies miss congressionally-mandated deadlines. The Sunshine 
+Act unfortunately does the opposite. The GAO's recent report on 
+the so called sue and settle phenomenon put to bed any claims 
+of impropriety in the process. And for the sake of brevity I 
+refer you to my written testimony for a fuller explanation.
+    Finally, the RAPID Act represents a very different approach 
+to the previous two bills expediting agency action regarding 
+permit approvals for large infrastructure projects including 
+energy projects. It does this by dramatically scaling back the 
+process agencies must undertake for determining the 
+environmental impacts, meaning the costs and the benefits of 
+these--to the environment that such a project would pose.
+    The National Environmental Policy Act or NEPA requires 
+agencies to conduct this important analysis in order to 
+minimize the environmental footprint of the proposed energy or 
+infrastructure project. In perhaps the most troubling reform, 
+the bill allows project developers themselves to prepare the 
+environmental impact statements, allowing those developers to 
+decide the impact on the environment its own proposed project 
+will have. This is akin to letting, for example, the big banks 
+on Wall Street decide the costs and benefits of new Wall Street 
+reforms.
+    Finally, it is important to step back and take stock of the 
+stark double standard created by enactment of all three 
+legislative proposals here, along with other so-called 
+regulatory reform measures the House has already passed such as 
+H.R. 185, the ``Regulatory Accountability Act.''
+    I am a sports fan and I hope many of you are too, but with 
+apologies to non-sports fans, allow me to use a baseball 
+analogy to illustrate this double standard. In a baseball game 
+each team gets a chance to bat nine times in nine innings, just 
+a little asterisk there, but let's say the rules were changed 
+to allow one team to bat 12 times, and the other team to only 
+bat six times. While this would not ensure that the team that 
+bats more often would always win, it would make it far more 
+likely by making the rules unfairly advantage one team over the 
+other. This unfair advantage due to a double standard in the 
+procedural rules is exactly what will occur by expediting 
+permit approvals to the RAPID Act while further delaying and 
+impeding new rules to protect the public through the Sunshine 
+and SCRUB Acts.
+    The Chamber of Commerce is explicit about supporting this 
+double standard advocating for one process when agencies 
+approve permits and a very different one when agencies approve 
+new regulatory standards. If the Regulatory Accountability Act 
+``improves the rulemaking process'' as the Chamber claims, 
+wouldn't it make sense for the Chamber to support approving 
+permits through that process as well?
+    Why shouldn't agencies use the same process when 
+establishing measures to protect servicemembers from predatory 
+lending, as they do when approving new permits. By manipulating 
+the process, these legislative measures pick winners and losers 
+thereby making our government work for corporate special 
+interests and against protecting the public.
+    Thank you and I look forward to your questions.
+    Mr. Marino. Thank you.
+    [The prepared statement of Mr. Narang follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+                               __________
+    Mr. Marino. One of my colleagues, Mr. Collins, must get to 
+another hearing.
+    Mr. Collins. The Rules Committee.
+    Mr. Marino. So I am going to recognize Mr. Collins for 5 
+minutes of questions.
+    Mr. Collins. Thank you, Mr. Chairman.
+    I apologize, I have got rules starting at 5 and I'm trying 
+to do both.
+    This is very important to me, and I appreciate you holding 
+this hearing today and going forward.
+    Before we start, I ask unanimous consent to enter into the 
+record a written statement from the Attorney General of the 
+State of Georgia, Sam Olens. Mr. Olens is unable to be here 
+today, but he continues to be a leader on the sue and settle 
+issues and I appreciate his support.
+    Mr. Marino. Without objection.
+    [The information referred to follows:]
+                  Prepared Statement of Sam S. Olens, 
+                Attorney General of the State of Georgia
+    House Resolution 712, the ``Sunshine for Regulatory Decrees and 
+                           Settlements Act''
+The views expressed in this testimony are those of the author alone and 
+      do not necessarily represent those of the State of Georgia.
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                               __________
+    Mr. Collins. I introduced the Sunshine for Regulatory 
+Decrees and Settlements Act because too often, especially under 
+this Administration, we have seen pro-regulatory plaintiffs sue 
+sympathetic agencies to enact regulations in the dark, absent 
+public input and often at the expense of affected parties. It 
+is unacceptable for taxpayers hard-earned dollars to fund 
+backroom deals to support the rulemaking process.
+    These type of settlements have tangible affects and they 
+affect the industries across the country, including the 
+thriving agricultural community in the Ninth District of 
+Georgia. The hardworking men and women in Georgia and across 
+the country are trying to make an honest living and have a 
+problem with special interests threatening their livelihood. 
+Moreover, under sue and settle they are not even allowed to 
+participate in the negotiations that will ultimately and 
+directly impact them.
+    In short, sue and settle agreements create regulation 
+through litigation. The potential for abuse and the lack of 
+transparency in the system is why I believe so strongly in the 
+need for this legislation. My builder will restore transparency 
+and increase public participation and input. H.R. 712 addresses 
+weaknesses in the current system while preserving consent 
+decrees as an important mechanism for settling legal disputes. 
+The ability to have citizens to hold government accountable is 
+an important part of administrative law, but it must be 
+appropriately carried out with transparency and full public 
+participation.
+    Before I get started, and I know your coworker or someone 
+you had holding a sign today, Mr. Narang, came--I couldn't 
+think of a better witness for us. If he can stand there, and I 
+know his arms would give out after a while, and he could hold 
+that up there and explain.
+    The general public could just watch and say, is this place 
+broken? And all I have to do is take to your poster and say, 
+yes, it's broken. Can you imagine what small big, big business 
+and anywhere in the country looks at the rulemaking process 
+that affects their lives when they look at that poster. If 
+you're having to sit here and think that we need not be 
+involved in this and get the Federal Government streamlined out 
+of this, I'm not sure what we're doing here.
+    But I hold a real question you, because you brought up 
+baseball, I like baseball. Let me ask you something, in your 
+baseball analogy you talked about fairness. And in sue and 
+settle what we're dealing with here is we are not stopping 
+access to courts, we're not stopping the process of somebody 
+being able to sue because they missed a deadline. What we are 
+saying here though is you have got to be transparent about it. 
+You've got to open it up and before the ruling comes down you 
+have to hear from affected parties.
+    So using your baseball analogy, can you tell me if it would 
+be fair that if the--in a process that we put that the one team 
+could always have a runner starting their batting series at 
+third base, is that fair? Where they--and the other team cannot 
+know who it's going to be and then also that if they can't get 
+it in three outs, we'll actually maybe give them one more, do 
+you think having that participation would be fair?
+    Mr. Narang. Thank you for the question.
+    So one runner's starting at third base is essentially what 
+Congress dictates. All the settlement is trying to do is 
+enforce the law that has already been decided by----
+    Mr. Collins. Well, I'm going to reclaim my time here for a 
+second. Because what this actually does is is that if you and I 
+have a disagreement--I'll be the EPA and you your 
+organization--you find the time, you want to sue me, you say 
+because we didn't get this time because I want to see agreement 
+get set and there is plenty in the record that talks about 
+these sue and settle agreements.
+    But unfortunately, it affects Mr. Ratcliffe. Under the 
+current way it is set up, is we could go into our agreement, I 
+agree with you and I say, okay, let's get a dissent decree and 
+then put it out there, but he never gets an input. Is that 
+fair? Is that really fair?
+    Mr. Narang. So the situation that you're referring to here 
+is entirely based on the fact that Congress has mandated legal 
+requirements. The fairness or lack of fairness probably accrues 
+to the fact that these legal requirements exist in the first 
+place.
+    And when an agency because of the enormous process that I 
+pointed out earlier misses a deadline, that shouldn't be very 
+surprising to anybody looking at the process and an agency like 
+the EPA missing a deadline ascribed by in law by Congress. It's 
+a very simple case. There is not very many issues of fairness 
+when essentially in court all you have to prove is an agency 
+was supposed to issue, you know, a regulation by say March 2nd 
+and they don't issue it by March 2.
+    Mr. Collins. And I understand. My time is going to end and 
+I hate to stop you here, because I would continue this because 
+you make our case for us and I know didn't come here to do 
+that, because you said the whole process is so messed up this 
+is why it's not fair and Congress did it. It is now time for 
+Congress not to do it.
+    I'm sorry I'm not going to get to the Chamber because the 
+GAO report has a lot of problems. And also I see my friend in 
+the back Jason Smith from Missouri, his drawback is not about 
+outdated regulations, it is about cleaning up the process, and 
+I appreciate him.
+    And with that, Mr. Chairman, I yield back.
+    Mr. Marino. Thank you.
+    The Chair now recognizes the gentleman from Georgia, the 
+Ranking Member of the Subcommittee, Congressman Johnson.
+    Mr. Johnson. Thank you, Mr. Chairman.
+    I'd ask unanimous consent to insert the following materials 
+into the record: a December 2014 report commissioned by the 
+American Conference of the United States on Retrospective 
+Review discussing the shortcomings of the square back, also 
+testimony of Dinah Bear, the former general counsel of the 
+Council on Environmental Quality in opposition to the RAPID 
+Act.
+    The testimony of John Walke, clean air director for Natural 
+Resources Defense Council, in opposition to the Sunshine for 
+Regulatory Decrees and Settlements Act. Also letters from the 
+Coalition for Sensible Safeguards, an alliance of more than 70 
+public interest consumer advocacy civil rights and justice 
+groups in opposition to H.R. 712 and H.R. 1155, also a 2012 
+Congressional Research Service report on the NEPA approval 
+process.**
+---------------------------------------------------------------------------
+    **Note: The submitted document from the Congressional Research 
+Service (CRS) is not included in this printed record but is on file 
+with the Subcommittee and can be accessed at: http://www.crs.gov/
+pdfloader/R42479.
+---------------------------------------------------------------------------
+    Also, a 2014 GAO report entitled ``Impact of Deadline Suits 
+on EPA's Rulemaking is Limited.''*** And last but not least, 
+two reports by the Center for Progressive Reform on regulatory 
+cut-go and the benefits of regulation.****
+---------------------------------------------------------------------------
+    ***Note: The submitted document from the United States Government 
+Accountability Office (GAO) is not included in this printed record but 
+is on file with the Subcommittee and can be accessed at: http://
+www.gao.gov/assets/670/667533.pdf.
+    ****Note: The submitted documents from the Center for Progressive 
+Reform (CPR) are not included in this printed record but are on file 
+with the Subcommittee and can be accessed at:
+
+      http://progressivereform.org/articles/Regulatory_Pay-
+---------------------------------------------------------------------------
+      Go_1214.pdf
+
+      http://www.progressivereform.org/articles/
+      RegBenefits_1109.pdf
+    Mr. Marino. Without objection.
+    [The information referred to follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+                               __________
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               __________
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               __________
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               __________
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               __________
+    Mr. Johnson. Thank you.
+    Mr. Kovacs, in your written testimony, it appears that you 
+blame the delay in the Savannah River dredge project on the 
+NEPA approval process, when in fact the delay was caused by 
+funding that was not in place, and also a 2-year lawsuit by the 
+State of South Carolina, which denied the permit to deepen the 
+river channel. And that deepening had already been approved by 
+the Army Corps of Engineers the lead agency overseeing the NEPA 
+process.
+    So those things being true, how would the RAPID Act 
+expedite the completion of the Savannah Harbor expansion 
+project given the lack of Federal and State funding and the 
+blocking of the project through the State regulatory action 
+issues which were wholly unrelated to the NEPA approval 
+process?
+    Mr. Kovacs. Well, that's an excellent question, thank you. 
+One of the things that RAPID does and it----
+    Mr. Johnson. How would it how would it--the Savannah River 
+project, how would it----
+    Mr. Kovacs. Savannah River, what happens in RAPID is by 
+putting a time limit on it, 2 years, 3 years, whatever it is, a 
+decision has to be made so that the developer can either decide 
+to stay or go. One of the things----
+    Mr. Johnson. And so that decision would have to be made 
+within the 2-year period regardless of what it was that was 
+holding up the project moving forward, whether or not it be 
+lack of funding, whether or not it be----
+    Mr. Kovacs. Well, for the environmental impact statement. I 
+mean, for example, if you can't get through the environmental 
+review process, you're not even going to even seek a permit.
+    Mr. Johnson. But I mean, assuming you get through the 
+environmental review process, if there is some another reason 
+that hangs the project up, the RAPID Act would force approval 
+of the project.
+    Mr. Kovacs. Yeah, RAPID does not change any substantive 
+law. What it does----
+    Mr. Johnson. Other than perhaps cause it not to be 
+fulfilled.
+    Mr. Kovacs. Well, it sets up timeframes of 2 years or 3 
+years, depending upon how it is, and then it sets up--if the 
+project is approved, it sets up the 6 months statute of 
+limitations like you did in SAFETEA-LU and MAP-21 and the WRDA 
+bill.
+    So as I understand what the Committee's trying to do with 
+this legislation is to take existing structures that have 
+worked, like SAFETEA-LU, that's been here now for 7, 8 years. 
+It's worked. There have been no problems. It incorporated it in 
+MAP-21, and it incorporated it in WRDA, and they're trying to 
+put the timeline on it for the very simple reason----
+    Mr. Johnson. Well, and----
+    Mr. Kovacs [continuing]. That the developer's spending 
+hundreds of millions of dollars just developing a project.
+    Mr. Johnson. And regardless of the cost to the--to the 
+developer, there are some societal costs that would be incurred 
+by failing to adhere to laws already in place, other laws that 
+need to be followed, and the RAPID Act would be a super mandate 
+that overrides all other laws imposing deadlines relating to 
+project reviews by automatically approving any permit or 
+license relating to a major Federal project if the onerous 
+requirements are not met within 1 year. Isn't that correct?
+    Mr. Kovacs. No. That's not correct. If it's----
+    Mr. Johnson. Well, let me ask Mr. Narang, then. Do you 
+agree that that is correct, Mr. Narang?
+    Mr. Narang. That's the way I read the bill.
+    Mr. Johnson. All right. Thank you.
+    I'll yield back.
+    Mr. Marino. Gentleman's time is expired.
+    The Chair now recognizes the Congressman from Michigan, 
+Congressman Trott.
+    Mr. Trott. Thank you, Mr. Chairman.
+    I want to thank all of the witnesses for their testimony.
+    Mr. Narang, have you ever run a business before?
+    Mr. Narang. I have not, no.
+    Mr. Trott. Okay. So let's set up a hypothetical here. Let's 
+say you're a home builder in Detroit and you buy 5 acres of 
+land, and you're going to build 20 homes in Detroit. You spend 
+$500,000 to buy the land, and you borrow that money from the 
+bank and you're paying interest on it. Do you think your 
+business would be more or less successful if it took the City 
+of Detroit 3 years to issue the building permits or 3 weeks?
+    Mr. Narang. Well, I would assume that it would be easier 
+for the home developer if, of course, it was issued in 3 weeks. 
+I don't know that I'd agree that that would be a sensible 
+decision given the speed at which it was made.
+    Mr. Trott. Well, so if it took 3 years, which it did for 
+many years in Detroit, what--would you be hiring people during 
+that time, or what would you be doing with--a, would you be 
+able to repay that 500,000, or would you be able to stay in 
+business? Would you be hiring people?
+    Mr. Narang. Thank you, Congressman. As you know, I am not 
+someone with experience in managing a business. So I don't 
+think that my insight would be very helpful.
+    Mr. Trott. Well, it's a real common sense question. You 
+borrow 500,000, you buy five acres of land, you're going to 
+build 20 houses, but for some reason it takes the governmental 
+unit 3 years to issue the permits so you can start building and 
+put the roads in and the sewers. How is your business going to 
+do during those 3 years, and how many jobs are you going to 
+create? That's a common sense answer. Wouldn't you think?
+    Mr. Narang. I think these issues are very complicated, and 
+the hypothetical doesn't include potential environmental 
+considerations from that development.
+    Mr. Trott. Okay. So in your statement you said that the 
+tradeoff between--there's no evidence to support the argument 
+that there's a tradeoff between economic growth and strong and 
+effective regulatory standards. So do you believe all of the 
+regulations in the code are strong and effective standards?
+    Mr. Narang. I didn't say that. No.
+    Mr. Trott. So you think some of the regulations should be 
+revisited?
+    Mr. Narang. I think many could be strengthened, and they 
+are too weak and ineffective currently. Unfortunately, the 
+SCRUB Act doesn't allow for that.
+    Mr. Trott. Could some of them be streamlined?
+    Mr. Narang. Could some of the regulations themselves be 
+streamlined?
+    Mr. Trott. Right.
+    Mr. Narang. It's unclear. I'd have to look at each specific 
+regulation, of course. I do think that the regulatory process 
+for new public health and safety regulations can definitely be 
+streamlined. It just takes one look at our chart for that to be 
+apparent.
+    Mr. Trott. So but you seem hesitant to acknowledge that 
+maybe there's some need in the Federal Government to streamline 
+regulations. I mean, you think most of the regulations are 
+pretty efficient as they relate to business?
+    Mr. Narang. I assume there could be, but unless I'm given--
+--
+    Mr. Trott. Do you think the RAPID Act and the SCRUB Act 
+help us try and streamline some of the regulations that are 
+undermining business?
+    Mr. Narang. So I'm a little hesitant to respond, 
+Congressman, only because of the way that you use streamline. 
+You know, a regulation is--sometimes has certain components in 
+order to be effective, and it may not be possible to streamline 
+certain regulations. I would be very comfortable speaking to 
+streamlining processes for adopting regulations.
+    Mr. Trott. So when I--at a very high level, when I speak to 
+a small business owner in my district, and in which I spoke to 
+many during the campaign, and they--he has eight employees, 
+it's a oil change business in Canton, Michigan, and he tells me 
+that Federal regulations are crunching his margins and causing 
+him not to be able to open another store, should I say: Well, 
+there's no evidence that Federal regulations are undermining 
+your business or causing you an inability to create jobs, and 
+just tell him to kind of hunker down and get it done? What 
+should I say to that person?
+    Mr. Narang. Congressman, you're misconstruing what I was 
+trying to say. So let me actually clarify. Maybe it's my own 
+fault.
+    I am talking about studies that claim in the aggregate, in 
+a macroeconomic sense, that regulations are harming the 
+economy. Those studies are baseless.
+    Mr. Trott. Okay.
+    Mr. Kovacs, how many jobs, do you think, could be created 
+by the enactment of the RAPID Act?
+    Mr. Kovacs. Well, I don't think we know how many jobs would 
+be created by this because projects are going on and off the 
+books all the time, but what we did do is in Project No Project 
+we looked at a series of projects that were seeking to get a 
+permit over a 1-year time period, and there were 351 projects 
+that produced electricity, and we picked that because we could 
+get good records on it, and as the Chairman had stated in his 
+initial--in his initial statement, it was roughly about a 1.9 
+million jobs on 351 projects and about a billion dollars--$600 
+billion in investment.
+    Mr. Trott. Okay. Thank you, sir.
+    I yield back my time.
+    Mr. Marino. Thank you.
+    The Chair now recognizes the Ranking Member of the full 
+Committee, the gentleman from Michigan, Congressman Conyers.
+    Mr. Conyers. Thank you, Chairman Marino.
+    Let me ask Attorney Narang this question: Is there any 
+empirical evidence not regulation--that regulations depress 
+jobs development? Is there any empirical evidence that 
+regulations depress job development?
+    Mr. Narang. Thank you, Congressman. So in the aggregate 
+from a macroeconomic standpoint, there's no empirical 
+evidence--credible empirical evidence to support that claim.
+    Mr. Conyers. That's what I've been thinking, but I'd like 
+to explore it a little further. Is there any empirical evidence 
+that regulations adversely impact our Nation's economy?
+    Mr. Narang. Again, in the aggregate or macroeconomic 
+sense----
+    Mr. Conyers. Yes.
+    Mr. Narang. There is none.
+    Mr. Conyers. And what is your response to the allegations 
+that regulations impose a $15,000-a-year tax on every American 
+family?
+    Mr. Narang. Well, Public Citizen noted almost immediately 
+when the report came out that it was baseless, that it was 
+using a flawed methodology, and that it was the same flawed 
+methodology that other studies, including one that was adopted 
+by the SBA and subsequently disavowed by the SBA also used.
+    I will say that Public Citizen saying it is one thing, but 
+the Washington Post saying it is definitely another thing, and 
+so I do want to also emphasize that credible, independent, 
+nonpartisan sources have also echoed our criticism of the 
+studies.
+    Mr. Conyers. Thank you.
+    Now, under H.R. 712, the Sunshine for Regulatory Decrees 
+and Settlements, it appears that any private third party could 
+weigh in on a proposed consent decree or settlement agreement 
+pertaining to a regulatory action that affects the rights of 
+private parties.
+    Hypothetically, under H.R. 712, if the regulatory action 
+involved, for example, the Clean Air Act, could a private third 
+party include someone who breathes air?
+    Mr. Narang. So you're right that H.R. 712 massively expands 
+standing to engage in settlement discussions, and I think your 
+question--the answer to your question is I don't necessarily 
+read it as such, but potentially it could.
+    Mr. Conyers. Okay. Attorney Narang, what are some of the 
+problems with the proposed regulatory cut-go requirements 
+contained in Title II of the SCRUB Act?
+    Mr. Narang. So one thing with--just with respect to the 
+last question, you know, the proposed expansion under H.R. 712 
+is very different than what you get in the RAPID Act. So I know 
+this is not directly responsive to your question, but the RAPID 
+Act, of course, only allows parties that have commented in the 
+RAPID Act to participate in a judicial challenge of that.
+    With respect to the SCRUB Act, the cut-go provisions, this 
+is, I would say, a fairly Draconian piece of the bill in that 
+there are very few exceptions to allow agencies to address 
+emergency issues. You know, we saw one last year with the Ebola 
+outbreak. If regulations arenecessary in that instance, I don't 
+see a, you know, any kind of emergency exception, and then 
+again, what I pointed out in my testimony.
+    There's a really stark double standard. It doesn't make 
+sense to me to require rules, essentially, to be repealed by 
+agencies within 60 days in order to allow agencies to go 
+forward with rules that would then have to go through the very 
+lengthy process, in most cases, to issue new rules, and would 
+have to go through all of the regulatory impact analyses, cost 
+benefit analyses, public comment participation that is 
+advocated by my fellow witnesses as the hallmarks of a good 
+process, a good regulatory process.
+    Mr. Conyers. Thank you very much.
+    I'm sorry I couldn't get to you other three gentlemen. I 
+have questions for you as well, but I thank the Chairman for 
+the time.
+    Mr. Marino. Thank you.
+    The Chair now recognizes the gentleman from Texas, Mr. 
+Ratcliffe.
+    Mr. Ratcliffe. Thank you, Mr. Chairman. I appreciate all 
+the witnesses being here today.
+    Two weeks ago I spent a week back in my district 
+representing the 18 counties of Northeast Texas, and in 
+traveling that district, one of the things I heard over and 
+over again from constituents as a primary concern was the 
+growing size of our Federal Government. Most of the 700,000 
+Texans that I have the privilege to represent are angry at the 
+growth of government in this country and the impact that 
+decisions being made by unelected bureaucrats in those agencies 
+are having on their everyday lives.
+    They see the effect of these decisions in the lunches that 
+their kids eat at school, in the requirements for their 
+dishwashers and for their ice makers and for their air 
+conditioners. They're outraged by a proposed rule from the EPA 
+which would turn the puddles in their back yards into the 
+waters of the U.S., and now last week they saw a government 
+takeover of the Internet through new net neutrality 
+regulations.
+    Every one of these regulations is an abridgement of some 
+freedom, and it comes with a price tag. In fact, the 
+Competitive Enterprise Institute estimates that the cost of 
+these mandated regulations is $15,000 per household, which is a 
+staggering 23 percent of the average household income in the 
+United States. Twenty-three percent of the income of average 
+Americans shouldn't be held hostage by unelected bureaucrats.
+    Consistent with some of these excesses that I've mentioned, 
+Mr. Batkins, you noted in your testimony that since 2008 
+regulators have added more than $107 billion in annual 
+regulatory costs. Did I had hear that correctly?
+    Mr. Batkins. Correct.
+    Mr. Ratcliffe. All right. And did I also hear you today say 
+that the number of hours spend of Federal regulatory paperwork 
+has expanded to $9.3 billion with a b hours per year?
+    Mr. Batkins. As of today, I think it was 9.98 billion.
+    Mr. Ratcliffe. Well, I think you'd agree with me that's an 
+outrageous number, whether it's 9.3 or 9.9.
+    Well, I think that we're like minded on this issue, Mr. 
+Batkins, and I think we're also both encouraged based on your 
+testimony about some of the legislation that we're looking at, 
+and you commented on Congressman Smith's SCRUB Act and the 
+Sunshine for Regulatory Decrees and Settlement Act, that if it 
+was implemented, it would result in savings of billions of 
+dollars in possible benefits, and 1.5 billion hours less of 
+paperwork. Did I hear that correctly?
+    Mr. Batkins. Correct.
+    Mr. Ratcliffe. So my question to you is this, though: In 
+your opinion, why would the regulatory reform efforts in these 
+bills succeed when so many others have failed to result in real 
+reform on these issues?
+    Mr. Batkins. Well, part of the problem is that real reform 
+in the past has been left entirely to the discretion of 
+agencies and with no penalty or judicial review component at 
+all. An agency can violate the Paperwork Reduction Act 
+generally without penalty. They could not submit rules to GAO 
+or Congress under the Congressional Review Act without penalty, 
+and the executive orders are not subject to judicial review 
+either.
+    It's my understanding that SCRUB--the SCRUB Act does 
+contain that judicial review component, and here we're actually 
+taking away a lot of what is supposedly a burden on regulators 
+currently, which is to review the cumulative stock of 
+regulations. We're taking that off of the agency's plate and 
+putting it in the SCRUB Commission. So I think establishing a 
+separate commission and including those judicial review 
+components is something that will make sure this reform lasts.
+    Mr. Ratcliffe. Terrific. Thank you, Mr. Batkins.
+    Mr. McLaughlin, you noted in your testimony that burdensome 
+regulations are effectively a hidden tax on Americans. That is 
+something that my constituents have heard me say often when 
+talking about regulations in this country.
+    You went on to say that regulatory reform, if done well, 
+could result in a tax return that benefits most lower-income 
+Americans.
+    Can you speak to the broader effect that such a--well, I'll 
+call it a tax refund would have on our economy? Specifically on 
+family purchasing power on--and on overall job creation?
+    Mr. McLaughlin. Certainly, and thank you for the question.
+    There have actually been several studies published in peer-
+reviewed economics journals that have come to a consensus, 
+contrary to my fellow witness' statement that macroeconomic 
+effects of regulation are negative. There was a study in the 
+Journal of the Economic Growth, and in several studies put out 
+by the World Bank were published in some top journals as well, 
+and the consensus result of these studies is that we slow 
+economic growth, and the primary mechanism that forces that to 
+happen is through the hindrance of innovation.
+    So if you think about your constituents and a small 
+business man, perhaps, there, if he has a set of choices with 
+which to make his business work and as the--as regulations 
+build up those choices are more and more constricted, more and 
+more constrained, then by definition he will be less able to 
+innovate. That's the primary mechanism, and whenever innovation 
+is hampered, you're going to see negative effects on job 
+growth.
+    In fact, there was a recent survey done of Silicon Valley 
+CEOs, one of the great engines of our economy, and it asked 
+them what they think the biggest problem is for their business 
+is, and they said number one is regulation.
+    Mr. Ratcliffe. Thank you.
+    My time has expired.
+    Mr. Marino. Thank you.
+    I'm going to ask that Mr. Conyers make a statement at this 
+point.
+    Mr. Conyers. Well, thank you very much, Chairman Marino.
+    Mr. Marino. Or introduce someone, I think.
+    Mr. Conyers. I really wanted to give a welcome and a shout 
+out to Attorney Scott Peters, who in a second term, has joined 
+the House Judiciary Committee, and we're very proud of him. 
+He's from California, I think the San Diego area, and we all 
+look forward to working with you, and welcome aboard.
+    Mr. Peters. Thank you very much.
+    Mr. Conyers. Thank you.
+    Mr. Marino. You are welcome.
+    Now the Chair recognizes the newest Member, Mr. Peters from 
+California, who is under no pressure to perform now since he 
+got those glowing remarks from Mr. Conyers.
+    Mr. Peters. Thank you, Mr. Chairman, and thank you, Mr. 
+Conyers, for the very kind comments.
+    When I practiced law, I represented a lot of large and 
+small businesses and government agencies trying to get through 
+the permit process, and I'm actually very sympathetic to the 
+notion that we should set high stands and we should respond in 
+a timely way because in a microeconomic sense you talk to these 
+businesses that are really affected by the carrying costs of 
+regulation, and actually I was one of the Democrats that 
+actually voted for this RAPID Act last time, but I have an 
+issue with it this time which is the subsection K prohibition 
+of any consideration of the social cost of carbon, which is the 
+economic, environmental, and social costs of carbon dioxide 
+emissions by agencies in an environmental review or decision 
+making, and it applies to all Federal agencies by the terms of 
+this bill.
+    Accounting for the social costs of carbon and preparing for 
+climate change, according to Mayor Bloomberg's Report, which is 
+a bipartisan report, it is a smart business practice, with 
+greenhouse gas driven changes in temperature will necessitate 
+the construction of new power generation capacity that the 
+report estimates will cost residential and commercial rate 
+payers up to $12 billion per year, and in 2014 the Pentagon 
+also issued a report on the security risks of climate change, 
+finding that climate change poses an immediate threat to 
+national security due to increased risks of terrorism, food 
+shortage, poverty, and infectious diseases.
+    So I guess I'd ask Mr. Kovacs, Mr. Batkins, and Mr.--Dr. 
+McLaughlin, if any of you sees this ban on considering the 
+social costs of carbon as necessary to achieving the regulatory 
+reform of this act, and if you do see it as important, where 
+would we evaluate as a Nation the costs of carbon issues that 
+the business community and the Pentagon have raised?
+    Mr. Kovacs. Sure. Well, first of all, I'm honored to get 
+your first question. So I thank you very much.
+    The issue with social--first of all, I don't know how it 
+even got in the bill. I think was an amendment so----
+    Mr. Peters. It was an amendment. Right.
+    Mr. Kovacs. Because it wasn't in the original bill.
+    I think that the issue, and I'm just talking about from the 
+outside, that it's been used roughly by 62 times, and I don't 
+think anyone has a problem with that, but it's never gone 
+through either the Data Quality Act peer review or any type of 
+the public comment, and I think that if you could work out a 
+way in which to send it through public comment so people know 
+what the assumptions are that they're using and how it's being 
+factored in, that the way it is now is it could be set at $5 or 
+it could be set at 50 or 100.
+    Mr. Peters. Would--Mr. Kovacs, wouldn't the NEPA process by 
+its process be a process in which we could evaluate that and--
+--
+    Mr. Kovacs. No. Because it's more of a--I think it's more 
+of an economic issue, and there may be ways in which the agency 
+that uses it could do it. I think it's easy, and we'd be--I 
+mean, that's one we would----
+    Mr. Peters. But it doesn't have to be in this bill, does 
+it, to achieve the regulatory reform?
+    Mr. Kovacs. I didn't even--really, until today I didn't 
+even know it was in the bill.
+    Mr. Peters. Okay. Good. Either of you think it's important 
+to this bill to achieve regulatory reform?
+    Mr. Batkins. The RAPID Act wasn't something I specifically 
+address in my testimony. From just my initial--I know that 
+social cost of carbon has been a part of Federal rule making, I 
+think, since 2009, 2010, varying every year and depending a lot 
+on discount rate, but I haven't evaluated its----
+    Mr. Peters. Okay.
+    Mr. Batkins [continuing]. Impact on RAPID.
+    Mr. Peters. Dr. McLaughlin?
+    Mr. McLaughlin. I'm afraid I don't really have an opinion 
+on this.
+    Mr. Peters. Okay. So I would just make the comment, I--Mr. 
+Trot's example, he's left now, but it's an example that I've 
+given for my clients many times. You know, you have--you make 
+an investment, you have to carry the cost of the--of the debt 
+on that investment if you borrowed money for a period of time, 
+and you can't get a return until you can get your permits, and 
+so I'm very sympathetic to working on this, but it does strike 
+me that this ban on the considering the social costs of carbon, 
+even as part of a quicker reduced tighter regulatory process is 
+gratuitous, it's unnecessary, and I'm going to ask my--at 
+appropriate time I'll ask my colleagues to amend the bill to 
+remove that prohibition. It will certainly make it much more 
+attractive to me to vote for it, and I think to a lot of my 
+colleagues on this side of the aisle.
+    Mr. Chairman, thank you very much. I yield back.
+    Mr. Marino. Thank you.
+    I'm now going to recognize myself for 5 minutes of 
+questioning, and first of all I would like to enter into the 
+record an article dated Tuesday, January 18, 2011, in the Wall 
+Street Journal states that ``President Obama announced that he 
+will be signing an executive order to review regulations with 
+an eye toward getting rid of unneeded regulations and making 
+existing regulations less intrusive and more flexible,'' and he 
+goes on to say that the costs will be a factor that's 
+considered in this as well as environmental issues and seeing 
+that we can get regulation in permits submitted much sooner 
+than we're doing at this point.
+    [The information referred to follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+                               __________
+    Mr. Marino. So with that, Mr. Kovacs, if there are true 
+environmental problems with a project, with a given project, 
+will the RAPID Act prevent Federal officials from assuring that 
+those problems are dealt with before a permit is granted?
+    Mr. Kovacs. Yes. I mean, all of the--all of the problems, 
+all of environmental commitments and all of the permit 
+requirements have to be complied with. There is--there is no 
+substantive change anywhere in Federal law. This is purely--and 
+I keep on saying this--this is purely a management bill where 
+you have a lead agency coordination with the states, and you 
+have some timeframes, and that's all this bill does.
+    And if you look at what CEQ is doing, the President's 
+executive orders, what they've done in the Senate on safety, 
+the Republicans and the Democrats have been on the same side of 
+the page on this type of an issue for a while.
+    Mr. Marino. Some have suggested, again, Mr. Kovacs, that 
+the RAPID Act would gut NEPA. Would it or would it not?
+    Mr. Kovacs. No. It doesn't do anything to the substance.
+    Mr. Marino. Okay. Dr. McLaughlin, Mr. Narang made an 
+assertion that arguments linking regulations to job losses and 
+depress economic growth are pure fiction. Would you like to 
+respond to that?
+    Mr. McLaughlin. Certainly. There was a article in the 
+highly respected journal, the Journal of the Economic Growth, a 
+peer-reviewed economics journal by Professors John Dawson and 
+John Cedars that found the accumulation of regulation hinders 
+economic growth by about 2 percent per year. There have been 
+other studies that have found similarly large hindrances of 
+economic growth from regulatory accumulation published in such 
+respected journals as the Quarterly Journal of Economics, it's 
+one of the top journals that there is in economics, as well as 
+in economics letters from such esteemed bodies as the World 
+Bank.
+    So I think it's patently false to say that there is no 
+evidence that the accumulation of regulation harms economic 
+growth.
+    Mr. Marino. Again, Mr. McLaughlin, the SCRUB Act also 
+authorizes the Retrospective Regulatory Reform Commission to 
+recommend to Congress whether statutory authority to promulgate 
+regulation should be repealed.
+    Why is that feature of the bill important?
+    Mr. McLaughlin. I'm sorry. Could you repeat that. I 
+couldn't quite catch it.
+    Mr. Marino. Yeah. The SCRUB Act also authorizes the 
+Retrospective Regulatory Review Commission to recommend to 
+Congress whether statutory authority to promulgate regulations 
+should be repealed.
+    Why is that feature of the bill important?
+    Mr. McLaughlin. Thank you. That's actually quite important 
+because the source of a problem--regulations come from 
+statutes. The Congress requires regulators to make rules. But 
+if Congress required that in such a way that the regulator is 
+limited in his choices, in other words, that the regulator has 
+to make a rule that's not effective, for example, then we need 
+to point back to the source of the problem itself.
+    Mr. Marino. Okay. Mr. Narang, again, is that correct?
+    Am I pronouncing your name correct? I apologize. I've been 
+trying to get this straight for a couple minutes.
+    Mr. Narang. Thank you. There's a far more direct way also 
+for Congress to do that same act--take that same action, which 
+would be to directly repeal statutes. So, for example, if 
+Congress wants to directly repeal the Clean Air Act, it can do 
+so in a very direct way. We don't need a commission--a 
+taxpayer-expensed commission to make those recommendations.
+    Mr. Marino. But do you agree with me that the RAPID Act 
+does not tell any agency how to go through the permitting 
+process and how to do their evaluations?
+    Mr. Narang. I think also taking into consideration what 
+Congressman Peters just pointed out, that the social costs of 
+carbon is not to be incorporated into these environmental 
+impact statements, it puts a very heavy thumb on the scale in 
+favor of projects that would emit large amounts of carbon in 
+the atmosphere and contribute to climate change.
+    Mr. Marino. But do you know the argument and the climate 
+change issue has been going on for years and years, and it's 
+apparent that each side can bring in all kinds of witnesses to 
+counter the other side, but don't you think that 15 years is 
+way too long for the Federal Government and other governments 
+to determine whether a permit should be issued?
+    Mr. Narang. I would agree with that, and I'd also say that 
+15 years is far too long for--in critical public health and 
+safety measures. Unfortunately, at Public Citizen we have a 
+quite a few examples of public health and safety measures that 
+took longer than 15 years to protect the public.
+    Mr. Marino. And I see that, you know, my time has expired.
+    And I want to thank everybody for being here today. I know 
+we're going to vote. I don't think it's going to be in the next 
+couple of minutes, but it's closely coming.
+    This concludes today's hearing, and thanks to all of our 
+witnesses for attending, and without objection, all Members 
+will have 5 legislative days to submit additional written 
+questions for the witnesses or additional materials for the 
+record.
+    And the hearing is adjourned, and thank you.
+    
+    [Whereupon, at 5:29 p.m., the Subcommittee was adjourned.]
+    
+                            A P P E N D I X
+
+                              ----------                              
+
+
+               Material Submitted for the Hearing Record
+               
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                <F-dash>
+                                
+                                
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+         Response to Questions for the Record from Amit Narang
+         
+         
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+                                <F-dash>
+                                
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+                                <F-dash>
+                                
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+                                <F-dash>
+                                
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+                                <F-dash>
+                                
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+
+                                 [all]
+                                 
+</pre></body></html>

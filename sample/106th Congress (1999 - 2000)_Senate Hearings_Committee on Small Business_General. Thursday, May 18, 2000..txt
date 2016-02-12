@@ -1,0 +1,2268 @@
+<html>
+<title> - B2B: AN EMERGING E-FRONTIER FOR SMALL BUSINESS</title>
+<body><pre>
+[Senate Hearing 106-707]
+[From the U.S. Government Printing Office]
+
+
+                                                        S. Hrg. 106-707
+
+
+ 
+                      B2B: AN EMERGING E-FRONTIER 
+                           FOR SMALL BUSINESS
+
+=======================================================================
+
+                                 FORUM
+
+                               BEFORE THE
+
+                      COMMITTEE ON SMALL BUSINESS
+                          UNITED STATES SENATE
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                              MAY 18, 2000
+
+                                     
+
+                                <snowflake>
+
+                                     
+
+              Printed for the Committee on Small Business
+
+                                  ______
+
+                     U.S. GOVERNMENT PRINTING OFFICE
+  66-231 cc                 WASHINGTON : 2000
+_______________________________________________________________________
+   For sale by the Superintendent of Documents, Congressional Office
+         U.S. Government Printing Office, Washington, DC 20402
+
+
+
+                      COMMITTEE ON SMALL BUSINESS
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                              ----------                              
+                CHRISTOPHER S. BOND, Missouri, Chairman
+CONRAD BURNS, Montana                JOHN F. KERRY, Massachusetts
+PAUL COVERDELL, Georgia              CARL LEVIN, Michigan
+ROBERT F. BENNETT, Utah              TOM HARKIN, Iowa
+OLYMPIA J. SNOWE, Maine              JOSEPH I. LIEBERMAN, Connecticut
+MICHAEL ENZI, Wyoming                PAUL D. WELLSTONE, Minnesota
+PETER G. FITZGERALD, Illinois        MAX CLELAND, Georgia
+MIKE CRAPO, Idaho                    MARY LANDRIEU, Louisiana
+GEORGE V. VOINOVICH, Ohio            JOHN EDWARDS, North Carolina
+SPENCER ABRAHAM, Michigan
+                     Emilia DiSanto, Staff Director
+                      Paul Cooksey, Chief Counsel
+    Patricia R. Forbes, Democratic Staff Director and Chief Counsel
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                           Opening Statements
+
+                                                                   Page
+
+Bond, The Honorable Christopher S., Chairman, Committee on Small 
+  Business, and a United States Senator from Missouri............     1
+Burns, The Honorable Conrad, a United States Senator from Montana    27
+
+                            Committee Staff
+
+Freedman, Marc, Regulatory Counsel, Majority Staff...............     *
+Conlon, Paul, Research Analyst, Majority Staff...................     *
+Dozier, Damon, Legislative Assistant, Minority Staff.............     *
+
+                           Panelist Testimony
+
+Villars, Richard, Vice President, Internet and e-Commerce, 
+  International Data Corporation (IDC), Framingham, Massachusetts     2
+Kim, Angie, President and Chief Customer Officer, 
+  EqualFooting.com, Sterling, Virginia...........................    14
+Krishnan, Krish R., President and Chief Executive Officer, 
+  NetCompliance, Inc., Seattle, Washington.......................    29
+
+      Alphabetical Listing of Senators and Panelists and Appendix 
+                           Material Submitted
+
+Bond, The Honorable Christopher S.
+    Opening statement............................................     1
+Burns, The Honorable Conrad
+    Opening statement............................................    27
+Kerry, The Honorable John F.
+    Prepared statement...........................................    76
+Kim, Angie
+    Testimony....................................................    14
+    Prepared statement...........................................    18
+Krishnan, Krish R.
+    Testimony....................................................    29
+    Prepared statement and attachments...........................    33
+Villars, Richard
+    Testimony....................................................     2
+    Prepared statement...........................................     6
+
+                              Participants
+
+Alford, Harry C., President and Chief Executive Officer, National 
+  Black Chamber of Commerce, Washington, D.C.....................     *
+Bahret, Mary Ellen, Manager, Legislative Affairs (Senate), 
+  National Federation of Independent Business, Washington, D.C...     *
+Bradley-Cain, Ruby, President, RBC International Inc., Bethesda, 
+  Maryland, on behalf of the National Association of Women 
+  Business Owners, Washington, D.C...............................     *
+Chubb, Michael, Director of Marketing--North America, SGS Canada 
+  Inc., Mississauga, Ontario, Canada.............................     *
+D'Onofrio, David, Director of Government and Public Affairs, 
+  National Small Business United, Washington, D.C................     *
+Farrell, Thomas J., Business Development Manager, BizLand.com, 
+  Pittsburgh, Pennsylvania.......................................     *
+Gaibler, Floyd D., Vice President, Governmental Affairs, 
+  Agricultural Retainers Association, Washington, D.C............     *
+Hatcher, Jennifer, Director, Government Relations, Food Marketing 
+  Institute, Washington, D.C.....................................     *
+Jacques, Veronica A., Manager, Government Relations, Direct 
+  Selling Association, Washington, D.C...........................     *
+Koncurat, Mark, President, Host Designs, Bel Air, Maryland.......     *
+Lane, Rick, Director, eCommerce & Internet Technology, U.S. 
+  Chamber of Commerce, Washington, D.C...........................     *
+Little, Jeanne, Director of Government Relations, Society of 
+  American Florists, Alexandria, Virginia........................     *
+MacDicken, Rebecca, Director of Government Affairs, Tire 
+  Association of North America, Reston, Virginia.................     *
+Morrison, James, Senior Policy Advisor, National Association for 
+  the Self-Employed, Washington, D.C.............................     *
+O'Connor, James, Deputy Associate Administrator, One Stop Capital 
+  Shop Program, Small Business Administration, Washington, D.C...     *
+Peyton, David, Director of Technology Policy, National 
+  Association of Manufacturers, Washington, D.C..................     *
+Rivera, Maritza, Vice President for Government Relations, U.S. 
+  Hispanic Chamber of Commerce, Washington, D.C..................     *
+Whysong, Dan, Market Analyst, Center for Global Competitiveness, 
+  St. Francis College, Loretto, Pennsylvania, on behalf of the 
+  Association of Small Business Development Centers, Arlington, 
+  Virginia.......................................................     *
+Wren, Tom, Assistant Director of Special Programs, Pennsylvania 
+  SBDC, The Wharton School, University of Pennsylvania SBDC, 
+  Philadelphia, Pennsylvania, on behalf of the Association of 
+  Small Business Development Centers, Arlington, Virginia........     *
+
+                         Comment for the Record
+
+Gaibler, Floyd D., Vice President, Governmental Affairs, 
+  Agricultural Retailers Association, Washington, D.C., statement 
+  and attachments................................................    79
+
+*Comments (if any) at various points between pages 29-72.
+
+
+
+                      B2B: AN EMERGING E-FRONTIER 
+                           FOR SMALL BUSINESS
+
+                              ----------                              
+
+
+                         THURSDAY, MAY 18, 2000
+
+                                       U.S. Senate,
+                               Committee on Small Business,
+                                                   Washington, D.C.
+    The Committee met, pursuant to notice, at 9:34 a.m., in 
+room SR-428A, Russell Senate Office Building, the Honorable 
+Christopher S. Bond (Chairman of the Committee) presiding.
+    Present: Senators Bond and Burns.
+
+    OPENING STATEMENT OF THE HONORABLE CHRISTOPHER S. BOND, 
+  CHAIRMAN, SENATE COMMITTEE ON SMALL BUSINESS, AND A UNITED 
+                STATES SENATOR FROM OF MISSOURI
+
+    Chairman Bond. Good morning and welcome to another of the 
+Small Business Committee's forums. Today we have a very 
+exciting, interesting, and timely subject. We have three great 
+lead off witnesses that I think will be of interest to all of 
+you. We are going to be exploring the exploding growth of 
+Internet-based business-to-business commerce, or B2B commerce.
+    We were thinking about calling this, ``B2B or Not B2B,'' 
+but my staffers who create those corny jokes are not up to top 
+speed. So we thought the more important questions for today 
+are: How can small businesses take advantage of this trend? 
+What obstacles do small businesses face in trying to take 
+advantage of it? Is this trend a benefit or a problem for small 
+business? These were captured better in the title of, ``An 
+Emerging E-Frontier for Small Business.'' It lacks some of the 
+sex appeal but probably more accurate.
+    The Committee's goal in holding this forum is to help the 
+small business community and us better understand the 
+opportunities that are becoming available through the use of 
+the Internet and the computer revolution in general. Although 
+many in the high-tech industries are very familiar with the 
+possibilities, many small businesses still lag behind and are 
+unaware of how their businesses could benefit.
+    In addition, larger businesses also have the luxury of 
+hiring consultants to help them figure out what to do and how 
+to do it. With small business, becoming familiar with this new 
+technology often has to compete with all the other demands of 
+running a business and this can sometimes be put too far on the 
+back burner to allow them to take full advantage of e-commerce 
+opportunity.
+    The impact of the Internet on business can be extremely 
+varied. In many cases, the difference may be just a question of 
+thinking outside the box and using a little imagination, such 
+as developing a web site to support other advertising. In other 
+cases, the difference can mean a significant restructuring of 
+the way small businesses do business, such as using the 
+Internet to satisfy the supply needs of business as with B2B 
+commerce.
+    In the end, the goal is the same as it has always been: to 
+do things better, faster, and less expensively. Competition 
+demands constant innovation and adjustment, and the Internet 
+represents the latest toolbox available to small businesses to 
+help with this process.
+    With us today are three very distinguished speakers who 
+will help us understand the dimensions of this new trend. After 
+their presentations we will have an open discussion with all 
+other invited participants as well as Members of the Committee 
+and staff. We hope this will be a free-flowing conversation, 
+and I hope that you have lots of questions and there is a lot 
+of discussion. I ask that in order to be recognized you take 
+the card in front of you and stand it up on end like that so we 
+will know who is waiting to be recognized. And if you would 
+keep your comments short it will allow more people to get into 
+the discussion.
+    The record for the forum will remain open for 2 weeks, 
+until June 1, for any additional comments you might want to 
+submit. We also invite comments from those who are watching 
+through the Internet or on television and ask that they let us 
+know. We have information on how to contact the Committee 
+through our web site, through fax machine, and even old-
+fashioned letters. We still do take letters as well.
+    Senator Kerry had to be on the floor to introduce the 
+chaplain for today's session, and the way things are going we 
+need all the blessings we can get. So I expect my colleague and 
+Ranking Member, Senator Kerry, to be here before long. Also I 
+believe Senator Burns is going to be joining us because he is a 
+great champion of e-commerce and is very, very interested in 
+all of this.
+    So enough of the chatter, let us begin with the discussions 
+today from the panelists. Let me introduce first Rick Villars, 
+vice president for Internet and e-commerce, International Data 
+Corporation in Framingham, Massachusetts. His team forecasts 
+worldwide Internet adoption, e-business spending patterns, and 
+the opportunity for e-marketplaces. They also analyze the 
+evolution of e-commerce with a focus on business-to-business 
+developments and identifying emerging trends and market 
+dynamics that are shaping the demand for Internet and e-
+commerce products and services.
+    Mr. Villars.
+
+  STATEMENT OF RICHARD VILLARS, VICE PRESIDENT, INTERNET & e-
+  COMMERCE STRATEGIES, INTERNATIONAL DATA CORPORATION (IDC), 
+                   FRAMINGHAM, MASSACHUSETTS
+
+    Mr. Villars. Thank you, Senator Bond. Let me start by 
+thanking you, Senator, as well as the other Senators on the 
+Committee and the staff for having me here today to discuss 
+what is in many cases a critical but often overlooked issue 
+with regards to the Internet and e-commerce; namely, the role 
+of small businesses in making all this happen.
+    When IDC was founded 36 years ago we were dedicated to the 
+task of analyzing how computers and networks would change the 
+lives of individuals and the practices of businesses around the 
+world. Over the last decade, certainly the most important force 
+changing the dynamics for businesses and individuals has been 
+the Internet. We dedicated ourselves during this period to 
+really understanding how companies, and how individuals are 
+using this technology.
+    We draw on research from fellow analysts in about 38 
+countries around the world specifically to develop what we call 
+the Internet commerce market model. This model is how we track 
+use of the Internet by businesses--large and small--Government 
+agencies, and individual users.
+    In the year 2000, approximately $210 billion worth of goods 
+and services were purchased by all businesses around the world. 
+If you compare that to 1995 when there was none, we see a 
+dramatic increase. But when we extend our forecast out to the 
+year 2004 we find that total purchasing by businesses will be 
+around $2.2 trillion. So we are seeing a tenfold increase in 
+the use of the Internet to conduct business in the next 5 
+years.
+    As you look at that $2.2 trillion, you quickly realize that 
+this is not something that is just for the Fortune 500. The 
+Internet is not just a tool for large businesses to go out and 
+buy and sell goods online. To make this kind of change in the 
+overall business dynamic you have to include what we often call 
+the forgotten five million; all the small businesses out there 
+trying to do their job, sell to their customers locally and 
+around the globe.
+    I went and spoke to several of our analysts, including the 
+vice president in charge of our small business research at IDC, 
+Ray Boggs. We looked at the Internet commerce market model to 
+see how much business was actually taking place online through 
+small businesses. We can report that from the standpoint of 
+being a buyer, small businesses are absolutely carrying their 
+weight on the Internet. In the year 2000, small businesses 
+around the globe will purchase about 30 percent of all the 
+goods that are being purchased online. So they are absolutely 
+playing a role as buyers, going online and purchasing goods.
+    But when we look at small businesses as sellers, and 
+ultimately the reason you are in business is to sell 
+something--we find the issues and the responses more troubling. 
+Today, small businesses are not able to compete and participate 
+as sellers on the Internet in any meaningful way.
+    When we go back and we look at that $210 billion, 50 
+percent of that is driven by large companies who set up e-
+commerce sites and then go out and tell their customers to buy 
+online. For example, a law firm in Oregon may go and buy 
+computers from Dell, or a manufacturing company in North 
+Carolina, may go and purchase plastic from GE Plastics,' web 
+site. Finally you might see a small greeting card store in my 
+hometown of Wilmington, Ohio go and buy cards from American 
+Greetings online.
+    Another major force driving e-commerce is that these same 
+large businesses are setting up procurement systems so that 
+their purchasing managers can go out and buy products. In the 
+case of Ford, managers can go out and buy windshields and brake 
+parts and shorten their supply chain and improve the ordering 
+of goods in their manufacturing processes. Combine these 
+procurement systems and suppliers e-commerce systems and you 
+find that about 90 percent of all e-commerce is flowing through 
+those two paths.
+    If you look at both, you will find that there is very 
+little room for small businesses. They cannot participate in 
+actively getting all the advantages of e-commerce either as 
+large volume buyers or sellers.
+    What we think is absolutely critical and is going to change 
+this in the next 4 years is the emergence of what we call e-
+marketplaces. They go under a lot of names. You hear them 
+called exchanges, auction sites, marketplaces, e-markets. The 
+whole point of these sites is that a third party sets up a 
+system where large numbers of buyers and suppliers come 
+together in a common community. They can exchange information, 
+collaborate on new business activities, and ultimately, 
+purchase goods, either through a catalogue, an auction system 
+or some kind of exchange mechanism.
+    We believe that this model is the most effective for small 
+businesses to participate as sellers on the Internet and in e-
+commerce. It will be an important path for small business to 
+take to actually benefit from the world of e-commerce.
+    I'll conclude my remarks with four questions that we think 
+will be critical to really defining whether or not small 
+businesses can find a place at the e-commerce table. The first 
+issue has to do with, access to these services. Our research 
+shows that in the United States about 60 percent of small 
+businesses--and we would define these as companies with under 
+100 employees--have access to the Internet.
+    That actually sounds like a very large number compared to 
+even large businesses. But when you look at how they are 
+actually connected you find that only about 11 percent are 
+connected via some kind of high-speed permanent connection. The 
+rest are dialing up through modems. While dialing up to the 
+Internet is a great way to buy products and surf the net, you 
+cannot effectively be a seller on the Internet unless you are 
+always connected to the Internet, so people can come to you to 
+buy products.
+    So the issue of providing better access, more cost-
+effective access, and integration of this access with the back 
+office accounting, and ordering systems, that small businesses 
+already have in place is a major challenge that e-marketplaces 
+and companies who are in the small business community are going 
+to have to deal with.
+    Another major issue going forward has to do with how you 
+run your business once you move to the Internet. The challenge 
+here is how do you deal with credit and with potential 
+financing issues that come along. When I am a small business 
+selling to local people, I am comfortable, I know who they are, 
+I can extend them credit, I can issue a PO and they can pay me 
+back in 30 days.
+    Once I come online, now I am dealing with companies around 
+the country or potentially around the globe and there is a 
+greater risk associated with providing them services. I need 
+more automated mechanisms to help finance that system, so that 
+I can extend credit automatically, and I need to have a bank or 
+some other financial institution backing me up.
+    So we see the need for more integration of the financing 
+mechanisms that are supporting small business today in these e-
+marketplaces.
+    The third major challenge is, if you look at e-marketplaces 
+you find that one of their most important characteristics is 
+that they now are collecting all of the information about the 
+sales and the transactions. Not just the successful sales, but 
+also the unsuccessful sales where somebody goes out and shops 
+for a good and then decides to purchase it from someone else.
+    All of this information is very valuable, but obviously we 
+are now starting to deal with issues around privacy, around the 
+sharing of corporate information. This will be one of the most 
+critical issues because many e-marketplaces see the analysis of 
+this information as a revenue source. They can go out and 
+actively sell that information to both buyers and suppliers so 
+that they can be more competitive. But where do you draw the 
+line in terms of sharing an individual company's information?
+    The final major issue that we see relative to e-
+marketplaces has to do with the issue of women- and minority-
+owned businesses. In this space, today e-marketplaces do not 
+really acknowledge the existence of this community in any 
+meaningful way. They can participate but they are not being 
+designated specifically as a medium or small business.
+    As we know, many large companies and large Government 
+institutions have programs in place to purchase goods from that 
+community. Today, an e-marketplace cannot accommodate that type 
+of service, cannot help bring that portion of their purchasing 
+activity into the world of e-commerce.
+    The marketplaces themselves are not going to be able to 
+cost effectively go out and verify who is a minority-owned 
+business, who is a woman-owned business, and basically then 
+provide that information to the buyer. Technically, it is very 
+easy; administratively, a significant cost burden. Until we see 
+a mechanism that makes it easier for e-market places to provide 
+this function, many large companies are not going to be able to 
+purchase from small businesses in any meaningful fashion.
+    With that I conclude my remarks and thank the Committee 
+once again.
+    [The prepared statement of Mr. Villars follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T6231.001
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.002
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.003
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.004
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.005
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.006
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.007
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.008
+    
+    Chairman Bond. Thank you very much, Mr. Villars. You really 
+set me up. I was trying to figure out how to put in a plug for 
+the conference we are having in Kansas City on June 4 and 5, 
+co-sponsored by Senator Kerry and four of my other colleagues, 
+Senator Snowe, Senator Feinstein, Senator Landrieu, and Senator 
+Hutchison. We are going to be looking at precisely those kinds 
+of questions and want to enlist our panelists and others 
+today--there is information again on our web site for those of 
+you who might be interested in it. Kansas City is beautiful in 
+June. The best barbecue in the world. But anyhow, the 
+information I think will be very useful and it should be a very 
+exciting and worthwhile event.
+    Now back to this very important hearing. Next we will hear 
+from Angie Kim, the president and chief customer officer of 
+EqualFooting.com from Sterling, Virginia. That is a web site 
+that specializes in helping small businesses meet their 
+industrial supplies and equipment needs. Ms. Kim is directly 
+responsible for developing and managing all customer 
+touchpoints for EqualFooting.com such as marketing, public 
+relations, customer service, and budgets. She is the voice of 
+the customer in all business decisions.
+    Her previous experience includes a lengthy list of very 
+distinguished academic and professional activities culminating 
+in being a member of the Global Leadership Group at McKinsey & 
+Company and launching an online business-to-business program 
+that targets small business. Ms. Kim, welcome.
+
+ STATEMENT OF ANGIE KIM, PRESIDENT AND CHIEF CUSTOMER OFFICER, 
+              EQUALFOOTING.COM, STERLING, VIRGINIA
+
+    Ms. Kim. Thank you so much, Mr. Chairman, and other Members 
+of the Committee. First of all, please allow me to thank you 
+for the opportunity to testify before you today. It is truly an 
+honor for me to be here testifying before you, talking to you 
+about the issue that has really intrigued me throughout all of 
+my life, both personal and professional. That is, the emerging 
+frontier of business-to-business e-commerce for small 
+businesses.
+    My name is Angie Kim. I am co-founder, president and chief 
+customer officer of EqualFooting.com. EqualFooting is a 
+Virginia-based B2B e-marketplace for small businesses, and we 
+are simply dedicated to leveling the playing field for small 
+businesses in the areas of purchasing, financing, and shipping 
+as well as selling.
+    EqualFooting.com, I started this company less than a year 
+ago, last summer, in my basement in Fairfax County with two of 
+my partners, Aaron Martin and Jim Fox. It was just three of us 
+at that time working out of my basement, and now less than a 
+year from that date of starting this business we are a company 
+of over 150 full-time employees. We do nothing but think about 
+the problems that small business owners face in all areas of 
+their business operations, and we think about how a marketplace 
+can actually help to solve some of those problems.
+    What I would like to do today is share with you a little 
+bit about my background and why I came to really focus on and 
+be interested in this problem of small business e-commerce and 
+the oppor- tunities therein. I also want to share with you what 
+exactly EqualFooting.com is doing in the areas of purchasing, 
+shipping, and financing, and hope that we can serve as a case 
+study of how e-commerce can truly benefit all small business 
+owners.
+    Many people ask me how I came to care about small 
+businesses. My own business background began at a very, very 
+young age, at the age of 13 when I actually immigrated here 
+from South Korea with my parents. We came to Baltimore, and as 
+is probably the typical immigrant story, we actually started 
+with a small business. We set up a grocery store.
+    Being an only child, and as a child having picked up 
+English a bit quicker than my parents, I became very involved 
+in the day-to-day operations of starting and growing this 
+business which was, as I said, first a grocery store. It 
+developed into yet another grocery store, then a mini-mart, and 
+some commercial real estate, and finally into now what is a 
+successful group of small businesses that I helped my parents 
+with.
+    During this time I truly became appreciative of the 
+disadvantages that small businesses face in all of the areas of 
+their operations. So for example, in the area of purchasing, 
+unlike the large companies that have dedicated staff and 
+purchasing departments that go out, try to find the best deals, 
+use the large volumes that the large corporations actually 
+purchase to get volume discounts, and actually have the time 
+and resources to figure out what supplier carries the best 
+prices and terms for particular products, small business 
+owners, as you all can appreciate, simply do not have the time, 
+the resources, or the clout to go out to the marketplace and 
+really try to find the best prices and terms.
+    As a result, some of the statistics that we looked at and 
+some of the anecdotes that we have gathered from small business 
+owners actually tell us that small business owners end up 
+paying, particularly in the areas of industrial supplies which 
+is something that EqualFooting focuses on, about 10 to 30 
+percent more than their large corporate counterparts in the 
+area of purchasing.
+    Financing is another great example. Actually having done 
+many, many applications, application after application, all of 
+which required the same amount of information and all of which 
+require about 2 to 3 hours to actually fill out by hand, going 
+to bank after bank, sitting down with all of the different 
+people who are responsible for the decisions on loans, I can 
+truly appreciate that it takes a lot of time to get loans as a 
+small business, and to be able to finance, start, and grow your 
+business. This goes on and on.
+    Now, after I went to school and moved away from Baltimore, 
+one of the things that I found myself doing in the last couple 
+of years is being a management consultant to large companies, 
+to Fortune 100 companies. It was my job there to help large 
+companies figure out their e-commerce solutions. I was involved 
+in both B2C and B2B e-commerce.
+    What I realized there and what struck me there is that this 
+digital divide that we talk about in the socioeconomic sense 
+truly exists in the corporate world as well. Particularly, 
+about a year ago when not that many people were thinking about 
+small business 
+e-commerce, what struck me is that there really exists a 
+corporate digital divide between the small businesses on the 
+one hand that were not getting, and still probably are not 
+getting, as much attention from the e-commerce companies that 
+are setting up these marketplaces that provide efficiency in 
+markets and purchasing and selling. The digital divide 
+obviously is between those small businesses and the large 
+companies that are getting a lot of attention in the B2B space.
+    We made it our mission, my partners and I, to say we are 
+going to form our company, EqualFooting.com, to help put small 
+businesses on equal footing with large companies and make it 
+our sole dedication to overcome and to bridge this corporate 
+digital divide that exists. So let me go into a little bit of 
+exactly how we do that.
+    First let me start with purchasing. In the area of 
+purchasing, I brought with me this big, thick catalogue. This 
+is one of many, many big, thick catalogues that go into 
+purchasing, if you are a small business today, purchasing 
+industrial supplies. By industrial supplies I mean the $75 
+billion market out there that consists of things like 
+fasteners, things like hand tools, generators, safety supplies 
+and equipment. Things that businesses use to maintain and 
+operate and repair their machinery and keep their business 
+going forward.
+    These types of catalogues are illustrative of what small 
+business owners have to go through. They typically have to leaf 
+about 10 of these in order to find exactly the item that they 
+are looking for. And in order to do any sort of meaningful 
+comparison of prices or terms they have to spend a lot of time 
+on the phone calling suppliers and asking, ``Do you have this 
+item in stock? If so, how much is it? Can you mail it to me 
+today? Can I come pick it up today?'' Whatever the case may be, 
+whatever they are interested in.
+    So what we have done is set up this marketplace, and I 
+think you can see a very simple illustration there with the 
+selling, the supplier on the one side and buyer on the other 
+side, and EqualFooting being the marketplace that brings these 
+two forces together. What we have done is we have actually gone 
+to all of these different suppliers and taken all of the data 
+that exists here and put it into an electronic format into one 
+integrated, virtual catalogue, if you will, that exists on 
+EqualFooting with negotiated favorable pricing for small 
+businesses.
+    What this allows is, for example, I will use AA batteries, 
+something we can probably all relate to. If you come to 
+EqualFooting and type in ``AA batteries'' then all of a 
+sudden--we have on the next slide an example of how you can 
+actually see immediately a list with some pictures of all the 
+AA batteries that we have. Some of these items are exactly the 
+same. They are Energizer AA batteries. No doubt about it, 
+exactly the same item.
+    But because we carry them from lots of different suppliers 
+and this is, in essence, the same as going through lots of 
+these different catalogues, you can see right there that the 
+prices range from something like 32 cents for one of these 
+batteries to over 80 cents per battery, even for exactly the 
+same brand. That just shows you what kind of price disparities 
+exist and how a system like this can really help small business 
+owners who do not have the time to make a lot of calls to find 
+out this comparison price list, with our web site they can 
+actually do that very quickly.
+    Let me also say something about the selling side of this. 
+As a seller as well, you can participate in e-commerce by 
+participating in these marketplaces as well as setting up your 
+own shop. So as a small seller you can actually come to 
+EqualFooting and you can actually list your prices. In fact the 
+lowest price on there is from a very small company called 
+Batteries, Inc. that does nothing but sell batteries, which is 
+probably why they have the best prices on AA batteries and the 
+best delivery mechanism for that.
+    So I hope that e-marketplaces like EqualFooting will 
+certainly help all small businesses both on the buy side and on 
+the sell side find each other in efficient ways, and basically 
+make each other's businesses work.
+    Thanks.
+    [The prepared statement of Ms. Kim follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T6231.009
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.010
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.011
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.012
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.013
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.014
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.015
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.016
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.017
+    
+    Chairman Bond. Thank you very much, Ms. Kim. It is really 
+exciting to know what you are doing and I will remember that 
+when I am looking for AA batteries. That is something I can 
+understand. I am technologically challenged, but even I 
+understand AA batteries.
+    Now for one of our technological experts I now turn for 
+comments and the introduction to my good friend, a fellow 
+Missourian and the Senator from Montana, the chairman of the 
+Communications Subcommittee of the Committee on Commerce, 
+Science, and Transportation, Senator Conrad Burns. I will ask 
+Senator Burns to moderate as long as he can and then we are 
+going to ask Marc Freedman from my staff and Damon Dozier from 
+Senator Kerry's staff to serve as moderators.
+    But I will return after a few meetings and a few of the 
+other things that I have to do today. But now it is a 
+pleasure--with fear and trepidation I turn it over to Senator 
+Burns.
+    [Laughter.]
+    Chairman Bond. Strap on your seatbelts, we are----
+    Senator Burns. The only reason I came is, I just wanted to 
+counter the good Senator from Missouri's statement on how nice 
+Kansas City is in June.
+    Chairman Bond. Actually there are 2 weeks in June when 
+Montana is nice, or is it a week in June and a week in 
+September?
+    Senator Burns. If summer comes on Sunday, we go fishing.
+    [Laughter.]
+
+   OPENING STATEMENT OF THE HONORABLE CONRAD BURNS, A UNITED 
+                  STATES SENATOR FROM MONTANA
+
+    Senator Burns. Thank you, Senator Bond, and thank you for 
+these--this is the second of this series that I have been on a 
+forum discussion as far as e-commerce is concerned. We have 
+seen this industry grow since the first day I walked into the 
+Senate back in 1989.
+    I want to just make a couple of comments as I have a bill 
+on the Floor that I am managing. I am setting a new record for 
+military construction. Usually we pass military construction 
+appropriations in about 1\1/2\ hour. Now we have been on it for 
+4 days, for some strange reason that I will not iterate here.
+    I was interested in both the comments of Mr. Villars and 
+Ms. Kim with regard to the Internet and the challenges that we 
+see. We have seen a virtual explosion in communications--the 
+digital divide, Ms. Kim, is not only corporate. We talk about 
+the digital divide between small and large communities, the 
+trunks, and finally the fiber and the amount of broadband and 
+high-speed services that are available in not-so-densely 
+populated areas of our country.
+    The only reason I became interested in this situation is 
+being from Montana, we had to find a way to build an 
+infrastructure in which we could compete on a national and 
+international basis. We can do that with a modem.
+    But also we have a digital divide between our ears. In this 
+Congress we do not have a lot of folks that are actual members 
+that are even computer literate. I do not go anywhere without a 
+computer. I was very fortunate because I have a couple of very 
+bright kids and, of course, they taught me how to use my 
+computer. I used to think if you hit the wrong key, the darned 
+thing would blow up. That is not the case. I found out a 
+computer is more like a mule, you cannot make it do what it 
+does not want to do.
+    But I want to bring up some challenges that we have before 
+we can really see the Internet really hit its full potential as 
+a marketing and as a purchasing tool. Right now, we have in 
+conference the e-signature bill. Mr. Villars, you touched on 
+that issue, privacy. We have privacy now and we have our bill 
+ready to go we think, but we still have some challenges ahead 
+in how people look at the privacy area.
+    Also in safety and security. Whenever we start talking 
+about financial, and we are doing business that deals with some 
+very sensitive information, questions arise. Do I have the 
+encryption? Is my conduit or my message encrypted to a way 
+where when I receive a message from you it is as I have written 
+it? Has it not been read by anybody else, nor altered by 
+anybody else? Then when you respond to me I can have the same 
+assurance.
+    What I am saying here is safety, security, and privacy are 
+still areas of great challenge and until we have full 
+confidence that these areas have been properly dealt with, we 
+will continue to see a reluctance from quite a few people to 
+use this tool.
+    You are right, Mr. Villars, I am an old peddler. I am an 
+auctioneer. I have been a salesman all my life. I dearly love 
+it. I have people come into my office and apply for a job and 
+they say, we just do not want to sell. And I say, if you do not 
+want to sell, you are not going to work here because you are 
+not selling yourself very good either.
+    We are all salesmen in this great country where our economy 
+and our actual economic freedoms are based on the knowledge 
+that nothing happens until a sale is made. That is wonderful. 
+The United States is the only country in the world where that 
+really applies. Of course, economic security and political 
+security all go hand in hand.
+    But there is a relationship with the customer. You and I, 
+have been doing business a long time. I am always reminded of a 
+story of a good friend of mine that lived in Little Rock, 
+Arkansas. This man had a very bad speech impediment. He 
+stuttered terribly, but he was still one of the top salesmen 
+for the 3M Company. He would try to sell me stuff and he would 
+say, ``Conrad, you do what you do best and that is buy. And I 
+do what I do best and that is sell.''
+    Now in the area of women- and minority-owned businesses, of 
+which this Small Business Committee is very aware, we have 
+played a part in the development to make sure that we had equal 
+footing for everyone. The Internet tells us that these days are 
+over and if you had the product and the imagination it would 
+not make any difference whether those differences go away. We 
+do not know that yet. But until then, until we find that out, 
+we are very, very aware and very sensitive to minority- and 
+women-owned businesses. So there are still a lot of challenges.
+    We want to welcome NetCompliance, John Dominic from 
+Bozeman, Montana. I have known John ever since the Dead Sea was 
+just sick.
+    [Laughter.]
+    Mr. Dominic. And that is because we were trying to get a 
+couple of boats from Methusaleh and his dad.
+    Senator Burns. That is exactly right. What we have seen 
+through this whole evolution--and it has been marvelous as far 
+as I am concerned--is that if we do not tax and if we let it 
+run free, imagination, entrepreneurialship, and the American 
+imagination becomes the most wonderful, powerful machine in 
+America. We have seen that happen right before our own eyes. 
+That is the reason we lead the rest of the world. We are very 
+competitive at home, which makes us very competitive in the 
+international market. I believe that with all my soul. I really 
+do. We have seen just marvelous advances being made.
+    Now I am going to turn it over to this man right here, 
+Marc, because I have to go to manage a bill on the Floor. We 
+have to talk about Kosovo, but I would rather talk about 
+America and American entrepreneurialship. But just remember, 
+the digital divide is between our ears, and it is right here. 
+This is not the center of the universe. I mean, America is 
+doing wonderful without us. Just get out of the way, turn it 
+loose, and it will happen.
+    We want to welcome all of you here today. I will be 
+listening to what all of you have to say. Good to see you, 
+Floyd. Everything is all right in St. Louis, I assume.
+    Mr. Gaibler. No. They are all moving to Washington, D.C.
+    Senator Burns. That is just terrible. There are several 
+friends around the table that we have a relationship with, so I 
+thank you all for coming.
+    Mr. Krishnan, I guess I am cutting right into your time and 
+I am sorry about that. John, good to see you. I will go and 
+manage my bill, if I can. It is all yours.
+    Mr. Freedman. Thank you, Senator Burns. I would just like 
+to introduce Krish Krishnan, our last speaker. He is the 
+president and CEO of NetCompliance, Inc., a Seattle, 
+Washington-based Internet information commerce company. 
+NetCompliance allows businesses to be in compliance with the 
+myriad State, and Federal regulations via the Internet. Its e-
+comply technology helps companies keep track of regulatory 
+details and provides web-based training by employee, location, 
+and hazardous condition.
+    Mr. Krishnan's experiences in environmental, regulatory 
+compliance, and information technology are well suited to 
+NetCompliance's mission. Mr. Krishnan, nice to have you today. 
+Please proceed.
+
+ STATEMENT OF KRISH R. KRISHNAN, PRESIDENT AND CHIEF EXECUTIVE 
+       OFFICER, NETCOMPLIANCE, INC., SEATTLE, WASHINGTON
+
+    Mr. Krishnan. Thank you. Mr. Chairman, Senator Burns, and 
+Members of the Committee, I first wanted to thank you all for 
+inviting me here to testify before the Small Business 
+Committee. It is indeed a great honor. I am, again, Krish R. 
+Krishnan, president and CEO of NetCompliance, Inc., a Seattle, 
+Washington-based Internet information commerce company. We have 
+other offices in the State of Washington, in Vancouver, 
+Washington, Kennewick, Washington, and satellite offices in 
+Houston, Texas, in Washington, D.C., and a couple of offices in 
+Canada, and a presence on the Indian subcontinent as well.
+    Using the Internet, NetCompliance's e-comply technology 
+provides the platform for businesses, both large and small, to 
+be in compliance with a variety of State and Federal and local 
+regulations and standards. Later on in the presentation I will 
+talk about how we use the web in an innovative manner to 
+deliver appropriate knowledge and information to small 
+businesses, large businesses, in a manner which is clearly 
+faster, cheaper, and better.
+    Mr. Chairman, the Internet now has a profound impact on all 
+our lives. Today new companies and technologies have emerged 
+helping to create e-marketplaces, business-to-business 
+functions of various types which indeed, in comparison to the 
+old economy companies, are faster, cheaper and better. We 
+believe in particular at NetCompliance that businesses both 
+large and small are seeking to use the Internet to manage other 
+complex needs of the business, and in effect trying to extend 
+the e-frontier to functions such as compliance management.
+    This business potential is huge as business to business 
+electronic commerce is clearly spreading rapidly from larger 
+businesses to small businesses today. With all this explosion 
+in the Internet-related growth areas I think one area where new 
+technology is desperately needed is in the area of compliance. 
+Compliance with Federal regulations, compliance with State 
+regulations, local regulations, and standards.
+    I must just point out here that the impact of regulatory 
+compliance on businesses, particularly small businesses is 
+staggering. The annual cost to American businesses for 
+complying with a variety of regulations has been estimated by 
+Hambrecht & Quist in 1999 to be an astounding $45 billion, and 
+319 million manhours. In particular, just for EPA-mandated 
+business alone, businesses spend a total of 116 million 
+manhours. As another example, the General Accounting Office 
+estimated that the business burden for complying with lead and 
+asbestos regulation alone is $1 billion.
+    We were talking about the industry survey conducted by 
+Deloitte and Touche where they surveyed Fortune 500 CEOs. I am 
+sure, had Deloitte and Touche approached small businesses, 
+compliance management as an issue would have ranked as high if 
+not a higher priority among small businesses.
+    I think the future of Federal and State regulatory activity 
+promises to present more challenges to businesses. We would 
+like to submit for the record here, and I hold in my hand--I 
+probably need both my hands for this--the Unified Agenda of 
+Federal Regulatory and Deregulatory Actions. A copy of this was 
+published in April of this year. This calendar, which is 
+published twice yearly, describes 4,441 rules that the 
+Government is right now considering. Incidentally, this is a 
+biannual report for 6 months.
+    I find in particular very sobering the fact that the agenda 
+on what this is about starts at page 22,483 and ends over 1,600 
+pages later. I think if this document is going to be an 
+indicator of future regulatory challenges, I think definitely 
+there is a crying need for bringing some efficiencies to the 
+table to address such issues, and NetCompliance's primary 
+mission is to try to utilize the Internet to address such 
+efficiencies.
+    We certainly believe that this all-important area can be 
+addressed, and small businesses can address it better, cheaper, 
+and faster by appropriately using the efficiencies of the 
+Internet as a delivery platform. Indeed, we consider ourselves, 
+NetCompliance, to be an information commerce company. We 
+believe giving customized, relevant, topical, and timely 
+information across the Internet is in many ways as relevant, if 
+not a more relevant use, of the Internet where we can send this 
+knowledge and information via the wires.
+    To be sure, the regulatory impact differs for various types 
+of business. Fortune 1,000 businesses certainly are cognizant 
+of this problem. They happen to have large in-house staffs. 
+They end up having the budget to go out and hire consultants 
+and attorneys to help meet such needs. For smaller businesses 
+however, it is more of a desperate need where clearly small 
+businesses either do not have the information access to realize 
+what regulatory burdens they are facing, or quite clearly 
+cannot afford to pay for high-priced consultants and attorneys.
+    I think the Internet right now offers us unique 
+opportunities to comply with regulations in a different way and 
+at NetCompliance, I am proud to say, we have created an 
+innovative method to deliver education, training, compliance, 
+and information to American businesses. Simply put, 
+NetCompliance through our e-comply engine offers companies the 
+ability to meet the regulations using this integrated 
+information commerce suite.
+    Let me move on and actually give you an example, a tangible 
+example of how we use the Internet to help solve problems for 
+small businesses in particular. In our main web site you will 
+have noticed there are a lot of different compliance sites we 
+have. I would like to take some time and talk about one 
+particular example, GasStationCompliance.com. I would like to 
+submit for the record here the Seattle Times business story of 
+Thursday, April 6, 2000 entitled, ``It's Still Red Tape, But It 
+Comes By PC.''
+    The story highlights Frank Rosendale, an owner of gasoline 
+stations in suburban Seattle. Frank is a client of the 
+GasStationCompliance.com which helps convenience store and gas 
+station owners with EPA and OSHA compliance. This is a very 
+important area of compliance, particularly among small 
+businesses.
+    There are a lot of gas stations, in fact there are over 
+180,000 gas stations in the United States alone and many of 
+them, in fact the overwhelming majority of them, tend to be 
+small businesses. They have to comply with costly health and 
+safety rules and offer their workers training and education, 
+not just to do with hazardous materials and EPA and OSHA rules, 
+but also in the areas such as not to sell tobacco or alcohol to 
+minors.
+    The Seattle Times reported, that every month 
+GasStationCompliance.com sorts through newly-passed 
+regulations, new rules on how to store toxic cleansers, for 
+example, and sends the ones that apply to Rosendale's gas 
+stations to his online account. The regulations are also stored 
+on his online account so should an agency ever inspect his 
+workplace Rosendale has all the necessary paperwork filed 
+online.
+    Before it was a monster to get responses, Rosendale said. 
+It took him forever to do all the stuff. Instead of scheduling 
+offsite training sessions that cost about $100 an employee his 
+workers can do it on the gas station's PC using the 
+NetCompliance site. The total bill, $39 a month.
+    Small businesses through some of our other sites such as 
+MSDSCompliance.com have the ability to find and organize 
+material safety data sheets, or MSDS's, from among the over 16 
+million that are required by State and Federal laws. Our 
+proprietary system allows clients to search their data bases, 
+create and build a customized file folder of only those MSDS's 
+of interest to a particular client.
+    The pages are in text format which makes for quick 
+retrieval and there is no need to download any special programs 
+or conversion devices. And the folder resides on our main 
+server, NetCompliance's main server, which means literally this 
+can be accessed from anywhere, anyplace.
+    Mr. Chairman, the power of the Internet is bringing small 
+businesses the opportunities to reduce costs and remain 
+competitive in the global marketplace. Certainly we feel 
+another area where it is very relevant is in the training area. 
+Our TrainingCompliance.com site has about 100 online training 
+courses which help train business owners without them needing 
+consultants or offsite training sessions.
+    Mr. Chairman, to make B2B commerce an emerging e-frontier 
+for small businesses, NetCompliance believes that Congress must 
+give businesses the option of complying with the regulatory 
+requirements via the Internet. Legislation which would allow 
+the option of switching from filing paper copies to using the 
+web to file virtual compliance solutions would be extremely 
+helpful to small businesses seeking a better, cheaper, and 
+faster compliance method. Small businesses in America need 
+every benefit of the doubt from the regulators if they are to 
+compete fairly in the global economy alongside businesses from 
+foreign countries which do not impose the same regulatory 
+burdens like we do.
+    In closing, Mr. Chairman, let me point out to the Committee 
+that an anniversary recently passed with little notice. The 
+Occupational Safety and Health Administration opened their 
+doors 29 years ago on April 28. When these operations began 
+little did regulators envision that in the new economy 
+companies would want to comply with the Federal laws via the 
+Internet.
+    Mr. Chairman, Members of the Committee, NetCompliance is 
+poised to contribute to this regulatory compliance revolution. 
+And on a personal note I would like to thank Senator Burns from 
+Montana for inviting us to be part of the advisory committee of 
+the Congressional Internet Caucus. We certainly look forward to 
+working with the advisory committee and with this Committee to 
+help promote the Internet's use in this all important area.
+    That concludes my remarks. Thank you.
+    [The prepared statement of Mr. Krishnan follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T6231.018
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.019
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.020
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.021
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.022
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.023
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.024
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.025
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.026
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.027
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.028
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.029
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.030
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.031
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.032
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.033
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.034
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.035
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.036
+    
+    Mr. Freedman. Thanks so much, Mr. Krishnan. We appreciate 
+you being here. On a personal note, I spend a lot of time 
+dealing with regulations, and particularly with OSHA, so I have 
+firsthand knowledge of what you are wrestling with and what 
+your clients are wrestling with, so I can appreciate the value 
+of your service.
+    The next part of the program is going to be our open 
+discussion with the other participants here. Before we do that 
+I would like to have everybody introduce themselves, since 
+there are a lot of people who do not know each other yet. I 
+think for convenience purposes we will just start at that end 
+of the table with Mr. Alford. If you would just tell us who you 
+are and who you are with that would be very helpful.
+    Mr. Alford. I am Harry C. Alford. I am president and CEO of 
+the National Black Chamber of Commerce based here in 
+Washington, D.C.
+    Mr. Koncurat. I am Mark Koncurat. I am president of Host 
+Designs, a web hosting and web design company.
+    Mr. Lane. I am Rick Lane. I am with the U.S. Chamber of 
+Commerce. I am the director of e-commerce and Internet 
+technology.
+    Ms. MacDicken. Becky MacDicken with the Tire Association of 
+North America.
+    Mr. Morrison. James Morrison with the National Association 
+for the Self-Employed.
+    Mr. O'Connor. Good morning, I am Jim O'Connor. I am with 
+the U.S. Small Business Administration.
+    Mr. Peyton. David Peyton, technology issues manager with 
+the National Association of Manufacturers.
+    Ms. Rivera. Maritza Rivera. I am vice president for 
+Government relations over at the U.S. Hispanic Chamber of 
+Commerce.
+    Mr. Whysong. Dan Whysong, market analyst, St. Francis 
+College SBDC.
+    Mr. Wren. Tom Wren, The Wharton School of the University of 
+Pennsylvania Small Business Development Center.
+    Mr. Conlon. Paul Conlon, Senate Committee on Small 
+Business.
+    Mr. Freedman. I am Marc Freedman. I am also with the staff 
+of the Committee.
+    Mr. Dozier. Damon Dozier, Senate Committee on Small 
+Business, minority staff.
+    Ms. Bahret. Mary Ellen Bahret with the National Federation 
+of Independent Business.
+    Ms. Bradley-Cain. Ruby Bradley-Cain, president and CEO of 
+RBC International. I am here on behalf of the National 
+Association of Women Business Owners, NAWBO.
+    Mr. D'Onofrio. David D'Onofrio, National Small Business 
+United.
+    Mr. Farrell. Tom Farrell, senior business development 
+relations manager for BizLand.com.
+    Mr. Gaibler. My name is Floyd Gaibler. I am vice president, 
+governmental affairs for the Agricultural Retailers Association 
+based here in Washington.
+    Ms. Hatcher. Jennifer Hatcher, and I am with the Food 
+Marketing Institute, a trade association representing the 
+supermarket industry here in Washington.
+    Ms. Jacques. I am Veronica Jacques with the Direct Selling 
+Association.
+    Mr. Chubb. Michael Chubb with SGS On Site on behalf of the 
+Forum for Trust in Online Trade, director of marketing North 
+America for SGS.
+    Mr. Freedman. Michael, let me just ask you to indicate 
+where you are from because I think you represent a really 
+interesting angle to this question.
+    Mr. Chubb. I am actually a Canadian but I represent an 
+entity that is Swiss based with operations in 140 countries 
+including right here in the good, old USA.
+    Mr. Freedman. So right here we have a demonstration of the 
+internationality of the Internet which is something that I 
+think is really going to become a major factor of this whole 
+discussion as this industry takes off.
+    Thank you very much. We are happy to have all of you here 
+and I think that we are going to have a very interesting 
+discussion.
+    We have some questions worked out to get us going, so with 
+your permission I will just start off. The format basically 
+consists of posing questions to the speakers, but if you would 
+like to respond, please put your name tent on end so we can see 
+you, and then we will be happy to call on you.
+    Just to start off, Mr. Villars, a couple of things emerged 
+out of your statement. One of the things that I was struck by 
+is that you talk about an explosion of companies offering these 
+services for small businesses in terms of purchasing options 
+and exchanges and other formats like that. Is there any 
+experience with things like exclusivity contracts out there? 
+And if so, what does that do for small businesses who might get 
+locked into one type of exchange that may not last long? Or is 
+there a way small businesses can screen which exchanges they 
+get involved with and know what their chances are?
+    Mr. Villars. The question of exclusivity is a challenge in 
+a lot of ways. In fact exclusivity or resistance to exclusivity 
+is one of the things that has driven e-marketplaces to begin 
+with. One of the examples that is brought up a lot is the 
+automotive exchange which was announced a few months ago. In 
+reality, each of those large automotive manufacturers had 
+developed their own e-procurement systems and were quickly 
+moving to get their suppliers online, or trying to anyway.
+    A lot of the suppliers, the large and the small basically 
+resisted that and said, we are not going to spend our time 
+linking to 100 different systems, or in their case 4, but 
+ultimately 100 different systems. We need to have a more open 
+mechanism to bring us in.
+    For small businesses, they obviously have less ability to 
+say, ``No'' sometimes when a large customer asks. On the other 
+hand, no small business is likely to be around very long if 
+they are solely dependent on one or two companies. So it is 
+absolutely critical from their standpoint to look for a more 
+open model.
+    From what we have seen to date, e-marketplaces are judged 
+to a great extent on just how open they are. We believe that 
+the more independent they are perceived, the more effective 
+they will be in the long term. We do believe that there will 
+emerge an evolving link between these procurement systems and 
+marketplaces, and that even someone who is building a large 
+procurement system is going to want to have the ability to go 
+out into an open market for selective products and goods as 
+well as for other parts, or controlling their supply chain.
+    What is going to be challenging for the small businesses is 
+even with marketplaces, and I think the example by 
+EqualFooting's Angie Kim was perfect, batteries are something 
+that are needed in many different industries. It is not a 
+vertically specific activity. A small business really doesn't 
+want to be on one marketplace; they want to be on all 
+marketplaces. We have seen the rise now of hosting companies, 
+of software products that are going to make it more possible 
+for small businesses to be linked to multiple marketplaces 
+simultaneously.
+    So we do see the ability to prevent excessive exclusivity 
+in these deals. We would definitely say that just from an 
+overall organizational standpoint, the more exclusivity, the 
+less efficiency you will find.
+    Mr. Freedman. Good. I am sorry, I did not see in what order 
+you all put your tents up. We will go to Mr. Alford and then 
+Mr. Farrell.
+    Mr. Alford. I concur with Mr. Villars. Exclusivity just 
+does not have a role in the Internet marketplace, especially 
+since many of these exchanges have their own specialties or 
+their own niches; two specialties right there that are very 
+important. Some of these exchanges will approach our members 
+and say, ``We want exclusivity; we are going to pigeonhole 
+you.'' And I think the fact that many of these exchanges, I 
+know one big one started 2 years ago at a value of $320 a 
+share, yesterday was at $46. Another exchange was valued in 
+March at $152, today is at $24. Many of these exchanges are 
+going to fall out. When the shake-out occurs and as they fall 
+out, if you are linked with some of these companies, these 
+exchanges, you are going to be dead, out of business for a few 
+months until you recoup and recover.
+    Mr. Freedman. Thank you. One quick note, whoever is 
+speaking should make a point of grabbing a microphone because 
+this is being recorded and we will need that for those 
+purposes.
+    Mr. Farrell.
+    Mr. Farrell. Addressing Mr. Villars. I also chair a large 
+small business association in Pittsburgh, SMC Business Council, 
+and your comment was that smaller businesses can get into 
+selling their products via the auction sites. What we are 
+finding is when some of our smaller manufacturers who have been 
+selling, buyers from bigger companies are saying, ``Listen, my 
+job now, even though we have been purchasing from you for 10 
+years, is to get the best price possible. We are going to an 
+auction site. We want you to register and be part of that 
+site.''
+    To participate in that we are finding that our 
+manufacturers are lowering their margins so much that if they 
+do take the job they might be starting at 21 percent, they 
+might take the job at 5 percent, then if there is a technical 
+glitch or they have to send salespeople or staff out to the job 
+site, they cannot afford to do it. They are running at a loss. 
+What we are experiencing is, people are not jumping in to 
+selling their product via auction sites because it is coming 
+back to haunt them. They just cannot compete aggressively, you 
+know, their margins, just take into consideration their 
+overhead. I was wondering what your research shows or how you 
+feel about that, because it is really scaring a lot of our 
+smaller businesses away from competing in that marketplace.
+    Mr. Villars. We struggle with this as we have looked at it. 
+The theory behind the marketplaces, or in general behind the 
+B2B commerce is, the idea is it is supposed to create a more 
+perfect market. Better information, the ability to go out and 
+find the optimal price. We have found that for large 
+businesses--and this will be an ongoing challenge--that they do 
+tend to have this mind-set that this is purely about reducing 
+my cost and basically pushing the cost back in the supply chain 
+to ultimately smaller businesses.
+    What we have found is--at some level there is not going to 
+be an easy answer. In reality, a lot of small businesses are 
+going to have to deal with this world where geographic 
+distribution and information are not going to protect them as 
+much in some of the bidding.
+    On the other hand, we do think the marketplaces can 
+compensate for that by bringing you not just to the large 
+businesses but to other small businesses, and that you can have 
+some ability now to go out and more actively participate in 
+situations where you can do joint bidding, or in a situation 
+where you can take advantage of variations in the market. If 
+there is a shortfall and someone has a rush need to do things, 
+if you can target and build yourself so that you can be the 
+best responder for that; you can affect margins.
+    It is not a perfect world in that sense. Small businesses, 
+like large, are going to face pressures from this change. We 
+just want to make sure that they get the benefits as well as 
+learning the negative implications for the auction sites.
+    Mr. Freedman. That is a very interesting question. When we 
+were setting up this forum we were thinking: we want to get 
+into the problems that will face small businesses by doing 
+this. Not everything is going to be all rosy. So we want to 
+highlight that and look at those closely.
+    Michael Chubb, you are next and then Damon Dozier is going 
+to present a question after that.
+    Mr. Chubb. Thank you. I just wanted to address the issue of 
+exclusivity. Let us remember that we are not just playing with 
+American players here. We have suppliers of goods, whether it 
+is from Missouri or from Mexico or from the backside of China, 
+that will be providing goods.
+    The question of leveling the playing field, the question of 
+exclusivity, either to a net marketplace or to a procurement 
+hub, is one which I think the advice is correct. Your advice is 
+correct, sir. No exclusivity. And that goes if you are either a 
+supplier of goods or a supplier of services, as SGS On Site is.
+    This base has very little opportunity for these cozy little 
+relationships, so little transparency is there. That is part of 
+making greater efficiencies. But something that SGS is doing is 
+developing a set of ratings whereby each participant in a 
+potential transaction can be rated, whether they are Bob and 
+Fred in their backyard in Missouri making the best product 
+possible, or a very large entity somewhere else in the world. 
+This will allow you to understand the value and capability of 
+somebody in Missouri to go through with the selling of a good 
+through a dot com, whether it is a procurement hub or whether 
+it is a marketplace.
+    So we are working with marketplaces and procurement hubs to 
+help level this playing field. If you want to show yourself to 
+be the best, you can do that. We can help you identify yourself 
+as being different from the others. But let us recall that it 
+is not just Americans that are playing this game. We have got 
+people all over the world that are asking, ``Please rate us,'' 
+whether it is in southern India or southern Indiana. You have 
+challenges here.
+    Mr. Freedman. Thank you.
+    Mr. Dozier. We have two individuals here who have 
+established strong presence on the Internet. I was interested, 
+Marc stole my thunder a little bit, how does one actually get 
+involved? How do you get started? Is there any sort of tutoring 
+that you all went through? We know that the Small Business 
+Administration has a lot of programs. And in reading your 
+testimony, Ms. Kim, I found out that you were actually working 
+with the Service Corps of Retired Executives, a group that we 
+are very fond of here.
+    How difficult was it actually to set up shop? And what sort 
+of barriers were set up out there that you can let everyone 
+know here, so that they do not sort of fall into those traps 
+again?
+    Ms. Kim. I will get started on that. One of the big things 
+that we did when we got started was we had the advantage of 
+having gone through training, if you will, by virtue of having 
+been management consultants at McKinsey. We had helped our 
+large companies, the large clients, go through the challenges 
+of setting up the dot com versions of themselves and so had 
+gotten the training by actually having gone through with 
+clients hand-in-hand, the challenges of building an e-commerce 
+business.
+    So we went through some of those advantages ourselves, but 
+we certainly recognize that not all small businesses, certainly 
+ones that are starting up, are going to have those advantages.
+    I would like to address a couple of issues, No. 1, 
+training. One of the things that EqualFooting is doing with the 
+SBA actually is we are setting up online classrooms and also, 
+with SCORE, we are setting up paper pamphlet versions of those 
+online classrooms that help to train small businesses on how 
+they can actually use the powers of the Internet to finance 
+their businesses, get it started, grow their business, as well 
+as how they can purchase, how they can sell, all of these types 
+of things.
+    We are launching those, I think, in the next month or so. 
+We are very excited certainly about working with such great 
+organizations--that obviously care about small businesses--to 
+help provide some of that training. I think that if you go to 
+certainly the SBA site or SCORE or anything like that, and 
+certainly the associations that are represented here today, I 
+think everybody has those types of resources, and we should all 
+work together to make sure that we make more of those resources 
+available to small businesses.
+    On the funding side, as a dot com we did not go through the 
+traditional bank debt route. We went through venture capital 
+sources. I have actually been talking a lot recently with many 
+different people about the opportunities in venture capital for 
+small businesses who maybe are not the MBAs from Harvard and 
+come from consulting backgrounds and things like that--
+especially women, especially in B2B, and especially minorities 
+as well. We have been talking, a group of venture capitalists 
+and some entrepreneurs, we have been talking about how do we 
+make sure that minority and traditionally small business types 
+of entrepreneurs can get to this equity venture capital 
+funding. I think this is going to be one of the big issues that 
+drive how small businesses can competitively compete, 
+effectively compete in this new economy.
+    How do they actually get to not only the bank loans, which 
+certainly EqualFooting is working to try to make more 
+efficient, but also, how do you get to the venture capital 
+sources that are going to provide you with the millions of 
+dollars that you need to build a brand rather than just doing 
+little sales here and there on the Internet. So I think that is 
+another big issue that we should probably continue to discuss.
+    Mr. Krishnan. I guess in my case the motivation was 
+slightly different, I should say. When I first started my 
+professional career in this country, I started working for a 
+consulting organization and I was surprised--actually the right 
+word is shocked--to find the way the consulting profession 
+works, particularly in the area of regulatory compliance.
+    I found that they tend to be pretty motivated by their 
+billing systems, which are obviously time and materials based. 
+Not great incentives there for trying to get a job fast. 
+Suddenly, I found that they are masters, shall we say, of the 
+fine art of cut and paste. That bothered me.
+    All along, maybe partly because I was a little bit naive, I 
+just came from a good technology school, I felt there was an 
+obvious fit for applying technology judiciously to handle some 
+of these routine repetitive needs that regulatory compliance is 
+all about, and about information management.
+    So in our case, what we ended up doing is we ended up, 
+rather than sitting back in our ivory tower of technology and 
+assuming that one-size-fits-all, technology can address all 
+these problems, we started working with, for example, Mr. 
+Rosendale in Seattle. We took simple small vertical sectors and 
+tried to put together all of their compliance needs and tried 
+to address it by a simple solution which is Internet-based. So 
+we really got started in simple verticals, addressing small 
+business needs, and then moving on to larger businesses.
+    I guess as far as the lessons that can be learned from what 
+we are bringing to the table, I suddenly think that it is 
+possible to take on the system and the establishment. I 
+discovered that, particularly in the Washington, D.C. area, 
+rather appropriately called Beltway bandits associated with a 
+certain profession. But suddenly, in spite of the might and the 
+strength of certain established traditions, the beauty and the 
+opportunity of the Internet allows us to think in new 
+paradigms. Basically, I would encourage any small business 
+looking to get in the frontier that we can certainly change the 
+world and the Internet is indeed a great equalizer to do so.
+    Mr. Freedman. I think with the Internet, we will now see 
+the breakdown of that Beltway geographic distinction and we 
+will have more opportunity for bandits all over the country.
+    I saw Mr. O'Connor's name tent up and then Mr. Koncurat.
+    Mr. O'Connor. Thank you. I just want to say that at the 
+SBA, we look at the Internet as the most powerful change agent 
+that is affecting all of us right now. We look at knowledge as 
+the most important asset that small businesses are going to 
+compete with in the new millennium.
+    Having said that, one of the things that we are trying to 
+do is to develop more online courses that can help small 
+businesses that are available anytime and anywhere.
+    I want to also mention that we are very pleased that 
+EqualFooting is a co-sponsor of a course that the SBA will have 
+online within 30 days. That course is specifically about e-
+commerce or how to do business online, called Online 
+Purchasing, I believe.
+    We are dealing with a number of co-sponsors now to help us 
+develop course materials that will help small business in the 
+new marketplace. We think that this is extremely important 
+because the Government really does not have the knowledge to 
+develop some of the content that businesses need in today's 
+fast moving environment.
+    We are looking at working with a number of private 
+companies. We are working with Cisco Systems. We are working 
+with IBM. We are working with Apple and a number of other large 
+entities that are helping us develop courses that will help 
+small businesses. We think that this will be beneficial and 
+would like to do more of that.
+    But I would also like, today, to hear more from other folks 
+about what the SBA could do in today's environment to better 
+serve small business clients today? That is something that is 
+very important to us.
+    Mr. Koncurat. I am happy to hear what the SBA is doing. My 
+company, Host Designs, meets with several small businesses that 
+want to get out and get their web presence started. A lot of 
+them do not have the technical skill or the knowledge to 
+actually get out there and get the job done. They may have the 
+financing. They may have all of those things taken care of. 
+They get to the stage of, ``OK, now how do I get my business on 
+the web?'' And then the bigger picture of, ``Now how are people 
+going to know that I actually exist?'' And, ``Where am I going 
+to get the marketing revenue to actually spend those dollars 
+and get people to know about me?''
+    A lot of challenges that we find from small businesses that 
+come to us are based on that, and especially based on not being 
+able to actually have things done in-house. A small business 
+cannot afford to manage their own web server, manage their own 
+equipment. A lot of times they outsource that. There are 
+several competing hosting companies that I deal with that make 
+that challenging for a small business owner to say, ``This is 
+exactly what I need to get started.''
+    So I think more information needs to be presented to small 
+business owners of how they can actually startup their 
+business. That is something that we try to do to help small 
+businesses get out onto the web and be able to start their 
+business.
+    Mr. Freedman. Good.
+    Mr. Villars. Just one quick comment I think that can be 
+looked at, in some ways, is small businesses helping small 
+businesses. One group that we think will be critical here are 
+the accounting and existing support businesses that provide a 
+lot of the underlying financial services and accounting to 
+existing small businesses. They are in a position, in many 
+cases, of recommending the software, building the 
+infrastructure, or actively being involved in the 
+infrastructure. That really is the part that needs to be tied 
+to these marketplaces to participate in e-commerce.
+    I think an active effort to educate them so that they can 
+be more effective change agents to their customers would be an 
+important strategy to really make this move a little faster.
+    Mr. Farrell. At BizLand.com we have over 500,000 small 
+businesses on our site, we are signing up 2,500 small 
+businesses a day. We offer everything that a small business 
+needs to get their business up and running on the Internet, 
+free hosting, free web site, free e-mail, free storefronts. 
+Everything that a small business needs to get started on the 
+Internet, that is exactly what we do at BizLand.com, offer all 
+those services to the starting entrepreneur to work his way 
+onto the Internet and do his business over the Internet.
+    Mr. Freedman. So basically the short answer to how does a 
+small business get involved in the Internet is to come to you?
+    Mr. Farrell. Yes.
+    Mr. Wren. My question, Mr. Krishnan, I could not agree more 
+with you when you were talking about compliance management and 
+some of the issues that you face. And I can sympathize with 
+some of the problems that go along with that.
+    At the SBDCs, specifically in Pennsylvania, we have been 
+working with compliance assistance and compliance management. 
+Right now we have been working with the silkscreen industry, 
+the dry cleaner industry, very small businesses where we are 
+talking usually less than five employees. Some of the issues 
+that arise with them, are similar to the gas stations with the 
+underground storage tanks issues, that were major problems.
+    I guess a combination of questions for you, Mr. Krishnan 
+and also for Mr. Villars. A lot of the small businesses that we 
+are dealing with, because of their size, one or two employees, 
+less than five employees, when it came time to get out to them 
+they already had so many issues, as you had shown, that they 
+had to comply with--only to throw on the environmental impact 
+issues of, for example, the dry cleaner emissions evaporations.
+    They really are struggling with time and you have got the 
+issue of do I take the time out of my day to start worrying 
+about getting on the Internet as a survival method? Or do I 
+spend the 12 to 14 hours a day worrying about all these other 
+issues? And oh, by the way, I have got a business to run.
+    What is your advice? What is your recommendation? Or what 
+have you done to get with the small gas station owners, dry 
+cleaners, silkscreen printers, to figure out an effective, 
+efficient method of juggling 32 hats at one time?
+    Mr. Krishnan. That is a very important question, you are 
+right. Whether it is a laundromat dealing with the recently 
+publicized issues of perchloroethylene emissions. Or whether 
+there is a gas station dealing with leaking underground storage 
+tanks.
+    I think there is a lot of periodic media scrutiny and 
+regulatory scrutiny which comes and goes in waves for various 
+small business owners. I guess with us fundamentally, our 
+premise is that yes, there can be a lot of information offered 
+across the Internet, but certainly the Internet as an 
+information dissemination vehicle has changed and transitioned 
+from being a neat information tool to too much information.
+    So really the key is, whether it is a gas station owner or 
+whether it is a laundromat, we have to make sure the regulatory 
+guidance we provide them has three fundamental characteristics. 
+No. 1, it is timely. And does it match the latest changes in 
+the Federal Register? Or in the case of the Commonwealth of 
+Pennsylvania, the Pennsylvania Department of Environmental 
+Protection.
+    No. 2, are the regulatory issues and the solution we 
+provide customized for this particular segment? The same 
+regulatory text can be interpreted 18 different ways. That is 
+why consultants are extremely happy with new regulations.
+    No. 3, it has to be localized. In the case of a laundromat 
+in Harrisburg, Pennsylvania, we have to worry about potentially 
+the city of Harrisburg code, the PA DEP code, and then the 
+Federal code. What we essentially try to do is again use our 
+screening technology, in this case called the e-comply 
+technology, which is based on a lot of expertise in the patent 
+recognition and the AI, artificial intelligence, area to 
+essentially screen and customize the specific needs of a 
+particular client who comes onsite and provides that 
+information to them.
+    I think fundamentally, in terms of such small businesses, 
+one to five employees, the good news is certainly they are also 
+getting onto the Internet. And in terms of their ability to pay 
+and be involved in such regulatory solutions, I think the key 
+is for agencies such as some of the Governmental agencies, for 
+groups like the SBA, for potentially the Pennsylvania Chamber 
+of Commerce, other institutions like that, to encourage them to 
+come on board and potentially offer this information for free 
+for them.
+    We certainly are interested in working with such groups to 
+get the small businesses more used to using this new ``gizmo'' 
+as a very comfortable channel for solving their regulatory 
+burdens.
+    Mr. Freedman. Thank you, Mr. Krishnan.
+    Mr. Dozier. I have a question. I want to concentrate a 
+little bit more on how your businesses on the Internet have 
+continued to stay viable. We know that a lot of them end up 
+failing for one reason or another. Mr. Alford was talking about 
+that.
+    In particular, how much of your business depends on 
+traditional marketing, traditional advertising? I hear a lot of 
+frustrations, people calling our office saying well, I set up a 
+web site and now people are just supposed to find it. They 
+register with various search engines and what have you.
+    I liken it to a Chinese proverb, if you have a web site and 
+no one sees it, does it really exist?
+    [Laughter.]
+    Mr. Freedman. Is that Chinese?
+    Mr. Dozier. No, that is actually Damon.
+    So I am interested in how much activity your businesses 
+have in the traditional ways of marketing and advertising?
+    Mr. Freedman. Actually, if I could just jump in on that, I 
+have also been wondering what you all see in terms of the 
+relationship between a company going to the Internet approach 
+and also maintaining its brick-and-mortar approach. I do not 
+believe that the Internet is ever going to replace the brick-
+and-mortar approach, but I am curious what you see as the 
+interplay and how someone should balance those two approaches?
+    Mr. Krishnan. Let me go ahead. First, in our case, the 
+value proposition we bring to the table, to the clients, which 
+are fundamentally the reasons, whether it is a small business 
+or a larger business they come to us, is very simple. We say 
+anything a consultant can do for you, we can do it faster, we 
+can do it better, we can do it for a dime on the dollar. So it 
+is not that difficult for us, with that kind of strong value 
+proposition, to go in and get clients to try our service out.
+    Here really the challenge is yes, we are an interim 
+business. But fundamentally, our sales and marketing program 
+has to be based on a relationship building process. All said 
+and done, for plant managers in a large paper and pulp mill 
+down to a laundromat owner, the Internet is still a new tool. 
+It is still more of a toy, more for e-mail, more for chat 
+rooms. It is not necessarily something they would look to for 
+taking care of a serious aspect of business such as regulatory 
+compliance.
+    So what we tend to do is hold their hands, show them that 
+this is a simple point and click. You can look at the 
+regulatory needs. You can do multimedia training, streaming 
+across. Here comes the video that says, ``Joe, put out the 
+cigar before you fill gas or else.''
+    It is very simple the way our message is put across. And 
+fundamentally to us, that is part of the relationship building 
+process.
+    In terms of our relationship with brick-and-mortar 
+companies, certainly what we are about is we work with brick-
+and-mortar companies and basically show them how to eliminate 
+one of the middlemen and the whole process of disseminating 
+information, namely the consulting profession.
+    Ms. Kim. From EqualFooting.com's perspective, one of the 
+big things that we first did when we started our business was 
+obviously sign up partnerships with our brick-and-mortar 
+suppliers, both large companies as well as small suppliers that 
+are more regional or niche, like the Batteries, Inc. one that 
+you saw in the example.
+    When we actually got the site up and we had this data base, 
+I think we opened with a quarter of a million sku's of items.
+    Mr. Freedman. I am sorry, sku's?
+    Ms. Kim. S-k-u, of items, of product.
+    Mr. Freedman. That is the digital label of an item?
+    Ms. Kim. Exactly.
+    So what we did when our web site was actually up was we 
+certainly did not say, ``OK, now that we have built it we 
+expect people to come.'' We had to do a lot of things actively. 
+And we did some traditional and we did some new things. I will 
+go into a little bit of each.
+    The traditional things, things like direct marketing. 
+Things like telesales. Things like actually doing a little bit 
+of advertising, not anything like Super Bowl ads or anything 
+like that, but going after the trade journals that really 
+matter to our small businesses, especially our small businesses 
+in construction and manufacturing, which is our core focus.
+    We certainly started doing those and we have seen a lot of 
+good things come our way, as far as people registering to 
+become members of EqualFooting. In fact, within the first 30 
+days of our actually starting that type of marketing effort 
+more than 10,000 small business members joined us, which was a 
+great thing for us.
+    But one of the big things that we realized very quickly, 
+and I think we have probably known this all along, is that as a 
+new dot com, and I think all small businesses who are moving to 
+the Internet will have this challenge, and there are a lot of 
+companies out there, you have to do things that are 
+distinctive.
+    You also have to make the small businesses, that might hear 
+about you through direct mail methods or whatever, trust that 
+you are not just another dot com that is going to go out of 
+business tomorrow. Why would they give you credit card 
+information over the Internet, or even through the phone, if 
+they think that you might just go out of business?
+    So one of the things that we have been doing is working 
+with very reliable brick-and-mortar companies that have very 
+strong brands in small business services. Companies like 
+American Express. Companies like ADP, BancOne and First USA. 
+These types of companies that have been known to small 
+businesses and already have half a million to a million small 
+business customers each, to actually do co-promotions with each 
+other.
+    We actively promote their products and services to our 
+customer base and vice versa. To have somebody like American 
+Express be telling our story and our value proposition to our 
+small business customers has been a tremendous, tremendous 
+brand building and credibility building exercise for us.
+    We are also working with associations like the ones that I 
+mentioned before to build a brand, and also with other 
+associations and small business advocacy groups like NFIB to 
+actually reach their membership base. One of the big things 
+that we have been trying to do is really buildup credibility 
+among this group of corporations and organizations that really 
+care about small businesses, and convince them ``Hey, we are in 
+it for the long run and we are going to be here to do nothing 
+but think about and serve the interests of our constituents.''
+    Mr. Freedman. Great. I have Mr. Villars and Mr. Lane and 
+then Mr. Farrell and Mr. Chubb.
+    Mr. Villars. We are in the position of probably--and I 
+actually have been actively involved in the e-commerce base 
+directly managing the group for only 5 months, and I can 
+already State that I have met maybe 200 startup companies 
+focusing on B2B. So we have some visions here, and we have 
+developed a little bit of a checklist of how we tend to judge 
+these and what their issues are.
+    The No. 1 priority in how we judge these companies and 
+their long-term success is: Are they good at community 
+building? This is a rule of the Internet in general when you 
+look at dot coms, regardless of whether it is consumer or 
+business, are they building a community of people who want to 
+live in their space? Who when they go into work today, this is 
+where they go and they do things there? Whether it is to buy 
+things or to collect information or do other activities.
+    So you do not have to be Yahoo on day one, but you have to 
+be aggressive in the development of your product, in terms of 
+how you communicate yourself on the Internet and in the direct 
+marketing things. Are you successfully building a community 
+where people want to actively participate in that community?
+    So that is how we tend to judge what is going on. We will 
+look at sites, and I think both of the other panelists have 
+spoken actively about how they do that. But that is the No. 1 
+rule for looking at long-term success, are companies--do they 
+offer the services of a community? And then do they start 
+adding additional services to that?
+    So you start with commerce. You add financing. You add more 
+information on training. You add other things that are of 
+interest to that community. And I think one thing you will find 
+is the marketplaces will emerge as each other's best friends. A 
+marketplace that focuses on providing education services will 
+link with a marketplace focusing on equipment, linking to a 
+marketplace that is focusing on supporting gas station owners 
+as their particular vertical.
+    You begin to offer a single, bundled service of functions 
+for that community. That will really determine who is going to 
+be successful in this space.
+    Mr. Lane. The Chamber comes at this problem from a unique 
+position. No. 1, 80 percent or 90 percent of our members are 
+small businesses. And No. 2, we are a minority owner of an 
+entity called ChamberBiz, which is a small business portal that 
+has over 200 of its local and State chambers that are members 
+of it, where we work with their members to get them online and 
+doing some of the things that you guys are doing, but also 
+providing some information on legislation and other things.
+    One of the issues that you were talking about was 
+advertising and marketing on the Internet and how do you get 
+that message out? One of our big concerns, and it was brought 
+up by Senator Burns, is the issue of privacy and some of the 
+legislation that is moving that could possibly hinder the 
+ability of small businesses to target their audience because of 
+limitations placed on how information can be used.
+    So we are working diligently on a self-regulatory method 
+and through the Online Privacy Alliance and other business 
+associations, the Direct Marketing Association and other 
+advertisers, to ensure that privacy is protected but not, at 
+the same time, hindering the ability of small businesses to get 
+their message out to a very targeted audience in this very, 
+very competitive world.
+    But on the flip side of that, those people who are nervous 
+about privacy, the market again is working where there are over 
+700 products that have been introduced in the past 2 years to 
+protect an individual's privacy. There are also business models 
+out there that protect individual's privacy such as Incognito. 
+It is an online advertising firm. So there are a variety of 
+things going on right now in that area.
+    The other thing that is very critically important to B2B is 
+obviously the e-sign bill that was brought up by Senator Burns 
+in his leadership role on a lot of these issues. We are 
+confident that this legislation will again open the market to 
+new dynamics for contracts to be done online, for records to be 
+done online, in a way that results in even more efficiencies 
+for this economy and continues to grow.
+    Also a critical issue for small businesses is the issue of 
+trade and is the reason we are working on PNTR (Permanent 
+Normal Trade Relations with China), to open these markets to 
+small businesses. It is worldwide and small businesses can 
+access that market in a way again that is open and free.
+    So all the issues are related in terms of trying to find a 
+common ground for small businesses to enter in this new dynamic 
+marketplace, and at the same time building that consumer trust 
+so we do get more customers involved in this new economy.
+    Mr. Freedman. Thank you. I have got Mr. Farrell and then 
+Mr. Chubb.
+    Mr. Farrell. What we found at BizLand, as we were trying to 
+move the brick-and-mortar small businesses and entrepreneurs 
+into this space, is they have a certain fear of having their 
+competition one click away from them. To get them over that 
+hurdle, to get them into the Internet space, is really a very 
+big challenge.
+    A gentleman that has a flower shop on the corner, who has 
+no competition within 4 or 5 miles, all of a sudden someone 
+does a search and he comes up, but there are 100 competitors 
+there. We found that is really keeping small businesses from 
+jumping into this space at a much quicker rate.
+    Mr. Freedman. How do you counter that? I guess one thought 
+would be your competitor is there and if you are not there you 
+will not get anything out of it. But on the other hand, I can 
+appreciate the fear.
+    Mr. Farrell. Tell that to the person who has had the floral 
+shop for 30 years on the corner of First and Main, that they 
+need to be in that space. It is a very hard sell for them to 
+make that jump.
+    Mr. Freedman. A psychological type of area.
+    Mr. Chubb. I just wanted to address the issue of trust. Ms. 
+Kim, you brought up the concept of trust and you brought up the 
+concept of security. Yes, there are issues in relation to 
+digital security, encryption, e-sign, and so forth. Senator 
+Burns is pushing hard and we appreciate his efforts because 
+that is going to lead to efficiencies.
+    One of my other hats that I am wearing, that you do not see 
+on this copious hairless skull, is the Forum for Trust in 
+Online Trade. It is an organization that exists to address its 
+title, trust in online trade, in all its myriad of issues, 
+whether it is security or identity or how do you, as Mr. 
+Villars pointed out, pay for actual goods between businesses?
+    We are not talking a CD for $20. We are talking $50,000 to 
+$100,000 to $2 million. There are large quantities. There are 
+large issues there.
+    I think Ms. Kim also brought up a valid point, that you 
+can, as a small business, assess a dot com by the nature of its 
+partnerships that it has present on its site. We have one of 
+the Forum founders members in the audience here today, Rebound. 
+They are a dot com that is international, and has domestic 
+activity as well.
+    If you go to their site, you will note that they have 
+partnerships with SGS, but also with a major freight forwarding 
+entity. They are discussing major relationships with the 
+largest insurance company in America, I think, as well as other 
+key service providers. So the issue for the people here 
+representing associations, when you talk to your small to 
+medium enterprises, and they are being approached, part of 
+their due diligence is to assess their checklist of suppliers, 
+in terms of other key service providers.
+    If it is blank, worry. If they have got major alliances 
+with major names and you can search them, then you are starting 
+to lead the way toward a more trusted environment.
+    Mr. Freedman. Thank you. Before we go to Mr. Peyton, Paul 
+Conlon has a history with some of these issues.
+    Mr. Conlon. We did a forum, which many of you guys were at, 
+a couple of months ago on computer security. Since that time, 
+we have had a number of meetings with some folks over at the 
+FBI. They have put together a new center called the Internet 
+Fraud Center, which they just launched I think in early May. I 
+would encourage everyone to pay attention to the efforts that 
+the Bureau is doing in that. I think it is a worthwhile effort.
+    Mr. Peyton. Thank you. We have been aware for a long time 
+of the challenges faced by smaller- and medium-sized 
+manufacturers in applying any kind of technology. We have done 
+a series of three studies over the last decade called 
+``Technology and the Factory Floor,'' which showed repeatedly 
+that smaller plants trail larger plants in applications in any 
+of 15 different categories, mostly related but not entirely 
+related to information technology.
+    We also did a survey in the past year with the McGladrin 
+auditing and consulting firm because we were seeing numbers 
+regarding how many businesses are putting up web sites, which 
+is encouraging. But what we found was that when you look hard, 
+there are somewhere between 100 and 200 really good web sites 
+put out by small- and medium-sized businesses. We singled out 
+Smucker's Jams and Jellies, Samuel Adams Beer, and 
+interestingly Rayovac Batteries. They compare their own with 
+all the other manufacturers and they have the best comparison 
+chart for all the models and numbers that I have ever seen, at 
+their own site.
+    With all these thoughts in mind, we put up our own e-
+business portal this year, ManufacturingCentral.com. I have not 
+been to BizLand but it looks like we have some overlap of 
+functions with what you offer there at BizLand.
+    We agree with what Mr. Villars has been saying, that it is 
+really not just a vertical chain that would be most useful to 
+smaller businesses, but a much fuller suite of capabilities. So 
+we offer everything from web site hosting to bid offering. We 
+feel that there have to be many more horizontal offerings to be 
+truly useful to small businesses to get up and going. So we 
+certainly agree with that perspective.
+    On the policy agenda, we have been working with the Chamber 
+on the e-signature bill. That is probably the single most 
+useful thing Congress could do quickly, is to get that to the 
+President so that businesses can do deals, which are above a 
+credit card level, entirely without paper.
+    Mr. Freedman. Thank you. Mr. Alford.
+    Mr. Alford. In regards to the florist, it is the same 
+concept as the Yellow Pages. I think if you are in business, 
+you better be able to compete. In business, Darwin does apply.
+    In regards to the security issue, fear of using your credit 
+card on the Internet, I think with practice we will overcome 
+that issue. We all go to a restaurant and will give our credit 
+card to an 18-year-old waiter from who knows what background, 
+who will go into the back room with it for 10 minutes. We have 
+comfort with that.
+    Finally, in case it does not come up again, in the private 
+sector, we really are wondering if it is right to label a 
+business a minority business, a woman business in the private 
+sector. There is not a Fortune 500 company that does more than 
+2 percent with African-American businesses. Not one.
+    I have faxed too many CEOs about a buyer out in Kokomo, 
+Indiana, who prefers to spend $40,000 more of his company's 
+money because he likes the guy who is selling him some goods 
+versus one of our members. So I think perhaps we may level the 
+field a little if the person does not know the ethnicity or the 
+gender of the business owner but focuses on quality and price. 
+If we are to be competitive, I believe we will increase the 
+amount of business we do in the private sector.
+    Mr. Freedman. Thank you.
+    Ms. Hatcher. Jennifer Hatcher with the Food Marketing 
+Institute.
+    I think we have really hit on some of the most important 
+topics, in terms of getting folks motivated to get online, and 
+in talking about the value proposition and community, certainly 
+our small business members see purchasing as a big issue. They 
+definitely see compliance as a big issue.
+    The other issue that we are really facing right now is 
+labor in our industry. We have just launched an Internet 
+venture, in terms of SuperJobMarket.com linking employees and 
+employers and really giving small businesses the opportunity to 
+go after those critical employees in the industry. I think, in 
+terms of talking about community and the value proposition, to 
+get folks motivated to get online, they are going to stay 
+online once they realize the power of a PC. In a lot of 
+instances, a small business is in better shape than a large 
+business who has got an older computer system, where a small 
+business can take one PC.
+    We have a single store operator in the New York City area 
+who sells specifically Latin products and has found that he can 
+now go across the country to sell to a lot of communities that 
+do not have products designated for Latino families, just with 
+the power of his single personal computer.
+    Mr. Freedman. That is very encouraging. I was interested in 
+some of the comments from some of the industry-specific groups 
+about what their members may be doing in this area. We have 
+been hearing a lot about people who are involved in the 
+Internet specifically, but I am also interested in the tire 
+group and how your members are getting into the Internet.
+    Ms. Kim. A quick note on the issue of security. Certainly, 
+I think digital security is very important. I think we, as well 
+as other marketplaces, are complying with all of the 
+regulations that we need and getting all of the certifications.
+    But I think one thing that has been really important when 
+we have talked to our small business customers, we actually 
+have an advisory board of about 80 small business owners that 
+we sort of run everything by. This was something that we 
+started last summer.
+    One of the big things that they told us about security is 
+it is less the online security that they care about and more 
+the fact that they might be able to pick up the phone, if they 
+do have a problem, and be able to reach a live person. A lot of 
+net market makers and exchanges have not provided that kind of 
+basic customer service function.
+    One of the big things that we push to do is somewhat become 
+a brick-and-mortar company ourselves by building out our own 
+call center that serves 24-7 with a toll-free number. Even 
+people who do not have PCs can actually call, not only with 
+customer service questions but also actually access all of the 
+same functions that online customers can.
+    I think this has actually provided our customers with a lot 
+of confidence that hey, this is not just a phantom web site 
+that nobody looks at or anything like that. I think this is 
+something that we entrepreneurs and all net market makers 
+should really strive to provide, is that kind of real phone, 
+live service.
+    Mr. Freedman. In the end, you just want to hear a voice.
+    Ms. Kim. Exactly. For some reason, they do not mind 
+actually giving out their credit card number, as long as it is 
+to a person. I am not sure why, but they do not.
+    Mr. Freedman. Mr. Lane and then Mr. O'Connor, Mr. Gaibler 
+and Mr. Wren.
+    Mr. Lane. I think one of the ways to get more small 
+businesses online are these types of events. I want to commend 
+Senator Bond, Senator Kerry and Senator Burns for putting on 
+this forum, because it allows for education. I am sure this is 
+going to be on the web and businesses can access that.
+    One of the things that we are trying to do at the U.S. 
+Chamber, and what we have initiated, is a massive educational 
+process on the issue of network security, on the issue of how 
+to get online. We are partnering with State and local chambers 
+to put on events in those areas. We have one coming up in the 
+State of Oklahoma. We are going into Missouri and a few other 
+states, trying to get into markets.
+    We are not going into Silicon Valley and telling John 
+Chambers how to do e-commerce. But we are going to the places 
+that have not been effected that much by the e-commerce bug. 
+That is probably a bad term to use.
+    Education is key. I think the more you buildup that comfort 
+level--just as we talk about customer trust, I think we also 
+have to get business trust up there.
+    So I just wanted to commend you and your bosses for putting 
+this forum on, because it is critical to get this type of 
+information out.
+    Mr. Freedman. Thank you. We should all recognize that this 
+is being broadcast live over the Internet right now through the 
+Small Business Committee web site, and it will be archived on 
+the web site. So if you all want to go back and see how the 
+forum looked, you can click on it and bring it up on your 
+RealPlayer software and take a look at it. The archives are 
+maintained for one year.
+    The Internet moves fast, but it is not too late to get into 
+it. That is a great message.
+    Mr. O'Connor. I think everybody in this room agrees that 
+small businesses need to understand and engage in e-commerce 
+right now. But it is still about the customer. No matter how 
+high tech a company gets today, basic business tenets still 
+apply.
+    We are getting a lot of requests now from small businesses, 
+and one of the things that we are looking at is, even though 
+everybody wants a web site, there is more to it. The basic 
+business tenets still need to be understood by the small 
+business community, and we are still trying to help them in 
+that area.
+    Mr. Freedman. Thank you. Mr. Gaibler.
+    Mr. Gaibler. Thank you very much. Our members are primarily 
+retail farm suppliers and the products that they handle are 
+primarily agricultural chemicals and fertilizers. So not only 
+do we have to comply with the regulations of running a 
+business, we have to comply with the EPA, the DOT, the material 
+safety data sheets, all of those requirements. It has been a 
+real struggle for us to try and get our hands around all of 
+that aspect.
+    What we see happening, at least in terms of agribusiness, 
+is we see a lot of business-to-consumer web sites popping up 
+where there are more auction sites or brokering of these 
+products. We have been concerned about the stewardship of that. 
+Once those products are purchased and change hands, are they 
+actually being legally able to use where they have been bought? 
+And are those products still in their same containers, do they 
+meet EPA requirements, et cetera?
+    One of the ways that we are trying to deal with this as an 
+industry is a group of manufacturers, distributors, and our 
+retailer members, trying to put--an organization has been put 
+together where we are trying to build data bases, we are trying 
+to get to the point where we can bar code these products, where 
+we can have electronic data interchange, electronic funds 
+transfer, those sorts of things.
+    Just an example: The agricultural chemicals that exist in 
+excess inventory is over $1 billion every year. So you can see 
+that the savings and the product efficiency that we could get 
+out of that is tremendous. So we are struggling with that as 
+both a threat because some of our members see this brokering 
+going on as a threat and as an opportunity. I think the 
+entrepreneurial part of it is saying, we will take advantage of 
+that and get on that brokering exchange and buy and sell 
+chemicals and other products as well. But this is a big 
+challenge for agribusiness.
+    Mr. Freedman. I am not surprised.
+    Mr. Wren. I wanted to go back to Mr. Lane's comment about 
+how to get more small businesses involved with the use of the 
+Internet. That posed quite a challenge for us at the SBDCs, 
+Small Business Development Centers, dealing with a lot of very 
+small businesses with under 10 employees. Being from Missouri, 
+one of the philosophies I have always had is ``show me.''
+    So with that in mind, since in Pennsylvania, I will use the 
+example that where we are located there are 16 colleges and 
+universities throughout the State. We decided that one of the 
+best ways to do this is instead of having them come to us or 
+start talking about it, let us take this on a road show. So by 
+doing a series of seminars--and actually beyond the seminar 
+stage, taking laptops, going into a business where we are 
+sitting down talking to them about it. I ask, ``Do you have an 
+open phone line?'' Let us plug it in. Here, play with this 
+thing. As Senator Burns said, the only way you are really going 
+to mess a computer up is if you enter a soda through the 
+keyboard. It is not going to hurt you. So let them play with 
+it.
+    My colleague Dan Whysong from St. Francis College was 
+meeting with a very interesting company last night. It is a 
+very small business. The owners are in their seventies. They 
+have an agricultural type business. They were of the mind-set, 
+this thing is too scary for me. I think Dan did a very good job 
+last night. He has made progress. They said, ``OK, we can get 
+you to post a web site, but we do not want e-mail.'' So we have 
+got them to the point they have bought the automobile. Now we 
+have just got to convince them to put an engine in it.
+    I think you have to actually get down to the grass roots of 
+small businesses. One of the major outreach efforts that can be 
+used for that is colleges and universities with all of the 
+resources and assets that they have to give back to the 
+communities, in partnering with organizations like that it will 
+help to expand those small businesses, such as the one with the 
+70-year-old business owner.
+    We tend to have a gap that we look at--I come home from 
+work in the evening and my 17-year-old daughter will show me 
+another new thing she learned how to use on the computer, which 
+is probably 10 steps above where I am. And if you go to the 14-
+year-olds, they are showing the 18-year-olds how to do things.
+    Then we have got this group of middle-sized businesses--
+small- and medium-sized businesses that are good at using the 
+Internet but there is that gap from about age 20 to 25, 30-
+years-old who are business owners that have so many other 
+issues and they really did not get the training, whether it be 
+in a formal setting such as a college or a university, or went 
+out and struck out on their own. They are trying to start their 
+businesses, and I think that is a lot of the target market 
+where we need to grow this technology; growing those businesses 
+has got to be a focus.
+    I think through using organizations that are represented at 
+this table, the Small Business Development Centers, the 
+colleges and universities, can be a great resource for that. I 
+think this is pretty common what a lot of us are seeing with 
+small businesses.
+    Mr. Freedman. Can I just interrupt you? We are running out 
+of time and we have got one question that we need to present to 
+the group that we really want to hear a response on. I am going 
+to direct it to Becky MacDicken and David D'Onofrio right now 
+since their name tents are up, and I think it applies to them 
+very closely.
+    In terms of what the Small Business Committee can do for 
+this issue, what kind of legislation do you think we might be 
+able to generate? We have heard about the e-sign bill already, 
+but we want to talk about incentives in terms of what do you 
+think would help small businesses? What would pull them in? 
+What kinds of things can Congress do to pull them into this 
+market? Is there some question of tax relief or something? I am 
+just throwing that out because I know that it is always one of 
+the top subjects that people go after.
+    David, do you want to start and then Becky?
+    Mr. D'Onofrio. I think the first thing you guys can do is 
+do no harm. We try tax incentives, we try tax credits, we do 
+all of these things and they are nice----
+    Mr. Freedman. Is there a bill that says, do no harm?
+    Mr. D'Onofrio. I think your boss should introduce one. Tax 
+credits are good. They help in a lot of different areas. I am 
+not sure this is necessarily one of them that will help.
+    The quick point that I was going to make is at these 
+forums, these kinds of opportunities to educate people that is 
+really what we need. We do a survey every year with Arthur 
+Andersen's enterprise group. The results are going to be 
+released at the end of June. It is shocking to see how many 
+folks do not think they need to get into e-commerce. How many 
+people who just, it is not for their business. You see the 
+challenges that are out there and we ask them, what are they? 
+And it is all spread out pretty equally. It is the time. It is 
+the cost. It is the fear. It is the technology moving faster 
+than they can keep up with.
+    I am not sure that is something that necessarily Congress 
+can do too much about. I think it is what the folks on the 
+panel and the folks around this table who really have to do the 
+most to help small businesses.
+    Ms. MacDicken. I would agree obviously with what David just 
+said. Just to give you a quick anecdote as to what our 
+membership's mentality is: We got a call last week from a 
+member who went online and was searching around for a small 
+tire dealer or for tire dealerships in his area of New Jersey 
+and found one of his main competitors was online. He was livid 
+when he found out he did not have to pay taxes nor were there 
+sales taxes on any sales that that gentleman made.
+    He said, that is not fair to me. Anybody I deal with in my 
+shop has to pay sales taxes. So he said, we want to make sure 
+you press legislation advocating taxes. We said, no, no, no, we 
+cannot do that, obviously. But we also pointed out to him that 
+the shipping and handling costs alone would probably more than 
+make up for those taxes.
+    We would say at this point we approve of the moratorium 
+that has been passed keeping Internet sales taxes status quo. 
+But as far as other incentives, I do not know. They are scared 
+and they are not sure what to do, and they do not trust people, 
+and I do not know how you are going to get over trusting--I 
+mean, the Government coming in and saying, we are here to help, 
+will not help. So I am not quite sure what else to say other 
+than e-signatures and what we have heard this morning.
+    Mr. Freedman. I want to give our panelists probably, I 
+guess it is going to come down to our last word here on this. 
+So we will start with Mr. Krishnan and then move across.
+    Mr. Krishnan. Thanks. I think a very obvious area where we 
+see that Congress can help in passing legislation is to mandate 
+that small business owners, as well as larger businesses, can 
+comply and take care of their paperwork filing online. To me, 
+this is such a no-brainer. It is a win-win situation.
+    By doing so, because all of us are familiar with the 
+Paperwork Reduction Act, we see the small print at the end of 
+every form, but the people we have talked to on the 
+governmental side, the State governmental side we are in dialog 
+with a couple of State governments they just, based on their 
+analysis, were astounded to find that by doing so their costs 
+of disseminating information about new changes, about the 
+outreaches, instead of just relying on traditional toll-free 
+hotlines, and seminars and so on and so forth alone, and their 
+cost of processing the paperwork is reduced dramatically.
+    So not only do small businesses save a lot of money with 
+electronic filing, but, the Government on the side of 
+processing the form and the data and related enforcement 
+actually end up spending a lot of time and a lot of money that 
+could be reduced with electronic filing. So hope again this 
+logic and common sense--acknowledging the Internet's existence 
+and its viability for being the delivery platform will help the 
+Congress take that step.
+    Mr. Freedman. Do you see the forms being changed to be 
+filed online or is it the same form which happens to be online?
+    Mr. Krishnan. Right now fundamentally you have a couple of 
+Federal agencies, in particular the IRS and SEC, which have 
+taken some steps in that regard. If you take EPA, OSHA, if you 
+take a variety of State governments you find they are still--
+have not really begun to think about it.
+    Mr. Freedman. It is the same form it just may be available 
+online.
+    Mr. Krishnan. And particularly I think for a small business 
+owner, or for a larger business owner, every day is like an IRS 
+April 15 deadline. To be able to deal with all of those 
+seamlessly, efficiently using technology is going to be a great 
+boon.
+    Mr. Freedman. Sure. Thank you.
+    Ms. Kim. I think I would wholeheartedly agree with the 
+recommendation of do no harm. One of the big things that I 
+think where Members of Congress can really help with respect to 
+small business awareness is rather than legislation, going back 
+home to the small business constituents and having forums like 
+this that are educational, with people like us who care about 
+small business e-commerce issues, and inviting their small 
+business constituents. I think that is going to be one of the 
+most effective ways of actually affecting change in this area.
+    I know I have participated in such forums held by a Member 
+of Congress before. One particular one was in Michigan with 
+something like 600 to 700 small manufacturers who were there. 
+It was a fabulous dialog that we had with all of the different 
+people, and it was a great way to actually change behavior 
+because the Congressman was there and talked about all of the 
+different opportunities.
+    I am definitely looking forward to the Kansas City event, 
+and I think opportunities like that where Members of Congress 
+actually show that they want to communicate directly to their 
+small business constituents and invite people like us who are 
+actually doing some of that, I think that would be a great way 
+and the right step.
+    Mr. Villars. I would close with one point. IDC is not 
+typically in the business of suggesting legislation, but I 
+think as we look at the future of these marketplaces and if 
+they do reach their potential in terms of the number of users 
+and the activities going on there, there are going to arise 
+issues very similar to what the securities and commodities 
+businesses face. Where there is going to have to be a certain 
+amount of trust or a guarantee of trust in the system so that 
+the participants all feel that this is an open market and that 
+there are no potential shenanigans going on, as you would say, 
+which always are a risk.
+    So we do think that that is the thing to be aware of as 
+this goes forward, because while business is very good overall, 
+you always are going to have the risk of somebody trying to 
+take advantage of the system. That is going to cause--if that 
+becomes public and very visible, you are going to lose a lot of 
+trust from the people who actually are getting the most benefit 
+from that.
+    So we would say that a vigilance and watching to see when 
+you reach a certain scope that you begin to think about those 
+issues will be something that Congress should keep its eye on.
+    Chairman Bond. Thank you very much. Our special thanks to 
+the panelists and to the participants around the table. I was 
+watching the forums on the Internet as I was meeting with 
+groups in Missouri. It is interesting that you should mention 
+that question of trust because among the groups I met with were 
+realtors from Missouri and they were concerned about 
+maintaining the security of the information that they receive 
+there, and I suggested that this was an important role for 
+technology to develop because we much prefer to solve these 
+problems by technology rather than legislation. But as you 
+indicated, there may well be some technology needs that are 
+not--some technology gaps that must be filled with legislation.
+    So we ask that all of you continue to advise us and work 
+with us, and as we see how this develops we will be listening 
+for the voices of small business, and those of you who serve 
+small business, to see if there are needs that we must address 
+by legislation. As you indicated, our preference is to do it 
+with technology, but if we find that that is not adequate then 
+certainly we would be in a position to consider the 
+legislation.
+    I am convinced that in the next few years the Internet-
+based B2B transactions will be commonplace, and a major 
+component in the small business community's ability and 
+approach to doing business. Obviously we have identified some 
+tremendous--I would prefer to refer to them as opportunities 
+rather than challenges, but I think you have laid out for us 
+what those ``opportunities'' are.
+    As always in our forums, the record will remain open until 
+June 1 for additional comments or statements from anyone who 
+wishes to submit further ideas or expound upon discussions that 
+have already occurred today. We will be publishing a transcript 
+of this forum for future use, and I would reiterate what I 
+believe Marc Freedman has already told you, that in keeping 
+with the high-tech nature of this subject, the Internet 
+streaming of the forum is archived on the Small Business 
+Committee's web site at http://www.sbc.senate.gov. You click on 
+the hearings icon and you can hear all of this again.
+    Also we ask that you continue to share with us through the 
+Internet or any other more mundane means of communication you 
+wish to use on your ideas in this exciting and very important 
+area. Thanks to all of you for attending and for participating. 
+It has been a very fruitful discussion and we are delighted to 
+have so many people who have participated here with us in this 
+room and also via the Internet.
+    Thank you very much for your time.
+    [Whereupon, at 11:35 a.m., the Committee was adjourned.]
+
+    [GRAPHIC] [TIFF OMITTED] T6231.037
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.038
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.039
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.040
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.041
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.042
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.043
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.044
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.045
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.046
+    
+    [GRAPHIC] [TIFF OMITTED] T6231.047
+
+                                <greek-d>
+
+</pre></body></html>

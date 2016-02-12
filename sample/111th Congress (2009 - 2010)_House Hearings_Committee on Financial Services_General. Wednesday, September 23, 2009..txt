@@ -1,0 +1,2949 @@
+<html>
+<title> - THE ADMINISTRATION'S PROPOSALS FOR FINANCIAL REGULATORY REFORM</title>
+<body><pre>
+[House Hearing, 111 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+ 
+                     THE ADMINISTRATION'S PROPOSALS
+                    FOR FINANCIAL REGULATORY REFORM
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                     ONE HUNDRED ELEVENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           SEPTEMBER 23, 2009
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 111-76
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+54-867                    WASHINGTON : 2010
+-----------------------------------------------------------------------
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092104 Mail: Stop IDCC, Washington, DC 20402�090001
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                 BARNEY FRANK, Massachusetts, Chairman
+
+PAUL E. KANJORSKI, Pennsylvania      SPENCER BACHUS, Alabama
+MAXINE WATERS, California            MICHAEL N. CASTLE, Delaware
+CAROLYN B. MALONEY, New York         PETER T. KING, New York
+LUIS V. GUTIERREZ, Illinois          EDWARD R. ROYCE, California
+NYDIA M. VELAZQUEZ, New York         FRANK D. LUCAS, Oklahoma
+MELVIN L. WATT, North Carolina       RON PAUL, Texas
+GARY L. ACKERMAN, New York           DONALD A. MANZULLO, Illinois
+BRAD SHERMAN, California             WALTER B. JONES, Jr., North 
+GREGORY W. MEEKS, New York               Carolina
+DENNIS MOORE, Kansas                 JUDY BIGGERT, Illinois
+MICHAEL E. CAPUANO, Massachusetts    GARY G. MILLER, California
+RUBEN HINOJOSA, Texas                SHELLEY MOORE CAPITO, West 
+WM. LACY CLAY, Missouri                  Virginia
+CAROLYN McCARTHY, New York           JEB HENSARLING, Texas
+JOE BACA, California                 SCOTT GARRETT, New Jersey
+STEPHEN F. LYNCH, Massachusetts      J. GRESHAM BARRETT, South Carolina
+BRAD MILLER, North Carolina          JIM GERLACH, Pennsylvania
+DAVID SCOTT, Georgia                 RANDY NEUGEBAUER, Texas
+AL GREEN, Texas                      TOM PRICE, Georgia
+EMANUEL CLEAVER, Missouri            PATRICK T. McHENRY, North Carolina
+MELISSA L. BEAN, Illinois            JOHN CAMPBELL, California
+GWEN MOORE, Wisconsin                ADAM PUTNAM, Florida
+PAUL W. HODES, New Hampshire         MICHELE BACHMANN, Minnesota
+KEITH ELLISON, Minnesota             KENNY MARCHANT, Texas
+RON KLEIN, Florida                   THADDEUS G. McCOTTER, Michigan
+CHARLES A. WILSON, Ohio              KEVIN McCARTHY, California
+ED PERLMUTTER, Colorado              BILL POSEY, Florida
+JOE DONNELLY, Indiana                LYNN JENKINS, Kansas
+BILL FOSTER, Illinois                CHRISTOPHER LEE, New York
+ANDRE CARSON, Indiana                ERIK PAULSEN, Minnesota
+JACKIE SPEIER, California            LEONARD LANCE, New Jersey
+TRAVIS CHILDERS, Mississippi
+WALT MINNICK, Idaho
+JOHN ADLER, New Jersey
+MARY JO KILROY, Ohio
+STEVE DRIEHAUS, Ohio
+SUZANNE KOSMAS, Florida
+ALAN GRAYSON, Florida
+JIM HIMES, Connecticut
+GARY PETERS, Michigan
+DAN MAFFEI, New York
+
+        Jeanne M. Roslanowick, Staff Director and Chief Counsel
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    September 23, 2009...........................................     1
+Appendix:
+    September 23, 2009...........................................    49
+
+                               WITNESSES
+                     Wednesday, September 23, 2009
+
+Geithner, Hon. Timothy F., Secretary, U.S. Department of the 
+  Treasury.......................................................     8
+
+                                APPENDIX
+
+Prepared statements:
+    Bachmann, Hon. Michele.......................................    50
+    Marchant, Hon. Kenny.........................................    52
+    Geithner, Hon. Timothy F.....................................    54
+
+              Additional Material Submitted for the Record
+
+Waters, Hon. Maxine:
+    Letter from Assistant Secretary Kim Wallace, U.S. Department 
+      of the Treasury, containing figures on Treasury's workforce 
+      diversity, dated August 13, 2009...........................    62
+Geithner, Hon. Timothy F.:
+    Responses to questions from Representative Kanjorski, 
+      Representative Bean, Representative Foster, and 
+      Representative Wilson......................................    67
+
+
+                     THE ADMINISTRATION'S PROPOSALS
+                    FOR FINANCIAL REGULATORY REFORM
+
+                              ----------                              
+
+
+                     Wednesday, September 23, 2009
+
+             U.S. House of Representatives,
+                   Committee on Financial Services,
+                                                   Washington, D.C.
+    The committee met, pursuant to notice, at 9:33 a.m., in 
+room 2128, Rayburn House Office Building, Hon. Barney Frank 
+[chairman of the committee] presiding.
+    Members present: Representatives Frank, Waters, Maloney, 
+Gutierrez, Watt, Ackerman, Sherman, Meeks, Moore of Kansas, 
+Hinojosa, Clay, McCarthy of New York, Baca, Lynch, Miller of 
+North Carolina, Scott, Green, Cleaver, Bean, Ellison, Wilson, 
+Donnelly, Foster, Carson, Speier, Minnick, Adler, Driehaus, 
+Kosmas, Grayson, Himes, Maffei; Bachus, Castle, Royce, Lucas, 
+Manzullo, Jones, Biggert, Capito, Hensarling, Garrett, 
+Neugebauer, Price, McHenry, Bachmann, Marchant, McCarthy of 
+California, Posey, Jenkins, Lee, Paulsen, and Lance.
+    The Chairman. The hearing will now come to order.
+    I just want to explain that there is a hearing in the 
+Committee on Education and Labor at which I have to testify on 
+the antidiscrimination bill, so I will leave and will be coming 
+back.
+    We have the Secretary, whose prior effort to testify, which 
+we appreciated, was interrupted by a voting pattern. We will 
+have the Secretary's testimony this morning. Then we will have 
+the other regulators this afternoon.
+    Tomorrow, we will have a hearing on the overall question of 
+regulation, including particular emphasis on how to resolve the 
+problem of ``too-big-to-fail'' and make that go away by 
+appropriate remedies. On Friday, we will have a hearing on the 
+bill sponsored by the gentleman from Texas, Mr. Paul, on 
+auditing the Federal Reserve.
+    And then, we will begin next week, legislative hearings on 
+the segments of financial reform. The media reports that it is 
+dead for the year are inaccurate. We will begin hearings on 
+specific bills. We have had a number of hearings, but people 
+have asked that hearings be--and this is appropriate--on 
+specific pieces of legislation. And, obviously, other members 
+are welcome to propose and circulate among the members 
+alternatives to that so that various drafts could be available.
+    But we will begin hearings next week on the legislative 
+pieces. We intend to mark this overall regulatory package up in 
+some pieces. At this point, it will be up to the leadership to 
+decide whether it is done on the Floor in one sector or not.
+    I have told the leadership that, for example, if this bill 
+were to come to the Floor as one piece, I would insist on at 
+least 3 full days of debate. I intend to do everything I can to 
+make sure--in fact, I will not, as chairman, call up the bill 
+unless we have adequate time for amendments and debate. These 
+are very important issues for the country, and it is essential 
+that they be acted on in a fair manner.
+    So we will begin legislative hearings next week. It will be 
+a very busy schedule for this committee. We will have 
+legislative hearings and markups. No markup will be scheduled 
+for a day when we will be leaving town. I expect, in many 
+cases, we will be talking about 2-day markups on sections of 
+this bill. If, in an extreme case, we have to do some more, as 
+long as we are seriously engaged in that, we will go ahead with 
+it.
+    And it is my expectation that the legislation we have been 
+talking about--which really goes back and has its genesis in 
+the April 2008 speech of Secretary Paulson. While we don't 
+have, obviously, everything in there that he wanted and we have 
+some things that he didn't talk about, this really is an effort 
+that began with that speech. And we will be voting on this on 
+the Floor of the House in November.
+    I have spoken to Senator Dodd. He has been consulting with 
+his ranking member, Senator Shelby. They expect, I believe, 
+also to be acting this year. So that is the expectation. That 
+is the schedule.
+    I would just--you know, members have been alerted this is 
+going to be a very time-consuming committee for the month of 
+October and on into early November. I do look forward, as of 
+Christmas, to ignoring most of the subjects we will be covering 
+for some period of time. But that is where we are.
+    Now we will begin this hearing with the Secretary of the 
+Treasury. I alluded in my opening comments to our schedule. I 
+wanted to address one particular issue that I think has not 
+gotten enough attention, and that is the collection of actions 
+that are proposed by the Administration and that we intend to 
+go forward with, with some changes, to deal with this problem 
+of ``too-big-to-fail.''
+    The ``too-big-to-fail'' problem is one of the ones that 
+most aggravates people in the country. The notion that, if 
+incompetence gets large enough, it should be immunized from any 
+kind of correction is, obviously, as unfortunate a concept as 
+we can have. I believe we will be putting together a package of 
+legislation that will substantially diminish that problem.
+    First of all--and this is, again, something that goes back 
+to Secretary Paulson in April of 2008--we will be providing a 
+mechanism for putting nonbank financial institutions out of 
+everybody's misery. There will be death panels exacted by this 
+Congress, but they will be for nonbank financial institutions 
+that will not be considered ``too-big-to-die.''
+    And I say that because we have this euphemism that we are 
+going to be resolving these institutions. It has not been my 
+experience--and when someone says they are going to resolve 
+something, they kill it. And we are talking about dissolution, 
+not resolution. We are talking about making it unpleasant for 
+the entities. This is not a fate people would want. We will do 
+this in several ways.
+    But we will begin--last year, Secretary Paulson and Federal 
+Reserve Chairman Bernanke and others in the Bush Administration 
+told us that the problem was--and we had two major nonbank 
+institutions to deal with in this situation: first, Lehman 
+Brothers; and then AIG, in quick succession.
+    And the approach in Lehman Brothers was to pay none of the 
+creditors. That led the Administration, the Bush 
+Administration, to believe that the consequences of that were 
+so negative that they could not allow it to happen again, so, 
+with regard to AIG, they paid all the creditors.
+    The problem was, as they saw it, they had no option other 
+than pay everybody or pay nobody, that the ability to step in 
+and unwind this in a more orderly fashion was not available to 
+them. When Wachovia failed, it did not have the same disruptive 
+effect.
+    So we will give them the mechanism to do that and the 
+mechanism to do that will protect the taxpayers and allow these 
+institutions to be put out of business in the appropriate way.
+    We will also have powers given to a collection of Federal 
+regulators to make it much less likely that we will reach that 
+situation with the large institutions. Remember institutions 
+fail frequently, and generally we have ways of dealing with 
+them. We will be enacting legislation, I believe, to keep them 
+from getting to the point where they are so large and so 
+overleveraged that this will be happening.
+    Now, one proposal--I want to say, there had been some talk 
+about a list being established by the Federal regulators of the 
+institutions that were systemically important. I believe that 
+would be a mistake. While those who proposed it in good faith 
+thought it would be a kind of scarlet letter on them, in fact, 
+others have seen it as a badge of honor.
+    So we are, I believe, going to empower the regulators to 
+take action to stop this from happening, but we are not going 
+to have a preordained list. I think we are likelier to get to 
+the Potter Stewart principle. As lawyers will recollect, he 
+said in the pornography case, ``I know it when I see it.'' The 
+regulators will know a systemic threat when they see it, 
+because the systemic threat could be one large institution or a 
+series of smaller institutions doing the same bad thing. 
+Irresponsible subprime mortgages turned out to be a terrible 
+systemic threat. No one institution was at that point.
+    When you get to that--and we are still working, and there 
+will be disagreements, but I think ultimately an agreement, on 
+who does it, what combination of existing Federal regulators 
+will have the power to designate and then enact restrictions. 
+Those institutions or those activities which are deemed to be 
+risky will be restrained. There will be restrictions on 
+excessive leverage, and there will be restrictions on 
+activities. Such a regulator would, I believe, have told AIG to 
+stop issuing credit default swaps and to begin to unwind that 
+portfolio in an orderly fashion and to increase their capital.
+    So I do want to stress, yes, there is no one magic bullet 
+that does away with ``too-big-to-fail.'' But you will have an 
+ability to resolve them in ways that protect taxpayers and give 
+people a disincentive to get into that situation. And you have 
+a power, before you reach that, to restrict their activities, 
+both quantitatively and qualitatively. That will be very much 
+what we do.
+    The gentleman from Alabama is now recognized for 4 minutes.
+    Mr. Bachus. I thank the chairman for holding this hearing.
+    And, Secretary Geithner, I thank you for returning to our 
+committee to discuss the President's proposals for regulatory 
+reform.
+    The Administration has presented to Congress a far-reaching 
+regulatory reform proposal which, as of today, has failed to 
+achieve anything approaching consensus, either on Capitol Hill 
+or even among the Federal regulators who would be responsible 
+for implementing it.
+    The lesson that we learned from the events that led to the 
+financial crisis and subsequent government actions is that our 
+1930 regulatory system is not up to the task of monitoring the 
+safety and soundness of complex financial institutions in the 
+21st Century. We do need smarter regulation, but not 
+necessarily more regulation. We need enforcement of existing 
+regulation, not another layer of regulation or more government 
+bureaucracy.
+    And, finally, what we do not need and what we have had too 
+often is government policies which encourage harmful business 
+practices or incentivize those practices or, when they went 
+terribly wrong, blessed them with bailouts.
+    The chairman used the term ``liquidate and resolve.'' And I 
+think that most of my colleagues welcome that, as opposed to 
+what the Administration started by saying, and the chairman, 
+using words like ``rescue,'' because ``rescue'' implies that 
+the taxpayers will be presented with the ultimate bill.
+    Unfortunately, the Administration's regulatory reform plan 
+continues the pattern that we have seen with health care and 
+energy of a big-government solution that replaces individual 
+choices with bureaucratic mandates. Their plan establishes the 
+Federal Reserve as the systemic risk regulator, despite the 
+fact that the Fed has historically done a poor job of 
+identifying and addressing systemic risk before they become 
+crises.
+    It tasks the Fed with identifying a class of systemically 
+significant firms that the market will view as ``too-big-to-
+fail,'' as the chairman said, and then compounds this mistake 
+by creating a so-called resolution authority that will promote 
+continued taxpayer-funded bailouts of these institutions rather 
+than actually unwinding and shutting down their operations.
+    And, finally, the Administration plan would establish a 
+massive new government bureaucracy known as the Consumer 
+Financial Protection Agency, which consumers will ultimately 
+pay for on top of the numerous regulatory agencies and the 
+regulatory legislation and patchwork that currently exists.
+    Mr. Chairman, my deep-seated reservations about the 
+Administration's financial reform proposals, which, again, I 
+point out are shared by Members on both sides of the aisle and 
+many of the regulators themselves, should not be interpreted as 
+a rejection of commonsense reform. Although Republicans have 
+taken a different path than the Administration's, we are not 
+saying ``no'' to reform. Republicans are saying ``no'' to more 
+bailouts and ``no'' to more of the same approach of misguided 
+government regulations and interventions which helped bring 
+about the crisis in the first place.
+    Republicans have offered a clear alternative to the 
+Administration's approach to reform and will continue to do so. 
+The Republican plan promotes effective consumer protection by 
+streamlining and consolidating the functions of the bank 
+regulators, including consumer protection, into a unified 
+agency.
+    End the bailouts. Our plan directs all failed nonbanks to 
+an enhanced bankruptcy process that will force creditors and 
+counterparties of those firms to bear the cost of failure 
+rather than sticking the taxpayer with the tab. To promote 
+sound monetary policy, our plan relieves the Fed of its current 
+supervisory duties and prohibits the Fed from bailing out any 
+specific financial institution.
+    Mr. Chairman and Mr. Secretary, I thank both of you. I look 
+forward to working with you and my colleagues in the months 
+ahead as we address regulatory reform. Thank you.
+    The Chairman. And we have an imbalance of speakers, 
+although the same numbers. So I will go to Mr. Hensarling next 
+for 2 minutes, if he is ready. Two minutes is what was on the 
+sheet I was given.
+    Mr. Hensarling. Thank you, Mr. Chairman.
+    And welcome, Mr. Secretary.
+    When it comes to the Administration's financial regulatory 
+plan, not unlike their trillion-dollar health care plan, it 
+will prove to be terribly expensive and lead to forms of 
+rationing.
+    First, the Administration's proposal rewards regulators 
+with sweeping new Draconian powers, like the CFPA, to regulate 
+industries as diverse as car rental companies, advertising 
+agencies, and neighborhood department stores, all of which will 
+simply make credit more expensive and less available to 
+struggling small businesses and American families throughout 
+our Nation.
+    The Administration proposal also includes the designation 
+of certain companies as Tier 1 financial holding companies. The 
+Administration's proposal, I fear, will simply codify the 
+policy of ``too-big-to-fail'' and enshrine us as a bailout 
+nation.
+    Now, some maintain that bailouts have brought us to the 
+verge of a recovery. I hope and pray we are on the verge of a 
+recovery. But I remind all, Mr. Chairman, there is no such 
+thing as a jobless recovery. No jobs, no recovery. Since the 
+Administration has taken office and enacted their economic 
+agenda, 3 million more of our countrymen have lost their jobs, 
+and we currently suffer under the highest unemployment rate in 
+a quarter of a century.
+    The Administration's continued bailouts of Fannie Mae, 
+Freddie Mac, AIG, Chrysler, GM, and the list goes on, have 
+hampered our economic recovery and helped our Nation pass a 
+very important milestone: the first trillion-dollar deficit in 
+our history, not to mention a budget which will triple the 
+national debt over the next 10 years.
+    There is a huge difference between adding emergency 
+liquidity to a panicked financial system and bailing out firms 
+fortunate enough to be designated ``too-big-to-fail.'' Under 
+the latter policy, the big get bigger, the small get smaller, 
+the taxpayer gets poorer, and our children get saddled with the 
+mother of all debts.
+    Clearly, reforms are needed, but the best way to end 
+taxpayer bailout of failed companies is to simply end taxpayer 
+bailouts of failed companies. The best way to protect consumers 
+is with competitive markets, vigorous enforcement of antifraud 
+laws, and effective disclosure that is easily understood.
+    Thank you, Mr. Chairman.
+    Thank you, Mr. Secretary.
+    The Chairman. The gentleman from Illinois, the chairman of 
+the Subcommittee on Financial Institutions, Mr. Gutierrez, is 
+recognized for 3 minutes.
+    Mr. Gutierrez. Mr. Secretary, first of all, thank you for 
+appearing.
+    Exactly 1 year ago, we experienced the most agonizing week 
+of the current financial crisis. And this committee began to 
+address the root causes of the social and economic trauma that 
+crippled our economy and caused millions of Americans--and we 
+should remember this--to lose trillions of dollars of their 
+hard-earned wealth. Let me repeat that: Trillions of dollars of 
+hard-earned wealth were lost by the American people. Not so 
+much the guys on Wall Street, they lost, but the people on Main 
+Street lost.
+    Predatory mortgage lending, combined with risky investment 
+practices and poor underwriting standards, financed by some of 
+the largest financial institutions in this country, created the 
+financial and economic debacle that we must now address.
+    Over a decade ago, the Federal Reserve was given the power 
+by this committee--I was here; I got elected in 1993--to stop 
+predatory mortgage practices through the Homeowners' Equity 
+Protection Act. It took the Federal Reserve 12 years to 
+implement the rules and regulations that could have prevented 
+many, if not all, of the worst abuses by predatory lenders and 
+originators, abuses that were a direct and immediate cause of 
+our current crisis.
+    Why did it take so long? While there were many theories to 
+explain this, I believe it took the Fed this ridiculously long 
+time, including the FDIC, which did absolutely nothing either, 
+because it was distracted by their other regulatory obligations 
+and by a sense in Washington, D.C., of do less, do nothing, 
+leave it alone, it is okay.
+    The default of these toxic mortgages and the securitized 
+products based on them caused trillions of dollars in losses 
+and caused the 2008 freeze in credit markets, which nearly 
+destroyed not only our financial system but the entire 
+international financial system.
+    The message to those of us who want to restore the 
+stability to the financial system could be no clearer or 
+louder. If we do not include a strong, effective Consumer 
+Financial Protection Agency within our regulatory reform 
+legislation, Congress will have failed to address the current 
+and any future economic challenges facing our country.
+    We must also address the economic threat inherent in 
+institutions known as ``too-big-to-fail.'' I believe we must 
+work to a comprehensive, risk-based pricing regime which 
+eliminates the incentives for these financial firms to grow to 
+the point of becoming ``too-big-to-fail.''
+    One of the ways we can prevent an institution from becoming 
+``too-big-to-fail'' is through a pricing regime which 
+discourages banks from growing so large and interconnected. We 
+must not only increase capital requirements, but we should also 
+require decreased leverage ratios and increased contributions 
+to the Deposit Insurance Fund.
+    Let me ask that this be submitted for the record, my 
+complete statement, because it is clear to me, Mr. Chairman, we 
+are going to have, you know, our classical debate. Our 
+colleagues on the other side have already thrown health care 
+into this, big government. I hear ``socialism'' coming any 
+second. They are going to say, ``No, no, no. Global warming 
+doesn't exist, no. We don't need to do anything about global 
+warming. We really don't need to do anything about this.''
+    We do need to do something, and Mr. Geithner knows it 
+probably better than anybody else. We can never allow a Lehman 
+Brothers again to have a 30:1 ratio. We can't allow that kind 
+of leverage. And government is the only one that is going to 
+stop it from happening again.
+    Thank you very much, Mr. Chairman.
+    The Chairman. The gentleman from New Jersey, Mr. Garrett.
+    Mr. Garrett. Thank you, Mr. Chairman.
+    Thank you, Mr. Secretary.
+    Before I begin, I just want to say I don't believe anyone 
+from either side of the aisle believes that everything was done 
+right in the past and we can just continue going in that same 
+direction. I believe from both sides of the aisle everyone 
+agrees that reform is necessary. It is just the nature of that 
+reform, to make sure that we do not limit growth nor do we 
+provide for instability. We want just the opposite; we want 
+economic growth and stability to come out of reform that we do. 
+I think we can agree on that.
+    One point, the chairman raised the issue of timelines and 
+moving forward and what he would like to do. When I think about 
+that, you go back. In April, the Administration thought before 
+the G-20 they wanted to have a reform proposal out on the 
+table. That wasn't done. Then there was talk by that G-20, not 
+a complete proposal. Then, by the end of Memorial Day, there 
+was talk of doing a markup and having that done for resolution 
+authority. And that wasn't done. And then there was talk of 
+dealing with the systemic regulator and getting that through, 
+and that was not done. And then, of course, in July, we were 
+told that we were going to be dealing with the consumer agency. 
+And that was kicked until September. And then that was 
+eventually kicked to September when we came back from break. 
+And, of course, now that is kicked now to mid-October.
+    So it seems that all those timelines have not really been 
+met quite as they had wanted to meet them. And we really don't 
+have, today, any legislative text from the legislative side of 
+the aisle. I do appreciate that the Administration has provided 
+us with legislative language, which is absolutely necessary for 
+us to deliberate on these things. But it is appropriate, of 
+course, for Congress to come up with their own legislation.
+    Now, in the Senate, of course, we have Senator Dodd, as 
+some would say, throwing a wrench into the works, because he 
+has come up now with an idea of a single regulator. And why I 
+use the word ``wrench'' is because the chairman has said there 
+will never be any prospect of merging the OCC and the OTS. So 
+we are at different ends of that spectrum on that area.
+    So I guess what I would be curious hearing from you today 
+is, is there a need to be able to deal with each of these 
+issues deliberatively, to have time actually to have the 
+legislation before us, and maybe move until 2010 before we 
+actually have the completion of all this legislation?
+    I thank you, and I look forward to your testimony.
+    Mr. Gutierrez. [presiding] The time of the gentleman has 
+expired.
+    And now we will hear from the person that we are all 
+gathered to hear from and that we have many questions for, the 
+Secretary of the Treasury, Mr. Geithner.
+    Please proceed.
+
+STATEMENT OF THE HONORABLE TIMOTHY F. GEITHNER, SECRETARY, U.S. 
+                   DEPARTMENT OF THE TREASURY
+
+    Secretary Geithner. Thank you, Mr. Chairman, Ranking Member 
+Bachus, members of the committee. It is a pleasure to be back 
+before you today and to talk about how best to reform the 
+system. I am pleased to hear the enthusiasm for reform across 
+both sides of the aisle. And, of course, we all recognize the 
+task we face is how to do it right and how to get it right.
+    Our objective, of course, is to provide stronger protection 
+for consumers and investors, to create a more stable financial 
+system, and to reduce the risk that taxpayers have to pay for 
+the consequences of future financial crises. We have outlined a 
+broad set of proposals for achieving these. We provided 
+detailed and extensive legislative language.
+    We welcome the time and effort you have already put into 
+considering these proposals and the suggestions you have made, 
+many of you individually and collectively, have made to improve 
+them. As the President likes to say, we don't have a monopoly 
+of wisdom on these things. Our test is, what is going to work? 
+That is our test. What will work? What will create a more 
+stable system, better protections, with less risk to the 
+taxpayer?
+    I want to focus my remarks briefly on what I think are the 
+two key challenges before us at the center of any debate on 
+reform. The first is about how you achieve the right balance 
+between consumer protection and choice and competition. And the 
+other is how to deal with the moral-hazard risk people refer to 
+as ``too-big-to-fail.''
+    So, first, on the consumer challenge, our system of rules 
+and enforcement failed to protect consumers and investors. The 
+failures were extensive and costly. They caused enormous damage 
+not just to those who were the direct victims of predatory 
+practice, fraud, and deception, but to millions of others who 
+lost their jobs and their homes or their savings in the wake of 
+the crisis.
+    And to fix this--and I will just say it simply--we need to 
+have strong minimum national standards for protection. They 
+need to apply not just to banks but to institutions that 
+compete with banks in the business of providing credit. They 
+need to be enforced effectively, consistently, and fairly. And 
+there need to be consequences for firms that engage in unfair, 
+ineffective practices, consequences that are strong enough to 
+deter that behavior.
+    We believe we cannot achieve that within our current 
+framework of diffused authority with the responsibility divided 
+among a complex mix of different supervisors and authorities 
+who have different missions and many other priorities. We think 
+it requires fundamental overhaul so that consumers can 
+understand the risks of the products they are sold and have 
+reasonable choices, and institutions have to live with some 
+commonsense rules about financial credit.
+    Of course, the challenge is to do this without limiting 
+consumer choice, without stifling competition that is necessary 
+for innovation, and without creating undue burden and cost on 
+the system.
+    Our proposal tries to achieve this balance by consolidating 
+the fragmented, scattered authorities that are now spread 
+across the Federal Government and State government. And it is 
+designed to save institutions that are so important to our 
+communities--credit unions, community banks, other institutions 
+that provide credit--from making that untenable choice between 
+losing revenue, losing market share, or stooping to match the 
+competitive practices that less responsible competitors engage 
+in, competitors that had no oversight, that were allowed to 
+engage in systematic predatory practices without restraint.
+    Now, some have suggested that, to ensure no increase in 
+regulatory burden, we should separate rule-writing authority 
+from enforcement. But our judgment is this is a recipe for bad 
+rules that are weakly enforced--a weaker agency. So we think we 
+need one entity with a clear mission, the authority to write 
+rules and enforce them.
+    Now, just briefly on this deeply important, consequential 
+question of moral hazard and ``too-big-to-fail,'' no financial 
+system can function effectively if institutions are allowed to 
+operate with the expectation they are going to be protected 
+from losses. And we can't have a system in which taxpayers are 
+called on to absorb the costs of failure. We can't achieve this 
+with simple declarations of intent to let future financial 
+crises burn themselves out.
+    We need to build a system that is strong enough to allow 
+firms to fail without the risk of substantial collateral damage 
+to the economy or to the taxpayer. And this requires that we 
+have the tools and authority to unwind, dismantle, restructure, 
+or close large institutions that are at the risk of failure 
+without the taxpayers assuming the burden. It requires that 
+banks pay for the costs incurred by the government in acting to 
+contain the damage caused by bank failures. And this requires 
+higher capital standards, tougher constraints on leverage 
+across-the-board, with more rigorous standards applied to those 
+who are the largest, most complicated, posing the biggest risks 
+to the system.
+    Now, this package of measures is central to reform. You 
+can't do each of these and expect it to work. You have to take 
+a broad, comprehensive approach. And the central objective, 
+again, is to make the system strong enough so we can allow 
+failure to happen in a way that doesn't cause enormous 
+collateral damage to the economy and to the taxpayer.
+    As the President said last week, taxpayers shouldered the 
+burden of the bailout, and they are still bearing the burden of 
+the fallout in lost jobs, lost homes, and lost opportunities. 
+We look forward to working with this committee to help create a 
+more stable system. We can't let the momentum for reform fade 
+as the memory of the crisis recedes.
+    Thank you, Mr. Chairman.
+    [The prepared statement of Secretary Geithner can be found 
+on page 54 of the appendix.]
+    Mr. Gutierrez. You are very welcome.
+    Mr. Bachus, you are recognized for 5 minutes.
+    Mr. Bachus. Thank you very much, Chairman Gutierrez.
+    Just last night, Chairman Frank released a memo--I am sure 
+you have probably seen it--to his caucus where he suggested 
+changes to the Consumer Financial Protection Agency. And, 
+specifically, the chairman intends to drop, or seems to, the 
+plain vanilla requirement, which has received so much 
+attention.
+    The White Paper was where the Administration highlighted 
+that. I know Elizabeth Warren, who first proposed a financial 
+protection safety council, I think that was sort of the main 
+emphasis--that plain vanilla. And it is in your draft 
+legislation that the Administration sent to the Hill.
+    What is your position on leaving out plain vanilla? You 
+didn't mention it this morning.
+    Secretary Geithner. Thank you.
+    I have read the note quickly. And, in general, we are very 
+supportive of the changes proposed by the chairman, including 
+the one you referenced.
+    But let me just explain the basic rationale for where we 
+started. Our basic framework is designed to use disclosure to 
+make sure consumers are less vulnerable to predation.
+    Mr. Bachus. Of course, now, you know, Mr. Secretary, about 
+18 pages of the present disclosures are because of Federal 
+requirements.
+    Secretary Geithner. No, I agree. But I think, as anybody 
+realizes, how many of you read those disclosures and understand 
+what they mean?
+    Mr. Bachus. No, I agree with you.
+    Secretary Geithner. It is really a remarkable failure to 
+provide the kind of ability to choose that is so central to any 
+reasonable financial system.
+    So, in general, Mr. Bachus, we think it is a reasonable 
+idea to try to make sure consumers have the ability to choose a 
+simple product, not something they don't understand. And maybe 
+the most effective way to do this to make sure you get 
+disclosure right.
+    Mr. Bachus. Okay. Although a lot of the disclosure is 
+because of Federal regulation. So, I mean, that is the reason--
+    Secretary Geithner. But you said something that I often say 
+and completely believe: that, in many ways, this is about 
+smarter regulation. And, you know, what you cite in disclosure 
+is an example that you can have a lot of requirements and not 
+achieve the objective of clarity.
+    Mr. Bachus. Sure. I agree. Okay.
+    In your testimony, on page 8, you spent a lot of time this 
+morning on the systemically significant, the Tier 1. You say 
+that the identification of a firm as a Tier 1 will not convey a 
+government subsidy.
+    But isn't it a fact that a firm that has been identified as 
+Tier 1, just that identification tends to imply government 
+subsidy, given that creditors will know that the firm has been 
+determined to be so important that it can't fail?
+    Secretary Geithner. We are deeply worried about that risk. 
+And you are absolutely right, as is the chairman, to point out 
+the risk in any regime that creates the expectation that the 
+government will be there if you screw things up.
+    But let me just make clear what is important. It is very 
+important that these institutions that matter, whose future 
+could threaten the economy as a whole, are subject to higher 
+constraints on leverage in the future, more conservative 
+cushions of capital and liquidity so that they can absorb 
+losses they face when they make big mistakes.
+    So what we are trying to do is to make it clear that, if 
+you have this particular source of threat to the system, we are 
+going to hold you and subject you to more conservative 
+constraints on risk-taking.
+    Now, you can't do that without identifying who those 
+institutions are. But you have to do it in a way that doesn't, 
+as you said, create an expectation that the government will be 
+in there if they fail.
+    But that is why you can't just do it with tighter capital 
+requirements. You have to give them the tools for the 
+government to intervene to save them, but to act in a way that 
+allows them to be dismantled and restructured and--I won't use 
+the chairman's language--again, without the taxpayers assuming 
+that burden. That is the central imperative for reform.
+    And you are all right when you say that the key thing we 
+have to do is not reinforce any expectation that the government 
+is going to step in and protect people from losses in the 
+future. Our job, though, is to make sure the system is less 
+vulnerable to the collateral damage that can be caused when 
+people make big mistakes.
+    Mr. Bachus. But can you assure us that the government won't 
+step in if they fail?
+    Secretary Geithner. You know, Mr. Bachus, as I said, we had 
+a little natural experience as a country last fall in what 
+happens when--
+    Mr. Bachus. It wasn't so little.
+    Secretary Geithner. No, I would just say we had a test of 
+the proposition that you can solve a crisis by hoping it is 
+going to burn itself out. You saw how deeply damaging it was to 
+the country as a whole.
+    So you can't fix this system, make it more stable in the 
+future, by hoping and promising that you are going to--how 
+should I say it--
+    Mr. Bachus. Not have more bailouts.
+    Secretary Geithner. --abolish the fire station, lock the 
+doors of the fire station when the crisis breaks out. It is not 
+a strategy that works.
+    Mr. Gutierrez. The time of the gentleman has expired.
+    The Congresswoman from California, Maxine Waters, is 
+recognized.
+    Ms. Waters. Thank you very much.
+    Thank you very much for being with us today, Mr. Secretary.
+    I would like to quickly respond to some of your testimony. 
+You outlined some critical objectives, and you said to achieve 
+these objectives will require changes across the entire 
+financial system. And you laid out some of the changes. I would 
+like to add a little something to that.
+    On August 13th, Assistant Secretary Kim Wallace sent me 
+some figures on Treasury's workforce diversity. I would like to 
+thank you for those numbers. And I will enter them into our 
+record today.
+    And I would like to ask you to provide a little bit more 
+specific breakdown of workforce diversity within each division. 
+I am especially interested to see what roles each class of 
+minorities occupies. For example, how many are lawyers, how 
+many are policy staff, how many are administrative assistants?
+    And I am not going to ask you to do that today; I am going 
+to ask you to respond in writing. And I thank you very much.
+    Second, I would like to focus on the suggested language you 
+sent over on over-the-counter derivatives. As you know, I am 
+very concerned about credit default swaps, which are a type of 
+derivative. We allowed the SEC to ban short-selling, as it did 
+last fall. The SEC also created new rules to significantly 
+limit naked short-selling.
+    The rationale behind this is that short-selling was used to 
+improperly speculate in financial stocks. This caused what has 
+been referred to as a crisis of confidence, which undermined 
+each company's ability to operate. The same can be said about a 
+company's credit default swap price. A naked credit default 
+swap can be used to speculate on a company's creditworthiness 
+and drive the value of the bonds lower.
+    The current derivatives proposal does not have any limits 
+on naked credit default swaps. We already allow the SEC to ban 
+short-selling. We know naked credit default swaps can be used 
+for the same speculative purposes as short-selling. Why 
+shouldn't we give the SEC the authority also to ban credit 
+default swaps?
+    Secretary Geithner. An important issue and a thoughtful 
+question. What we do in our proposal--and this is something you 
+need to reflect on--is we propose to give the SEC and the CFTC 
+the ability--they do not now have this authority today--to 
+effectively deter and prevent manipulation in the derivatives 
+markets. And, that is a very important thing to do. We didn't 
+do that before. We have to fix that. We proposed a variety of 
+ways of doing that.
+    We don't think that banning what you call naked credit 
+default swaps is necessary or appropriate to that objective. 
+But we do think it is critically important you give them 
+enforcement authority and the tools necessary to address, 
+prevent, and deter manipulation in the derivatives markets. And 
+that should be a centerpiece of what your committee considers 
+in reform of derivatives markets.
+    Ms. Waters. Thank you very much.
+    Finally, I would like to ask a question about the Consumer 
+Financial Protection Agency. I am extremely supportive of the 
+Consumer Financial Protection Agency. I am a little bit worried 
+about the concerns that have been identified by the FDIC and 
+the Fed about their roles.
+    Are you guys working through this in the Administration, to 
+help everybody get online, to determine what this Consumer 
+Financial Protection Agency will be and what will be taken from 
+each and not taken from each? Can we all get together on that?
+    Secretary Geithner. Ultimately, the committee is going to 
+have to make that choice. And, as I have said before, what you 
+are hearing from the supervisors is just an understandable 
+desire to protect authority they have today and make sure that 
+people they have doing these jobs don't face uncertainty about 
+their broad future. And I understand that wish.
+    But let me just say it starkly: Did that system work? How 
+well of a job did it do? How did it work out for the country to 
+have that authority spread out among those agencies?
+    So, again, I think it is understandable they are expressing 
+reservations and concern. You can't expect them to do anything 
+different. But our responsibility is to figure out what is 
+right for the country, even if it is inconsistent with the 
+individual institutional prerogatives of individual supervisors 
+and even if it is going to be uncomfortable for the financial 
+firms who are going to have to face tougher standards, better 
+enforcement.
+    Ms. Waters. I appreciate that. It would just make it a 
+little easier for us if the Administration could just get its 
+act together with all of--
+    Secretary Geithner. Again, one great virtue of our country 
+is that these are independent agencies with independent 
+authority, and they have independent traditions, and they have 
+things that they want to defend and protect. And we all respect 
+that. But our job, the committee's job, the Congress' job is to 
+figure out what is right for the country. And I think, again, 
+we had a test of whether that system works, and it didn't work.
+    Ms. Waters. Okay. Well, finally, let me just ask you one 
+question about the plain vanilla products. You support coming 
+up with what is described as ``plain vanilla'' products. How 
+important do you think that is to the Consumer Financial 
+Protection Agency's work?
+    Secretary Geithner. Look, our judgment, in shaping these 
+recommendations, was shaped by the, sort of, simple proposition 
+that consumers should be given the choice of opting for a 
+simple 30-year fixed-rate mortgage, for example. Now, they 
+shouldn't be restricted from the ability to do something 
+different that better meets their needs, but that should be one 
+of the options they are able to choose. And we want to make 
+sure the system as a whole does a good job of providing that 
+choice.
+    But there has been a lot of concern that if you invest the 
+government with the ability to decide what is appropriate here 
+and what is there, that is going to lead you to the point where 
+you actually have less competition and choice.
+    We have been open to many suggestions many people have 
+raised that you find a way to have stronger standards without 
+creating the risk that, over time, you are going to see a bunch 
+of bureaucrats, frankly, narrow legitimate choice and restrict 
+competition.
+    So, as I said earlier, I think the chairman's proposals 
+that I have just had a chance to read very briefly are, I 
+think, a pragmatic, helpful way to make sure that you have a 
+better balance of choice with protection.
+    Ms. Waters. Thank you very much.
+    Mr. Gutierrez. Mr. Hensarling, you are recognized for 5 
+minutes.
+    Mr. Hensarling. Thank you, Mr. Chairman.
+    Mr. Secretary, I am hearing some things that are somewhat 
+surprising to me, so I want to make sure my ears do not deceive 
+me. I am sorry that Chairman Frank isn't here; I know he went 
+to another hearing.
+    I thought I heard Chairman Frank say that, essentially, his 
+vision of the resolution authority would constitute a death 
+panel and end in dissolution. And then I thought I heard you 
+say that you would not necessarily use the chairman's language.
+    So does that mean that--
+    Secretary Geithner. I only meant the phrase ``death 
+panel.''
+    Mr. Hensarling. Okay. So--
+    Secretary Geithner. But on the objective and strategy--
+    Mr. Hensarling. But under the Administration's plan, then, 
+a conservatorship versus a receivership would still be on the 
+table. Is this correct?
+    Secretary Geithner. Oh, absolutely.
+    Mr. Hensarling. Okay. It appeared that the chairman was 
+going in a different direction.
+    Secretary Geithner. But let's make sure people understand 
+what the choice is. Remember, what we are proposing to do is to 
+take a regime that was set up, a process that was set up for 
+small banks and thrifts that existed for more than 20 years, 
+set up in the wake of the S&L crisis, to make sure the 
+government has the ability to come in and act to help 
+restructure--
+    Mr. Hensarling. I think we understand--
+    Secretary Geithner. --without costing the taxpayer.
+    Mr. Hensarling. We understand that, Mr. Secretary.
+    Secretary Geithner. No, but this is really what is 
+important.
+    So what we want to do is take that model and apply it to 
+the largest institutions in the country, so that the taxpayer 
+is less exposed to risk in that context.
+    Now, without that authority--
+    Mr. Hensarling. Wait, Mr. Secretary, I am sorry, I have a 
+limited amount of time. I understand the point.
+    Something else that I thought I heard you say--I actually 
+am somewhat confused after your answer to the gentlelady from 
+California. Are mandatory, standardized products, also known as 
+plain vanilla, are they on the table or are they off the table?
+    Secretary Geithner. Those are a part of what we proposed in 
+both our broad recommendations and our detailed legislative 
+language.
+    But, as I said, Congressman, we are very committed to 
+trying to make sure that we find a balance that gets better 
+protection for consumers without limiting choice and 
+competition. And there are different ways to do that.
+    Mr. Hensarling. I understand that, Mr. Secretary, but it is 
+a fairly simple question. In the original language that the 
+Administration submitted, it has mandatory standardized 
+products. I am just trying to ask, is that off the table? Are 
+you now indicating there are other approaches?
+    Secretary Geithner. Yes, absolutely.
+    Mr. Hensarling. Okay--
+    Secretary Geithner. But hold on. I would say that, again, 
+these are judgments the committee is going to have to work 
+through. And, as I have said and we have always said, there are 
+different ways to find this balance.
+    But what is important--and I think you can see a test of 
+this in the credit card bill that this body passed a couple of 
+months ago--of an approach that tries to find a balance, that 
+does not limit choice, but gives better protection. The 
+question is how best to do it.
+    Mr. Hensarling. Let's speak about balance for a second, Mr. 
+Secretary. In your statement earlier today, you said that the 
+Administration's proposal addresses core regulatory failures 
+and weaknesses that directly contributed to the crisis and the 
+dangers that could lead to the next one.
+    As many of us look at your proposal for a CFPA, we see 
+something that is very broad, very Draconian. As we read the 
+legislative language, is it not true that ultimately Wal-Mart, 
+Target, and Macy's could be subject to regulation by the CFPA?
+    Secretary Geithner. Let's do the simple objective and the 
+simple imperative we share, okay? Which is, if you are in the 
+business of providing financial credit, that is your business, 
+and you are competing with banks and thrifts who do that, there 
+should be a common set of basic standards and protections.
+    If you don't do that, then we will have again what this 
+country went through over the last 5 years. Because what you 
+will do is allow one set of institutions to be subject to these 
+rules, and all risk and activity will migrate to where there is 
+no protection.
+    Mr. Hensarling. Okay, Mr. Secretary, I understand the 
+rationale. But does that mean the answer is yes, that 
+ultimately Wal-Mart, Target, and Macy's, if they offer credit, 
+can come within the regulatory ambit of the CFPA?
+    Secretary Geithner. Well, one of the great virtues of our 
+system is these are judgments the Congress of the United States 
+has to make and this committee is going to have to work 
+through.
+    Mr. Hensarling. But the language--I am asking you, Mr. 
+Secretary--the Administration's language--
+    Secretary Geithner. What we proposed is straightforward, 
+black and white. We proposed it, and it is on the table. And, 
+as I said from the beginning, we welcome the chance to work 
+with you--
+    Mr. Hensarling. So if these firms are engaged in the 
+marketing of consumer financial products or services, then they 
+could come within the regulatory ambit, not unlike Starbucks, 
+Chili's, Applebee's, rental car companies, Avis, Budget, 
+Enterprise--
+    Secretary Geithner. Congressman, I understand what you are 
+doing. It is a reasonable proposition, the approach you are 
+trying to take.
+    But let's do the basic imperative. If you allow 
+institutions that are essentially doing what banks do to 
+compete with banks with no adult supervision, no constraints, 
+and are free to engage in unfair practices, then you will 
+recreate again--
+    Mr. Hensarling. Do CPAs compete with banks?
+    Mr. Gutierrez. The time of the gentleman has expired.
+    I recognize myself for 5 minutes.
+    Secretary Geithner, a year ago, you were--Mr. Paulson and 
+Mr. Bernanke, Lehman Brothers was about to collapse and go into 
+bankruptcy. How much did the 30:1 leverage have to do with 
+Lehman Brothers and its collapse?
+    Secretary Geithner. Central to their vulnerability, AIG's, 
+Bear Stearns's, broad swaths of the rest of the financial 
+system, was excess leverage allowed to build up without 
+constraint.
+    Mr. Gutierrez. And when the Securities and Exchange 
+Commission was visited by the Wall Street heads from many of 
+the same companies you just referred to, and I think it was in 
+2005, and they said, listen, we really like not to leverage 5:1 
+and 6:1, but 30:1, how significant was the decision by the 
+Securities and Exchange Commission to allow that practice?
+    Secretary Geithner. Well, again, it was very significant. 
+The biggest part of the failure of our system was to allow very 
+large institutions to take on leverage without constraint. And 
+that is what really causes crises, what makes them so powerful. 
+And that is why a centerpiece of any reform effort has to be 
+the establishment of more conservative constraints on leverage 
+applied to institutions whose future could be critical to the 
+economy as a whole.
+    Mr. Gutierrez. And I ask you that because that is what I 
+thought, and I just wanted to see if we agree that this 
+leveraging of 30:1, which was actually authorized by the 
+Securities and Exchange Commission--you have never worked at an 
+investment banking firm, though, right, on Wall Street?
+    Secretary Geithner. I have not had that privilege, no.
+    Mr. Gutierrez. Well, that is good. Because it was always 
+interesting to me the kind of dynamics, as you were running 
+through this, that Secretary Paulson headed up Goldman Sachs, 
+and he was there trying to figure out how this leveraging was 
+going to get unleveraged, the same leveraging that he went to 
+the Securities and Exchange Commission. I want to make sure 
+that never happens again, that we don't have people in this 
+kind of situation.
+    So tell me exactly what we are going to do different that 
+isn't--okay, you are the Secretary of the Treasury. How are we 
+going to make sure that another part, the Securities and 
+Exchange Commission or somebody else, doesn't go and do 
+something like this that then corrupts your ability, 
+undermines, corrupts your ability to keep the financial markets 
+in check?
+    Secretary Geithner. You have to ensure that any institution 
+that poses that kind of risk to the country is subject to 
+conservative constraints on leverage. There is no other way to 
+do it.
+    And, alongside that, you have to make sure you have the 
+capacity, if they end up making mistakes that will threaten 
+their viability in the future, that they bear the consequences 
+of those mistakes without threatening the stability and the 
+health of the rest of the economy, the rest of the innocent 
+victims out there in the economy who were responsible--
+    Mr. Gutierrez. And I probably failed to ask, so how do we 
+stop--as you see this, we are done. We are done with our work. 
+The President signed the bill. It is going to happen, much to 
+the chagrin of my friends on the other side. They will do 
+everything--two of them already brought up that maybe you and 
+Barney Frank disagree about the vanilla envelope. That is the 
+opening thing, divide and conquer. It is not going to work. The 
+plain vanilla envelope, two of them have brought them up. That 
+is the new thing. That is the headline, ``They Disagree.'' 
+Hopefully, it is also going to say, ``Secretary Geithner 
+Doesn't Bite,'' because I think that would be a mistake and 
+lead us in the wrong direction.
+    So how do we make sure that you or someone has the power, 
+the ability, the oversight, the capacity? You see that in the 
+bill that is signed by the President?
+    Secretary Geithner. It is central. Without that, nothing 
+will work.
+    Again, I think in many of the concerns you have expressed 
+on this side of the aisle, but also on your side of the aisle, 
+are concerns about the threat of moral hazard. The question is 
+how best to prevent that. I think what we learned from this 
+crisis is you can't expect the market to constrain excess 
+leverage and you can't fix a problem by hoping it will burn 
+itself out.
+    Mr. Gutierrez. Let me just ask, so how is it that we lost 
+trillions of dollars, and how will it be different in the 
+future? Because it is, like, mind-boggling to me, it really is, 
+that trillions of dollars could be lost, that financial 
+instruments could be sold on the markets. People bought these 
+things, all right? And it is like nobody is going to jail. 
+There hasn't been a grand jury investigation. You know, like, 
+nobody is doing serious jail time. I can't believe that all 
+this happened. And, I mean, for nickel-and-dime stuff in the 
+neighborhood, they will call a grand jury. And this is stuff 
+that has really caused a serious harm to our economy, and 
+trillions of dollars have been lost, and there is no one going 
+to jail.
+    I just want to make sure that, as we look at this, we put 
+some police and we police this. Because, you know, I believe in 
+cops on the beat. I think we need some cops on the beat around 
+Wall Street, too, lots of good, smart cops who are going to 
+help you and others enforce the law. Because I have a funny 
+feeling the law is only as good as the number of policemen that 
+you put on the beat to make sure the law is enforced and you 
+put people in jail when they violate the law.
+    That is the end of my time. We will now recognize Mr. 
+Garrett for 5 minutes.
+    Mr. Garrett. Thank you, Mr. Chairman.
+    Thank you, Mr. Secretary.
+    You know, Mr. Secretary, I just heard you say something 
+that actually harkens back to last time you were here, and that 
+is talking about the goodness of having independent agencies 
+and regulators out there on the one hand, but on the other hand 
+that you sort of expect them to take the actions that they did. 
+Because that was actually something that you said, and I 
+remember what you said, that institutions have this authority 
+to regulate, and they are not enthusiastic about giving up that 
+authority. They would just defend their traditional 
+prerogatives of their agencies.
+    And I think, frankly, all arguments need to be viewed 
+through that basic prism. We will have a hearing later on, and 
+I guess that is the prism where we will have to take their 
+testimony at that point in time, that they are doing it just to 
+represent their own turf as opposed to what we are looking to 
+you for, for the benefit of the country.
+    One of my opening comments was the timeline, and you heard 
+that whole perspective. Very quickly, with the immensity of 
+this issue, the complexity of the problems, is it realistic 
+that we can resolve all this and all of our differences in the 
+next 7 weeks and get it done and get it done right that would 
+not have any negative consequences in the future?
+    Secretary Geithner. Again, that is a choice you are all 
+going to have to make. I think it is realistic. But let me just 
+say what the consequence of the alternative is. I am very 
+confident that, if you decide that you are going to do this 
+over a protracted period of time--
+    Mr. Garrett. But ``protracted'' could just be into next 
+quarter or something like that.
+    Secretary Geithner. Well, that is what people will say. But 
+there is a huge risk that it will just make it harder, because 
+people will say, ``Gee, it seems kind of hard. Let's not take 
+this on. It is difficult. The crisis receded. Things aren't 
+going to be so bad.'' I think that is a huge risk.
+    Mr. Garrett. I understand. I appreciate that.
+    Let me ask you about another issue, which obviously was 
+happening during the heat of the moment, and that is back in 
+the situation with the Bank of America situation and the SEC 
+Bank of America case. Obviously, I would assume that if Bank of 
+America was working with the Fed and the Treasury at that 
+period of time, I would have assumed, but you can tell me if I 
+am wrong, that you all would have been talking with Bank of 
+America as to what they could and what they couldn't do with 
+regard to the Merrill Lynch merger.
+    Do you remember anything about those conversations as to 
+what they should or should not be doing and what they should or 
+should not be disclosing at that period of time? Do you have 
+any recollection of that?
+    Secretary Geithner. As you may recall, that happened at a 
+time when I had been nominated by the President to be Secretary 
+of the Treasury and I was pending confirmation. And so, 
+throughout that period of time, I did what was the necessary 
+and appropriate thing, which was to recuse myself from any 
+engagement in any individual--on not just monetary policy, but 
+any individual discussion with those firms.
+    And so, although both the Secretary and the chairman 
+occasionally gave me a little update on where they were going, 
+I was not party to those discussions.
+    Mr. Garrett. Okay. So any information that they gave you, 
+was any of the information that they gave you indicative of 
+those issues that are now before the SEC, as far as what Bank 
+of America should or should not be doing with regard to 
+disclosure? I know you may not be sitting in at them, but as 
+far as the information that was given to you?
+    Secretary Geithner. No. I would say that what they did is 
+what I think was appropriate, given that I was being considered 
+for this job, was to make sure I was aware of the broad choices 
+they were facing in terms of whether and what it was going to 
+take to make--
+    Mr. Garrett. So is that a no?
+    Secretary Geithner. Well, again, I think that, as I said, 
+what they did was, again, appropriate, which was to give me the 
+occasional sense of what they thought they were going to be 
+bequeathing me.
+    Mr. Garrett. Was that a no?
+    Secretary Geithner. Well, again, I am trying to be fair 
+to--
+    Mr. Garrett. Well, either they talked to you about it or 
+they didn't talk to you about it.
+    Secretary Geithner. Let me say it this way. The issues that 
+you raised that are central to the discussion of the SEC were 
+not part of my discussion with them.
+    Mr. Garrett. Okay, so that is a no. Was not essential to 
+the--so that is a no.
+    Secretary Geithner. No, that is what I said, Congressman, 
+which is that the issues that you raised were not part of or 
+not central to what they--
+    Mr. Garrett. I don't really care whether they were central 
+or tangential. Was that part of the discussion at all?
+    Secretary Geithner. I would really be happy to talk through 
+this as long as you want.
+    Mr. Garrett. I only have 5 minutes. So, yes or no? Was it 
+brought up with you and discussed with you at any way, shape or 
+form; yes or no?
+    Secretary Geithner. Not the questions of disclosure, no.
+    Mr. Garrett. Thank you.
+    Now in the last 30 seconds to get into the meat of some of 
+the derivative aspect. The derivative language that you have 
+does not have exemptive authority in it, which raises some real 
+concerns for some folks out in the industry in saying that your 
+language has to be finite and clear enough and explicit enough 
+in not giving the regulators that flexibility to use. Do you 
+believe--are you with me open that? Do you know what I am 
+saying?
+    Secretary Geithner. I agree that you want to make sure that 
+you get, to use a phrase, the right balance and you don't 
+have--you don't have sort of, how should I say, exploitable 
+loopholes that allow the complicated risky stuff to shift where 
+there is no oversight, and that is a challenge.
+    Mr. Garrett. So you think it is flexible?
+    Mr. Gutierrez. The gentleman's time has expired.
+    The gentlelady from New York is recognized for 5 minutes.
+    Mrs. Maloney. Thank you.
+    Welcome, Mr. Secretary. And we appreciate your coming to 
+testify before us as we work to enact some of the most sweeping 
+financial service reforms in decades.
+    First, I would like to publicly acknowledge and thank you 
+for your leadership and efforts to help pass the credit card 
+reform bill. It was very valuable and greatly appreciated.
+    I would like to join the chairman and my colleagues on both 
+sides of the aisle who have raised questions about the ``too-
+big-to-fail'' designation, and by designating these tier-one 
+financial holding companies, aren't we in essence saying that 
+they are ``too-big-to-fail?'' And I am concerned that with this 
+designation and the perception of a government automatic 
+bailout, these firms will take more risks. And even though we 
+will be limiting their leverage and requiring larger capital 
+requirements, it still is a huge taxpayer guarantee to have a 
+``too-big-to-fail.''
+    And my question is, aren't there some activities that are 
+so risky and do not have any public benefit that should be not 
+part of an institution that has a government guarantee? And I 
+would say proprietary trading, which does not have a social 
+benefit, it is basically making money for that particular firm, 
+as opposed to--why should that have a government guarantee? It 
+is often risk-taking and very profitable, but why should people 
+be able to make a profit, and then when bad times come, get a 
+bailout?
+    Former Treasury Secretary Volcker has also talked about the 
+concept of having certain government guarantees that we have in 
+the FDIC and for necessary parts of commerce, such as insurance 
+and commercial banking, but not having the guarantee for risky 
+behavior, such as credit default swaps and derivatives. Let 
+them go off in the corner and take all the risks they want.
+    I would never want to hamper the free market system, but 
+why should it have a government guarantee? And I use the 
+example of one of the most successful companies in the country 
+that was in my district; I was very proud to represent AIG, one 
+of the greatest insurance companies in the world, probably the 
+greatest one, brought down by risky behavior from another 
+division in the bank. Wouldn't it have been better to let the 
+risky behavior be off in the corner, not have the guarantee, 
+not having it pull down a great company and not costing 
+taxpayers now $185 billion?
+    But I do want to note that the TARP money is being paid 
+back at a 17 percent interest rate, so the taxpayers are 
+recouping their money. And I am proud that the private sector 
+is bounding back. But my question is, why should we be giving a 
+government guarantee for risky behavior that does not have a 
+public benefit? Insurance has a public benefit. Commercial 
+banking has a public benefit. Why should we be giving a 
+guarantee to risky behavior? Shouldn't we separate it out? That 
+is the proposal put forward by Mr. Volcker. I think it has 
+sound sense.
+    Secretary Geithner. I think we agree with you. And we are 
+not proposing, would not support, even if you wanted to, 
+providing a guarantee to those institutions or to that kind of 
+behavior. It would be irresponsible to do it. We would not 
+consider it. We would not contemplate it.
+    Mrs. Maloney. Even proprietary trading?
+    Secretary Geithner. Of course not. And nothing in our 
+proposal would provide that kind of guarantee.
+    Mrs. Maloney. Would that be separated out?
+    Secretary Geithner. But again, you are absolutely right; it 
+would be a bad thing for the country.
+    Mrs. Maloney. But if it is allowed to be part of the bank, 
+that can pull it down. So it has to be separate.
+    Secretary Geithner. Well, that is a slightly different 
+question. About the guarantee thing, again, it would be a 
+mistake, and we would never support providing a guarantee for 
+the institutions or for particular types of those activities, 
+would not do it.
+    Mrs. Maloney. Great. On the toxic assets, could you comment 
+on how we are progressing? Are we being successful? Have 
+investors used the PPIP program to purchase these toxic assets? 
+How much of a challenge is it? Is it moving away from our 
+banks? Is it still there? Could you comment on the taxpayer 
+assets?
+    Secretary Geithner. Absolutely. Toxic assets are a problem 
+for any financial system if banks don't hold enough capital 
+against those losses and if they are unable to raise capital 
+because the market doesn't understand the risk in those banks. 
+And if you measured against that, you have seen dramatic 
+amounts of new capital coming into the financial system because 
+of disclosure in some sense we force in the system. The markets 
+for those kind of real-estate-related loans and securities are 
+beginning to improve. The prices have increased. There is more 
+liquidity in part because of the programs we have set in 
+motion.
+    But we are just on the verge now of making the initial 
+allocations of capital to the fund managers, and we have some 
+authority to come in and buy those securities. But, again, the 
+suite of these programs has already had a pretty important 
+impact on liquidity and price in those markets, and things are 
+starting to improve. But the best measure of this is, again, 
+the amount of private capital that has come back into the 
+financial system because of the disclosure we forced on the 
+major institutions.
+    Mr. Gutierrez. The time of the gentlelady has expired.
+    Congressman Neugebauer, you are recognized for 5 minutes.
+    Mr. Neugebauer. Thank you.
+    Mr. Secretary, good to have you again. I want to go back to 
+something that is really bothering me and that is that I hear 
+you have said on numerous occasions now that the Treasury--I 
+mean, that some of these regulators, FDIC, the Federal Reserve, 
+all of these various regulators that disagree with you on this 
+Consumer Protection Agency, and you keep stating, well, the 
+reason they disagree with me is they are just trying to protect 
+their turf.
+    Secretary Geithner. I didn't say it quite that way. I was a 
+little more delicate in how I said it. There are principled 
+reasons for disagreeing with any proposal as you know.
+    Mr. Neugebauer. Why don't you let me get to my question.
+    Secretary Geithner. I am sorry.
+    Mr. Neugebauer. I think you were a little bit more clear in 
+that meeting with them about how you felt about--I understand 
+that you had some remarks to make to them. But I think the 
+question here that--we have a number of people who are in 
+regulatory positions here who are supposed to be smart people, 
+supposed to be experienced people, supposed to know what they 
+are doing. They are telling you that, for example, the FDIC 
+says that these changes would be very disruptive in the 
+agency's operations during a very critical time. The OCC says 
+its exam is conducted in integrated exams, but the CFPA could 
+not make supervisory recommendations to the banks to influence 
+consumer compliance.
+    So, Mr. Secretary, I get concerned that either these people 
+are incompetent or maybe you are not right. You are saying they 
+are wrong, and you are right, but we have four people, and 
+there are others who say they think this is not a good process. 
+And so I think we have to be very careful about if we don't 
+have competent people in place in these agencies and--because 
+you think that they are not looking after the best interest of 
+the country; they are looking after their turf, then that is a 
+very serious charge.
+    Secretary Geithner. Well, I think it is just a simple 
+observation.
+    And let me just say, I have great respect and work very 
+closely with all of those people, and they are doing an 
+excellent job under very exacting circumstances.
+    But if you were in their shoes and if I was, I would be 
+making the same basic arguments. And there is principle in 
+those arguments. It is not an unreasonable point for them to 
+make. But you have to view it for the basic imperatives that 
+they are defending instead of traditions and authorities that 
+they have lived with for some time that they are comfortable 
+with.
+    But the basic--I cannot say it more strongly than this: How 
+did it work in practice? Did it do what it was designed to do? 
+And I think there is no basis for claiming that it worked. That 
+is the only one way I can say it, which is a simple thing. We 
+had a chance to see how it worked over decades, and it did not 
+do what it was designed to do.
+    Now, it wasn't simply about how they exercised their 
+authority because large parts of the system were outside their 
+authority. And that made it harder for them in that context. 
+But that is why I think you have to look back and step back and 
+try to do something more fundamental.
+    Mr. Neugebauer. I think the other question, too, you have 
+to determine exactly what part of this of what happened in the 
+past was actually attributed to the consumer part of it, and 
+because you are making a very radical change when we really 
+haven't really sat down I think and done the proper autopsy to 
+determine how much of the activities happened because of 
+inadequate or lack of consumer protection.
+    Secretary Geithner. I think it is actually kind of simple 
+and stark, and if we understand one thing, I think we 
+understand that. To say it simply, where there were rules, they 
+were weak and enforced, but there were large parts of the 
+system without rules. And that is not a tenable balance for any 
+system.
+    Mr. Neugebauer. I want to go back to the derivatives issue 
+because we have had a number of companies come and testify or 
+come and see I think individual Members of Congress and are 
+very concerned about the proposals. These are companies that 
+use these derivatives to hedge risks that they are not able to 
+cover in other ways. And now that even though with the 
+exemption, many of these are going to be--meet the eligibility 
+requirements of the clearinghouses and so they are concerned 
+they will not be able to use the exemption. And many of them 
+say that with that factor and having to put up larger amounts 
+of cash margins, they will not be able to actually hedge those 
+risks. What are you proposing to make sure that we clarify this 
+because this is a serious issue?
+    Secretary Geithner. I completely agree with you and I think 
+you are right to point out and they are right to point out that 
+there are companies that make things and sell things that 
+people need, that need the capacity to manage their business 
+that allows them to hedge risks, and not all those things will 
+be met, needs to be met through a simple standardized product 
+that is traded on the exchange.
+    So preserving that is important. But the challenge for us 
+is to make sure that in preserving that, we don't create a 
+large loophole that allows all that stuff that needs oversight 
+to migrate to where there is none.
+    The Chairman. The gentleman from New York, Mr. Ackerman.
+    Mr. Ackerman. Thank you, Mr. Chairman.
+    Mr. Secretary, I have two issues I would like you to 
+comment on this morning. The first, many of us place a very 
+large share of the blame for what happened in the secondary 
+mortgage market squarely on the shoulders of the credit rating 
+agencies. Quite a few firms and many pension funds essentially 
+outsourced their own due diligence responsibility to these 
+credit rating agencies. The biggest of them are called 
+nationally recognized statistical rating organizations; that 
+approval bestowed upon them by the SEC. And there seems to be 
+in reality no qualifications for that other than that they have 
+a big share of the market.
+    Very often, these particular agencies got it wrong. In many 
+instances, they have conflicts of interest. They got it wrong 
+with complete immunity, and many investors, because they had 
+this apparent government seal of approval--sort of was like the 
+rabbi's seal of being kosher. I don't understand if some of 
+them aren't really acting as honest brokers. What is the 
+purpose of that title that they have? Is that counterproductive 
+and misleading, and could you tell us something about the 
+Administration's intentions when it comes to dealing with this 
+issue?
+    Secretary Geithner. Thank you for raising that. You are 
+right; it was central to the failures, and the failures this 
+time around were much worse than you saw in the failures of 
+ratings in the past, much more damaging.
+    The SEC I think released just--or is about to release or 
+just released a set of broad recommendations for trying to 
+address many of the problems you referred to, including 
+reducing the risks that there are conflicts of interests or 
+incentive problems that lead them to--or create greater risk of 
+these ratings being wrong in the future.
+    But in addition, we have suggested that we try to eliminate 
+what we call rating dependence in the regulatory capital regime 
+and other parts of the regulatory system, so we are not 
+creating greater incentives for institutions to rely on these 
+ratings. And as the chairman has proposed and many others have 
+considered, we think a critical part of the reform of 
+securitization markets generally is to make sure that people 
+who sell these securities retain some of the risk in them. And 
+that will help get the incentives right. And, of course, as 
+always, we are open to suggestions of how to make sure we 
+strengthen these reforms over the rating agency process.
+    Mr. Ackerman. I will send you my suggestions.
+    The second issue that I would like you to address is SIPC. 
+It has been over 9 months since Bernie Madoff discovered that 
+he was a crook and turned himself in. There are 10,000 claims 
+that people who have lost their dignity, their wealth, their 
+security, their homes, their family and whatever is left. SIPC 
+has contracted out a lot of their work. One of the contractors 
+just lost a computer, or it was stolen or whatever, and 2,200 
+victims' files are now in the hands of we-don't-know-who.
+    The problem here is that, of the 10,000 claims that have 
+been filed, only 543 as of July have been paid. That means 95 
+percent of the people are just hanging out there absolutely 
+desperate in most cases. How are investors supposed to have 
+confidence in what is going on if SIPC can't process the claims 
+faster and make these people whole with this insurance policy 
+that people believe they have?
+    Secretary Geithner. Congressman, you are right; it is 
+tragic and unfair, and the scope of damage caused by that fraud 
+is just extraordinary. And I would welcome a chance to come 
+talk to you or your staff or have us, with the SEC, walk you 
+through what we can do to make that process work better, not 
+just in this case but--
+    Mr. Ackerman. I want to do that. But just tell me now there 
+is a plan to speed this up somehow. When we couldn't get the 
+checks out to the auto dealers quickly enough, we found a way 
+of doing that. Can we speed this up?
+    Secretary Geithner. Again, I would be happy to work with 
+the SEC and the other members of the board of SIPC to try to 
+figure out how to do that.
+    Mr. Ackerman. I yield back the balance of my time.
+    The Chairman. In the 20 seconds the gentleman had 
+remaining, if he would yield them to me, one of the items that 
+I believe should be on the agenda of the committee next year, 
+and of course the agenda of the committee is not something on 
+which I have no influence, is looking at the degree of 
+protection people get from the SIPC over and above Madoff. It 
+is clearly inadequate to the expectations, to the role that it 
+has played and I would hope in a bipartisan way we could look 
+at expanding investor protection next year. And we will--that 
+doesn't relieve the current issue, but it will be on our agenda 
+for next year.
+    The gentleman from Delaware.
+    Mr. Castle. Thank you, Mr. Chairman.
+    Mr. Secretary, according to all the news this morning, 
+yesterday there was a discussion draft of the Consumer 
+Financial Protection Act distributed by the chairman of our 
+committee to the Democratic members of the committee. My 
+question to you is, were you or the White House in some way 
+consulted about that, and are you familiar with it at this 
+point?
+    Secretary Geithner. The only thing I have seen is a 2-page 
+note that the chairman circulated, which as I said earlier, I 
+had a chance to look through briefly. And we were not consulted 
+in advance of the note itself, but we have been spending a lot 
+of time, both sides of the aisle, walking through a range of 
+concerns and questions people have raised with the legislative 
+language we have proposed.
+    Mr. Castle. I hope it will be fair to ask if you could 
+comment, perhaps in writing, at some point on that. Obviously 
+there are some major, according to what we are reading, some 
+major aspects of change there that we would be interested in 
+your views on them. I would like to--
+    Secretary Geithner. I would be happy to do that. But as I 
+said, I think the broad thrust of those proposals looks very 
+encouraging and promising to us. And there is nothing in there 
+at first glance that troubles me significantly in terms of its 
+practical value.
+    Mr. Castle. Along the same lines, worrying about the CFPA, 
+I am concerned about the whole mission creep aspect of this. 
+There are clearly problems, and you are absolutely right; I 
+think we all agree there are things we need to do. I am 
+concerned about mortgages. That could have been spelled out 
+better. We have already dealt with credit cards to a degree, 
+and the Federal Reserve actually had a good plan on credit 
+cards, which we pretty much emulated to a degree. And there are 
+subjects like student loans, which may go by the wayside if the 
+new legislation on direct lending goes through the Senate, etc. 
+But there are many things that financial institutions, 
+particularly banks, do that have not been questioned in terms 
+of how they carried out--commercial lending, I don't think, has 
+been questioned; the way they handled deposits, for example, 
+even auto loans. And you could go through perhaps 10 or 12 
+subjects. And I am concerned that if we get a very activist 
+agency, that the agency may go beyond where it belongs and all 
+of a sudden be disruptive to normal banking procedures in the 
+United States. I cannot tell you what percentage of customers 
+were actually impacted negatively by problems that perhaps 
+could have been prevented. My hunch is it is a relatively small 
+percentage, versus those satisfied with their banking. But at 
+agencies like this concerns me and the authority that we are 
+giving them. Do you have any thoughts about how to restrict 
+what they could do, other than, obviously, we could do it 
+legislatively, or are taking that up with the Administration as 
+you prepare--
+    Secretary Geithner. I agree. I think the legislation has to 
+make sure that it is clear what authority they have and do not 
+have. And one thing we proposed is to make sure they have a 
+board as a check and balance against that risk that has on it 
+representatives of the supervisors and others who have a stake 
+in this. And I think you are right to point out the risks that 
+we overdo it at this time. That was not the failure of the 
+past.
+    The past was probably we under-did it, and that did cause a 
+lot of damage and does put at risk potentially a lot of what 
+was desirable, healthy productive economic activity by 
+financial institutions. So I agree with your concern and I 
+think there are lots of different ways to make sure that you 
+don't create too much unbridled authority that would be 
+damaging to what is an important part of our financial system.
+    Mr. Castle. You can take this as a comment. And I heard 
+your comment earlier about the regulators who exist now and the 
+question is, how good a job did they do? Did you know they were 
+going to be testifying later this afternoon? And more than one 
+of them, at least three of them have made comments about 
+particularly the CFPA that are somewhat critical and negative.
+    And I heard your response, which was, well, they are 
+protecting their jurisdiction in what they are doing to a 
+degree. But in just reading their comments, and I haven't heard 
+what they are going to say this afternoon yet. I haven't read 
+the comments this afternoon. It seems to me there are some 
+constructive points in there, and I would hope the 
+Administration is listening to that, not necessarily in terms 
+of doing everything that they are requesting, but listening to 
+constructive comments that could help as far as consumption and 
+the use of banking products is concerned.
+    Secretary Geithner. Absolutely. Again, as I said, our test 
+is what is going to work.
+    Mr. Castle. Exactly. Very quickly on another subject that I 
+think Congresswoman Maloney brought up which is the whole TARP 
+business. We are at about the 1-year anniversary now of the 
+enactment of the legislation on the TARP. As we know, it wasn't 
+used quite as we expected it to be used. And some concerns 
+remain, as expressed by the recent Congressional Oversight 
+Panel report that these toxic assets still exist on the balance 
+sheets of financial institutions. And you talked about this to 
+a degree.
+    You indicated, with capital improvement, etc., prices are 
+improving, and it is better at this point in time. But I am not 
+sure where the public-private investment program currently 
+stands on where we are in that area. I think I have run out of 
+time. If you could submit that in writing, I would appreciate 
+it.
+    Secretary Geithner. Absolutely.
+    Mr. Castle. Perhaps we can share it with everybody here.
+    Secretary Geithner. Absolutely.
+    Mr. Castle. I yield back, Mr. Chairman.
+    The Chairman. I thank the gentleman for that suggestion.
+    And if we haven't already said it, we will have general 
+leave, without objection, for anybody to submit any documents 
+they want. And the Secretary has always been very good about 
+responding to questions. So any supplemental questions people 
+have, we will get.
+    The gentleman from California, Mr. Sherman.
+    Mr. Sherman. Thank you, Mr. Chairman.
+    I know you can justify just about any transfer of power 
+from Congress to the Administration by pointing out that you 
+and your successors are patriotic, cautious, and no matter what 
+power we give you, you would only use it in the best interest 
+of Americans and only under emergency circumstances. That being 
+said, I take a look at section 1204 of the legislation you have 
+proposed and can only describe it as TARP on steroids. When we 
+passed the TARP bill, we limited the Administration to $700 
+billion. Section 1204, unlimited, we limit it to a certain 
+number of years. Section 1204 is there forever. In the TARP 
+bill, we provided that if the taxpayers lose any money under 
+certain vague provisions, you should go get that flown somebody 
+in the financial services industry.
+    None of us think that is going to happen because--but in 
+any case, it is in TARP and a similar provision is in the 
+legislation you proposed.
+    In TARP, there are all kinds of special oversight, 
+including Elizabeth Warren. In your proposal there is no 
+special oversight. And in TARP, those institutions that benefit 
+have all those--have at least some restrictions on executive 
+compensation. In your proposal, there are no such restrictions. 
+Now, section 1204 allows the FDIC to go spend an unlimited 
+amount of money buying the debt obligations of, making loans to 
+or assisting any systemically important institution in time of 
+trouble? And that is in the first instance taxpayer money? 
+Would great harm be done to this statute if we limited the 
+Executive Branch's authority to a mere $1 trillion and said 
+that if you want to commit more taxpayer money than that, 
+notwithstanding the fact that you hope to get it back from 
+someplace else, but if you need more than a trillion, perhaps 
+you ought to come to Congress? Or is there an assumption on 
+Wall Street that Congress makes the wrong decisions, is a bunch 
+of people who cannot be trusted and that Wall Street cannot be 
+safe unless they have access to unlimited funds without further 
+congressional action beyond that which you propose?
+    Secretary Geithner. Congressman, I don't recognize most of 
+your concerns in the approach we recommend. But I understand 
+the concerns. And I think you are right to point out, as are 
+many of your colleagues across the aisle, that it would be a 
+mistake for us as a country through the reform process to 
+harden or create an expectation that if you get yourself in 
+trouble, that the government is going to come in and save you--
+    Mr. Sherman. Mr. Secretary, I have such limited time. A 
+trillion dollar limit, okay with you, not okay with you?
+    Secretary Geithner. Congressman, again, you are taking a--
+first of all, you are fundamentally mischaracterizing.
+    Mr. Sherman. Let us say I am fundamentally 
+mischaracterizing. If I have an amendment to this section 
+saying it is limited to a trillion dollars, is the Treasury 
+going to oppose that, or are they going to support it?
+    Secretary Geithner. Congressman, it is important to make 
+people understand and make sure people understand the following 
+thing, this Congress put in law, after the S&L crisis, a very 
+important authority to allow for resolution--not a great word.
+    Mr. Sherman. Mr. Secretary, I have asked you a simple 
+question. I have very limited time. Would you support it or 
+oppose it? And then let me move on.
+    Secretary Geithner. I would not support proposals that 
+would put this country in the position we were in, in 2007 and 
+2008, where we did not have the ability to act to protect--
+    Mr. Sherman. The key thing then is that the Executive 
+Branch have the power to commit, not just $700 billion, but a 
+trillion or more without having to have Congress be involved at 
+the time of the crisis.
+    Secretary Geithner. No. That is not--would not be a fair 
+description of our strategy. And again, the critical test is, 
+do you want to put this country in the position again where we 
+come into the worst financial crisis in generations without the 
+ability to protect the taxpayer--
+    Mr. Sherman. Reclaiming my time. The problem for Wall 
+Street is that Congress had to be involved. It was embarrassing 
+that they didn't get their money for a few days.
+    But let me focus on the one other question, and that is the 
+only companies that are ever going to benefit from this are the 
+systemically important institutions.
+    Secretary Geithner. No, that is not true.
+    Mr. Sherman. Well, it is limited to systemically support--
+    Secretary Geithner. Look, the only rationale, Congressman, 
+and you think that the experience of last year would make this 
+compelling to people, that if your strategy--
+    Mr. Sherman. In order for a company to benefit--do you want 
+to look at Section 1203(b) 1 and 2 of the statute you 
+presented?
+    Secretary Geithner. You are mischaracterizing the benefit.
+    The Chairman. The gentleman's time has expired. The 
+gentleman has one last comment.
+    Mr. Sherman. I would say, you can claim that all Americans 
+benefit from a provision that can only help about 20 
+institutions, but they will have a release of their moral--an 
+elimination of moral hazard. They will have lower cost of 
+capital, and either the taxpayer will pay or the medium-sized 
+banks will pay if it is ever used. I realize--
+    Secretary Geithner. I hear your concern. But if we were 
+proposing that, I would not support it. If you proposed that, I 
+wouldn't support it. But you are right about the concern. The 
+question is about how to get the balance right. Look what 
+happened to the country when we allowed a system to build up 
+where we had no choices in the event of failure between 
+stepping in or letting it cause enormous damage.
+    The Chairman. The gentleman's time has expired.
+    The gentleman from Oklahoma, Mr. Lucas.
+    Mr. Lucas. Thank you, Mr. Chairman.
+    And Mr. Secretary, let us come at this from a slightly 
+different perspective but along the lines of my colleagues. You 
+have used the phrase ``in practice'' several times, and I 
+appreciate that tremendously because this is not just an 
+academic exercise; there are practical consequences to 
+everything we do.
+    My constituents, small financial institutions and what some 
+would define as nontraditional institutions out in the 
+countryside are very nervous about the Consumer Protection 
+Agency bill, and their nervousness is not I think so much about 
+protecting the consumer. They all support that.
+    But there is a fear out there in the countryside, and this 
+comes before Chairman Frank's memo, there is a fear out in the 
+countryside that the biggest institutions in this country with 
+larger staffs, with greater budgets, with greater volumes of 
+business will have the ability to meet these standards in a 
+more cost-effective way than they will be, and that the 
+ultimate net result, at least of the Consumer Financial 
+Protection Agency, as envisioned by the Administration, will be 
+to raise their cost disproportionately to the bigger 
+institutions.
+    And they are very concerned about that out there. That is 
+an issue I think we need to address as we move through this 
+process.
+    And to touch on a slightly different subject and then 
+whatever comments you might have, sir, on the derivative side 
+of the equation, sitting on the Ag Committee, we have a little 
+bit of involvement in those issues. I have a number of 
+constituents and constituent industries back home in Oklahoma 
+that use these kind of products to provide some sort of price 
+stability for the commodities they sell over the period of 
+time. Otherwise, they are a day-to-day--a day-to-day price, and 
+that is a very difficult thing to do. They have expressed 
+extreme concern to me, and I think there is some legitimacy to 
+this, depending on how in the Administration's proposal we 
+address these capital and margin requirements, they are 
+concerned, and I think legitimately, that potentially they will 
+be driven, because they still need the price stability--they 
+have to have the product--if we dramatically increase capital 
+margin requirements or place them in a fashion that is 
+counterproductive, they will be driven to the biggest financial 
+institutions because they will have to have someone who can 
+afford to not only engage in the contract with them, but who 
+can finance all these other options. Once again, the fear 
+being, Secretary, that they will wind up having fewer people to 
+do business with, and it will be a small handful of the 
+biggest, which runs contrary to I think what we have been 
+saying on this side of the aisle, which is ``too-big-to-fail'' 
+is unacceptable, untenable, and yet there are real concerns out 
+in the countryside that these pieces of legislation as proposed 
+will drive more business to the biggest, will put the biggest 
+at an even greater advantage over everyone else. So let's visit 
+for a moment about the practical consequences about these 
+issues.
+    Secretary Geithner. I understand both concerns, and I agree 
+with much of what you said about them. On the cost issue for 
+community banks, we think we found a way, but I think the 
+chairman's notice helped with clarification on this to give 
+people reassurance that we can do this change in authority, 
+reallocation of authority, without increasing costs.
+    I think that is an important thing to do. And I think that 
+is achievable. Again, it is not that there are no people in the 
+country who are doing this job now. It is just that they spread 
+across a range of agencies, and we want to take that authority 
+and consolidate in a place where it can be done with less 
+distraction. But I understand the question. I think that is the 
+concern.
+    I think we can achieve what is important to you and to 
+those community banks. On the derivatives thing, you said well, 
+again, we very much want to make sure we preserve the capacity 
+of people in many different industries to use derivative 
+markets, to hedge and protect themselves against the risks they 
+confront. And we have tried to provide a way that gives them 
+comfort for that. But we are obviously happy to work with you 
+and your colleagues and with the FTC and the CFTC on how to 
+provide the clarification and the assurance necessary, because 
+again, we want to preserve that.
+    Of course, the challenge again, as I said, is to do that 
+without creating just a huge loophole that allows people to 
+evade the basic protections we think the country needs. But I 
+think you framed the concern right, and we are very much 
+willing to work with you on how to do that.
+    Mr. Lucas. Because, after all, Secretary, in my region, we 
+went through both an agricultural and energy property boom, 
+bust, and bubble in the 1980's. We were slaughtered 
+economically. We did not receive capital injections. Our 
+industries were not propped up. It took us, 10, 15 years in 
+some segments to recover from it. We do not wish that on anyone 
+else, but by the same token, let us not make the matter worse 
+because the feud back home is, it was the big boys that damn 
+near killed us all, not the little players.
+    Secretary Geithner. And I think you are right. The people 
+who provide that protection, write those commitments, whatever 
+the form is, they need to hold margin and capital so it allows 
+them to meet those commitments. And that was the big failure in 
+the system.
+    Mr. Lucas. Thank you, Mr. Secretary.
+    The Chairman. The gentleman from North Carolina has 
+returned from passing a bill under this committee's 
+jurisdiction on the Floor. And he is now recognized for 5 
+minutes.
+    Mr. Watt. Thank you, Mr. Chairman.
+    I hope my colleagues will support that bill when it comes 
+to a vote. Actually, we passed it by voice vote, so you all are 
+not even going to vote on it, the Defense Production Act 
+Reauthorization.
+    Mr. Secretary, my good friend, Mr. Lucas, was talking about 
+practical considerations, and I am kind of into practical 
+considerations, too. And I have been looking at this Consumer 
+Financial Protection Agency proposal and how we got to where we 
+are on account of a practical basis. It seems to me that we 
+gave the Fed and the FDIC and the other regulators substantial 
+consumer protection authority. Each one of them had consumer 
+protection authority. But we also gave them an expectation, a 
+mandate, just like the consumer protection ``mandate'' that we 
+gave them to assure the safety and soundness of financial 
+institutions.
+    And I guess my question to you is, you have been in one of 
+these agencies. You came out of one of these agencies. You were 
+with the Federal Reserve. If I look at you and tell you that 
+your obligation is to assure the safety and soundness of the 
+institutions that you have responsibility to regulate and I 
+look at you and I say, okay, I am also going to give you the 
+authority to do consumer protection, tell me, just as a 
+practical consideration, practical consideration, which one of 
+those things are you going to do come crunch time?
+    Secretary Geithner. Well, I think you say it right. The 
+risk is if you have a range of different priorities, not one, 
+than you are going to do less of a good job at focusing on the 
+consumer side.
+    Mr. Watt. But what is your highest priority if you are the 
+ultimate regulator for the safety and soundness of financial 
+institutions? Isn't that far and away disproportionately a 
+higher priority for you as a regulator in that scenario I just 
+painted for you?
+    Secretary Geithner. That is the risk in combining those 
+responsibilities in a bank supervisory--
+    Mr. Watt. You are being very kind when you say it is the 
+risk. Actually, the Federal Reserve in a hearing had a witness 
+up here that said that they really never thought of that as 
+being on an equal plain with the mandate that they were given. 
+It was kind of a second class authority that they had, but they 
+never really thought about it until we got to this crisis. That 
+is in testimony that we took before my subcommittee.
+    Secretary Geithner. I don't quite think that. I don't know 
+who made--I wouldn't quite agree with that, because there are a 
+lot of people who are good at this, who spent a lot of time 
+looking at it, and it occupied an enormous amount of time.
+    Mr. Watt. I am sure that is true.
+    Secretary Geithner. But I think that the really important 
+thing to recognize--I agree with what you are saying, but it 
+was partly that. But a large part of it was the fact that there 
+were all these other institutions that were allowed to compete 
+with banks in providing credit that had no effective 
+supervision, constraints, and oversight.
+    Mr. Watt. I am not minimizing the people who were outside 
+any regulatory framework, but folks who were inside the 
+regulatory framework got involved in these things with 
+regulators that had responsibility first and foremost for their 
+safety and soundness which they didn't do a real good job of 
+either, as it turned out, because of these bad consumer 
+products. But even when they turned their attention to it, 
+their primary focus was getting out of the ditch on safety and 
+soundness and getting the economy back on an even keel. Even 
+then, it really wasn't about consumers.
+    And it seems to me that if we are going to talk about 
+practical considerations, the only way you are going to solve 
+that practical consideration is to create an agency that goes 
+to work every morning saying, my primary responsibility is to 
+protect consumers. And if I run into a conflict between that 
+and the safety and soundness regulator, then there is a 
+mechanism for resolving that conflict, but there is no question 
+what responsibility I have every day of the week when I go to 
+work. Do you agree with that?
+    Secretary Geithner. I completely agree with you. I believe 
+in accountability. You want people waking up every day, 
+figuring out how they are going to do a better job in 
+preventing this from happening in the consumer area.
+    Mr. Watt. Thank you, Mr. Chairman. I yield back.
+    The Chairman. The gentleman from Illinois, Mr. Manzullo.
+    Mr. Manzullo. Thank you, Mr. Chairman.
+    Thank you, Mr. Secretary. Mr. Secretary, would you agree 
+that the root cause of the financial collapse of this country 
+was the fact that subprimes were not regulated too closely?
+    Secretary Geithner. No, I would say that it was one of a 
+number of factors, but it was not the most important.
+    Mr. Manzullo. But if people had not been allowed to buy 
+homes they could not afford, that was the bad product in the 
+first place; isn't that correct?
+    Secretary Geithner. I agree that is what--the basic--what 
+happened to housing prices was partly facilitated by what 
+happened to subprime mortgages made everything more perilous 
+and worse. There were other things happening than simply the 
+subprime.
+    Mr. Manzullo. A lot of people believe that if the Fed had 
+done its role, statutory role, which is to govern instruments 
+and underwriting standards with regard to those mortgages, that 
+we wouldn't have had this meltdown. In other words, the basic 
+product that gave rise to the derivatives and the CDOs would 
+have been sound.
+    Secretary Geithner. I don't think I would say it quite that 
+way. Remember, as we just said, a lot of what happened in the 
+system was that we allowed institutions to underwrite a bunch 
+of stuff, sell a bunch of stuff to people who couldn't afford 
+it. They were outside any scope of authority provided by the 
+Congress with no effective deterrence. You can't look it quite 
+through the prism of the authority that Congress gave the Fed 
+and the other supervisors because of the absence of any 
+authority over--
+    Mr. Manzullo. No, I understand. But the Fed had the 
+authority, did it not, to require, as it will beginning October 
+1st of this year, that there be written proof of a person's 
+income when applying for a mortgage?
+    Secretary Geithner. Again, for the system to work--
+    Mr. Manzullo. I understand it. But did I make the correct 
+statement or not?
+    Secretary Geithner. Well, again--I don't think we are 
+disagreeing. As I said many times before, I think the failure 
+not just of the Fed--
+    Mr. Manzullo. If we are not disagreeing, why don't you just 
+say what I just said was correct?
+    Secretary Geithner. I believe that the system would have--
+this crisis would have been less damaging, there would have 
+been less damage to the economy as a whole if authority had 
+been stronger, used more effectively, used earlier by a bunch 
+of other authorities.
+    Mr. Manzullo. I understand. The point I am trying to make 
+is the authority was there from the beginning with the Fed to 
+stop the mischief.
+    Secretary Geithner. I don't think that is quite right. I 
+think that you are right to say that if that authority had been 
+used more effectively earlier, things would not have been as 
+damaging.
+    Mr. Manzullo. Well, call it not as damaging or whatever it 
+was. Okay? The point I am trying to make is that the Fed had 
+the authority--and actually, this was pre-Chairman Bernanke. By 
+the time he got appointed, it was too late. But the Fed had the 
+authority to come in and say, we are going to stop the practice 
+of giving people mortgages when they can't even make the first 
+monthly payment. They could have done that in two ways: getting 
+rid of teaser mortgages, which is the instrument; and also 
+saying that you have to have written proof of your earnings. 
+That is where it started.
+    And I guess the problem that we are having is the very 
+agency that had the authority to stop it, you want to give them 
+more power. And--well, you do. You want to make the Fed the 
+super regulator of all of this which you are proposing, going 
+from a plain vanilla to what I believe is Rocky Road at this 
+point.
+    Secretary Geithner. Let me say it starkly, what we are 
+proposing is the clearest thing. We are proposing to take that 
+authority away from the Fed and put it in an entity that we 
+think we can do a better job of doing it in the future.
+    Mr. Manzullo. I am talking about the super regulator.
+    Secretary Geithner. Again, that is not a fair description 
+of what we are proposing.
+    Mr. Manzullo. Call it--you can characterize it the way you 
+want. It is giving the Federal Government more authority.
+    The Chairman. Would the gentleman yield?
+    I think there is a confusion. I believe my colleague is 
+talking about the systemic risk function, and you are talking 
+about the consumer protection function. And I think that is 
+where the--
+    Secretary Geithner. Even on the systemic risk, the 
+stability's function, which is so important, what we are 
+proposing to give the Fed is the authority to make sure they 
+can actually supervise and apply conservative capital 
+requirements on these large complex institutions; they can make 
+sure that the payment system, which is what spreads crisis, 
+runs with tighter capital margin requirements. Those are 
+important authorities that are not as clearly established in 
+the law as we think is necessary. That would be a good thing 
+for the country.
+    Mr. Manzullo. I guess the point I want to make is, when you 
+take a look at the 600 pages of legislation that you have 
+proposed, if you take a look at Chairman Frank's memo today 
+talking about exempting different groups from this new Consumer 
+Financial Protection Agency, to me it is going to be almost 
+chilling for groups to know who is, in fact, regulating them. 
+Banks right now are being chilled to give money because of 
+oppressive tactics by the regulators. Good loans in the past 
+have now become bad loans, because of the mixed messages coming 
+from the regulators. And now there will be exemptions as to who 
+is exempt from this new Consumer Protection Agency. I am glad 
+lawyers are, auto dealers. It says accountants and other 
+businesses that perform tax preparation services, but 
+accountants that do business planning evidently would not.
+    So what you are proposing here are whole new sets of 
+regulations, and the people, first of all, won't even know 
+whether or not they are regulated and, second of all, what laws 
+would apply under the regulations.
+    The Chairman. The gentleman's time has expired. We have 
+some time for my intervention. So the gentleman's time has 
+expired and--
+    Mr. Manzullo. Thank you.
+    The Chairman. The gentleman from New York is now recognized 
+for 5 minutes.
+    Mr. Meeks. Thank you, Mr. Chairman.
+    Mr. Secretary, good morning. Let me just go slightly with 
+some questions I have that has an international tinge to it. 
+And the first question is dealing with the risk of regulatory 
+flight. It seems as though and it seems pretty clear, I think, 
+that it is a myth that firms are going to pick up and move away 
+from the jurisdictions. Everything that I have looked at shows 
+that is not going to happen. But there is a lingering question 
+about whether financial firms with existing operations in 
+multiple countries may relocate resources internally among 
+these regional headquarters, potentially to the detriment of 
+the United States. I was wondering if you could address this 
+issue, you know, about that?
+    Secretary Geithner. It is a real concern. You are right to 
+point it out. That is why we made it clear to the Congress and 
+to the world that as we, as the Congress considers putting in 
+place stronger rules, we need to make sure that the world 
+outside of the United States does so, too, so that we have a 
+level playing field that can be enforced more evenly, and so 
+that risk can't just migrate to where it is going to face less 
+strict supervision and oversight.
+    So we have proposed that the major economies come together 
+and agree to a new international accord on capital, a range of 
+other agreements to put in place stronger standards across all 
+the major financial institutions so there is a level playing 
+field. It is an important thing to do, and I think, actually, 
+there is a lot of consensus on that basic strategy.
+    Mr. Meeks. But likewise, I don't know if you know--you may 
+or may not know. Last week, for example, I dropped a Sense of 
+Congress Resolution dealing with the Lehman bankruptcy in the 
+U.K., and I know that part of that number of investors thought 
+that their money was being invested in the United States, and 
+it ended up in the U.K., and it is caught up in this bankruptcy 
+process. And a number of these are foundations and universities 
+that I have been talking to that are very concerned because it 
+is going to have an effect on them.
+    I don't know what is going on with it, but--in my 
+resolution, I was asking for the U.K. and the United States to 
+work more closely to try to make sure that we do this in a more 
+timely manner. But likewise, then, when you talk about 
+international--is there any talk about an international 
+resolution authority so that this problem does not occur again? 
+And can you also tell me or give me an update as to where we 
+are with the Lehman bankruptcy?
+    Secretary Geithner. I would be happy again to talk to the 
+SEC and the U.K. authorities and help--and to the courts 
+involved to help make sure that process is moving quickly.
+    On the basic question you raised about the future, what you 
+need--what Lehman illustrated is we did not have here and was 
+not in London an adequate mechanism for managing that failure 
+in a way that caused less damage. And to fix that, you need to 
+change the law here. You need to change it in the U.K. and make 
+sure that it is done in a consistent way so these globally 
+active firms can be handled--
+    Mr. Meeks. Is that dialogue going on now?
+    Secretary Geithner. The dialogue is going on now. But, as 
+many of your colleagues have observed, it is a very complicated 
+difficult thing. You are not going to be able to do it just by 
+sitting around a table and talking with the other supervisors. 
+It requires changes in the laws and regulations in each of our 
+countries. So we are trying to make progress on that.
+    Mr. Meeks. Would that be subject at all to the conversation 
+at the G-20 that is coming up in Pittsburgh?
+    Secretary Geithner. It will. And you will see in the 
+broader recommendations and reforms that are laid out there an 
+update on progress in that area and a reference to where we are 
+trying to go.
+    Mr. Meeks. Also, the role of the IMF, and I know that 
+President Obama and other leaders are calling for a more stable 
+and sustainable global trade system. For example, with 
+countries like China and Germany are recess dependent on 
+export-driven growth, and the United States is dependent on 
+cheap international capital to finance deficit-driven 
+consumption. There is talk, from what I understand, of the IMF 
+playing a greater role. Can you share your thoughts on how this 
+would actually work and how we could make it enforceable on an 
+international basis?
+    Secretary Geithner. Very hard to make it enforceable. I 
+think probably not achievable. But what we want to make sure 
+the world understands, that as we save more as a country, which 
+we are already doing and we are going to have to do going 
+forward, they are going to have to find future growth more from 
+domestic consumption in those countries, and if they learn 
+anything from this crisis, it is that basic imperative. So 
+that--the strategy we are suggesting is that we try to get 
+countries to commit to reforms that will help produce that and 
+that the IMF plays its natural role as an independent assessor 
+of whether countries are doing things at all that contribute to 
+a more balanced pattern of growth globally. But you can't 
+expect in a world of sovereign states, and I would never 
+recommend that this country, cede basic responsibility over 
+basic economic policy to a committee of other nations or to the 
+IMF.
+    The Chairman. The gentleman from Georgia.
+    Mr. Price. Thank you, Mr. Chairman.
+    Welcome, Mr. Secretary.
+    My background is health care. So I know that as a 
+physician, if you don't make the right diagnosis, you can't 
+treat the patient correctly. And if the patient gets well, it 
+is by luck.
+    To the point of diagnosis, there are some individuals who 
+believe we are in our current situation, in the current boat we 
+are in, because--they will say this--because of a failure of 
+capitalism and a failure of deregulation.
+    My sense in talking with folks is that simply isn't the 
+case. I think that is very concerning because if we conclude as 
+a society that the reason we are here is because of a failure 
+of capitalism and a failure of deregulation, then I suggest 
+that the solutions that we will come up with will not, in fact, 
+correct the problem. Would you comment on those two matters? Do 
+you believe we are where we are because of a failure of 
+capitalism?
+    Secretary Geithner. No, I would not use that phrase.
+    Mr. Price. Do you believe we are where we are because of a 
+failure of deregulation?
+    Secretary Geithner. To some extent, we are. I think we 
+screwed up regulation is a simple way to say it.
+    Mr. Price. By having a system that wasn't flexible or 
+nimble and wasn't minding the store?
+    Secretary Geithner. Partly that. But partly we had a system 
+where parts of the system and people were crawling over these 
+institutions yet didn't prevent excessive risk-taking; parts of 
+the system, where there was nobody looking at it. It is not a 
+sensible way to run a system. So I would--it is not as elegant 
+as the phrase they used. I would say we just screwed up the 
+regulatory system.
+    Mr. Price. So you have folks who are crawling all over 
+people, not doing their right regulatory job, and some products 
+out there in the marketplace that aren't being watched?
+    Secretary Geithner. Well, it is institutions and markets 
+where there were no effective constraints on risks that could 
+threaten the economy as a whole.
+    Mr. Price. And I would agree with you, I think.
+    If one believes that, then why wouldn't one have as a 
+solution to simply charge the regulators that we currently have 
+with the job of regulating the different products and 
+institutions that are out there as opposed to creating a new 
+bureaucratic institution that will take all of the time that it 
+takes to get up and running, usurpation of authority from other 
+individuals, who--I suspect we are marching down the road again 
+of, who is minding the store?
+    Secretary Geithner. I think, actually, we are trying to fix 
+that. Because right now, it is hard to know who is responsible, 
+who is principally responsible. One of the virtues of 
+accountability is nobody will be confused if we do what we are 
+proposing about who is responsible. And that is a good place to 
+start. If you give that responsibility to a bunch of different 
+people, better responsibilities, then you can't hold them 
+accountable for performance on that.
+    Mr. Price. Have you read our proposal, the proposal from 
+the Republican side of the aisle?
+    Secretary Geithner. I have, although I read it when it 
+first came out, and I haven't read it again recently, but I 
+would be happy to go through it again.
+    Mr. Price. Do you have any--the way that we addressed that 
+was to take the current regulators and say, you all have to do 
+your job, one, and if there are new products or financial 
+institutions that are out there that aren't being watched, 
+somebody has to watch them, and you are charged with 
+determining who is going to watch them. Is there something 
+wrong that?
+    Secretary Geithner. I just don't think it goes far enough. 
+Again, just due to practical reality, I think that would leave 
+the current system basically intact, and we would be at too 
+much risk of repeating this down the road. And I think that, 
+again, a basic failure in our system was we left a bunch of 
+institutions doing the same thing. Mortgages, credit cards, a 
+bunch of credit-type products competing alongside banks where 
+there was no effective deterrence enforcement. And I don't 
+think you can fix the system without fixing that problem. And I 
+don't think you can--I will say this more starkly than we need. 
+But I don't think you are going to fix it by creating a 
+committee.
+    Mr. Price. Well, I would suggest that the last thing that 
+this government needs is another regulatory agency that may, in 
+fact, repeat the same ills of the last.
+    Secretary Geithner. If we did that, that would be a 
+mistake. But again, what we are proposing is to take authority 
+that is diffused around a bunch of people and other things and 
+move it to a central place. It is not fair to characterize it--
+although I understand the risk--that is some new bureaucracy we 
+are imposing on top of the system. It is more like more 
+accountability and clarity so people know where to go to; you 
+know where you go to when you see systematic failures.
+    Mr. Price. I would encourage you to take a look at our 
+proposal once again. I would love to have your feedback on 
+that.
+    Secretary Geithner. Absolutely.
+    Mr. Price. Before my time expires, I want to address the 
+issue of TARP. And I am sorry I wasn't here for an earlier 
+comment, but my understanding is that your sense and the Fed 
+Chair's sense is that we have moved on from this remarkable 
+threat that we had to our Nation a year or so ago and that 
+TARP's timeline was to be temporary and finite and hopefully 
+end at the end of this year.
+    Are you planning on ending TARP at the end of this year?
+    Secretary Geithner. Can I say it slightly differently? 
+Because of the force of the actions that the Congress 
+authorized we took, we did pull the system back from the edge 
+of the abyss, and we are able to wind down some of the 
+emergency authorities necessary to rescue the system.
+    But we still have a very damaged system. There is a lot of 
+challenge ahead for the economy. As many of you observed, we 
+are only just now seeing the economy start to grow again. And 
+it is too early for anyone to declare victory, say this is 
+behind us. And I think anybody who lives in this world would 
+say that there is still a lot of pressure the system is going 
+through.
+    So, it is important that we not declare victory too soon, 
+walk this stuff back prematurely.
+    Mr. Price. Thank you.
+    The Chairman. The gentleman from Kansas.
+    Mr. Moore of Kansas. Thank you, Mr. Chairman.
+    Mr. Secretary, how do we end ``too-big-to-fail?''
+    I don't know if you have seen the recent proposal by 
+Chairman Tom Hoenig from the Kansas City Federal Reserve. The 
+proposal on resolution authority lays out explicit rules of how 
+a large financial institution like Lehman Brothers or AIG could 
+be resolved so that debt holders, shareholders, and management 
+would be accountable and responsible before taxpayers step in.
+    If you haven't seen the proposal, I would be happy to get 
+you a copy, and would appreciate your comments in writing.
+    Others suggest we require the largest financial firms to 
+undergo a regular stress test that would have aggregate 
+information publicly released even in good times.
+    I know some have argued the list of these firms should 
+remain confidential, but doesn't the market already know who 
+these firms are based on the last round of stress tests? How do 
+we create the right incentives for firms to maintain reasonable 
+leverage ratios and strongly discourage ``too-big-to-fail?''
+    Secretary Geithner. I have a lot of respect for Tom Hoenig. 
+I haven't looked at his proposal, but I would be happy to do so 
+and react to it. Anything that meets the objectives that you 
+described I would be very supportive of.
+    I think, again, to say it simply, to prevent the moral 
+hazard that is inherent in any financial system, you can't 
+leave the market to do it. You have to put in place constraints 
+on leverage in the form of capital requirements that help the 
+institutions make sure they hold enough resources to cover 
+losses.
+    And you have to make it clear that the government has the 
+ability, if you screw it up, to wind you down, restructure you, 
+in effect put you out of existence without imperilling the 
+health of the rest of the system. That is the basic, simple way 
+to describe what you need in this approach.
+    And, of course, we have also proposed that institutions 
+have to pay for any losses the government absorbs in this 
+context over time. That is helpful, too.
+    But those are the two core pieces of any effective 
+strategy.
+    Mr. Moore of Kansas. Thank you.
+    Mr. Secretary, would you support creating a financial 
+watchdog council where financial inspectors general would meet 
+on a quarterly basis and be required to provide an annual high-
+risk report on the greatest risks and gaps in our financial 
+regulatory system that need to be addressed?
+    Secretary Geithner. Again, I would be happy to consider 
+that.
+    And I do think that one thing that is important to do is to 
+make sure that you have a group of people looking at the whole 
+system, trying to look over the horizon to identify early 
+things that are happening that could threaten the system in the 
+future.
+    But I would be happy to look at that specific proposal.
+    Mr. Moore of Kansas. Thank you, Mr. Chairman. I yield back 
+the balance of my time.
+    The Chairman. The gentleman from California has now 
+returned to claim his time.
+    Mr. Royce. Thank you, sir. I had a couple of bills on the 
+Floor, Mr. Chairman.
+    Let me ask you, if I could, Mr. Secretary, to what degree 
+did bank regulators contribute to the drafting of your 
+regulatory reform proposal? Were they involved in that?
+    And let me just finish my thought, and then maybe you can 
+explain. The reason I am asking that is because, as we look 
+toward creating a more stable financial system and one that is 
+focused on benefitting consumers, some regulators have 
+expressed serious concern about the creation of a Consumer 
+Financial Protection Agency and the separation of safety and 
+soundness regulation from that consumer protection regulation 
+authority.
+    I was just going to read a quote from Sheila Bair of the 
+FDIC. She said, ``Separating consumer protection regulation and 
+supervision into different organizations would reduce 
+information that is necessary for both entities to effectively 
+perform their functions. Separating consumer protection from 
+safety and soundness would result in similar problems. Placing 
+consumer protection policy-setting activities in a separate 
+organization, apart from existing expertise and examination 
+infrastructure, could ultimately result in less effective 
+protections for consumers.''
+    So Ms. Bair is expressing what appears to be a common 
+sentiment among regulators. Bifurcating these two regulatory 
+objectives will actually weaken protection for consumers, from 
+the standpoint of a number of people who have looked at this.
+    And I know the argument that they are simply trying to 
+protect their regulatory turf. But when you listen to some of 
+the economists and others that look at the past experience with 
+bifurcating these two functions, there seems to be a point 
+here. And I wanted to ask you about that.
+    Secretary Geithner. Again, I want to do this carefully. I 
+think that they are right to raise that potential concern, and 
+I think I share that concern. And we would not be enthusiastic 
+about a proposal for reform that would create that risk.
+    But, again, we have had a lot of experience, as a country, 
+with combining those authorities together. And we have been 
+able to watch what happens when you put them together. And I 
+think what you saw is a system that didn't work. And I think it 
+is absolutely within our capacity and the committee's to find a 
+way to separate those without having us undermine the capacity 
+of bank supervisors to do safety and soundness.
+    Remember, bank supervisors have on-site supervision. They 
+can live in those institutions. There is no risk if you take 
+the consumer authority away from them that they are going to 
+have a more difficult job doing safety and soundness. And there 
+is no reason to believe that consumer protection would not, 
+frankly, be done better if you have clear accountability for 
+people whose job it is to worry about that.
+    Now, you can protect against the risk that you raise by 
+making sure, as we proposed, there is a board with some checks 
+and balances where supervisors are present. So if there is 
+conflict--and the chairman in his note proposes some other 
+things that I think are very helpful--that can be resolved.
+    Mr. Royce. I just look at the way in which--when we look at 
+the GSEs, Fannie Mae and Freddie Mac, I just look at the way in 
+which that bifurcation between the mission over at HUD and then 
+OFHEO, with safety and soundness, I just look at the goals that 
+were stressed at one end obviously in conflict with safety and 
+soundness, and all of the overleveraging that went on and the, 
+sort of, the mandates for the portfolio that half of it had to 
+be subprime in the portfolio or Alt-A loans. I look at that and 
+I see why the regulators are nervous. And that, also, is a 
+chapter that we have experience with.
+    But let me ask you another question, because I was going to 
+ask if you believe the perceived government safety net under 
+our financial system distorted market incentives and 
+contributed to the financial collapse, especially in the 
+housing boom and bust. Can the moral hazard from the perceived 
+safety net itself, in other words, have something to do with 
+the ballooning of the housing market?
+    I am thinking of Fannie and Freddie there. That could be a 
+contributor.
+    Secretary Geithner. Absolutely. And that is the central 
+risk in any system, in any reform proposal. And that is why we 
+need to make sure you can't ever again have institutions that 
+are allowed to operate with the expectation of government 
+support with no effective constraint on risk taking. That is 
+the lesson, in some ways, of the GSEs, but also of other parts 
+of the financial system.
+    Mr. Royce. Well, in 1999, about 27 percent of all of the 
+liabilities of firms in the U.S. financial sector were 
+explicitly guaranteed by the Federal Government. Another 18 
+percent enjoyed at least some implicit support. That is an 
+estimate of 45 percent back then. It is increasing today; the 
+moral hazard is increasing.
+    The Chairman. I am going to recognize myself and take my 5 
+minutes. I want to pick up on a couple of things here.
+    First of all, with regard to the regulators, I must say I 
+am struck by their newfound interest in consumer protection. I 
+have been on this committee since 1981. I have been the ranking 
+member or the chairman since 2003. I do not remember the FDIC, 
+the Federal Reserve, the Comptroller of the Currency, the OTS 
+ever, ever volunteering anything about consumer protection. I 
+guess it was the threat of absence made the heart grow fonder. 
+But their record of consumer protection is abysmal.
+    There was on the law books a requirement or an 
+authorization to the Comptroller of the Currency to prevent 
+unfair and deceptive practices, the UDAP. The Comptroller of 
+the Currency in 2002, 2003 was a Bill Clinton holdover--
+Comptroller, not partisan. He promulgated a very sweeping 
+preemption that killed a lot of consumer laws. The former Chair 
+of the Oversight Subcommittee, the Republican, Sue Kelly from 
+New York, was appalled by this. We asked him what he would put 
+in its place. Nothing. Because they hadn't used their authority 
+to promulgate the unfair and deceptive practices code.
+    The Federal Reserve--the gentleman from Illinois mentioned 
+it--they were given in 1994 authority to regulate mortgages. It 
+wasn't until after this committee acted that Mr. Bernanke began 
+to use the authority. Yes, the Federal Reserve has taken some 
+consumer actions--in every single case, after this committee 
+acted. They had the authority to promulgate that UDAP code. 
+Only after this committee passed a bill taking it away from 
+them and got it through the House, because they had never used 
+it, did they use it. It is simply not the case that they have 
+paid much attention to it.
+    It is also the case, I believe, that the GSE example does 
+not hold. The problem there was that the OFHEO was given too 
+little authority. I was skeptical of that argument at first. By 
+2005, I joined the Republican chairman of the committee, Mr. 
+Oxley, in trying to give them more authority.
+    I agree it was a mistake when there was, first in the 
+Clinton Administration and then in the Bush Administration, the 
+serious ratcheting up of the mandate to sell houses to people 
+who shouldn't have bought them. And I objected to it at the 
+time.
+    But let's get back to the regulators. It is turf. They 
+never cared about consumer affairs. And I will now ask--and I 
+will follow this up--I am going to ask every one of those 
+regulators to give me the list of their consumer affairs 
+activity.
+    We had an Assistant General Counsel, the Deputy General 
+Counsel of the Fed testify--the Minority asked that he 
+testify--against transferring their consumer authority. I asked 
+him--he said he had gone to the Board, it was under his 
+jurisdiction--how much discussion there had been at those 
+meetings. He said none.
+    There was one Fed Governor, Ned Gramlich, who cared about 
+consumer affairs. He was roundly ignored, as he acknowledged, 
+and they wouldn't do anything about it. So let's be clear.
+    Now, it is not that they are bad people. It is, in fact, 
+safety and soundness is their main concern. They regard 
+consumer affairs as a kind of a nuisance.
+    And I do not think that there is anything inherently wrong 
+with the consumer statutes, but we also, as the Secretary said, 
+will have mechanisms so that if the regulators think safety and 
+soundness is being interfered with, if they think that not 
+jacking up people's credit card rates unfairly is somehow going 
+to keep the bank from failing--maybe if that is the only way a 
+bank can stay in business, it ought to fail--but that will be 
+where we are.
+    So I want to be very clear that this--I am now going to be 
+asking the regulators, I will follow this up, I would like them 
+to submit to me their record in consumer protection. It is not 
+very impressive.
+    Now, Mr. Secretary, I will ask you one question. 
+Internationally, you mentioned, with regard to the question 
+from Mr. Meeks, the IMF issue. One of the legitimate concerns 
+we have had from the businesses here is that they will be at a 
+competitive disadvantage if we are tough and others are not.
+    I do know, when I became the chairman-in-waiting of this 
+committee in 2006, I was told that we had to repeal Sarbanes-
+Oxley or there would never be an IPO ever again in America, and 
+they would all flee to the light-touch regulation of the 
+Financial Services Authority, the head of which has 
+subsequently said the era of light-touch regulation is over.
+    What are the assurances we can give American financial 
+institutions they will not be put at competitive disadvantages 
+if we were to adopt our rules?
+    Secretary Geithner. We are going to negotiate an 
+international agreement on a set of standards that apply a 
+level playing field, that people can understand, that can be 
+enforced. And we are going to do that so that U.S. firms are 
+not put in the position where their competitors will be able to 
+profit from being able to operate with lower standards. That is 
+a--
+    The Chairman. Will we be able to take some action if we 
+find others trying somehow to undercut us?
+    Secretary Geithner. I think that is an important thing to 
+do. But I think the important thing--my basic feeling is the 
+strategy is, you get them to commit to this standard; you ask 
+them to put it in regulation and enforce it for their firms. 
+And it is pretty black and white if they are meeting it or not. 
+That is the basic strategy to do it.
+    And we have laid out a very detailed proposal with a 
+timeframe for putting it in place so that we can all move 
+together.
+    The Chairman. Thank you.
+    Mr. Secretary, we are going to try and wrap this up to get 
+you out of here by noon.
+    Mr. Marchant?
+    Mr. Marchant. Thank you, Mr. Chairman.
+    Mr. Secretary, I would like to go and talk about Lehman 
+Brothers for a minute. In the Lehman Brothers case, it was not 
+the amount of leverage that they had, but it was the fact that 
+they were funding that leverage with overnight funds. I think 
+it probably was the case with Bear Stearns, as well.
+    As a result of that, you had the money market accounts went 
+bust. And while a decision was made that there was no systemic 
+risk--I guess that decision was made--and there would be no 
+intervention on the part of Lehman Brothers, there was 
+subsequently an intervention to guarantee the buck, basically, 
+on money market accounts. And since that, basically, money 
+market accounts have not been the preferred vehicle of 
+investment by Americans.
+    Is there anything in this regulation that would have 
+regulated, not the percentage of leverage with Lehman, but the 
+fact that Lehman and most of these guys were keeping major 
+parts of their portfolio in their capital portfolio, these 
+mortgage-backed securities, and then holding 30-year maturity 
+instruments and funding them with overnight funds? Is there 
+something that will regulate that? Who would be the regulator? 
+And do you see that as--I mean, to me, that was the systemic 
+risk involved.
+    Secretary Geithner. I think you are exactly right, that it 
+is not just the scale of leverage but the extent to which we 
+are reliant on very short-term funding that can flee in a 
+heartbeat. And that is what brought the system crashing down.
+    And so, when we use the word ``capital,'' more conservative 
+capital requirements, we are using it as a shorthand for longer 
+funding requirements, more stable funding requirements, 
+stronger liquidity cushions against losses to reduce that basic 
+maturity mismatch, which is what creates the vulnerability to a 
+run.
+    So you are absolutely right about the diagnosis. And we are 
+just using a shorthand when we say more conservative capital 
+requirements.
+    Mr. Marchant. So who will be the regulator?
+    Secretary Geithner. Oh, I am sorry. We are proposing, 
+again, for the large, complex institutions that those 
+requirements are set and enforced by the Federal Reserve, which 
+is quite close to the system today, now that investment banks 
+are bank holding companies. But we want to make sure that is 
+absolutely clear, so there is more accountability. But the 
+rules need to be more conservative and better designed to 
+reduce that run risk.
+    Mr. Marchant. So that there will be consideration given 
+to--in all financial institutions, the consideration given to 
+the source of the leverage?
+    Secretary Geithner. Exactly. How you are funded is as 
+important to how much risk you take. In fact, they are totally 
+and completely related. And it is this mismatch between very 
+short-term liabilities that can run and long-term assets that 
+are liquid that allow the risk in them that creates the 
+inherent vulnerability to crisis.
+    So you need to both constrain leverage and make sure there 
+is more conservative funding.
+    Mr. Marchant. In the future, do you see--well, do you see 
+in the system now--there is this continual mismatch. Has this 
+corrected itself?
+    Secretary Geithner. Well, again, banks operate with that 
+mismatch. What they do is they take deposits and they lend them 
+to people who need to buy a home or a business who wants to 
+finance investment. That is inherent in any well-functioning 
+financial system. But what you need do is to make sure that, 
+again, you constrain leverage so that there is enough capital 
+against risk and that there is as stable a funding base as you 
+can achieve.
+    And what we did not do well as a country is that there were 
+large institutions, very important, very complicated, very 
+risky, that didn't have effective constraints on leverage and, 
+as you said quite correctly, were allowed to fund themselves 
+overnight with very, very high vulnerability to a run in a 
+panic.
+    And so, you need to make sure that both the capital 
+requirements and the liquidity requirements, margin, etc., are 
+applied to that set of institutions who present those kind of 
+risks. If you don't do that, we will be in this mess again.
+    Mr. Marchant. And my last question will be, if you require 
+in this new regulation that there be a retained portion of the 
+portfolio retained by the institution, if you do not put rules 
+with that retained asset, then you will end up forcing them to 
+have this mismatch.
+    The Chairman. The gentleman's time has expired. If he can 
+respond in writing to the gentleman's question.
+    And next, the gentlewoman from New York, I believe. Oh, no, 
+I am sorry, you got flipped, so it is the gentleman from Texas.
+    Mr. Hinojosa. Thank you, Mr. Chairman.
+    Thank you, Mr. Secretary, for coming to visit with our 
+committee.
+    Assistant Secretary Barr requested a meeting with me to 
+discuss some of the concerns that I had on this legislation we 
+are discussing, and we recently met in my office. During that 
+conversation, I expressed my concern about the negative impact 
+the CFPA, as recommended by the Department of the Treasury, 
+could have on the local economies across the country. In 
+particular, I said, we were concerned about the impact that 
+this was going to have on the community banks, credit banks, 
+and regional banks that played no role in the global financial 
+meltdown.
+    According to him--or, rather, according to the Secretary 
+for Financial Institutions, the Treasury wants a level playing 
+field. He wants all financial institutions to be examined and 
+enforced by the CFPA.
+    And I disagree. I think that the community banks and credit 
+unions and regional banks should be exempted from that CFPA 
+umbrella. They didn't cause the problem; they did not create 
+the financial crisis. In fact, as I and many of my colleagues 
+here on this committee believe, community banks and credit 
+unions provided some liquidity to local markets at a time when 
+the large banks and the nonbanks had frozen the market 
+liquidity.
+    Thus, Mr. Secretary, why should they be punished for 
+actions of others?
+    Secretary Geithner. They shouldn't be. And I agree with you 
+that one of the great strengths of our country is we have a 
+system with 9,000 banks, including thousands and thousands of 
+community banks that, as you said, were not part of the problem 
+and are playing a very important role in providing credit. We 
+need to preserve that.
+    But we have to make sure that, again, we are protecting 
+them from the risk that competitors who are not subject to any 
+regulation can take business away from them, and they are 
+forced to try to compete with them by lowering standards, 
+engaging in the same practices. That is why you need a more 
+level playing field more broadly applied.
+    But you are raising, of course, understandable concerns 
+about this. We are very sensitive to those, too. And we would 
+be happy to work with you and your colleagues to figure out how 
+to get that balance right.
+    Mr. Hinojosa. I appreciate that.
+    Also, I have worked in conjunction with Congresswoman Judy 
+Biggert on financial literacy over the years and hope a 
+provision on financial literacy will be incorporated into the 
+bill.
+    Mr. Secretary, will you support our literacy provisions 
+being included?
+    Secretary Geithner. Can I take and make sure that I talk to 
+my colleagues to take a careful look at them before I commit? I 
+would be happy to get back to you.
+    Mr. Hinojosa. Absolutely. And we will be glad to work with 
+you to make sure that it is in a way that is going to help our 
+consumers. Because I represent an area in deep south Texas 
+that, had they had that financial literacy education, I think 
+they would have refrained from signing so many predatory 
+contracts and loans.
+    Secretary Geithner. I could not agree with you more. We 
+need to make sure that public education in this country does a 
+better job of equipping people, as they go through school, with 
+some basic understanding of finance and economics. And I 
+completely agree with the emphasis you are giving to us doing a 
+better job of financial education and financial literacy.
+    Mr. Hinojosa. We are trying to do the same on the Education 
+Committee by requiring it for families wanting student loans to 
+be able to better understand their choices and make better 
+choices, thus saving the family a big cost.
+    With that, Mr. Chairman, I yield back.
+    The Chairman. The gentleman from Minnesota.
+    Mr. Paulsen. Thank you, Mr. Chairman.
+    Thank you, Mr. Secretary.
+    An area of fertile discussion has been the area of risk 
+management. And most firms understand the risks that they run, 
+but they don't often have the strength or the will or the 
+foresight to say no. The competitive dynamic among firms 
+creates the situation. And this is where a regulator with an 
+eye towards aggregate risk in the system would be most 
+beneficial, I think we could agree.
+    How do you intend to have the regulator calibrate that 
+aggregate risk so that the benefits of competition that accrue 
+to society will be able to go forward, as opposed to creating 
+another disaster or go too much in the opposite direction where 
+it is going to really burden innovation?
+    Secretary Geithner. I think it is a very difficult, 
+complicated task. And I do think it is important to recognize 
+that we can't have a system that relies on the wise exercise of 
+discretionary judgment by supervisors, because they will never 
+be able to fully understand soon enough where those sources of 
+risks are coming from. And that is why we put so much emphasis 
+on trying to make sure that firms run with bigger cushions 
+against the uncertainty we all live with.
+    I think that is the only effective defense against this. 
+And it is why--well, you can look at this in highway safety, 
+all sorts of other examples of regulation where you need to 
+have at the underpinning of stability some basic protections 
+that are easily enforceable. Again, basically force firms to 
+hold more cushion, resources, rainy-day funds against the 
+losses they might face in an uncertain future.
+    But that future will be uncertain. You don't know where the 
+source of risk is going to come from. And you can have risk 
+management, all sorts of fancy, sophisticated risk management, 
+but if you get that basic judgment wrong about how much and you 
+are left with inadequate resources against losses, then you 
+will have a more risky system.
+    Mr. Paulsen. Okay.
+    Mr. Secretary, I will switch gears a little bit. What is 
+the nature of the guarantee right now that the Federal 
+Government is providing for toxic assets? We have had 
+discussion about that. Are there any private-sector solutions 
+that are less costly? Is your office receptive to having 
+private-sector solutions from parties outside of the government 
+come forward? And which ones might have the most merit?
+    Secretary Geithner. Of course. Of course. And, again, we 
+have been very transparent about the detailed financial terms 
+of these funds we proposed to use to bring private capital in 
+alongside the government so people can look at the economics of 
+that. But, of course, we are open to any suggestions on this 
+stuff.
+    And, ultimately, of course, this only works if you get the 
+private market to come back. And you need investors to start to 
+take risk on their own if you are going to see these markets 
+start to heal and improve again.
+    Mr. Paulsen. And let me ask this, Mr. Secretary. The 
+Federal Reserve, in particular, has made so many dollars 
+available right now that we have seen the devaluation of the 
+dollar. And you have talked about our relationship with China 
+and with foreign countries in the past.
+    But the market is kind of telling us right now, at least 
+with the trade-weighted dollar that is out there right now, 
+that there is concern about the Fed creating too much money in 
+the system and the Treasury overspending. You know, the dollar 
+is telling us we are not providing that much restraint.
+    I mean, shouldn't that be part of the feedback loop that we 
+have right now, kind of watching that? Do you have concerns 
+about that? The Fed kind of being the parent and the Treasury 
+Department overspending? In other words, do you think there is 
+a chance that we might be stimulating the economy too much in 
+the short term?
+    Secretary Geithner. We can't take that risk. And I don't 
+think that is a risk now we face. I mean, we have an 
+independent Federal Reserve whose job is to make sure that we 
+keep prices low and stable over time, growth sustainable. And 
+they are committed to doing that. They have an exceptionally 
+good record of doing that over time because they are 
+independent.
+    But, as a country, on the fiscal side, we are going to have 
+to go back to living within our means to bring these deficits 
+down. But our big risk still at the moment is that we make sure 
+we have a recovery under way that is led by private demand. And 
+we want that to be strong enough and sustainable before we step 
+on the brakes.
+    Again, you know, the big lesson of the United States in the 
+1930's and Japan in the 1990's, countries throughout history, 
+was to move too quickly out of the hope it was all going to be 
+okay, and put on the brakes in a way that deepened the 
+recession, raised the ultimate costs of recovery. We need to 
+make sure we avoid that risk.
+    But you are absolutely right to emphasize the importance, 
+and no one feels more strongly about it than I do, about the 
+importance that we go back to living within our means and that 
+we walk back these exceptional measures necessary to fix the 
+crisis as quickly as possible.
+    And if you look at what we have done, you are already 
+seeing dramatic reduction in the amount of support the 
+government is providing to the financial system as we, you 
+know, see things starting to improve.
+    Mr. Paulsen. Thank you, Mr. Chairman. I yield back.
+    The Chairman. The gentleman from Missouri.
+    Mr. Clay. Thank you, Mr. Chairman.
+    Very quickly, Mr. Secretary, welcome back. And perhaps the 
+most interesting aspect of the economic data pointing to a 
+modest recovery is that it ignores the fact that foreclosures, 
+the problem that imploded the financial markets and the economy 
+in the first place, continue to rise.
+    Already, this year, more than 1.5 million families 
+experienced foreclosure in the first 6 months. Just in the 
+month of August, a total of 358,000 properties went into 
+default or foreclosure. Although the pace of new foreclosures 
+slowed between July and August, this rate is up 18 percent year 
+over year.
+    Does Treasury adequately address the entire issue of 
+foreclosure and what started our financial crisis in your 
+proposals?
+    Secretary Geithner. Congressman, we do not have the ability 
+to prevent all foreclosures. It is just not a realistic 
+objective for us.
+    But we are making a lot of progress and bringing more 
+stability to the housing market and making sure that people are 
+allowed to take advantage of a loan-modification program that 
+reduces their monthly payments to a more affordable level. And 
+we expect, within the next several weeks, to be in a position 
+where half a million households are benefitting from 
+modifications that substantially reduce their monthly payments.
+    You are already seeing, of course, interest rates of 
+mortgages at historic lows. Housing is more affordable today. 
+There is a little bit more stability in housing values now. And 
+people are able to refinance their mortgages even if they are 
+underwater. And those things are helping together.
+    But you are right to emphasize the fact that there are 
+still a lot of people in this country who are facing the risk 
+of foreclosure. And we are going to reduce that risk, but it is 
+still with us. It is one of the reasons why we don't want to 
+leave people any illusion that we are through the worst of this 
+crisis and it is time now to dial back and wind down those 
+programs.
+    Mr. Clay. Would Treasury have an interest in private 
+investors creating market instruments, for example like real 
+estate trust investments, to which the government attaches a 
+Federal guarantee, in order to encourage banks to remove toxic 
+assets off their balance sheets?
+    Secretary Geithner. Well, again, we are pragmatic people. 
+We are open to anything that we think will work. And I would be 
+happy to look at any proposal. We look at a range of proposals 
+all the time. But I think I would be very reluctant to--well, 
+let me say it differently.
+    We want to make sure we are not exposing the taxpayer to 
+losses they shouldn't have to bear by subsidizing a bunch of 
+new activity in this area. And we need to figure out ways to do 
+these things at the least cost to the taxpayer and that are 
+going to have the most impact on credit flows.
+    But I would be happy to look at any proposal, though.
+    Mr. Clay. And I do understand the reason for caution here.
+    And I will yield back.
+    The Chairman. Thank you. We will just finish with Mr. 
+Lance. And Mr. Baca has one request he will make.
+    So, Mr. Lance, you will be the last questioner.
+    Mr. Lance. Thank you very much, Mr. Chairman.
+    Good morning, Mr. Secretary.
+    The books close a week from today on the fiscal year. As I 
+understand it, the deficit will be this year $1.6 trillion. 
+What is your current estimate, Mr. Secretary, regarding next 
+year?
+    Secretary Geithner. Congressman, in the mid-session review 
+that OMB put out in August, there are revised assessments of 
+the Executive Branch about the deficit. I don't have those 
+numbers before me, but I would be happy to make sure you get 
+that.
+    But the government, of course, the way the system works, 
+will provide another estimate of that in the President's budget 
+submission for the 2011 fiscal year in, I believe, January or 
+February.
+    Mr. Lance. I certainly hope that we are we moving in the 
+direction of trying to lower that, since, as I understand it, 
+this is the highest annual deficit as a percentage of GDP since 
+1945.
+    Secretary Geithner. And we agree with you, we are going to 
+have to bring that down over time.
+    Mr. Lance. Yes. Well, thank you.
+    As I understand it, the GAO said last week that if AIG 
+misses its fourth equity dividend payment due on November 1st, 
+you have the authority to appoint directly at least two members 
+of the AIG board of directors.
+    Have you begun examining that possibility yet?
+    Secretary Geithner. The AIG board--we have seen a 
+substantial transformation and, I think, strengthening of the 
+board of AIG already. And, as you know, there is a new 
+management team now in place helping to get this institution 
+back in a position where we get our money back.
+    Mr. Lance. Thank you. But, as I understand it, you will 
+have the ability to appoint new board members if the payment is 
+not made. So I would hope that you would examine that situation 
+by the 1st of November.
+    Number three, regarding the tariff situation on Chinese 
+tires, your opinion, sir?
+    Secretary Geithner. My opinion?
+    Mr. Lance. Yes.
+    Secretary Geithner. Oh. Well, the President acted to 
+enforce the basic rules established not just by the United 
+States but internationally, as part of Chinese accession to the 
+WTO. And, you know, for our system to work, people have to have 
+confidence that the rules that are there will be enforced.
+    Now, of course, we are completely committed to making sure 
+that we preserve an open trading system. As a country, we have 
+a huge stake in making sure that markets overseas are open to 
+U.S. exports and products. And we are working very hard to find 
+ways to expand those opportunities for American exporters.
+    Mr. Lance. And, finally, and I know you have addressed this 
+before, but I am still concerned regarding how the Tier 1 
+companies will work. And if they are not announced publicly and 
+yet there are higher capital standards, then that will 
+obviously be recognized by the market. It seems to me that you 
+are sort of between a rock and a hard place if you don't 
+announce what companies are in Tier 1, and yet you have the 
+higher capital standards.
+    If you could elucidate us further on that. It is a very 
+complicated topic. I know you have addressed it this morning, 
+but any further comments you might have on it, Mr. Secretary.
+    Secretary Geithner. You can't have a fixed list. It is 
+going to have to evolve over time. It is going to require a 
+careful judgment of who poses the most risk to the system. But 
+the most important thing, I think, as you said, is they need to 
+live under appropriately conservative constraints on leverage. 
+And they are going to have to know what those constraints are.
+    Mr. Lance. Thank you, Mr. Secretary.
+    I yield back the balance of my time, Mr. Chairman.
+    The Chairman. Mr. Secretary, thank you for the time. But 
+the gentleman from California had an important point. I 
+recognize him for a minute.
+    Mr. Baca. Thank you very much, Mr. Chairman.
+    Mr. Secretary, the regulatory plan proposes moving all 
+standardized derivatives to some sort of clearing process to 
+help bring more transparency and understanding to the market. 
+When Chairman Gensler came before us in July, he said that 
+initially he would envision it being four to five 
+clearinghouses competing with one another.
+    My question concerns this competition. Wouldn't this 
+situation create the same conflict of interest that exists with 
+credit-rating agencies, in that they would be funded by the 
+same institutions whose products they would be reviewing?
+    And my question is, are you concerned about the potential 
+problem? And what kind of oversight do you envision in working 
+to prevent against this?
+    As the chairman indicated before, it wasn't until 2003 that 
+we began to have the oversight and accountability, especially 
+as it pertains to capitalism and deregulation.
+    The Chairman. If we could, let's get to the answer. I think 
+the question has been well put.
+    Mr. Secretary?
+    Secretary Geithner. Again, it is very important that the 
+SEC and the CFTC have the authority to make sure that central 
+counterparties operate with enough resources to protect 
+themselves against the risk in central clearing. And there 
+needs to be a level playing field evenly enforced. That is the 
+only protection against the risk that competition erodes those 
+standards, leaving with us a more risky system.
+    The Chairman. Thank you, Mr. Secretary. I think if you 
+could elaborate on that in writing, it would be--and I guess 
+the concern would be, would they compete by offering, sort of, 
+lower margin requirements? And is there some way to prevent 
+that from happening?
+    I thank the Secretary.
+    We will reconvene at 2:00 p.m. I will say for people on the 
+Democratic side, we will begin in the questioning at the 
+seniority level where we left off. On the Republican side, I am 
+told because everyone who was here was able to question, they 
+will start again. But we will begin in the middle of our second 
+row.
+    The hearing is adjourned.
+    [Whereupon, at 12:04 p.m., the hearing was adjourned.]
+
+
+                            A P P E N D I X
+
+
+
+                           September 23, 2009
+
+
+[GRAPHIC] [TIFF OMITTED] T4867.001
+
+[GRAPHIC] [TIFF OMITTED] T4867.002
+
+[GRAPHIC] [TIFF OMITTED] T4867.003
+
+[GRAPHIC] [TIFF OMITTED] T4867.004
+
+[GRAPHIC] [TIFF OMITTED] T4867.005
+
+[GRAPHIC] [TIFF OMITTED] T4867.006
+
+[GRAPHIC] [TIFF OMITTED] T4867.007
+
+[GRAPHIC] [TIFF OMITTED] T4867.008
+
+[GRAPHIC] [TIFF OMITTED] T4867.009
+
+[GRAPHIC] [TIFF OMITTED] T4867.010
+
+[GRAPHIC] [TIFF OMITTED] T4867.011
+
+[GRAPHIC] [TIFF OMITTED] T4867.012
+
+[GRAPHIC] [TIFF OMITTED] T4867.013
+
+[GRAPHIC] [TIFF OMITTED] T4867.014
+
+[GRAPHIC] [TIFF OMITTED] T4867.015
+
+[GRAPHIC] [TIFF OMITTED] T4867.016
+
+[GRAPHIC] [TIFF OMITTED] T4867.017
+
+[GRAPHIC] [TIFF OMITTED] T4867.018
+
+[GRAPHIC] [TIFF OMITTED] T4867.019
+
+[GRAPHIC] [TIFF OMITTED] T4867.020
+
+[GRAPHIC] [TIFF OMITTED] T4867.021
+
+[GRAPHIC] [TIFF OMITTED] T4867.022
+
+[GRAPHIC] [TIFF OMITTED] T4867.023
+
+[GRAPHIC] [TIFF OMITTED] T4867.024
+
+[GRAPHIC] [TIFF OMITTED] T4867.025
+
+[GRAPHIC] [TIFF OMITTED] T4867.026
+
+[GRAPHIC] [TIFF OMITTED] T4867.027
+
+[GRAPHIC] [TIFF OMITTED] T4867.028
+
+[GRAPHIC] [TIFF OMITTED] T4867.029
+
+[GRAPHIC] [TIFF OMITTED] T4867.030
+
+[GRAPHIC] [TIFF OMITTED] T4867.031
+
+[GRAPHIC] [TIFF OMITTED] T4867.032
+
+[GRAPHIC] [TIFF OMITTED] T4867.033
+
+[GRAPHIC] [TIFF OMITTED] T4867.034
+
+
+</pre></body></html>

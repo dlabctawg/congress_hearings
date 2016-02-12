@@ -1,0 +1,2407 @@
+<html>
+<title> - EXAMINING HOW TECHNOLOGY CAN PROMOTE CONSUMER FINANCIAL LITERACY</title>
+<body><pre>
+[House Hearing, 113 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+                  EXAMINING HOW TECHNOLOGY CAN PROMOTE
+
+                      CONSUMER FINANCIAL LITERACY
+=======================================================================
+
+
+                                HEARING
+
+                               BEFORE THE
+
+                 SUBCOMMITTEE ON FINANCIAL INSTITUTIONS
+
+                          AND CONSUMER CREDIT
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             APRIL 30, 2014
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 113-76
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+88-538                    WASHINGTON : 2014
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                    JEB HENSARLING, Texas, Chairman
+
+GARY G. MILLER, California, Vice     MAXINE WATERS, California, Ranking 
+    Chairman                             Member
+SPENCER BACHUS, Alabama, Chairman    CAROLYN B. MALONEY, New York
+    Emeritus                         NYDIA M. VELAZQUEZ, New York
+PETER T. KING, New York              BRAD SHERMAN, California
+EDWARD R. ROYCE, California          GREGORY W. MEEKS, New York
+FRANK D. LUCAS, Oklahoma             MICHAEL E. CAPUANO, Massachusetts
+SHELLEY MOORE CAPITO, West Virginia  RUBEN HINOJOSA, Texas
+SCOTT GARRETT, New Jersey            WM. LACY CLAY, Missouri
+RANDY NEUGEBAUER, Texas              CAROLYN McCARTHY, New York
+PATRICK T. McHENRY, North Carolina   STEPHEN F. LYNCH, Massachusetts
+JOHN CAMPBELL, California            DAVID SCOTT, Georgia
+MICHELE BACHMANN, Minnesota          AL GREEN, Texas
+KEVIN McCARTHY, California           EMANUEL CLEAVER, Missouri
+STEVAN PEARCE, New Mexico            GWEN MOORE, Wisconsin
+BILL POSEY, Florida                  KEITH ELLISON, Minnesota
+MICHAEL G. FITZPATRICK,              ED PERLMUTTER, Colorado
+    Pennsylvania                     JAMES A. HIMES, Connecticut
+LYNN A. WESTMORELAND, Georgia        GARY C. PETERS, Michigan
+BLAINE LUETKEMEYER, Missouri         JOHN C. CARNEY, Jr., Delaware
+BILL HUIZENGA, Michigan              TERRI A. SEWELL, Alabama
+SEAN P. DUFFY, Wisconsin             BILL FOSTER, Illinois
+ROBERT HURT, Virginia                DANIEL T. KILDEE, Michigan
+STEVE STIVERS, Ohio                  PATRICK MURPHY, Florida
+STEPHEN LEE FINCHER, Tennessee       JOHN K. DELANEY, Maryland
+MARLIN A. STUTZMAN, Indiana          KYRSTEN SINEMA, Arizona
+MICK MULVANEY, South Carolina        JOYCE BEATTY, Ohio
+RANDY HULTGREN, Illinois             DENNY HECK, Washington
+DENNIS A. ROSS, Florida
+ROBERT PITTENGER, North Carolina
+ANN WAGNER, Missouri
+ANDY BARR, Kentucky
+TOM COTTON, Arkansas
+KEITH J. ROTHFUS, Pennsylvania
+
+                     Shannon McGahn, Staff Director
+                    James H. Clinger, Chief Counsel
+       Subcommittee on Financial Institutions and Consumer Credit
+
+             SHELLEY MOORE CAPITO, West Virginia, Chairman
+
+SEAN P. DUFFY, Wisconsin, Vice       GREGORY W. MEEKS, New York, 
+    Chairman                             Ranking Member
+SPENCER BACHUS, Alabama              CAROLYN B. MALONEY, New York
+GARY G. MILLER, California           RUBEN HINOJOSA, Texas
+PATRICK T. McHENRY, North Carolina   CAROLYN McCARTHY, New York
+JOHN CAMPBELL, California            DAVID SCOTT, Georgia
+KEVIN McCARTHY, California           AL GREEN, Texas
+STEVAN PEARCE, New Mexico            KEITH ELLISON, Minnesota
+BILL POSEY, Florida                  NYDIA M. VELAZQUEZ, New York
+MICHAEL G. FITZPATRICK,              STEPHEN F. LYNCH, Massachusetts
+    Pennsylvania                     MICHAEL E. CAPUANO, Massachusetts
+LYNN A. WESTMORELAND, Georgia        PATRICK MURPHY, Florida
+BLAINE LUETKEMEYER, Missouri         JOHN K. DELANEY, Maryland
+MARLIN A. STUTZMAN, Indiana          DENNY HECK, Washington
+ROBERT PITTENGER, North Carolina
+ANDY BARR, Kentucky
+TOM COTTON, Arkansas
+KEITH J. ROTHFUS, Pennsylvania
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    April 30, 2014...............................................     1
+Appendix:
+    April 30, 2014...............................................    41
+
+                               WITNESSES
+                       Wednesday, April 30, 2014
+
+Cackley, Alicia Puente, Director, Financial Markets and Community 
+  Investment, U.S. Government Accountability Office..............     5
+Kehoe, Stephen, Senior Vice President and Head of Global 
+  Financial Inclusion, Visa Inc..................................     9
+Krajicek, Gabriel, Chief Executive Officer, BancVue..............     7
+Lamb, Sabrina, Founding CEO, WorldofMoney.org....................    13
+Saik, Barry, Senior Vice President and General Manager, Consumer 
+  Ecosystem Group, Intuit........................................    11
+
+                                APPENDIX
+
+Prepared statements:
+    Duffy, Hon. Sean.............................................    42
+    Cackley, Alicia Puente.......................................    44
+    Kehoe, Stephen...............................................    60
+    Krajicek, Gabriel............................................    68
+    Lamb, Sabrina................................................    77
+    Saik, Barry..................................................    80
+
+              Additional Material Submitted for the Record
+
+Capito, Hon. Shelley Moore:
+    Written statement of the Center for American Racial Equality 
+      (CARE).....................................................    85
+    Joint written statement of the Credit Union National 
+      Association (CUNA) and the National Credit Union Foundation 
+      (NCUF).....................................................    86
+    Written statement of the Property Casualty Insurers 
+      Association of America (PCI)...............................    89
+Ellison, Hon. Keith:
+    Written responses to questions submitted to Alicia Puente 
+      Cackley....................................................    94
+    Written responses to questions submitted to Stephen Kehoe....    96
+    Written responses to questions submitted to Gabriel Krajicek.    97
+Stivers, Hon. Steve:
+    USA Today article entitled, ``Financial literacy education 
+      has lasting impact,'' dated April 8, 2014..................    98
+
+
+                        EXAMINING HOW TECHNOLOGY
+
+                          CAN PROMOTE CONSUMER
+
+
+
+                           FINANCIAL LITERACY
+
+                              ----------                              
+
+
+                       Wednesday, April 30, 2014
+
+             U.S. House of Representatives,
+             Subcommittee on Financial Institutions
+                               and Consumer Credit,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 10:02 a.m., in 
+room 2128, Rayburn House Office Building, Hon. Shelley Moore 
+Capito [chairwoman of the subcommittee] presiding.
+    Members present: Representatives Capito, McHenry, Pearce, 
+Posey, Luetkemeyer, Stutzman, Pittenger, Barr, Cotton; Meeks, 
+Maloney, Hinojosa, McCarthy of New York, Scott, Green, Ellison, 
+and Heck.
+    Ex officio present: Representative Hensarling.
+    Also present: Representative Stivers.
+    Chairwoman Capito. The Subcommittee on Financial 
+Institutions and Consumer Credit will come to order. Without 
+objection, the Chair is authorized to declare a recess of the 
+subcommittee at any time.
+    I now recognize myself for the purpose of making an opening 
+statement.
+    One of the most important skills that a child can learn is 
+how to properly manage their personal finances. Earlier this 
+month, I had the privilege of visiting with high school 
+students, business and economics students in Ripley, West 
+Virginia. And then, I visited a third-grade class in Dunbar, 
+West Virginia. We discussed the importance of making sound 
+financial decisions, including the importance of 
+differentiating wants from needs.
+    These visits were a wonderful opportunity for me to better 
+understand the challenges facing these students. I must admit, 
+when I was watching the PowerPoint and listening to some of the 
+hints on good personal financial management, there were a few 
+violations I am doing myself, so we can all learn how to do 
+better.
+    Although financial literacy efforts are often focused on 
+students, learning the life skills of financial management 
+continues throughout adulthood. This morning's hearing will 
+serve as an opportunity for Members to learn more about the 
+Federal Government's financial literacy efforts and how they 
+compare to new and innovative private sector solutions to 
+promote greater financial literacy among students and adults 
+alike.
+    In 2012, the GAO released a report that provided an 
+overview of the Federal Government's activities and programs to 
+promote financial literacy. They found 13 different programs 
+offered by 13 different agencies, which spent about $31 million 
+a year on financial literacy efforts in the year 2010.
+    The report also found that there was significant overlap 
+among the agencies, and recommended consolidation of the 
+government's efforts to promote financial literacy. 
+Furthermore, the GAO found that there was no mechanism to 
+evaluate the effectiveness of these programs.
+    If we are going to be devoting Federal resources to 
+financial literacy programs, we must ensure these dollars are 
+invested properly and effectively, and I look forward to 
+hearing from the GAO this morning about additional measures 
+that we can take to ensure these goals are met.
+    The rest of this morning's panel will update Members on 
+private sector efforts to promote financial literacy through 
+technology-based programs. We will hear from three different 
+private sector entities that have developed Web-based and 
+mobile-based platforms for consumers to gain a better 
+understanding of financial management. These tools, readily 
+available to anyone with a mobile phone or a computer, are 
+helping consumers gain a better understanding of personal 
+finance, thus helping them make better financial decisions.
+    Moving toward Web-based and mobile-based platforms to 
+deliver financial literacy skills is essential as consumers 
+become more reliant on mobile phones and smartphones. A recent 
+Federal Reserve survey found that 87 percent of adults used a 
+mobile phone, and of that population, 61 percent used 
+smartphones.
+    The same survey also found that consumers are becoming more 
+comfortable with accessing financial services and payments 
+through their mobile device. Again, I would put myself in that 
+category. I am inching into that realm myself and really seeing 
+the ease of use and the convenience and the accountability that 
+it provides.
+    As these trends continue, mobile apps can help consumers 
+gain a better understanding of their finances. Apps can be 
+updated to meet the evolving needs of consumers. As we will see 
+today, private sector entities are developing apps ranging from 
+educating children on the importance of saving to providing 
+adults with a complete picture of their personal finances.
+    I would like to thank each of our witnesses for joining us 
+here this morning, and for their efforts to provide consumers 
+with a better understanding of the impact of their financial 
+decisions.
+    I will now yield to the ranking member of the subcommittee, 
+Mr. Meeks, for an opening statement.
+    Mr. Meeks. Thank you, Madam Chairwoman. And I, too, am 
+still learning certain tools myself and moving on.
+    What I find is that by the time most children in this 
+country finish middle school, we have a great deal of 
+confidence that they are comfortable using computers and 
+smartphones and social media and that they are tech-savvy. By 
+the time they graduate from college, we have little confidence 
+that they are equipped with the basic financial skills and 
+understanding to make the most important financial decisions 
+they will face as responsible adults.
+    We often talk admirably about the new information age and 
+about how successful our Nation has been in coming up with 
+technological innovations that have improved the lives of 
+millions. Today, Americans hold in their smartphones more 
+computer capability than the most powerful supercomputers of 
+the 1960s and 1970s that occupied entire basements of Federal 
+buildings.
+    Today, we are able to communicate instantaneously, see our 
+pictures within seconds, and connect with family and friends 
+remotely from anywhere on the globe in a matter of seconds. And 
+today, we are able to trade in milliseconds and have market 
+efficiency and price updates in ways that we never imagined. As 
+technology has changed our way of living and our culture, our 
+youth, from very early ages, naturally learn and become tech-
+savvy.
+    But as much as we have seen transformational innovations in 
+the technological area, major evolutions have also occurred in 
+the financial markets. Our mortgage products are so much more 
+complicated. Our banks are offering and engaging in 
+increasingly more sophisticated transactions and operating in 
+much-evolved financial markets with more complex financial 
+products being offered to consumers every day, some of which 
+caused some of the confusion and the Great Recession that we 
+had and the banks falling down when we had the financial 
+crisis.
+    So unfortunately, unlike in the technological area, our 
+kids today are not keeping up with the innovations and added 
+complexities of the financial markets. We have a generation of 
+teenagers and young adults who are increasingly computer-
+literate and financially illiterate. As much as they know about 
+smartphones, and connecting on Facebook and Google, our kids 
+are increasingly clueless about how financial markets work, how 
+to manage their finances, and how to juggle the financial 
+responsibilities of owing debt.
+    In an economy and society where the biggest decisions that 
+we make for economic prosperity and financial stability depend 
+on making the right financial decisions, from investing in our 
+education to buying a home or saving for retirement, we clearly 
+need to do better to equip our youth with the proper skills 
+they need in financial literacy.
+    After all, how do you prepare for college when you don't 
+understand your student loan? How do you buy a home when you 
+don't understand the terms and obligation of your mortgage? And 
+how do you invest or save for retirement when you are clueless 
+about the financial tools and options at your disposal?
+    We must do better, and instead of just saying, ``Reading, 
+writing, and arithmetic,'' we should be saying, ``Reading, 
+writing, arithmetic, and financial literacy.'' I believe it 
+should also be part of the educational curriculum in every 
+school so that we can make sure they have the tools that they 
+need to be successful.
+    Thank you, Madam Chairwoman. I yield back, and I look 
+forward to hearing the testimony.
+    Chairwoman Capito. Thank you.
+    I recognize Mr. Pittenger for 2 minutes for an opening 
+statement.
+    Mr. Pittenger. Thank you, Madam Chairwoman, for yielding me 
+the time today to discuss technology that can promote consumer 
+financial literacy.
+    According to the Federal Reserve, nearly 90 percent of 
+American adults have a mobile phone. As access to mobile 
+technology increases, so does the ability to conduct financial 
+transactions and make more-informed financial decisions.
+    These devices can be used as a tool to help Americans 
+budget for the future and track their spending and savings 
+habits through resources like having immediate access to bank 
+account balances or depositing a check using a phone's camera. 
+At the same time, studies indicate that financial literacy in 
+the United States is at relatively low levels, making it 
+difficult for many Americans to take full advantage of these 
+payment systems.
+    While the Federal Government has devoted increased 
+resources to financial literacy initiatives in recent years, 
+its efforts have been marked by excessive duplication and lack 
+of coordination across agencies. The results of those efforts 
+have been mixed at best.
+    For the past several years, the U.S. Government 
+Accountability Office has examined the effectiveness and 
+efficiency of Federal financial literacy programs and found 
+that Congress and the Federal agencies have devoted more 
+resources to financial literacy, which has resulted in overlap 
+and duplication, but little evidence of improved financial 
+literacy among Americans. There was also a RAND Corporation 
+study back in 2009 entitled, ``Federal Financial and Economic 
+Literacy Education Programs'' which found that Federal 
+financial literacy activities are fragmented across multiple 
+agencies, with more than 20 different Federal agencies 
+providing over 50 programs related to financial literacy.
+    It is my hope that this hearing will shed light on how to 
+make the government far more efficient for the American 
+taxpayer, but also how innovations in mobile technology can 
+contribute to the financial literacy of Americans by empowering 
+them to make more informed decisions in their daily and long-
+term financial planning.
+    I yield back the balance of my time.
+    Chairwoman Capito. Thank you.
+    Mr. Green, for 2 minutes.
+    Mr. Green. Thank you, Madam Chairwoman.
+    I thank the ranking member, as well, and I would like to 
+associate myself with his comments.
+    I am honored to note that the Dodd-Frank Act established 
+the Office of Financial Education within the Consumer Financial 
+Protection Bureau (CFPB) to enhance financial literacy 
+education. And I believe that this Act and this portion of it 
+is going to be of great benefit to the American people.
+    My hope is that as we move forward, the funding issue will 
+become secondary, if not tertiary, to what we are trying to 
+accomplish. It is important to make sure agencies are properly 
+funded and it is important to make sure that funds are used 
+efficaciously. But it is also important to make sure that 
+agencies have the opportunity to fulfill their missions.
+    Currently, as was indicated, the phone is one means by 
+which persons can receive a good deal of information. I am 
+proud to say that I have a phone. I am hopefully going to move 
+to the latest technology; I still have a BlackBerry, but I am 
+blessed to have an iPad. Not everybody has an iPad, but most 
+people have a phone.
+    In fact, the Federal Reserve reported that 63 percent of 
+unbanked consumers have a mobile phone. And the indication is 
+that 91 percent of underbanked consumers have a mobile phone. 
+It appears to me that this technology can become the 
+methodology by which people can acquire a good deal of 
+intelligence.
+    I hope that we will be able to move forward such that we 
+can completely explore how this collaborative effort between 
+the CFPB and other agencies will be of great benefit to the 
+American people. This is a good piece of legislation that we 
+passed. We just now have to make sure that it works 
+effectively.
+    I yield back.
+    Chairwoman Capito. Thank you.
+    I think that concludes our opening statements, so I am 
+going to go to the panel.
+    And we welcome each of you. You are distinguished 
+witnesses.
+    Each of you will be recognized for 5 minutes to give an 
+oral presentation of your testimony. And without objection, 
+each of your written statements will be made a part of the 
+record.
+    I would ask each witness to pull the microphone as close to 
+you as you can so that we can hear you properly.
+    Our first witness is Ms. Alicia Cackley. She is the 
+Director of Financial Markets and Community Investment at the 
+U.S. Government Accountability Office.
+    Welcome.
+
+STATEMENT OF ALICIA PUENTE CACKLEY, DIRECTOR, FINANCIAL MARKETS 
+AND COMMUNITY INVESTMENT, U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Ms. Cackley. Thank you.
+    Chairwoman Capito, Ranking Member Meeks, and members of the 
+subcommittee, I am pleased to be here today to testify on the 
+important topic of financial literacy. In my statement today, I 
+will provide a brief review of Federal financial literacy 
+programs, activities, and agency roles, as well as a progress 
+update on recommendations we have made in this area in the past 
+several years.
+    In 2010, there were 16 significant Federal financial 
+literacy programs or activities spread among 14 agencies, as 
+well as 4 housing counseling programs spread among 3 Federal 
+entities. Since that time, at least 4 of these programs have 
+been discontinued or are no longer funded, and according to 
+Treasury and CFPB, no new Federal programs have been added.
+    With respect to agency roles, the CFPB became operational 
+in 2011 and has a primary role in addressing financial 
+literacy, with offices that offer specific help to certain 
+subpopulations such as servicemembers, older Americans, and 
+students.
+    In addition, the 22-member Financial Literacy and Education 
+Commission coordinates among other Federal agencies and between 
+Federal agencies and State, local, nonprofit, and private 
+entities. The Commission is also charged with developing a 
+national strategy for improving financial literacy and 
+proposing means of eliminating overlap and duplication among 
+Federal financial literacy activities.
+    Furthermore, since 2008, three Presidential advisory 
+councils related to financial literacy have been tasked with 
+creating partnerships among Federal, State, local, nonprofit, 
+and private entities.
+    In our reviews of Federal financial literacy efforts in 
+recent years, we have observed important improvements or 
+successes in four areas: coordination; partnerships; the CFPB's 
+role; and evaluation tools. And we have identified one major 
+area in which we believe significant work remains to be done: 
+determining the most effective and efficient allocation of 
+Federal resources.
+    In terms of the successes, overall, coordination on 
+financial literacy has improved in recent years, largely due to 
+the role of the Commission. The Commission has also built and 
+promoted partnerships among Federal and non-Federal sectors, 
+including academics, nonprofits, and other entities.
+    As we recommended, the CFPB has taken steps to delineate 
+and distinguish its role in Federal financial literacy efforts 
+from that of other Federal agencies, and the CFPB and the 
+Commission have taken steps to develop and disseminate a 
+standard set of evaluation tools or benchmarks to help assess 
+outcomes and effectiveness of financial literacy programs.
+    Turning to our most recent recommendations, however, we 
+continue to believe that further progress is needed in terms of 
+ensuring that the most effective and efficient allocation of 
+Federal literacy resources occurs. We noted in 2012 that the 
+creation of the CFPB signaled an opportunity for reconsidering 
+more broadly how Federal financial literacy efforts are 
+organized.
+    As a result, we recommended to Treasury and the CFPB that 
+the Commission identify for Federal agencies and Congress 
+options for consolidating Federal financial literacy efforts 
+into the agencies and activities that are best suited or most 
+effective. While Treasury and the CFPB both agreed with this 
+recommendation, it has not yet been implemented.
+    One natural vehicle for thinking strategically about how 
+best to allocate resources is through the Commission's national 
+strategy. We recommended that in revising its national 
+strategy, the Commission incorporate clear recommendations on 
+the allocation of Federal financial literacy resources across 
+programs and agencies. Again, Treasury and the CFPB agreed with 
+our recommendation but have not yet implemented it.
+    We acknowledge that the governance structure of the 
+Commission presents challenges in addressing resource issues. 
+It relies on the consensus of multiple agencies and has no 
+independent budget or legal authority to compel members to act.
+    However, the Commission can identify resource needs, make 
+recommendations, and provide guidance on how Congress or 
+Federal agencies might allocate scarce Federal resources. This 
+will give policymakers the information they need to help ensure 
+the most effective and efficient use of Federal funds.
+    Chairwoman Capito, Ranking Member Meeks, and members of the 
+subcommittee, this concludes my prepared statement. I would be 
+happy to answer any questions.
+    [The prepared tatement of Ms. Cackley can be found on page 
+44 of the appendix.]
+    Chairwoman Capito. Thank you.
+    Our next witness is Mr. Gabriel Krajicek, chief executive 
+officer of BancVue.
+    Welcome.
+
+STATEMENT OF GABRIEL KRAJICEK, CHIEF EXECUTIVE OFFICER, BANCVUE
+
+    Mr. Krajicek. Thank you.
+    Chairwoman Capito, Ranking Member Meeks, and members of the 
+subcommittee, it is an absolute honor to speak with you today, 
+so thank you.
+    My name is Gabe Krajicek. I am the CEO of a company called 
+BancVue, and we serve about 700 community banks and credit 
+unions across the country, providing products and services.
+    As my written testimony shows, we have won numerous awards 
+for our technology and we are widely regarded as one of our 
+industry's top innovators. And that is important because 
+innovation and receiving financial advice from a trusted 
+adviser are the key components of any good financial literacy 
+program.
+    Our mobile and Web-based products--MoneyIsland, PiggyBot, 
+and Kasasa 360--are already changing lives.
+    For BancVue, this mission on financial literacy began in 
+2009 when I was teaching an afterschool class on 
+entrepreneurship for middle schoolers. I worked hours and hours 
+preparing lesson plans and activities and homework assignments 
+for my young students, and the class culminated in our 
+participation in the National Lemonade Day event, where 
+students would design, market, and operate their own lemonade 
+stand.
+    I was really excited. The kids were excited--especially one 
+girl who wanted to be the CEO of the lemonade stand and run the 
+cash register. Unfortunately, I realized very quickly that she 
+could not make proper change, even after I handed her my iPhone 
+and let her use the calculator.
+    If you could have seen her face when someone handed her a 
+$10 bill and she did not know what to do, you would have seen 
+all of her enthusiasm vanish; you would have seen that self-
+confidence that she had sink into self-doubt; and her 
+excitement was just gone. Managing money, handling money should 
+not make any child feel that way. It shouldn't make any adult 
+feel that way.
+    These financial literacy products that we offer are not big 
+moneymakers for BancVue nor are they for our clients. But 
+helping people with their financial future is vital to all of 
+us. That is why MoneyIsland, PiggyBot, and Kasasa 360 are 
+offered exclusively by community banks and credit unions, 
+because these institutions understand that they provide trusted 
+financial advice and help serve their communities one 
+household, one parent, one child, one teacher, or one small 
+business at a time so that people can achieve their financial 
+goals.
+    Please let me describe our products.
+    MoneyIsland is a multilevel online video game that is 
+designed for kids 8- to 14-years old. Collaborating with real 
+students in real classrooms, we designed this to be an exciting 
+adventure full of financial quests that teach eight key 
+financial principles ranging from spending to saving, 
+investing, as well as other topics.
+    I know personally how hard it is to build a lesson plan, so 
+we wanted to make it easier for the teachers to teach these 
+financial concepts. We have included 17 preplanned lessons that 
+make it kind of a paint-by-numbers approach for the teacher to 
+explain the concepts to the students. And that is very 
+important because less than 30 percent of American teachers 
+have ever taught financial literacy, and less than 20 percent 
+of them feel prepared to do so.
+    MoneyIsland is a turnkey solution and our curriculum meets 
+both the Jump$tart Coalition for Personal Financial Literacy 
+and the Common Core math standards. It is offered by more than 
+100 institutions across the country in 2,000 classrooms, and 
+70,000 students have already completed their financial 
+journeys.
+    PiggyBot is a completely free mobile app that transforms 
+the age-old practice of distributing kids' allowances into an 
+interactive collaboration between Mom, Dad, and each child. 
+Using PiggyBot, the kids set goals, like a new bike or a new 
+doll, and then the mom and dad place portions of their 
+allowance into three distinct buckets: spending; saving; and 
+sharing. This is important because it teaches kids the value of 
+planning how they are going to spend their money as well as how 
+money can be used and should be used for different purposes.
+    It was launched just earlier this month--on April 1st--and 
+it has already had an immediate impact. It has been the number 
+one free app for children on the iTunes Store; we have had over 
+50,000 downloads; and already, 9,000 kids have established and 
+achieved their financial goals all across the country.
+    But adults need help managing their money too, and they 
+want that help from someone they trust. Ninety-three percent of 
+community bank and credit union customers really trust their 
+financial institutions. Compare that to the 66 percent of 
+Americans who still feel flat-out anger toward the megabanks 
+for their role in the recent economic crisis. Even 31 percent 
+of megabank customers don't trust their own bank.
+    Plus, people want assistance from people they are familiar 
+with, and that is why 75 percent of consumers say they want 
+personal finance management (PFM) services from their primary 
+financial institution, not from a third-party provider. That is 
+why we launched Kasasa 360 earlier this month.
+    Kasasa 360 is a very easy to use PFM that enables an 
+individual to view, organize, budget, and manage all of their 
+bank accounts, all their credit cards, their car loans, their 
+mortgages, their investments, their retirement accounts--you 
+name it, they can manage it all from their Web-based or mobile 
+device. Kasasa 360 brings home our commitment to personal 
+financial literacy offerings because it give parents hands-on 
+control over how they manage their money, because, as financial 
+guru Dave Ramsey would say, your children are watching you, and 
+they will learn how to manage money based on how you do it.
+    So what can Congress do to help? Well, as the pace and cost 
+associated with compliance and regulatory oversight continues 
+to grow, community banks and credit unions have no choice but 
+to cut back on programs that don't directly generate new 
+revenue. If there was a way, without sacrificing safety and 
+soundness, to reduce the regulatory burden on community 
+financial institutions, more of them would be able to provide 
+services like these that offer financial literacy programs in 
+every small town across America.
+    Thank you for your time, and thank you very, very much for 
+your commitment to financial literacy. BancVue will continue to 
+build new, innovative products and services. Our community 
+banks and credit unions will continue to provide the trusted 
+advice that our fellow citizens need and deserve. And 
+individually and collectively, we stand ready to help in any 
+way we can.
+    [The prepared statement of Mr. Krajicek can be found on 
+page 68 of the appendix.]
+    Chairwoman Capito. Thank you very much.
+    Our next witness is Mr. Stephen Kehoe, who is senior vice 
+president and global head of financial inclusion at Visa.
+    Welcome.
+
+ STATEMENT OF STEPHEN KEHOE, SENIOR VICE PRESIDENT AND HEAD OF 
+             GLOBAL FINANCIAL INCLUSION, VISA INC.
+
+    Mr. Kehoe. Thank you, Chairwoman Capito, Ranking Member 
+Meeks, and members of the subcommittee. My name is Stephen 
+Kehoe, and I am head of global financial inclusion at Visa. 
+Thank you for the invitation to be here today to discuss how 
+technology can advance financial education.
+    At Visa, we believe that the most valuable financial tool 
+is not a product, but knowledge. Empowering consumers with 
+knowledge and skills to make informed decisions about and 
+manage money wisely not only improves their own financial 
+situation, but contributes to strengthening the economy.
+    Our CEO, Charlie Scharf, was recently appointed to the 
+President's Advisory Council on Financial Capability for Young 
+Americans and is committed to sharing the work Visa is doing in 
+this field.
+    For over 50 years, Visa has enabled people, businesses, and 
+governments everywhere to make and receive payments and connect 
+to financial institutions. But providing consumers with access 
+to quality financial services is just one piece of the puzzle.
+    They need to know how to use these products wisely, thereby 
+gaining the skills and confidence required to manage their 
+money responsibly, because unless we empower them with this 
+knowledge, we are doing them no favors. Lack of financial 
+knowledge is the economic equivalent of handing a teenager the 
+keys to a brand new car when he has never driven before. A 
+wreck, financial or otherwise, is inevitable.
+    The best way in which we can help that new account holder 
+from crashing is to provide them with financial education long 
+before they ever acquire a financial account.
+    For nearly 2 decades, Visa has focused on developing 
+financial education programs that teach individuals of all ages 
+the basics of money management. This includes how to budget, 
+save, and spend responsibly. In the last 6 years, we have 
+reached more than 30 million people in 30 countries.
+    In the United States, our flagship program, Practical Money 
+Skills for Life, helps parents, teachers, students, and 
+consumers learn the essentials of personal financial 
+management. We know learning and, for that matter, teaching 
+personal finance can be a challenging endeavor. In order to 
+ensure success in educating everyone from elementary school 
+students to adults, it is important to focus on creating and 
+developing tools which not only are effective and relevant, but 
+are wholly engaging for consumers of all ages, and that is 
+where technology can really make a difference.
+    Our programs' Web sites attract more than 49 million views 
+per year and provide a range of free, innovative, and engaging 
+resources such as classroom lesson plans, educational video 
+games, smartphone apps, podcasts, and other tools.
+    One of the most effective ways to make learning fun for 
+children and young adults is through the use of games and 
+entertainment. As part of Practical Money Skills, we have 
+developed a suite of educational games online and for a variety 
+of operating systems. These include games for younger kids such 
+as Peter Pig's Money Counter, which has been downloaded more 
+than 50,000 times, and Money Metropolis for middle schoolers.
+    But by far, our most popular and successful educational 
+game is Financial Football. Working with the NFL and the NFL 
+Players Association, we developed an interactive money 
+management video game which has now been played more than 
+650,000 times online and continues to be downloaded from iTunes 
+more than 50,000 times a year.
+    Since the launch of Financial Football in 2007, we have 
+worked with State governments to distribute the game for free 
+to schools in 44 States. In fact, Chairwoman Capito's home 
+State of West Virginia was the first to distribute Financial 
+Football to every middle and high school through a public-
+private partnership.
+    We were also pleased to partner with Ranking Member Meeks 
+to hold a Financial Football event in February at the Super 
+Bowl. As of today, we have partnered with governors, State 
+treasurers, and other officials to distribute Financial 
+Football to more than 28,000 middle and high schools across the 
+country.
+    In addition to State governments, we have worked with over 
+300 nonprofits, credit unions, community banks, and financial 
+institutions to distribute our core literacy materials. We have 
+found public-private partnerships to be an effective way to 
+deliver financial education resources.
+    Beyond games and educational entertainment resources, we 
+have used technology platforms to create free, consumer-
+friendly smartphone apps to teach the basics of budgeting and 
+savings. These come in all shapes and sizes, from planning for 
+retirement to budgeting for the prom to figuring out how much 
+the tooth fairy should leave under the pillow.
+    Twenty years of experience, however, tells us there is no 
+silver bullet. The solution to creating a more financially 
+literate, healthy citizenry requires a multipronged approach 
+and constant innovation.
+    In conclusion, technology offers many opportunities to 
+reach people through new channels, but the technology must 
+appeal to the people we are trying to reach. To impact today's 
+young people, we must engage with them on their terms, which 
+means on the technology platform of their choice, be it iPad, 
+tablet, smartphone, or online. If we are serious about using 
+technology to create a more financially literate society, we 
+must be wholly committed to creating apps, programs, and 
+resources that consumers want to use.
+    Thank you for the opportunity to highlight some of the work 
+Visa is doing to improve financial literacy. We are ready to 
+work with this committee to advance this important cause, and I 
+look forward to answering any questions.
+    [The prepared statement of Mr. Kehoe can be found on page 
+60 of the appendix.]
+    Chairwoman Capito. Our next witness is Mr. Barry Saik, who 
+is the senior vice president and general manager of Consumer 
+Ecosystems Group with Intuit.
+    Welcome.
+
+  STATEMENT OF BARRY SAIK, SENIOR VICE PRESIDENT AND GENERAL 
+           MANAGER, CONSUMER ECOSYSTEM GROUP, INTUIT
+
+    Mr. Saik. Thank you.
+    Good morning, Chairwoman Capito, Ranking Member Meeks, and 
+members of the subcommittee. My name is Barry Saik and I am the 
+senior vice president and general manager for the Consumer 
+Ecosystem Group at Intuit. The Consumer Ecosystem Group 
+includes our Quicken and Mint products.
+    I appreciate the opportunity to speak with you today about 
+how technology can promote consumer financial literacy. While I 
+am here to talk today about Mint, I would like to first give 
+you some brief background on Intuit.
+    Intuit creates products and services with one mission in 
+mind: We strive to improve people's financial lives so 
+profoundly they cannot imagine going back to the old way of 
+doing things. At its heart, this is all about financial 
+literacy.
+    Over 30 years ago our founder, Scott Cook, sat at his 
+kitchen table watching his wife struggle to balance the family 
+checkbook. This inspired him to create Quicken. Today, we are 
+one of the Nation's leading providers of tax and financial 
+management solutions for consumer and small businesses as well 
+as the accountants who serve them.
+    Through our flagship products and services, including 
+QuickBooks, Quicken, Mint, and TurboTax, we remain committed to 
+creating new and easier ways for consumers and small businesses 
+to tackle life's financial chores with the help of technology.
+    We help our customers make and save money, comply with laws 
+and regulations, and give them more time to live their lives 
+and grow their small businesses. Most of the small businesses 
+are family businesses, and these tools help them survive and 
+thrive.
+    Mint, the leading personal finance app, enables users to 
+link their financial accounts and view all of their financial 
+statements in one place. We currently have over 15 million 
+registered customers in the United States and Canada, and they 
+are connecting to a total of over 220 million bank accounts and 
+other financial accounts at different institutions.
+    Additionally, Mint provides the tools for easy and free 
+money management. Goal-setting is a unique tool which helps our 
+customers set financial targets that matter to them, such as 
+paying down credit card debt or repaying your student loans. 
+Mint tracks an individual's progress towards meeting their 
+personal goals and sends regular reminders to keep you on 
+track.
+    We currently have nearly 3 million customers who have set 
+up over 7 million goals in Mint, and thousands of these goals, 
+including paying off debt, buying a house, and saving up for a 
+trip have already been completed by many Mint customers who are 
+currently saving over $1 billion a month towards their personal 
+goals.
+    Mobile has also been a focus of ours for a few years. It 
+has allowed us to reach a mass audience because, as you guys 
+have mentioned, smartphones are the device that most people use 
+to access the Internet today.
+    Currently about 70 percent of our users start on and use 
+our mobile app, with about 40 percent of them continuing to be 
+mobile-only customers. Our mobile customers use the app to 
+check their account balances and review their transactions--
+things like checking recent spending and deposits--before 
+making new purchases.
+    With Mint, people don't have to think about how much they 
+spend or spend hours with a financial planner. We do the hard 
+work of collecting and categorizing transactions for them.
+    For about 80 percent of people, the upward trajectory of 
+their spending was tempered after they joined Mint and began 
+monitoring their transactions. And most people's spending was 
+further tempered if they used the information and set up 
+budgets and goals. The biggest effects were observed in 
+people's spending on things like groceries, restaurants, and 
+credit card financial charges.
+    Mint also provides ways for you to save more money beyond 
+just budgeting. Mint has found over an average of $1,700 in 
+savings for nearly 5 million of our users. That is a total of 
+over $10 billion in savings identified by our users.
+    Through our partnerships, we evaluate customer accounts and 
+identify alternatives for them--things like better insurance, 
+or credit card options, or even refinancing loans--and we allow 
+them to opt in for these options. Should the customer choose 
+one of these options, they are directed to the partner sites to 
+apply and sign up for that option. By identifying these 
+alternatives, we take away the common inhibitor to finding 
+these deals on their own, which is the time it takes to 
+research and apply for them.
+    Intuit's mission is about empowering individuals. This 
+shows up one customer at a time. I often hear from customers 
+how Mint has helped them literally transform their lives for 
+the better.
+    Financial knowledge is a foundation on which individuals 
+can build upon, but education alone is not enough. Our customer 
+research has shown that simply providing people with knowledge 
+about their credit card or student loan rates or how to save 
+for retirement does not spur an individual to pay attention to 
+these things in real life.
+    Our research has shown that people learn by doing. It is 
+one thing to learn about personal finances, but until you are 
+faced with a real-world situation such as facing a large 
+student loan debt when you are taking your first job and just 
+setting out in life, that is when you really begin to practice 
+what you have learned. And it is by going through that 
+experience that you really learn about financial literacy.
+    Mint provides the tools to help people with these real-
+world situations and develop true financial literacy.
+    Thank you again for the opportunity to testify, and I would 
+be happy to answer any questions you may have.
+    [The prepared statement of Mr. Saik can be found on page 80 
+of the appendix.]
+    Chairwoman Capito. Thank you.
+    Our final witness is Ms. Sabrina Lamb, who is the CEO of 
+WorldofMoney.org.
+    Welcome.
+
+   STATEMENT OF SABRINA LAMB, FOUNDING CEO, WORLDOFMONEY.ORG
+
+    Ms. Lamb. Thank you.
+    Chairwoman Capito, Ranking Member Meeks, and members of the 
+subcommittee, on behalf of the WorldofMoney.org Youth Financial 
+Education Institute, known as WorldofMoney.org, also 
+represented here today by our youth board members Dante Stewart 
+and Ciana Montero, thank you for the opportunity to testify at 
+today's hearing.
+    About 10 years ago, a disturbing trend swept across 
+America. Young people, often accompanied by adults, began 
+forming long lines outside of retail stores, shoving and 
+clawing to purchase another pricey item to make them feel, for 
+the moment, better about themselves. These youth and adults 
+seemed oblivious to the fact that they were jeopardizing their 
+already fragile financial condition.
+    In response to this crisis, the WorldofMoney.org, a New 
+York City-based nonprofit organization, was founded in 2005. 
+The organization was selected as a Promise Place by American's 
+Promise Alliance and by AOL Impact as one of 10 top social good 
+organizations in America.
+    WorldofMoney.org is acknowledged in President Obama's 
+Advisory Council on Financial Capability report. Our mission is 
+to challenge the way youth ages 7 to 18 engage with and manage 
+money by equipping them with a robust, 40-classroom-hour 
+curriculum taught by Wall Street professionals so that they can 
+plan to live a financially secure and philanthropic life. To 
+date, the WorldofMoney.org has provided critical financial 
+education to over 3,000 youth and their parents.
+    Over the years, unfortunately some parents have openly 
+expressed their despair or their belief that living a 
+financially secure life is not for them, that they are not 
+worthy or able to experience generational wealth. Recently, one 
+student said that he thought that the term ``financial 
+freedom'' sounded like a scam.
+    Other parents admitted how embarrassed they feel about the 
+financial missteps that they have made. Alternatively, one 
+mother defiantly shared, ``What I don't know, my child won't 
+know.''
+    Hundreds of well-intentioned individuals, corporations, and 
+nonprofit organizations provide excellent online and gaming 
+financial education. However, of the 3,000 youth that we have 
+served, 98 percent of our economically diverse parents report 
+that they have never felt compelled to search for or access 
+this online information.
+    How can technology help stem the widening gulf of 
+financially uneducated and vulnerable Americans? Disrupt and 
+interrupt.
+    Creative content interruptions beyond one's primary Web 
+site or application are warranted for at least three reasons: 
+one, difficulties associated with motivating adults to pursue 
+financial literacy; two, generational family history of being 
+financially vulnerable; and three, predatory lenders' and 
+fringe financial service providers' aggressively 
+disproportionate targeting of communities of color.
+    Technology can create a financial education cultural 
+revolution by integrating a brand's message via social media as 
+the new normal, targeting communities which generationally are 
+reluctant to discuss or have a lack of knowledge in managing 
+their finances. Millions of these families, often unbanked, 
+still voraciously consume social media and cell phones.
+    An online blended interruption could have a powerful 
+subliminal impact on uninformed Americans. As a result, seeds 
+of financial education would be planted and would provide a 
+time-efficient experience of learning outside of the confines 
+of one's personal fiscal crises.
+    For maximum appeal, technology can also help by reflecting 
+the cultural and racial diversity of Americans and how various 
+communities interface with their personal finances. One content 
+does not fit all.
+    Thus, the user must feel that their issues are being 
+addressed. Technology providers cannot build content and assume 
+Americans will come and apply the information to their lives 
+when they have had a generational distrust in doing so.
+    Our parents report that they appreciate when they receive 
+information that is protective in nature, that steers them away 
+from toxic financial products and scams and bolsters their self 
+esteem.
+    The creators of financial education technology realize that 
+they are already preaching to the choir. However, mobile 
+technology messages can disrupt and influence a greater number 
+of Americans by providing a learning experience while using 
+mobile devices. Technology can support by being interrupters by 
+sharing real-world, compelling testimonial videos which are 
+mirror images of a mobile device user.
+    Creators of financial education technology must have an up-
+front understanding of the challenges of Americans so that the 
+content can address a diversity of family statuses--for 
+example, creating an application which sends real-time e-mails 
+to working parents about the expenditures and bank transactions 
+that are being made by their children while including a savings 
+roadmap. Or e-mail reminders could ask young adults, ``Have you 
+reviewed your credit report this year?''
+    Third, a nonprofit organization's newsletter could instruct 
+how to research investment options. And lastly, since the use 
+of technology is overwhelmingly popular, our organization is 
+determined to empower our youth so that they will move beyond 
+being solely consumers. Thus, we will teach them how to create 
+and understand the fundamentals behind the Web sites and 
+applications that they are using.
+    Through personalized videos on tablet applications and 
+games, Americans could have the ability to interact and 
+communicate with a service provider's financial expert rather 
+than simply passively reading. Financial institutions and cell 
+phone companies could send money lessons via text message 
+directly to a mobile unit or embed a message when the customer 
+makes a bill payment or an online bank transaction, such as 
+Ciana Montero's post on Facebook, ``When I grow up, I am 
+determined to be a PIG farmer; Passive. Income. Generator.'' 
+And Dante Stewart posted, ``Did you know that 55 percent of 
+students acquire their first credit card during their freshman 
+year?''
+    In conclusion, technology holds the promise of expanding 
+access to personal finance education by providing flexibility 
+in how, where, and when learning occurs. However, mobile 
+technology will never be a replacement for the power of in-
+person, motivating instruction between students and financial 
+experts.
+    Thus, technology should be used as an instructional 
+supplemental activity that is supported by compassionate 
+financial coaching or attending the WorldofMoney.org Youth 
+Financial Education Institute in New York City.
+    Thank you.
+    [The prepared tatement of Ms. Lamb can be found on page 77 
+of the appendix.]
+    Chairwoman Capito. Thank you all.
+    I will now recognize myself for 5 minutes for the purpose 
+of asking questions.
+    Ms. Cackley, in the report that you generated you mentioned 
+that there were, I think, 14 different programs across a lot of 
+different agencies and that there is some coordinative effort 
+but really not a whole lot to evaluate the effectiveness of the 
+different programs. Is that a correct statement?
+    Ms. Cackley. Essentially what we found is that there are 
+now 13 different basic financial literacy programs, because we 
+started with 16, and 3 are no longer funded or no longer exist. 
+And then of the housing counseling programs, which have a 
+financial literacy component, there were four and now there are 
+three. So we have seen some trend toward consolidation and that 
+is a positive thing as long as you are consolidating in the 
+most efficient way and with the most effective programs.
+    When we looked at the evaluation of the different programs 
+across the Federal Government, we found that many have been 
+evaluated, but some have not. Not all of them are conducive to 
+having a good evaluation done and we tried to look at what made 
+sense, and basically we found that there is more work that 
+needs to be done there, and part of our recommendation to the 
+Commission was that they consolidate where programs had been 
+found to be effective. So, the evaluations have to be done.
+    Chairwoman Capito. Yes. Right. I think that sounds like a 
+judicious use, obviously, to look and to consolidate, but it 
+looks like--certainly from the panelists that we have here 
+today, there is a lot of innovation going on in the private 
+sector and the nonprofit sector to try to answer the same 
+question.
+    So I would like to ask Mr. Krajicek and Mr. Kehoe: You both 
+talked about your--and Mr. Saik, too--programs going into the 
+school systems. Is this just a--is it a dedicated reflection of 
+a certain State, of a certain region, or is it sort of 
+haphazard? And how do you get into that space, because I think 
+that is obviously where it has to start.
+    Are you in the schools right now, Mr. Krajicek? I know you 
+are in the banks and the credit unions.
+    Mr. Krajicek. We are in over 2,000 classrooms, yes.
+    Chairwoman Capito. And how did that occur?
+    Mr. Krajicek. It occurs because we partner with local 
+community banks and credit unions, and--
+    Chairwoman Capito. So you leave it to the community banks 
+to get with your local school boards, et cetera?
+    Mr. Krajicek. Yes. The leaders of the local institutions 
+are the same people who are interacting with the school 
+superintendents and the principals, so they already have that 
+natural community network, and it is a lot easier for them to 
+bring a product like this into the education system than it 
+would be for an outsider.
+    Chairwoman Capito. Right.
+    Mr. Kehoe, is that the same with you?
+    Mr. Kehoe. Yes. It is very similar. We have a core set of 
+materials, classroom plans, curricula that we make available to 
+schools all over the country, and really the whole objective is 
+to provide teachers and educators with the materials and then 
+really leave it to them to figure out how to adapt it to their 
+own sort of local needs and circumstances.
+    And the way in which we get the material into schools is a 
+whole variety of ways--
+    Chairwoman Capito. Right.
+    Mr. Kehoe. --through nonprofits, but also working with 
+State governments.
+    Chairwoman Capito. Let me ask you a question, since you are 
+global and you are doing financial literacy around the globe. 
+And I don't know if there is any kind of ranking here, but how 
+do our American youth and adults rank around the globe in terms 
+of financial literacy?
+    Mr. Kehoe. There is no formal ranking in terms of that. I 
+think our experience as we look around is that you see a clear 
+differentiation between developed countries and nondeveloped 
+countries.
+    Chairwoman Capito. Right.
+    Mr. Kehoe. If you look at the developed systems, I would 
+hazard to estimate that you have some developed countries 
+around Europe that are probably ahead of the game because of 
+the way in which financial literacy is built into the school 
+curricula as more of a sort of fundamental thing, and I think 
+that picture is growing here but it is more mixed.
+    Chairwoman Capito. Mr. Saik, do you have a comment on--is 
+Mint in this--Mint is something that you buy, or that you 
+purchase, I guess, on an app or is it--
+    Mr. Saik. Mint is free either through the app store on your 
+mobile phone or on the Web. There is a Web site, Mint.com.
+    Chairwoman Capito. Okay. Are you in the school systems as 
+well?
+    Mr. Saik. We are not actively pushing ourselves into the 
+curriculum of schools. From time to time, we do have educators 
+who contact us. In the past, we have had educational programs 
+to provide Quicken software.
+    Chairwoman Capito. Right.
+    Mr. Saik. Nowadays, people use Mint, and access is free and 
+generally happens without us really knowing that it is 
+happening in a school.
+    Chairwoman Capito. Right. Okay.
+    I now recognize Mr. Meeks.
+    Mr. Meeks. Thank you, Madam Chairwoman.
+    Let me first go to Ms. Lamb. In your testimony you talked 
+about the importance of coaching, mentoring, and face-to-face 
+interaction between youth and financial professionals, and how 
+that plays a role along with technology. Can you tell us why 
+this personal interaction is so important, in your opinion?
+    Ms. Lamb. A computer can maybe convey a ding or bingo, 
+``You won,'' or, ``You have the correct answer,'' and so forth, 
+but when a child is looking for motivation, or even when a 
+parent is looking for motivation, the body language and the 
+credentials of the person conveying that information is just 
+more powerful, as is reported and experienced by the parents 
+who send their children to our institute.
+    I have heard from teachers across the country, for example, 
+who are resentful of having to be mandated to teach this 
+curriculum because they feel intimidated because they feel 
+their own houses--financial houses--are on fire. So as a 
+result, their resentment appears when they are reluctantly 
+having to teach this course when they feel they have their 
+burden to teach other subjects.
+    So when you have a skilled faculty of Wall Street 
+professionals who are enthusiastic, that this is good, this is 
+how you need to create generational wealth and convey that 
+positive energy, so to speak, to children and to their parents, 
+it has a more--we can't replace human beings. We have value. 
+And the technology should be just a catalyst in order to--it is 
+a follow up, but not the main source. It also should be backed 
+up by a person.
+    Mr. Meeks. What about the--because you also talked about 
+educating not only the children, but the parents, and I think 
+it is clear from our opening statements that both the 
+chairwoman and myself are still learning--connection between 
+the child and the parent in regards to financial literacy?
+    Ms. Lamb. There are thousands of workshops for adults 
+across the country. However, there is not a long line of 
+parents trying to access those workshops. How we get parents to 
+the table is we empower the children so that they can become 
+financial team leaders and go home every night and say, ``Let's 
+have a financial meeting with our family and decide, for 
+example, how are we going to lower our bills, how are we going 
+to save more?'' So the children are given the tools to bring 
+home the information, thus empowering the parents.
+    It has to be a holistic approach. One person just having 
+the information is not enough.
+    Mr. Meeks. Thank you.
+    Ms. Cackley, let me ask you--I heard you say a number of 
+times in your testimony how a lot of it was relying on the CFPB 
+to carry out various financial literacy programs or to try to 
+make sure that the products are not abusive or predatory. My 
+question to you, though, is what additional role do you think 
+that we are playing, government is playing, in developing and 
+promoting financial capabilities for consumers? What more could 
+we do as a government to try to make sure that we are getting 
+people financially literate other than just saying, this 
+product is bad? What more do you think we could do as a 
+government?
+    Ms. Cackley. The Federal Government is already doing quite 
+a lot across a number of different agencies. As we said, we 
+found programs that do provide information and tools for 
+consumers not just about how to avoid fraud or bad products, 
+but some of the things that we have been talking about already. 
+There are a variety of ways that the Federal Government 
+provides information.
+    The Federal Reserve System has a number of Web-based games 
+for children. Money Smart, which is the FDIC's financial 
+education curriculum, is available, and a number of others.
+    What I haven't done is looked more specifically at the 
+technology piece and evaluated some of the newer things that 
+are out there yet.
+    Mr. Meeks. Is there any coordination? Because I understand 
+in recent years, the GAO has encouraged the Federal agencies to 
+do more to coordinate resources among themselves.
+    Mr. Green, I think, talked earlier about how we utilize our 
+resources. Are we coordinating the resources that we have so 
+that we can promote financial capability among the American 
+public?
+    Ms. Cackley. We have seen more coordination, especially 
+since the Consumer Financial Protection Bureau (CFPB) came into 
+existence. They have a played a role in increasing the 
+coordination across the Federal agencies.
+    The Financial Literacy and Education Commission existed 
+before the CFPB, but since the CFPB was created and the 
+Director of the CFPB became the Vice Chair of that Commission, 
+we have seen more coordination happen.
+    Chairwoman Capito. Thank you.
+    I now recognize Mr. Luetkemeyer.
+    Mr. Luetkemeyer. Thank you, Madam Chairwoman.
+    Financial literacy is extremely important. Being in the 
+financial industry myself for the last 40 years, it is 
+important, I think, to begin at the youth stage, because I have 
+seen where the adults who don't have this background can't make 
+good decisions, and then the financial services people have to 
+sit there and spend their time to educate those people, and 
+sometimes it works and sometimes it doesn't. And sometimes, you 
+end up getting people out of messes they got themselves into 
+that they may not have if they had just had a little knowledge. 
+You would have been very helpful to them. So to me, this is an 
+extremely important hearing, and I applaud all of you for being 
+involved in it.
+    Ms. Cackley, can you tell me what the total cost across all 
+agencies is for the efforts by the Federal Government to put 
+these programs in place?
+    Ms. Cackley. I don't have an updated number for this year, 
+but when we did our report, we found that in Fiscal Year 2010, 
+the total Federal Government expenditure was about $68 million.
+    Mr. Luetkemeyer. Okay. Did you do a return on your 
+investment there? Do you have an idea of how much you helped 
+people to be able to protect themselves and by doing that--
+    Ms. Cackley. No. We don't have that kind of a calculation 
+done--
+    Mr. Luetkemeyer. Okay. In your discussion and 
+investigation, do you see any gaps in the Federal programs that 
+we need to be looking at or need to be--that these different 
+agencies need to be coordinating to find a way to solve that 
+gap? Or are they pretty well covering most of the bases?
+    Ms. Cackley. We have seen that Federal agencies cover a lot 
+of different pieces, especially the ones that serve specific 
+populations. So I don't think that we have identified a gap, 
+per se, but what we have suggested is that the Federal 
+Government needs to make sure that they are putting their money 
+where the most effective programs are, and what we would like 
+to see is some assurance that--
+    Mr. Luetkemeyer. I would guess that the biggest gap 
+probably is keeping up with the technology to make sure that 
+the education background is there for people to be able to 
+utilize things like these other four folks here are trying to 
+provide. I would think that would probably be the biggest 
+challenge.
+    Ms. Cackley. I am not sure I understood--
+    Mr. Luetkemeyer. Okay. To me, the challenge is to be able 
+to work with the other technology here, to be able to help 
+those people access what these other folks are doing .
+    Ms. Cackley. That is certainly something that the Federal 
+Government is doing, using some of the new technologies.
+    Mr. Luetkemeyer. Okay.
+    Mr. Saik, in your discussion of your products I kind of 
+take from that, that it is a service you are providing, that 
+you actually still have--you have access to these people's 
+information. Is that correct? Am I getting that part--
+    Mr. Saik. Mint is a service that allows consumers to 
+aggregate their information from their banks, so the consumer 
+can view the information on the service, yes.
+    Mr. Luetkemeyer. Okay. Do you have access to their 
+information then?
+    Mr. Saik. No, I do not.
+    Mr. Luetkemeyer. You don't. From your testimony here and 
+from reading it, it seemed to me that you still had a part to 
+play in this, and I was kind of curious about that, if there 
+were protections in place to be able to do that, but if that is 
+not the case, if they purchase the application or it is given 
+to them for free and then they utilize it and you have nothing 
+to do with it after that point?
+    Mr. Saik. Sorry. I thought you were addressing me, whether 
+I have access. Yes, the--
+    Mr. Luetkemeyer. No, your company.
+    Mr. Saik. Mint.com is a service, yes, and we store the 
+information for our customers on the service. We take the 
+security and privacy of our customers' data extremely seriously 
+and use all the latest technology to ensure that is the case.
+    Mr. Luetkemeyer. So then, are you providing advice to them, 
+as well?
+    Mr. Saik. We do provide advice and tips, yes.
+    Mr. Luetkemeyer. Are you watching their accounts or is it 
+just that the program automatically says, hey, if you are--you 
+didn't save enough this week, or you didn't make your payment 
+this week, or your checkbook is about ready to go into 
+overdraft protection? Do you, as a company, provide advice and 
+say, hey, you missed an opportunity here to do something with--
+    Mr. Saik. Yes. We analyze their statements and things like 
+their bank accounts. We actually guide them through setting up 
+budgets and then alert them when they have overspent their 
+budgets, for example. We also alert them for things like extra 
+finance charges on credit cards that they can avoid and suggest 
+ways to avoid that. So, we do provide those types of tips and 
+advice.
+    Mr. Luetkemeyer. Okay. I guess the metric on how you gauge 
+the success of your program is the number of people who--how 
+you grow your business as a result of referrals from other 
+folks or the satisfaction of individuals. How do you gauge the 
+success of your programs?
+    Mr. Saik. That is partly the way. We also ask our customers 
+if they would recommend our service to other people because it 
+is helping them achieve their goals.
+    Mr. Luetkemeyer. Are you interacting with your customers 
+and asking, ``How else can we improve our product? Are there 
+other financial concerns you have that we could help you 
+address?'' Do you ask that question of them?
+    Mr. Saik. Yes, we do. We do a number of surveys of our 
+customers. We are constantly in contact with them. That is one 
+of the ways, and we ask them about what types of features or 
+other additional things they would like to get out of the 
+service. Yes.
+    Mr. Luetkemeyer. Very good.
+    I see my time is up. Thank you, Madam Chairwoman.
+    Chairwoman Capito. Thank you.
+    Mr. Hinojosa, for 5 minutes.
+    Mr. Hinojosa. Thank you. Thank you very much, Chairwoman 
+Capito and Ranking Member Meeks, for holding this important 
+hearing focused on financial literacy.
+    Financial literacy is truly a bipartisan cause. In 2005, 
+former Congresswoman Judy Biggert and I joined forces to found 
+the first congressional caucus devoted to furthering financial 
+literacy for all Americans. Over the years, that congressional 
+caucus has grown and supported legislation, hosted briefings, 
+and engaged with many Federal agencies on promoting financial 
+literacy at all levels of policy.
+    So I am happy to have Congressman Steve Stivers of Ohio as 
+the new co-chair for our caucus. We share a belief in the power 
+of financial literacy to decrease inequality and increase 
+financial stability and hope for one's future.
+    Over the last few years, developments in technology have 
+created opportunities to deliver financial education in new and 
+innovative ways. So I am going to go right into the questions 
+and ask the first two-part question of Mr. Barry Saik, of 
+Intuit.
+    Your company has been at the forefront of consumer 
+software. Can you please share with us, in your opinion, what 
+role your budgeting software can play in facilitating behavior 
+change? And the second part: Can you share how your company has 
+partnered with nonprofit and public organizations to empower 
+those underserved communities financially?
+    Mr. Saik. Yes. I have seen personally how our products, 
+especially personal finance products like Mint, can help people 
+learn about personal finance. I think what happens is it is one 
+thing to learn about it and the theory about it, but until you 
+actually--and I see this with--when first-time customers set up 
+Mint and actually get all their data into Mint for the first 
+time and see where they have spent their money, then you really 
+realize how you are--what choices you are making and what the 
+results of those choices are and are able to make corrections 
+over time. And that is where the power and the real learning 
+comes is by doing, and then learning through the experience. 
+So, that is one way.
+    Our company does have a number of programs where we work 
+with nonprofits to provide services, particularly in our tax 
+prep area. We have a lot of programs to help the 
+underprivileged have access to tax prep software and services, 
+as one example.
+    Mr. Hinojosa. Is it possible to start getting children to 
+understand the importance of financial literacy in the 3rd and 
+4th grade, or would it be in middle school?
+    Mr. Saik. I am not really an expert on education, so I 
+would think yes, but I am probably not the best person to 
+answer that question.
+    Mr. Hinojosa. Ten years ago, we were told in the Education 
+Committee that in order to recruit young children into STEM 
+careers--science, technology, engineering, and math--we needed 
+to start at the 7th grade. A decade later, today, we are being 
+told that we need to introduce them in the 4th grade because 
+many students can begin to understand the importance of looking 
+at those opportunities.
+    So it seems to me that we need to change our mindset that 
+it is just for adults. It is for young children, and especially 
+those who are now in high school, making big decisions on how 
+to use a credit card and what schools to attend and what kind 
+of loans to make, and so forth.
+    My next question is for Mr. Stephen Kehoe, of Visa. Visa 
+created exceptional financial literacy game applications for 
+tablets entitled, ``Financial Football,'' but has also focused 
+on leveraging mobile phones to engage the unbanked. In my 
+district down in Deep South Texas, south of San Antonio to the 
+McAllen-Edinburg area, nearly one in three are unbanked. Can 
+you share how Visa has utilized mobile technology in developing 
+countries and how this might be translated to the American 
+market?
+    Mr. Kehoe. Thank you for that question, Congressman.
+    The nature and the scale of the unbanked challenge around 
+the world and here in the United States is huge. And to see 
+people locked out of financial services altogether is something 
+that I think all of us recognize as being a huge public policy 
+issue and one which I think the private sector is geared 
+towards answering.
+    There really is, in our view, no reason today why anybody 
+should be locked out of formal financial services. The 
+technology exists to connect people and the mobile phone is, 
+indeed, that catalyst that we are seeing everywhere to enable 
+the connection to be made.
+    So in developing countries around the world, in fact, we 
+are seeing some of the most cutting-edge use of mobile phones 
+to enable payments to be made, transactions to occur, and basic 
+financial services to be provided to some of the most 
+underserved and poorest communities around the world. And in 
+many ways, the reason why that is taking place is because 
+technologies leapfrog. They have not had to go via the typical 
+landline infrastructure that other countries are looking at.
+    So to come to the United States, and particularly your 
+constituents, Congressman, I think there are huge parallels in 
+terms of the way in which you see some of your community groups 
+beginning to operate and think about how mobile phone 
+technology can be--
+    Mr. Hinojosa. My time has expired. Thank you for your 
+response.
+    Mr. Luetkemeyer [presiding]. Thank you.
+    With that, Mr. Pittenger from North Carolina is next.
+    Mr. Pittenger. Thank you, Chairman Luetkemeyer.
+    Ms. Cackley, you mentioned that there are 13 separate 
+Federal programs dealing with financial literacy. Have you done 
+a comparison with the effectiveness of our Federal programs as 
+they relate to private sector financial literacy efforts?
+    Ms. Cackley. No, sir. We haven't done a comparison against 
+the private sector. We have looked at whether effectiveness 
+studies have been done of the different programs, and there is 
+some variation across the different agencies and programs 
+partly because they are very different.
+    But we have certainly recommended that effectiveness 
+studies be done, and in doing that I would expect a comparison 
+against what else is out there would be useful.
+    Mr. Pittenger. Did any of the rest of you have any comments 
+on that?
+    Okay.
+    I will address this to Mr. Krajicek: What technology is 
+currently being used to improve mobile payment security and 
+prevent fraud?
+    Mr. Krajicek. At BancVue, we do not provide mobile payments 
+offerings, so I am not an expert on that and would probably 
+like to defer to the man to my left, perhaps, on that answer.
+    Mr. Pittenger. That would be good.
+    Mr. Kehoe?
+    Mr. Kehoe. The technology is evolving so quickly, and 
+certainly one of the biggest concerns that we were seeing early 
+on was people's concern about the use of security in using your 
+phone to make payments and new technology. But I think that we 
+are seeing--we have seen the technology move so quickly, 
+encryption of the phone devices themselves, the use of the 
+chips in the phone to secure the device, and then the 
+transaction itself, there are now, in many places, multilayers 
+of security which are now impacting the phone. So both the 
+device and the actual network and its users are getting safer 
+and safer all the time.
+    Mr. Pittenger. So you would say that you haven't seen fraud 
+increase with the utilization of mobile payment technology?
+    Mr. Kehoe. At the moment, actually, the use of mobile 
+payment technology here in the United States is very, very 
+small. And so, the amount of fraud that we are seeing in that 
+system is extremely small, indeed. But we are not anticipating, 
+as the technology increases, for that to be a big issue.
+    Mr. Pittenger. Sure.
+    Mr. Saik, do you have any comments?
+    Mr. Saik. No. We don't do any mobile payments in Mint.
+    Mr. Pittenger. Sure.
+    Ms. Lamb, any comments on your part?
+    Ms. Lamb. I just want to underscore that children are very, 
+very interested in this subject, but only as consumers. We 
+serve children as young as 6, and they are very interested in 
+being financially educated.
+    Mr. Pittenger. Thank you. I yield back.
+    Mr. Luetkemeyer. Thank you.
+    With that, Mrs. McCarthy from New York is next for 5 
+minutes.
+    Mrs. McCarthy of New York. Thank you, Mr. Chairman.
+    And again, I thank Mr. Meeks for having this hearing.
+    We have worked on this for quite a while. Both of us are on 
+the Education Committee, and a few of us--during Dodd-Frank, we 
+really were pushing to have financial literacy put into part of 
+Dodd-Frank, which has ended up with you having the educational 
+piece of it.
+    So it is important to us, and the debate among us was at 
+what age, also, to start reaching out to our young people. And 
+certainly the consumers that we were looking at were more into 
+the middle income to lower income range, mainly because they 
+usually did not have the tools to figure out how to save.
+    And we certainly knew here that most Americans don't save, 
+those who should be saving don't save. After the financial 
+collapse in this country, the good news is people did cut back 
+on their debt and they did start saving. So that is a good 
+thing and hopefully that will go into--because the average 
+person who is retiring these days only has $30,000 to $40,000. 
+Some have done better, but on the average they don't, because 
+they are living from paycheck to paycheck.
+    So I guess my question to all of you would be, as we are 
+going into the technology age--and my colleague had brought 
+this up on the security--especially with the breech that we 
+have seen over the last couple of weeks going into--now I am 
+older so I am a little more wary about doing my banking online, 
+because all we do is get warned constantly. Most of us probably 
+have very easy passwords where you would have to write them 
+down if you really followed the techniques that some of the 
+keys ask for. And we have constant hackers out there, so it is 
+a concern for me.
+    But with that being said, I still think it is important 
+that financial advice and literacy go together, because people 
+don't know how to save. And my parents came through the 
+Depression so they did learn how to save because they knew that 
+something could happen in the future.
+    So I guess my question to you is--and I know a couple of 
+you don't do banking, but it is going to be an issue for an 
+awful lot of constituents back home on how we are going to do 
+this, because it seems like when we come up with an answer the 
+hackers get a step ahead of us, and it is only going to get 
+worse. So I would just like your opinion.
+    I know that you probably don't have anything to do with 
+that because you are putting the financial literacy into the 
+government programs. And it is really just information for them 
+to go where they need to go.
+    Ms. Cackley. We haven't done any work looking at the 
+security issues around the financial literacy programs that the 
+Federal Government provides. Certainly, GAO has done work on a 
+variety of computer security issues, so I could defer to my 
+colleagues back at the office who do that work and find out 
+more information for you if you would like.
+    Mrs. McCarthy of New York. Thank you.
+    Mr. Krajicek. Obviously, technology is not without its 
+risks. Things can be hacked.
+    But as I often will remind consumers and bankers, when you 
+have your paper statements mailed to your mailbox or you have 
+your checks mailed to your mailbox, it is not terribly 
+difficult for someone to get in there and steal that 
+information either. So while there are risks associated with 
+technology, I firmly believe that the benefits outweigh the 
+risks.
+    Even something as simple as a consumer being able to check 
+their balance before they make a purchase to ensure that they 
+can afford what they are about to buy can have transformative 
+impacts on how they spend their money because they are always 
+aware of exactly where they stand with their finances. And so 
+benefits like that, when you imagine them deployed across the 
+entire United States, I think are significantly outweighing the 
+possible risks of occasional breeches, which will occur.
+    Mrs. McCarthy of New York. I would love Mr. Kehoe to be 
+able to answer, if you don't mind, sir.
+    Mr. Kehoe. Thank you. I certainly agree that technology is 
+certainly more of an enabler than on the risk side.
+    Building trust is utterly critical to people of all ages 
+enabled in the system, and of course, when you see headlines 
+about breeches and things, these don't help. In our programs, 
+we have extensive security educational modules, as well. There 
+is a particular Web site called Visa Security Sense, which 
+gives individual consumers advice on how to protect themselves 
+online and with their money. And certainly we see that as being 
+a vital part of the financial literacy curriculum.
+    Mrs. McCarthy of New York. Thank you all for your 
+responses.
+    Mr. Luetkemeyer. Very good.
+    Mr. Posey from Florida is next for 5 minutes.
+    Mr. Posey. Thank you, Mr. Chairman.
+    I thank the Chair and the ranking member for bringing this 
+issue before us, and I want to thank all of the witnesses. Your 
+testimony has been very interesting and actually, very 
+pleasing. Never, as long as I have been elected, has financial 
+literacy appeared as a concern of any citizen on any poll at 
+any time. And of the probably over a million different 
+constituents I have represented, none of them have ever 
+mentioned it. That is a problem.
+    Except for one. A financial planner in my district--and I 
+probably shouldn't mention her name because some people might 
+think that is indiscreet--Eileen Davis, has mentioned it 100 
+times, and every time I see her, she mentions it. And I know it 
+is a problem when we look at the statistics and we see how 
+upside down so many young people are.
+    I wasn't aware of a lot of the programs that you all are 
+performing right now until we had this hearing, and I 
+appreciate the great insight. And I am very pleased to hear the 
+direction that we are going.
+    The answer that I am kind of looking for to a question is 
+how much you feel the affluence of our current-day society 
+contributes to this problem? In most of our parents' 
+generation, as the gentlelady from New York mentioned a little 
+while ago, they were raised in a depression and they watched 
+their money pretty doggone close. They didn't take anything for 
+granted. They would been hungry. They would have been in want.
+    Today's generation, for the most part, has no idea what 
+that is like. And I would just like to get your quick view from 
+each of you on how much you think the affluence of society has 
+contributed to the irresponsibility, actually, that has become 
+financial illiteracy. And we can start with Ms. Cackley.
+    Ms. Cackley. I don't have an opinion as to whether or not 
+it is worse now than it was before, but I think what we have 
+found is that at all income levels, there is a need for 
+information. That doesn't happen at this point; there are 
+people, very wealthy people, who still don't have the 
+information they need, and certainly middle-income and lower-
+income people, as well.
+    But I can't say over time what the change has been.
+    Mr. Posey. Okay. And I have seen many times the credit card 
+companies will send credit cards to high school and college 
+students. I think there really needs to be a law that if you 
+send somebody an unsolicited credit card, you have no right or 
+redress if they don't pay it.
+    I think that would be a fair game. It ought to work two 
+ways. But you know what my chances would be of ever passing 
+something like that, don't you?
+    Mr. Krajicek?
+    Mr. Krajicek. A few years back, when I was volunteering to 
+teach middle school students originally entrepreneurship and 
+then financial literacy, these were normal 6th, 7th, and 8th 
+graders in not a terribly low-income but relatively low-income 
+area in Austin, Texas, and it was amazing to see the amount of 
+consumerism in those young children, comparing their 
+smartphones to one another to see who has the coolest gadget or 
+who has the best shoes.
+    And, I can't speak to whether or not it was any different 
+whenever I was in school, so I don't know if the trend has 
+altered, but I can say that overt popularity of 
+commercialization definitely is a hindrance to being able to 
+teach financial literacy.
+    Mr. Posey. Thank you.
+    Mr. Kehoe. Congressman, I think there is probably something 
+in the growing affluence of society that lends to that, but I 
+think that the age-old challenge of people, regardless of their 
+income level, living within their means, the need to sort of 
+emphasize that and educate it just doesn't go away no matter 
+what your income level is.
+    I think one of the potential drivers for the need for more 
+financial education today than yesterday is really just the 
+plethora of choice and complexity out there of the number of 
+potential financial products that people can buy and how much 
+more easy it is to access them today.
+    Mr. Posey. Thank you.
+    Mr. Saik. Yes. I don't know if it is the affluence, but I 
+certainly agree there are more inputs and more comparisons of 
+people having gadgets and fun things in society today.
+    But one thing I think about is the importance of the 
+awareness and knowledge and the tools to actually make 
+progress, and that is where I see the real gap. It is kind of 
+like dieting. People know basically, eat less and exercise and 
+you can lose weight, but it is hard for people to take the 
+steps, and that is where I think we really need to focus is on 
+how do you make the little steps and see some progress and make 
+it simple to make choices and simple choices that help you get 
+back on track is something to focus on.
+    Mr. Posey. Yes, and I think we have all seen people spend 
+money they don't have to buy things they don't need to impress 
+people they don't even like. We see the government doing that, 
+actually, too much.
+    But lastly, Ms. Lamb?
+    Ms. Lamb. I will say that for the parents and children whom 
+I represent, it is not the affluence; it is the illusion of 
+affluence and the tremendous emotional pain they feel with 
+regard to this subject, so much that they are not going to 
+whisper their pain to anyone that they are having financial 
+hardships except in the case of an emergency. And the marketing 
+is actually the success story here because it often teaches 
+young people--the young people that I represent--that they are 
+nothing unless they have someone else's name on their body.
+    Mr. Posey. Thank you, Mr. Chairman. I see my time has 
+expired. But I want to thank you for one of the best panels we 
+have had in here yet.
+    Thank you all for what you do.
+    Mr. Luetkemeyer. Thank you.
+    Mr. Scott from Georgia for 5 minutes.
+    Mr. Scott. Thank you, Mr. Chairman. This is, indeed, a 
+fascinating hearing.
+    I have been involved in financial literacy for a long, long 
+time, so welcome, everybody.
+    I just want to share a little incident. When I was in 
+elementary school--I went to elementary school up in Scarsdale, 
+New York, and our class project in the 6th grade was for all of 
+us--
+    Mr. Meeks. I knew you were a New Yorker.
+    Mr. Scott. Absolutely, my friend.
+    And so, our first class project in 6th grade was to go out, 
+earn our own money--shoveling snow, raking leaves, doing 
+everything we can--and then do our research to determine what 
+stock we would buy. Then the whole class went down to the New 
+York Stock Exchange and bought the stock.
+    I never will forget that. It was one of the most profound 
+moments of my life. I had my picture taken down there with 
+Alexander Hamilton on Wall Street.
+    And I have been on that trajectory and have had a piece of 
+stock ever since. I got 75 shares of RCA. And if you go back at 
+that time, RCA was a big deal.
+    I mention that because that is the key. All we have to do 
+is engage these kids, give them something.
+    And that is why I was so excited with you, Mr. Kehoe, when 
+you came to my office and sat down--I don't know if you shared 
+that story, but he has an extraordinary game of, I think it is 
+football, where you actually do it. Will you tell us a little 
+bit about that?
+    Mr. Kehoe. Gladly. Financial Football essentially is a game 
+in which you pick your favorite NFL team that you want to play, 
+and your ability to advance down the field to get a touchdown, 
+whether it is a throw or a run, is determined by whether or not 
+you correctly answer a question related to financial education. 
+And so, you see kids playing this game who are so into the 
+objective of getting the touchdown that they almost forget the 
+fact that they are answering questions along the way. And of 
+course, the harder the question, the longer the throw or the 
+longer the run.
+    We have found this to be an incredibly engaging way to get 
+kids. And we also have, you won't be surprised to learn, a 
+Financial Soccer game, as well, that is pretty much the same 
+tool.
+    Mr. Scott. I certainly commend you for that. And that is 
+the kind of thing I am talking about.
+    Now, Ms. Lamb, we have to get our education in our schools. 
+I mentioned that story about me at the beginning, and that was 
+a long time ago--but again, not too long ago. But what more can 
+we do of that kind of activity? Because kids' minds are 
+expansive. They are ready to learn.
+    Why can't we require in the academic pursuits in our 
+elementary school that a requirement would be just to go and 
+have a youngster set up--go to the bank, set them up a savings 
+account, set up a checking account, or, as in my case, maybe 
+make a trip down to the exchange and buy stock?
+    If we engage them in things, it makes an impact when you 
+are very young and it sets a pattern. What more can we do to do 
+that?
+    Ms. Lamb. I hear it from parents, ``Why isn't it in 
+schools?'' We can't wait for that to happen.
+    Teachers report that they are overburdened already, that 
+they are not experts in a subject that they are being mandated 
+to teach. And when they do teach it, often it is only one 
+subject, and then they have to go back to all the other 
+mandates that they are required to teach so that their class 
+can perform well on the State regents, for example. So, that is 
+not a priority. And then the teachers, actually, just feel 
+really intimidated by having to teach a subject in which they 
+are not experts.
+    Our organization represents about 200 different schools, 
+where parents send their children to us, doing everything that 
+you--we have opened and closed the NASDAQ Stock Exchange 4 
+times--
+    Mr. Scott. Yes.
+    Ms. Lamb. Yes. We have done that. And we start at age 7 
+where children are opening mutual funds and having 
+conversations and reducing the financial discussion, in terms 
+of the chaotic discussion, in the household.
+    So yes, it would be wonderful if it was in all the schools, 
+but we can't wait for someone else to do something that we see 
+that we can provide another solution.
+    Mr. Scott. So what do you think we here in Congress can do? 
+Our reach for education is more getting resources down to the 
+States; it is up to them to do it.
+    But do you think as a part of our literacy effort, that in 
+our appropriations and assistance down to the State, some kind 
+of way we can put resources in there? It might not be the 
+burden of the teacher to do it, but there are some 
+extraordinary organizations like yourselves out there who could 
+take these kids on field trips, who could take them to the 
+exchanges, who could take them to the banks.
+    Unless we do that and show them the greatness of it, and 
+simplify it early in their lives, we are not going to win this 
+battle.
+    Ms. Lamb. We have requests from 14 different cities and two 
+countries that want WorldofMoney to open up affiliates there. 
+We welcome the support and obviously the funding from Congress, 
+but Congress really needs to recognize, yes, this is a 
+financial issue in terms of discussing opening stocks, and 
+compound interest, and dividends, and so forth, but we have to 
+really teach Americans that they can trust that they are worthy 
+of having this discussion. And it is all a trust issue that we 
+are all having a conversation about, and if they don't feel 
+that--
+    Mr. Scott. Thank you.
+    Ms. Lamb. --they are worthy of having a discussion, of 
+accessing Visa or Mint, they are not going there because they 
+feel that experience should be for someone else, and they are 
+going to fill the emptiness in their souls by putting someone 
+else's name on their body until you can teach them otherwise. 
+It has to be a holistic approach.
+    Chairwoman Capito. Excuse me. Yes, time is--
+    Mr. Scott. Well-stated.
+    Chairwoman Capito. Time has expired.
+    Mr. Scott. Thank you.
+    Chairwoman Capito. Sorry about that.
+    Mr. Scott. No, thank you for the extra time.
+    Chairwoman Capito. Mr. Green for 5 minutes.
+    Mr. Green. Thank you very much, Madam Chairwoman.
+    And because the lady was very excited about her answer, I 
+will yield some additional time for her to complete her answer.
+    Ms. Lamb. It has become an absolute epidemic, Congressman, 
+regarding this subject, and our children really do see the 
+power of money in their households. They see their parents 
+fighting and screaming and manipulating money and maybe not 
+answering the phone when the credit card companies are calling. 
+They see maybe their parents signing documents that the parents 
+admit that they don't understand, signing away or agreeing to 
+high interest rates, agreeing to subprime mortgages or what 
+have you, because they don't feel the power to question 
+anything.
+    The access of the manipulation of money, the transferring 
+of all these resources of--even if it is a dollar, it is 
+feeling that you have the ability to question it, to say, ``I 
+am not ready to sign this until I speak to my financial 
+adviser,'' or, ``I am just not ready to sign it.'' And there 
+are millions of Americans in all of your districts who are 
+signing away or agreeing to legal contracts who don't feel the 
+worthiness of their ability to question anything. And in order 
+for us to really address this subject, we have to do so 
+holistically.
+    Mr. Green. Thank you very much.
+    I am going to continue that in just a moment, but before I 
+do, I would like for you to reiterate what you said about board 
+members--I believe you have two board members here with you?
+    Ms. Lamb. Yes. Dante Stewart, who is--
+    Mr. Green. Would you please raise your hand, Dante, so that 
+people will see that--
+    Ms. Lamb. Dante Stewart and Ciana Montero. They started 
+attending WorldofMoney when they were 11 years old, and have 
+attended every year for the last 4 years. They have created 
+businesses; they have changed the conversation in the 
+household. And they represent thousands of children who have 
+attended WorldofMoney who are really doing the same thing.
+    Mr. Green. Now, let's return to the previous conversation 
+or statements that you were making about how people find 
+themselves contracting in ways that are not beneficial. I have 
+some intelligence which connotes that about 66 percent of 
+unbanked households use nonbank money orders and nonbank check-
+cashing.
+    I am sure we can see how that doesn't adhere to their 
+benefit when you are buying money orders to pay your bills, you 
+are also using these check-cashing places so that you end up 
+getting money but it costs you. They use pawn shops. They use 
+payday loans. They use rent-to-own agreements. You never really 
+ever own it, by the way.
+    Ms. Lamb. Right.
+    Mr. Green. You just rent forever, with the hope that one 
+day the product that is in your home may become yours.
+    They use refund anticipation. If you are going to get a tax 
+refund, that becomes a means by which you quickly go out and 
+acquire that refund, but at a cost.
+    So they live in a world where it costs them to do things 
+that we take for granted--things that probably most of the 
+people in this room, save a few, would not pay a penny to have, 
+and that is very unfortunate.
+    So the question for us ultimately is--and I think we are 
+embracing it with the committee today and I salute my colleague 
+who said that this has been a good hearing--how do we 
+communicate this message to persons who believe they have no 
+reason to bank because they have little money? Little money, no 
+reason; much money, many reasons. How do you communicate the 
+message to them that they have a stake in their own future by 
+simply becoming a part of the banked community?
+    Ms. Lamb. You can draw a comparison or an equation with the 
+cost of purchasing those money orders with doing a free 
+transaction with a bank. Congressman Meeks asked earlier what 
+is the power of in-person instruction, well, that is what in-
+person can do. When you draw those parallels, those equations, 
+and when--we have done it at our institute and our parents and 
+our children say, ``Really? It is free to do these same 
+transactions at the bank?''
+    Mr. Green. My time has also expired.
+    Thank you, Madam Chairwoman.
+    Chairwoman Capito. Thank you.
+    Mr. Barr?
+    I apologize to Mr. Barr. I should have gone to him first. 
+But anyway, I am coming to you now, Mr. Barr.
+    Mr. Barr. Thank you, Madam Chairwoman, and no problem 
+whatsoever. I appreciate your leadership in holding this 
+important hearing.
+    I would like to direct my first question to Ms. Cackley and 
+the GAO's work on the overlap of financial literacy programs 
+across the government. And I note in your testimony here today 
+that a while back in 2012, the GAO identified 16 financial 
+literacy programs among 14 Federal agencies. I think as of 
+April of this year, three of those financial literacy programs 
+and one housing counseling program no longer existed, or no 
+longer received funding. But there are still, needless to say, 
+a number of Federal financial literacy programs across the 
+government.
+    One of the conclusions from your report appears to be that 
+further progress is still needed to help ensure effective 
+allocation of resources and to avoid unnecessary overlap. So 
+where are those places where we still see duplication and waste 
+in these Federal programs? And in particular, I would like for 
+you to address not just the improvements that the CFPB has made 
+in eliminating duplication, but also places where the CFPB can 
+still improve in terms of enhanced coordination.
+    Ms. Cackley. Certainly. First of all, what we have 
+identified could best be described as fragmentation across the 
+Federal Government. We did not find any instances where the 
+exact same people were getting the same benefits from different 
+agencies. So I just wanted to make the point that fragmentation 
+is a problem if it leads to inefficiencies, and what our 
+recommendations really spoke to was making sure that you are 
+allocating scarce Federal resources in the most efficient way 
+by putting the money where the most effective programs are.
+    What we also, therefore, recommended was that the agencies 
+need to know which are the efficient programs, which are the 
+effective programs, and that is work that there is some 
+information about effectiveness but not enough, and that is 
+part of our recommendation is to do more--learn more and 
+understand more. Each agency needs to know and to be able to 
+show how effective their program is, and then that allows the 
+Commission to make recommendations about where the resources 
+should be allocated.
+    Mr. Barr. And with respect to the CFPB's progress on 
+coordination?
+    Ms. Cackley. The CFPB's progress on coordination, they have 
+certainly done more in terms of--through the Financial Literacy 
+and Education Commission (FLEC), there have been partnerships 
+created, there have--they have worked to--partly the programs 
+that are no longer being funded I--or where resources have been 
+consolidated, within the Office of Treasury, their Office of 
+Financial Education, which we pointed out as being probably the 
+closest example of an overlap, has been subsumed and the CFPB 
+has taken on more of the principal thing that we identified.
+    Mr. Barr. Here is perhaps maybe what--let's just get to the 
+crux of the matter, which is that in 1960 the personal savings 
+rate in America, the share of people's after-tax income that 
+they actually saved was 11 percent. In 2013, it was just over 4 
+percent.
+    Now clearly, the economy has a lot to do with that: Three 
+out of four Americans are living paycheck to paycheck; over 
+half of Americans couldn't come up with $2,000 in a short 
+matter of time if they had to.
+    So with all of these programs that taxpayers are investing 
+in, are we really actually making any progress?
+    Ms. Cackley. It is a very good question. Part of the 
+statistic about the savings rate is that it actually was much 
+lower before the crisis. Americans' savings rate was, I think, 
+closer to 1 percent. So 4 percent is actually an improvement in 
+the recent past.
+    But it is certainly a good question, and we haven't--it 
+would be hard to assign any particular program as being able to 
+turn around the savings rate for the whole country--
+    Mr. Barr. I have just a little bit of time left, so let me 
+just direct this final question to Mr. Kehoe.
+    I applaud Visa's work in financial literacy, and my 
+question to you is, would you all see consolidation with the 
+government programs to maybe grants to some of your more 
+successful efforts to be a more productive use of taxpayer 
+dollars?
+    Mr. Kehoe. I don't know if I can comment on the best use of 
+taxpayers' dollars to do this. I think our focus really is, at 
+its core is, let's produce materials which we know work with 
+school kids, college graduates, everybody, and then work with 
+the public sector to get it into the hands of people to do it. 
+I think that is where we place our emphasis and that is really 
+what we will continue to do.
+    Chairwoman Capito. The gentleman's time has expired.
+    Mr. Barr. Thank you.
+    Chairwoman Capito. Mr. Ellison?
+    Mr. Ellison. Thank you, Madam Chairwoman.
+    And thank you, ranking member.
+    I appreciate this very important hearing.
+    One thing I just want to ask all of you quickly is, just to 
+get this idea out there on the record, financial literacy--do 
+you see it as a supplement to good consumer protection or as a 
+replacement for it?
+    Would anybody care to comment on that? Please feel free, 
+anybody.
+    Ms. Lamb. I would say it is absolutely a replacement for 
+and is consumer protection generationally.
+    Mr. Ellison. So are you submitting that we don't need 
+consumer protection if we--
+    Ms. Lamb. By having a financially educated American family 
+who is also protected, and having the information to protect 
+themselves, and having the information to make the proper 
+choices that--
+    Mr. Ellison. I hear you.
+    Ms. Lamb. Okay.
+    Mr. Ellison. Let me ask you this, though. What I am trying 
+to get at is this idea--I just looked up American math 
+proficiency, and if you look at industrialized countries around 
+the world, we are actually pretty low compared to a lot of 
+countries in math proficiency. So I might argue that ideally, 
+sure, everybody understands all this stuff, no problem. In a 
+country of 317 million who have a significantly diminished math 
+capacity, where there are also high-pressure sale tactics and 
+tricks, I might submit to you that we do need very active 
+consumer protection and we also need active consumer education.
+    Ms. Lamb. Sure.
+    Mr. Ellison. We need both. So that is why I said, 
+``supplement to'' or ``replacement for.''
+    Ms. Lamb. I see.
+    Mr. Ellison. So would you agree with me, Ms. Lamb, that we 
+need both?
+    Ms. Lamb. Absolutely.
+    Mr. Ellison. Yes.
+    Ms. Lamb. We need all the help we can get.
+    Mr. Ellison. Right.
+    Ms. Lamb. And all the information we can get, yes.
+    Mr. Ellison. Yes.
+    And another thing too, is we were talking about how to make 
+Americans more financially self-reliant and able to protect 
+themselves more. One of the things that has come up quite a bit 
+is the issue of a fiduciary duty. I strongly favor rules that 
+require financial advisers to have a fiduciary duty to their 
+clients, and what improvements do you recommend--and by you, I 
+mean the collective you--to better protect consumers from 
+hidden Commissions, high fees, and kickbacks that cost them 
+money?
+    Any thoughts on this issue?
+    Mr. Krajicek. I think that one thought would be for 
+Americans to be encouraged to bank locally with local community 
+banks and credit unions. These are guys who don't want to take 
+advantage of their customers.
+    I will tell you a quick story. One of the first times I met 
+a community banker, it was a guy named James Mark, in a small 
+town in Taylor, Texas--City National Bank in Taylor, Texas.
+    He was about 30 minutes late for our meeting and I peered 
+through his office window and saw him sitting there with an 
+elderly lady and receipts all over his desk. When I finally got 
+to go in and talk to him I said, ``What kept you so long?'' He 
+said, ``That is Ms. So-and-so. She overdrew her account a few 
+months ago and she has been coming in here every week and I 
+help her and let her know exactly where to budget her finances, 
+what she can buy and what she can't.''
+    That is the head of operations at a community bank. And 
+someone who gives that kind of support is not the kind of 
+person who would try to hide a fee.
+    Mr. Ellison. Got it. And let me just say, I think that is a 
+very lovely story, and it is great that the lady has the access 
+that way. But America has 317 million people.
+    Mr. Krajicek. And we have 13,500 community banks and credit 
+unions.
+    Mr. Ellison. I know. I am not trying to debate you, sir. I 
+am just trying to point out that while I think it is great that 
+lovely story was told and that woman is getting help, we 
+actually need to approach this situation on a systemic level.
+    I agree with Ms. Lamb. We need to educate people. We need 
+good Samaritans like the individuals you were talking about, 
+but we actually need really active consumer protection, too.
+    And I guess my question is and remains, what is the proper 
+proportion and mix? Do you all agree with the strategy to 
+protect consumers--all education?
+    How about you, Ms. Cackley?
+    Ms. Cackley. We certainly think that financial literacy is 
+important, but it is not the only solution, partly because 
+there are just limitations to what you can do even if you are 
+financially literate--
+    Mr. Ellison. Sure.
+    Ms. Cackley. --and partly because there are some people who 
+just aren't going to be able to learn everything that they 
+should learn, and those people need to be protected, too. So it 
+is certainly a ``yes, and'' as opposed to an ``either, or.''
+    Mr. Ellison. I see the red light, and I want to thank the 
+chairlady and the panel. Thank you.
+    Chairwoman Capito. Thank you.
+    Mr. Pearce?
+    Mr. Pearce. Thank you, Madam Chairwoman. I appreciate it.
+    And I appreciate the testimony each of you have given.
+    We have probably done 50 financial literacy workshops 
+ourselves. We see the need for it every day, especially in a 
+poor State like New Mexico.
+    Even my own family--Dad would never go into the banks. He 
+just wouldn't do that. So, we always were struggling for 
+housing. And Mom was the one who would sometimes go into the 
+banks. But anyway, I am very, very familiar with it.
+    Ms. Cackley, I was going to ask, you saw the testimony that 
+Ms. Lamb had, and on page two she is talking about the 
+predatory lenders' and fringe financial service providers' 
+aggressive disproportionate targeting of communities of color. 
+In your oversight of and in your looking at the different 
+programs, are any of the programs helping people to understand 
+what is going on out there and identifying the institutions 
+which are doing this?
+    If we are going to get financial literacy, we start with 
+the problems first, tell you, ``These people here are here to 
+take your money.'' And so, that is my question.
+    Ms. Cackley. I don't have in-depth knowledge of each of the 
+different programs and what all of their curriculums cover, but 
+it is certainly true that a lot of different programs are 
+available. There are a lot of different ways that information 
+is provided to the public in terms of financial literacy, 
+depending on which agency it is coming from and what their 
+purpose is, whether it is Social Security talking to retirees, 
+or somebody else talking to young kids, or just adults in 
+general.
+    But there are--
+    Mr. Pearce. Let me ask this, and you have more knowledge 
+than me. You have talked to more of the agencies than I have. 
+If you haven't seen the programs themselves, have you ever seen 
+an agency that is out there to try to tell people, ``This 
+institution is doing these things?'' I don't see that myself, 
+and I wonder why.
+    What we are trying to do is we try to set up things for 
+government to where they don't ever offend anybody and they try 
+to get their objective across by enforcement on everybody, and 
+not everybody is doing the things. Not every bank is--or not 
+every payday lender is doing predatory things. They actually 
+provide a pretty good service.
+    But what we are going to do is we are going to kill all of 
+them because a few are doing things wrong, and I just wonder 
+why agencies don't ever go after the people who are doing it 
+wrong and just advertise for them.
+    Ms. Cackley. Certainly, the regulatory agencies who have a 
+role in consumer protection do go after bad actors as they 
+identify them. What I can't say specifically is whether or how 
+they name them and get that information out to the public.
+    Mr. Pearce. I want to take issue with you, because 
+yesterday we were sitting in a hearing where we had Mr. Madoff 
+turned in for 8 years by one guy saying he can't be correct, 
+and so the regulatory agencies actually set it off on the side. 
+But I am asking as much about those institutions you are saying 
+that we--and I agree with you.
+    I am out there trying to give financial literacy myself, 
+but if our financial literacy is not going to include those 
+difficult-to-talk-about things about the people who are doing 
+stuff that is hurting consumers in a bad way, then we end up 
+saying to the regulators, ``You have to regulate everybody else 
+who is not doing anything bad.'' And what that winds up with 
+are anomalies in our whole regulatory system that are affecting 
+everybody who is following the rules.
+    Community bankers did not cause the financial crisis, but 
+Dodd-Frank basically goes after community bankers. And so, I 
+just came from upstairs right now talking to a bunch of bankers 
+who say, ``We could not make a loan to the best customer in 
+this one town we have had forever because of the new rules,'' 
+and that is what we get forced into this trying to correct 
+problems with people who are not causing them and we don't go 
+after the ones who are causing them.
+    So my question is, you as a professional, so we get this 
+layering on, we get multiple agencies doing the same thing, but 
+none of them want to take on the problems that Ms. Lamb was 
+talking about, and so we all kind of skirt around these things 
+because they are very uncomfortable when we start talking about 
+people directly who are doing things that are unproductive. I 
+just wonder, again, if you think it is even possible for an 
+agency ever to get into that realm--one of the educational 
+agencies that you looked at. Can we get them into that realm?
+    Ms. Cackley. I certainly think it is possible. I just don't 
+know, of my own knowledge, whether it is being done already.
+    Mr. Pearce. I had a lot of questions, but I got kind of 
+bogged down, so the rest of you escaped cleanly today. Sorry.
+    Chairwoman Capito. I would like to ask unanimous consent to 
+submit the following statements for the record: the Credit 
+Union National Association; the Center for American Racial 
+Equality; and the Property Casualty Insurers Association of 
+America.
+    I now recognize Mrs. Maloney for 5 minutes.
+    Mrs. Maloney. Okay. Thank you very much. I regret, Madam 
+Chairwoman, that I had a conflict with the Joint Economic 
+Committee, at which I had to be ranking member.
+    I would like to ask Stephen Kehoe, in your written 
+testimony you note that in order for financial literacy 
+technology to be effective, it has to be appealing to the 
+audience that it is being geared toward. Can you talk about 
+some of the challenges that you are confronting involved in 
+making this financial literacy technology appealing, and how 
+has Visa tried to make their programs appealing to different 
+groups? Do you have a different strategy for different groups, 
+and how are you making it appealing?
+    Mr. Kehoe. Congresswoman, thank you for the question. Yes. 
+Yes, we do.
+    So, our tools, our products in the area of financial 
+literacy, as I said in the statement, are very much geared 
+toward using entertainment as much as possible to engage. This 
+can be a very dry subject, let's face it, for many, many 
+people, and I think the challenge is you can engage with 
+somebody once; the question is whether they will return to the 
+same tool and use it again and again.
+    So it has to be productive--there has to be an outcome that 
+they get from it. For instance, they get some information which 
+enables them to think more easily about retirement. Or it has 
+to be fun, and they actually get something out of a game, which 
+enables them to kind of go back.
+    We have a range of tools which are available on mobile 
+phone devices that really appeal to everybody from elementary 
+to middle to high school and to college students to sort of do 
+that. And really, technology is very much geared towards those 
+age groups because, as you will appreciate, they are very tech-
+savvy. They know how to use it and they want to engage with 
+these devices.
+    I think more of the challenge, then, is people at the other 
+end of the spectrum--retirees. How do you engage with them most 
+effectively? But I think that is something we are still 
+learning how to do.
+    Mrs. Maloney. Okay.
+    And, Ms. Lamb, in your view, can technology fully replace 
+what we think of as a more traditional one-to-one personal 
+education that is what we have now?
+    Ms. Lamb. Not fully, Congresswoman, because it has to 
+overcome tremendous layers of distrust that many communities 
+feel with regard to this issue and are--almost refused for 
+decades to even have a conversation about it. It can add to the 
+activity, but I don't believe it should be a full replacement 
+for one-on-one or classroom style instruction.
+    Mrs. Maloney. Ms. Cackley, is the governance structure of 
+the Financial Literacy and Education Commission adequate to 
+ensure that real progress is made in fulfilling the goals 
+outlined in the national strategy? And do you think the 
+agencies are targeting the right constituencies in their 
+financial literacy programs?
+    Ms. Cackley. The governance structure of the Commission is 
+that the Secretary of the Treasury is the Chair of the 
+Commission and the CFPB Director is the Vice Chair, and then 
+there are 22 agency members. There is no authority within the 
+Commission to compel any particular agency to take actions or 
+to allocate resources, and that makes it challenging for the 
+Commission to achieve some goals. We don't think it makes it 
+impossible because the Commission can still make 
+recommendations both to Congress and to the agencies, and that 
+is useful information that you can then take and use to make 
+policy.
+    Could you actually repeat the second question, because--
+    Mrs. Maloney. Do you think the agencies are targeting the 
+right constituencies in their financial literacy programs?
+    Ms. Cackley. Different agencies very much target different 
+constituencies, and they have a very deep experience with 
+certain constituencies, so Social Security has been 
+communicating with retirees for a very long time and they know 
+well how to do that. And similarly with the Department of 
+Education and others.
+    There are other agencies that look more broadly and provide 
+information across a number of populations but the subjects 
+that they cover can be very different. They might be specific 
+to home mortgages, or they may be specific to something else 
+targeted.
+    We didn't recommend any specific consolidation within one 
+agency, but we did see that the coordination across the 
+agencies needed to be good in order for there not to be overlap 
+and duplication. And we have seen some progress, but there is 
+always room for improvement in terms of coordination, and that 
+is certainly what we would recommend that they continue.
+    Mrs. Maloney. Thank you. Are any constituencies left out 
+that should have been targeted that you know of?
+    Chairwoman Capito. The gentlelady's time has expired.
+    Mr. Stivers for 5 minutes.
+    Mr. Stivers. Thank you, Madam Chairwoman, for allowing me 
+to be involved in this hearing. As the co-chair of the 
+Financial Literacy Caucus, I know how important financial 
+literacy is to our future. There was an article in USA Today 
+about 2 weeks ago, on April 8th--3 weeks ago--by Hadley Malcolm 
+that I would like to ask unanimous consent to submit for the 
+record, which shows that financial literacy education works.
+    Chairwoman Capito. Without objection, it is so ordered.
+    Mr. Stivers. And I do have some questions for the 
+witnesses. My first question is for Ms. Cackley.
+    The new GAO report looked at all the financial literacy 
+programs, and you list 16, but you say there may only be 13 
+currently funded. Can you talk a little bit about the 
+evaluations that those programs use to determine how effective 
+they are and their lack of evaluation tools? I know the CFPB is 
+moving toward creating an evaluation tool, but really, we don't 
+know what we are getting for the money we are spending or what 
+the outcomes are and what the engagement rates are, do we?
+    Ms. Cackley. Different programs have done different levels 
+of evaluation. We generally like to see something where there 
+is good measurement of outcomes, and some programs have done 
+that. I think certainly the National Foreclosure Mitigation 
+Counseling Program had studies done on it; the Army's personal 
+financial management training; Money Smart--those are some of 
+the programs that we had identified as having had measurement 
+and effectiveness studies done.
+    But there are certainly others where they may be measuring 
+outputs but not necessarily outcomes, so effectiveness hasn't 
+necessarily been measured. Sometimes that is because the 
+program isn't really geared to being able to measure an 
+outcome, but in other cases it may just not have been done. And 
+so certainly, more evaluation would be useful.
+    Mr. Stivers. Thank you. And I noted that three of the other 
+witnesses, in their written testimony, mentioned the need to 
+either have ``edutainment'' or engage people in some meaningful 
+way so that they will come back and not just go to a site once 
+and be bored out of their mind.
+    Ms. Lamb, you are shaking your head, and I know it was in 
+your testimony about how important it is to actually engage 
+people.
+    Can anybody who wants to--and I will start with Ms. Lamb--
+talk about how important that is, because we have to actually 
+get people's attention before we can actually share 
+information?
+    Ms. Lamb. Right. It is a lot of great information, great 
+online experiences that our witnesses represent, and if we 
+can--if we have a community or millions of Americans who refuse 
+to go there, but blend into their natural habitats or 
+discussion or destinations online, we can educate them without 
+them even making a conscious effort to log on to any of these 
+amazing experiences, because they are just not going to go for 
+a variety of reasons. But if we can just plant seeds--say, 
+``Learn, earn, save, invest, donate,'' and--throughout wherever 
+they are, on Instagram it just pops up, paying a bill, then 
+perhaps they will determine to move towards a more robust 
+financial education.
+    Mr. Stivers. Thanks.
+    Mr. Kehoe, you are at Visa, a major card platform. Tell me 
+why Visa believes in financial literacy, and what they would 
+like to see in their customers who have Visa cards as far as 
+being financially literate and how that benefits Visa and our 
+broader economy.
+    Mr. Kehoe. Quite simply, a better informed, better educated 
+consumer is simply a wiser spender. They manage their money 
+more wisely, and that has a knock-on effect for the broader 
+economy.
+    So I think we look at the nature of the challenge and we 
+are happy to sort of participate in pulling together the 
+materials and the tools that will do this. And yes, we have a 
+vested interest in making sure that everybody who carries a 
+Visa card in their pocket knows what that product can do and 
+how to use it wisely.
+    Mr. Stivers. I am running out of time so the one last 
+question I want to ask is, does anybody--just raise your hand 
+if you agree with the statement that a better informed consumer 
+through financial literacy is a better protected consumer.
+    I will note that everyone raised their hand.
+    I would like to--I am working on a bill that would get the 
+CFPB much more engaged. They are engaged in specific target 
+populations, but what we really need them engaged in is 
+educating America because it is the best form of consumer 
+protection.
+    Rather than having some agency looking at transactions 
+after they occur, getting consumers informed before 
+transactions occur to make sure they are not taken advantage of 
+is the best consumer protection. I see a shaking of heads 
+across the board there, and I want to make sure we get the 
+Consumer Financial Protection Bureau much more engaged in that 
+effort of educating not just target populations.
+    I am sorry I ran over. I apologize, and I yield back my 
+time.
+    Chairwoman Capito. All right.
+    Mr. Heck?
+    Mr. Heck. Thank you, Madam Chairwoman.
+    I really appreciated, actually, Mr. Posey's reference to 
+his constituent who repeatedly reminds him about the importance 
+of financial literacy. After I spent so much incredible time 
+and effort trying to get myself on this committee and went back 
+home and shared that news with my family, my older brother 
+Jerry, who retired after a successful career in the financial 
+services sector, immediately responded with, ``Now, here is 
+what your highest priority ought to be--financial literacy.'' 
+And he has reminded me of that multiple times since, and I 
+happen to agree with him.
+    I would like to ask any of you, each of you, all of you, if 
+you have any particular programs/tools/approaches that have as 
+their particular focus members of the U.S. military. And the 
+reason I ask that is I happen to have the privilege to 
+represent a very large military installation, but also because 
+it is pretty clear that young men and women in uniform tend to 
+be kind of vulnerable, at times, to getting themselves in 
+circumstances, some of them that a heightened degree of 
+financial literacy would at least impede or mitigate.
+    Any of you have any particular focus, programs, tools, 
+outreach in that regard?
+    Mr. Saik. Intuit is proud to support the U.S. military. We 
+have a program through our TurboTax group where we provide 
+TurboTax for free to help our military members prepare and file 
+their taxes.
+    Mr. Heck. Thank you for that.
+    But in terms of an educational program to heighten 
+financial literacy, do any of you have--
+    Ms. Lamb. At WorldofMoney, many military families enroll 
+their children in our institute every year, from Fort Dix to 
+McGuire Air Force Base, and they travel to New York City to 
+access or to attend the institute.
+    Mr. Kehoe. Congressman, we have no specific products geared 
+towards or specifically to servicemen and servicewomen. 
+However, financial planners who are on the military bases 
+across the country are one of our most frequent requesters of 
+material that we send through. So that is something that we at 
+least engage in the distribution of our material to military 
+bases.
+    Ms. Cackley. I am not aware of specific programs, but I am 
+certainly aware that there is an Office of Servicemember 
+Affairs within the Consumer Financial Protection Bureau which 
+works and coordinates with the financial planners to whom Mr. 
+Kehoe just referred.
+    Mr. Heck. There certainly is, headed very capably by Holly 
+Petraeus. I would encourage each of you to give a little bit of 
+thought to what it is you might do in that regard.
+    I want to go back to the issue of evaluation.
+    And, Ms. Cackley, I am going to ask you to stand down in my 
+first volley here.
+    It is just not clear to me how you will know you are 
+successful in a meaningful way. And by that I mean, the 
+anecdotes are helpful. Some of the metrics like, ``Our product 
+or our tool gets referred to other people,'' that is helpful.
+    But at the end of the day, it seems to me the only metric 
+that we are really after here is changing behavior in a way 
+that makes the consumer more financially protected, secure, and 
+smart, and I am asking, are any of you engaged in any 
+evaluation efforts that would give us that information? 
+Ultimately, that is the goal.
+    Mr. Kehoe. I can kick it off by saying that I certainly 
+agree that evaluation is absolutely critical. And there are a 
+number of studies that we are engaged in which look at control 
+groups and then educated people afterwards, and these do show 
+that education has results.
+    One thing that we look at in particular along a number of 
+metrics is how many people keep a revolving balance on their--
+    Mr. Heck. Keep what?
+    Mr. Kehoe. --credit card account--a revolving balance on 
+their credit card account. And in fact, one of the things we 
+say that even the most--we have found is even the most basic of 
+training means that we see around about a 20 percent reduction 
+in the number of people who maintain a revolving balance. And 
+actually, on things like having late fees on their accounts of 
+paying, that was reduced by around about 23 percent.
+    So yes, there are some studies out there which we are 
+involved in that show that it is having an impact.
+    Mr. Heck. I am nearly out of time. I would just conclude--I 
+was actually hoping to plumb this a little with you, Ms. 
+Cackley. You had indicated more evaluation would be useful.
+    I would encourage--and it seems to me most appropriately 
+you, but I may be wrong--advocacy for longitudinal evaluation 
+with control groups, specifically geared to what works and what 
+doesn't work. Because the truth of the matter is, everybody 
+sitting at that table wins, everybody in America wins if we are 
+able to accomplish that which you are engaged in, for which I 
+commend you.
+    I thank you for being here today very much.
+    Thank you, Madam Chairwoman.
+    Chairwoman Capito. Thank you.
+    I think that concludes our hearing.
+    I would like to thank all of our witnesses today. I think 
+it has been very informative, and I appreciate the efforts that 
+you are making in the area of financial literacy. I think if we 
+all work together, we will keep moving forward. There is still 
+lots of work to be done.
+    Thank you so much.
+    The Chair notes that some Members may have additional 
+questions for this panel, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+    Without objection, the hearing is adjourned.
+
+    [Whereupon, at 12:04 p.m., the hearing was adjourned.]
+
+
+                            A P P E N D I X
+
+
+
+                             April 30, 2014
+[GRAPHIC] [TIFF OMITTED] 
+
+                               <all>
+
+
+</pre></body></html>

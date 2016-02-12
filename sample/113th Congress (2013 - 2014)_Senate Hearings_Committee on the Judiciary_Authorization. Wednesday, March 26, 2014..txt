@@ -1,0 +1,1320 @@
+<html>
+<title> - REAUTHORIZATION OF THE SATELLITE TELEVISION EXTENSION AND LOCALISM ACT</title>
+<body><pre>
+[Senate Hearing 113-691]
+[From the U.S. Government Publishing Office]
+
+
+                                                        S. Hrg. 113-691
+ 
+                   REAUTHORIZATION OF THE SATELLITE 
+                   TELEVISION EXTENSION AND LOCALISM ACT
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE 
+
+                       COMMITTEE ON THE JUDICIARY
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                       WEDNESDAY, MARCH 26, 2014
+
+                               __________
+
+                          Serial No. J-113-54
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+         
+         
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]         
+
+                       
+                           U.S. GOVERNMENT PUBLISHING OFFICE
+95-760 PDF                         WASHINGTON : 2015                           
+______________________________________________________________________________________                       
+                       
+For sale by the Superintendent of Documents, U.S. Government Publishing Office, 
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free). 
+E-mail, gpo@custhelp.com.  
+                      
+                       
+                       
+                       
+                       COMMITTEE ON THE JUDICIARY
+
+                  PATRICK J. LEAHY, Vermont, Chairman
+DIANNE FEINSTEIN, California         CHUCK GRASSLEY, Iowa, Ranking 
+CHUCK SCHUMER, New York                  Member
+DICK DURBIN, Illinois                ORRIN G. HATCH, Utah
+SHELDON WHITEHOUSE, Rhode Island     JEFF SESSIONS, Alabama
+AMY KLOBUCHAR, Minnesota             LINDSEY GRAHAM, South Carolina
+AL FRANKEN, Minnesota                JOHN CORNYN, Texas
+CHRISTOPHER A. COONS, Delaware       MICHAEL S. LEE, Utah
+RICHARD BLUMENTHAL, Connecticut      TED CRUZ, Texas
+MAZIE HIRONO, Hawaii                 JEFF FLAKE, Arizona
+           Kristine Lucius, Chief Counsel and Staff Director
+              Kolan Davis, Republican Chief Staff Director
+                            
+                            C O N T E N T S
+
+                              ----------                              
+
+                    STATEMENTS OF COMMITTEE MEMBERS
+
+                                                                   Page
+
+Leahy, Patrick J., a U.S. Senator from the State of Vermont......     1
+    prepared statement...........................................    22
+Grassley, Charles, a U.S. Senator from the State of Iowa, 
+  prepared statement.............................................    24
+
+                               WITNESSES
+
+Witness List.....................................................    21
+Minea, Alison A., Director and Senior Counsel of Regulatory 
+  Affairs, DISH Network L.L.C., Washington, DC...................     3
+    prepared statement...........................................    27
+Burdick, Marci, Senior Vice President of Broadcasting, Schurz 
+  Communications, Inc., Mishawaka, Indiana, on behalf of the 
+  National Association of Broadcasters...........................     4
+    prepared statement...........................................    54
+Stutzman, Ellen, Director of Research and Public Policy, Writers 
+  Guild of America, West, Inc., Los Angeles, California..........     6
+Bergmayer, John, Senior Staff Attorney, Public Knowledge, 
+  Washington, DC.................................................     8
+    prepared statement...........................................    67
+
+                               QUESTIONS
+
+Questions submitted by Senator Grassley for Alison A. Minea......    74
+Questions submitted by Senator Grassley for Marci Burdick........    76
+Questions submitted by Senator Grassley for Ellen Stutzman.......    77
+Questions submitted by Senator Klobuchar for Ellen Stutzman......    78
+Questions submitted by Senator Grassley for John Bergmayer.......    79
+
+                                ANSWERS
+
+Responses of Alison A. Minea to questions submitted by Senator 
+  Grassley.......................................................    80
+Responses of Marci Burdick to questions submitted by Senator 
+  Grassley.......................................................    86
+Responses of Ellen Stutzman to questions submitted by Senator 
+  Klobuchar......................................................    92
+Responses of Ellen Stutzman to questions submitted by Senator 
+  Grassley.......................................................    96
+Responses of John Bergmayer to questions submitted by Senator 
+  Grassley.......................................................   100
+
+                MISCELLANEOUS SUBMISSIONS FOR THE RECORD
+
+Motion Picture Association of America, Inc., March 26, 2014, 
+  statement for the record.......................................   102
+
+
+ REAUTHORIZATION OF THE SATELLITE TELEVISION EXTENSION AND LOCALISM ACT
+
+                       WEDNESDAY, MARCH 26, 2014
+
+                                       U.S. Senate,
+                                Committee on the Judiciary,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10 a.m., in Room 
+SD-226, Dirksen Senate Office Building, Hon. Patrick J. Leahy, 
+Chairman of the Committee, presiding.
+    Present: Senators Leahy, Klobuchar, Franken, Grassley, 
+Hatch, and Flake.
+
+OPENING STATEMENT OF HON. PATRICK J. LEAHY, A U.S. SENATOR FROM 
+                      THE STATE OF VERMONT
+
+    Chairman Leahy. Good morning, everybody. The Senate is just 
+opening, and I understand that the visiting chaplain today is 
+from Iowa, so obviously Senator Grassley is there on the floor 
+and will join us in a while. But my good friend, Senator Hatch, 
+is here, the most senior Member of the Republican Party, and my 
+friend, Amy Klobuchar.
+    You know, it does not seem possible, except for those of 
+you in the industry, but five years ago, television 
+broadcasters turned off their analog signals. They went to 
+digital. It is a different type of business and thus a dramatic 
+improvement. But even then, we did not even start to imagine 
+how the video market has changed. With online platforms like 
+Netflix and Amazon and others, you can watch entire seasons of 
+television shows on demand. They have also been doing a lot of 
+original programming.
+    We have had very rapid innovation like this over the years, 
+from the cable industry in the 1970s to the satellite industry 
+in the 1980s. New challenges, new opportunities, but it has 
+been almost 30 years since we passed the Satellite Home Viewer 
+Act to address the challenges of it. Now we have the most 
+recent iteration of that law: the Satellite Television 
+Extension and Localism Act, or STELA.
+    STELA grants the satellite industry a compulsory copyright 
+license to retransmit distant broadcast television content to 
+consumers who are unable to receive a signal over the air. I am 
+not telling you anything you do not know, but I am doing this 
+because we stream these online and those who are following us 
+online. And this license is going to expire at the end of the 
+year. Actually, it was, for many years, the only way the 
+satellite industry could provide broadcast television content 
+to consumers. But broadcast television is most valuable when it 
+is appropriately tailored to local markets and provides local 
+news, weather, and sports that consumers want to see. We worked 
+in 1999 to create a new, permanent license to allow for the 
+retransmission of local content by satellite carriers into 
+local markets. And I think that has helped to strengthen the 
+local focus of American broadcasting, having this local 
+television content and satellites.
+    It has put two major, nationwide distribution platforms on 
+an equal footing with the cable industry. DISH Network and 
+DIRECTV give people more choice, particularly in rural areas 
+like Vermont where cable is not always available. Even though I 
+live seven miles from our State capital, from the Statehouse 
+itself, I am on a dirt road where my nearest neighbor is half a 
+mile away. So that gives you some idea of why there is no cable 
+television there. And because it is on the side of a mountain, 
+there is very little over-the-air television.
+    But when I am home, I like to be able to see the local news 
+and know what is going on throughout the State of Vermont. That 
+is why I have worked to ensure that every single satellite 
+subscriber in the State has access to local news and weather, 
+as I do as a satellite subscriber.
+    In 2010, we extended STELA's distant signal license for 
+another five years. We updated all three of the compulsory 
+copyright licenses for the digital era. We made changes to 
+reduce reliance on the distant signal license.
+    Now, I recognize that not everyone sees a need for us to 
+reauthorize this license. Compulsory copyright licenses 
+inherently restrict the rights of content holders to negotiate 
+on market-based terms. And retransmissions of out-of-market 
+broadcast stations dilute the value of local stations. And I 
+share some of these concerns. I look forward to a time when we 
+can let this license lapse because virtually all consumers are 
+being served by local stations.
+    From what I hear around the country, we are not at that 
+moment yet. I will move forward with bipartisan legislation to 
+reauthorize STELA, but that is why we are having input here 
+today. And I will work closely with Senator Grassley and 
+Chairman Rockefeller and our counterparts in the House.
+    I have had the chance to work both as Chairman and as 
+Ranking Member with Senator Hatch, Senator Sessions, and 
+Senator Specter on satellite reauthorizations. And as I see 
+Senator Grassley arriving, I will hush up and turn it over to 
+him. Otherwise, I will just put his statement in the record.
+
+ OPENING STATEMENT OF HON. CHUCK GRASSLEY, A U.S. SENATOR FROM 
+                       THE STATE OF IOWA
+
+    Senator Grassley. I had already decided I was going to put 
+it in the record, so I think we will go ahead, if that is okay 
+with you.
+    Chairman Leahy. Okay. It will be in the record.
+    Senator Grassley. Thank you very much.
+    [The prepared statement of Senator Grassley appears as a 
+submission for the record.]
+    Chairman Leahy. Okay. We will start with Alison Minea, the 
+director and senior counsel of regulatory affairs at DISH 
+Network. She is responsible for the company's advocacy before 
+the FCC on spectrum, media, and satellite issues. She joined 
+DISH in February 2010. She received her bachelor's degree from 
+Bryn Mawr College and then went out to Colorado and got her law 
+degree from the University of Colorado.
+    Please go ahead.
+
+ STATEMENT OF ALISON A. MINEA, DIRECTOR AND SENIOR COUNSEL OF 
+    REGULATORY AFFAIRS, DISH NETWORK L.L.C., WASHINGTON, DC
+
+    Ms. Minea. Good morning. Chairman Leahy, Ranking Member 
+Grassley, and Members of the Committee, I appreciate the 
+opportunity to testify today. My name is Alison Minea. I am the 
+director and senior counsel of regulatory affairs for DISH 
+Network, the Nation's third largest pay-TV provider.
+    Should STELA be reauthorized? Yes, of course. If not, over 
+1.5 million customers, mostly in rural areas, will lose one or 
+more of the Big Four network channels. But just extending the 
+Act for another five years is not enough. A so-called clean 
+reauthorization of the satellite home viewer law would ignore 
+the satellite home viewer's number one problem: the increasing 
+threat of blackouts.
+    The last few times that Congress took up STELA, it was more 
+than a clean reauthorization. In 2009, to benefit consumers, it 
+confronted the challenge of how to get local broadcast stations 
+carried by satellite in all 210 markets. I am proud to say 
+that, as a result, DISH Network is the only provider of local 
+television service in all 210 markets.
+    With this year's STELA reauthorization, there is once again 
+a challenge to be met. We believe that Congress should take 
+this opportunity to fix the escalating problem of local channel 
+blackouts during retransmission consent disputes. There were 12 
+blackouts in 2010, and more than 10 times as many in 2013, a 
+record-breaking 127.
+    We suggest two possible legislative solutions to end 
+blackouts and ensure that consumers have continuous access to 
+network programming from the pay-TV provider of their choice.
+    First, during a retransmission consent impasse, a mandatory 
+standstill should be in place to ensure that the broadcast 
+signal stays up. If the parties are unable to agree upon terms, 
+they should proceed to so-called baseball arbitration, where a 
+neutral arbitrator chosen by the parties evaluates each party's 
+best offer and selects the one that most accurately reflects a 
+fair market price. In all cases, the final rate would apply 
+retroactively, ensuring that the broadcaster is fairly 
+compensated. Most important, the consumer would remain 
+unharmed.
+    Second, a more limited solution would allow pay-TV 
+providers to import a distant network station when the local 
+network affiliate withholds its signal during a retransmission 
+consent dispute. This solution would still leave consumers 
+without access to certain local programming, like local news, 
+sports, and weather, but it would at least provide network 
+programming content.
+    The thing is that the television landscape has changed 
+dramatically since the Cable Act of 1992 established the 
+current system of retransmission consent. In those early days, 
+the broadcaster negotiated with a single cable company that was 
+likely the only pay-TV provider in the same market. Today cable 
+operators no longer enjoy local monopolies, and broadcasters 
+can now pit pay-TV competitors against one another, all to the 
+consumers' detriment. This is not a free market.
+    Meanwhile, mom-and-pop local broadcasters continue to 
+disappear, as broadcaster conglomeration accelerates. 2013 
+alone saw three large broadcaster mergers. The remaining 
+separately owed broadcasters increasingly use sidecar 
+agreements that further solidify their monopoly power. As a 
+result, pay-TV providers are frequently dealing with one entity 
+coordinating retransmission negotiations for many separate 
+broadcasters in the same local market.
+    Not surprisingly, these market developments have led to a 
+dramatic increase in blackouts as the broadcasters leverage the 
+market imbalance into higher prices. Fortunately Congress can 
+do something about it.
+    On behalf of DISH's 22,000 employees and more than 14 
+million subscribers across the Nation, I strongly encourage the 
+Committee to seize this opportunity and update the law to 
+reflect marketplace realities and better protect consumers.
+    Thank you, and I look forward to answering any questions 
+you may have.
+    [The prepared statement of Ms. Minea appears as a 
+submission for the record.]
+    Chairman Leahy. Thank you. And also thank you for being so 
+clear on the position you are in on this.
+    Ms. Burdick, it is nice to see you again.
+    Marci Burdick is senior vice president for Schurz 
+Communications, supervises three cable companies, eight 
+television stations, and 13 radio stations. She has been in her 
+current role since 2003. She is president of the Television 
+Board of the National Association of Broadcasters, serves on 
+the South Bend Rotary Club, and, of course, the Museum 
+Studebaker, which is most appropriate in South Bend. And, of 
+course, you are no stranger to Capitol Hill, so good to have 
+you here.
+
+     STATEMENT OF MARCI BURDICK, SENIOR VICE PRESIDENT OF 
+BROADCASTING, SCHURZ COMMUNICATIONS, INC., MISHAWAKA, INDIANA, 
+     ON BEHALF OF THE NATIONAL ASSOCIATION OF BROADCASTERS
+
+    Ms. Burdick. Thank you, Chairman Leahy, Ranking Member 
+Grassley, and Members of the Committee. Good morning. I am 
+Marci Burdick. I am senior vice president of the Electronic 
+Division for Schurz Communications, a mom-and-pop broadcaster. 
+We own eight television stations in six States. We have 
+operating partnerships with two others. And we own three cable 
+companies and 13 radio stations. I am testifying today on 
+behalf of the National Association of Broadcasters, where I am 
+the TV Board Chair, and our more than 1,300 free, local, over-
+the-air television station members.
+    NAB's position on the STELA reauthorization is simple: We 
+ask that the Committee take a hard look at whether the distant 
+signal license continues to benefit consumers. The distant 
+signal license exists for the benefit of satellite companies, 
+and it was enacted in a time where technology did not exist for 
+satellite to offer local broadcast TV stations to its 
+subscribers. If you conclude that the reauthorization of this 
+satellite bill is warranted, NAB will support that effort. But 
+any reauthorization should be narrow and not a vehicle for 
+additional reforms that expand the scope of the license or 
+undermine broadcasters' ability to serve our local communities.
+    In 1988, 26 years ago, CDs outsold vinyl records for the 
+first time, ``Rain Man'' was at the top of the U.S. box office, 
+and the Dow Jones Industrial Average was trading at just over 
+2,000 points. Also, 26 years ago, Congress enacted the first 
+satellite television authorization, the Satellite Home Viewer 
+Act, as a means to help spur competition for home video 
+delivery against incumbent cable monopolies. Now, two and a 
+half decades later, it is clear that this Committee's work was 
+a resounding success as the satellite companies have evolved 
+into the country's second and third largest pay-TV providers. 
+How times have changed.
+    The original 1988 Satellite Home Viewer Act enabled 
+satellite carriers to retransmit the signals of distant 
+television network stations to satellite owners. This is 
+commonly referred to as ``the Section 119 license,'' and it is 
+the expiring provision of STELA that is before the Committee 
+today.
+    At the time it was enacted, the distant signal license was 
+needed to provide certain unserved households with network 
+programming because satellite companies were unable to provide 
+local broadcasters. The distant signal license served an 
+important purpose in 1988, when the back-yard satellite 
+industry was just getting started, and it served its purpose 
+again when DISH and DIRECTV first launched their small-receiver 
+services in the 1990s. But in 2014, when DISH and DIRECTV have 
+achieved a size and scope that makes them dominant market 
+leaders, the distant signal license has become a vestige of a 
+bygone era, a time before fiber optics, compression technology, 
+and digital.
+    Congress anticipated that satellite technology would 
+evolve, which is why each of the satellite laws has included a 
+five-year sunset. Today over 98 percent of all U.S. TV 
+households can view their local network affiliates by 
+satellite. Further, as DISH has demonstrated, there are no 
+longer technical reasons preventing any market from receiving 
+their local TV stations. And no public policy justifies 
+treating a satellite subscriber in a local-into-local market as 
+an unserved household eligible to receive distant network 
+signals.
+    Let us be clear. Any viewer served by a distant signal is 
+deprived of the benefits of locally focused service. A viewer 
+in Vermont or Iowa does not benefit from service from a Denver 
+ABC affiliate instead of his or her local WVNY or KCRG.
+    Local TV stations deliver high-quality local needs, 
+weather, and emergency updates to all Americans. This is 
+exactly as Congress intended. This local service is one that 
+our viewers, your constituents, continue to rely on and one we 
+take great pride in continuing to improve every day. 
+Broadcasters are continuously looking for ways to enhance 
+newscasts, upgrade weather and emergency services, and provide 
+accurate, efficient, and speedy coverage of breaking news 
+events and their aftermath. No other medium provides the depth 
+of coverage we do for locally focused events paired with the 
+most watched entertainment programming on prime-time TV.
+    In conclusion, if this Committee decides to once again 
+reauthorize the distant signal license, NAB will support that 
+effort. But with that support, we ask you to take a hard look 
+at whether this license continues to serve consumers and urge 
+you to reject calls from satellite providers to expand the 
+scope of the compulsory Section 119 license in order to give 
+them a leg up in market-based retransmission consent 
+negotiations. Moreover, we ask that you reject any attempt to 
+add wholly unrelated or controversial provisions to a STELA 
+bill.
+    Thank you for inviting me here today, and I look forward to 
+your questions.
+    [The prepared statement of Ms. Burdick appears as a 
+submission for the record.]
+    Chairman Leahy. Well, thank you very much, Ms. Burdick, and 
+it is nice to see you again.
+    Ms. Burdick. Thank you.
+    Chairman Leahy. Our next witness is Ellen Stutzman. She is 
+the director of research and public policy for the Writers 
+Guild of America, West. In her role with the Writers Guild, she 
+coordinates the development of its public policy agenda. She 
+received her bachelor's from Cornell and then crossed the 
+country to get her MBA from the University of California in Los 
+Angeles.
+    Ms. Stutzman, we are glad to have you here. Please go 
+ahead.
+
+ STATEMENT OF ELLEN STUTZMAN, DIRECTOR OF RESEARCH AND PUBLIC 
+  POLICY, WRITERS GUILD OF AMERICA, WEST, INC., LOS ANGELES, 
+                           CALIFORNIA
+
+    Ms. Stutzman. Thank you. Good morning, Chairman Leahy, 
+Senator Grassley, and Members of the Committee. My name is 
+Ellen Stutzman. I am the director of research and public policy 
+for the Writers Guild of America, West. Thank you for the 
+opportunity to testify.
+    The Guild is a labor organization representing more than 
+8,000 professional writers of feature film, TV series, local 
+news, and original video programming now available through 
+services like Netflix and Amazon. We support reauthorizing 
+STELA because we want broadcast content to be as widely 
+available as possible. A clean reauthorization will preserve 
+access for subscribers while still protecting localism.
+    Because there has been much discussion about using this 
+process to weaken retransmission in favor of MVPDs, I will 
+focus my comments on why we support the existing rules.
+    We do so because we want broadcast television to remain a 
+healthy source. Broadcasters also air the most original and 
+highest-rated content. Last season, 96 of the top 100 most-
+watched programs were on broadcast television. As such, the 
+broadcast networks are responsible for a great deal of the 
+must-have programming that makes an MVPD service attractive. 
+And of key interest to our members and other entertainment 
+workers, broadcast employment standards are the best in the 
+industry.
+    Broadcasters continue to produce content in a time of 
+increased competition from cable networks and online video 
+providers. Retransmission allows broadcasters to diversify 
+revenue and adapt to a media landscape where they no longer 
+account for all of television viewing.
+    The existing rules are necessary because four MVPDs control 
+two-thirds of the market. DIRECTV and DISH are the second and 
+third largest distributors and account for one-third of all 
+MVPD customers. And the proposed Comcast-Time Warner merger, 
+which we oppose, would combine the first and fourth largest 
+MVPDs. Concentration can be even greater at a local level, 
+where a single distributor can account for the majority of 
+subscribers. Retransmission rules help balance the power 
+between broadcasters and MVPDs.
+    The Guild is concerned with the rising costs of cable, but 
+we cannot deny that television today offers so much more than 
+even a few years ago. We have transitioned from a world where 
+networks controlled the schedule to where content is available 
+whenever and wherever consumers want. Retransmission 
+negotiations include the on-demand rights that make this 
+possible--rights that provide tremendous value to MVPDs.
+    It is appropriate that broadcasters be fairly compensated 
+for this contribution. Retransmission fees are a small portion 
+of the cable bill, and we do not think weakening the rules is 
+the answer to rising prices.
+    Many of the proposed changes would simply give more power 
+to distributors. Mandatory interim carriage in the event of a 
+dispute would significantly reduce an MVPD's incentive to 
+engage in good-faith negotiations. Similarly, allowing distant-
+signal importation during a dispute would sacrifice localism in 
+favor of enhancing MVPD power.
+    It is unfortunate when viewers lose access to the content 
+our members create because of a blackout, but we recognize that 
+such action is sometimes necessary. The loss of viewers and 
+revenue presented by a signal interruption remains a sufficient 
+incentive for a broadcaster to make a fair deal.
+    In sum, this is not the appropriate vehicle to begin making 
+selective changes to industry regulations. The Guild would, 
+however, welcome a broader review of the video marketplace. We 
+think changes that include requiring networks to air 
+independent content, expanding the definition of an MVPD to 
+promote more virtual competitors, and changing content bundling 
+practices would do more to produce a vibrant, competitive 
+market.
+    Simply put, there are better ways to increase competition 
+and address rising costs to consumers than unfairly and 
+asymmetrically gutting the negotiating rights of broadcasters.
+    Thank you for your attention, and I look forward to your 
+questions.
+    [The prepared statement of Ms. Stutzman was not available 
+at the time of publication.]
+    Chairman Leahy. Well, thank you very much.
+    And our last witness is John Bergmayer, senior staff 
+attorney at the Washington, DC-based Public Knowledge. He 
+specializes in telecommunications and intellectual property 
+issues. He is a member of the DC and Colorado Bar Associations, 
+received his bachelor's degree from Colorado State University, 
+and his law degree from the University of Colorado Law School.
+    Mr. Bergmayer, please go ahead, sir.
+
+  STATEMENT OF JOHN BERGMAYER, SENIOR STAFF ATTORNEY, PUBLIC 
+                   KNOWLEDGE, WASHINGTON, DC
+
+    Mr. Bergmayer. Chairman Leahy, Ranking Member Grassley, and 
+Members of the Committee, thank you for the opportunity to 
+appear here today.
+    First, I have a few remarks on issues specific to STELA, 
+and then I will present a few broader ideas that will make the 
+video marketplace more competitive and affordable.
+    Congress must reauthorize STELA. This law ensures that 
+satellite television companies can continue to retransmit 
+broadcast stations to their customers, and it is an important 
+building block of video competition. The success of satellite 
+should be a lesson for policymakers about the importance of 
+fostering new models of video competition. Congress should not 
+put the video competition we have already achieved at risk by 
+failing to ensure that satellite viewers can continue to access 
+popular programming without interruption.
+    Given the importance of STELA to maintaining competition in 
+the video marketplace, Congress should reauthorize STELA 
+indefinitely and without sunset. There is no reason for 
+Congress to create artificial crises every few years. However, 
+if Congress does choose to reauthorize STELA for only a few 
+years, it should tie its expiration to the expiration of other 
+video marketplace rules, such as distant signal rules, basic 
+tier buy-through, and similar provisions. This would ensure 
+that it is not just the satellite industry that has to come to 
+Congress hat in hand on such a regular basis.
+    STELA reauthorization also presents the opportunity to give 
+customers more reliable and relevant programming with two 
+simple reforms. First, Congress can protect consumers from the 
+increased rate of programming blackouts due to retransmission 
+consent negotiations. Retransmission consent negotiations have 
+been compared to a fight between two elephants where the 
+consumers are the grass. Ideally a gradual phase-out of the 
+retransmission consent regime, coupled with the elimination of 
+compulsory copyright licenses, would simplify the system and 
+eliminate statutory middlemen. If Congress maintains the 
+current system of retransmission consent, it should act to 
+prevent consumers from being trampled by the elephants.
+    It should direct the FCC to adopt rules prohibiting conduct 
+deemed to violate the good-faith negotiation provision and 
+clarifying existing FCC statutory authority to mandate 
+arbitration and interim carriage. The consumer benefit from 
+these reforms is twofold:
+    First, they would prevent blackouts, ensuring that TV 
+viewers are not held hostage as a negotiating tactic between 
+media companies.
+    Second, they would slow down the rate of increases in 
+carriage fees paid by multichannel video programming 
+distributors, or MVPDs, to broadcasters, in turn slowing the 
+rate at which consumer pay-TV bills increase.
+    A second simple reform that can be tied to STELA would be 
+to allow the FCC to modify designated market areas for 
+broadcast TV carriage on satellite, as it already can with 
+cable. In previous authorizations, Congress has commissioned 
+studies of this so-called orphan county issue. This time, 
+Congress should empower the FCC to make these corrections.
+    The success of satellite TV points to the best long-term 
+approach for improving the video marketplace: promoting 
+competition from new providers. Technology has dramatically 
+changed the possibilities for how the public can watch 
+television, and yet many Americans are locked into a television 
+business model that limits competition and choice. Most of the 
+most popular programming is not available except through 
+traditional bundled subscription TV services, and these grow 
+more expensive year after year.
+    An outdated regulatory structure and a trend toward 
+industry consolidation, such as the Comcast-Time Warner Cable 
+merger, which we likewise oppose, allows incumbents to protect 
+themselves and fend off new competition. It is time to revamp 
+that structure. A video marketplace that served the public 
+interest would align the interests of viewers, creators, and 
+distributors and not set one against the other.
+    Online video can provide much needed competition in the 
+video marketplace. Congress and the FCC can help it in three 
+easy ways:
+    First, they can clear away some of the outdated rules that 
+hold back competition and keep prices high. I have mentioned 
+one example in the dysfunctional retransmission consent system. 
+The basic tier buy-through rule that prohibits broadcast 
+stations from being offered a la carte by cable companies is 
+another. The Congress should be cautious not to weaken parts of 
+the statute that benefit consumers, such as Section 629 of the 
+Communications Act, which promotes video device competition.
+    Second, Congress and the FCC can extend the successful 
+policies such as program access to online providers. These 
+policies are designed to mitigate market power by large video 
+providers. They should not be repealed until effective 
+competition develops.
+    Third, Congress and the FCC can protect online openness. 
+Online video needs an open Internet to thrive. In addition to 
+supporting the FCC and protecting the open interest, Congress 
+should encourage the FCC to examine whether discriminatory data 
+caps hold back online video competition and whether large ISPs 
+are using network interconnection agreements, sometimes called 
+``peering agreements,'' anticompetitively. This will increase 
+competition, meaning lower prices, better services, and more 
+control for consumers.
+    Thank you, and I look forward to your questions.
+    [The prepared statement of Mr. Bergmayer appears as a 
+submission for the record.]
+    Chairman Leahy. Well, thank you very much. Let me start off 
+with just a couple questions. Then we will go back and forth 
+here. And maybe, Ms. Stutzman, this is best for you.
+    Whenever we are considering satellite reauthorization, we 
+talk about the importance of competition in the video 
+marketplace. The original Satellite Home Viewer Act, I think we 
+can all agree, the satellite industry was in its infancy. Now 
+the industry has grown into a legitimate competitor to cable.
+    How important is a competitive video market to writers and 
+creators of content?
+    Ms. Stutzman. Thank you for your question. It is incredibly 
+important. We currently do not think that the MVPD market is 
+competitive enough. In most markets, consumers can choose 
+between a cable provider and two satellite providers, and we 
+would like to see more competition. But what this amounts to is 
+these companies are powerful gatekeepers, and they can decide 
+what content reaches consumers, and that has a negative impact 
+on the stories that are told, on diverse and independent 
+content, and ultimately, you know, what our members do. So a 
+competitive marketplace is incredibly important.
+    Chairman Leahy. Ms. Burdick, I want to talk about rural 
+areas and what might happen in smaller areas, and I know you 
+are aware of that. I am not being parochial, but to use an 
+example, a State like Vermont could easily be dominated by 
+major television markets like New York. How does the system put 
+in place by STELA actually help us to have local content?
+    Ms. Burdick. Well, I think--and you will remember this 
+better than I because you were here--the Section 122 license, 
+which requires and preserves localism, has been a wholesale 
+success. DISH is now in every local market in the country. 
+Direct could be. There is no technological barrier. So localism 
+was definitely encouraged and preserved under the Section 122 
+license, which is now permanent.
+    Our concern is with the distant signal, and as you rightly 
+point out, when a Los Angeles or a New York television station 
+is imported into Vermont, that localism is undermined when 
+local television stations are not seen. And when local 
+television stations are not seen, their advertisers are not 
+seen. Ninety percent of our revenue comes from advertising, so 
+it diminishes our economics.
+    Chairman Leahy. Thank you. And, Ms. Minea, we have heard in 
+other hearings that there are between 1 and 1.5 million 
+customers relying on the distant signal license for broadcast 
+television programming. DISH's testimony today is that it 
+numbers over 1.5 million. Do you know what the exact number or 
+as exact as you can get?
+    Ms. Minea. Thank you for your question, Chairman Leahy. I 
+believe the number is approximately 1.56. DISH and DIRECTV, in 
+an effort to answer this question, confidentially submitted 
+some subscriber numbers to the Satellite Industry Association, 
+which then compiled them together to arrive at that number.
+    Chairman Leahy. But the number of subscribers served with 
+distant signals is lower than when we enacted the local license 
+in 1999. Is that correct?
+    Ms. Minea. Over time, DISH, as you know, has been expanding 
+its local-into-local service so that the need for the distant 
+signal license has diminished, and I could not agree with Ms. 
+Burdick more that localism is important and, wherever possible, 
+you know, we want to provide people with their local broadcast 
+stations.
+    Nonetheless, the Section 119 distant signal license still 
+serves a very important role for those approximately 1.5 
+million consumers for, among other things, short markets, which 
+are markets that are typically smaller and rural markets that 
+do not have a local network affiliate. And the distant signal 
+license allows DISH to import a replacement network station to 
+fill out a complement of Big Four stations for those consumers.
+    Chairman Leahy. Some of them are RVs and trucks and things 
+like that. Is that correct?
+    Ms. Minea. Yes, Chairman Leahy, the distant signal license 
+also allows a satellite carrier to provide distant network 
+stations to subscribers in recreational vehicles and commercial 
+trucks, subject to some paperwork and verification 
+requirements.
+    Chairman Leahy. We are talking about what we are going to 
+do and what House Energy and what Commerce is going to do. Let 
+me ask you this: Would DISH oppose a reauthorization of STELA 
+that does not address broader issues related to the video 
+market, such as retransmission consent?
+    Ms. Minea. Thanks for your question, and it is an important 
+one. We absolutely want the Section 119 license reauthorized, 
+but we believe that more must be done and can be done. As I 
+noted in my testimony, blackouts of local network station 
+signals during disputes are increasing. There were 12 in 2010 
+and 127 in 2013. And consumers cannot wait. Blackouts need to 
+be dealt with now, and we believe that the STELA 
+reauthorization is extremely the right opportunity to address 
+this issue.
+    Chairman Leahy. Thank you. I am sure there are going to be 
+some more questions on this to all of you. As you know, it is 
+going to be a major part of the debate.
+    Senator Grassley.
+    Senator Grassley. I am going to ask each of you three 
+questions, and I would like a short answer because, quite 
+frankly, the idea is to summarize some things you have already 
+said in your statement.
+    The Copyright Office has suggested in their recommendations 
+of Section 302 report phasing out three statutory licenses of 
+Title 17. Now, I have already heard from you about Section 119, 
+so the question of the other three: In your view, is the 
+Section 119 statutory license still necessary in today's 
+marketplace? We will start with you, Ms. Burdick.
+    Ms. Burdick. Is Section 119 still----
+    Senator Grassley. Yes.
+    Ms. Burdick. We question whether Section 119 is still 
+necessary when local broadcasters can be seen in all television 
+markets of the country.
+    Senator Grassley. Ms. Stutzman.
+    Ms. Stutzman. At this point, we are in favor of 
+reauthorizing it because we want the content to be available 
+where it is not.
+    Senator Grassley. Okay.
+    Mr. Bergmayer. Senator, in general, we are in favor of 
+phasing out compulsory licenses. It just has to be done very 
+cautiously, according to a timetable, and we need to avoid the 
+situation where an MVPD might be double paying because it does 
+not have a compulsory license for the copyright and yet still 
+has to negotiate for retransmission consent. And that applies 
+to all the cable and satellite compulsory licenses.
+    Senator Grassley. Okay. Then for all of you, starting with 
+Alison, if Congress were not to reauthorize STELA, how would 
+this affect consumers? What sort of disruptions, if any, are 
+likely to occur if the three statutory licenses were repealed? 
+And if that happened, what are the benefits or harms with 
+respect to letting the law expire?
+    Ms. Minea. That is a great question. If I could just 
+clarify, are you asking specifically with regard to Section 119 
+or with respect to other copyright----
+    Senator Grassley. Now it is more general. So if I 
+misinterpreted your answer to Senator Leahy and you want to 
+answer what I previously had asked, I would like to hear your 
+view on the question of whether or not Section 119 is still 
+necessary in today's marketplace.
+    Ms. Minea. Thank you, and I share your concern for making 
+sure that consumers are not disrupted as laws are updated.
+    We do believe that the Section 119 license continues to 
+play an important role, and statutory licensing in general, 
+such as the 122 license, I think continues to be necessary to 
+ensure that consumers get local broadcast stations.
+    There may be possibilities for overhauling the entire 
+system and taking away the statutory licenses, but that would 
+be a very complex process. There is a thicket of government 
+regulations that govern the system, so we would definitely urge 
+caution in looking at whether or not the statutory licenses 
+could be eliminated.
+    Senator Grassley. Ms. Burdick, on my second question.
+    Ms. Burdick. I would agree with both ends of the table that 
+eliminating all copyright would be exceptionally complex. I 
+worry as a local broadcaster--I try to envision a day where I 
+would have to go out and negotiate all of those rights as a 
+local broadcaster. But since Section 119 is the only provision 
+that is sunsetting and the distant signal importation, I would 
+say that in terms of the need for that, only DISH and Direct 
+know, of that 1.5 million number that we have all heard, how 
+many of those customers are grandfathered and actually could be 
+receiving local-into-local. So we really do not know. Only they 
+know.
+    Senator Grassley. So disruption would be the answer, the 
+effect on the consumer that I was kind of concentrating my 
+question on.
+    Ms. Burdick. I think the disruptions would be minimal and 
+maybe even less than the 1.5 million.
+    Senator Grassley. Okay. Ms. Stutzman.
+    Ms. Stutzman. Thank you. We think the statutory licenses 
+could be retired, and there might possibly be a marketplace 
+solution to negotiating the copyright. And we are not asking 
+for that at this time, but certainly if retransmission consent 
+rule changes were contemplated, we think that might be an 
+appropriate consideration. Thank you.
+    Senator Grassley. Mr. Bergmayer, do you have something to 
+add?
+    Mr. Bergmayer. Sure. Even if you accept the premise that 
+the number of customers that would be disrupted is relatively 
+small, I would just look to where those customers are located. 
+They would be predominantly rural and perhaps low-income 
+customers that I think Congress should take extra care to 
+protect.
+    Senator Grassley. This will have to be my last question. 
+Time is running out. Do you have a position on the length of 
+STELA reauthorization if Congress decides to extend it?
+    Ms. Minea. Senator Grassley, ideally we think that the 
+Section 119 license should be reauthorized permanently. Failing 
+that, we would like it reauthorized for as long as possible.
+    Senator Grassley. Ms. Burdick.
+    Ms. Burdick. We would absolutely disagree that a distant 
+signal law should be made permanent, and there is less of a 
+need every single day. If this Committee thinks it needs to be 
+reauthorized for five years, we would support that.
+    Chairman Leahy. Okay.
+    Ms. Stutzman. We would also support a five-year 
+reauthorization.
+    Senator Grassley. Mr. Bergmayer.
+    Mr. Bergmayer. I think one approach that Congress could 
+take is tie its expiration to expiration of provisions from 
+around the industry so different people's oxes get gored.
+    Senator Grassley. I am done with my presentation today, but 
+I will have questions for each of you, and quite a few 
+questions for DISH, if you would be willing to answer them in 
+writing.
+    Ms. Minea. Certainly. Thank you.
+    [The questions of Senator Grassley appear as submissions 
+for the record.]
+    Senator Grassley. Thank you.
+    Chairman Leahy. Senator Klobuchar.
+    Senator Klobuchar. Thank you very much, Mr. Chairman. I 
+always like to follow a statement about goring oxes when I am 
+going to ask questions.
+    [Laughter.]
+    Senator Klobuchar. Thank you for holding this important 
+hearing. Satellite service is really important, especially in 
+the rural part of Senator Franken's and my State. It is the 
+only way that many of the 650,000 satellite subscribers in our 
+State can get access to video services.
+    I think we have seen subsequent updates to this law that 
+give an additional boost to competition by ensuring satellite 
+competitors could offer local broadcast channels to their 
+customers. I can tell you that local broadcasting is an 
+important part of life in America. In our State it is the way 
+that many people actually get updates on floods, problems that 
+occur in the local areas, tornadoes. It has been actually not 
+just key for our local programming and bringing people 
+together; it has also been key for some of our emergencies that 
+we have had in our State over the years.
+    So I want to start here with you, Ms. Minea. Is 
+reauthorization of this Act--I think you have made the case--
+still necessary? And what changes would you like to see?
+    Ms. Minea. Thanks for your question, Senator Klobuchar. So, 
+yes, the Section 119 license continues to be necessary. 
+Minnesota actually has a short market. Mankato, Minnesota, 
+which does not have an ABC or an NBC affiliate, so one example 
+of something that would go away if 119 were not reauthorized is 
+our inability to import an ABC and an NBC from the Twin Cities 
+market into Mankato.
+    More broadly, as I said, we believe that the 
+reauthorization of STELA is an important opportunity to fix the 
+problem of blackouts. Consumers cannot wait for reforms that 
+may come in the future. This is now the time to stop this now. 
+So as I said in my testimony, we propose a standstill and 
+baseball-style arbitration as our first choice to deal with the 
+problem of blackouts now.
+    Senator Klobuchar. Okay. Ms. Burdick, one of our goals here 
+was to promote localism. Do you think that it has done its job? 
+And what more can be done to get at Congress' intent to promote 
+localism?
+    Ms. Burdick. I think anything you can do to incentivize all 
+providers to be in all local markets would be a positive thing. 
+As DISH has demonstrated, they are, in fact, in all 210 
+markets. If that can be incentivized some other way, that would 
+be a good thing, providing choice for consumers and 
+competition.
+    Senator Klobuchar. As you all know, this Committee is soon 
+going to be holding a hearing on the merger between Comcast and 
+Time Warner Cable. This combination has the potential for 
+profound impact on the competitive landscape.
+    Ms. Minea, what is DISH's view on the merger? And are there 
+any concerns from your standpoint that the Committee should be 
+aware of as we consider the impact the merger will have?
+    Ms. Minea. Senator Klobuchar, we have read those news 
+reports, and as far as we know, there are not any applications 
+before the FCC. At this point we just have not had an 
+opportunity to develop a position, so I am not able to comment 
+on it.
+    Senator Klobuchar. Okay. Does anyone else want to comment 
+on it? I just thought you would. I do not know why I thought 
+you would.
+    [Laughter.]
+    Senator Klobuchar. You want to gore another ox, Mr. 
+Bergmayer, please.
+    Mr. Bergmayer. Yes, I believe that the Comcast-Time Warner 
+merger would be disastrous for programmers, for independent 
+creators, and for TV viewers. It would raise prices. It would 
+create a single gatekeeper for programming in broadband of 
+almost unprecedented power, in addition to the vertical 
+integration harms which just happened due to Comcast's 
+unfortunate acquisition of NBCUniversal. So in that hearing, we 
+are looking forward to hearing your views on the dangers of 
+this merger.
+    Senator Klobuchar. Back to some satellite. Minnesota, as we 
+know--I see the satellite dishes all over our State, especially 
+in the rural areas. There is certainly a higher percentage of 
+rural homes that have satellite. Would that be true, Ms. Minea?
+    Ms. Minea. Senator Klobuchar, I want to make sure I 
+understand your question. Are you asking specifically about 
+rural customers in Minnesota relative to other States?
+    Senator Klobuchar. Yes--no, no. I am asking about rural 
+areas having more of them than in urban areas.
+    Ms. Minea. Of course. Yes, rural customers 
+disproportionately depend upon satellite. That was true in the 
+early days of satellite, and it continues to be true today. 
+Indeed, that is why the expiration of the Section 119 license 
+would have a disproportionately larger effect on rural 
+subscribers to DISH and DIRECTV, because in many cases, it is 
+rural subscribers who live in short markets and rural 
+subscribers who live outside of the over-the-air footprint of 
+broadcasters.
+    Senator Klobuchar. Ms. Burdick, during the last STELA 
+reauthorization--I feel that I have been here for not that 
+long, but I was here for that, and I am also on the Commerce 
+Committee, so I live and breathe STELA--there were concerns 
+about the way that DMAs were defined for local broadcasters and 
+the issue of orphan counties. This is an issue I spoke about 
+during the Judiciary mark-up and in the Commerce Committee 
+consideration of STELA five years ago.
+    Can you talk about how DMAs are still important to local 
+advertising and the economies and what the status is of that?
+    Ms. Burdick. As I mentioned earlier, 90 percent of our 
+revenue comes from advertising, and the fact is that the DMAs 
+were determined where the major population centers were 
+concentrated. And so that is still extremely important to us.
+    But as it relates to orphan counties, there are provisions 
+currently available to solve many of those issues. We have been 
+involved with several of them. And as an example, I live--my 
+front yard is in Michigan. My back yard is in Indiana. So while 
+I vote in Congressman Upton's district, I am served by South 
+Bend television. The MVPD in my area reserves a channel for 
+unduplicated local programming, so the Michigan broadcaster 
+with its local news and information can be on the air while the 
+South Bend CBS affiliate is protected with its syndicated and 
+network exclusive programming. So there are solutions currently 
+available to solve many of those issues.
+    Senator Klobuchar. Okay. Thank you very much, and I will 
+put some questions on the record for you, Ms. Stutzman. Thank 
+you.
+    [The questions of Senator Klobuchar appear as submissions 
+for the record.]
+    Chairman Leahy. Thank you very much.
+    Senator Hatch.
+    Senator Hatch. Well, I want to thank you all for coming 
+today. Thank you, Mr. Chairman. My thanks to all of you for 
+coming here today to help us learn about some of these 
+outstanding issues, both those that are directly before us in 
+deciding whether to reauthorize the Satellite and Television 
+Extension and Localism Act of 2010, or STELA, as well as some 
+of the broader reforms that have been proposed.
+    Now, let me just ask you this, Ms. Burdick--and we welcome 
+you especially. I understand that studios own the content and 
+should be able to control how it is being used, but we have to 
+be realistic about trends toward streaming television online.
+    During a dispute between a cable or satellite provider and 
+a broadcaster, can online viewers who specifically choose not 
+to have satellite or cable, can they also be affected?
+    Ms. Burdick. So there are many ways in which content is 
+provided online, and as a local broadcaster, I can control my 
+content online in a different way than I can offer network or 
+syndicated programming online. You know, I think you are 
+probably speaking of the CBS issue with Time Warner recently, 
+and I think what was lost in all of that is that those 
+agreements went back to 2008, before the Internet was 
+ubiquitous. And the outcome of that was that a holistic 
+agreement was reached in which Internet and video rights were 
+resolved. And so the retransmission consent discussion is far 
+more robust than just video rights.
+    Senator Hatch. All right. Ms. Minea, let me ask you this 
+question: As you know, blackouts are related to the issue of 
+retransmission consent, and I am trying to understand whether 
+there is a need for reform here or not. On the one hand, a 
+DIRECTV executive testified in June that, ``Between 2010 and 
+2015, DIRECTV's retransmission consent costs will increase 600 
+percent per subscriber.''
+    On the other hand, Ms. Burdick has testified that, ``While 
+only two cents of every dollar of cable video revenue goes to 
+retransmission consent, nearly 20 cents goes to cable 
+programming fees.''
+    Now, Ms. Minea, I realize that I quoted a figure from 
+DIRECTV, but assuming that DISH is facing similar increases, 
+when we talk about a number like 600 percent, what are we 
+talking about in dollars and cents? And how much money per 
+subscriber are we talking about here?
+    Ms. Minea. Thanks for your question, Senator Hatch. The 
+particular breakdown of the numbers is not something that we 
+have released for confidentiality reasons. What I can tell you 
+is that satellite TV is part of a very competitive market for 
+pay-TV providers. We have telephone companies, we have cable 
+companies, we have DIRECTV against whom we compete, so we have 
+to fight like crazy to keep our costs down. Programming costs 
+generally are our biggest cost center, and when we see 
+broadcast stations who are asking for 400-percent increases for 
+our contract renewal, it really hurts. And at some point we 
+have to start passing along some of those costs to our 
+subscribers. We do not believe it is sustainable, and that is 
+why we think that reform is needed.
+    Senator Hatch. Ms. Burdick, could you comment on some of 
+these increases?
+    Ms. Burdick. Thank you. Math was never my strong suit, but 
+when you start at zero, it is pretty easy to get to 400 percent 
+pretty darn quickly.
+    I am negotiating against a company represented by Ms. Minea 
+to my right that said to me at the outset of the negotiation, 
+``I do not care if you are dark because I churn more customers 
+in a year than your company represents.'' And you know what? 
+That is the truth.
+    Broadcasters are never off. We always are on the air, local 
+television broadcasters. We may have a contractual dispute from 
+time to time with DISH or DIRECT, but the only thing preventing 
+a customer from moving to another provider is their late fee 
+and termination requirements that one customer told me--because 
+I take all those calls from customers. He said, ``It will cost 
+me $429 to switch.'' The local broadcasters are always on.
+    Senator Hatch. Well, let me just ask you this: While 
+retransmission consent may be beyond the scope of our 
+reauthorization of STELA, I would like to focus on a proposal 
+regarding joint sales agreements. Could you tell us how joint 
+sales agreements are helpful for broadcasters?
+    Ms. Burdick. Sure. Let me speak from our own experience. We 
+have three. We have one in Wichita, Kansas, where we own the 
+dominant CBS station, and we helped Entravision enter the 
+market faster with a shared service and a joint sales 
+arrangement. The net effect of that is we are providing the 
+only local news broadcasting in Spanish in the State of Kansas, 
+something they could not afford on their own. We helped them 
+lower their costs.
+    The other side of the equation is in Augusta, Georgia, 
+where I had an NBC affiliate, the only one that our company 
+owned that was not a leader in its market, and for 12 years 
+we--after launching local news, we sustained losses every year 
+for 12 years. And when the recession hit and the remainder of 
+our company could not prop it up, we had two choices: Go out of 
+the local news business because that is where the bulk of our 
+expense is, or enter into an agreement where we could share 
+costs with other broadcasters. And we did that with Media 
+General, preserving a local broadcaster in the market.
+    Senator Hatch. Well, thank you. My time is up, but let me 
+just give you a chance, Ms. Minea, to respond. Why do cable and 
+satellite producers see them as being anticompetitive?
+    Ms. Minea. Thanks so much for your question, Senator Hatch, 
+and if you would indulge me, I just want to respond briefly to 
+what Ms. Burdick said.
+    The way that we see it is that blackouts are 100 percent 
+the fault of the broadcaster. We never, ever want to take the 
+signal down. That is why we are asking for a standstill. Yes, 
+it may take time for us to hammer out the deal, but consumers 
+should never lose their signal. And in some cases, the signal 
+may be free over the air, but consumers should not have to be 
+put in the position of choosing which provider to switch to. 
+They may have chosen DISH because we have the lowest price and 
+the best technology. They should not even have to be in a 
+position where they have to switch. Blackouts should never 
+happen.
+    And as to your other question, Senator Hatch, in terms of 
+these joint sales agreements, there are lots of different sorts 
+of sidecar agreements. An instance where two broadcasters need 
+to share a news helicopter to save costs, we are not concerned 
+about that. We can absolutely see why that might make sense.
+    Our concern is really just focused on those agreements 
+under which separately owned broadcasters get together and 
+negotiate jointly for retransmission consent. And, again, this 
+all ties back to blackouts. Three stations negotiate jointly. 
+That means if we cannot reach a deal by the deadline, that is 
+three stations that are blacked out rather than just one. So, 
+again, it is an even greater impact to the customer than if we 
+were negotiating with just one at a time. Thank you.
+    Senator Hatch. Thanks, Mr. Chairman.
+    Chairman Leahy. Senator Franken.
+    Senator Franken. Thank you, Mr. Chairman, for calling this 
+hearing, and thank you all for being here. This hearing marks 
+the beginning of a process that will result in more competition 
+for consumers, I hope. Congress has passing satellite TV laws 
+since the 1980s, but the cable industry remains the dominant 
+force in the marketplace. I believe that the cable industry 
+could become even more powerful if Comcast is allowed to 
+acquire Time Warner Cable. I strongly oppose this acquisition, 
+and it is a good reminder that consumers need more competition 
+from satellite TV.
+    I know that the satellite companies, the cable industry, 
+and the broadcasters all have their priorities in this bill, 
+but one thing is clear: that the best interests of the 
+consumers must guide this process. If Congress does not act 
+before this law expires, many people could wake up on January 
+1st without access to local stations that they rely on for news 
+and programming. And Senator Klobuchar is absolutely right. 
+They are very useful in emergencies, and we have had a lot of 
+school closings this winter.
+    As I said, consumers have to be our focus, and that is why 
+I am so concerned about this Comcast-Time Warner Cable 
+acquisition. I believe it is a terrible deal for consumers.
+    Ms. Stutzman, I am a member of the Writers Guild, so I am 
+very sympathetic to anything you say.
+    [Laughter.]
+    Senator Franken. You recently submitted a filing urging the 
+FCC to reject this deal. Can you explain why you did this and 
+what the acquisition could mean for both satellite and cable 
+customers?
+    Ms. Stutzman. Thank you for your question, Senator. We 
+share your concern and appreciate how vocal you have been about 
+the merger.
+    We think the FCC should reject the deal because it is not 
+in the public interest, it is anticompetitive, and that is a 
+bad deal for content creators as well as consumers.
+    Comcast is already the largest cable and Internet service 
+provider, and allowing them to get bigger by acquiring eight or 
+10 million customers will make them too powerful of a content 
+gatekeeper.
+    On the cable side, they can use this to cut affiliate fees 
+paid to broadcast and cable networks, which reduces the money 
+available to invest in content, which harms viewers. The 
+company will also control at least one-third of the broadband 
+Internet market, and this is where all of the new video 
+competition is coming from. And we fear that they will use 
+their power in that market to steer the direction away from new 
+providers like Amazon and Netflix to favor their own content, 
+which obviously limits what consumers will be able to see.
+    And the Internet, you know, the broadband Internet market 
+is even less competitive than the cable market. Most people 
+really have a choice of one or two Internet providers when you 
+are talking about high-speed Internet that could be used to 
+watch video.
+    And so we just think this will limit choice. It will 
+probably increase prices, and it will harm the content that 
+consumers can see.
+    Senator Franken. And, Mr. Bergmayer, you talked about 
+peering agreements, and I think when we talk about an open 
+Internet, we want to be talking about that.
+    This is about blackouts again. There is a basic dispute 
+here, I guess, and so I will--Ms. Minea, you have your 
+position, and, Ms. Stutzman, you have yours. And anybody can 
+weigh in on this. Can anybody here get to the nub of the 
+difference? And how can we avoid blackouts for consumers? But 
+what is the disagreement here? Go ahead.
+    Mr. Bergmayer. Senator, I think everyone at this table 
+agrees that broadcasters ought to be paid a fair value for 
+their content. I think the disagreement is about whether 
+basically pulling the signal during the course of a contract 
+dispute is a legitimate negotiating tactic or not. I happen to 
+think that it is not, especially because the way that TV works, 
+you have these must-see events that happen periodically, and I 
+do not think it is a coincidence that very often these disputes 
+are timed to happen near those events, which I think leads to 
+an unfair situation. But ultimately I am not saying that I 
+think that cable or satellite ought to get access to this 
+content for free.
+    Senator Franken. I know that Ms. Minea talked about a 
+baseball sort of arbitration, a way of resolving this. Ms. 
+Stutzman, Ms. Burdick, do you have opinions on that?
+    Ms. Burdick. Yes, arbitration will not resolve blackouts 
+any more quickly. It will lengthen the process, and it will add 
+expense to local broadcasters like me. I do not have a phalanx 
+of attorneys who negotiate these deals 24/7, like the bigger 
+MVPDs.
+    I would like to correct one thing John said. Both parties 
+in a contract negotiation determine its length of time. So to 
+suggest that broadcasters are somehow pulling a signal before a 
+must-see event is not correct. Both parties agree to the length 
+of terms, and they both know what that is.
+    Ms. Minea. May I briefly respond?
+    Senator Franken. I would say yes.
+    [Laughter.]
+    Chairman Leahy. I will say yes, too, but votes have 
+started, and we are going to have to wrap up all of this in 
+seven minutes.
+    Senator Franken. Really?
+    Chairman Leahy. But go ahead.
+    Senator Franken. Okay. Well, I actually----
+    Chairman Leahy. And we have to have Senator Flake have a 
+chance, but go ahead and respond.
+    Ms. Minea. I will be very brief. We do not want blackouts, 
+and the reason we have proposed baseball-style arbitration in 
+conjunction with the standstill is there will be no blackout. 
+Consumers will not be impacted. They will not lose their 
+programming, and the arbitration will produce a fair market 
+prices, because both sides will have an incentive to submit 
+their best offer, and the arbitrator can choose. But in the 
+meantime, consumers are not harmed.
+    Ms. Stutzman. But content continues to be available over 
+the air, and I really think that needs to be promoted to 
+consumers because most households can receive broadcast 
+programming using a digital antenna. And so it remains there 
+rather than giving more power to an MVPD in a negotiation.
+    Chairman Leahy. Thank you.
+    Senator Franken. Thank you, Mr. Chairman.
+    Chairman Leahy. Senator Flake.
+    Senator Flake. Thank you. I apologize if I am plowing old 
+ground here, and I apologize for not being here. But if you can 
+just tell me--and let us start with Ms. Minea--the structure 
+that we have, the retransmission structure, started in 1992 
+with the goal of maintaining or enhancing local content, do you 
+feel that it has achieved that goal, the structure that we 
+have?
+    Ms. Minea. Thanks for the question, Senator Flake. Yes, in 
+the sense that local broadcast stations are more available now 
+on DISH Network than they ever have been before. We offer local 
+broadcast stations in all 210 markets. So the current statutory 
+framework has allowed us to do that, and all I would say is 
+that, unfortunately, because of the increased competition among 
+pay-TV providers, meanwhile there is only one NBC affiliate, 
+for example, per market, it is not a level playing field. That 
+is what is causing the blackouts.
+    So we believe in localism, we believe it is working, and we 
+just think that STELA could do more to protect consumers.
+    Senator Flake. Okay. Ms. Burdick.
+    Ms. Burdick. So it was 1992 that broadcasters were allowed 
+to negotiate for their signal. It was really not until 2006 
+that any broadcaster was paid, and that really was a benefit of 
+satellite increasing its presence in each of the markets so 
+there was a competitor.
+    Retransmission consent is working, although while broadcast 
+television accounts for about 40 percent of the viewing, we get 
+about six to seven percent of the revenue. So we still have a 
+ways to go in trying to negotiate a fair value for the product 
+we bring, investing back into local communities with local 
+news, weather, and sports.
+    Senator Flake. All right. Ms. Stutzman.
+    Ms. Stutzman. I think retransmission consent negotiations 
+are very important because broadcast stations operate in a 
+television landscape where there are hundreds of cable channels 
+that consumers can choose from, and those cable networks have a 
+dual revenue stream. And so this is really broadcast adapting 
+to that model, diversifying their revenue sources, and keeping 
+broadcast healthy. So we think it is very important.
+    Senator Flake. All right.
+    Mr. Bergmayer. And I think a lot of aspects of the 1992 
+Cable Act were successful. However, I think that the general 
+approach that Congress took in 1976 of first creating the cable 
+compulsory license and then, fast-forward, creating a new right 
+that is sort of layered on top of that, so we have the 
+simultaneous existence of copyrights and then a broadcaster has 
+a signal right and that is where the negotiation takes place, 
+is just a little too complicated. That is why we have advocated 
+simplifying the system.
+    Senator Flake. Thank you, Mr. Chairman.
+    Chairman Leahy. If there are no further questions, then I 
+would thank you all. But I know that some will have questions 
+for the record, and I would ask you to return them as quickly 
+as you can.
+    Thank you all very much for being here.
+    [Whereupon, at 11:06 a.m., the Committee was adjourned.]
+
+                            A P P E N D I X
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT] 
+
+              Prepared Statement of Chairman Patrick Leahy
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+          Prepared Statement of Ranking Member Chuck Grassley
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                 Prepared Statement of Alison A. Minea
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                  Prepared Statement of Marci Burdick
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                  Prepared Statement of John Bergmayer
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+      Questions submitted by Senator Grassley for Alison A. Minea
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+       Questions submitted by Senator Grassley for Marci Burdick
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+       Questions submitted by Senator Grassley for Ellen Stutzman
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+      Questions submitted by Senator Klobuchar for Ellen Stutzman
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+       Questions submitted by Senator Grassley for John Bergmayer
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Responses of Alison A. Minea to questions submitted by Senator Grassley
+
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+
+ Responses of Marci Burdick to questions submitted by Senator Grassley
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Responses of Ellen Stutzman to questions submitted by Senator Klobuchar
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+
+ Responses of Ellen Stutzman to questions submitted by Senator Grassley
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+ Responses of John Bergmayer to questions submitted by Senator Grassley
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                Miscellaneous Submissions for the Record
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+
+                                  [all]
+
+
+</pre></body></html>

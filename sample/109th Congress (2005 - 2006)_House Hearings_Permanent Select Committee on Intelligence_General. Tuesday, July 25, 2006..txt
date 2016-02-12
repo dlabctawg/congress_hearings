@@ -1,0 +1,1802 @@
+<html>
+<title> - TERRORISM THREATS AND THE INSURANCE MARKET</title>
+<body><pre>
+[House Hearing, 109 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+
+                         TERRORISM THREATS AND
+
+                          THE INSURANCE MARKET
+
+=======================================================================
+
+                             JOINT HEARING
+
+                               BEFORE THE
+
+                            SUBCOMMITTEE ON
+                      OVERSIGHT AND INVESTIGATIONS
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                                AND THE
+
+                            SUBCOMMITTEE ON
+                   INTELLIGENCE, INFORMATION SHARING,
+                     AND TERRORISM RISK ASSESSMENT
+
+                                 OF THE
+
+                     COMMITTEE ON HOMELAND SECURITY
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED NINTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             JULY 25, 2006
+
+                               __________
+
+  Printed for the use of the Committee on Financial Services and the 
+                     Committee on Homeland Security
+
+                    Committee on Financial Services
+                           Serial No. 109-111
+
+                     Committee on Homeland Security
+                           Serial No. 109-93
+
+
+
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+
+31-540 PDF                  WASHINGTON : 2007
+------------------------------------------------------------------
+For sale by Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800;
+DC area (202) 512-1800 Fax:  (202) 512-2250. Mail:  Stop SSOP, 
+Washington, DC 20402-0001
+
+
+
+
+
+
+
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                    MICHAEL G. OXLEY, Ohio, Chairman
+
+JAMES A. LEACH, Iowa                 BARNEY FRANK, Massachusetts
+RICHARD H. BAKER, Louisiana          PAUL E. KANJORSKI, Pennsylvania
+DEBORAH PRYCE, Ohio                  MAXINE WATERS, California
+SPENCER BACHUS, Alabama              CAROLYN B. MALONEY, New York
+MICHAEL N. CASTLE, Delaware          LUIS V. GUTIERREZ, Illinois
+EDWARD R. ROYCE, California          NYDIA M. VELAZQUEZ, New York
+FRANK D. LUCAS, Oklahoma             MELVIN L. WATT, North Carolina
+ROBERT W. NEY, Ohio                  GARY L. ACKERMAN, New York
+SUE W. KELLY, New York, Vice Chair   DARLENE HOOLEY, Oregon
+RON PAUL, Texas                      JULIA CARSON, Indiana
+PAUL E. GILLMOR, Ohio                BRAD SHERMAN, California
+JIM RYUN, Kansas                     GREGORY W. MEEKS, New York
+STEVEN C. LaTOURETTE, Ohio           BARBARA LEE, California
+DONALD A. MANZULLO, Illinois         DENNIS MOORE, Kansas
+WALTER B. JONES, Jr., North          MICHAEL E. CAPUANO, Massachusetts
+    Carolina                         HAROLD E. FORD, Jr., Tennessee
+JUDY BIGGERT, Illinois               RUBEN HINOJOSA, Texas
+CHRISTOPHER SHAYS, Connecticut       JOSEPH CROWLEY, New York
+VITO FOSSELLA, New York              WM. LACY CLAY, Missouri
+GARY G. MILLER, California           STEVE ISRAEL, New York
+PATRICK J. TIBERI, Ohio              CAROLYN McCARTHY, New York
+MARK R. KENNEDY, Minnesota           JOE BACA, California
+TOM FEENEY, Florida                  JIM MATHESON, Utah
+JEB HENSARLING, Texas                STEPHEN F. LYNCH, Massachusetts
+SCOTT GARRETT, New Jersey            BRAD MILLER, North Carolina
+GINNY BROWN-WAITE, Florida           DAVID SCOTT, Georgia
+J. GRESHAM BARRETT, South Carolina   ARTUR DAVIS, Alabama
+KATHERINE HARRIS, Florida            AL GREEN, Texas
+RICK RENZI, Arizona                  EMANUEL CLEAVER, Missouri
+JIM GERLACH, Pennsylvania            MELISSA L. BEAN, Illinois
+STEVAN PEARCE, New Mexico            DEBBIE WASSERMAN SCHULTZ, Florida
+RANDY NEUGEBAUER, Texas              GWEN MOORE, Wisconsin,
+TOM PRICE, Georgia                    
+MICHAEL G. FITZPATRICK,              BERNARD SANDERS, Vermont
+    Pennsylvania
+GEOFF DAVIS, Kentucky
+PATRICK T. McHENRY, North Carolina
+CAMPBELL, JOHN, California
+
+                 Robert U. Foster, III, Staff Director
+              Subcommittee on Oversight and Investigations
+
+                     SUE W. KELLY, New York, Chair
+
+RON PAUL, Texas, Vice Chairman       LUIS V. GUTIERREZ, Illinois
+EDWARD R. ROYCE, California          DENNIS MOORE, Kansas
+STEVEN C. LaTOURETTE, Ohio           CAROLYN B. MALONEY, New York
+MARK R. KENNEDY, Minnesota           STEPHEN F. LYNCH, Massachusetts
+SCOTT GARRETT, New Jersey            ARTUR DAVIS, Alabama
+J. GRESHAM BARRETT, South Carolina   EMANUEL CLEAVER, Missouri
+TOM PRICE, Georgia                   DAVID SCOTT, Georgia
+MICHAEL G. FITZPATRICK,              DEBBIE WASSERMAN SCHULTZ, Florida
+    Pennsylvania                     GWEN MOORE, Wisconsin
+GEOFF DAVIS, Kentucky                BARNEY FRANK, Massachusetts
+PATRICK T. McHENRY, North Carolina
+MICHAEL G. OXLEY, Ohio
+?
+
+                     COMMITTEE ON HOMELAND SECURITY
+
+                   Peter T. King, New York, Chairman
+
+Don Young, Alaska                    Bennie G. Thompson, Mississippi
+Lamar S. Smith, Texas                Loretta Sanchez, California
+Curt Weldon, Pennsylvania            Edward J. Markey, Massachusetts
+Christopher Shays, Connecticut       Norman D. Dicks, Washington
+John Linder, Georgia                 Jane Harman, California
+Mark E. Souder, Indiana              Peter A. DeFazio, Oregon
+Tom Davis, Virginia                  Nita M. Lowey, New York
+Daniel E. Lungren, California        Eleanor Holmes Norton, District of 
+Jim Gibbons, Nevada                  Columbia
+Rob Simmons, Connecticut             Zoe Lofgren, California
+Mike Rogers, Alabama                 Sheila Jackson-Lee, Texas
+Stevan Pearce, New Mexico            Bill Pascrell, Jr., New Jersey
+Katherine Harris, Florida            Donna M. Christensen, U.S. Virgin 
+Bobby Jindal, Louisiana              Islands
+Dave G. Reichert, Washington         Bob Etheridge, North Carolina
+Michael T. McCaul, Texas             James R. Langevin, Rhode Island
+Charlie Dent, Pennsylvania           Kendrick B. Meek, Florida
+Ginny Brown-Waite, Florida
+
+                                 ______
+
+ SUBCOMMITTEE ON INTELLIGENCE, INFORMATION SHARING, AND TERRORISM RISK 
+                               ASSESSMENT
+
+                   Rob Simmons, Connecticut, Chairman
+
+Curt Weldon, Pennsylvania            Zoe Lofgren, California
+Mark E. Souder, Indiana              Loretta Sanchez, California
+Daniel E. Lungren, California        Jane Harman, California
+Jim Gibbons, Nevada                  Nita M. Lowey, New York
+Stevan Pearce, New Mexico            Sheila Jackson-Lee, Texas
+Bobby Jindal, Louisiana              James R. Langevin, Rhode Island
+Charlie Dent, Pennsylvania           Kendrick B. Meek, Florida
+Ginny Brown-Waite, Florida           Bennie G. Thompson, Mississippi 
+Peter T. King, New York (Ex          (Ex Officio)
+Officio)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    July 25, 2006................................................     1
+Appendix:
+    July 25, 2006................................................    29
+
+                               WITNESSES
+                         Tuesday, July 25, 2006
+
+DeBoer, Jeffrey D., President and CEO, The Real Estate Roundtable    13
+Fleming, Terry, Director of External Affairs, Risk and Insurance 
+  Management Society.............................................     9
+Lewis, Christopher M., Vice President, Alternative Market 
+  Solutions, P&C Capital Management, The Hartford Financial 
+  Services Group, Inc............................................    14
+Ulrich, Peter, Senior Vice President, Model Management, Risk 
+  Management Solutions, Inc......................................    11
+
+                                APPENDIX
+
+Prepared statements:
+    DeBoer, Jeffrey D............................................    30
+    Fleming, Terry...............................................    48
+    Lewis, Christopher M.........................................    66
+    Ulrich, Peter................................................    70
+
+              Additional Material Submitted for the Record
+
+Kelly, Hon. Sue W.:
+    Statement of the American Insurance Association..............    80
+    Statement of the Independent Insurance Agents & Brokers of 
+      America....................................................    88
+    Statement of the RAND Corporation............................    97
+Dent, Hon. Charlie:
+    Responses to questions submitted to Peter Ulrich.............   104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                         TERRORISM THREATS AND
+                          THE INSURANCE MARKET
+
+                              ----------                              
+
+
+                         Tuesday, July 25, 2006
+
+             U.S. House of Representatives,
+                          Subcommittee on Oversight
+                                and Investigations,
+                           Committee on Financial Services,
+                  and Subcommittee on Intelligence,
+                 Information Sharing, and Terrorism
+                                   Risk Assessment,
+                            Committee on Homeland Security,
+                                                   Washington, D.C.
+    The subcommittees met, pursuant to notice, at 10:00 a.m., 
+in room 2128, Rayburn House Office Building, Hon. Sue Kelly 
+[chairwoman of the Subcommittee on Oversight and 
+Investigations] presiding.
+    Present: Representatives Kelly, Royce, Kennedy, Garrett, 
+Dent, Simmons, Gutierrez, Moore of Kansas, Maloney, Cleaver, 
+Scott, Frank, Lofgren, Lowey, and Thompson.
+    Also present: Representatives Israel and Crowley.
+    Chairwoman Kelly. This hearing will come to order. Without 
+objection, all members' opening statements will be made a part 
+of the record.
+    Today, this joint hearing of the Subcommittee on Oversight 
+and Investigations and the Subcommittee on Intelligence, 
+Information Sharing, and Terrorism Risk Assessment is going to 
+examine terrorism threats and the insurance market.
+    We are fast approaching the 5th anniversary of the 
+September 11, 2001, attacks on our country. That series of 
+attacks on New York and Washington, D.C., cost this country 
+more than $60 billion in losses. Hundreds of billions more was 
+lost in the economic activity from the fear and uncertainty 
+unleashed by these acts of terror. In response to that attack, 
+Congress passed the Terrorism Risk Insurance Act (TRIA) to 
+ensure the supply of insurance against terrorism in areas where 
+that supply had been destroyed by the attacks.
+    Last December, Congress authorized TRIA for 2 additional 
+years while a permanent solution to the problem of terrorism 
+insurance supply was developed by insurance providers, 
+consumers, and government stakeholders. Insurance supply has 
+been a focus of these efforts, but insurance demand created the 
+need. Too often, the debate on terrorism insurance focuses on 
+supply side questions and forgets the needs that drove us to 
+this point.
+    In the 5 years since the September 11th attacks, efforts to 
+perpetrate another large-scale terrorist activity within the 
+United States have not succeeded, but the threat remains. The 
+U.S. Government and the private sector must operate based on a 
+certainty of a terrorist attack in the near to medium term. We 
+do not know what form the next attack will take but we have 
+every reason to believe our enemies are seeking to inflict mass 
+casualties, mass economic attacks, and multiple targets to 
+maximize damage and weaken the first response capacities.
+    The terrorist risk, while unknown, is not outside the scope 
+of reason, though through threat assessment and correlation 
+with previous attacks, the size and scope of future attacks can 
+be imagined. Risk can also be measured both geographically and 
+countrywide. Countries and companies both can measure risk.
+    Pre-attack mitigation can also reduce vulnerabilities; 
+modeling an assessment of risk can create a situation that 
+allows the demand for terrorism insurance to be quantified. 
+Modeling of terrorism risk must be based on accurate data and 
+the assessments must not be limited by a failure of 
+imagination.
+    Two examples from my home State of New York are 
+illustrative. The Department of Homeland Security used the 
+National Asset Data Base to help assess risk and thus share 
+funds with vulnerable communities. Unfortunately, this database 
+was full of activities such as petting zoos, popcorn packers, 
+pizza parlors, and, of course, the famous Mule Day in 
+Tennessee. While the Homeland Security Department disputes the 
+notion that this database is flawed, no one disagrees that 
+local politics help create a list of negligible utility.
+    Failures of imagination are equally dangerous. Our enemies 
+can think and they have constantly shown that they are willing 
+to try new attack methods and target sets. Accepting the status 
+quo for recognizing the threat is no longer good enough. For 
+instance, in my district, the Indian Point Nuclear Power Plant 
+sits on the Hudson River in the middle of the largest urban 
+area in the country. No one at the Department of Homeland 
+Security had ever questioned whether an attack by a high-speed 
+boat was possible despite suggestions that Al Qaeda has shown 
+an increasing interest in the sea as an attack vector. When I 
+asked the Coast Guard admiral responsible for planning to meet 
+the threat about this, he admitted that this was a threat that 
+was not being assessed. What other threats are we not preparing 
+for because we have not asked the proper questions? How do 
+unaddressed threats change discussions of what needs to be 
+insured and how much insurance we need?
+    I now yield to the ranking member from Illinois for his 
+opening statement. We are raising questions here. We hope that 
+this panel will help us find some answers.
+    Mr. Gutierrez?
+    Mr. Gutierrez. Good morning and thank you, Chairwoman 
+Kelly, and Chairman Simmons, who will join us shortly. I am 
+pleased to be here today along with our colleagues on the 
+Homeland Security Committee to review and discuss the effects 
+of terrorism on the insurance market. A strong, viable 
+insurance market is vital to the overall health of our national 
+economy. Nearly 5 years ago, the stability of the insurance 
+industry was put in jeopardy when insurers and re-insurers lost 
+more than $30 billion as a result of the 9/11 attacks. 
+Following the substantial losses, insurers were unable to make 
+terrorism insurance available, which left many of our Nation's 
+businesses vulnerable to unacceptable financial risk. In 
+response, Congress enacted the Terrorism Risk Insurance Act or 
+TRIA to provide a temporary, limited Federal backstop in the 
+event of another terrorist attack in the United States. I am a 
+strong supporter of TRIA and believe it is necessary to provide 
+stability for our economy in the post-9/11 world.
+    I was pleased that we passed legislation late last year 
+that extended TRIA until the end of 2007, but the 2007 deadline 
+is only 17 months away. And at this point, the market is not 
+yet stabilized, and the need for TRIA remains. I do not, 
+however, believe that TRIA is perfect in its current form; some 
+changes should be made to improve the legislation. We should be 
+mindful that TRIA is not intended to be a permanent program and 
+that eventually the private market must adjust. I do not want 
+to see the Federal Government as a permanent re-insurer of last 
+resort, at least not at the liability levels that exist under 
+the current version of TRIA.
+    In order for this to happen, however, the industry needs to 
+make substantial progress with its prediction models. I would 
+like to hear from our industry witnesses what they believe are 
+the specific weaknesses in the current prediction models, and 
+any suggestions they may have to improve the ability to access 
+and price terrorism risks. From our risk management experts, I 
+am interested in hearing about the progress they have made in 
+making models more accurate and what information they believe 
+they need to further improve accuracy. For example, in written 
+testimony, RMS proposes allowing the insurance industry or risk 
+management experts access to classified information. I am 
+curious about how this information can be kept secure while at 
+the same time used to improve prediction models. Finally, I am 
+interested in hearing our witnesses' opinions on improvements 
+to TRIA if and when another extension is considered. The bottom 
+line is terrorism insurance must continue to be available in a 
+comprehensive and affordable manner. Whether that includes 
+TRIA, another form of Federal backstop, or the private sector 
+assuming full liability remains to be seen. What we do know is 
+that strong markets require certainty and 17 months is a short 
+time in the forward-looking insurance industry. Therefore, we 
+must all act with deliberate speed in developing a more long-
+term solution.
+    I yield back the balance of my time.
+    Chairwoman Kelly. Thank you, Mr. Gutierrez. I yield to the 
+gentleman from Connecticut.
+    Mr. Simmons. Thank you, Madam Chairwoman, and thank you 
+everybody for being here today. As chairman of the Committee on 
+Homeland Security's Subcommittee on Intelligence, Information 
+Sharing, and Terrorism Risk Assessment, I understand how vital 
+information sharing and risk assessment can be to understanding 
+the nature of the terrorist threat. The insurance industry 
+faces many challenges when attempting to model terrorism risks. 
+As a private sector entity, one of the key challenges is 
+getting information on the nature of the threat. In simplest 
+terms, risk assessment is the result of weighing vulnerability, 
+consequence, and the likelihood that an event may occur. But 
+without information on the nature of the threat, measuring risk 
+becomes extremely difficult. Often information related to 
+terrorism is sensitive, classified, and locked in a vault 
+somewhere. And while this secrecy culture is slowly changing, 
+some information on threats and vulnerabilities must remain 
+secret.
+    Many in private industry, including the insurance industry, 
+believe that they lack some of the very basic terrorist-related 
+information that would help them evaluate the likelihood of 
+future terrorist events. So one of the things that I would like 
+to understand, and that I hope our witnesses can help us to 
+understand here today, is where do you get your information? Do 
+you rely on open sources of information, for example? And what 
+kind of information could you use from the Federal Government 
+that might enhance your capabilities of assessing risk?
+    In addition to the difficulties associated with access to 
+information, measuring terrorism risk is, by its very nature, 
+more difficult than measuring the risk of a natural disaster. I 
+live in Connecticut and we have hurricanes. Hurricanes have no 
+motives--they come, they damage, and they go. But terrorists 
+are different. They rely on secrecy and unpredictability to 
+accomplish their task and even a seasoned intelligence 
+professional with access to our Nation's most compartmented 
+secrets may or may not be successful in predicting where 
+terrorists will strike.
+    In order to play their part in this country's 
+counterterrorism mission, private industry must rely on risk 
+assessment to determine what kinds of protective measures 
+should be taken at their facilities and what kind of insurance 
+should be purchased for their most important assets.
+    So we look forward today to hearing from our witnesses and 
+hope that they can shed further light on how to address some of 
+these concerns. I think you all for being here. I thank 
+Chairwoman Kelly for calling this important hearing, and I 
+yield back.
+    Chairwoman Kelly. Thank you. I yield now to the ranking 
+member from California.
+    Ms. Lofgren. Thank you, Madam Chairwoman, and Chairman 
+Simmons. As we know, the Committee on Homeland Security has 
+jurisdiction over issues relative to homeland security under 
+the House rules and nowhere in the House rules is there an 
+explicit or implicit mention of the Committee on Homeland 
+Security's jurisdiction over insurance. I am raising this issue 
+to point out striking inconsistencies in the interpretation of 
+the Committee on Homeland Security's jurisdiction.
+    On April 6th of this year, I sent Mr. Simmons and Chairman 
+King a letter explaining why I believe that the Committee on 
+Homeland Security has jurisdiction over matters involving the 
+National Security Agency, homeland security, and potentially 
+illegal eavesdropping by the NSA. In an April 25th response to 
+my letter, Mr. Simmons and Chairman King disagreed that the 
+Committee on Homeland Security had jurisdiction over the 
+potentially illegal eavesdropping by the NSA. As Chairman King 
+stated in his letter, ``The House rules empower the Committee 
+on Homeland Security to review and study on a continuing basis 
+all government activities relating to homeland security, 
+including the interaction of all departments and agencies with 
+the Department of Homeland Security.'' Nevertheless, Chairman 
+King seemed to have parsed words to conclude that the Committee 
+on Homeland Security does not have jurisdiction over 
+eavesdropping by the NSA. It seems to me that if the 
+Subcommittee on Intelligence does not have jurisdiction to take 
+a look at the NSA and the potential illegal activities that 
+they are engaging in, it is quite a stretch to say that we have 
+jurisdiction over insurance. So I am hoping, and formally will 
+be asking with a later letter, that the issue of review of NSA 
+and the Intelligence Subcommittee's jurisdiction be revisited 
+by the chairman of the full committee as well as the chairman 
+of the subcommittee. And I believe that while this insurance 
+issue certainly is of interest to the committee of 
+jurisdiction, certainly the committee of jurisdiction over 
+intelligence should be taking up the NSA matter. And I yield 
+back.
+    Chairwoman Kelly. Thank you. I will turn now to the ranking 
+member of the full committee, Mr. Frank.
+    Mr. Frank. I thank the gentlewoman. And let me say 
+preliminarily that I am no longer on the Homeland Security 
+Committee because when it became a standing committee in the 
+House, by Democratic Caucus rules as the ranking member of this 
+full committee, I wasn't eligible to serve, but I was 
+interested, and I am supportive of the gentlewoman's concern. I 
+would say I think probably the response you would get from some 
+quarters is that the reason that the Committee on Homeland 
+Security doesn't have any jurisdiction over the NSA wiretapping 
+is that in the opinion of the Administration, Congress doesn't 
+have any jurisdiction over this. So the lesser is shut out by 
+the greater in this case. And if they don't think it is any of 
+our business, then it is no committee's business.
+    I am pleased that the two committees are working together 
+in this hearing. We have too much turf consciousness in this 
+Congress and sometimes that gets in the way of substantive 
+considerations. I think it is a good idea that we are having 
+this joint hearing. And I want to talk particularly about the 
+public policy rationale for terrorism risk insurance. I want to 
+address some of my friends in the consumer movement, some of 
+whom have been critical of this. I was struck, as I read 
+through the testimony--because I am not going to be able to 
+stay, as we have bills on the Floor from this committee today--
+by Mr. Lewis' remarks about the public policy implications 
+here. I want to stress that in addition to the argument that 
+after all, in many cases when you are the insured, we tell you 
+that you have an obligation to reduce your risk. You have an 
+obligation to reduce your risk of theft, of fire, and of 
+vandalism. However, it is very hard to tell private sector 
+people to reduce their risk from terrorism. Now I know they 
+try. I wish sometimes they wouldn't. I think it has become a 
+sign of ego that you make it hard to get into your building. It 
+cannot be that every office building in Washington and New York 
+is a target for terrorism, but I think if you don't have 
+someone there to harass your visitors, then you feel like you 
+are not important. And if no one wants to blow you up, then you 
+must not be a big deal, and therefore you have somebody who is 
+sitting there and looking at people's driver's licenses to no 
+practical effect whatsoever if there was a serious problem.
+    But there is nothing you can do to protect yourself against 
+being the victim of terrorism. You might be able to mitigate 
+the effects somewhat, but that is the minor part of it. And 
+that reduces the argument that the cost of this should be borne 
+by the insured because you are asking people to bear a cost 
+over which they have no control. But even more than that, as 
+people have indicated, and the gentleman from Connecticut 
+indicated, we are talking here about a situation where there 
+are bad people and elements within the United States 
+consciously seeking to inflict harm on the United States. To 
+the extent that we allow the individual victims to bear the 
+cost, we are implicitly cooperating with the terrorists. That 
+is, the cost of terrorism ought to be borne by the whole 
+country, and we should not allow terrorists to pick and choose 
+which Americans are going to bear the cost. We should not allow 
+them to say, well, the big cities will be more vulnerable. And, 
+again, when you take into account the fact that we have a 
+situation where the victims may not have a very good ability to 
+stave off the damage and where it is a conscious decision by 
+evil people to inflict harm on us, then we ought to all be 
+willing to bear the cost. I don't want to have a situation 
+where, if a terrorist attacks some place in America, the rest 
+of us can say, ``Boy, we sure are lucky that we weren't hit. 
+That poor so-and-so has to bear the cost.'' No, let's say that 
+America has been attacked and we will together bear the cost of 
+that.
+    Now, obviously, there are some cases in which you can't do 
+that; nobody can share the loss of life or other factors. But 
+to the extent that we can make these costs go across the board, 
+we ought to do that. Now there is also, of course, a particular 
+economic effect, it is not just the whole economy as people 
+mentioned, but when we were doing terrorism risk insurance and 
+we were encountering, I think, a kind of free market 
+fundamentalism, I don't think it is a violation of the 
+principles set forward by Adam Smith to take into account a 
+phenomenon, terrorist bombings, that he could not possibly have 
+known. This is not something that the market was ever intended 
+to deal with. But it does not fall equally on the whole 
+country. It is obviously particularly a problem for people who 
+would be doing large projects in big cities. And I do not think 
+we ought to say that in addition to the other problems that 
+some of our bigger cities have, that we ought to leave them 
+entirely on their own for bearing the cost of terrorism risk 
+insurance. And it is very much, as it has been presented to us, 
+a big city issue. The Department of Homeland Security's lists 
+of terrorist targets notwithstanding, there aren't going to be 
+that many amusement parks outside that are going to be 
+targeted.
+    So I think there was every public policy reason for us to 
+go forward with this. It is a national obligation to help 
+people respond to a threat that is against the whole Nation and 
+against which they cannot be expected themselves to defend. I 
+think we did the right thing in going forward with terrorism 
+risk insurance. I hope we will put it on a permanent basis and 
+those who inaccurately think that this is something that can be 
+left to the market when no theory of the market I have ever 
+read provides for this kind of phenomenon that we will reject 
+their views.
+    Thank you, Madam Chairwoman.
+    Chairwoman Kelly. Thank you, Mr. Frank. Mr. Garrett.
+    Mr. Garrett. Yes, thank you, Madam Chairwoman. I was going 
+to do opening remarks but the ranking member raises an 
+interesting analysis of how we should be spreading the risk or 
+who should be actually bearing it, as to whether it is a risk 
+that you can insure against or not. I will just throw out this 
+one question because I have also looked through some of your 
+testimony, Mr. Ulrich. Risk Management Solutions makes a 
+statement, I don't want to preempt your statements here since 
+it is a good statement, regarding the terrorist activity, ``It 
+isn't a matter of if but when with hurricanes. And it isn't a 
+matter of when but how many.'' I think that is an interesting 
+analysis to go along with this. But with the ranking member's 
+comments, I agree with you as far as the minimalist effect that 
+industry or individuals or insurers may do as far as putting 
+that individual in front of the store or the business office, 
+but on the other hand, there are certain cases where we know 
+that elements are a higher risk. Just reading about today in 
+New Jersey as to what we can do to protect tanker cars along 
+the New Jersey Turnpike and whether the homeland security chief 
+there says we should be building walls to protect them so you 
+can't see those tanker cars all along the turnpike so you can't 
+shoot them or whatever else and blow them up. In certain 
+instances, you know that you are at a greater risk than 
+somebody else. And from an insurance point of view, (A), should 
+there be safety remediations and should risk factors come into 
+play in that case; and (B), should we be looking to see whether 
+risk premium rates should be higher for some individuals than 
+others. Because I see--I will conclude on this--at the bottom 
+line, looking at all your testimony, everyone agrees on the 
+panel, I think, that some version of TRIA must be there as a 
+backstop, but what obligation is there still on the insured in 
+these cases, I guess, is my ultimate question?
+    Thank you. I yield back.
+    Chairwoman Kelly. Thank you, Mr. Garrett. Mr. Moore.
+    Mr. Moore of Kansas. I want to thank you, Madam Chairwoman, 
+for convening this hearing. I do not have an opening statement. 
+I look forward to the testimony of the witnesses. Thank you.
+    Chairwoman Kelly. Thank you. Ms. Lowey.
+    Mrs. Lowey. Thank you, Madam Chairwoman, and I look forward 
+to the testimony of the witnesses, and I will hold my comments 
+until that time. Thank you.
+    Mr. Gutierrez. Madam Chairwoman, I ask unanimous consent 
+that Congressman Israel, who is not a member of the Oversight 
+and Investigations Subcommittee, be allowed to participate in 
+today's hearings.
+    Chairwoman Kelly. So ordered. Mr. Scott?
+    Mr. Scott. I think we should get right to the witnesses. I 
+will not have an opening statement. Thank you.
+    Chairwoman Kelly. Thank you. Mr. Israel?
+    Mr. Israel. Thank you, Madam Chairwoman. Let me thank you 
+and the ranking member for allowing me to participate in this 
+hearing. As was indicated by the ranking member, I am not a 
+member of this subcommittee but I did work very closely with 
+Chairwoman Kelly on the full Financial Services Committee on 
+TRIA, and we were able to arrive at a bipartisan consensus that 
+has been helpful. Of course, the clock is ticking. We have 17 
+months left and although I very strongly and fully support 
+TRIA, and it has been one of my priorities over the past 3 
+years, I do not believe that there is much of an appetite to 
+give TRIA yet another extension under the terms that it 
+currently includes. We need to begin developing consensus now 
+because, as we all know, Congress is not known for moving at 
+lightning speed. So it is critically important that we begin to 
+develop this consensus, and that folks in industry begin to 
+weigh in so that we can develop a sensible policy in this 
+country.
+    The premise of TRIA is quite simple: An attack on this 
+country is not an attack on a building. It is an attack on this 
+country. It is not an attack on bricks and mortars and glass, 
+it is an attack on the lives inside that building. It is not an 
+attack on a bunch of companies. It is not an attack on the 
+insurance industry. It is an attack on the United States of 
+America and its citizens. And the Federal Government does have 
+an obligation to help defend against the economic consequences 
+of that attack. This is critically important. And I am very 
+concerned that we not have deja vu all over again, in the 
+immortal words of Yogi Berra, that as we begin to approach the 
+deadline where TRIA will in fact expire, at the very last 
+minute, suddenly people begin to scramble. That gets very messy 
+when you are working against a ticking clock. It gets very 
+messy in a climate of partisanship. And so I would strongly 
+urge all concerned parties to begin working now, sooner rather 
+than later, begin to weigh in with both sides of the aisle on 
+the Financial Services Committee so that we can produce a 
+product that keeps my constituents and all of my colleagues' 
+constituents safe from another attack.
+    I want to again thank the chairwoman and the ranking member 
+for their hospitality, and I yield back my time.
+    Mr. Gutierrez. Madam Chairwoman, I ask unanimous consent 
+that Congressman Crowley be allowed to participate in the 
+hearing.
+    Mr. Crowley. Thank you, Madam Chairwoman. I also want to 
+thank you and the ranking member for holding this hearing. I 
+think it is important that we get this right. It is too 
+important for industry, not only in my city but throughout this 
+country, that terrorism risk insurance and a way forward with a 
+Federal backstop that is workable, that is something that 
+encompasses the needs of industry as well as developers to do 
+the work that they need to do to keep our economy viable. And I 
+thank you for holding this hearing today and look forward to 
+hearing the testimony this morning.
+    Chairwoman Kelly. Thank you very much. We turn now to our 
+witnesses.
+    Terry Fleming is the director of Risk Management for 
+Montgomery County, Maryland. The county's self-insurance 
+program provides property and casualty coverage for 14 agencies 
+covering more than 40,000 employees. Mr. Fleming and the 
+county's self-insurance program have been recognized as 
+reputational leaders by the American City and County Magazine. 
+Mr. Fleming has over 35 years experience in insurance and risk 
+management in the public and private sectors.
+    Peter Ulrich is the senior vice president of RMS' model 
+management team. He has been with RMS since 1993. Prior to 
+joining RMS, Peter spent 8 years with Peterson Consulting. 
+Peter earned a B.S. in accounting and finance from the 
+University of California at Berkeley and a MBA from the 
+University of Southern California.
+    Jeff DeBoer is president and CEO of the Real Estate 
+Roundtable, an organization that represents the leadership of 
+the Nation's top 100 privately owned and publicly-held real 
+estate ownership development, lending, and management firms, as 
+well as the elected leaders of the 15 major national real 
+estate industry trade associations. He also serves as co-
+chairman of the advisory board of the Rand Corporation's Center 
+for Terrorism Risk Management Policy and is chairman of the 
+National Real Estate Organizations, a coalition of real estate 
+trade associations working together to enhance the coordination 
+of the industry's overall Washington advocacy efforts. A native 
+of Rapid City, South Dakota, Mr. DeBoer has earned a law degree 
+from Washington and Lee University in Lexington, Virginia, and 
+an undergraduate degree from Yankton College in Yankton, South 
+Dakota.
+    And finally, Christopher M. Lewis. I am going to yield to 
+the gentleman from Connecticut, for the purpose of introducing 
+our final witness.
+    Mr. Simmons. I thank the Chair for that courtesy. And I am 
+especially pleased today that Chris Lewis is with us to testify 
+at this hearing. Mr. Lewis is the vice president of Alternative 
+Market Solutions and Capital Management at the Hartford 
+Financial Services Group and lives in the wonderful town of 
+Tolland, Connecticut, which I am pleased to represent. He is 
+also responsible for the Hartford's risk management initiatives 
+and works with policymakers on issues related to the risk of 
+manmade and natural disasters. Prior to joining The Hartford, 
+Mr. Lewis was managing director and global head of Advisory 
+Services for Fitch Risk Management, and he also spent 5 years 
+as a senior economist at the Office of Management and Budget 
+where he was a member of the White House Working Group on 
+Natural Disasters. Welcome, Chris. We look forward to your 
+testimony.
+    Chairwoman Kelly. Thank you. Now, without objection, the 
+witnesses' written statements will be made a part of the 
+record, and you are each going to be recognized for a 5-minute 
+summary of your testimony. I believe all of you understand the 
+function of the small black box with the lights on the table. 
+Please note that the red light doesn't mean sum up, it means 
+that it is time to finish your 5-minute statement. With that, 
+we turn first to you, Mr. Fleming. And thank you all for being 
+here.
+
+STATEMENT OF TERRY FLEMING, DIRECTOR OF EXTERNAL AFFAIRS, RISK 
+                AND INSURANCE MANAGEMENT SOCIETY
+
+    Mr. Fleming. Chairwoman Kelly, Chairman Simmons, and 
+members of the subcommittees, good morning. My name is Terry 
+Fleming. I am a director of External Affairs for the Risk and 
+Insurance Management Society, RIMS, and I am also director of 
+risk management for Montgomery County, Maryland. I am pleased 
+to be here today to talk about terrorism concerns and the 
+insurance market, particularly from a risk management 
+perspective.
+    RIMS represents commercial consumers of insurance. As the 
+country's largest professional risk management organization, 
+RIMS represents nearly 4,000 industrial, service, non-profit, 
+charitable, and governmental entities, including 83 percent of 
+the Fortune 500 companies. As a risk manager, it is my 
+responsibility to identify exposures to financial loss that my 
+employer might suffer and to mitigate those exposures using a 
+variety of techniques. The principal techniques used to manage 
+the terrorism exposure on the part of an individual company or 
+self-insured entity are control--taking steps internally to 
+reduce the threat to employees and property; retention or self-
+funding a portion of any loss; and the purchase of commercial 
+insurance.
+    Prior to September 11, 2001, terrorism was a mere blip on 
+the radar screen for risk managers. We were certainly aware of 
+the Oklahoma City bombing and previous attacks on the World 
+Trade Center. But terrorism was not an issue prior to 9/11 
+quite simply because it was covered by virtually every 
+insurance policy that was issued. After 9/11, it was covered by 
+virtually no insurance policies until the enacting of the 
+Terrorism Risk Insurance Act. And while I understand that this 
+meeting is not specifically about TRIA, any discussion about 
+terrorism and insurance must include the recognition that TRIA 
+is vitally important to business and the economy. It is only 
+because of TRIA that the insurance market calmed down and 
+businesses can obtain terrorism insurance at affordable rates. 
+As explained in detail in our written statement, unless a 
+permanent solution to the terrorism risk is developed and 
+implemented prior to the sunset of TRIA, there will be a 
+significant impact on the economy.
+    Along these lines, RIMS recently conducted an informal 
+survey of its membership asking about terrorism insurance 
+coverage to get an idea of current market conditions. Eighty-
+six percent of respondents to our survey said that if TRIA or 
+some other Federal backstop were not in place, they do not 
+believe that they would be able to obtain sufficient coverage 
+for acts of terrorism at affordable prices. Eighty-two percent 
+said that coverage should be available for nuclear, biological, 
+chemical, and radiological--the so-called NBCR exposures. But 
+91 percent said they do not have coverage for this currently. 
+Coverage for NBCR exposures is typically excluded from 
+commercial insurance policies with the notable exception of 
+worker's compensation insurance.
+    As an indicator of what might be expected if a TRIA-like 
+program were not in effect, 75 percent of our member 
+respondents said that prior to the extension of TRIA, their 
+insurance policies contained coverage conditioned on the 
+extension of TRIA. Seventy-six percent stated that they believe 
+the terrorism coverage limits would have been decreased had 
+TRIA not been extended, and 82 percent believe their insurance 
+premiums would have increased. In this regard, for example, one 
+of our members reported that insurance premiums for a property 
+they own in a large metropolitan area went from $200,000 in 
+2005, to $500,000 in 2006, with a reduction in policy limits. 
+Furthermore, the member's insurance broker has stated that 
+insurance companies are unwilling to commit to insuring 
+construction projects with terrorism coverage if the completion 
+date goes beyond December 31, 2007, the sunset date of TRIA.
+    RIMS believes that it is critical that a program be 
+developed to ensure continued coverage for acts of terrorism, 
+including NBCR coverage, and our written statement itemizes the 
+principles that we think should apply to the development of a 
+long-term solution.
+    Thank you for the opportunity to testify on this extremely 
+important issue. RIMS appreciates your committees holding this 
+joint hearing and looks forward to working with you to address 
+the issue of terrorism and insurance. Thank you.
+    [The prepared statement of Mr. Fleming can be found on page 
+48 of the appendix.]
+    Chairwoman Kelly. Thank you very much, Mr. Fleming.
+    Mr. Ulrich.
+
+    STATEMENT OF PETER ULRICH, SENIOR VICE PRESIDENT, MODEL 
+          MANAGEMENT, RISK MANAGEMENT SOLUTIONS, INC.
+
+    Mr. Ulrich. Thank you for the opportunity to testify here 
+today. For those of you who do not know who Risk Management 
+Solutions is, RMS is the world's leading provider of technology 
+and services for the managing of catastrophic risk, both 
+natural perils, such as earthquakes and hurricanes, as well as 
+terrorism risks. We first released our terrorism model in 2002 
+and today have over 100 insurers and re-insurers actively using 
+the model to manage risk.
+    Just to clarify what a terrorism model is, we do not try to 
+predict the time and place of the next terrorist attack. What 
+we do--for a location or portfolio of hundreds of thousands of 
+locations, we assess the likelihood that any of those may 
+sustain property, business interruption damage, or human 
+casualties under a spectrum of possible terrorist attacks from 
+small bombs to large truck bombs, airplane hijackings, nuclear 
+power plant sabotage, or CBRN attacks. And our model is built 
+totally with open source information, which I understand about 
+80 percent of intelligence information is open source today. 
+But the types of sources we rely on are, for example, we have a 
+statistical database of over 20,000 terrorist attacks around 
+the world since 2001. Over 1,000 of these are what we would 
+call macro attacks, car bombs or larger. And focusing on 
+Jihadist attacks in this database, you can see that 45 percent 
+of the attacks around the world come against the major 
+political or economic capital of the country, a New York or 
+Washington, D.C., type city. If you look at the top five cities 
+where attacks occur, that is 67 percent of the likelihood. 
+Looking at this database, you can also see the types of weapons 
+used. For example, over 75 percent of the attacks around the 
+world are improvised explosion devices, IED's. You can also see 
+the distribution of small bombs versus large bombs. The types 
+of attacks the jihadists prefer is at government buildings, 
+hotels, infrastructure, and train stations. This is all 
+valuable information that is available.
+    We also look at academic literature on the motivation and 
+objectives of the terrorist threat groups. We work with weapons 
+experts on understanding the cost and logistics of the 
+different attack modes. How hard is it to build a two ton bomb? 
+How hard is it to get it to detonate efficiently? If you want 
+to sabotage a nuclear power plant, what kind of skills do you 
+need? How realistic a threat is that?
+    And, finally, we also rely on expert opinion. We have 
+formed a group of some of the world's leading experts in 
+terrorism threats to help advise us on understanding current 
+trends, people like Bruce Hoffman, Rohan Guneratna, and Magnus 
+Ranstorp, who are all key advisers to the U.S. Government. We 
+have not had access to any classified information and, frankly, 
+the most sensitive information probably wouldn't help us. We 
+don't need to know that you have someone under surveillance at 
+123 Main Street in San Francisco. Classified information is the 
+big unknown. I don't know what you have that we aren't privy 
+to, but if I had a wish list, the type of things that would be 
+helpful would be information on interdicted attacks that is not 
+public domain. For example, how many attacks have been stopped 
+that the public is not aware of, what types of targets were 
+they after, what type of weapons were they planning to use, how 
+many terrorists were involved, how close to success did they 
+come, and how were they caught? Any indication of change in MO. 
+Al Qaeda has been very focused on very low frequency, high 
+severity attacks, spectacular attacks, such as the World Trade 
+Center, that had a spectacular impact, high economic loss, high 
+human casualties, and great symbolic value. If they want to 
+change to where they are going to have 100 people go out into 
+the public with explosive vests and there is intelligence that 
+indicates that, that would be very helpful to us.
+    Finally, capability assessments. There is certainly 
+information out there about how there are nuclear warheads 
+unaccounted for from the former Soviet Union. And if it was 
+confirmed that, yes, they are missing, and they are in fact in 
+the hands of terrorists, that would be very helpful information 
+to know. Other information might just be intelligence on the 
+effectiveness of our border security, land borders, air 
+borders, sea, and cargo shipments, as well as security ratings 
+of various cities or individual targets. And all this would 
+help improve the models and reduce uncertainty in the models.
+    And on the topic of uncertainty, I was asked to comment on 
+the uncertainty of terrorism versus natural catastrophe. I 
+think it is interesting that last year there were 27 named 
+storms in the Atlantic Basin, unprecedented, whereas with 
+terrorism there has not been a terrorist attack since 9/11. And 
+it is partly controllable. If you tried to hijack a plane after 
+9/11, you couldn't do it the next day because there were no 
+planes flying. And eventually if there was a successful attack, 
+the United States does have the ability to raise defenses. And 
+you can bet that it would not be possible to hijack a plane 
+again.
+    So with that, I will close. Thank you.
+    [The prepared statement of Mr. Ulrich can be found on page 
+70 of the appendix.]
+    Chairwoman Kelly. Thank you very much.
+    Mr. DeBoer?
+
+  STATEMENT OF JEFFREY D. DeBOER, PRESIDENT AND CEO, THE REAL 
+                       ESTATE ROUNDTABLE
+
+    Mr. DeBoer. Thank you, and good morning, Chairwoman Kelly, 
+Chairman Simmons, and members of the two subcommittees. Thank 
+you very much for holding this joint hearing today. My name is 
+Jeff DeBoer, and I am president and CEO of the Real Estate 
+Roundtable. As was mentioned, I also serve as co-chair of the 
+Advisory Board for the Rand Center for Terrorism Risk 
+Management. I am also chairman of the Real Estate Information 
+Sharing and Analysis Center or ISAC, and I participate as a 
+steering committee member for the Coalition to Insure Against 
+Terrorism.
+    From the policyholder perspective, obtaining terrorism 
+insurance is critical to developing, financing, and 
+transferring business property. The amount of needed terror 
+insurance is dictated by lenders and by rating agencies. They 
+have historically taken the position that all risk coverage 
+requires terrorism insurance. Loan amounts must be covered by 
+terror insurance to be approved and bond issuance must have 
+adequate terror insurance to be attractively rated. And this 
+view has been supported by the courts and it in effect creates 
+a high demand for this product. Without terrorism insurance, we 
+believe economic transactions will be smothered and jobs will 
+be at risk. A Real Estate Roundtable survey taken in the post-
+9/1l, pre-TRIA days indicated that about $15 billion worth of 
+real estate transactions had been stalled or completely 
+canceled nationwide. The Council of Economic Advisors at the 
+time stated approximately 300,000 jobs were lost during this 
+period. Almost overnight, it is worth remembering, upon 
+enactment, TRIA filled the re-insurance crater. Insurance 
+capacity returned and transactions resumed. In particular, 
+stalled construction projects moved forward to the benefit of 
+countless workers in the construction trades.
+    Today, I would like to say that demand for terrorism 
+insurance is extraordinary. Studies of take-up rates show a 
+higher terror take-up rate than the take-up rate in almost any 
+other product where Federal or State Government is providing a 
+capacity backstop in effect. And that includes flood, crop, 
+earthquake, or previous riot and crime control programs. A 
+Mortgage Banker's Association survey has revealed that about 84 
+percent of commercial loans surveyed had terror insurance in 
+place. I am sometimes asked, who is buying this coverage? 
+Financial institutions, real estate firms, and health care 
+facilities have the highest take-up rates. But right behind 
+them are media companies, education institutions, energy 
+companies, and transportation firms.
+    Having said that, Roundtable members today report to me 
+that the insurance markets are increasingly difficult. The 
+multiple catastrophic exposures of hurricane, flood, wind, and 
+earthquake, on top of terrorism, plus the high retention rates 
+of TRIA and the pending expiration date that has been 
+mentioned, have caused many insurers who are concerned about 
+aggregation risks to leave markets.
+    Also, as has been mentioned, according to a Moody's report, 
+a high percentage of all policies written prior to TRIA's 
+enactment contained the springing exclusions, which would 
+automatically void coverage if TRIA had not been done on 
+January 1, 2006. This is happening again in the marketplace. 
+Businesses now shopping for policies that run past 2007 year 
+end are being once again asked to accept these springing 
+exclusions. We believe this is strong evidence that without 
+Federal involvement, insurance availability would drop 
+substantially.
+    The ultimate victims of all of this, of no Federal program, 
+would not be the insurance industry, although they are 
+frequently talked about, it would be the American economy; it 
+would be bond holders, pension investors, and jobs. America's 
+industries are highly concerned with nuclear, biological, 
+chemical, and radiological exposures. Even though TRIA does 
+cover these perils, we see no evidence in the marketplace today 
+that this is being written except where mandated in worker's 
+compensation coverage.
+    Regarding risk mitigation, I share many of the concerns 
+that Mr. Frank mentioned. Having said that, however, the 
+industry is spending large sums on security measures. It is 
+important to note also that terrorism risk management strategy 
+is now at the board level for large-scale property owners. 
+Building tenants are being urged to have emergency protocols 
+and owners are urging all tenants to coordinate their plans 
+within the buildings.
+    Our industry has also undertaken an unprecedented multi-
+sector initiative to share information on related terror risks. 
+I would conclude on this point by saying that our industry 
+standard benchmarking reference shows that the industry as a 
+whole is spending about 20 percent more on security related 
+measures than they were pre-9/11.
+    But mitigation is not enough nor is it being appropriately 
+reflected in insurance premiums. A long-term policy solution to 
+this long-term risk must be found. TRIA and TRIEA both have 
+been good programs, and perhaps they can be extended, but they 
+are not the only potential answer. I would invite you to look 
+at a program that we have attached to our statement.
+    In conclusion, without Federal involvement, we don't think 
+there will be adequate insurance capacity to protect the 
+economy in the face of a terrorist attack or to allow an 
+economy to recover after an attack.
+    Thank you again for the opportunity to be with you this 
+morning.
+    [The prepared statement of Mr. DeBoer can be found on page 
+30 of the appendix.]
+    Chairwoman Kelly. Thank you, Mr. DeBoer.
+    Mr. Lewis.
+
+STATEMENT OF CHRISTOPHER M. LEWIS, VICE PRESIDENT, ALTERNATIVE 
+    MARKET SOLUTIONS, P&C CAPITAL MANAGEMENT, THE HARTFORD 
+                 FINANCIAL SERVICES GROUP, INC.
+
+    Mr. Lewis. Thank you. Chairwoman Kelly, Chairman Simmons, 
+Ranking Member Gutierrez, Ranking Member Lofgren, and members 
+of the subcommittees, thank you for the opportunity to appear 
+before you today to discuss the challenging issue of managing 
+the threat of terrorism to the U.S. economy. My goal today is 
+to provide perspective on the difficulties faced by the 
+insurance industry as financial intermediaries helping 
+companies to pool and manage risks, including the risk of 
+terrorism. If it pleases the subcommittees, I will submit my 
+full testimony in writing for the record and restrict my oral 
+testimony to a summary of two key observations.
+    First, terrorism is an uninsurable risk. Terrorism fails to 
+meet the fundamental requirements for insurance. The risk of 
+terrorism does not impact policyholders in a manner that is 
+homogeneous, random, and independent across other 
+policyholders. Moreover, the risk of terrorism is not well 
+understood. Unlike the case of natural catastrophes, the 
+insurance industry has no credible data or models that can be 
+used to quantify the likelihood of a terrorism attack, the form 
+of such an attack, and the location at which such an attack 
+could take place. As a result, the industry cannot effectively 
+price terrorism insurance and is forced to manage the risk of 
+terrorism through exposure limits on entire commercial 
+policies, often to the detriment of our policyholders.
+    Second, the disappearance of Federal terrorism re-insurance 
+could result in major coverage disruptions for policyholders. 
+To see this, we need look no farther than the largely 
+unregulated markets for traditional re-insurance and capital 
+market insurance securitizations. Despite extremely high 
+primary insurance company retentions under TRIA, the 
+traditional reinsurance market has restricted reinsurance 
+capacity for terrorism to de minimis levels. We have virtually 
+no coverage provided where it counts, for terrorist losses 
+caused by nuclear, biological, chemical, or radiological 
+weapons.
+    In the area of insurance link securitization, I can assure 
+the subcommittees that virtually no meaningful capacity exists 
+today to securitize terrorism risk. Having established and 
+maintained an insurance link securitization program for natural 
+catastrophes since 2004, The Hartford has spent considerable 
+time and energy attempting to leverage this technology to help 
+finance the risk of terrorism. Not surprisingly, the same 
+obstacles that impede the insurability of terrorism for the 
+primary insurance and the reinsurance companies are preventing 
+the development of an insurance link securitization market for 
+terrorism. Therefore, in conclusion, I firmly believe that any 
+credible solution for financing the risk of terrorism in the 
+U.S. economy will require a continued partnership between the 
+private insurance industry and the Federal Government.
+    Thank you.
+    [The prepared statement of Mr. Lewis can be found on page 
+66 of the appendix.]
+    Chairwoman Kelly. Thank you, Mr. Lewis. I ask unanimous 
+consent that the statements of the Independent Insurance Agents 
+and Brokers of America, the Rand Corporation, and the American 
+Insurance Association be entered into the record. So moved.
+    I would like just a yes or a no answer from each member of 
+the panel to the following question: Do you believe that the 
+threat of terrorism increases or decreases as we move away from 
+9/11? Just say increase or decrease, so I have some kind of 
+picture of what your thinking is. Mr. Fleming?
+    Mr. Fleming. Increase.
+    Chairwoman Kelly. Mr. Ulrich? Real simple, one word.
+    Mr. Ulrich. Increase.
+    Chairwoman Kelly. Mr. DeBoer?
+    Mr. DeBoer. Given those two choices, increase.
+    Mr. Lewis. Same, increase.
+    Chairwoman Kelly. Well, we will get to the nuances now. I 
+would like to ask you whether a distinction between foreign and 
+domestically-inspired acts of terror is meaningful from a risk 
+assessment point of view? Mr. Fleming?
+    Mr. Fleming. RIMS believes that the distinction should be 
+eliminated. Just looking at what happened in England last 
+summer, they were homegrown terrorists but citizens of Great 
+Britain, and we are concerned that the same kind of situation 
+is going to occur here. If it happened in America, the 
+distinction may have eliminated coverage under TRIA if they 
+were homegrown domestic terrorists.
+    Chairwoman Kelly. Thank you. Mr. Ulrich?
+    Mr. Ulrich. From a threat standpoint, there is an extreme 
+difference between the foreign threat and the domestic threat.
+    Chairwoman Kelly. Would you like to elaborate on that?
+    Mr. Ulrich. Well, there is no reason to believe right now 
+that there is a Timothy McVeigh lurking out there right now but 
+Al Qaeda has stated that they want to attack the United States. 
+So the domestic threat exists but it is relatively minor. It is 
+mostly people like the Animal Liberation Front, and the Earth 
+Liberation Front, who are more after publicity than massive 
+destruction, while Al Qaeda's objectives are to create as much 
+havoc and destruction as possible.
+    Chairwoman Kelly. Mr. DeBoer?
+    Mr. DeBoer. I think asking the Secretary of the Treasury to 
+make a distinction of whether an act has been perpetrated by a 
+foreign movement or by a domestic movement is artificial and 
+irrelevant, and I think it should be eliminated.
+    Chairwoman Kelly. And I think it should be eliminated. Mr. 
+Lewis?
+    Mr. Lewis. I think given events overseas and trends that we 
+see in the overall threat assessment, it is going to be 
+increasingly difficult to distinguish whether or not an event 
+is a certified or non-certified event. And I think the 
+distinction is no longer going to be relevant going forward.
+    Chairwoman Kelly. Thank you. Terrorists assess the 
+likelihood of completing an attack and the amount of damage 
+they will cause when selecting targets. So, consequently, pre-
+attack mitigation can help deter attacks or change the target 
+set. Where do you think Congress can do more to encourage pre-
+attack measures in the private sector? Mr. Fleming?
+    Mr. Fleming. Well, the Federal Government has been very 
+supportive of local governments in this area. Montgomery County 
+has received a number of grants, helping us to harden our 
+buildings, and to make people more aware of terrorism. I think 
+that the Federal support, as more targets, the softer targets, 
+become recognized by the people who are identifying exposures 
+to terrorism coverage, that it needs to trickle down to a much 
+bigger part of the economy.
+    Chairwoman Kelly. Mr. Ulrich?
+    Mr. Ulrich. They can help by prioritizing spending on the 
+targets at greatest risk. But it is important to note that 
+terrorism risk is like a balloon where if you squeeze the risk 
+in one place, it pops out somewhere else. So as you protect one 
+target, it just makes a neighboring target that is unprotected 
+more likely to be attacked.
+    Chairwoman Kelly. So you would think that we should 
+encourage pre-attack measures everywhere?
+    Mr. Ulrich. Not everywhere, starting with the high-priority 
+targets, the targets at greatest risk.
+    Chairwoman Kelly. Risk assessed?
+    Mr. Ulrich. Yes.
+    Chairwoman Kelly. Okay, thank you. Mr. DeBoer?
+    Mr. DeBoer. Well, mitigation is a big concern of the real 
+estate industry and, as I mentioned, we have, as an industry, 
+spent substantial sums already on security personnel, barriers, 
+other surveillance techniques. Our HVAC systems are now much 
+more secure than they were before and the industry is spending 
+a huge amount, both at the board level and on the ground making 
+things more secure.
+    Having said that, I think the most important thing, and it 
+was mentioned earlier, I think by Chairman Simmons, and that 
+has to do with information. What could mitigate the risk for a 
+lot of buildings and building owners and their tenants is a 
+proper flow of information from the Federal Government through 
+the ISAC system back down to the ground.
+    Chairwoman Kelly. Mr. Lewis?
+    Mr. Lewis. I think when assessing the threat of terrorism, 
+it is important to keep in mind the interdependent nature of 
+the terrorist threat so that for any given property, while you 
+could try to harden that property, you can't harden the 
+property next door where if a terrorist attack occurs there, it 
+is still damaging your property. So it is a challenge to try to 
+establish effective mitigation for such a wide ranging threat 
+that is dynamically evolving. I am not qualified to understand 
+where the government should align its resources to counter 
+terrorism based on the information that they have. I just think 
+it is important to keep in mind the dynamic nature of that 
+threat.
+    Chairwoman Kelly. Thank you. I am out of time. I turn now 
+to Mr. Gutierrez.
+    Mr. Gutierrez. Thank you. The first question is for Mr. 
+DeBoer. The Real Estate Roundtable's proposal to create a 
+Homeland Security mutual pool is an idea that I believe 
+deserves some consideration. I want your assurance, however, 
+that you do not anticipate any direct appropriation for this 
+program. Another concern I have is the creation of another even 
+larger GSE-type organization that creates a ``two big to bail 
+problem.'' Would you please address that issue?
+    Mr. DeBoer. Well, the appropriation issue, the way that 
+this program would be funded would be by assessments of all 
+insurance companies up-front, and then an ongoing assessment 
+for insurers who want to participate in the program, and they 
+pay a premium to get it up and running. To the extent that 
+there is an appropriation, there is probably going to have to 
+be a backstop continued during the early years while that pool 
+builds up. So in effect, as the pool builds up, the backstop 
+stands down, to coin a phrase. So there is not any direct 
+appropriation involved. Obviously, over a period of time the 
+pool would be built up, and we would anticipate that building 
+up to $30- or $35 billion would provide the kind of layer that 
+needs to exist between the taxpayer and loss coverage. Above 
+that amount, I think that most everyone would admit that it 
+gets to be a catastrophic loss, and the Federal Government is 
+probably going to have step in. But, no, we are not talking 
+about a GSE. We are not talking about too big to fail. We are 
+not talking about an appropriation.
+    Mr. Gutierrez. Thank you. Mr. Ulrich, in your testimony you 
+proposed adding intelligence information to risk modeling to 
+produce greater accuracy. This raises many red flags, for 
+instance you mentioned the need for careful management of real 
+time intelligence information to avoid what you refer to as a 
+commercial asymmetry. That may be true, but I have other 
+concerns. If real time information is made available to many 
+different entities, how can we possibly expect this information 
+not to be made public? Even if we don't allow real time 
+information to be used by the insurance industry, how do you 
+propose to protect the information in general?
+    Mr. Ulrich. That is a very good question. Our models are 
+used by insurers around the world, so if it is incorporated 
+into our model, it would essentially become public information. 
+I think it would require that classified information become 
+declassified because we couldn't protect it, since people would 
+be using it.
+    Mr. Gutierrez. Mr. Lewis, you seem to be the most 
+pessimistic of our witnesses regarding the ability to 
+accurately assess terrorism risks. Mr. Ulrich, on the other 
+hand, seems to have a little more confidence in our ability to 
+predict and assess risks. In his testimony, Mr. Ulrich proposes 
+that declassifying of certain information or even allowing the 
+industry access to classified information would allow the 
+industry to improve its model. Do you agree with this 
+proposition? If so, would such a move substantially increase 
+your confidence in the models? If you disagree, what, if 
+anything, can be done to improve the reliability of predictive 
+models?
+    Mr. Lewis. Thank you. That is a very good question. Not 
+knowing the classified information that exists, it is difficult 
+to comment on what value that information would add. I think it 
+is important though that even if that information, at a certain 
+point in time, helps us to understand the nature of the risk at 
+that point in time, as we have discussed, the nature of the 
+terrorist threat is constantly evolving and changing. So as 
+soon as we know how to protect against a certain type of 
+attack, the terrorists change their attack modes; they change 
+the delivery mechanisms to bypass that. So I am still 
+challenged to understand how having that information could 
+create materially more confidence in our ability to understand 
+and price for the threat of terrorism. Clearly, more 
+information is generally good, we have seen that on the 
+hurricanes side with respect to cooperation with NOAA. But I 
+still don't see with respect to the threat of terrorism, given 
+its dynamic nature, how much further along that actually pushes 
+us.
+    Mr. Gutierrez. Mr. Ulrich, do you have anything to add to 
+the comment just made by Mr. Lewis?
+    Mr. Ulrich. No, I would agree that until I saw what 
+information was available, classified information that could be 
+made available, I would be unable to tell you what kind of 
+changes would go to the model.
+    Mr. Gutierrez. That is fair. Mr. Fleming, in your testimony 
+you state that it is unreasonable to expect that the insurance 
+market is going to respond to the need for terrorism insurance 
+when it is having difficulty responding to the need for more 
+predictable risk, like natural disasters. This sounds like you 
+believe that the Federal Government will be the permanent re-
+insurer of terrorism risks. Is that the case? And do you 
+believe that a voluntary mutual re-insurance entity, as 
+proposed by The Real Estate Roundtable, might work in shifting 
+the primary backstop burden away from the Federal Government?
+    Mr. Fleming. RIMS believes that the private insurance 
+market is not capable of responding by itself and that there 
+needs to be some form of either a public/private partnership or 
+some form of a backstop.
+    I was in a meeting recently with some senior underwriters 
+from the largest insurance companies. They indicated that the 
+capacity in today's market is anywhere between $60- and $85 
+billion to respond to a terrorist attack or any catastrophe. 
+Obviously, looking at Hurricane Katrina, we are approaching the 
+$60 billion range and much of that damage was uninsured and 
+backed up by the Federal Government. So we are of the opinion--
+and in the event that the insurance market had to pay for a 
+catastrophe to the magnitude of $60 to $85 billion, it would 
+put some companies out of business and they would be unable to 
+pay claims for other types of coverage. So we think that a 
+public/private partnership or some form of Federal backstop is 
+required.
+    Mr. Gutierrez. I thank all of the witnesses.
+    Chairwoman Kelly. Thank you. Chairman Simmons.
+    Mr. Simmons. Again, I would like to thank Chairwoman Kelly 
+and Ranking Member Gutierrez for inviting our subcommittee to 
+participate in this very interesting and important hearing. The 
+Subcommittee on Intelligence has among its responsibilities to 
+oversee the Department of Homeland Security for a terrorism-
+related threat, vulnerability, and risk analysis, and also the 
+integration, analysis, and dissemination of Homeland Security 
+information to public and private sector entities. And that 
+would be the focus of my questions. Is the insurance industry 
+at this point in time receiving any dissemination of terrorism 
+risk related reporting from the Department of Homeland 
+Security? If not, should they? If not, should we be focusing on 
+some mechanism where this new component of our government, this 
+new agency of our government, with this new and important 
+mission should be reaching out to your industry as a private 
+sector entity to assist in the analyses that you conduct? Any 
+of the witnesses can respond.
+    Mr. Ulrich. I can't speak for the insurance industry 
+because I am not part of it but we certainly make great efforts 
+to disseminate all the information we gather through our work 
+with various terrorism experts--changes in threat, what type of 
+attack modes to expect, and the likelihood of attack. And we do 
+that through seminars for all our clients and in quarterly 
+bulletins that we send out. So we do attempt to disseminate.
+    Mr. Simmons. But what are you getting from the Department 
+of Homeland Security, if anything? And, if not, should you be 
+getting something from them?
+    Mr. Ulrich. We do not get anything from DHS.
+    Mr. Simmons. Any of the other witnesses get anything from 
+the Department of Homeland Security?
+    Mr. DeBoer. Yes, sir, in the real estate industry we have 
+an ISAC that involves the 15 major real estate trade 
+associations, as well as the facility managers group from 
+around the country and stadium operators and so forth. We have 
+an ongoing relationship with the Department of Homeland 
+Security. We get information from them on a regular basis. In 
+some ways, it is almost too much information. We receive 
+bulletins, alerts, and so forth almost daily. We then 
+disseminate that information out to the industry. We send 
+things sometimes to hundreds of thousands of people about 
+certain information that comes from the Homeland Security 
+Department.
+    If I had a criticism, I might say that some of the 
+information is almost too general, too broad to be of any use. 
+Some of our members respond--and I don't want to be too 
+pejorative here--but almost treat it as spam in the sense that 
+you get so much information, what is really relevant? So our 
+message on this front, Mr. Chairman, is more relevance, more 
+timely information, more actionable information, if you will.
+    Mr. Simmons. Then if I could follow-up on that a little 
+bit. Is this information classified, unclassified, sensitive 
+but unclassified, official use only; what is the nature?
+    Mr. DeBoer. A variety of all of the above. We do have two 
+staff people who have received clearance, and they do get 
+information that would not then be disseminated outward. But 
+most of this information is unclassified--sensitive 
+information, I guess is what you would call it.
+    Mr. Simmons. Anybody else?
+    Mr. Lewis. Just to further elaborate on that. We do get a 
+lot of information. It is all open source information that we 
+get. And for the most part, we rely on outside modeling 
+experts, including RMS, to try to translate that information 
+into something that is in fact actionable that we can actually 
+use to support the management of the terrorist risk ourselves.
+    Mr. Simmons. And in the information that you receive, is 
+there any value in incorporating any of this into your 
+modeling?
+    Mr. Ulrich. We use information from all sources. A lot of 
+the experts we work with are privy to classified information. 
+They obviously don't turn that over to us, but it certainly 
+helps them to form their opinions, and then that is 
+incorporated into our model.
+    Mr. Simmons. And you said, Mr. Ulrich, on page 5 that there 
+are two options available to you. One is declassifying the 
+information, and the other is extending security clearances to 
+those people who do your modeling. Which do you prefer?
+    Mr. Ulrich. Declassifying the information. I don't know the 
+logistical challenge between giving everybody security 
+clearance and maintaining the classified nature of the data, I 
+don't know if that would be possible.
+    Mr. Simmons. And do any of your people have security 
+clearances?
+    Mr. Ulrich. Not that I am aware of.
+    Mr. Simmons. Thank you.
+    Chairwoman Kelly. Thank you. Ms. Lofgren?
+    Ms. Lofgren. Thank you. I am reminded that there are really 
+two kinds of information, at least, that can come out of the 
+Department of Homeland Security. One is the information that is 
+gathered primarily not by DHS but accumulated, analyzed, and 
+disseminated about threats that we learned. But the other is 
+something that is more ongoing. What steps can we take to 
+mitigate those vulnerabilities? And I think all of us saw the 
+newspaper articles in the last several weeks about the popcorn 
+factory that made it onto a list and the mule run and the flea 
+markets and the like. And I remember last year we had a 
+miniature golf course that made it on the list in my district. 
+And although people teased about that, we recently had a 
+briefing on it and obviously it was classified so I will not 
+discuss that briefing at all. But I will say as a general 
+matter, that there are really two things, and I think we have 
+seriously mishandled this. One is the critical infrastructure 
+of the United States and the other is just the National Asset 
+Database, basically a dump truck that lists every supermarket, 
+lists every check cashing office or the like, and the two are 
+not the same. As I listened to you, Mr. Ulrich, it seems to me 
+that you may have actually, and this is a question not a 
+statement, gotten farther towards mapping the critical 
+infrastructure of the United States than the Department of 
+Homeland Security. Can you really let us know in a general way 
+whether you have mapped out, for example, the cyber issues and 
+the utility issues and the like that would make up the critical 
+infrastructure of the United States?
+    Mr. Ulrich. Yes, well, we have a very different target list 
+in our model. We have a very small list, in fact it is only 
+about 3,800 targets in the whole country, so I hope we don't 
+have petting zoos and miniature golf courses on ours.
+    Ms. Lofgren. Correct.
+    Mr. Ulrich. We are much more focused on targets of extreme 
+high value or dense population. So we have gone through that, 
+and we continue to go through that, and that is the type of 
+thing we look through attacks around the world to see what are 
+the trends. The Madrid bombing was a great example of--it was 
+very successful so you expect to see that kind of thing again. 
+So we prioritized train stations and subway stations. And, sure 
+enough, you saw that attack occur again in London. So that is 
+the way we use that information to prioritize.
+    Ms. Lofgren. This is proprietary but I wonder have you 
+shared this with the Department of Homeland Security? Maybe we 
+could get some help from you.
+    Mr. Ulrich. We would be happy to. We don't publish it 
+because our model is essentially a terrorism optimization 
+model.
+    Ms. Lofgren. Right.
+    Mr. Ulrich. It tells the terrorists where to go attack but 
+we would be happy to work with you on that.
+    Ms. Lofgren. Well, I may follow-up with you if I could on 
+that. I want to talk a little bit about cyber security. A 
+number of years ago when cyber was still in the White House, 
+there was a national strategy to secure cyberspace. And some 
+have criticized that it is not being ambitious enough but the 
+truth is here we are it is 2006, towards the end, we haven't 
+implemented the strategy. There is really nobody in charge at 
+the Department of Homeland Security. With a strong bipartisan 
+effort a few years ago, we pushed to get an assistant secretary 
+for cyber security so somebody would be paying attention. That 
+position has never been filled. It is over a year that it has 
+been empty. And so we really haven't done anything on cyber, 
+and I continue to believe--I represent Silicon Valley, we have 
+some very substantial vulnerabilities. And certainly industries 
+that are outside of the high-tech space have recently contacted 
+me very concerned of the vulnerabilities that exist. Is that 
+something that you have taken a look at in terms of our cyber 
+vulnerabilities and is it something that--any of you if you 
+could answer--that you might be able to move us forward on 
+through an insurance mechanism?
+    Mr. Ulrich. Well, the short answer is we haven't looked at 
+it, not from a lack of interest but it definitely does not fit 
+into the mold, the Al Qaeda desired attack is something where 
+there is massive destruction of property and human casualties.
+    Ms. Lofgren. Well, you could destroy lots of property with 
+it.
+    Mr. Ulrich. Right, it is in a very different way. And we 
+have talked to experts about it. There is a question of whether 
+the skills are there.
+    Ms. Lofgren. They are for sale.
+    Mr. Ulrich. And certainly their funding terrorist 
+activities through petty theft of credit cards and all. So 
+there is a lot of that going on but we have not pursued further 
+the potential for cyber terrorism.
+    Ms. Lofgren. I see my time has expired, Madam Chairwoman.
+    Chairwoman Kelly. Thank you. Ms. Jackson Lee.
+    Ms. Jackson Lee. Thank you very much, Madam Chairwoman, and 
+thank you very much for the invitation to this hearing. I would 
+be interested in tracking the same line of questioning. We have 
+spent every day since 9/11, and many of course have spent that 
+time before 9/11, concerned about preventative measures. There 
+was much second-guessing after 9/11 and one of the chief 
+issues, I think, of the 9/11 Commission Report was the 
+importance of intelligence. Might you share with me your 
+concepts, if you will, on modeling. What would you perceive to 
+be the limitations of predictive modeling for acts of 
+terrorism? If I could get all of you to take a stab at that 
+question. And what can be modeled and what can't be modeled so 
+that we can begin--or not begin but continue to find ways of 
+improving our securing intelligence and finding the right 
+models to work. I pose those two questions if all of you could 
+begin to answer that.
+    Mr. Fleming. The inherent problem with terrorism is its 
+unpredictability. We can't predict what weapon will be used, 
+where it will be used, or how often it will be used. As a local 
+government, we take steps to harden our buildings, to secure 
+our employees through identification badges and that type of 
+step to prevent as best we can a terrorist attack at a local 
+government. We feel that we are not particularly a target. And 
+RIMS being a consumer of insurance doesn't have the scientific 
+ability to do modeling, and we depend on Mr. Ulrich and 
+companies like his to provide modeling to insurance companies 
+to make these products available for consumers.
+    Ms. Jackson Lee. Mr. Ulrich, it comes to you and you have 
+modeling in your title, can you help us because beyond the 
+private sectors, the governmental sector, we are engaged in how 
+people can predict risk insurance but can we do that and how 
+should we effectively try to enhance that model?
+    Mr. Ulrich. Sure, well, we obviously think we can do a good 
+job of assessing the likelihood of different targets being 
+attacked, the type of weapons that will be used, and we know 
+the terrorists have limited resources in terms of how many 
+attacks they can pull off in a year. But the challenge is you 
+can't make any location terrorist-proof. So at the end of the 
+day, the money best spent is the money that catches the 
+terrorists before they ever get to the point where they have 
+built the bomb because once they have the bomb, it is tough to 
+stop.
+    Ms. Jackson Lee. Intelligence on the front end as opposed 
+to the back end.
+    Mr. Ulrich. Exactly.
+    Ms. Jackson Lee. Gentlemen, anyone want to comment further?
+    Mr. DeBoer. Well, I guess I am a little bit unqualified on 
+some of this but I would say that we are the consumers of the 
+product that is being delivered here. And we look at why this 
+thing can't be priced and it strikes us that it is very logical 
+that it can't be priced. This is a manmade threat. It is an 
+evolving threat. Its goal is to alter governmental policies in 
+the United States and the way of life here so it is constantly 
+changing. There are potential catastrophic losses at the top 
+end and that makes it difficult to model. What has been 
+mentioned is that as you harden some buildings, other buildings 
+become more open to an attack. It is certainly true, as we have 
+seen, where governmental facilities have been hardened, 
+creating greater exposure for privately owned facilities. So I 
+think it is very, very difficult to respond to your question in 
+a way that would make this modeling work when I think a lot of 
+us believe on its face it can't.
+    Ms. Jackson Lee. So can you give your cities and counties 
+any comfort in their determinations on insurance, what they 
+should do?
+    Mr. DeBoer. Well, what we can do as far as building owners 
+is take steps to inform ourselves as to what the current mode 
+of attack might be. We can take steps to mitigate against those 
+risks that we know about. And we can share information with our 
+colleagues around the country as to what we are seeing in our 
+locations that might increase exposure.
+    Ms. Jackson Lee. Thank you.
+    Mr. Lewis. If I may follow-up on that.
+    Ms. Jackson Lee. Yes, thank you.
+    Mr. Lewis. In terms of what we feel comfortable modeling 
+today, given the technology of RMS and others, would be the 
+severity of a conventional terrorism attack at a specific 
+location. We feel that we can understand, given an attack takes 
+place at a certain building, what the loss could be. We do not 
+feel comfortable that we can in any way model the frequency or 
+likelihood of an attack in general, the attack mode, or where 
+that attack could take place. Moreover, for an attack using 
+weapons involving nuclear, biological, chemical, or 
+radiological weapons, we do not feel comfortable that we can 
+fully gauge the severity of that attack or what the 
+ramifications would be for the clean-up after that attack. If 
+one goes back to the anthrax attacks a few years ago, the 
+length of time it took to identify the source, identify what 
+was involved in the clean-up, for that scale, if one can 
+imagine on a broader scale, it is very difficult for someone to 
+get their arms around, what the true magnitude of those losses 
+could be. In contrast, for hurricanes or earthquakes, we have 
+hundreds of years of actual events and thousands of years of 
+data to support the information that is coming out of the 
+modeling to give us some comfort that what we are seeing in 
+terms of modeled output actually can be corroborated with 
+history. And there is no clearer view of the difficulty than if 
+you look again at the reinsurance markets, who have every 
+incentive that if you can price this and if you can quantify 
+it, that they would actually trade on that. And there is 
+virtually no market there. That is the best indication of the 
+lack of comfort in the ability to model this risk.
+    Chairwoman Kelly. Thank you, very much.
+    Ms. Jackson Lee. Thank you, very much.
+    Chairwoman Kelly. Mr. Cleaver.
+    Mr. Cleaver. Thank you, Madam Chairwoman. All of you agreed 
+earlier about the inevitability of another terrorist attack. I 
+would like to get a similar response on your belief that we 
+will have another killer hurricane?
+    Mr. Fleming. I think that is inevitable.
+    Mr. Ulrich. Guaranteed.
+    Mr. DeBoer. I would estimate that it will probably happen.
+    Mr. Lewis. I think in responding to that, if one looks at 
+the history in the United States and goes back to prior events, 
+you can go back to the hurricane in Miami in 1926, and if you 
+adjusted for property values and exposures that exist there 
+today, it would be well in excess of the losses that we 
+incurred for Katrina. So with all the build-up in property 
+values along the coastline today and the fact that we do have a 
+lot of hurricane activity, it is inevitable that we will have 
+more hurricanes.
+    Mr. Cleaver. Then it would seem to me that what happened on 
+the Gulf Coast should provide some analysis of our ability to 
+respond to another terrorist attack. And based on what happened 
+down in the Gulf Coast and the problems that citizens are 
+having even today, including Members of Congress who lost their 
+homes, should the American public believe that in the event of 
+another terrorist attack, or if the terrorists are able to 
+create hurricanes, what should the American public expect from 
+the insurance industry with the problems that we are having 
+even at this very hour with insurance companies.
+    Mr. Lewis. Let me respond. I think with respect to 
+hurricanes, I think we feel like we understand with some degree 
+of uncertainty what the risk of the hurricane threat is, and we 
+try to make sure that we respond to our policyholders very 
+quickly to pay those claims. I think what you are hearing today 
+is that there is a real challenge when it comes to the threat 
+of terrorism because we do not feel that we can fully 
+understand what that risk is and what would be involved in 
+responding. And we think to come up with a solution that 
+provides the best response for everybody, for policyholders, 
+for taxpayers, requires a partnership between the private 
+industry and the Federal Government to provide that mechanism 
+so that after an event, if it ever happens, there is that 
+immediate response.
+    Mr. Cleaver. But you are saying we do know what the risks 
+are with the hurricanes. In spite of the fact that we have that 
+knowledge, we still have not been able to respond adequately to 
+thousands of people in that region. And if you are saying we 
+don't understand the full risk of terrorism, which led me to 
+assume that you were saying we do understand it with 
+hurricanes, then can we expect that the response would be 
+significantly better with a terrorist activity than what has 
+happened in the Gulf region?
+    Mr. Lewis. I think if you look at the Gulf, the insurance 
+industry has tried to respond very quickly to our policyholders 
+in that area. I think in terms of the broader threat of natural 
+disasters, there are things that can be done, enforcement of 
+building codes, making sure there is rate adequacy on those 
+underlying policies, education uncovered for individuals. There 
+are a number of things that can improve that, but I think it is 
+a unique challenge when it comes to the threat of terrorism.
+    Mr. Lewis. Mr. DeBoer?
+    Mr. DeBoer. As far as the insurance responding to 
+terrorism, 9/11 obviously was a tragedy from every perspective 
+but one thing that was clear was that the insurance industry 
+stepped up to the plate and paid those losses that came due. 
+The reason they did that was because everybody who carried 
+property and casualty insurance at that time implicitly had 
+terrorism insurance. So they had insurance. When you ask what 
+would be the result of a terrorist attack, I think the question 
+is would there be terrorism insurance available to be 
+purchased? What we are suggesting is that if this Federal 
+program goes away and another program is not put in its place, 
+the insurance industry is not going to be capable and will not 
+have the capacity to offer that product. Therefore, if another 
+9/11 attack occurs and people do not have insurance, there 
+won't be anyone to pay those losses other than the Federal 
+Government, to the extent that the Federal Government pays 
+them. And that is the big difference.
+    Now, I don't know down in the Gulf, I think a lot of--there 
+may be a lot of uninsured activity down there and maybe that 
+is--
+    Mr. Cleaver. Well, no, actually--
+    Chairwoman Kelly. Mr. Cleaver, will you sum up, please?
+    Mr. Cleaver. Thank you very kindly. I yield back the 
+balance of my time.
+    Chairwoman Kelly. There isn't any left. Thank you. Mr. 
+Crowley?
+    Mr. Crowley. I thank the chairwoman and the chairman for 
+holding this committee, as I mentioned earlier. And I want to 
+thank our witnesses as well because I think you have brought to 
+light many of the concerns of many of the members here in the 
+committee, both in the Department of Homeland Security 
+community and maybe more particularly the Committee on 
+Financial Services. And I have been disturbed over the year 
+about some of the comments coming from this Administration in 
+regards to terrorism backstop insurance. And what causes me the 
+greatest concern is that I believe we are still at incredible 
+risk of attack. And I also believe that what gives our economy 
+its greatest strength is that it is viewed worldwide and here 
+at home, that it has the full faith and backing of the U.S. 
+Government. Who doesn't believe that if we were attacked in 
+some catastrophic way, the Federal Government wouldn't step in 
+in some way, any way, it is in the interest of the Federal 
+Government to create, I believe, this backstop provision. If 
+there is a cataclysmic event, who else but the Federal 
+Government can actually step in and provide the real insurance 
+that is needed to give this economy the stability that it 
+needs. Mr. DeBoer, if you could, I want to ask you very 
+specifically about the folks, the clients that you represent. 
+From their perspective, one of your members, just take us 
+briefly through the process of how they would determine whether 
+or not they would go forward with a project. What role does the 
+availability of insurance play in that decision? Does it come 
+into play at the beginning, the middle, or the end? Are there 
+ways to get around a lack of capacity that can allow 
+development to go forward or is it more likely that we would 
+see a halt to development in the absence of terrorism risk 
+insurance?
+    Mr. DeBoer. I appreciate the question. It really does go to 
+the heart of this. Our view is that if there is not a program, 
+there will not be the capacity for the product. If there is not 
+a product, you can't finance, you can't develop, and you can't 
+transfer large-scale real estate. Now the heart of your 
+question depends on whether you are talking about developing a 
+new project or buying or selling an existing product. If you 
+are developing something, and it is a multi-year project, you 
+need financing that will get you from day one through multiple 
+years and multiple phases of that development. You need to have 
+not only financing in place but to get the financing, you need 
+to have insurance in place. So the individual developer would 
+begin by going through his financier to try and get the 
+financing. He would go to his insurance broker and try to 
+obtain enough insurance to make it through that multi-phase 
+development. He might have to: piece together that insurance 
+from multiple insurance carriers; use some from his existing 
+carrier; go to the standalone market to fill a piece; or go 
+overseas to fill a piece. And so it is all stitched together. 
+If it is a developer who has multiple properties, he might be 
+spreading that risk and spreading that insurance among his 
+entire portfolio and there might be insurers willing to provide 
+insurance because they know that not all properties are going 
+to be subject to a loss at any one time.
+    But this is an issue that comes up at the start of the 
+project. It is at the start of the project whether you are 
+developing, refinancing, financing, selling, or buying a 
+property. It is a critical part of doing business today. The 
+other thing I would say is this is not just a large city issue. 
+Any property--right now the CMBS market, the commercial backed 
+securities market, is the second largest source of financing 
+for commercial real estate. Loans from all types of property 
+across the country are put into those security pools. They have 
+to be rated and the providers have to look and determine 
+whether there is terrorism insurance on all of those loans or 
+the bond issuance will not receive an attractive rating. So 
+this is a broad-scale issue.
+    Mr. Crowley. I am going to ask another question, I don't 
+want you to answer it right away because I want to get another 
+question in first. But are your members able to get coverage 
+for nuclear, chemical, biological, or radiological risk? And 
+from a developer's perspective, what impact does that lack of 
+coverage, if you are not able to get it, what risk does that 
+entail for your clientele? Before you answer that though, I 
+don't pretend to know your knowledge of a particular site, but 
+what you do know of the World Trade Center site in New York 
+with 5 years out, we have yet to develop that property. Does 
+that site have particular problems, as you see it, going down 
+the road in terms of its redevelopment, the fact that it was 
+the site of a terrorist attack and the fact that it has not 
+moved forward in the way in which we would like to have seen it 
+in New York. Are there any particular problems that you foresee 
+going down the road? In other words, further requiring for this 
+particular site an extension in some way of determining risk 
+insurance down the road?
+    Mr. DeBoer. I would prefer to let the Silverstein 
+properties people respond directly to it except to say again 
+that this is a multi-year project. It needs insurance over a 
+long period of time to do this construction. It is also the 
+site that has been the subject of two terrorism attacks so 
+therefore its risk profile is high.
+    Mr. Crowley. I am sure they would appreciate the last part 
+of your question.
+    Chairwoman Kelly. Thank you, Mr. Crowley.
+    Mr. Crowley. Could he answer the middle question?
+    Chairwoman Kelly. We will let them finish.
+    Mr. DeBoer. Mr. Crowley, the answer to your first question 
+is no. On a generally available basis, you cannot get insurance 
+for nuclear, biological, chemical, or radiological attacks. The 
+way that people do it is through captives, their own captives, 
+and that is, to our knowledge, the only broad-scale 
+availability of NBCR coverage in America today. If the backstop 
+goes away, these captives will go away and America won't have 
+this kind of coverage.
+    Mr. Crowley. Thank you. Thank you, Madam Chairwoman.
+    Chairwoman Kelly. Thank you for being here. Mr. Dent, do 
+you have any questions for this panel?
+    Mr. Dent. No, I don't. Thank you.
+    Chairwoman Kelly. Thank you very much. We thank this panel. 
+The Chair notes that some members may have additional questions 
+for this panel, and they may wish to submit those questions in 
+writing. So without objection, the hearing record will remain 
+open for 30 days for members to submit written questions to 
+these witnesses and to place their responses in the record.
+    I want to assure this panel and other people here that this 
+is an issue that we have been working on--I personally have 
+been working on this issue ever since 9/11, and I want you to 
+know that I will keep working on this issue and we will revisit 
+this question until we get this right for all of America. So 
+thank you very much. This hearing is now adjourned.
+    [Whereupon, at 11:30 a.m., the subcommittees were 
+adjourned.]
+                            A P P E N D I X
+
+
+
+                             July 25, 2006
+
+<GRAPHICS NOT AVAILABLE IN TIFF FORMAT>
+
+
+
+</pre></body></html>

@@ -1,0 +1,2951 @@
+<html>
+<title> - COMPETITION AND THE FUTURE OF DIGITAL MUSIC</title>
+<body><pre>
+[House Hearing, 110 Congress]
+[From the U.S. Government Printing Office]
+
+
+ 
+                     COMPETITION AND THE FUTURE OF 
+                             DIGITAL MUSIC
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                          ANTITRUST TASK FORCE
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+                        HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED TENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           FEBRUARY 28, 2007
+
+                               __________
+
+                            Serial No. 110-3
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+
+      Available via the World Wide Web: http://judiciary.house.gov
+
+
+                                 ______
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+33-627                      WASHINGTON : 2007
+_____________________________________________________________________________
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001
+
+                       COMMITTEE ON THE JUDICIARY
+
+                 JOHN CONYERS, Jr., Michigan, Chairman
+HOWARD L. BERMAN, California         LAMAR SMITH, Texas
+RICK BOUCHER, Virginia               F. JAMES SENSENBRENNER, Jr., 
+JERROLD NADLER, New York                 Wisconsin
+ROBERT C. SCOTT, Virginia            HOWARD COBLE, North Carolina
+MELVIN L. WATT, North Carolina       ELTON GALLEGLY, California
+ZOE LOFGREN, California              BOB GOODLATTE, Virginia
+SHEILA JACKSON LEE, Texas            STEVE CHABOT, Ohio
+MAXINE WATERS, California            DANIEL E. LUNGREN, California
+MARTIN T. MEEHAN, Massachusetts      CHRIS CANNON, Utah
+WILLIAM D. DELAHUNT, Massachusetts   RIC KELLER, Florida
+ROBERT WEXLER, Florida               DARRELL ISSA, California
+LINDA T. SANCHEZ, California         MIKE PENCE, Indiana
+STEVE COHEN, Tennessee               J. RANDY FORBES, Virginia
+HANK JOHNSON, Georgia                STEVE KING, Iowa
+LUIS V. GUTIERREZ, Illinois          TOM FEENEY, Florida
+BRAD SHERMAN, California             TRENT FRANKS, Arizona
+ANTHONY D. WEINER, New York          LOUIE GOHMERT, Texas
+ADAM B. SCHIFF, California           JIM JORDAN, Ohio
+ARTUR DAVIS, Alabama
+DEBBIE WASSERMAN SCHULTZ, Florida
+KEITH ELLISON, Minnesota
+[Vacant]
+
+              Perry Apelbaum, Staff Director-Chief Counsel
+     Sean McLaughlin, Deputy Chief Minority Counsel/Staff Director
+                                 ------                                
+
+                          Antitrust Task Force
+
+                 JOHN CONYERS, Jr., Michigan, Chairman
+
+HOWARD L. BERMAN, California         STEVE CHABOT, Ohio
+RICK BOUCHER, Virginia               RIC KELLER, Florida
+ZOE LOFGREN, California              F. JAMES SENSENBRENNER, Jr., 
+SHEILA JACKSON LEE, Texas            Wisconsin
+MAXINE WATERS, California            BOB GOODLATTE, Virginia
+STEVE COHEN, Tennessee               CHRIS CANNON, Utah
+ANTHONY D. WEINER, New York          DARRELL ISSA, California
+ARTUR DAVIS, Alabama                 J. RANDY FORBES, Virginia
+DEBBIE WASSERMAN SCHULTZ, Florida    STEVE KING, Iowa
+                                     LAMAR SMITH, Texas, Ex Officio
+
+
+              Perry Apelbaum, Staff Director-Chief Counsel
+
+     Sean McLaughlin, Deputy Chief Minority Counsel/Staff Director
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                           FEBRUARY 28, 2007
+
+                           OPENING STATEMENT
+
+                                                                   Page
+The Honorable John Conyers, Jr., a Representative in Congress 
+  from the State of Michigan, Chairman, Committee on the 
+  Judiciary, and Chairman, Antitrust Task Force..................     1
+The Honorable Lamar Smith, a Representative in Congress from the 
+  State of Texas, and Member, Antitrust Task Force...............     2
+
+                               WITNESSES
+
+Mr. David K. Rehr, President and CEO, National Association of 
+  Broadcasters
+  Oral Testimony.................................................    21
+  Prepared Statement.............................................    23
+Ms. Gigi Sohn, President and Founder, Public Knowledge
+  Oral Testimony.................................................    42
+  Prepared Statement.............................................    44
+Mr. Mark Cooper, Director of Research, Consumer Federation of 
+  America
+  Oral Testimony.................................................    56
+  Prepared Statement.............................................    58
+Mr. Charles E. Biggio, Wison, Sonsini, Goodrich and Rosati
+  Oral Testimony.................................................    69
+  Prepared Statement.............................................    72
+Mr. Mel Karmazin, CEO, Sirius Satellite Radio
+  Oral Testimony.................................................    83
+  Prepared Statement.............................................    85
+
+          LETTERS, STATEMENTS, ETC., SUBMITTED FOR THE HEARING
+
+Prepared Statement of the Honorable Sheila Jackson Lee, a 
+  Representative in Congress from the State of Texas, and Member, 
+  Antitrust Task Force...........................................     4
+
+                                APPENDIX
+               Material Submitted for the Hearing Record
+
+Response to post-hearing questions submitted by the Honorable 
+  John Conyers, Jr. to Mel Karmazin, CEO, Sirius Satellite Radio.   121
+
+
+                     COMPETITION AND THE FUTURE OF 
+                             DIGITAL MUSIC
+
+                              ----------                              
+
+
+                      WEDNESDAY, FEBRUARY 28, 2007
+
+                  House of Representatives,
+                                Committee on the Judiciary,
+                                                    Washington, DC.
+    The Task Force met, pursuant to notice, at 3:05 p.m., in 
+Room 2141, Rayburn House Office Building, the Honorable John 
+Conyers, Jr. (Chairman of the Task Force) presiding.
+    Mr. Conyers. Good afternoon.
+    The first hearing of the Antitrust Task Force for the 110th 
+Congress will come to order.
+    I welcome all of our Members, especially our Ranking 
+Member, Steve Chabot of Ohio, who will be joining us 
+momentarily.
+    The very first hearing of our Antitrust Task Force involves 
+a discussion of the issue of competition in digital media as 
+exemplified by the proposed merger of Sirius and XM Radio.
+    We come to this hearing with an open mind. But we recognize 
+that the companies have the obligation to convince the 
+Congress, the regulators and, most importantly, the American 
+people, that this combination will improve the competitive 
+playing field and benefit consumers.
+    And so, here are the concerns I would like to lay on the 
+table.
+    The critical issue in this hearing to me is whether the 
+relevant market is all forms of digital music and retail music 
+and radio, or simply satellite radio. Proponents of the merger 
+would note that the retail music industry exceeds $12 million 
+in annual revenue, includes more than 230 million people who 
+listen to ordinary radio, and 50 million people who listen to 
+Internet radio, more than 100 million iPods are going around 
+the country, but yet there are 14 million satellite radio 
+subscribers.
+    If we are to define the market as broadly as merger 
+supporters advocate, what sort of precedent are we setting for 
+other businesses?
+    Now, several commentators have suggested that the reason 
+this deal is being pushed is that the present Administration's 
+appointees will be able to give their approval before the next 
+election.
+    Excuse me for being so candid about this consideration. And 
+from at least one perspective, this merger can be said to turn 
+a duopoly into a monopoly circumstance.
+    And, finally, my concern is about the potential for non-
+interoperability of competing technologies. How are we going to 
+ever get the consumers who have already purchased equipment for 
+either XM or Sirius to be able to use the equipment in a post-
+merger world? These consumers could be left high and dry and 
+there could be complications that we hope to examine about how 
+this could be made technologically smooth.
+    I look forward to a full and frank discussion with our 
+distinguished witnesses and urge that we all be as concerned as 
+we can for the public interest issue that overlies this 
+hearing.
+    Our witnesses are David Rehr, the president and CEO of the 
+National Association of Broadcasters. Our next witness, Ms. 
+Gigi Sohn, president and founder of Public Knowledge, a 
+nonprofit public interest organization that focuses on issues 
+involving intellectual property as it applies to the 
+communications sector. Our third witness is Mark Cooper, 
+director of research at the Consumer Federation of America, who 
+has testified on numerous occasions about communications and 
+media matters. Our fourth witness is Mr. Charles Biggio, 
+partner of a very prominent firm and who has himself served as 
+Deputy Assistant Attorney General in the Antitrust Division in 
+earlier Administration. And finally, Mr. Mel Karmazin, CEO of 
+Sirius Satellite Radio, previously president of Viacom.
+    And since our Ranking minority Member has been unavoidably 
+detained, I now recognize the full Committee Ranking Member, 
+Mr. Lamar Smith of Texas.
+    Mr. Smith. Thank you, Mr. Chairman.
+    Let me just augment what you have said. The Ranking Member 
+of the Task Force, the gentleman from Ohio, Mr. Chabot, has 
+been detained at the House Administration Committee where he is 
+testifying on behalf of the Small Business Committee, that he 
+is also Ranking Member of. So that is the reason for his 
+absence.
+    And in his absence, I too want to thank you for convening 
+this first hearing of the Antitrust Task Force.
+    Vigorous, unimpeded competition sustains our economy and 
+keeps it strong. It leads to innovative products that better 
+our lives and keep prices low. The Judiciary Committee has a 
+long history of oversight to ensure that American markets 
+retain healthy competition.
+    This hearing gives us the opportunity to examine one of the 
+newest technologies emerging in our economy. In the last 
+decade, the options for receiving music, sports, news and other 
+programming have increased dramatically. Consumers also have 
+the choice of two satellite radio companies, XM and Sirius. 
+These companies provide hundreds of channels of unique 
+programming options to millions of customers nationwide.
+    Listeners have access to numerous choices in music, news, 
+sports and talk programming that would have been unimaginable 
+even 10 years ago. Often these programming options come without 
+commercial interruption and without the content restrictions 
+that exist on terrestrial radio.
+    Now those two companies have announced that they want to 
+merge. They argue that a combined company would allow them to 
+compete more effectively against broadcast radio, the Internet 
+and a number of emerging technologies. They argue that 
+efficiencies in the merger will allow them to provide even more 
+choice to consumers at a competitive choice.
+    Critics of the merger contend that this will reduce the 
+number of satellite radio offerings from two to one and that 
+approval of the merger would amount to a Government-sanctioned 
+monopoly. They further argue that this merger would allow the 
+combined XM-Sirius to raise subscription prices to consumers 
+without providing any new or innovative services for those 
+higher prices.
+    Mr. Chairman, it is important we not prejudge the proposed 
+merger. We are at the beginning of a very long process. Both 
+the Federal Communications Commission and the Department of 
+Justice will review this proposal. I trust that both the FCC 
+and the DOJ will do a thorough job of reviewing the evidence 
+and will also take into consideration the oversight findings of 
+this Task Force.
+    With that in mind, Mr. Chairman, I too look forward to 
+listening to our witnesses and I yield back the balance of my 
+time.
+    Mr. Conyers. Thank you very much, Mr. Smith, for stepping 
+in in such a timely fashion.
+    We will accept all other opening statements to be inserted 
+in the record, without objection.
+    [The prepared statement of Ms. Jackson Lee follows:]
+       Prepared Statement of the Honorable Sheila Jackson Lee, a 
+    Representative in Congress from the State of Texas, and Member, 
+                          Antitrust Task Force
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+    Mr. Conyers.T1 Mr. David Rehr, president of NAB, you are on 
+for 5 minutes.
+
+          TESTIMONY OF DAVID REHR, PRESIDENT AND CEO, 
+              NATIONAL ASSOCIATION OF BROADCASTERS
+
+    Mr. Rehr. Thank you, Mr. Chairman. Good afternoon, 
+everyone, and thank you for the opportunity for me to be here 
+today.
+    I want to commend you, Mr. Chairman, Ranking Member Chabot 
+and Ranking Member Smith on the Judiciary Committee and the 
+Members of the Antitrust Task Force for exploring the issues 
+surrounding what is in effect a Government-sanctioned monopoly.
+    In my time today, I would like to make five points.
+    Number one, the national satellite radio market is 
+currently a two-company duopoly trying to become a Government-
+sanctioned monopoly.
+    Number two, such a monopoly would violate FCC rules and 
+precedent, congressional policy and antitrust principles.
+    Number three, this Government-sanctioned monopoly would 
+undermine audio content competition, not enhance it.
+    Number four, even worse, two entities that have a pattern 
+and practice of violating the terms of their FCC licenses 
+cannot be trusted with monopoly power.
+    Five, finally, by their own admission, both XM and Sirius 
+are not failing companies and should not receive a Government 
+bailout.
+    First, the national satellite radio market is currently a 
+two-company duopoly trying to become a Government-sanctioned 
+monopoly. There are two companies in the market for nationwide 
+multi-channel mobile audio programming services. They are 
+asking to become one company.
+    They want the power to set subscription rates without 
+constraint from a competing service. They want the power to 
+eliminate the need to compete with each other to acquire 
+programming and talent. They want the power to demand exclusive 
+deals and the ability to cross-subsidize to unfairly compete 
+against local radio broadcasters. And the fact is, this 
+monopoly would reduce innovation for services and equipment for 
+consumers since there will be no competition in the defined 
+market.
+    Two, such a monopoly would violate FCC rules and precedent, 
+congressional policy and antitrust principles. The FCC 
+specifically refused to sanction a monopoly when it establish a 
+national radio service in 1997, saying licensing at least two 
+providers will help assure that subscription rates are 
+competitive as well as provide for diversity of programming 
+voices.
+    Ironically, the argument for greater competition came from 
+Sirius, then called CD Radio. They argued that multiple 
+providers were necessary to ``assure intra-service 
+competition.'' They said more players would have ``compelling 
+market-based incentives to differentiate themselves from 
+competitors.''
+    Perhaps most telling, Sirius explicitly stated that no 
+satellite provider should never be permitted to combine with 
+another provider because ``such a development would have 
+serious anticompetitive repercussions.''
+    In fact, in 1997, at the urgings of the parties, the FCC 
+explicitly prohibited any such future merger, stating one 
+licensee would not be permitted to acquire control of the 
+other. The only parallel circumstance to this instance is when 
+the FCC refused in 2002 to permit a merger of the only two 
+nationwide satellite television companies, EchoStar and 
+DirecTV. The commission rejected this merger by a unanimous 
+vote.
+    The commission found that the antitrust laws are hostile to 
+proposed mergers that would have these impacts on competitive 
+structures because such mergers are likely to increase the 
+incentive and ability to engage in anticompetitive conduct.
+    Moving from a duopoly to a monopoly, as is the case here, 
+would also be inconsistent with congressional policy favoring 
+competition over monopoly as expressed in the 1996 
+Telecommunications Act and with long-standing enforcement of 
+Federal antitrust laws.
+    Three, this Government-sanctioned monopoly would undermine 
+audio content competition, not enhance it. A satellite radio 
+monopolist could undermine competition by using its national 
+market power to force content providers, like sports 
+programmers, to deal only with them. It could also use cross-
+subsidies to engage in anticompetitive behavior against local 
+radio broadcasters.
+    Four, two entities that have a pattern and practice of 
+violating their FCC licenses cannot be trusted with monopoly 
+power. Both companies certified 10 years ago that they would 
+comply with an FCC rule to develop a device that works with 
+both services. Still today, 10 years later, no consumer device 
+is available.
+    Both companies routinely violated FCC Part 15 rules, which 
+govern the production and distribution of receiver equipment. 
+Both companies routinely and regularly violate FCC technical 
+rules. XM operated more than 142 repeaters at unauthorized 
+locations.
+    Mr. Conyers. Mr. Rehr, you are the first witness to go over 
+time.
+    Mr. Rehr. I am sorry.
+    Let me conclude by saying, point five: Some have suggested 
+the merger is necessary for the survival of these companies, 
+but by their own admission, this is not true.
+    Thank you, Mr. Chairman. And thank you.
+    [The prepared statement of Mr. Rehr follows:]
+
+                  Prepared Statement of David K. Rehr
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+    Mr. Conyers. Thank you very much.
+    We welcome now Ms. Sohn.
+
+TESTIMONY OF GIGI SOHN, PRESIDENT AND FOUNDER, PUBLIC KNOWLEDGE
+
+    Ms. Sohn. Thank you, Chairman Conyers, Ranking Member 
+Chabot, Ranking Member Smith and other Members of the Task 
+Force for inviting me to discuss the merger of XM and Sirius 
+Satellite Radio.
+    The proposed merger presents a dilemma for public interest 
+advocates. On one hand, the only two providers of satellite 
+radio service, which have vigorously competed for the past 5 
+years, are seeking to consolidate, raising questions about the 
+impact on prices and choice for consumers. On the other hand, 
+this vigorous competition has led to a spending war for new and 
+better programming, leaving both competitors weakened in a 
+world where Internet radio, broadcast and HD radio, cable radio 
+and other multi-channel music, entertainment and information 
+services have become increasingly popular.
+    Regardless of the financial woes of the companies and any 
+change in the market structure, the salient question is this: 
+will consumers be better off.
+    I believe that if the merger passes antitrust scrutiny, 
+consumers will be better off if the merger is approved subject 
+to conditions that protect consumer choice, promote diverse 
+programming and keep prices in check.
+    The antitrust questions raised here are very complex and 
+ultimately depend on information to which public knowledge does 
+not have access. For instance, the foremost question is how 
+narrowly or broadly defined the relevant market? While I 
+believe the market should be defined more widely to include a 
+wide variety of radio, wireless, mobile and multi-channel music 
+services, it is unclear whether consumers would turn to those 
+services if satellite radio prices were raised.
+    Anecdotal evidence suggests that there is nothing shortage 
+of substitutes. On the other hand, we cannot ignore the fact 
+that there are real differences between satellite radio and its 
+competitors. Consumer data and other evidence would be helpful 
+in determining whether these competitors are indeed substitutes 
+and would constrain prices.
+    Should the merger survive antitrust scrutiny however, I 
+believe that the public interest would be served by permitting 
+the merger subject to conditions that promote diversity, 
+preserve consumer choice, and keep prices in check. I have 
+reached this conclusion for several reasons.
+    First, consistent losses and flattening subscribership at 
+both companies make it less likely that they will take a chance 
+in alternative programming and programming that meets the needs 
+of underserved communities. A combined subscriber base would 
+allow the new company to distribute the high fixed cost of a 
+satellite system across a larger consumer base, reducing the 
+cost for the subscriber and enabling new programming and/or 
+lower prices.
+    Second, consumers would gain access to channels that they 
+could not receive unless they subscribed to both services.
+    Third, eliminating duplicative channels will create more 
+capacity for new and diverse programming.
+    Still, the magnitude of this merger warrants strong 
+protections. Thus, it should only be approved subject to three 
+conditions.
+    First, the new company should make available to its 
+consumers a la cart and tier programming choices.
+    Second, the new company should ensure program diversity by 
+making available 5 percent of its capacity for noncommercial, 
+educational, informational programming. This would resemble 
+section 335 of the Communications Act, which requires DBS 
+providers to reserve 4 percent to 7 percent of their channel 
+capacities for such uses.
+    Third, the new company should be prohibited from raising 
+prices for 3 years after the merger is approved.
+    I would like to conclude by raising two other concerns.
+    First, public knowledge strongly opposes any merger 
+condition involving limitations on the ability of the consumers 
+to record these satellite radio services. Such a condition 
+would be tantamount to repealing the Audio Home Recording Act 
+which specifically protects a consumer's ability to record 
+digital music.
+    Second, we also strongly oppose any merger condition that 
+would limit satellite radio from providing local programming. 
+Broadcasters' opposition to this merger is incredibly 
+hypocritical given their own current regulator efforts to 
+consolidate and their desire to prevent satellite services 
+providing local content is anticompetitive in its own right.
+    Even assuming that broadcasters take seriously their 
+statutory duty to serve local communities with programming that 
+serves their needs, there is no reason why in 2007 any media 
+service should have a Government-granted monopoly over local 
+programming.
+    Instead, Congress and the FCC should consider permitting 
+satellite radio to provide more, not less, local programming.
+    To finish, I just want to add that it is curious that for 
+an industry that claims that it wants a ``level playing 
+field,'' it seeks not only to restrict satellite radio and its 
+programming but also refers to efforts to require them to pay 
+performance royalties to artists as a tax. And this may be the 
+only time that I agree with the recording industry, and thanks 
+to the broadcasters we do, but I think that is an outrage and 
+Congress should look at it.
+    I want to thank the Task Force again for inviting me to 
+testify. I look forward to your questions.
+    [The prepared statement of Ms. Sohn follows:]
+
+                   Prepared Statement of Gigi B. Sohn
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+    Mr. Conyers. Thank you so much.
+    Mr. Cooper, welcome.
+
+   TESTIMONY OF MARK COOPER, DIRECTOR OF RESEARCH, CONSUMER 
+                     FEDERATION OF AMERICA
+
+    Mr. Cooper. Thank you, Mr. Chairman, Members of the Task 
+Force. I appreciate the opportunity to testify on the proposed 
+merger between XM and Sirius.
+    Ms. Sohn wants to regulate the resulting monopoly. We 
+haven't yet given up on competition. The merger of the only two 
+satellite subscription radio companies should raise a red flag 
+for both antitrust officials and communication regulators whose 
+job it is to promote competition and consumer choice in the 
+marketplace.
+    Not only are XM and Sirius prohibited from merging as 
+condition of their licenses, the growth of satellite 
+subscription at very substantial monthly charges and consumer 
+equipment costs over the past few years demonstrate that this 
+is a service which in fact can be distinguished quite clearly 
+from other things that are out there.
+    We believe companies who seek to merge so soon after they 
+came into existence after they promised not to merge, after 
+they demonstrated that subscription can gain a significant 
+audience, carry an enormous burden to show that regulators 
+should abandon the normal rules of antitrust oversight to allow 
+such a merger as this, a merger to monopoly.
+    We remain unconvinced by the excuses we have heard to 
+justify this merger. The product in geographic characteristics 
+of satellite radio are easily identifiable. Satellite is 
+national, mobile, and programmed. Those are the essential 
+characteristics. You have added two more today, Mr. Chairman, 
+or Ranking Minority Member. There are generally advertising-
+free and content-unrestricted.
+    They have put products in the world that are require 
+consumer purchases of large bundles of over 100 channels. The 
+alternatives that the companies suggest or substitute do not 
+possess these characteristics. This is a unique set of 
+characteristics and further entry into this market is limited 
+by the need to have a license to broadcast over a spectrum that 
+can get the job done. There are only two such licenses.
+    Consumer switching costs are substantial. This is a classic 
+case of a distinct product with competitive problems. Two is 
+not really enough for good competition. Remember, there is an 
+expression in economics: Four is few, and six is many. We are 
+talking about two and three in most cases these days.
+    The track record of inter-modal competition disciplining 
+competitive use is poor at best. Bank shot competition, where 
+people compete indirectly with badly matched products, has not 
+disciplined pricing abuse. I submit that cable TV is a perfect 
+example where satellite and over-the-air have failed to protect 
+the consumer from abuse. Head-to-head competition is what gets 
+the job done. Inter-modal competition is a very, very poor 
+second best.
+    The suggestion that free over-the-air radio will discipline 
+price increases is ludicrous. They raised prices a few years 
+ago by 30 percent. Free over-the-air didn't do it when they 
+were competing head-to-head. What makes you think it is going 
+to discipline prices when they aren't even competing head-to-
+head with well-matched products?
+    Perhaps the most outlandish of all the claims being 
+circulated by the merging parties is the argument that 
+consumers will be better off with a benevolent monopolist than 
+vigorous competitors. We reject that ultra-short-term view. In 
+that view, competition is defined as wasteful since redundant 
+facilities lie unutilized. Monopolists' claims to serve 
+everyone while using fewer resources and promising not to abuse 
+the resulting market power.
+    Without the stick of competition, however, the costs 
+savings simply will not be passed through to consumers and 
+innovation will slow rather than speed up. It is competition 
+that is the driver of innovation in our economy; competition is 
+the best form of consumer protection. And head-to-head 
+competition is the best form of competition.
+    Offers of conditions on this merger really, we don't give 
+much credence to. The recent track record of conditions on 
+mergers has been abysmal and the satellite radio industry has 
+already demonstrated that the promises and commitments it makes 
+to interoperability, to noninterference, to nonuse of 
+terrestrial repeaters, all shows that they will be difficult to 
+oversee if we adopt that approach.
+    So we are not talking conditions anymore. We want to give 
+competition a chance. If the authorities change their mind, we 
+will have plenty time to figure out what conditions should be 
+imposed.
+    Finally, a satellite radio merger to monopoly is to really 
+about an avalanche of mergers. If the antitrust authorities in 
+Federal communication oversight adopts such a loose definition 
+of products and markets to allow a merger to monopoly on the 
+basis of inter-modal competition, then a tsunami of mergers 
+will ripple through the digital products space at the worst 
+possible moment. From our point of view, there is a humongous 
+hurdle that the merging parties have to overcome and they 
+haven't even begun to put facts on the table that would lead us 
+to believe there is any way to make this a socially responsible 
+merger.
+    Thank you.
+    [The prepared statement of Mr. Cooper follows:]
+
+                  Prepared Statement of Mark N. Cooper
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+    Mr. Conyers. Thank you, Mr. Cooper.
+    Mr. Biggio, we welcome you for your testimony at this 
+point.
+
+         TESTIMONY OF CHARLES BIGGIO, WISON, SONSINI, 
+                      GOODRICH AND ROSATI
+
+    Mr. Biggio. Thank you. I would like to thank the Chairman, 
+Ranking Member Chabot, Ranking Member Smith, for the 
+opportunity to testify on the antitrust aspects of the merger 
+between XM and Sirius.
+    This merger obviously raises important policy and law 
+enforcement considerations, but whether the combination of XM 
+and Sirius is a two-to-one merger to monopoly or a merger in a 
+much larger market is a question of fact, and right now we 
+don't have the facts necessary to determine the legality of the 
+merger.
+    The facts will come out. However, merger review is 
+essentially a law enforcement exercise and the enforcement 
+agencies, the Antitrust Division in particular, along with the 
+Federal Communications Commission, are best equipped to find 
+the relevant facts and my recommendation is that no firm 
+conclusions be formed about this merger until the agencies have 
+completed their review.
+    It is important to note that a merger need not create a 
+monopoly in order to violate section 7 of the Clayton Act. At 
+the same time, a merger that results in very high market shares 
+and high market concentration does not automatically violate 
+section 7.
+    Mergers in concentrated industries can be lawful if the 
+market conditions are such that the merger would in fact have 
+no anticompetitive effect. So the XM-Sirius merger may violate 
+section 7 even if it turns out not to be a two-to-one merger to 
+monopoly. And at the same time, it may pose no competitive 
+threat, even if the market ultimately is defined as highly 
+concentrated.
+    The evaluation of this merger will start with an evaluation 
+of the nature of competition between XM and Sirius. They have 
+been vigorous competitors and it is fair to ask the question of 
+whether eliminating the competition will lead to higher prices 
+or lower quality. In answering this question, the Antitrust 
+Division and the Federal Communications Commission will look at 
+how competition between the two services has affected price and 
+quality and then ask whether the other alternatives advanced by 
+the parties are likely to produce the same competitive 
+outcomes.
+    The key question is whether the competition between XM and 
+Sirius is the factor determining the subscription price for the 
+two services and the quality of the product being offered, or 
+whether some or all the other alternatives will provide a 
+comparable competitive check.
+    Now, ordinarily markets are defined narrowly to include 
+only those products that have a meaningful impact on price. 
+Mergers between close competitors or next-best substitutes are 
+usually problematic because other products may not be 
+sufficiently viable substitutes to impose a significant price 
+constraint. Once the close substitutes merge, there may be 
+substantial room for price increases before the pricing 
+constraint offered by a more remote substitute kicks in.
+    The key aspect of merger analysis is identifying the best 
+consumer to test the significance of possible competitive 
+substitutes. Markets are defined by the marginal consumer. 
+Thus, even if many consumers would not substitute away from 
+satellite radio to some other product in the face of a price 
+increase, the market could still be defined broadly to include 
+other products if enough marginal satellite radio customers 
+would switch. And the key point is that the marginal customers 
+need not predominant in order for the market to be defined 
+broadly.
+    We all have our own individual views of what we would do or 
+wouldn't do if prices for satellite radio would go up after 
+this deal. It is a classic problem in merger review, to 
+substitute anecdotal and subjective opinion for hard evidence. 
+The real answer lies in a rigorous economic evaluation of 
+whether enough consumers would switch in the face of an effort 
+to raise prices post-merger. It is a highly technical question 
+that the parties and the Antitrust Division and the FCC can 
+work out during the investigation.
+    I would also like to comment quickly on some of the 
+possible benefits of the merger that Mr. Karmazin has outlined 
+in his statement. I agree that these benefits, if substantiated 
+and shown to be possible only through the merger, would weigh 
+heavily in favor of the deal. However, in making their merger 
+benefits case, I think the parties would have to answer some 
+pretty tough questions.
+    First, Mr. Karmazin contends the merger will increase 
+choice, but the parties will have to explain how choice is 
+increased when the merger will eliminate one of the key choices 
+now available. The parties will have to explain how competition 
+in some important way is an impediment of choice, because 
+ordinarily competition maximizes choice.
+    In particular, the parties argue that the merger will allow 
+subscribers to get XM and Sirius content with one subscription, 
+but they will have to explain why the differentiation between 
+XM and Sirius is a bad thing that can be fixed only by the 
+merger. Ordinary, the kind of exclusive deal that makes Howard 
+Stern available only on Sirius is justified because the 
+exclusives are the best way for a competitor to add 
+subscribers. But here the argument seems to be that the 
+marketing strategy requiring exclusive content is actually 
+impeding subscriber acquisition.
+    If so, the parties will have to explain why the merger and 
+not the elimination of exclusive programming is the only way to 
+achieve this benefit. And the parties will have to explain why 
+having a single firm bundle content into differentially priced 
+tiers is better than having competing firms with differentiated 
+content.
+    The competitive significance of the consumer being able to 
+get the pull range of content from a single firm cannot be 
+evaluated without also understanding how that single firm will 
+bundle and price that content after the elimination of a 
+competitive.
+    Ultimately, XM and Sirius will have to articulate merger 
+benefits that the two firms could not have achieved themselves 
+as independent firms competing in the marketplace. While there 
+appears to be plausible efficiencies that will be generated by 
+the merger, some of the claimed benefits will need to be 
+further evaluated.
+    The best way to get the answers to these questions will be 
+through the merger review process conducted by the Department 
+of Justice and the Federal Communication Commission, by looking 
+at the real world factors that go into the marginal consumer's 
+calculation of what he or she will pay for satellite radio. And 
+the evidence will come from the parties' documents and an 
+evaluation of how and why consumers choose to spend their money 
+on satellite radio.
+    Thank you very much. I would be glad to take any questions.
+    [The prepared statement of Mr. Biggio follows:]
+
+                Prepared Statement of Charles E. Biggio
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+    Mr. Conyers. Thank you so much.
+    Mr. Karmazin, it is all yours now. You are the final 
+witness, and you have been referred to more than once here.
+
+                TESTIMONY OF MEL KARMAZIN, CEO, 
+                     SIRIUS SATELLITE RADIO
+
+    Mr. Karmazin. Well, thank you very much. And good 
+afternoon.
+    Thank you very much, Chairman Conyers, Congressman Smith, 
+Congressman Chabot and the Members of the Antitrust Task Force, 
+for this invitation to talk to you about the pending merger 
+between XM and Sirius satellite radio.
+    I am speaking today on behalf of both companies. With me 
+here today is Gary Parsons, chairman of XM.
+    With your permission, I think what I would like to do, 
+because I think it would be more meaningful, is to abandon my 
+opening comments, which I will be happy to make them available 
+to you, and spend a little bit of time talking about this 
+merger and what we think it means for consumers and the public.
+    So far, I agree with everything that was said. I think it 
+is the very early stages of this merger. I can tell you that we 
+look forward to working with Congress, working with the 
+regulators, and convincing everybody that this merger is in the 
+best interest of the public.
+    I think that our obligation is going to be twofold. We will 
+have an obligation to demonstrate that this merger is not 
+anticompetitive. I hear that we will probably be working with 
+the DOJ and I am convinced that we will give them enough 
+information and they will get their own information to make 
+that determination.
+    I can tell you for sure that satellite radio competes with 
+the 10,000 terrestrial radio stations. We compete with over the 
+1,000 HD radio stations on the air today. We compete with the 
+Internet for Internet radio. We compete with all kinds of 
+services that, interestingly enough, weren't available at the 
+time when our licenses were given.
+    So, you know, the idea of comparing where we are from a 
+technology point of view today and comparing it to where it was 
+10 or 12 years ago, when statements were made, we think is sort 
+of not very consumer-friendly because the world has changed.
+    So number one, we know that both with the Justice 
+Department and with the FCC, we are going to have to convince 
+them that this is not anticompetitive. I think even more 
+important, if there is something more important than that, is 
+that I believe in order to convince Congress and the regulators 
+that this deal should be approved, is that we are going to have 
+to demonstrate that this is in the consumers' best interest, 
+because if we cannot convince everybody that this is in the 
+consumers' best interest, then this merger will not be 
+approved. And I am confident that the members of the FCC, if 
+they didn't believe it, would not vote for it and we wouldn't 
+get antitrust approval.
+    We are absolutely convinced that this merger is in the 
+consumers' best interest. This merger will give people more 
+choice than they have before and lower prices and, very 
+importantly, less confusion. So if you think about the way it 
+is today without the merger, there are two different radios 
+that a consumer needs to buy. It would be like buying one for 
+AM radio and one for FM radio. But it was obviously determined 
+that a receiver that would get both services would be in the 
+consumer's best interest.
+    There is a great deal of confusion in the marketplace 
+because they are interested, when they buy a car and they go 
+and buy a General Motors car and that comes with an XM radio 
+and that XM radio doesn't enable the consumer to pick up the 
+NFL, that is not very consumer-friendly. And we believe that 
+this merger will absolutely give the consumer more benefits.
+    So number one, one of the benefits will be is that no radio 
+will be obsolete. I heard that mentioned earlier and there was 
+a concern that the people who have bought an XM radio or they 
+bought a Sirius Satellite Radio, those radios would be 
+obsolete. And we can guarantee that is not the case.
+    We also have said that there would be more choice for 
+consumers and we believe that by consolidating these companies, 
+we are going to be able to offer the consumer who wants to be 
+able to have the NFL and wants to be able to have Major League 
+Baseball, instead of them buying two radios and paying $25.90 a 
+month, that they will be able to do it at a cheaper price.
+    So what we believe will serve the consumer's best interest 
+would be to give them more choice. We are committed to giving 
+the consumer more choice. Count on it. Okay?
+    And if you want to count on it in some other ways other 
+than us saying it, I am sure that the FCC and the Justice 
+Department could absolutely keep our feet to the fire on that 
+kind of commitment.
+    And, number two, what we are committed to doing is offering 
+lower prices. We are saying we are not going to raise our price 
+and we are going to offer the consumer something that they have 
+not had before.
+    So, Sirius has never, ever raised its price. We started our 
+service, the first subscriber paid $12.95. They are currently 
+paying $12.95. Our vision would be that, because we are 
+competing with free radio, because $12.95 has only enabled us 
+to get 10 million subscribers nationally, we are competing with 
+the 200 million cars that have AM and FM radio, we are 
+competing with 109 million homes that have four radios in it. 
+So the idea of raising a price to compete with free is bizarre 
+and doesn't seem to work.
+    But you know what? Maybe you are concerned that you don't 
+want to deal with the economics. I am telling you today that we 
+are committed, we are committed to not raising prices and 
+committed to in fact lowering the price. So if the consumer is 
+going to be able to have more choice, guaranteed no price 
+increase and be able to have an option--more flexibility for a 
+lower price--we think that we would meet the standard of 
+absolutely saying that this merger is in the public interest.
+    So I look forward to working with the regulators. I look 
+forward to working with this Committee and I look forward to 
+working with consumers in making sure that that they see this 
+advantage as well.
+    Thank you.
+    [The prepared statement of Mr. Karmazin follows:]
+
+                   Prepared Statement of Mel Karmazin
+
+    Mr. Chairman,
+    Good afternoon. Thank you, Chairman Conyers, Ranking Member Smith, 
+and members of the Anti-Trust Task Force for the invitation to talk 
+with you about our merger with XM Satellite Radio.
+    I'm Mel Karmazin, the CEO of Sirius Satellite Radio. Before I came 
+to Sirius in 2004, I was president of Viacom, and before that, 
+president of CBS. I've spent just about my entire working life in the 
+broadcast industry.
+    I am speaking today on behalf of both companies. With me here today 
+is Gary Parsons, the chairman of XM. Gary is a veteran of the 
+communications business, a real leader in the world of satellite radio. 
+Gary and I are both looking forward to working together to create an 
+exciting new company.
+    Gary's leadership and talent are crucial to this merger. He built 
+XM into the success it is today. I should point out that XM has the 
+largest digital radio facility of its kind in the country, and is 
+headquartered right here in Washington.
+    We firmly believe that this transaction is essential to preserving 
+and enhancing choice for consumers. A combined company will be able to 
+compete more effectively in the highly competitive and rapidly evolving 
+audio entertainment marketplace. Our new enterprise will enhance the 
+audio industry's future.
+    I appreciate this opportunity to explain why we believe so strongly 
+that this merger will benefit American consumers.
+    This afternoon I would like to focus on the two most important 
+aspects of this merger:
+
+        1.  How this merger will lead to increased consumer choice and 
+        lower prices; and
+
+        2.  How this merger enhances competition in an already highly 
+        competitive market.
+
+                    CONSUMER CHOICE AND LOWER PRICES
+
+    Since the creation of satellite radio in 1997, the consumer has 
+been at the center of our business plan. Consumer wants and needs have 
+brought the technology and the industry to where it is today and the 
+consumer continues to be our number one priority. That simple but 
+important fact will not change post-merger. The long-term success of 
+satellite radio rests on growing our subscriber base. As a single 
+company, we expect to provide current and future subscribers the best 
+and most diverse audio content available.
+    A merged company will also give subscribers additional programming 
+options and pave the way for even more programming. We expect that 
+consumers will no longer have to subscribe to both services in order to 
+receive the most popular programming. We want subscribers on both 
+systems to be able to listen to both the NFL and Major League Baseball. 
+Both the PGA and NCAA basketball. Both Oprah Winfrey and Martha 
+Stewart.
+    Moreover, in the long-term the significantly expanded channel 
+capacity of our merged company will give consumers access to a greater 
+range of programming. XM and SIRIUS already broadcast a wide range of 
+commercial-free music channels, exclusive and non-exclusive sports 
+coverage, news, talk, and entertainment programming. In the long-term, 
+our combined company expects to be able to expand diverse programs for 
+underserved interests. For example, we hope to expand foreign language 
+and religious programming.
+    The merger will also result in a combined focus on designing the 
+best products and innovative services for our subscribers. By combining 
+our research and development, we will be able to design and introduce 
+radios and transmission infrastructure that will give satellite radio 
+subscribers the best experience in audio entertainment. We will be able 
+to speed the introduction of radios offering content from both of our 
+services today--something that has been challenging as separate 
+companies.
+    We anticipate that together, our radios will be smaller, lighter, 
+simpler, and more technologically-advanced than what each company has 
+on the market today. Over time, we will look to combine our satellite 
+and terrestrial transmission infrastructure to deliver the broadest 
+range of content and the highest level of service quality. Finally, 
+we'll use our combined resources to improve upon our nascent non-audio 
+services, like Backseat Video, real-time traffic and weather, and other 
+infotainment-style data services. At the same time, we will accelerate 
+the delivery of innovative services and products.
+    It is important to realize, however, that our individual radios 
+will not become obsolete as a result of this combination. Any radios or 
+other equipment that subscribers currently use will be fully supported 
+by SIRIUS and XM. When more technologically advanced devices are ready, 
+subscribers will make the decision to adopt them at a timing of their 
+choice.
+    In summary, a merged Sirius and XM will be a boon to consumers. 
+They will receive additional programming opportunities and choice at 
+more competitive prices. They will have access to advanced equipment 
+and services, but they will have the flexibility to adopt technology 
+when they wish, secure in the knowledge that their current radio will 
+continue to operate. And satellite audio will continue to be a viable 
+consumer option in the modern audio entertainment marketplace--a 
+marketplace that has undergone incredible growth and upheaval since the 
+birth of satellite radio.
+
+        ENHANCED COMPETITION IN THE AUDIO ENTERTAINMENT INDUSTRY
+
+    We operate in an intensely competitive environment and that 
+competition will continue to intensify post-merger--and continue to 
+provide an inherent check on programming as well as on pricing. Our 
+long-term success rests on growing our subscriber base, and we simply 
+will not attract new subscribers if we are not meeting consumer 
+expectations on price and programming.
+    The dynamic growth in audio technology has given consumers an 
+impressive array of choice--a significantly broader range of audio 
+entertainment options from which to choose than was the case when we 
+were first granted our licenses a decade ago in 1997. Back in 1997, an 
+eon ago in the world of technology, audio entertainment was dominated 
+by analog AM and FM radio. Digital broadcast radio did not yet exist. 
+The Internet was still in its infancy; with multi-channel digital 
+broadcast radio and broadband streaming Internet audio and radio still 
+on the horizon.
+    Today's options paint a stark contrast to those in 1997. Of course, 
+satellite radio still competes vigorously with free over-the-air AM-FM 
+radio--a service that exists in virtually every home and car in the 
+country. That competition is becoming fiercer, as radio moves to 
+digital broadcasts in response to satellite's appeal. But we also face 
+growing competition for our audience from emerging audio sources, 
+including multi-channel digital broadcast radio, wireless broadband and 
+mobile phone streaming.
+    But that's just the beginning; an even wider range of new services 
+are becoming mainstream. Wireless carriers are exploring new data and 
+voice services as they deploy 3G and 4G networks. Multi-channel HD 
+radio is spurring renewed growth in the terrestrial radio marketplace, 
+with additional free programming choice. Services such as WiMAX and 
+Media Flow are emerging as high-bandwidth, long-range content, and data 
+transmission technologies.
+    It has only been 10 years since satellite radio was licensed. Could 
+we have predicted 10 years ago that the audio entertainment marketplace 
+would look the way it does now? One reason for all the new 
+technological advancements is that competition in the audio 
+entertainment market is robust. We are seeing new entrants on a regular 
+basis as the market continues to meet the needs of the consumer. The 
+reality is that consumers can choose from a wide range of different 
+services and technologies that offer audio entertainment.
+    XM and Sirius are relatively small players in that highly 
+competitive and rapidly evolving audio entertainment marketplace. 
+Welterweights in an arena of heavyweights. There are 237 million 
+vehicles in the United States, each of which offers a built-in AM and 
+FM radio. There are another 230 million PCs in use that can access 
+programming online, and there are 223 million weekly AM and FM radio 
+listeners in the United States, and millions of cell phones for music 
+listening, to programmed entertainment, music news, talk and 
+information. Contrast that to Sirius and XM. The companies currently 
+have about 14 million subscribers. Satellite radio is a David operating 
+in a land of Goliaths and is hardly a threat to controlling the audio 
+entertainment market.
+    But competition is healthy, and it benefits the consumer. Today 
+when we think to ourselves, ``I want to hear some of the jazz greats 
+like Louis Armstrong, John Coltrane or Miles Davis,'' we have a 
+multitude of options at our fingertips. We can turn on our AM/FM radio 
+and tune in to a jazz station; we can log on to the Internet and find 
+the music online; or we can turn on our SIRIUS satellite radio and tune 
+into Planet Jazz, Jazz Cafe or Spa 73.
+    Given the expansive market--within which satellite radio is only 
+one of many alternatives--we are certain that an accelerating level of 
+competition will exist post-merger. There is little doubt that 
+satellite radio faces stiff competition from many of the technologies 
+and entertainment platforms that I have already described. In fact, I 
+would like to note for the committee that in the SEC filings of 
+traditional radio companies, they readily acknowledge that they compete 
+with satellite radio in a larger market for audio entertainment:
+
+        -- From Clear Channel Communications 2005 Form 10-K; page 24: 
+        ``Our broadcasting businesses face increasing competition from 
+        new broadcast technologies, such as broadband wireless and 
+        satellite television and radio, and new consumer products, such 
+        as portable digital audio players and personal digital video 
+        recorders.''
+
+        -- From COX Broadcasting / COX RADIO 2005 Form 10-K; page 8-9: 
+        ``In addition, the radio broadcasting industry is subject to 
+        competition from new technologies and services that are being 
+        developed or introduced, such as the delivery of audio 
+        programming by cable television systems, by satellite digital 
+        audio radio service and by digital audio broadcasting. Digital 
+        audio broadcasting and satellite digital audio radio service 
+        provide for the delivery by terrestrial or satellite means of 
+        multiple new audio programming formats with compact disc 
+        quality sound to local and national audiences.''
+
+    The fact is that we are in the middle of a rapid evolution of the 
+audio entertainment industry. Together, SIRIUS and XM can compete more 
+effectively. We will have the capacity to expand our market by offering 
+more compelling and more diverse content to a greater proportion of the 
+population. Our goal is to have as many people in this country look to 
+us as a source of content relevant to them. By combining our companies, 
+we are absolutely convinced that we are creating a company with 
+tremendous potential. We are confident that together we will be able to 
+quickly and successfully integrate the two companies to deliver the 
+greatest programming choices to our existing and new subscribers.
+    Our merger has resulted in one unexpected harmony. There are few--
+if any--issues where you'll find the LOS ANGELES TIMES, the WALL STREET 
+JOURNAL, USA TODAY, and the CHICAGO TRIBUNE in agreement. All four 
+newspapers found that our merger is meritorious. The LA TIMES concluded 
+that the audio entertainment market ``is very competitive, particularly 
+among the national players.'' Mr. Chairman, Ranking Member Smith, and 
+members of the Committee, thank you for this invitation to speak with 
+you today about the very significant consumer benefits that this merger 
+will produce. Sirius and XM together see great opportunities, and we 
+believe that our growth will be faster and our service offerings will 
+be more competitive on a combined basis.
+    This transaction is about choice. We look forward to the day this 
+merger is approved and we can begin to provide consumers with best-of-
+breed programming as well as the acceleration of innovative services 
+and products that they desire.
+    I look forward to answering any questions the Committee might have.
+
+    Mr. Conyers. Thank you very much, all of the witnesses. 
+This has been, I think, an extraordinarily useful way to begin 
+an examination of this proposed merger. I compliment all of you 
+on the details that have gone into your statement and the 
+concern.
+    I commend you, Mel Karmazin, for the defense that you have 
+raised in view of their earlier discussion.
+    One of the considerations is, how do we enforce promises in 
+the circumstances in which we find ourselves? This Committee 
+won't be a party to the negotiations with the Department of 
+Justice or the FCC, and so we are concerned about how that can 
+happen.
+    The two companies compete through pricing structures. 
+Sirius currently offers a $500 lifetime subscription fee. How 
+do we know that structure will remain in place in the future?
+    We have, unfortunately, a not-too-good-record of 
+performance of satellite radio keeping promises. That is part 
+of the record that I think both companies have to overcome. 
+There is no public interoperable radio that would work on both 
+networks. And that was promised. You violated conditions about 
+noninterference and use of terrestrial repeaters.
+    How do we draw--I mean, trusting you isn't going to work 
+here, in this--not just today, but in this longer-term of 
+examinations that you will be go going through. You have high 
+hurdles to overcome, don't you think?
+    Mr. Karmazin. Mr. Chairman, thank you for that.
+    I am not asking you just to--first of all, you can trust 
+me. But, more importantly, you need something more than that, 
+and I am prepared to work with this Committee, work with 
+Congress, work with the regulators, to do what you need to do 
+to have something beyond ``trust me.''
+    A couple of the facts are wrong and I just don't want to 
+get hung up on facts, but when we committed, we said that we 
+would design and we would create the ability to have an 
+interoperable radio. We have such a radio. It is in my office. 
+And it is there.
+    The problem with it is that there is no receiver 
+manufacturer that wants to pay to supply it, and we currently 
+are subsidizing our radios and we are subsidizing our radios 
+today because we get a subscription from it.
+    The idea of us subsidizing a radio when we may not get a 
+subscription doesn't make any sense for us. So we did not in 
+any way, shape or form break that promise. We have developed, 
+as our requirement was, a radio. We have offered intellectual 
+property to receiver manufacturers, so if any receiver 
+manufacturer wants to make an interoperable radio, they can 
+make it.
+    The problem is, it would sell somewhere around $700 without 
+a subsidy, and that is why the merger could make it possible, 
+because we can get a subscription.
+    Regarding the interference on the terrestrial repeaters, I 
+could tell you that our company, when we found out that we had 
+11 repeaters that were not operating in accordance with our 
+rules--okay, they were minor issues--we shut them off as soon 
+as we found about it. These repeaters were not causing any 
+interference. They weren't causing any harm to consumers. They 
+were operating at a different standard.
+    So we take exception to the idea of us not following the 
+rules. It would be like saying that a broadcaster who violated 
+the political advertising rule, who is not giving the lowest 
+rate was fined, they don't deserve to be a licensee. Or 
+recently one company, a terrestrial broadcaster, paying a $24 
+million----
+    Mr. Conyers. Let me interrupt you here, because I wanted to 
+find out what your opposition was to Ms. Sohn's testimony that 
+the FCC should permit satellite radio broadcasters to do more 
+local programming.
+    And then I might ask Mr. Cooper to use up a half minute if 
+we have got that kind of--oh, we don't have that kind of time. 
+Sorry, Mr. Cooper.
+    Mr. Karmazin. Okay. So, I will tell you that providing 
+local content is not our business model. You know, I mean, 
+unless you sit there and say that we are broadcasting the 
+Washington Redskins and that is a local content, our belief is 
+that every place you have a satellite radio--this is not 
+television and this is not DirecTV-Echostar.
+    Every place you have a satellite radio, you have an AM and 
+an FM radio. So for us to duplicate what they do very well is 
+not part of our plan. But if in fact--we want to get this deal 
+done. There are so many synergies that are there. We have 
+committed to taking a chunk of the synergies, a good chunk of 
+the synergies, and passing it along to the consumer as a 
+financial benefit. So, we want to get the deal done.
+    If, in order to get the deal done, we need to make 
+concessions, we are prepared to make concessions and we will 
+work with the FCC on doing it. Putting in more local 
+programming, we think, would not be in the consumer's best 
+interest, because they have free over-the-air radio in their 
+market where they are doing it.
+    We don't sell local adverting. We are not in that business. 
+We don't plan to be in it, we don't want to be in it, but if 
+that was a condition, you know, we would certainly consider 
+anything that the Government would ask us to do.
+    Mr. Conyers. Thank you so much.
+    Steve Chabot, our Ranking Member, has the best excuse for 
+being late that I have heard lately, because he was before the 
+House Administration Committee getting his budget administered 
+for the 110th Congress.
+    I am glad that you are here now. And I am sorry that they 
+kept you so long. I wish you good luck before that Committee.
+    Mr. Chabot. Thank you very much, Mr. Chairman. As you know, 
+duty calls and you have to answer, and I did in that case.
+    I want to take this opportunity to apologize for being 
+late, first of all, but also to thank the distinguished 
+gentleman from Michigan, Mr. Conyers, and the distinguished 
+gentleman from Texas, Mr. Smith, for their leadership on this 
+issue.
+    And the topic that we are examining this afternoon 
+demonstrates the Task Force's continued commitment to carrying 
+out its responsibilities and the critical role it will play in 
+assessing the viability of our antitrust laws, especially as 
+they relate to competition in the 21st century.
+    The promoted XM-Sirius merger highlights just one of the 
+complex issues that the Task Force will face: examining current 
+business conditions in an age of constant change and advancing 
+technology and the impact that these conditions have on 
+consumers.
+    I will begin my questioning, and I will have to make it 
+relatively brief as well, because we are all restricted by the 
+5-minute rule.
+    I will begin with you, Mr. Karmazin, as the Chairman did. 
+Could you explain again why it is necessary for, you believe, 
+the two companies to merge, and what benefits the consumers 
+arguably would receive that they don't already have in the 
+current market and what inefficiencies are the two companies 
+experiencing that makes merging necessary? In about 2 minutes, 
+if you can do that.
+    Mr. Karmazin. I will talk real fast, unlike my normal 
+style.
+    First of all, it is not necessarily. We are not making a 
+failing company argument and we are not saying that if in fact 
+our merger were not approved at the end of the day we would not 
+continue to go along and do business.
+    Why we think it should be approved is the fact that the 
+consumer will get more choice, lower prices and the ability to 
+have less confusion and more content. So we believe it should 
+be approved because it is very pro-consumer.
+    It doesn't have to be approved. We can go back to sitting 
+there having our existing businesses. But the idea is, if there 
+is an interest in giving the consumer more choice and better 
+pricing, it happens with the merger, not without the merger.
+    Mr. Chabot. Okay. Thank you very much.
+    Mr. Rehr, if I could turn to you next, and I know that you 
+have, in your written statement, adamantly opposed the merger 
+of XM and Sirius because it creates a monopoly, arguably.
+    Would you elaborate a bit on your opposition to the merger 
+and why you believe it would not be good for consumers?
+    Mr. Rehr. Yes. Thank you, Congressman.
+    Let me make three quick points.
+    Number one, and I am not a lawyer, I am an economist by 
+training. Monopolies in and of themselves are bad. And one of 
+the points that I made in my oral testimony is that we are 
+currently in a duopoly, a two-market--or a two-company market 
+in, mobile national audio multi-channel satellite radio.
+    So when you go from two companies to one company, I think 
+you have to say what is the overwhelming reason why we should 
+create a monopoly? Because when monopolies are created, they 
+have a tendency to do bad things--raise prices, restrict 
+supply, engage in dictating terms of contracts--that wouldn't 
+exist in a duopoly, two-company model let alone in a multi-
+company model. So we have real concerns about creating a 
+monopoly.
+    Number two, with a monopoly, comes monopoly power and 
+monopoly profits, profits that wouldn't be able to be grabbed 
+by the companies if they were in a competitive market. And we 
+believe those will be used for exclusivity, constraints put 
+upon programmers, as well as cross-subsidization to compete 
+against local radio stations.
+    Mr. Chabot. Thank you very much.
+    Mr. Biggio, if I could turn to you next. Would you describe 
+the antitrust scrutiny that the proposed merger would undergo?
+    Mr. Biggio. Yes. The merger is subject to Hart Scott 
+Rodino, which means it has to be notified to both the FTC and 
+the DOJ. The DOJ would review it, given its past history in 
+this market.
+    The merger also is going to be reviewed by the Federal 
+Communications Commission and during that process, the parties 
+will have an opportunity to provide a very considerable amount 
+of information, both pursuant to a subpoena from the Government 
+as well as voluntarily, to explain what the consequences of the 
+merger will be.
+    Both the FCC and the DOJ will do a thorough investigation 
+not on the only of the parties but also of other affected 
+firms, customers, competitors, content providers, automobile 
+OEMs, I am sure, the electronic retailers and so forth, to 
+figure out what choices the consumer actually has and at what 
+price point would a consumer who is interested in satellite 
+radio after the merger switch to some other product in order to 
+avoid a higher price. That is the basic question.
+    Mr. Chabot. Let me cut you off there, if I can, because I 
+have less than a minute and I want to get to Mr. Cooper.
+    I apologize, Ms. Sohn, for not getting to you.
+    Mr. Cooper, one of your complaints about satellite radio as 
+it currently exists is that the companies force consumers to 
+purchase bundles of channels. If the combined company chose to 
+offer tiered service or was forced to do so by the FCC, would 
+that do anything to ameliorate your concerns? Could you comment 
+on that issue?
+    Mr. Cooper. Each of the conditions that we have heard about 
+ameliorates some concern.
+    Mr. Karmazin has proposed the regulatory regime that, if I 
+came up here and offered it, members would fall back over in 
+their chairs. I mean, he is talking about price, quantity 
+regulation, public interest obligations, all kinds of 
+regulatory oversight. He says don't trust me. Tell the 
+regulators to impose it on me. So those take away the harms.
+    But in the long run--I have been testifying up here for 30 
+years. And the essential message that I have learned, and I 
+believe it, is that competition is the consumer's best friend.
+    So, Mr. Karmazin has said, look, impose these regulations 
+on me--and in the antitrust case they won't be permanent, so we 
+will worry about what happens when they go away--and I will be 
+good for a period of time. But consumers are, in fact, better 
+serviced by competition.
+    And let me make a point. He has talked about--he sells the 
+consumer short. He says consumers are confused by our two 
+products. Consumers see hundreds and thousands of products in 
+the market every day. They are differentiated but similar. They 
+can handle that difference. If there is confusion, it has been 
+created by their failure to deliver--notice the way he parsed 
+these words. ``We developed an interoperable radio, but we just 
+can't deliver it.''
+    Imagine the regulator now having to deal with that kind of 
+double talk.
+    So from our point of view, you can name these conditions, 
+but in the end it will be a wrestling match with that kind of 
+parsing of words. It will be time limited and it will take away 
+the consumer's best friend, which is competition.
+    Mr. Chabot. Thank you, Mr. Chairman.
+    Mr. Conyers. Mr. Howard Berman?
+    Mr. Berman. Thank you, Mr. Chairman.
+    As I listened to Mr. Rehr's testimony, my mind wandered for 
+a second, and when he was talking about merged entities that 
+would control many radio channels and many local markets, I 
+thought for a second he was talking about Clear Channel.
+    But, Mr. Karmazin, in announcing the merger, you talked 
+about the field of competition, and in the course of it, you 
+mentioned over-the-air AM-FM radio, and you also mentioned 
+iPods, which is really more of a distribution mechanism than a 
+performance mechanism.
+    And I was wondering, if--I had introduced last year the 
+Perform Act, having reintroduced it this year, because of my 
+concern that with new portable devices that turn performances 
+into distributions, there was an issue here of whether or not 
+the creators of the music are the essence of all of the 
+business models being talked about here, whether they were 
+getting fairly compensated.
+    And I do note that under your leadership, Sirius reached a 
+marketplace deal through negotiations to compensate the artists 
+and their record labels. XM took a different approach and 
+preliminary litigation--actually, it was a judicial decision 
+which talked about what they were doing and raising the 
+question of whether that was really a performance and the 
+meaning of that term under the copyright law.
+    Will your new company plan to adhere to the perspective 
+that you adopted for Sirius of ensuring adequate compensation 
+to copyright owners?
+    Mr. Karmazin. We believe that we made a business decision 
+in paying a royalty. We thought it was the right thing for our 
+company to do. XM had a different viewpoint and they took 
+advantage of the courts, and I think that is an option.
+    And I think that either XM will win or lose in court, and 
+that will find its way, or they will reach an agreement. I 
+think that----
+    Mr. Berman. Well, at some point there will be a merger, if 
+you have your way, and it is not then you and XM anymore.
+    Mr. Karmazin. And at this point, I have no idea if this 
+litigation issue will be settled or resolved beforehand. I tend 
+to like not to use the courts. I tend to also like to use the 
+marketplace, so my point in response to the Chairman's question 
+on how do I know about pricing and other issues. The 
+marketplace--there is no monopoly or duopoly. That is the most 
+bizarre thing I have ever heard. I can't wait----
+    Mr. Berman. I didn't use those terms.
+    Mr. Karmazin. I can't wait to get the market definition.
+    So I think that there is a sense that there are all of 
+these products out there. Ninety-five percent of the products 
+out there compete with iPod, not because we have a record 
+function in it; just because if you are driving in your car and 
+you put your iPod in a jack, you are listening to content. We 
+have very few products out there with the record function in it 
+so that the competition has nothing to do, when I mention it, 
+with the Perform Act issue. It has to do with the fact that 
+people are listening to their music on iPod or listening to 
+their music on satellite radio.
+    Mr. Berman. Well, since I raised it, I guess I am not the 
+person to make this point, but it is not a hearing on that, the 
+device's ability to record hours of music, ability to give a 
+play list and have people select and maintain copies is an 
+issue.
+    But let me move on to another issue, just for the 
+recognition that, since you have this marketplace view, you 
+made this deal and you will be the CEO of the new company, you 
+are raising the expectations of how that issue will finally get 
+resolved.
+    Mr. Rehr, your testimony talks about wanting the level 
+playing field. But the over-the-air radio station--and Ms. Sohn 
+made this point, but it is worth repeating because it was so 
+good. You operate a profitable business built on music, but you 
+don't pay artists and record companies, whether it is in the 
+analog or in the digital format.
+    So when every station in America at a certain time of the 
+year is playing ``White Christmas,'' you don't pay Bing Crosby 
+or his heirs, you don't pay the people who own that song. When 
+Frank Sinatra is singing ``New York, New York,'' you are not 
+paying his heirs or the people who own that song.
+    The competition that you talk about, that you are concerned 
+about, has to pay the performance right to the recording artist 
+for the labels for that music. Why is this present situation a 
+level playing field? Why shouldn't we rectify something that 
+was done originally in a different time in a very different 
+situation?
+    Mr. Rehr. I think that is a great question, Mr. Berman. I 
+would respond to it in three ways.
+    Number one, radio broadcasters and artists have a long 
+symbiotic relationship that benefits artists. We build demand 
+for them in the market. I think a lot of artists recognize 
+that.
+    Number two----
+    Mr. Berman. Well, then, why are--and, so, what? These poor 
+guys are suckers because----
+    Mr. Rehr. No, no, no. I mean, I think--hopefully you, I 
+believe, as the Subcommittee Chairman will be having hearings 
+on the Performance Act and we would be more than anxious to 
+testify on our viewpoint, because it is a very complicated 
+issue.
+    But in a nutshell, I don't think it is so much of the 
+artists. I think they are looking at their revenue--I think the 
+recording labels have seen their fundamental business model 
+changed and are looking for ways to not only compensate the 
+artists, but to frankly compensate themselves.
+    And the three things that I can say about broadcasters are, 
+number one----
+    Mr. Berman. I don't think that is an issue much in dispute.
+    Mr. Rehr. Right. We build demand for the artist----
+    Mr. Berman. And you are looking to avoid compensating both.
+    Mr. Rehr. No, I don't think so, because I think we 
+compensate them----
+    Mr. Berman. Wait. But you are sitting here--Webcasters are 
+paying it.
+    Mr. Rehr. Right.
+    Mr. Berman. Satellite radio guys are paying it. Apple is 
+paying it. All kinds of new services that perform and deliver 
+music are paying it. Over-the-air radio isn't paying the 
+performance right.
+    Mr. Conyers. The gentleman's time has expired, regretfully.
+    The gentleman from Florida, Mr. Keller.
+    Mr. Keller. Well, thank you, Mr. Chairman.
+    The issue before us is controversial and simple. By 
+allowing this merger, is the Federal Government encouraging 
+competition, choices and low prices or are we creating a 
+monopoly and bailing out two struggling competitors who may 
+have overspent on high-priced talent.
+    I remain completely open-minded on this issue, and I am 
+trying to look at this issue through the eyes of a typical 
+consumer. So I want to ask some pointed questions.
+    I am going to ask the first to you, Mr. Karmazin, and to be 
+fair about it, just realize I am going to ask Mr. Rehr some 
+equally tough questions.
+    But as I look at this through the eyes of a consumer, and I 
+am one--you will be pleased to know I am a Sirius subscriber, 
+and my favorite preset, for example, is a stand-up comedy 
+channel.
+    Now, if you decided to jack up your rates today, I would 
+have the option of going to XM. Now, after the merger, I have 
+got no place to go. If you decided to increase the price from 
+12.95 to $14 as part of Sirius-XM, would I pay for it? 
+Probably, yes. I think it is probably worth it and I have got 
+nowhere else to go. There is no competitor with the traditional 
+AM-FM because the material on that particular channel is a 
+little too edgy and adult-oriented.
+    On the other hand, it is better to have one choice than no 
+choice if you both go under. So I am sensitive to that, too.
+    So let me ask you, am I correct from your testimony today 
+that as a condition to securing approval from the Federal 
+Government for this merger that you would agree to pricing 
+restrictions for a period of time?
+    Mr. Karmazin. Yes.
+    Mr. Keller. And how long a period of time?
+    Mr. Karmazin. We are willing to talk to people about it. 
+But I will tell you, the main reason, Congressman----
+    Mr. Keller. Four years?
+    Mr. Karmazin. Congressman, the main reason about the 
+pricing is not the regulated issue. It is we compete with free. 
+And I can give you alternatives----
+    Mr. Keller. I understand that and I am going to follow up 
+on that.
+    Mr. Karmazin [continuing]. And that is the pricing point.
+    Mr. Keller. But when you say you are agreeing for a period 
+of time, it is an impressive statement. I think you will make 
+news with it. But if you are agreeing to pricing restrictions 
+for 2 weeks, it is not impressive. For 4 years, it is 
+impressive.
+    Mr. Karmazin. Okay. So why don't we now understand in your 
+judgment what that window is and let us see if we can come to 
+an agreement somewhere in that window between 2 weeks and 4 
+years?
+    Mr. Keller. But you don't have any--when you told us, and 
+you testified that you were going to agree to it for a period 
+of time, you had no idea in your mind whether it was 2 weeks or 
+4 years?
+    Mr. Karmazin. Congressman, the reason that we believe that 
+is because we believe that we need to show you and others that 
+this is in the public interest. And we know that price is 
+important. So we know we want to get there. We want to get 
+there in whatever the regulators and we feel is the appropriate 
+time frame.
+    Mr. Keller. Okay. And did I hear you correctly when I said 
+you would agree, if necessary, to formally enter into an 
+agreement with the Federal Government that you would not be 
+competing with the local broadcasters with respect to local 
+news, traffic and weather, if that was necessary to get the 
+approval?
+    Mr. Karmazin. Well, I think we would be open--I think we 
+would be open to lots of things. I think that we are trying to 
+make this agreement, this merger, happen for the benefit of the 
+consumer.
+    The idea of the Government saying it is not in the 
+consumer's best interest to give them more choices sounds anti-
+consumer. But if the idea of the merger is conditioned on 
+certain restrictions, we would be open to those restrictions.
+    Mr. Keller. Okay. Now, as a Sirius subscriber, am I correct 
+from your testimony that I am not going to have to junk my old 
+radio as part of this new XM-Sirius merger and get a new radio?
+    Mr. Karmazin. Guaranteed.
+    Mr. Keller. Okay.
+    Mr. Rehr, let me turn to you. Must be pretty good news for 
+you, hearing, at least, that Mr. Karmazin says he has no 
+intention in their business model to engage in competition with 
+the AM-FM radio stations with respect to local news, traffic 
+and weather. Why aren't you smiling on hearing that?
+    Mr. Rehr. People who want to attain a Government-sanctioned 
+monopoly, with all due respect, will about say and do anything 
+to grab it.
+    Mr. Keller. And I promised him I would give you some hard 
+questions, too. So let me just ask you what Ms. Sohn said and I 
+will give you a chance to respond.
+    Mr. Rehr. Let me----
+    Mr. Keller. You are going to have as much time as you want 
+to respond, but I have got to get my question out or I get 
+zapped here.
+    Ms. Sohn said it is pretty hypocritical of you to come up 
+here and talk about the beauty of competition when you all 
+vehemently oppose having the satellite radio folks compete with 
+the traditional AM and FM with respect to local news, weather 
+and traffic.
+    What say you to that argument?
+    Mr. Rehr. Let me first respond to the previous question, 
+and then get to the latter question.
+    Mr. Keller. You bet.
+    Mr. Rehr. The previous question is, how can you tell if 
+someone who is attempting to go from a duopoly to a monopoly 
+will keep their commitments into the future. The only way I can 
+judge that is based upon their past performance. It is 
+questionable at best, at best.
+    It would be one thing if the companies came before you and 
+said, we fully complied with the FCC regulations to the letter, 
+and we will do that into the future. It is another thing to 
+recognize, in fact, that at least in three areas they have 
+flaunted the rules, ignored them, and in fact, to Mr. 
+Karmazin's point, one of the repeaters that he talked about, 
+where he said, you know what, it was in the wrong place, it was 
+67 miles away from the place they reported it to be. And it 
+does cause interference problems. It caused interference 
+problems with the wireless people. I would suggest that you 
+bring them in as well to find out about what this monopoly will 
+do to their business.
+    To the point about competition and local advertising in 
+local markets, you know, we need to go back to 1997 when the 
+FCC made the determination of dividing the spectrum into the 25 
+megahertz that were awarded to national multi-channel audio 
+companies. And I think the determination was made that it 
+wanted to be sure that it could promote technology, but it 
+would not undermine localism and local radio, which has been 
+the backbone of this country since Marconi invented the 
+devices.
+    Mr. Keller. The Chairman has said I can give Ms. Sohn a 
+chance to reply to that.
+    Ms. Sohn. I think part of the problem I am having with this 
+whole discussion is sort of the silo approach. Okay. We are 
+only talking about satellite radio. Why are we not talking 
+about all radio?
+    And that is my problem with Mr. Rehr, is that, you know, 50 
+years ago--excuse me, 75 years ago, you know, Congress said 
+that broadcasters should have a monopoly on local programming, 
+and therefore in 2007 we should keep it that way.
+    It seems to me to be ridiculous. In this day and age, radio 
+is radio. Music is music. I understand that Mr. Karmazin will 
+say just about anything to get his merger, but I am surprised 
+that he doesn't want to do local radio. Why not?
+    And, I mean, you talk about level playing field, the 
+Government bailout. You guys are asking for a Government-
+sanctioned monopoly on local programming and local news. And 
+that just, in this day and age, makes absolutely no sense at 
+all.
+    Mr. Conyers. Thank you.
+    I am sorry, Mr. Cooper, but I will recognize Mr. Rick 
+Boucher.
+    Mr. Boucher. Mr. Chairman, thank you very much. Let me 
+commend you at the outset for forming this Antitrust Task 
+Force. I think that is a very useful step for this Committee to 
+take.
+    And I also want to commend you for making the Sirius-XM 
+proposed merger the first subject to which you have drawn this 
+Task Force's attention.
+    Mr. Karmazin, it seems to me that much of the decision 
+regarding this merger will really revolve around how the 
+relevant market is drawn. And so let us take just a few minutes 
+to talk about what that relevant market actually is.
+    It seems to me that a very powerful argument has been made. 
+You have made it here today. I think perhaps Mr. Rehr's very 
+presence here helps to confirm this argument, that the relevant 
+market really is all of radio.
+    You are offering satellite radio, but you have terrestrial 
+radio, Internet-based radio. Then you have the whole IP-enabled 
+set of applications, including music downloads and streaming, 
+streaming and downloads to portable devices like iPods.
+    And as Ms. Sohn just said, music is music and it really 
+doesn't matter that much, the source of it. All of the music 
+sources are, in fact, in competition, one with the other.
+    There is a very interesting survey that Arbitron released 
+this week and I would like to get your reaction to this. It 
+shows that the satellite radio listening is only about 3.4 
+percent of all radio listening. So if you measure all radio and 
+look at that entire audience, satellite radio is actually a 
+fairly small player in that.
+    It also makes the point that satellite radio listeners are 
+avid listeners to terrestrial radio. They actually spend more 
+time listening to terrestrial radio than they spend listening 
+to satellite radio. Fourteen hours weekly for terrestrial, 10 
+hours 45 minutes weekly for satellite. And then they also 
+listen to Internet radio. That is an average of 8 hours 15 
+minutes weekly.
+    So when you add Internet-delivered radio together with 
+terrestrial radio, the radio listener, the typical one who also 
+subscribes either to XM or Sirius, is listening to terrestrial 
+and Internet radio more than twice as much time as he is 
+listening to XM and Sirius.
+    I think these are very interesting statistics. I think they 
+clearly show that this is a unified market for music delivery.
+    I would like to get any comment you want to make on that. 
+But before I turn that over to you, let me just ask one other 
+question, and then you can have the balance of the time to 
+respond.
+    Ms. Sohn has made some proposals for conditions. And I am 
+confident that you noted those. If not, I am sure she would be 
+happy to repeat them. And I wonder what your reaction is to the 
+proposal that she has made for conditions. They appear to me to 
+be reasonable. And I would think that if those conditions are 
+accepted, and if you come to an appropriate promise with regard 
+to freezing your prices, that this merger is very much in the 
+public interest and in my view it should be approved.
+    So if you would like to comment.
+    Mr. Karmazin. Thank you.
+    So, firstly, how do I feel about the fact that we only have 
+3.4 percent of the radio listening? I feel quite bad about 
+that. I would like it to be higher. So I am not happy about 
+that. But it does clearly reflect that anybody who believes 
+that a market definition of audio entertainment is a market 
+that is called something that was talked about before that I 
+can't even remember, but that was just saying that there is a 
+duopoly. I don't believe there is a duopoly.
+    So if I don't believe there is a duopoly, I certainly don't 
+agree there is going to be a monopoly. We compete with all of 
+these services. Again, regarding--I was prepared for this by 
+telling--you know, my people told me not to go across tables, 
+not to get angry, you know, keep my hands folded and be nice.
+    But I certainly don't like this idea of the premise behind 
+saying anything to get a merger approved, because you know 
+what? At the end of the day the regulators are going to either 
+approve it or not approve it and we are going to go on, okay. 
+We are not making a failed argument. We are not saying we 
+overpaid for content. As a matter of fact, we don't believe we 
+overpaid. We paid for it at the market rate and we will 
+continue to pay for it at the market rate.
+    So would we consider certain conditions? The answer is yes. 
+We currently are providing public service programming. We 
+currently are providing noncommercial. We provide NPR, two 
+channels of NPR. So the idea of pricing--and just so you 
+understand, and I will be quick on this--the reason we are not 
+going to raise prices is because terrestrial radio and all 
+these other choices have hundreds of millions of people. We 
+have a total of 10.
+    The way you get more isn't by saying, I am not going to 
+subscribe because it is 12.95, but I am going to subscribe 
+because it is 14.95. The hope would be, based on the efficiency 
+of this merger, we can lower the price, have a cheaper 
+offering, and therefore get more subscribers and therefore get 
+more than 3.4 percent of the audience.
+    Mr. Boucher. Thank you, Mr. Karmazin.
+    Thank you, Mr. Chairman.
+    Mr. Conyers. Thank you very much.
+    We turn now to Lamar Smith of Texas.
+    Mr. Smith. Thank you, Mr. Chairman.
+    Mr. Karmazin, yesterday I checked Sirius's Web site. And it 
+seemed to me that much of the comparison shopping, in fact all 
+the comparisons, were with brand ``X,'' which I assume is XM. 
+Is that right?
+    Mr. Karmazin. I can't speak for exactly what the Web site 
+is, but sounds like it would be, sir.
+    Mr. Smith. Given the comparisons, I think all the 
+comparisons were with the equivalent brand ``X,'' was the 
+equivalent of XM. The appearance, therefore, is that you are 
+not worried about other competition other than XM. And let me 
+give you an example of why I think that may be the case.
+    If I am driving to work in Washington, D.C., and I want to 
+listen to listen to Sixties hits--and by the way, there is no 
+more oldies station in D.C., much to my regret. But if I wanted 
+to listen to Sixties hits and to BBC News and to an NBA game, 
+where else do I go besides satellite radio for that? In other 
+words, where is the competition?
+    Mr. Karmazin. So, I think that clearly the fact that 
+satellite radio is serving the consumer in Washington because 
+there is no radio station that is playing Sixties hits is sort 
+of another reason that we are competing with them, because you 
+are, I guess, saying that maybe if in fact there was a free 
+station that played Sixties hits, that you might not be going 
+to satellite radio.
+    There is no new music that is being made by the Sixties 
+artists. These are artists that have made that music. There are 
+plenty of devices that enable you to get that music there. 
+There is tremendous competition. We want you, that if you are 
+going to go buy satellite radio, we are going to want you to 
+buy Sirius, and Gary Parsons at XM is going to want you to buy 
+XM.
+    So there are a bunch of things that we do to talk to the 
+consumer who is going to buy one.
+    Mr. Smith. I understand. I am not sure I entirely 
+understand the fact that I can't get the Sixties or the oldies 
+music means there is more competition. But I appreciate your 
+answer and I thank you for that.
+    Mr. Biggio, let me go to you. You are an antitrust expert 
+and, hopefully, you are a little unbiased here.
+    Let me make a presumption. Suppose that emerging 
+technologies are not yet right. Suppose emerging technologies 
+do not yet provide a significant amount of competition with 
+satellite radio. But suppose that sometime in the future and in 
+some coming year there will be significant competition from the 
+emerging technologies. What is allowed under antitrust law to 
+anticipate in that kind of situation?
+    Mr. Biggio. Well, let me answer that question from both 
+sides.
+    I think part of the argument Mr. Karmazin is making is that 
+satellite radio is in fact an emerging technology and right now 
+it doesn't have sufficient penetration to maximize and optimize 
+its profitability. And so it makes no sense for the companies 
+to raise price after this merger if it means they are going to 
+maintain their current subscription levels.
+    To the extent they can keep their prices low and expand 
+their output that way, and that is an argument why the merger, 
+in fact, is not anti-competitive.
+    The same argument applies to the products you are talking 
+about. If iPods and other products are coming on the market 
+today but have not yet reached a sufficient market presence to 
+actually be a competitive threat, then they should not be 
+included in the market until such time as they do have a 
+competitive constraint on the market.
+    And that is really a question of time development and 
+usually under the merger guidelines, we are talking about a 2-
+year period of concern that these other potential entrants 
+aren't sufficient constraints within 2 years, then they are 
+typically discounted.
+    Mr. Smith. Okay, good, thank you.
+    Mr. Rehr, a final question for you. In your testimony, you 
+distinguish between local markets in which there is arguably 
+more competition and national markets in which there might not 
+be as much competition. Why is that significant?
+    Mr. Rehr. I think it is significant because when the FCC 
+created the duopoly in 1997, they saw a nationwide multi-
+channel audio content service. The same channel that you get in 
+Bangor, Maine, you get in San Antonio, Texas, you get in San 
+Francisco, California.
+    Nationwide services like Sirius and XM compete with every 
+local broadcaster in this country. But does a small station in 
+San Antonio, Texas----
+    Mr. Smith. Any reason you are picking San Antonio?
+    Mr. Rehr. It is a coincidence. A small station in San 
+Antonio, Texas, or Milwaukee or in Orlando, doesn't compete on 
+a national level with those nationwide audio multi-channel 
+programs.
+    Mr. Smith. Thank you, Mr. Rehr.
+    And thank you, Mr. Chairman. I will yield back.
+    Mr. Conyers. Thank you very much.
+    The gentlelady from California, Ms. Zoe Lofgren.
+    Ms. Lofgren. Thank you, Mr. Chairman.
+    And congratulations to you and the Ranking Member for 
+establishing this Task Force. I think it is going to prove to 
+be very useful to the Committee and to the country to have this 
+renewed--not just today on this particular issue, but on the 
+whole issue of competitiveness and antitrust overall. And I 
+really feel that in the last several years we have not had 
+sufficient attention paid to this very important subject. And I 
+just think this is a first step that is just really very good. 
+And I appreciate your leadership in doing this.
+    Mr. Boucher asked most of the questions I was going to ask, 
+but I do have, for Ms. Sohn, you made some recommendations. I 
+was at the House Administration Committee, actually, suggesting 
+that the Ranking Member get more money for his Subcommittee. 
+But I did have a chance to read your testimony.
+    I am wondering how the conditions that you have recommended 
+for this merger compare to the obligations that currently exist 
+in the broadcast arena.
+    Ms. Sohn. Well, they are different. I mean, if I am going 
+to be completely cynical, I am not sure that the broadcasters 
+have any obligations any more except maybe to make time 
+available for Federal candidates.
+    So these are actually more akin to what DBS--well, some are 
+anyway. I mean, the first is that the company should provide 
+choice in pricing, so a la carte and tier pricing.
+    Ms. Lofgren. Obviously that is not applicable.
+    Ms. Sohn. Right. But DBS has an obligation to make between 
+4 and 7 percent of its capacity available for a noncommercial 
+educational-informational programming. And this is programming 
+over which they have no editorial control. I didn't mention 
+that in my oral testimony but I think that is really, really 
+important.
+    Ms. Lofgren. It is in your written report.
+    Ms. Sohn. Yes. That the satellite provider should not--
+number one, it should not be able to say, well, we already have 
+NPR on two channels. First of all, it has got to be new 
+programmers. I would think this would be a great place for some 
+of the low-power FM stations that got shut out by the 
+broadcasters several years ago.
+    So they would have no editorial control. Also, you couldn't 
+have more than one channel taken up by any particular 
+programmer.
+    So it is more akin to DBS than it is to over-the-air 
+broadcasters.
+    Ms. Lofgren. Now, your comment about--and I saw people 
+grimacing when you said that there weren't any obligations on 
+broadcast.
+    But to the extent that things are not as tight perhaps as 
+they once were in the broadcast area, do you think if there 
+were a condition on the merger relative to noncommercial 
+educational-informational programming without control of 
+editorial content on the satellite side, that that ought to be 
+reinvigorated on the broadcast side?
+    Ms. Sohn. Well, boy, I have so many scars from this. Yes. 
+If we are talking about level playing field, probably yes.
+    Ms. Lofgren. In furtherance of that, the testimony has been 
+that there are so many providers of audio experiences, all the 
+way from iPods to--are we thinking that we should impose 
+conditions like this, for example, on Internet radio?
+    Ms. Sohn. Absolutely not. I mean, they are not asking to 
+merge. That is abundant.
+    Ms. Lofgren. So it is just because there is enough 
+competition and a low barrier to entry that we wouldn't want to 
+provide that kind of----
+    Ms. Sohn. Yes. I mean, I don't want to give the impression 
+that I foursquare think that this is going to pass antitrust 
+muster. I was very relieved to see Mr. Biggio also hedging his 
+bets, because he is an antitrust expert and I am not.
+    So, you know, I think the key is whether these other 
+technologies that I mention in my testimony are substitutable 
+and whether they would constrain prices. I don't know the 
+answer to that. Mr. Biggio doesn't know the answer to that. 
+That is obviously the case----
+    Ms. Lofgren. I am sure nobody on the Committee knows the 
+answer to that.
+    Ms. Sohn. That is the case that Mr. Karmazin and Mr. 
+Parsons are going to have to make to the antitrust authorities.
+    Ms. Lofgren. I will yield back, Mr. Chairman, the time. 
+Again, I appreciate your leadership in establishing this new 
+Task Force and I appreciate being a Member.
+    Mr. Conyers. I thank the gentlelady.
+    We now turn to the distinguished former Chairman of this 
+Committee for so many years, Mr. James Sensenbrenner.
+    Mr. Sensenbrenner. Thank you very much, Mr. Chairman.
+    Let me start out my questions with two premises. First, in 
+1997 when the FCC licensed spectrum for satellite radio, they 
+placed a condition on their license that there had to be more 
+than one provider or more than one licensee. So at that time my 
+belief is that the FCC made a policy decision that other 
+mediums of transmission were not necessarily the exclusive 
+competition, but that there had to be competition between more 
+than one licensee for satellite radio.
+    Then 4 years later, the two largest satellite TV 
+broadcasters, EchoStar and DirecTV, proposed a merger. We had a 
+hearing in this Committee where the CEOs of both of those firms 
+came to testify. There was concern that was expressed at that 
+point in the Committee that this was monopolistic in nature. 
+And that merger was rejected.
+    Now, given the fact the FCC stated the ground rules that 
+you need to have two or more satellite radio providers and that 
+they rejected a merger of the two biggest satellite TV 
+providers into one, what is different here?
+    Mr. Karmazin?
+    Mr. Karmazin. A whole lot.
+    So, first of all, we obviously are going to need to make 
+the argument to the FCC that what was talked about 12 years 
+ago, which found its way into a statement 10 years ago, is just 
+not relevant today in the competitive marketplace. So we have 
+to make that argument and we will see if we prevail.
+    Mr. Sensenbrenner. But there was competition then, too, at 
+least with terrestrial radio, and the FCC didn't look at that. 
+They said you had to have two satellite broadcasters.
+    Mr. Karmazin. And, sir, that was because there was no 
+Internet radio then. There was no HD radio then. There was no 
+iPod then. There were so many more things that came along in 
+addition to terrestrial radio----
+    Mr. Sensenbrenner. My wife, she subscribed to XM. That 
+apparatus is in her car, so she listens to XM in her car. Now, 
+I would be pretty worried if she was playing on the Internet or 
+playing on her iPod while trying to access this type of 
+entertainment in the car. Real worried about that.
+    Mr. Karmazin. But let me tell you, there are receivers that 
+are--and we saw them at the Consumer Electronics Show and they 
+exist today, not hypothetical--that are radios that enable you 
+to get the Internet just like you have a satellite radio that 
+enables you to get the satellite.
+    But, again, I understand your point. It is there. We 
+understand that it is an issue that we need to deal with the 
+FCC.
+    But let me talk about the Echostar-Direct one, because that 
+one is just totally on the opposite side.
+    If you take your consumers in your area, I would say close 
+to 100 percent of those people get their television from either 
+a cable or satellite provider. They are not getting it with 
+rabbit ears and they are not getting it over the air. So the 
+idea of what the market looked like in the EchoStar--and I am 
+not an antitrust lawyer. But in the idea of EchoStar and 
+DirecTV was you had a cable company you paid for. You had 
+EchoStar you paid for. And you had DirecTV you paid for. So it 
+was three people going down.
+    In this case, the vast majority--the vast majority--over 90 
+percent of the people flip the other way. They get it from free 
+over the air radio, in every single home, in every single car. 
+So you have free over-the-air radio there. So this one is not 
+like cable or satellite.
+    Mr. Sensenbrenner. I have only got a minute left, so 
+reclaiming my time, utilities have been regulated monopolies. 
+There have been State utility regulations commissions in all 50 
+States. And that model ended up being determined not to be good 
+public policy in practically every State in the union where 
+there was utility deregulation. Some have had disastrous 
+consequences, like California, and in other States it has 
+worked out fairly well.
+    What you appear to be advocating is to make your merged 
+company somewhat akin to an old regulated gas company, and I 
+don't see where the consumer ends up benefiting in that because 
+the regulated utilities of old ended up being guaranteed a rate 
+of return on their investment. And I don't think that is the 
+kind of model that we policy makers want to sign off on because 
+we have already rejected that in other areas where regulated 
+utilities have been.
+    Mr. Karmazin. And what you said we are looking at is so far 
+from the truth at all. We are not saying we are going to be a 
+monopoly. We are not saying we are a monopoly.
+    Mr. Sensenbrenner. But you are a monopoly.
+    Mr. Karmazin. We are absolutely----
+    Mr. Sensenbrenner. You are going to be a monopoly.
+    Mr. Karmazin. We are absolutely not a monopoly. I mean, the 
+idea is, if you are saying you believe that the radio is----
+    Mr. Sensenbrenner. Just one provider of the service is a 
+monopoly.
+    Mr. Conyers. The gentleman's time has expired.
+    Let me turn now to the gentlelady from Texas, Ms. Sheila 
+Jackson Lee.
+    Ms. Jackson Lee. Mr. Chairman, let me thank you very much 
+for what I think is an enormously wise decision to really shine 
+the light on a series of mergers.
+    And in order to be fair to Mr. Karmazin, to not call it 
+monopoly, but I might just say that the word has been used. And 
+I think we have to be frank with each other.
+    It seems unique, but I would be part of the political 
+constituency or elected officials that really wants more 
+opportunities in the media for people to have sources of 
+information. I frankly think merged newspapers, single-town, 
+single-newspaper cities--certainly we know that newspapers are 
+competing against Web sites and otherwise. But still, I think 
+we lose. I think the first amendment loses.
+    So I raise that concern, and I thank the Chairman for his 
+enlightenment on allowing us to have this opportunity for 
+transparency.
+    Might I also indicate very quickly that I think the 
+Chairman has asked a very vital question: What is a critical 
+market? And I raise these points because as I ask questions, 
+one of the witnesses, I think, made the point that this seems 
+to be too soon after the initial licensing that has occurred. 
+And therefore it doesn't give time for there to seem to be some 
+settling.
+    The Texas broadcasters are walking around, and Mr. Rehr may 
+have created that presence. I saw one walking in the hallway. 
+They were political enough and astute enough to just give me a 
+warm greeting.
+    So I want to know that XM and Sirius are not biased. They 
+didn't bother to try to create a bias in my mind.
+    But let me try to pose these questions, particularly to 
+you, Mr. Karmazin, and I have given you the backdrop of my 
+concern.
+    To Mr. Biggio, I think you sound like the baseball player 
+in Houston, so maybe you are related to him. But I frankly 
+don't think I want to leave the professionals only to this 
+task, the FCC lawyers and Department of Justice lawyers. I have 
+disagreed with them before. And their regulatory framework may 
+not be what I think gives good overview of what may possibly 
+happen.
+    And my bottom line is that you extinguish, you eliminate, 
+you cease and desist for the wide vastness of information. I 
+think that is key.
+    I am going to give you an opportunity to respond to that 
+and the transparency question, meaning that we should have as 
+much airing and hearings on this as possible. Then I am going 
+to get to the meat of my concerns, and that is that all of 
+these mergers, and in fact, all of these existing media 
+entities--and if we were to go into the NFL, baseball and 
+others, if we were to go into as my good friend from Wisconsin 
+talked about, utility companies, et cetera, it is a closing 
+down of opportunity. And one of the contingent groups that you 
+close down the opportunity to--and I don't think Sirius and XM 
+have been any shining star--it is diversity.
+    You are not diverse, I believe, as you exist today. And the 
+question is what opportunities would be available once your 
+merger occurred for a minority ownership. My view is that the 
+participation would be reduced because you become a single 
+entity. And together, now, you have shown no interest in that.
+    I have a little station that is FM low-power that is 
+struggling in the community. The question would be whether 
+there would be some vehicle to allow those stations to have 
+content, to sell content, you sell it back and whether it would 
+be, if you will, economical, or at least reasonable, that the 
+little base of listeners that they have could even pay.
+    So let me yield to you and have you pointedly tell me about 
+how what you are planning on doing doesn't dumb down diversity. 
+African-Americans, Hispanics, Asians, women and others, as 
+opposed to up lift. And what is your record today, which I 
+don't perceive that you have a record that is strong enough to 
+convince me.
+    Mr. Karmazin. Well, Congresswoman, firstly, I understand 
+that there is a general tone that no mergers are good mergers. 
+There is no such thing as a good merger. And probably 
+consolidation in the media world has been so poor to date that 
+no merger is good.
+    So if, in fact, the regulators and Congress does not allow 
+our deal to go through, that is the choice. So the consumer 
+will then go from not having any price competition that we are 
+offering, not having any price advantage and also not having 
+the choice, and not being able to get baseball and the other 
+service. So that is a possibility----
+    Ms. Jackson Lee. Did you hear me on the minority question?
+    Mr. Karmazin. I did. But you also mentioned at the 
+beginning the idea of the merger and the idea.
+    On the idea of the minority, I think my track record is 
+extraordinary on diversity in my whole career, and I think that 
+I can--if you are interested----
+    Ms. Jackson Lee. I am.
+    Mr. Karmazin. I can provide you with a whole lot of 
+information, including being the person who started when 
+Chairman Kennard was at the FCC, this whole minority 
+investment, and I was personally a large contributor and also 
+my companies have been large contributors.
+    Ms. Jackson Lee. But you be inclined to do more?
+    Mr. Karmazin. I believe there is always room for more. I 
+believe that our service is not doing as good a job as we 
+could. But I can't tell you who is doing as good a job as we 
+could.
+    I can tell you that we have a number of channels that are, 
+you know, catering to the Hispanic market, to the gay lifestyle 
+market, to the African-American market. I think that if in fact 
+we didn't have to keep duplicating each other's services for 
+competition reasons, that we can have more choice available for 
+more niche programming and more opportunities.
+    So I don't want to make any promise because I will only be 
+called ``you will do anything to get the deal approved.'' So 
+you are damned if you do, damned if you don't. If I say I want 
+to do things, it is because of the merge. If I don't say I am 
+going to do it, it is because I am not cooperating.
+    Ms. Jackson Lee. But you are in the light of day. So you 
+are saying it publicly, so that is good.
+    Mr. Conyers. The gentlelady's time is expired.
+    Ms. Jackson Lee. Thank you, Mr. Chairman.
+    Mr. Conyers. And we turn now to the distinguished gentleman 
+from Virginia, Mr. Goodlatte.
+    Mr. Goodlatte. Mr. Chairman, thank you very much.
+    I would like to ask all of you to start out, tell me, is it 
+a coincidence that XM and Sirius charge the same rate for their 
+services now?
+    Mr. Karmazin?
+    Mr. Karmazin. Well, we started our service 5 years ago and 
+the price was $12.95 then and we have not raised our price.
+    XM started its service at $9.95 and chose to raise the 
+price because of the cost of content. I could tell you that the 
+reason that they are both at $12.95 and not at $14.95 or $15.95 
+or $16.95 is that we are competing with free.
+    It is hard to get subscribers when you are charging $12.95. 
+It is harder to get subscribers when you are charging $14.95. 
+So the idea of having higher prices the way it is now doesn't 
+work because what we are competing with is not each other. If 
+we had every one of their subscribers, okay--again, not 
+poverty, just facts. We have lost $3.8 billion so far. Okay. So 
+far. That is our business plan. That is the way it works.
+    The idea of us raising prices without any cost--the cost 
+savings is going to limit our ability to get subscribers. I 
+mean, it is just real math.
+    Why would people not be subscribing in enough numbers at 
+$12.95, but they would at $14.95?
+    So there are synergies in this deal. There are 300 million 
+or so that analysts have said that you could save each year. 
+What we are saying is if there are synergies in the deal, we 
+can take a chunk of the synergies and provide it to the 
+consumer if the merger is approved. If it is not, the companies 
+will continue to be able to price--there is no discussion on 
+our parts. I mean, they don't call me, we are not allowed to 
+talk to each other. All right.
+    So the fact is that the prices could go up after the 
+merger, it may not go up after the merger. I could tell you if 
+the merger is approved, they won't go up.
+    Mr. Goodlatte. Mr. Rehr?
+    Mr. Rehr. I think that, first off, it is coincidental that 
+it is the same price and whether it is price mechanisms in the 
+market determining that price or not, I don't know.
+    But I think there needs to be a distinction between this 
+argument being made that we are competing against free and 
+therefore we can't raise prices. If in fact it is a duopoly 
+that has a distinct market of people who are willing to spend 
+money to buy a nationwide multi-channel audio programming, it 
+is the price elasticity that those people will face that will 
+determine whether that price goes up or down.
+    Am I willing to pay 50 cents more when there is a monopoly? 
+Perhaps. Maybe a dollar? I mean, you can't raise the price to 
+$100 a month and get people to sign up.
+    Mr. Goodlatte. But presumably both of these companies would 
+be charging more right now if they could get more.
+    Mr. Rehr. Well, I think that is also a value proposition, 
+quite frankly. I think that they would----
+    Mr. Goodlatte. Mr. Cooper?
+    Mr. Cooper. Well, you know, the interesting thing is we 
+have sat here for 2 hours and no one has suggested these 
+companies might have lowered their prices to increase 
+subscriber ship.
+    He has talked about, well, it is $12.95. We could go to 
+$15. Why not $6.95 and quadruple your subscriber ship? If you 
+do the math, he would have a lot bigger cash flow.
+    These are companies that pick very high prices and very big 
+bundles and said we are going to do the cable model, thank you, 
+and that is the way we are going to make our money.
+    In the Internet space, it is called promotion pricing. 
+People price low to get subscribership and spread those costs. 
+This is a management decision. In competitive markets, prices 
+tend to be uniform. In duopoly or monopoly markets they tend to 
+be uniformly high.
+    And now we said after 10 years, well, if you let us merge 
+to a monopoly, now we will lower our prices. They have never 
+competed on price. They have never seen the benefit of cutting 
+their price in half to quadruple their subscribership.
+    Mr. Goodlatte. Well, maybe they have or maybe they haven't 
+competed on price----
+    Mr. Cooper. Well, they haven't shown it in the marketplace.
+    Mr. Goodlatte. Well, I am not sure I disagree with you, Mr. 
+Cooper, but let me ask Mr. Karmazin.
+    You have described all these other things that you compete 
+with. But quite frankly, in that respect, you compete with 
+almost anything. The only entity that you compete with right 
+now on the wide array of radio services that you offer is XM 
+Satellite Radio. I am an XM subscriber. I am sorry to say I 
+like baseball better than football or maybe I like Oprah better 
+than Howard Stern. I don't know.
+    But in any event, I have had those choices and I have made 
+that choice. And it is a great service. I also listen to my 
+local radio stations. I also listen to my iPod. I would bet 
+that the overwhelming majority of your subscribers are 
+listening in their cars. So that limits the universe of what 
+you can actually listen to.
+    But nobody else other than your two satellite companies 
+offer the wide array of things like those that were describe by 
+Mr. Keller and by others here, that you just cannot find on 
+iPod or on your local broadcast radio station.
+    So why, when we eliminate one of the two competitors here, 
+aren't we going to see a spike up? Yes, there is a limit to how 
+much you can raise your prices, but I believe prices are going 
+up if you are the only one in town.
+    Mr. Karmazin. Well, I have assured you and we have 
+discussed that before, that we are prepared to commit that they 
+won't.
+    So, I mean, you can sit there and say they are, and we are 
+saying that they are not. And we are willing to commit to it.
+    But let me tell you, there is nothing that we are doing, 
+you know, insofar as music choices. There is Major League 
+Baseball that is available on your over-the-air radio station.
+    Mr. Goodlatte. Not the Boston Red Sox where I live.
+    Mr. Karmazin. So, therefore, the idea that you could pick 
+up the Boston Red Sox and the New England Patriots on the same 
+radio has to be something if you were to say no to this deal 
+that you are hurting the consumer.
+    And right now if you want to get the New England Patriots 
+and you want to get the Boston Red Sox, you pay $25.90. Okay? 
+And that may be the way you want it to be.
+    Mr. Conyers. The gentleman's time has expired.
+    I am pleased now to recognize the gentlelady from 
+California, Maxine Waters.
+    Ms. Waters. Thank you very much, Mr. Chairman.
+    I would also like to thank our witnesses who are here 
+today.
+    I come to this hearing not necessarily opposed to your 
+merger, but wondering what does it really mean in terms of 
+participation in ownership by minorities.
+    First, let me understand, who owns, for example, Sirius 
+Satellite Radio.
+    Mr. Karmazin. Both Sirius and XM----
+    Ms. Waters. Sirius, I am sorry.
+    Mr. Karmazin. No problem.
+    Sirius and XM are publicly owned companies. None of them 
+have a controlling shareholder. Both companies are listed on 
+NASDAQ. And in the case of Sirius, we have, you know, a 
+billion, 700 million shares outstanding. In the case of XM, 
+they have 330 million shares. A lot of the institutions, the 
+traditional owners of stocks, own the companies.
+    Ms. Waters. Well, as you know, African-Americans and people 
+of color have an awful difficult time accessing the media. You 
+don't see us on the Sunday talk shows, on corporate television, 
+and we depend a lot on radio. And we particularly depend on 
+African-American-owned radio. Whether it is Ms. Hughes's 
+station, Radio One, or Stevie Wonder out in California, we know 
+that they have the kind of programming that we can get on, we 
+can talk to our constituents, and we depend so much on it.
+    My only interest is whether or not we are advantaged or 
+disadvantaged by this merger.
+    Mr. Karmazin. I agree with you. I think that the 
+broadcasters that you mentioned, particularly Radio One, has 
+done an extraordinary job and I have been in the radio business 
+an awful long time. And they have consistently--Cathy Hughes 
+has consistently done a terrific job.
+    The thing that I can say to you is that we currently--and 
+don't get me--if I get the number exactly wrong--I think each 
+of our services have five or six channels that are specifically 
+devoted to the African-American market.
+    And by the way, those services are available in every 
+market in the United States, rural markets, urban markets.
+    So the benefit of satellite radio and having a healthier 
+satellite radio, in my opinion, is that there is a platform 
+that gets you not just into the markets where there is a large 
+African-American population and somebody could have a station 
+there, but it gets you into markets where you couldn't support 
+an African-American radio station and there is none now.
+    So the fact that we are providing that, I think, is a 
+service to the community.
+    Ms. Waters. Could you describe that kind of programming so 
+that I could try and identify with it now and know what exists 
+now?
+    Mr. Karmazin. I am not the expert on programming. We can 
+offline get you information. But we have talk and public 
+affairs programming dealing with it as well as entertainment.
+    We just--and again, I know I am going to get into trouble 
+by saying this, but we had a conversation with Jamie Foxx about 
+doing a channel for us, which he is going to do, called The 
+Foxx Hole. And the purpose of that channel was to provide urban 
+comedy, you know, on a national basis. And he has agreed to do 
+it and we will start that channel in April.
+    So there is a spectrum ranging from music, ranging from 
+talk, ranging from other types of content. But we can get you 
+the specifics if you would like to.
+    Ms. Waters. You have talk radio and you have news also that 
+is targeted to these communities?
+    Mr. Karmazin. I can't say that we have news, because what 
+we do is we pick up the traditional services. So the news that 
+we currently have, you know, are the Fox News and CNN News and 
+Headline News and MSNBC is on there. So there is no 
+relationship.
+    XM has had a relationship with BET. XM has a relationship 
+with Radio One today, that Radio One, Alfred Liggins that Cathy 
+Hughes are programming a number of channels that exist on that 
+service.
+    There are some things that we have had conversations with 
+them about, not related, you know, to this conversation, but 
+about doing more programming along those lines.
+    Ms. Waters. Okay. Thank you very much.
+    Mr. Chairman, I will yield back the balance of my time.
+    Oh, just one moment, if I have some more time. I just got 
+some information.
+    Now, as I understand it, Mr. Karmazin, you were the CEO of 
+Viacom. You purchased BET. Is that right?
+    Mr. Karmazin. Mr. Johnson will tell you that I felt that 
+the name of the team should be the ``Mel Cat,'' not the 
+Bobcats, with the money that he got from the merger.
+    So yes, I did buy----
+    Ms. Waters. But I guess the question is this. This is 
+serious stuff. That after you purchased it, the first thing 
+that you did was to eliminate the news and public affairs 
+programming on BET.
+    Mr. Karmazin. That is blatantly not true, and Bob Johnson 
+and Deborah Lee will tell you that Mel Karmazin nor Sumner 
+Redstone, who is at Viacom, had anything to do with it.
+    As a matter of fact, we encouraged them to expand, and you 
+can find out that we absolutely did--they made a programming 
+decision on a personality that got a lot of attention. But Bob 
+Johnson would never, ever have us interfere.
+    One of the conditions of our buying BET was that he stay in 
+Washington, D.C., because he was committed to the district, 
+that the operation not be merged into Viacom, that he be the 
+CEO reporting into directly to me so there was nothing else.
+    Now Deborah Lee has that same position in the company.
+    So no, I have not eliminated news. As a matter of fact, my 
+history has been that I have expanded news.
+    Ms. Waters. But you know that there are----
+    Mr. Conyers. You are finished, Ms. Waters.
+    Ms. Waters. Thank you. Thank you.
+    Mr. Conyers. Thank you so much.
+    Mr. Cannon from Utah?
+    Mr. Cannon. I thank you gentleman.
+    We had the biggest copper mine in North America, the CEO 
+was in the other room and I had to meet with him for a minute. 
+And copper is good these days, I might point out.
+    Let me ask Ms. Sohn one question, just following up on your 
+testimony.
+    Can you give a little more detailed about what you would 
+like to do with the a la carte option? You know, you have just 
+under 300 channels. At $15, we are talking, like, 5 cents a 
+channel if you did it that way.
+    In your testimony you talked about categories of channels. 
+How would we ever create the guidelines or conditions that 
+would work on that?
+    And then, Mr. Karmazin, if you would follow up, is it 
+possible with your current equipment or your perspective 
+equipment to have an a la carte technology that would work?
+    Let us start with Ms. Sohn first and then come to you.
+    Ms. Sohn. I will have to admit I don't have a very detailed 
+analysis. I would be more than happy to provide it to the Task 
+Force.
+    I will give you an example. I am an XM subscriber and I 
+don't listen to the talk. Occasionally I take in a Met game. I 
+am a huge Mets fan. But I would rather just pay for the music. 
+That is what I listen to.
+    At a bare minimum, I know there are issues around providing 
+individual channels. That, obviously, is a consumer advocate's 
+dream, that you could basically pick and choose. And I would 
+like to hear Mr. Karmazin's response as well.
+    But at a bare minimum, you should be able to pick tiers. 
+You know, if I just want music, I should be able to pay for 
+that and pay less.
+    Mr. Cannon. I really love the idea of a la cart. I know the 
+cable companies are not going to like that.
+    Ms. Sohn. So do I
+    Mr. Cannon. But at some point I would love to see that 
+happen and with----
+    Ms. Sohn. It should happen in cable as well.
+    Mr. Cannon. Mr. Karmazin, could you talk about what the 
+technological limits are on what you have. Would it be possible 
+to go to a per channel a la cart?
+    Mr. Karmazin. I do not believe so, for lots of technical 
+reasons. I don't want to use up all your time, but I am not 
+trying to duck the question. I will be happy to spend time with 
+it.
+    You know, there is no set-top box in your vehicle that has 
+a radio in it. So the idea of being able to have a back channel 
+to be able to tell that radio exactly which channels are there 
+becomes problematic.
+    Mr. Cannon. So currently you probably can't do it. Could 
+you do it with some tiers?
+    Mr. Karmazin. I think we can accomplish what I am hearing, 
+which is today if you want to get a portion of our service, 
+because you really like baseball or because you like the music, 
+and I have heard both viewpoints, you have to buy $12.95.
+    So what we have said is that we think that one of the 
+benefits of this merger, because it does provide synergy--it 
+will lose revenue. I mean, if we say that at the most for a 
+Sirius subscriber, the most we will get is $12.95, no scenario 
+where we are raising that price, now what we are also saying is 
+that we will provide the consumer with a choice to be able to 
+get satellite radio for less than----
+    Mr. Cannon. But do you have the technology to do that? In 
+other words, when the person buys the radio, would you limit 
+the channels that it could receive at the time of sale? How 
+would you do it?
+    Mr. Karmazin. We have the ability to do a--I am using what 
+the witness talked about, call it tiers. We call it choices or 
+bundles or something. We have the ability of offering a number 
+of bundles.
+    But, remember, 43 cents a day, 130 channels, less than 10 
+cents a channel. Nobody has written a letter to their Congress 
+person--and we have asked--we know that you have heard from 
+your constituents on the high cost of their TV bills, their 
+cable TV bill or their satellite bill. We haven't found one 
+person who is saying that the $12.95, or 43 cents a day, is too 
+high in price.
+    What we are saying is, you know what, we will make it 
+lower.
+    Mr. Cannon. I have a couple of other questions, one for Mr. 
+Rehr.
+    This has been an awfully personal attack kind of hearing. I 
+have been a little surprised. A little earlier you were accused 
+of parsing your words and you seemed anxious to respond to 
+that.
+    Do you recall? Mr. Cooper was talking about how you parsed 
+your words? You can respond or not if you wish.
+    Mr. Karmazin. I mean, I do feel that way. Because, as I 
+said, all we are asking for is to go through the regulatory 
+process, right? I mean, we are not asking for anything. We are 
+not sort of doing something wrong. We are American citizens, we 
+are business people.
+    All we are asking for is if there is a Hart Scott Rodino 
+filing that is due, we are going to make it. If there is an 
+application to the FCC, we are going to do it, and we are going 
+to vent this thing and people will have a choice.
+    But, you know, to sit there and tell me what my motives 
+are, I mean, I just don't like hearing it. But I am a grownup, 
+I can handle it.
+    Mr. Cannon. Mr. Rehr, let me just ask this. Mr. Boucher 
+made the point that your being here, your presence is evidence 
+that the satellite companies compete with broadcasters.
+    Is that a fair point that he made? He didn't ask for a 
+response on that, but I would like one. Is that a fair point? 
+And if you are here because it is competition, shouldn't that 
+be taken into account as we look at what constitutes the 
+market?
+    Mr. Rehr. Yes. I think it is fair that we compete with a 
+nationwide multi-channel audio programming company. I think in 
+Salt Lake City, the Bonneville stations compete against 
+satellite radio companies Sirius and XM.
+    However, as I talked about a little earlier when you were 
+out of the room, Bonneville companies do not compete on a 
+nationwide basis. So it is a little complicated, but it is 
+really one directional competition as opposed to a market where 
+you are constantly competing against each other on every 
+aspect.
+    I hope that makes sense.
+    Mr. Cannon. I understand it.
+    Thank you, Mr. Chairman. I recognize my time is expired, 
+and so I yield back what time I don't have.
+    Mr. Conyers. Thank you so much.
+    We now turn to the gentleman from Tennessee, Mr. Cohen.
+    Mr. Cohen. Thank you, Mr. Chairman.
+    I am at a little bit of a loss. I am pleased to hear all my 
+senior Members get a chance to listen to all this radio. 
+Because I am basically just on the phone talking to my 
+constituents.
+    And I am a little--did you really pay $80-million-something 
+to Howard Stern?
+    Mr. Karmazin. Absolutely.
+    Mr. Cohen. That is rather obscene, isn't it?
+    Mr. Karmazin. Let me tell you, it is an awful lot of money. 
+But if I were in terrestrial radio, where I spent a long time--
+--
+    Mr. Cohen. You are in extraterrestrial radio?
+    Mr. Karmazin. I am in extraterrestrial radio.
+    Mr. Cohen. Yes. He is an extraterrestrial character, isn't 
+he?
+    Mr. Karmazin. In my opinion, I would have paid him that 
+same amount of money. And had their current company paid him 
+that same amount of money, they would have made $70 million on 
+top of what they would have paid him based on their financial 
+results since he left.
+    So the marketplace dictates how much money you pay the NFL 
+and how much money you pay Major League Baseball and how much 
+money you pay talent. And in the case of Howard Stern, he was 
+paid what the market warranted, and we were fortunate enough to 
+be the one that paid it to him.
+    Mr. Cohen. But you are basically competing with the folks 
+at XM to hire these Howard Sterns, or whatever, because you all 
+are bidding to get these big names to get people to subscribe 
+to you.
+    Mr. Karmazin. No, I think, Congressman, I just said to you 
+that we are competing with terrestrial radio, because who we 
+hired Howard Stern from was a large radio company, not XM.
+    We are competing--because if Howard Stern were offered more 
+money to go to work at Clear Channel or Infinity Broadcasting 
+or CBS, I am convinced that Howard would go there. So, no, I 
+totally disagree with you, sir.
+    And the idea of having--people go into their local market, 
+whether it is Salt Lake City or wherever, and they listen to 
+their radio. The idea of it is a national service, I mean, 
+whether or not it is Rush Limbaugh, who is on in every market, 
+you know, who is on 800 stations, or Sean Hannity, the idea 
+that we are not competing with terrestrial radio is just not 
+credible.
+    And as a matter of fact, just one point on that subject. If 
+in fact what they are saying is true, that they don't compete 
+with us, then every one of these public companies have lied to 
+the SEC, because in every one of their filings to the SEC, 
+under the regulatory portion where it says competition, it says 
+they compete with satellite radio. And I don't believe these 
+broadcasters, who are good broadcasters, would like to the SEC 
+when they said that they compete with satellite radio.
+    Mr. Cohen. Do you compete at all? I mean, Mr. Stern gave 
+you a headline for your station, star performer, and that maybe 
+got you to get some subscribers, the people that were hooked on 
+him, he was their jones, and you got him. And the only other 
+person who would have had that attempt would have been Sirius. 
+Don't you all compete for the NFL? I guess you don't compete 
+for the XFL. Nobody does. But for the NFL?
+    Mr. Karmazin. Well, yes, we compete with terrestrial radio 
+as well. So, I mean, as an example, right now, Rush Limbaugh is 
+on terrestrial radio. One could argue, would we. The answer is 
+we are not. I am not discussing it, not that it would be bad. 
+All I am saying is that if we chose to hire Rush Limbaugh, we 
+would be competing with terrestrial radio because he is on the 
+800 radio stations.
+    We are not competing with XM. The market is too small, sir. 
+If we got all of their subscribers, if we got them all, okay, 
+the market would still not be significant enough to pay for the 
+fixed costs of operating the business. So the only business 
+model that works is us to be able to get more subscribers. And 
+the way you get more subscribers when you are dealing--
+particularly when you have the money now available through some 
+synergies, to be able to offer lower prices.
+    We are not looking to bankrupt our company and we are not 
+going to do something that is going to bankrupt our company. We 
+have too many shareholders, too many employees, and we are not 
+going to do something that is stupid. And the idea of just 
+saying, well, you have these high fixed costs, you know, you 
+have these high fixed costs, lower your price.
+    We are saying no, we are not going to do that. But if there 
+is a merger and there is savings created, we will give back a 
+percentage of that savings to the consumer.
+    Mr. Cohen. Well, I wish you all a lot of luck. I don't know 
+too much about this.
+    XM had a little party when they opened up on the Potomac 
+River. And I went over there, my friend Warren Zevon hooked me 
+up with some lady friend and we went over there and I bought a 
+little----
+    Mr. Cohen. And I bought a tiny amount of stock and I sold 
+it, too. So I am happy you all are doing well because it was my 
+tax loss that year.
+    Mr. Conyers. We now turn to the gentleman from Virginia, 
+Mr. Forbes.
+    Mr. Forbes. Thank you, Mr. Chairman.
+    I want to thank all of you for being here today and your 
+patience. I wish we had time to listen to each one of you and 
+ask you some questions, because you have got such good 
+experience and insight.
+    But a lot of times when we are dealing with our 
+constituents, we are talking to them at the McDonald's, Sunday 
+school class somewhere, and they just have simple questions. 
+And sometimes it gets frustrating.
+    I know I had, just trying to work through a phone 
+conversation with one of your two companies, I won't say which 
+one, I felt at the end of it like I just wanted to pick my 
+phone up and throw it out the door.
+    And the question I would have that I think some of them are 
+going to ask us is, if you merge these two companies, you have 
+certain programs, XM has certain programs. Are you going to 
+keep all those programs or are you going to cut some of them?
+    Mr. Karmazin. So, our vision of the way it would work is 
+that if you are an XM subscriber, you have the Major League 
+Baseball, you have whatever number of channels available to you 
+now.
+    What we contemplate is that we would take some other 
+content, and again we have to work with our content partners. 
+But the hope would be that we would get NASCAR to agree to be 
+on XM as well. We will get the NFL to agree to be on XM as 
+well.
+    We currently have a deal with NPR and XM has a deal with 
+somebody else that is not NPR that we would hope to offer.
+    So the radios are not obsolete, nothing lost. They get 
+everything that they are getting now. They get the same 
+channels that they currently are getting and we will use 
+additional capacity that each company currently has to be able 
+to share content.
+    And that is where we get to the more choice.
+    Mr. Forbes. So you wouldn't envision cutting any of the 
+existing programming that you have now?
+    Mr. Karmazin. We think that that would result in 
+disappointing the consumer. We are charging them $12.95. If in 
+fact we disappoint them, that sounds to me like we are going to 
+get less subscribers, not more, and that is not the purpose of 
+wanting to do the merger.
+    Mr. Forbes. Now, the vehicles that, you know, we have some 
+on car lots that are XM, some Sirius right now in their radios. 
+How would it work that they would continue to be able to use 
+those radios? Would they have to do anything to change that? 
+Would they continue to be able to use the same ones and still 
+have the same programming options that either one would have?
+    Mr. Karmazin. Yes. And that is the argument that we have 
+made and the conversations we have had with our OEM partners 
+who make these car radios and that there are all these radios 
+in the cars. And we certainly are not looking to disappoint the 
+customer.
+    So if you have a Ford vehicle that has Sirius Satellite 
+Radio in them, you will not have to do anything else, okay, 
+after the deal--assuming the merger were approved. That if, in 
+fact, the merge were approved, we would be able to provide them 
+with more content through some of the XM content.
+    Mr. Forbes. And just the last two questions. As I know you 
+can appreciate, if we tell our constituents they are going to 
+get interoperability in their radios and then we say they have 
+them, but they just can't afford them, they kind of scratch 
+their head to that and say it doesn't do them any good.
+    And sometimes we make promises, even with good intentions, 
+that we can't keep.
+    What is the enforcement mechanisms if we are wrong? What 
+happens if the prices do go up? What happens if they have less 
+choice? What are the enforcement teeth that stop that from 
+happening, because we apparently haven't had a lot in some of 
+these other problems.
+    Mr. Karmazin. And, again, what we are saying is that they 
+have the radio currently so that it is not obsolete. So they 
+get more choice coming out of that radio without having to buy 
+a more expensive receiver.
+    What the mechanism is to make sure we live up to our 
+promises, I will leave to the regulators. But I am willing to 
+say we should be held accountable for everything I have said 
+here and everything that I will say when we meet with 
+regulators and we meet with people throughout this process.
+    This isn't ``trust me.'' This is about we should be held 
+accountable. And I have got to believe that within the 
+infrastructure of the Government or however it is done, we 
+should be able to be accountable.
+    Mr. Forbes. Mr. Chairman, I see my time is expired. I yield 
+back the balance.
+    Mr. Conyers. I thank the gentleman, and recognize the 
+gentleman from New York, Mr. Anthony Weiner.
+    Mr. Weiner. Thank you, Mr. Chairman.
+    First of all, Mr. Karmazin, let me apologize on behalf of 
+everyone for the many pronunciations of your name you have 
+heard today.
+    But I do want to tell you on the subject of names, if you 
+guys name this S&M Radio, I am off the reservation. I am just 
+not signing up. [Laughter.]
+    Can I ask you just a couple of very brief foundations 
+foundational questions?
+    Mr. Rehr, do your member stations compete with Mr. 
+Karmazin's product?
+    Mr. Rehr. They do, yes.
+    Mr. Weiner. All right. Do your member stations play music, 
+have music on some of them?
+    Mr. Rehr. Yes, 13,000 radio stations, yes.
+    Mr. Weiner. Mr. Karmazin, do some of your broadcast 
+stations have music?
+    Mr. Karmazin. Yes, sir.
+    Mr. Weiner. Mr. Rehr, do some of your broadcasters have 
+talk?
+    Mr. Rehr. Yes.
+    Mr. Weiner. Mr. Karmazin, some of your stations have talk?
+    Mr. Karmazin. Yes, sir.
+    Mr. Weiner. Mr. Rehr, do some of your stations have sports?
+    Mr. Rehr. Yes.
+    Mr. Weiner. Mr. Karmazin, do some of your stations have 
+sports?
+    Mr. Karmazin. Yes.
+    Mr. Weiner. I would like to ask the panel to oblige me by 
+stop throwing around the word ``monopoly'' when just about 
+every explanation of competition has been stipulated to over 
+and over again throughout this thing.
+    And while it might serve to send shivers into the spine of 
+regulators, it doesn't have much effect if it has no foundation 
+in the realities in the world today. In fact, it is hard to 
+imagine how you can describe satellite being a monopoly when 
+they have no ability to exercise monopoly power in any 
+meaningful way.
+    Can they stop someone else from getting into the 
+marketplace? First of all, what moron would want to get into 
+that marketplace?
+    Do they have the ability to, in an unfettered way, raise 
+prices? Well, in fact, the competition that they have, as you 
+yourself said, is with your stations, who are charging zero 
+dollars and zero cents, very often for the same or very, very, 
+very similar products.
+    So this notion that we are having a hearing about monopoly 
+power is wildly exaggerated, particularly when you leave out 
+the one most fundamental thing. Nobody needs to have a radio. 
+No one needs to have this product. And, in fact, increasingly, 
+it is anachronistic.
+    You know, it was mentioned by somebody, I think Mr. 
+Sensenbrenner, about how he doesn't want someone tinkering with 
+their Internet while they are--well, frankly, he doesn't 
+realize that 50 percent of all cars rolling off the production 
+line have an mp3 jack. And 100 percent of all computers have 
+access--that have access to the Internet, can download content 
+in the form of podcasts that is just like the comedy that Mr. 
+Keller likes to get, just like the controversial talk that some 
+people like to get.
+    And I have to tell you, I am stunned by how many people 
+have satellite radio in this room. I don't understand--I mean, 
+God bless you, Mr. Karmazin, I hope you are successful, but I 
+don't understand. Increasingly, it is tougher and tougher for 
+any radio to compete.
+    Here is the things that I think we do need to learn. We 
+made a mistake in the Echostar-DirecTV question. Mr. Rehr used 
+it as an example. I think today satellite TV production and the 
+competition that was supposed to come by keeping them apart has 
+suffered.
+    The gentleman, Mr. Cooper, has talked about how he were 
+right then. You know what? Maybe if we had let those two merge 
+back in 2002, we would have that promised broadband access 
+going through the satellite that we thought we were going to 
+have. We don't have it.
+    You know, sometimes mergers serve to help an industry and 
+help choice move forward. And I have to tell you, if this 
+notion that concentration is bad--Mr. Rehr, do you believe the 
+concentration is inherently bad? Take a look at Clear Channel. 
+Take a look at the number of communities that have less choice 
+in terrestrial radio.
+    Arguably, if you want to compete with Mr. Karmazin and win, 
+you should be as much against concentration among your members 
+as you appear to be on this panel. This is a new world we are 
+living in. No longer is it can we be sanguine to say that, 
+well, we don't have anything that when people get together, 
+because consumers wind up doing worse.
+    Mr. Martin at the FCC, you know, raised a pretty high bar 
+in one of his several, often disjointed comments about this. He 
+said at one point, ``We would need to demonstrate consumers 
+would clearly be better off with more choice and affordable 
+prices.''
+    And some people have said that is an impossible test to 
+pass. Well, in fact, you are going to have more choices, I 
+think, because when you get into your car, you are going to 
+have one player that is going to have football and baseball, 
+where otherwise you would have to put another radio on top of 
+it to be able to get both of those things. And you have got to 
+include that in your discussion about whether prices are going 
+to come down, Mr. Cooper.
+    If you are now going to have one player that is going to be 
+able to play both services, consumers are paying less. And I 
+will go one step further. The innovation that is going to then 
+be promoted by people being able to make hardware, invest all 
+of the R&D hardware to come up with a better player, think, the 
+players--and again, Mr. Karmazin, I apologize, are not so 
+great. I think they still need a good deal.
+    But people have to make a choice between developing one for 
+XM and developing one for Sirius. Now I think the prices are 
+going to come down on the players because you are going to have 
+those things.
+    So we have to stop with the 1970's version of this 
+discussion. And if Mr. Rehr admits that this is competition, 
+the fact that he is fighting so hard on this means this is 
+going to be more competition, which means this should probably 
+be approved.
+    Does anyone want to comment on any of that?
+    Mr. Cooper. I would be glad to comment on that.
+    Mr. Conyers. The gentleman's time is expired.
+    Mr. Weiner. Can I at least get an answer, Mr. Chairman? 
+Thank you.
+    Mr. Cooper. I will be glad to comment, because I actually 
+disagree with almost everything you have said.
+    Because satellite radio, we have heard it in Mr. Boucher's 
+numbers, 32 hours a week of radio listening. The world has 
+changed--32 hours a week. TV is about 56 hours a week. The 
+world hasn't changed so much.
+    But Mr. Boucher and Mr. Smith give you an exact answer to 
+what they do that is different than what local radio does.
+    What Mr. Karmazin does is he aggregates small demand. Ms. 
+Waters's question as well. He aggregates small demand that the 
+local market will not support.
+    So the Sixties channels disappear in D.C. because there 
+aren't enough Sixties listeners in D.C., but Mr. Karmazin takes 
+the listeners in D.C. and the listeners in San Francisco, 
+aggregates them and can sell them.
+    The Boston Red Sox--I am from the Bronx so I use the Boston 
+Red Sox as an example. There are lots of Boston Red Sox fans 
+spread all over the country. But the local TV station cannot 
+deliver a station to those viewers or listeners because there 
+is not enough of them in their little market.
+    Nationwide there is enough of them so that Mr. Karmazin can 
+sell the New York Yankees in Boston and San Francisco, because 
+he has aggregated the market.
+    And oh, by the way, he also happens to sell the San 
+Francisco Giants to the Boston Red Sox. So Karmazin competes 
+with local, but local can't compete with national. That is what 
+Mr. Rehr has said. And that is 32 hours. So these are 
+compliments, not substitutes.
+    Mr. Weiner. But would you agree that that is not true? Your 
+example is not 100 percent not true as it relates to Britney 
+Spears, is that correct? One hundred percent not true?
+    Mr. Cooper. Britney Spears, people like Britney Spears. She 
+doesn't have a channel. Maybe she could have a channel. He will 
+pay for all kinds much weird stuff. We have agreed on that. And 
+he will pay a lot. So maybe he will give Britney Spears a 
+channel.
+    The local radio station can't do that because they don't 
+aggregate demand. So what Mr. Karmazin does is he meets a 
+specific need. He sells mobility. Whether it is people who move 
+more than 25 miles or content that moves more than 25 miles, 
+the mobility is what he has because he is able to aggregate 
+markets.
+    Mr. Conyers. Mr. Cooper, Mr. Weiner's time has expired.
+    Mr. Weiner. Mr. Chairman----
+    Mr. Conyers. We thank you so very, very much.
+    We now turn to Mr. Issa, the gentleman from California.
+    Mr. Issa. Thank you, Mr. Chairman.
+    The extension of remarks was most interesting, and I 
+appreciate hearing it.
+    First of all, and I don't want answers until we are at the 
+end and the red light is on, because that works better.
+    First of all, perhaps what this body should have done is 
+said that, Mr. Karmazin, that you could not enter, nor could 
+XM, have entered into any exclusives until there was a viable 
+combined market. Thus we wouldn't have had--you know, you 
+wouldn't have had the shock jock that gave you all the 
+business. One of you wouldn't have had one sports franchise, 
+the other wouldn't have had the other sports franchise, and 
+Gary Ackerman wouldn't have to have two radios, which is tough 
+because they are each in separate cars.
+    But we didn't do that. So one thing I want to point out, 
+because I am seeing some content people in the audience, but 
+nobody here is a content person.
+    Isn't it true the content community loves what has 
+happened? They love the bidding up, like two sports franchises, 
+to insane amounts, the cost of the content that you are 
+supplying, which is part of the reason that you are not 
+profitable. You guys have gotten in a bidding war, you have 
+created a lot of money, each of you. You know, I don't care 
+whether it is NF or hockey or whatever. All of these things 
+have cost you a lot.
+    And that would go away to a certain extent in a merger, 
+because people would have to choose whether or not to be on the 
+global stage or not, so your cost of content might go down in 
+renewals because you would have a certain greater relationship. 
+And you would be much more similar to the terrestrial 
+broadcasters who say, you know, I would really like to have 
+this sports franchise, but it is only worth so much to me. And 
+they, in fact, pay less.
+    That is a what-if. And, Mel, before I let anyone answer, I 
+want to pose one more thing because I have looked at the 
+technology, the bandwidth you have, the bandwidth the 
+satellite, the TV satellite providers have.
+    Why is it that we are not looking here and saying, what if 
+Clear Channel is able to take its national footprint of 
+terrestrial stations, going digital, and decide instead of to 
+be hi-def, to be at your resolution and in fact put 10, 12, 15, 
+20 channels into their existing bandwidth? What if this 
+Committee said that we were going to let them do that, we were 
+going to create that market?
+    Obviously Energy and Commerce, Mr. Dingell, would have a 
+little to say about it. But what if we did that?
+    What if, in fact, we allowed for the 802.11 protocol to 
+include a non-encrypted side so that there would be broadcast 
+capability coming out of all those various 802.11s that are 
+basically at any given time you can see hundreds of them on 
+your screen if you have a decent high-gain antenna.
+    What if we in fact took satellite radio's 802.11 and Clear 
+Channel and, by the way, let us not forget public broadcasting, 
+which has an overlapping national footprint. What if we gave 
+all of them the ability? Wouldn't we in fact have plenty of 
+competition that would be direct competition?
+    The last what if that I have to ask is, what if we tell you 
+that we reserve the right at any time to sell a whole new watt 
+of bandwidth in the public interest that is exactly equal to 
+what you and XM both have?
+    Mel, what about those what ifs?
+    Mr. Karmazin. So, I want to make sure I got them all.
+    Let us take the what if on the content provider. So, if you 
+were to talk to any of the content providers, they will tell 
+you that not only do they have a terrestrial radio deal, that 
+they also have an Internet deal. They also have a cell phone 
+deal. So there is no shortage of competition if there was no 
+satellite deal.
+    And I am particularly interested in your comment about 
+802.11 and things like that. So, virtually all of the cars that 
+are being made are being made with Bluetooth capability so that 
+if you are interested in NASCAR, that you are able to get 
+NASCAR from the local broadcaster who wants it. They certainly 
+have local radio rights. They also have a deal with cell phone 
+companies to where you could put that Bluetooth and get it 
+through your audio spear.
+    And again, I think the idea that there is so much 
+technology that is out there, that the idea is that these 
+content is available through all of these choices and how much 
+money a company is going to pay for content is whether or not 
+the consumer is going to want that and whether you are going to 
+get subscribers.
+    So why did we pay a lot of money for our content, is 
+because we believe that we could get more subscribers if we 
+offered the consumer more choice.
+    And regarding there being additional competitors, I am not 
+a hypocrite, okay. I am saying that there is a lot of 
+competitors. If the Government were to say that they wanted to 
+have more--and by the way, they have more because they have 
+authorized this HD radio. So what you are finding is that--and 
+I am not rapping on Clear Channel. They have done an awful lot 
+of good things and I have friends that are there. But where 
+every single channel exists, they are going to be able to have 
+three or four channels.
+    So there is going to be more choice and there are 1,100 
+radio stations on the air today. As a matter of fact, Clear 
+Channel is providing a lot of the programming for these high-
+definition channels that are national channels.
+    So, I am sort of pretty cool to compete. I mean, I am open 
+for that. And if the technology is there, there should be 
+choices.
+    Mr. Issa. Mr. Chairman, the only last what if would be, 
+what if we allowed for further syndication of broadcasters so 
+as to create, if you will, overt competition, which doesn't 
+exist today. I mean, basically non-Clear Channel, nonpublic 
+broadcasting, some of these have a difficult time coming 
+together to form a national footprint. What if we, in fact, 
+made sure that was available?
+    Thank you.
+    Mr. Conyers. That would be the subject of yet another 
+hearing.
+    Mr. Issa. I yield back.
+    Mr. Conyers. Thank the gentleman.
+    Let me first of all express my real and sincere 
+commendations to all of the five witnesses. You have started a 
+discussion that I am sure is going to raise a number of 
+questions which will be coming to you for you to submit answers 
+for the record. We will give you a week for our Members to do 
+that. Then there will be another week to print up the record.
+    And I want to thank you all.
+    I can't help but particularly thanking Mel Karmazin for the 
+tremendous cooperation that he has given the Committee and the 
+way that he has handled himself and the comments that have 
+exchanged between us all.
+    And I would like to also thank the guests, our spectators 
+who came here, people who are--I see a lot of industry people 
+around. We had an overflow first hearing, and we are going to 
+be watching carefully as the Senate rolls out its discussion. 
+And the next year will be an exciting one as this subject 
+develops.
+    On behalf of the Committee, my great thanks of indebtedness 
+to you all.
+    And I, at this point, conclude the hearing. Thank you all 
+very much.
+    [Whereupon, at 5:21 p.m., the Task Force was adjourned.]
+
+
+                            A P P E N D I X
+
+                              ----------                              
+
+
+               Material Submitted for the Hearing Record
+
+  Response to post-hearing questions submitted by the Honorable John 
+       Conyers, Jr. to Mel Karmazin, CEO, Sirius Satellite Radio
+Question:
+
+    Much of the criticism of this merger proposal has focused on its 
+monopoly character. However, there is also the monopsony issue--the 
+reduction from two to one in the number of buyers of content, including 
+college sports rights, for satellite radio distribution. Today college 
+conferences and other content providers can entertain offers from two 
+different satellite radio distributors. Competition for content between 
+these two companies has been fierce. If the proposed merger is allowed, 
+all of that competition will disappear and there will be only one buyer 
+of satellite radio content. Why should we allow that?
+
+Answer:
+
+    It is highly inaccurate to describe this merger as creating a 
+monopsony on the content side. There currently exist many distributors 
+of content, and these distributors can reach listeners through a 
+variety of platforms including terrestrial radio, wireless networks, 
+podcasts, and the Internet. A programmer's options for content 
+distribution are not currently limited to satellite radio, nor will 
+they be so limited after the merger. Moreover, given satellite radio's 
+continued desire to attract subscribers from other media, its incentive 
+to continue to offer a broad range of content that customers desire 
+will remain strong, and its ability to expand that range of programming 
+will grow over time. In short, this merger does not harm competition at 
+the programming level.
+    The specific example of college sports demonstrates that content 
+providers do not rely on the two satellite operators to distribute 
+their service. Like professional sports programming, college sports 
+content is distributed successfully on a global basis via the Internet, 
+in addition to traditional radio and television distribution. Using the 
+Internet, a university, a conference, or an entire league, can 
+distribute its content through a variety of partners or by itself. For 
+example, Yahoo Sports distributes the audio broadcasts for over forty 
+Division I schools across all sports, including teams from every 
+Division I-A conference.\1\ CSTV.com offers audio and video for over 
+100 top schools, including UNC, Notre Dame, and UCLA across 30 
+sports.\2\
+---------------------------------------------------------------------------
+    \1\ http://media.yahoo.com/ncaa/splash.html
+    \2\ www.cstv.com
+---------------------------------------------------------------------------
+    Universities can also offer their content through their own 
+websites. Many individual schools offer their audio broadcasts through 
+their Internet sites, so that alumni who are geographically dispersed 
+across the world can access content. For example, Michigan offers free 
+game audio through its website.\3\ Even schools with smaller sports 
+programs such as Cornell and Harvard offer their alumni access to game 
+audio across a greater variety of sports than is possible over 
+satellite radio.\4\ These are just a few examples and such offerings of 
+content on university websites is becoming the rule rather than the 
+exception.
+---------------------------------------------------------------------------
+    \3\ http://www.mgoblue.com/section--display.cfm?section--
+id=185&top=2&level=2.
+    \4\ http://cornellbigred.cstv.com/ and https://
+www.nmnathletics.com/SportSelect.dbml?DB--OEM--
+ID=9000&KEY=&SPID=3659&SPSID=41065
+---------------------------------------------------------------------------
+    Because satellite radio is competing against other platforms like 
+terrestrial radio and the Internet, it will continue to have the 
+incentives to gather the programming that current and potential 
+subscribers want, so programmers with compelling content will continue 
+to have access to satellite radio post-merger. Indeed, in the long-
+term, by enabling the consolidation of duplicative channels and freeing 
+up capacity for new channels, this merger increases the ability of 
+programmers to reach customers via satellite radio.
+    If content owners have sufficient options to distribute their 
+content, which they do, the focus of the antitrust inquiry should be on 
+the impact on subscribers. For subscribers, there will be an immediate 
+benefit as the most popular content can be shared on both the XM and 
+Sirius platforms. Greater access to programming is a cognizable 
+antitrust benefit.
+
+                                 <all>
+
+</pre></body></html>

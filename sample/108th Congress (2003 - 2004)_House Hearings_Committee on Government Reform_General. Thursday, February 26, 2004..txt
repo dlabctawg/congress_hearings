@@ -1,0 +1,3028 @@
+<html>
+<title> - WILL ``NETWORX'' WORK? A REVIEW OF WHETHER A CENTRALIZED GOVERNMENT TELECOM PLAN JIBES WITH AN EVER-EVOLVING MARKET</title>
+<body><pre>
+[House Hearing, 108 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+
+  WILL ``NETWORX'' WORK? A REVIEW OF WHETHER A CENTRALIZED GOVERNMENT 
+            TELECOM PLAN JIBES WITH AN EVER-EVOLVING MARKET
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+                           GOVERNMENT REFORM
+
+                        HOUSE OF REPRESENTATIVES
+
+                      ONE HUNDRED EIGHTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                           FEBRUARY 26, 2004
+
+                               __________
+
+                           Serial No. 108-149
+
+                               __________
+
+       Printed for the use of the Committee on Government Reform
+
+
+  Available via the World Wide Web: http://www.gpo.gov/congress/house
+                      http://www.house.gov/reform
+
+                                 ______
+
+                    U.S. GOVERNMENT PRINTING OFFICE
+94-004                      WASHINGTON : DC
+____________________________________________________________________________
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpo.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001
+
+                     COMMITTEE ON GOVERNMENT REFORM
+
+                     TOM DAVIS, Virginia, Chairman
+DAN BURTON, Indiana                  HENRY A. WAXMAN, California
+CHRISTOPHER SHAYS, Connecticut       TOM LANTOS, California
+ILEANA ROS-LEHTINEN, Florida         MAJOR R. OWENS, New York
+JOHN M. McHUGH, New York             EDOLPHUS TOWNS, New York
+JOHN L. MICA, Florida                PAUL E. KANJORSKI, Pennsylvania
+MARK E. SOUDER, Indiana              CAROLYN B. MALONEY, New York
+STEVEN C. LaTOURETTE, Ohio           ELIJAH E. CUMMINGS, Maryland
+DOUG OSE, California                 DENNIS J. KUCINICH, Ohio
+RON LEWIS, Kentucky                  DANNY K. DAVIS, Illinois
+JO ANN DAVIS, Virginia               JOHN F. TIERNEY, Massachusetts
+TODD RUSSELL PLATTS, Pennsylvania    WM. LACY CLAY, Missouri
+CHRIS CANNON, Utah                   DIANE E. WATSON, California
+ADAM H. PUTNAM, Florida              STEPHEN F. LYNCH, Massachusetts
+EDWARD L. SCHROCK, Virginia          CHRIS VAN HOLLEN, Maryland
+JOHN J. DUNCAN, Jr., Tennessee       LINDA T. SANCHEZ, California
+NATHAN DEAL, Georgia                 C.A. ``DUTCH'' RUPPERSBERGER, 
+CANDICE S. MILLER, Michigan              Maryland
+TIM MURPHY, Pennsylvania             ELEANOR HOLMES NORTON, District of 
+MICHAEL R. TURNER, Ohio                  Columbia
+JOHN R. CARTER, Texas                JIM COOPER, Tennessee
+MARSHA BLACKBURN, Tennessee          ------ ------
+------ ------                                    ------
+------ ------                        BERNARD SANDERS, Vermont 
+                                         (Independent)
+
+                    Melissa Wojciak, Staff Director
+       David Marin, Deputy Staff Director/Communications Director
+                      Rob Borden, Parliamentarian
+                       Teresa Austin, Chief Clerk
+          Phil Barnett, Minority Chief of Staff/Chief Counsel
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on February 26, 2004................................     1
+Statement of:
+    D'Agata, Anthony, vice president and general manager, 
+      Government Systems Division, Sprint Corp.; Quinten Johnson, 
+      regional vice president, SBC Federal Solutions; Kevin 
+      O'Hara, president and chief operating officer, Level 3 
+      Communications, LLC; Jerry W. Hogge, senior vice president, 
+      Winstar Government Solutions, LLC; David J. Page, vice 
+      president, Federal Government sales, BellSouth Corp.; Louis 
+      M. Addeo, president, AT&T Government Solutions; Shelley 
+      Murphy, president, Verizon Federal Inc.; and Jerry A. 
+      Edgerton, senior vice president, Government Markets, MCI...    98
+    Perry, Stephen A., Administrator, U.S. General Services 
+      Administration; Sandra N. Bates, Commissioner, Federal 
+      Technology Service, U.S. General Services Administration; 
+      Linda D. Koontz, Director, Information Management Issues, 
+      U.S. General Accounting Office; Drew Ladner, Chief 
+      Information Officer, U.S. Department of the Treasury; and 
+      Melvin J. Bryson, Assistant Director, Administrative Office 
+      of the U.S. Courts.........................................    10
+Letters, statements, etc., submitted for the record by:
+    Addeo, Louis M., president, AT&T Government Solutions, 
+      prepared statement of......................................   155
+    Bates, Sandra N., Commissioner, Federal Technology Service, 
+      U.S. General Services Administration, prepared statement of    27
+    Bryson, Melvin J., Assistant Director, Administrative Office 
+      of the U.S. Courts, prepared statement of..................    76
+    Cummings, Hon. Elijah E., a Representative in Congress from 
+      the State of Maryland, prepared statement of...............     7
+    D'Agata, Anthony, vice president and general manager, 
+      Government Systems Division, Sprint Corp., prepared 
+      statement of...............................................   100
+    Davis, Chairman Tom, a Representative in Congress from the 
+      State of Virginia, prepared statement of...................     3
+    Edgerton, Jerry A.,senior vice president, Government Markets, 
+      MCI, prepared statement of.................................   174
+    Hogge, Jerry W., senior vice president, Winstar Government 
+      Solutions, LLC, prepared statement of......................   133
+    Johnson, Quinten, regional vice president, SBC Federal 
+      Solutions, prepared statement of...........................   108
+    Koontz, Linda D., Director, Information Management Issues, 
+      U.S. General Accounting Office, prepared statement of......    51
+    Ladner, Drew, Chief Information Officer, U.S. Department of 
+      the Treasury, prepared statement of........................    66
+    Maloney, Hon. Carolyn B., a Representative in Congress from 
+      the State of New York, prepared statement of...............    94
+    Murphy, Shelley,president, Verizon Federal Inc., prepared 
+      statement of...............................................   163
+    O'Hara, Kevin, president and chief operating officer, Level 3 
+      Communications, LLC, prepared statement of.................   112
+    Page, David J., vice president, Federal Government sales, 
+      BellSouth Corp., prepared statement of.....................   147
+    Perry, Stephen A., Administrator, U.S. General Services 
+      Administration, prepared statement of......................    13
+
+ 
+  WILL ``NETWORX'' WORK? A REVIEW OF WHETHER A CENTRALIZED GOVERNMENT 
+            TELECOM PLAN JIBES WITH AN EVER-EVOLVING MARKET
+
+                              ----------                              
+
+
+                      THURSDAY, FEBRUARY 26, 2004
+
+                          House of Representatives,
+                            Committee on Government Reform,
+                                                    Washington, DC.
+    The committee met, pursuant to notice, at 11:20 a.m., in 
+room 2154, Rayburn House Office Building, Hon. Tom Davis of 
+Virginia (chairman of the committee) presiding.
+    Present: Representatives Tom Davis of Virginia, Burton, 
+Ose, Cannon, Waxman, Maloney, Cummings, Tierney, Van Hollen, 
+and Norton.
+    Staff present: Melissa Wojciak, staff director; David 
+Marin, deputy staff director/director of communications; Ellen 
+Brown, legislative director and senior policy counsel; Edward 
+Kidd, professional staff member; John Brosnan, GAO detailee; 
+Teresa Austin, chief clerk; Brien Beattie, deputy clerk; Phil 
+Barnett, minority staff director/chief counsel; Kristin 
+Amerling, minority deputy chief counsel; Michelle Ash, minority 
+senior legislative counsel; Mark Stephenson, minority 
+professional staff member; Earley Green, minority chief clerk; 
+Jean Gosa, minority assistant clerk; and Cecelia Morton, 
+minority office manager.
+    Chairman Tom Davis. The meeting will come to order. Good 
+morning, thank you everybody for your patience. We had to get 
+through some of those bills.
+    I want to welcome everybody to today's oversight hearing on 
+the GSA's proposed government-wide voice and data 
+telecommunications program Networx. Through this hearing, we 
+hope to gather information from industry and other 
+stakeholders, including GSA, to determine whether GSA's 
+proposed acquisition strategy contained in its request for 
+information issued in October will be effective in today's 
+ever-evolving telecommunications environment.
+    GSA's Federal Technology Service [FTS], in coordination 
+with the Interagency Management Council, is responsible for 
+ensuring that Federal agencies have access to affordable 
+telecommunications and networking services and solutions that 
+meet agency mission requirements. FTS has traditionally met 
+this responsibility through large, government-wide contracts, 
+such as the current FTS 2001 contracts for long distance and 
+international telecommunications services, and the Federal 
+wireless telecommunications contract.
+    Networx would be GSA's fourth generation government-wide 
+telecommunications program. We are interested in learning 
+whether GSA's overall acquisition strategy is likely to provide 
+robust competition from the entire spectrum of the marketplace. 
+Further, we need to example narrower but still-significant 
+issues related to the proposed acquisition, such as transition 
+strategies, appropriate contract performance period, billing 
+requirements, and the use of minimum revenue guarantees.
+    The key to success here is to make GSA take advantage of 
+the wealth of information that's been made available to it in 
+response to the RFI and through this hearing. This knowledge, 
+not merely the designs of the past, should guide the 
+structuring of a flexible telecommunications program, based on 
+current and future markets and evolving government needs.
+    [The prepared statement of Chairman Tom Davis follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.001
+    
+    Chairman Tom Davis. I would now recognize the distinguished 
+ranking member, Mr. Waxman.
+    Mr. Waxman. Thank you, Mr. Chairman. I am pleased to join 
+you today to review the administration's preliminary 
+observations on how to purchase telecommunications services 
+when the current FTS 2001 contracts expire. As everyone knows, 
+this committee has historically played a role in the 
+development of the acquisition strategy for the Federal 
+Government's telecommunications needs. I look forward to 
+working with you, Mr. Chairman, the administration and the 
+private sector to ensure that the Federal Government continues 
+to receive the best price and highest quality service to meet 
+those needs.
+    The Federal Technology Service at GSA has administered the 
+current Federal telecommunications program, FTS 2001, and its 
+predecessor, FTS 2000. While not totally without problems, the 
+program has been a success. The Federal Government pays between 
+1.5 and 2 cents per minute for long distance service, well 
+below the best commercial rate. Over its lifetime, the program 
+has saved the American taxpayer close to $2 billion by 
+leveraging Federal buying power and encouraging continuous 
+competition. Any future acquisition should retain these 
+critical features. Could you imagine what the Federal 
+Government could do in the area of pharmaceuticals if we used 
+the collective buying leverage of the Federal Government for 
+Medicare recipients to get the best price, so that we could get 
+the best price, best quality and protect the consumers from 
+high prices, as well as the Treasury and the taxpayers?
+    GSA issued a request for information last October that 
+provides the outlines of an acquisition strategy for the new 
+program, and has received comments from a wide cross section of 
+the industry. Now is the time to examine questions about 
+whether the proposed strategy will address the fiscal, 
+technological and socioeconomic priorities of the Federal 
+Government. Will the strategy generate enough continuous 
+competition to assure the best price in quality? How will the 
+new technologies be integrated into the program? Will small and 
+minority businesses have sufficient opportunities under the 
+proposed strategy? And what is the best way to ensure a smooth 
+transition from the existing to the new contracts? These are 
+just a few of the questions that I would like to see addressed 
+today.
+    Mr. Chairman, I thank you and I look forward to hearing 
+from our witnesses. I want to tell the witnesses that we all 
+have a lot of things going on, and I have a conflict. But if 
+I'm not here, I certainly will be monitoring the testimony, my 
+staff is here, and we'll be working with all of you to pursue 
+the best policy. And I would hope that we can keep the record 
+open, so that if there are further questions we want to submit 
+for answers in writing, we'd like to ask that for the record.
+    Chairman Tom Davis. Thank you.
+    Any other Members wish to make opening statements? The 
+gentleman from Indiana, Mr. Burton.
+    Mr. Burton. Mr. Chairman, I want to commend you for holding 
+this hearing this morning. Although the current government 
+telecommunications contract will not expire until 2006, we need 
+to begin today discussing and debating how we want the contract 
+to be structured. Communications and information sharing is in 
+many ways the life blood of our government.
+    If we cannot successfully communicate with our constituents 
+or between various Federal agencies or even each other, the 
+business of government will come to a screeching halt. 
+Particularly in the post-September 11 world, it's extremely 
+important that we do this thing right.
+    Today's hearing gives us an opportunity to listen to the 
+thoughts of the GSA, the telecommunications industry and the 
+other stakeholders about the positives and potential negatives 
+of GSA's proposed contract strategy as outlined by them in 
+their October 2003 request for information. The best solution 
+to this important government procurement issue is going to take 
+compromise by all the major stakeholders, and everybody is 
+probably not going to be completely happy with the final 
+product. I know that from past history.
+    Mr. Chairman, after overseeing the process the last time 
+this contract was up for consideration, I learned a few 
+valuable lessons. At the end of the day, I hope we will be able 
+to work together to develop a policy that ensures robust and 
+fair competition, contains enough flexibility to provide new 
+technology and innovative solutions to government's ever-
+evolving information technology needs, such as in the areas of 
+network, Internet and cybersecurity, emergency preparedness and 
+response, disaster recovery and continuity of services in a 
+crisis. Above all, that it's affordable, efficient, well 
+managed and a good value for the American taxpayers.
+    So in closing, Mr. Chairman, I want to thank you once again 
+for getting the ball rolling by convening this hearing today. I 
+sincerely hope we can work together in an open, fair and 
+bipartisan way to continue moving this process forward 
+constructively. I probably won't be able to listen to all the 
+witnesses because we're getting a briefing on a trip we're 
+taking over to Iraq. But I certainly will follow this very 
+closely, Mr. Chairman.
+    Chairman Tom Davis. Thank you, and we look forward to your 
+guidance on this. You have some experience in this, having gone 
+through it before, and I appreciate your interest. Any other 
+Members wish to make opening statements?
+    Ms. Norton. Mr. Chairman, I would like to make a statement.
+    Chairman Tom Davis. The gentlelady from the District of 
+Columbia.
+    Ms. Norton. Mr. Chairman, I'm going to the floor, but I'm 
+going to try to remain here to hear these witnesses. I'm 
+impressed that we are here dealing with perhaps the most 
+competitive and technologically driven industry in the country, 
+that literally changes by the minute. We therefore, it seems to 
+me, are in the catbird seat, given the fact that we are surely 
+the largest customer that any of these players could desire.
+    So I will be interested to know whether the acquisition 
+strategy that is proposed will provide the government the 
+opportunity to take advantage of competition from many sources. 
+I want to see them all go at one another with, to a fare-thee-
+well. Because we are the ones who will benefit if they have to 
+kill each other in order to get this contract. [Laughter.]
+    The technology changes every moment, the reason the 
+technology changes is precisely because this industry wants to 
+stay competitive. It stays so competitive that it's often 
+difficult to keep up with what technology one ought to have. We 
+don't need to have, I suppose, minute by minute state-of-the-
+art technology, but we certainly ought to encourage the 
+government to keep up with the changing technology. And we need 
+to say to these guys, ``We're here, let's see what you've 
+got,'' for the best company with the lowest bid, go at it, and 
+the more you go at it, the better off we'll be.
+    Thank you very much, Mr. Chairman.
+    Chairman Tom Davis. Thank you very much.
+    The gentleman from Maryland.
+    Mr. Cummings. Thank you very much, Mr. Chairman.
+    Mr. Chairman, I thank you for holding this hearing to 
+collect information from stakeholders in the General Services 
+Administration's proposed government-wide voice and data 
+communications program, Networx.
+    It's my hope that this hearing will serve as an opportunity 
+for us to explore whether GSA's proposed acquisition strategy 
+will serve as the best solution in our current technologically 
+advanced society. The current telecommunications program, FTS 
+2001, will expire in 2006. It is important that we are able to 
+implement a new program in a timely, effective and cost-
+efficient manner.
+    In the RFI request issued by the FTS in October 2003, the 
+stated goals of Networx were to assure continuity of services, 
+achieve best value by leveraging the government's buying power 
+to obtain the lowest possible prices, while maintaining 
+quality, provide access to a broader range of service than 
+currently available, and provide expanded opportunities for 
+small businesses. It is at this hearing where we can determine 
+whether or not the FTS-proposed Networx does in fact accomplish 
+these goals, or whether it must be adapted to further meet the 
+concerns of all stakeholders involved. I have four main 
+concerns that I hope the witnesses will address today.
+    First, Networx must have the ability to not only offer but 
+keep up with new technological advances. In light of September 
+11 and our continuous need to effectively address issues 
+related to our Nation's security, we must be sure that any new 
+telecommunications program we implement is capable of 
+supporting new technologies as they are developed.
+    Second, the bidding process for Networx must remain a 
+competitive process that does not exclude either new or smaller 
+entities from entering the government-sponsored program. This 
+bidding process must also allow for companies with specialized 
+telecommunications technology to compete in our ever-evolving 
+technology economy.
+    Third, Networx must remain cost-effective in its new form. 
+If the program does not continue to save the government money, 
+especially in our current budget crunch, then it will miss its 
+most important aim.
+    And last, Networx must allow for an affordable and 
+efficient transition from the current FTS 2001 
+telecommunications program. We must be guaranteed that by 2006 
+there will be a smooth and non-problematic transition into the 
+new program.
+    With that said, Mr. Chairman, I look forward to hearing 
+from today's witnesses, and once again, Mr. Chairman, I thank 
+you.
+    [The prepared statement of Hon. Elijah E. Cummings 
+follows:]
+
+[GRAPHIC] [TIFF OMITTED] T4004.002
+
+[GRAPHIC] [TIFF OMITTED] T4004.003
+
+[GRAPHIC] [TIFF OMITTED] T4004.004
+
+    Chairman Tom Davis. Thank you very much.
+    We have a great first panel, we have a great second panel. 
+Let me say in the second panel, we held a lot of them in the 
+back room. And this is where we could have sold tickets. We had 
+SBC, Sprint, Verizon, MCI, AT&T, Winstar, BellSouth and Level 3 
+all in the same room, and by all accounts, it was fairly 
+harmonious. So it's a historic first. [Laughter.]
+    On the first panel we have Steve Perry, the Administrator 
+of the U.S. General Services Administration; Sandra Bates, no 
+stranger to this committee, the Commissioner from the Federal 
+Technology Service, U.S. General Services Administration; Linda 
+Koontz, the Director of Information Management Issues from the 
+U.S. General Accounting Office; Drew Ladner, our Chief 
+Information Officer at the U.S. Department of the Treasury; and 
+Mel Bryson, the Director of Information Technology, 
+Administrative Office of the U.S. Courts.
+    It's the policy of this committee that we swear witnesses 
+in before their testimony. If you'll rise with me and raise 
+your right hands.
+    [Witnesses sworn.]
+    Chairman Tom Davis. Thank you very much.
+    Commissioner Perry, we'll start with you and then we'll 
+move straight on down the line. Your total statement is in the 
+record. Not everybody is here to hear it, so you don't need to 
+go over the time, because that's in the record, and most of the 
+Members will get it off the record. Then we'll have our 
+questions, a lot of them are cued to what your testimony is. So 
+if you can take about 5 minutes, keep your testimony to 5 
+minutes. We have a light in front of you. When the orange goes 
+on, that means you have 1 minute left, 4 minutes are up.
+    Steve, thanks for being with us, and thanks for doing a 
+great job over there.
+
+  STATEMENTS OF STEPHEN A. PERRY, ADMINISTRATOR, U.S. GENERAL 
+SERVICES ADMINISTRATION; SANDRA N. BATES, COMMISSIONER, FEDERAL 
+TECHNOLOGY SERVICE, U.S. GENERAL SERVICES ADMINISTRATION; LINDA 
+   D. KOONTZ, DIRECTOR, INFORMATION MANAGEMENT ISSUES, U.S. 
+   GENERAL ACCOUNTING OFFICE; DREW LADNER, CHIEF INFORMATION 
+OFFICER, U.S. DEPARTMENT OF THE TREASURY; AND MELVIN J. BRYSON, 
+  ASSISTANT DIRECTOR, ADMINISTRATIVE OFFICE OF THE U.S. COURTS
+
+    Mr. Perry. Thanks, Mr. Chairman. I appreciate the 
+opportunity to testify to the committee on this very important 
+subject.
+    As has been pointed out, we all know that having an 
+effective and efficient telecommunications program in the 
+Federal Government is very important. It's not only important 
+because we spend billions of dollars to obtain these services, 
+but it's important because this is critical to the 
+communication interactions, and the data transfer of 
+information that we have to do to support the day to day 
+operation of the government.
+    So we're happy to be here today to talk about our plan for 
+transitioning from FTS 2001 to the new program that we call 
+Networx. The Networx contract, as has been pointed out, will be 
+the fourth generation of telecommunication contract in the 
+government that started in the mid-1960's. Each successive 
+contract that has been put in place has been an improvement 
+over the prior contract. We expect that will continue to be the 
+case with the new Networx contract that's being put in place.
+    FTS 2001 certainly has been a success, as Mr. Waxman 
+pointed out. We've derived savings in the government of nearly 
+$2 billion from that program. In short, GSA telecommunications 
+programs of the past have in fact been successful, and as we 
+move forward, we believe we can build upon the lessons learned 
+and the solid foundation that is now in place to make the new 
+program even more successful as we move to the future.
+    Last October you invited us to talk to this committee about 
+our plans for beginning the transition process and developing a 
+new Networx program as well as an acquisition strategy. Since 
+that time, Sandy Bates and her team have benefited from 
+numerous meetings with the committee staff and we continue to 
+seek your counsel and support. Additionally, as was pointed 
+out, we've had very valuable discussions with customer 
+agencies, and we've had very valuable discussions with the 
+telecommunications industry and other interested parties.
+    The level of interest is perhaps unprecedented. The quality 
+of comments and the exchange of information and ideas that 
+we've received to date have been very, very helpful. Through 
+this dialog, we are receiving many excellent ideas that we will 
+continue to consider and, where appropriate, incorporate into 
+the development of the Networx telecommunications program, as 
+well as the formulation of our acquisition strategy.
+    So Mr. Chairman and members of the committee, one of the 
+things I want to emphasize in my remarks is that we will assure 
+you that we understand the importance of the proposed 
+government-wide telecommunications program and we are committed 
+to achieving implementation of the new program in a very 
+successful way. Before I turn the presentation over to Sandy to 
+talk about this in some more detail, I'd like to just highlight 
+a few of the customer requirements that we've learned from our 
+discussions with customers and industry partners and that GSA 
+has committed to achieve in this acquisition.
+    The first is service continuity. That is, we will ensure 
+that all services currently provided under FTS 2001 are 
+transitioned to the new Networx contract without interruption.
+    Second is transition assistance. The Networx contract will 
+include requirements for contractors to assist agencies in 
+achieving a timely, efficient transition from the current 
+contract to the new contract.
+    Then of course, best value. Networx contracts will offer 
+telecommunications services to Federal agencies at highly 
+competitive prices that are at or below current levels. 
+Additionally, agencies can use the Networx contract to meet 
+their telecommunications needs without incurring the costs of 
+developing their separate acquisitions.
+    And flexibility, the Networx program will give customer 
+agencies maximum flexibility to adapt to changes in the 
+competitive economic and technology environment of the 
+telecommunications industry.
+    Alternative sources. Networx will provide choices to agency 
+customers in selecting from among multiple contractors for 
+services that they require. That will provide for the robust 
+competition that you spoke of.
+    In the area of operations support, Networx contracts will 
+integrate ordering, billing and inventory management to the 
+extent necessary to meet agency requirements. The Networx 
+contracts additionally will be performance based.
+    And last but certainly not least, GSA is placing a strong 
+emphasis on the utilization of small businesses by our Networx 
+service providers.
+    So I want to assure the committee that we understand how 
+important this is and we're working on it that way. We do hope 
+that the result of our work will be that even those agencies 
+that have not taken advantage of the benefits of GSA's 
+telecommunications programs in the past will realize that they 
+have the opportunity to do so, to obtain the telecommunications 
+services that they need, to achieve their agency's missions and 
+at the same time, save money for their agencies and of course 
+for the American taxpayer.
+    Mr. Chairman, we thank you for holding this hearing. I look 
+forward to continuing to work with you and the other members of 
+the committee to make this new Networx contract a reality. 
+Thank you.
+    [The prepared statement of Mr. Perry follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.005
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.006
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.007
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.008
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.009
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.010
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.011
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.012
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.013
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.014
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.015
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.016
+    
+    Chairman Tom Davis. Thank you very much.
+    Ms. Bates, thanks for being with us.
+    Ms. Bates. Good morning, Chairman Davis and members of the 
+committee. Thank you for inviting me to appear before you this 
+morning. I have submitted a detailed written statement, so I 
+will now address the particular issues you raised in your 
+letter.
+    Effectiveness of the strategy. I readily agree that the 
+proposed October strategy can be improved. We are committed to 
+improving it, industry has suggested items for improving it. 
+For example, some respondents question having separate, 
+staggered universal and select acquisitions. Some believe that 
+universal could overshadow select and result in significantly 
+fewer opportunities for select awardees. This is a fair 
+concern.
+    Our challenge is to understand the tradeoff and strike an 
+appropriate balance between the desire to be all-inclusive and 
+the need to foster meaningful and effective competition. And 
+there are other areas where industry feedback has been 
+extremely valuable. In each case, we are evaluating the effects 
+of the suggested alternatives and working to develop a more 
+refined and a more effective approach.
+    Transition. Since May 2003, the IMC-led transition working 
+group has been planning for the Networx transition. Both FTS 
+and our customers are committed to a well-planned, well-
+executed and effective transition at the lowest possible cost.
+    Contract performance periods. We have received a variety of 
+comments. The suggestions range from 5 years to 15 years. The 
+final contract duration should attract meaningful competition, 
+justify the resource investment and minimize contract-required 
+transitions.
+    Billing. We've clearly heard that the billing data elements 
+contained in the RFI may be overly burdensome to industry. 
+However, we need to understand how we can strike the 
+appropriate balance between agencies' needs for information and 
+industry's ability to deliver it with their established 
+commercial offerings.
+    Services and technologies needed by the government. We 
+believe that Networx should support the continuity of our 
+customers' existing network communications infrastructure. 
+Networx must also look beyond 2006 to the future by providing 
+new capabilities that will be enabled by the networks of 
+tomorrow.
+    We understand that today not all agencies have selected FTS 
+for contracts for all of their telecommunications needs. Some 
+may believe they can obtain better prices through their own 
+negotiations. For others, the prospect of transitioning complex 
+infrastructure from one contract to another may drive their 
+decision. Then there are those who may be concerned that using 
+an FTS program will mean loss of control over selection of 
+technical solutions, management of their infrastructure or 
+provider relationships.
+    Let me assure you, Networx will continue to build on FTS' 
+proven success in negotiating the best deals in the industry. 
+We are committed to making a transition smooth and efficient 
+for all customers. Networx will assure flexibility, 
+individually tailored solutions and continuous technology 
+refreshment. For FTS success also depends on fostering 
+productive relationships between customers and providers.
+    Centrally managed program acquisitions. I certainly believe 
+that we have demonstrated the value of such an approach in the 
+government networking arena. One example of tangible value that 
+comes from central management, price negotiation. I think we 
+can all agree that telecommunications pricing is not 
+straightforward. For agencies to develop individual 
+capabilities for pricing analysis and negotiation would be 
+duplicative and inefficient at the least.
+    FTS has routinely achieved price levels well under the 
+market, sometimes as low as half the market rates. Agencies 
+negotiating individual contracts cannot be assured of such 
+aggressive pricing. Because we do our homework on behalf of all 
+agencies, we can leverage the government's buying power to 
+achieve the greatest benefit. Nevertheless, we are open to all 
+ideas, including those that might mean significant change. We 
+are not afraid of finding the right answer or of finding a 
+better answer. In fact, we want to do so and I think our job is 
+to do so.
+    We are committed to crafting a strategy that ultimately 
+reflects best value results and innovation to support the 
+missions of government. Mr. Chairman, we are pleased to have 
+delivered an initial strategy that is already serving its 
+purpose as the basis for productive interaction. I expect to 
+come away from this hearing with more good ideas. I will be 
+happy to address your questions that you may have.
+    [The prepared statement of Ms. Bates follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.017
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.018
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.019
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.020
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.021
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.022
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.023
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.024
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.025
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.026
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.027
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.028
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.029
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.030
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.031
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.032
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.033
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.034
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.035
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.036
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.037
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.038
+    
+    Chairman Tom Davis. Thank you very much.
+    Ms. Koontz.
+    Ms. Koontz. Mr. Chairman, members of the committee, I am 
+pleased to participate in this hearing on the General Services 
+Administration's next generation telecommunications acquisition 
+program, known as Networx. As you know, GSA's planning for this 
+program is taking place within an environment of tremendous 
+change in the telecommunications industry, in underlying 
+services and technology, and potentially in the regulatory 
+environment.
+    In this context, the Networx initiative can be viewed as a 
+significant opportunity for the Federal Government to flexibly 
+acquire and apply innovative telecommunications services 
+offered by industry to improve agency missions. However, GSA 
+will have to overcome significant challenges if the full 
+potential of the Networx program is to be realized.
+    The first of these challenges is ensuring that an adequate 
+inventory of information about existing telecommunications 
+services is available to give planners an informed 
+understanding of government-wide requirements. The ongoing 
+research we are doing for you, Mr. Chairman, on private sector 
+best practices in telecommunications acquisition and 
+management, have indicated that leading organizations view a 
+baseline inventory as an essential first step to 
+telecommunications requirements analysis and subsequent 
+sourcing decisions. Quite simply, before you can chart a course 
+for the future, you have to know where you are.
+    Second, establishing specific measures of success to aid 
+acquisition decisionmaking and effective program management. 
+Again, our work on private sector best practices highlights the 
+need to establish outcome-oriented program goals on which to 
+base acquisition planning decisions, and corresponding measures 
+to assess over time whether the goals are being met by the 
+program.
+    Third, structuring and scheduling the contracts to ensure 
+timely delivery of competitively priced telecommunications 
+services that meet agency mission needs. The varying views of 
+industry representatives commenting on the request for 
+information raised fundamental questions about the soundness of 
+the proposed acquisition approach. For example, some raised 
+concerns about the broad service and geographic requirements of 
+the universal contracts and the effect that could have on 
+competition. Further, others raised questions about the timing 
+of the awards. It appears that agencies could be asked to make 
+decisions regarding their use of universal service contracts 
+before information is available regarding select leading edge 
+services and solutions that might be more suitable for their 
+needs. The process of sorting out these varying views is a 
+difficult one. However, proceeding with a better understanding 
+of requirements, goals and measures should help GSA in its 
+efforts to structure the contracts. Further, it will be 
+important for GSA to continue to solicit and implement 
+stakeholder feedback.
+    Last, ensuring a smooth transition from the current 
+contracts by initiating appropriate implementation planning 
+actions. Three years ago, we testified before you on the 
+transition difficulties experienced with the FTS 2001 program. 
+To avoid a repeat of these problems, GSA will need to establish 
+strong program management and ensure that agencies have 
+detailed inventories needed for transition.
+    In our recent conversations with GSA, they agreed with 
+these challenges and shared with us their plans to develop 
+baseline inventories and measures of success, prepare for the 
+transition and continue to work toward a final acquisition 
+strategy. While these statements are very encouraging, 
+leadership from GSA and commitment from stakeholders in 
+resolving these issues will be essential in establishing 
+efficient, cost effective and secure telecommunications 
+services.
+    Actions taken and decisions reached in the coming months to 
+more fully define the Networx program will significantly 
+influence the telecommunications choices Federal agencies will 
+have for the next several years. Unless GSA follows through to 
+resolve the challenges outlined today, the potential of Networx 
+may well not be realized.
+    That concludes my statement, and I'd be happy to answer any 
+questions at the appropriate time.
+    [The prepared statement of Ms. Koontz follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.039
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.040
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.041
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.042
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.043
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.044
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.045
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.046
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.047
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.048
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.049
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.050
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.051
+    
+    Chairman Tom Davis. Thank you very much.
+    Mr. Ladner, welcome.
+    Mr. Ladner. Good to be here again, Mr. Chairman.
+    Mr. Chairman and members of the committee, I thank you for 
+the opportunity to appear today to discuss GSA's government-
+wide telecommunications program, Networx. The continued 
+leadership of the chairman and the members of the committee is 
+vital if we are to steward taxpayer dollars wisely not only at 
+the Treasury Department, but across the Federal Government.
+    I serve as the Chief Information Officer of the Treasury 
+Department. As CIO, I provide oversight, management, budgetary 
+approval, and policy direction for all of the information 
+technology programs within the Treasury Department and across 
+its bureaus. I have operational responsibility for shared 
+services across all of our Treasury bureaus, including for the 
+Treasury communications system, one of the largest secure 
+networks in the civilian government.
+    Let me start by suggesting a list of principles that the 
+Treasury Department seeks to have inform its acquisition of 
+telecommunications services. Reflected throughout my submitted 
+testimony, they include but are not limited to: identifying and 
+adopting innovation, listening to the market laws of supply and 
+demand, relying on marketplace innovation wherever possible, 
+avoiding the creation or promotion of proprietary standards, 
+simplifying business structures, processes and systems, 
+embracing data, IP and managed services, compensating based on 
+performance and results, affording maximum flexibility while 
+keeping costs low, supporting the execution of Treasury's 
+shared service philosophy, and expecting technological 
+obsolescence and therefore not owning assets.
+    The Treasury Department is committed to acquiring from the 
+private sector the latest in telecommunications innovations, 
+whether in product, process, or otherwise. Because the private 
+sector has the incentive to invest in research and development, 
+the expectation is that the private sector consistently will 
+provide the most attractive offerings in terms of cost and 
+performance.
+    Today's question is, how does Networx fare in all of this? 
+Early signs are that Networx will constitute a significant 
+improvement over FTS 2001. It appears that Networx will be much 
+more market-driven, in contrast to its more technology-driven 
+predecessor, FTS 2001. As a general rule, at the Treasury 
+Department we believe that the government should rely on 
+performance-based results-oriented specifications, rather than 
+trying to dictate solutions through how to design technology 
+specifications.
+    Moreover, this underscores an essential philosophical 
+approach to acquiring Networx services, whether the customer is 
+in the public sector or private sector, government agencies 
+should strive to ensure that the customer is provided with the 
+best, most cost-effective services available.
+    This raises a larger point. As CIO, I need to be able to 
+manage the supply chain, both downstream from our shared 
+service platform into Treasury bureaus, as well as upstream 
+into Treasury's suppliers. Treasury currently depends 
+exclusively on no one carrier, and manages risks by being 
+carrier neutral. Avoiding sole sourcing and preserving 
+flexibility enables us to use multiple companies across a large 
+telecommunications contract. Doing so is critical for several 
+reasons.
+    First, it is financially advantageous and ensures that 
+competitive forces provide incentive for contractors to price 
+at market levels. Second, in the event of inevitable 
+technological change or obsolescence, a customer can make 
+necessary adjustments quickly and cost effectively. Third, if 
+under-performance provides operational rationale to switch 
+vendors, a government agency is in the better position to do 
+so.
+    In summary, the key to a successful Networx contract will 
+be to consolidate purchasing power in a flexible, performance-
+based contract that nimbly accommodates innovation when 
+superior price-for-performance can be achieved. Remaining 
+innovative in our telecommunications programs is essential to 
+national security. Among other reasons, the application of new 
+products and processes leads to even more advances, thanks to 
+the vibrant entrepreneurial spirit of our country and in the 
+small to medium-size businesses that drive 80 percent of our 
+economy.
+    Again, I am grateful to you, Mr. Chairman, and the 
+committee, for demonstrating leadership in exploring the best 
+ways to acquire telecommunications services, and for the 
+opportunity to discuss this further today. I'd be happy to 
+respond to any form of questions.
+    [The prepared statement of Mr. Ladner follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.052
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.053
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.054
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.055
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.056
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.057
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.058
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.059
+    
+    Chairman Tom Davis. Thank you, Drew.
+    Mr. Bryson.
+    Mr. Bryson. Thank you, Chairman Davis, members of the 
+committee. We also appreciate the invitation to appear before 
+you today.
+    My position is equivalent to the chief information officer 
+with the courts system. Our office provides and manages 
+national voice and data services for more than 750 courthouses 
+and offices throughout the country, including the 50 States, 
+Puerto Rico, the U.S. Virgin Islands, Guam, and the Mariana 
+Islands. Those communications services are critical for our own 
+internal communication, as well as for those who are now 
+getting into the government aspect of the court system, which 
+is our electronic case filing, and those who look for 
+information on what the courts are doing through our public 
+access systems.
+    The Federal Technology Service contract series has been an 
+essential tool in providing the U.S. courts with a 
+comprehensive set of integrated, cost effective and highly 
+reliable voice and data services for more than a decade. We at 
+the Administrative Office are committed to working with the 
+General Services Administration and others, including this 
+committee, to develop a successful follow-on solution for our 
+wide ranging and ever growing needs for telecommunications 
+services.
+    The judiciary's experience with the FTS contract series has 
+shown us that such a contract vehicle offers clear advantages 
+in terms of prices as well as significant reductions in 
+overhead for contract management. The FTS contracts also 
+greatly facilitate our engineering tasks by reducing the need 
+to coordinate infrastructure changes with but one vendor team 
+that knows our needs.
+    The Federal Judiciary was the first major FTS customer to 
+complete the transition from FTS 2000 to the follow-on FTS 2001 
+contract. That orderly transition was facilitated by our own 
+internal, accurate inventory of the courts' national voice and 
+data services. Our independent inventory streamlined the 
+complex process of preparing, submitting, tracking, and 
+verifying tens of thousands of separate orders for lines, 
+individual phone calling cards, and other specialized 
+telecommunications services as we made this complicated 
+transition.
+    Our transition experience demonstrates the importance of 
+accurate and integrated management systems. Unfortunately, 
+consolidation of telecommunications vendors over the past few 
+years has not been accompanied by a smooth integration of their 
+separate legacy systems for processing orders, managing 
+circuits and changes, and ensuring billing systems are 
+automatically updated and accurate. In numerous cases, our 
+ability to quickly and efficiently change, add or delete 
+services was hampered by these inefficient vendor tracking 
+systems, or by overly complex and poorly integrated vendor 
+ordering and billing systems.
+    We are working closely with GSA on the transition to make 
+sure that we address all of those issues. If the transition 
+involves the need to move to multiple new contracts and forces 
+us to make the change to new vendors, the effort will be much 
+more complex and difficult. Ultimately, this will take longer 
+and involve much higher indirect costs to each agency.
+    As I say, we're making a significant investment in working 
+with GSA to make sure that this follow-on contract meets all of 
+our needs. The things that we think we need from the new 
+contract include these: continuous high quality service; 
+integrated end-to-end processes to order, install, inventory 
+and bill services; flexibility to provide both local and long 
+distance voice and data services; and finally, flexibility in 
+choosing central or local billing and management options.
+    The Judiciary prefers a single Networx contract that covers 
+the full range of telecommunications solutions. This approach 
+avoids the additional costs associated with the need to 
+research, compete, award, and manage multiple contracts for the 
+myriad parts of our nationwide network infrastructure.
+    We also strongly prefer a long term non-mandatory solution 
+to assure the best possible pricing for all services. In short, 
+we need to ensure that an efficient and effective vehicle for 
+continued service to the courts is available to replace the 
+expiring FTS 2001 contract.
+    Again, we thank you for the invitation to appear today, and 
+as with the others, we'd be happy to answer any questions that 
+you might have.
+    [The prepared statement of Mr. Bryson follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.060
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.061
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.062
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.063
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.064
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.065
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.066
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.067
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.068
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.069
+    
+    Chairman Tom Davis. Thank you very much.
+    I have a bunch of questions. Let me start, Ms. Bates, I'm 
+going to start with you. I think you noted that the current 
+program in its 6th year, referring to the first page of your 
+testimony, exemplifies best value and you talk about how the 
+FTS 2001 and cross-over contracts have been modified 229 times 
+for the benefit of all agencies, and have grown from an 
+acquisition offering 24 core services and so on.
+    I guess my point is, it's great to modify it and all that, 
+but when you go back to the original bit and who you select, 
+and then you put all these modifications in, isn't it possible, 
+and these are evolving needs, that maybe somebody who lost the 
+original bid might have been better over time in these areas? 
+And aren't we better off with a flexible schedule-type 
+contract, where you can bring in people who might not have been 
+the best value on the original bid, but in time have developed 
+new capabilities and allow them to come into the process, as 
+opposed to amending existing bids with existing contractors? Do 
+you understand what I'm saying? That wasn't in my script.
+    Ms. Bates. I understand. We'll just talk through it.
+    First off, I think it is a positive that the contracts have 
+been modified. They are not being modified to correct flaws or 
+insufficiencies at all. But rather, improved processes and 
+recognize that, and then add the new technologies.
+    If you'll recall, too, in our strategy of FTS 2001, we 
+allowed for crossover from, with the anticipation of companies 
+in the local markets emerging and really promoting public 
+policy in 1996 of telecom reform. I'm happy to report that 
+companies have crossed over in that, so that as an example, the 
+unsuccessful offeror in FTS 2001 did cross over into FTS 2001, 
+as well as Verizon recently crossed over into FTS 2001.
+    So I think with that strategy, we have allowed for 
+continuous competition of the players that are providing all 
+those services, plus with the initial competition and all those 
+mods, we have continued robust and aggressive price management, 
+where the companies, if you'll recall, bid the full 8-year 
+pricing, declining prices, the best in the world, and continue 
+to do that.
+    So I think that the strategy that we adopted and were 
+trying to take those good pieces of the strategy and 
+incorporate those into a Networx-type environment. So I think 
+we have the optimum solution today.
+    Chairman Tom Davis. I guess because technology changes so 
+rapidly in this area, and new companies come on with 
+capabilities that weren't envisioned at the beginning of the 
+contract and everything else, it seems, and what the process 
+is, I'm not set on. But you just want to make sure that we are 
+flexible throughout, and that we are constantly shopping for 
+the best value, the best technology.
+    Ms. Bates. Right.
+    Chairman Tom Davis. The best technologies, the lowest 
+costs. And also to encourage agencies to come in. About half 
+the agencies use this right now. I'm not saying it's a cure-
+all, but if you have enough flexibility and you use your buying 
+power and everything else you have, we ought to be getting 
+higher participation.
+    Ms. Bates. I agree with you. I think most of our customers, 
+we provide service today to every agency. It's just not their 
+total service. Of course, our goal is to have a program that is 
+robust enough that it will be so attractive that people will 
+want to use this more.
+    I think it's also important to note that today on Schedule 
+70, there are many services, telecommunications services 
+offered, there are line items, there's over 200. It's about 70 
+companies. So I think that when we talk about whether we have a 
+fully negotiated contract versus a schedule contract, it's not 
+either-or. And that's what we got when we asked the industry.
+    So I think we're in agreement.
+    Chairman Tom Davis. It's a question of how you best get 
+there.
+    Let me just ask another question. I'm off the script. But 
+cooperative purchasing, something in the government act we 
+allow for the group 70 schedule, as you noted. Any thought of 
+using, I haven't talked to the companies about this, either, so 
+if they come up out of their chair, allowing State and local 
+governments to use this?
+    Ms. Bates. Well, as you know, FTS was instrumental in 
+cooperative working with you early on, with cooperative 
+purchasing.
+    Chairman Tom Davis. Absolutely. You were way ahead of us on 
+that. I'll ask everybody to comment on this question, too. But 
+go ahead.
+    Ms. Bates. I think that the concept is there. There's 
+nothing in our current thinking that would prohibit it. I think 
+in the area of telecommunications networking that it's so 
+complex, with the margin so thin on pricing, kind of figuring 
+out and keeping dual sets of, I think it would be a good idea. 
+I was going down the line of----
+    Chairman Tom Davis. We're going to hear from industry on 
+that, too.
+    Ms. Bates. But the cooperative purchasing, in terms of 
+letting State and local governments in, we are all for.
+    Chairman Tom Davis. Steve, any thoughts on that?
+    Mr. Perry. I would just add that, as you know, a lot of 
+people, either at the State and local level or Federal level or 
+in the industry had concerns as to whether or not enabling 
+State and local governments and others to purchase on the 
+Federal Government schedule would have bad ramifications. I 
+think though that what we're seeing, now that we've stepped 
+into that with IT, that those fears are not being realized. 
+Small businesses are participating, Main Street companies who 
+were providing for their States before and weren't on GSA 
+schedules, many of them have become GSA schedule holders.
+    So both the States are benefiting and the industry 
+companies are benefiting. So I think the continued success that 
+we're seeing on IT Schedule 70 may inform us as to how well we 
+could apply the same thing to telecommunications.
+    Chairman Tom Davis. Right. The thing I like about 
+cooperative purchasing, and my time is up, but the fact that 
+you're cutting out a lot of the middle stuff that raises your 
+ratio, the bid protests are gone, all the lawyers are out of 
+it, and that's a good thing. And the fact that a lot of the 
+marketing and strategies that went into pumping stuff up that 
+was so expensive for people coming up with responses to RFPs 
+and proposals, it's really consolidated. That's a good thing. 
+It saves money for both the government and for our contractors 
+on that.
+    I'll ask the second panel how they'd react to that. Go 
+ahead.
+    Ms. Bates. We have left it in scope, in today's contract, 
+and we will have it in scope tomorrow, with the hope that they 
+would be approved. So we have everything in place, ready to go 
+once we get the nod.
+    Chairman Tom Davis. Well, I think a lot of it will depend 
+on industry response to this. We're not eager in bringing, if 
+industry's not interested in doing this, of bringing it in. And 
+I want to get their response as well. But the reality is that 
+the marketing mechanisms they have to use to try to get into 
+State and local governments are expensive. It is a Wild West in 
+terms of its predictability and so on. I'll be interested in 
+hearing their reactions, I'll kind of give them a heads-up that 
+the question is coming.
+    Ms. Norton.
+    Ms. Norton. Thank you, Mr. Chairman.
+    This idea in this program is of special interest since the 
+District of Columbia has profited from being on the GSA 
+program. I appreciate strongly the efficiencies that must take 
+place in hammering such a huge contract as this. It can't be 
+handled in the way the ordinary government contract is. I agree 
+with what the chairman has said about some of those 
+efficiencies.
+    I also think that competition and product innovation in 
+this industry is unique. I indicated that in my opening 
+comments, so that I'm trying not to do a cookie cutter approach 
+to how I look at this contract, that is to say, not that you 
+are. But that we are looking at what I regard as a virtually 
+unique industry in our country and in the world. And here we 
+are, a unique party, the Federal Government, able to maximize 
+competition the way no other contracting party could.
+    So I've got to ask, I want to ask some questions about our 
+role vis-a-vis where the industry is. Now, there's a huge flux 
+in this industry, precisely because it is so innovative. If 
+there were only three bidders to the universal contract, what 
+would happen if something happened to one of those vendors?
+    Ms. Bates. There could be more. But if there were only 
+three that could, that were successful in terms of meeting the 
+government's requirements and best value and low cost, and 
+something happened to one, I think certainly that would be a 
+shame, and would reduce our options and flexibility. But we 
+would still have two companies in place in universal that could 
+continue to compete. We would also then have, if we were to 
+pursue exactly the strategy laid out in the RFI, which is under 
+modification, we would also have multiple companies in network 
+select that could satisfy some or all of the requirements and 
+fill the void.
+    So I think we're trying to position ourselves, knowing that 
+this is an industry that by all accounts has not settled out 
+yet, and we're expecting to see further mergers, acquisitions 
+and new entrants. We want to be as open to that, yet steel 
+ourselves against having something happen that would affect us 
+drastically.
+    Ms. Norton. I don't know why we wouldn't want to minimize 
+risk and maximize competition. I don't know why we should take 
+any risks here, particularly given the multiple companies in 
+the field, and particularly given the fact that we may be 
+talking about one industry, but there are so many different 
+categories of what they do, wireless, long distance, Internet--
+we could go on for some time.
+    Why not open the door to more competition, given--I mean, 
+what do we have to lose by opening the door to more 
+competition, particularly given the fact that many of these 
+companies are much better in providing certain kinds of 
+services, I don't know, Internet versus long distance or 
+whatever, than others. Why not say, ``Y'all come''? And why 
+wouldn't the result be lower cost to the government, and better 
+product innovation as well?
+    Ms. Bates. I can only address it. Certainly those comments, 
+your thoughts, were also some of the thoughts submitted in 
+response to the RFI, that centered around why don't we just 
+have one competition and do it by categories or levels. And 
+this is under consideration. We are looking at that hard, and 
+going at that, because many of the industry respondents did 
+recommend that a further refining, and like I said in my 
+statement, one contract versus two, and perhaps different ways 
+to grouping, to play to the specialization of certain segments.
+    Ms. Norton. I would really like to see, all of us out here 
+in this IT world know good and well that we have the right and 
+we look for who does what best and at a lower cost in these 
+related but highly different categories of service. I must say, 
+I put a great value on the efficiencies you brought to this 
+contract. I don't want to lose any of that.
+    But for the life of me, I can't see why allowing these guys 
+to go at one another with these very different kinds of 
+service, opening the door to some who may not have been in it 
+all before, that really bothers me. As we look to companies 
+that, and this happens in government work so often, that 
+somebody who has a leg up continues to get the contract.
+    Well, you know, that might work in some kinds of 
+industries. But in this industry, where the competition has 
+been such that somebody can and does run ahead of somebody else 
+because of a product innovation, so who was good yesterday has 
+been surpassed tomorrow, why shouldn't we say, ``OK, let's look 
+at these individual services, let's open the competition, 
+because we are the biggest player in the universe, we're going 
+to drive you so hard, we're going to drive down our costs even 
+more than we've gotten.''
+    I must tell you, I think there's lots more, lots more to be 
+wrung out of this than you've been able to do. I'm looking for 
+ways to do it. Therefore, I must say I'm very pleased to hear 
+you say that you are open to looking at the various categories, 
+wireless, Internet and the rest. And that would mean, of 
+course, that there would be newer companies, companies that may 
+have specialties in one way or another.
+    Let me ask you about the notion of where the company has to 
+be geographically. There are large bidders and smaller bidders 
+that don't provide, for example, long distance service 
+everywhere. Is this a primary factor in choosing such a vendor?
+    Ms. Bates. The strategy as stated in the RFI required 
+continuity of service, which would mean service to every place 
+that it is being provided to our government customers today for 
+Networx Universal. In Networx Select, that requirement was 
+relaxed and respondents would bid wherever they provided the 
+service.
+    In response to the comments that we received from the RFI, 
+we are deeply probing that requirement on two fronts. One, we 
+are probing with our customers to determine the impact, if that 
+wasn't as specified, and to learn more about that. With regard 
+to the industry, we are probing to see, when we say continuity, 
+what are they hearing. If we were not to have the requirement 
+for continuity, I'm not saying we'd relax it, but if we 
+weren't, who would be left behind?
+    There is an implication that the person that would be left 
+behind would be Joe in the treetop. Well, I don't know if it's 
+just a few people or if it's major sections of our country that 
+serve the population and the government agencies. So I think 
+that the time we're spending now to really further understand 
+that requirement and probe deeply to get at the facts will help 
+us arrive at whatever the right solution is as we move forward.
+    Ms. Norton. That could not be more important. One size does 
+not fit all, and if there are efficiencies in non-universal 
+service that don't hurt anybody, and you're looking closely at 
+that, that's the way to go at it. Let us find out what the 
+underlying facts are.
+    The assumption that everybody needs everything, when you 
+consider where the government is located, is the point I'm 
+raising. I'm very pleased if you're looking closely to see 
+whether or not that's necessary.
+    Ms. Bates. Thank you.
+    Chairman Tom Davis. Thank you very much, Ms. Norton.
+    Mr. Perry. Mr. Chairman, if I could just add to that 
+answer, please.
+    Chairman Tom Davis. Sure.
+    Mr. Perry. I would echo Sandy's comments and yours, 
+Congresswoman Norton, that robust competition is really a 
+hallmark of this. We are not trying to do anything else, other 
+than to drive toward robust competition. That's part of what 
+has driven the low cost of what we've done so far, and it also, 
+as you point out, is what drives technological innovation, all 
+these companies working against each other to move things 
+forward. And we've benefited from that.
+    We would propose to continue to do that in the new 
+contract, while at the same time making sure that we do all the 
+things necessary to provide for reliable service. That's the 
+other part of that equation. It can't be fragmented to the 
+point that we could have a disruption. So we take your point, 
+and I just wanted to emphasize the fact that robust competition 
+is indeed what we would hope to achieve.
+    Chairman Tom Davis. Thank you very much.
+    The gentleman from Utah, Mr. Cannon.
+    Mr. Cannon. Thank you, Mr. Chairman.
+    Just following on this line of questioning, can you for the 
+whole panel, particularly for the GSA members here, can you 
+give me a sense of what you think the right number of awardees 
+under Networx would be? On the one hand, as has been said by 
+Representative Eleanor Holmes Norton, you have an issue with 
+redundancy, and also network security. Yet if you have too many 
+people, the price suffers.
+    Have we given any thought to what the number of awardees 
+ought to be?
+    Ms. Bates. It's very difficult to say, particularly with 
+this industry, as things change. The Networx Universal, as 
+described in the RFI, which was kind of the straw man for 
+comment, had requirements such as continuity, which we were 
+discussing a moment ago. I would think that there are many 
+companies that can provide that universal service, perhaps they 
+wouldn't be able to provide it necessarily predominantly by 
+themselves. But through partnering arrangements----
+    Mr. Cannon. Let me just ask, have you focused on, we have 
+some major companies, and a lot of minor companies that can 
+provide services. Have you looked at, it would seem to me you'd 
+want more than one, that means two or more. But maybe you don't 
+want as many as five or six. Has there been some focus on what 
+you're looking at for just the number of major contractors?
+    Ms. Bates. We have not decided yet on a number. We've not 
+gotten that far. If you'll recall, in our strategy for 2001, 
+when we completed it and went out with the RFP, we said there 
+would be a maximum of two awardees, and obviously a minimum of 
+one but a maximum of two. We've not reached that point yet. And 
+we've not even reached a point yet where we would put a limit, 
+because we're not talking about, as your point, 200 companies.
+    Mr. Cannon. But you will hopefully consider that and come 
+up with some sort of a list?
+    Ms. Bates. Yes, sir.
+    Mr. Cannon. Thank you very much. Do you have a sense of how 
+we will be introducing the government Voice Over Internet 
+Protocol in this procurement or in other contexts? What are you 
+thinking about that now?
+    Ms. Bates. Well, clearly, we are like everyone else 
+realizing that Voice Over IP is the technology for the future, 
+and that all of the network services, as we move on into the 
+2010, 2012 timeframe, will be IP-based, including Voice Over 
+IP. So it plays heavily in our technical specifications and our 
+concept of operations, reflected throughout our work to date.
+    The challenge ahead of us is that, when we award the 
+contracts, we need to be able to do two things: satisfy the 
+existing requirements and provide a lighted pathway as people 
+move toward the new technology. It is not going to be 1 day 
+everybody moves. Some people, the early adopters, are moving 
+now. Others may not be.
+    The industry is in the same way. They don't just start and 
+drop everything. So it's a continuum. But I can assure you that 
+Networx, both universal and select, in whatever strategy we end 
+up with, will cover that in spades.
+    Mr. Cannon. Thank you.
+    Mr. Perry, in particular I'm interested in telework and how 
+we're dealing with that. If we talk about DSL, how that fits in 
+and whether you're considering any telework-related items in 
+the Networx solicitation. In particular, is DSL expected to be 
+a component of the Networx Universal, will that be like a 
+distinct service, particularly about how telework is going to 
+be for people working at home or in some other place, and how 
+that will be brought into consideration.
+    Mr. Perry. Well, we do support teleworking now, of the type 
+you described, where the person may be teleworking from their 
+home with a DSL line. And we obviously have telework centers 
+where people drive to and agencies or the government provides 
+the facility there. But that would continue to be supported.
+    It will be driven, obviously, to some large extent, by 
+individual agencies, to the extent they'd want to utilize it. 
+But it is available and will continue to be.
+    Mr. Cannon. And DSL is going to play a part of that, as you 
+look into the future?
+    Mr. Perry. Yes.
+    Mr. Cannon. As you're looking at all these new kinds of 
+technologies that are coming in, can you talk a little bit 
+about how those are going to fit in, even those that may not be 
+currently available in the commercial market?
+    Mr. Perry. I'm sorry?
+    Mr. Cannon. How are new technologies, how are you dealing 
+with the new technologies, some of which are not even available 
+today, but which we can anticipate?
+    Mr. Perry. Right. Again, to some extent, what we've done in 
+FTS 2001, we talked about the 229 modifications that were made 
+in the original contract. Many of those were made to adopt or 
+adapt to new technologies that emerged subsequent to the 
+contract. That will be the case here as well. Whatever those 
+emerging technologies are that we don't even know about today, 
+as they become available they will be incorporated into the 
+contracts.
+    Mr. Cannon. Thank you, Mr. Chairman. I see my time has 
+expired. I yield back.
+    Chairman Tom Davis. The gentlelady from New York, Mrs. 
+Maloney.
+    Mrs. Maloney. Thank you very much. Mr. Perry, you mentioned 
+that the goal is robust competition, as was the goal for FTS 
+2001. And I think one of the easiest ways to understand how to 
+maximize service and a good product and cost is to really 
+understand what happened in FTS 2000 and 2001. The chairman, in 
+his opening remarks, mentioned that there were 229 
+modifications to FTS 2001. I'd like a breakdown on how much 
+that cost. You can competitively bid something, but then if 
+there are so many modifications, whether it's a change in the 
+contract for new expenses or new technology, if I recall, I 
+believe that new technology in FTS 2000 and 2001 was supposed 
+to have been competitively bid in a new way. I don't think it 
+was supposed to have been a modification.
+    So my question is, I'd like to know how much we spent on 
+2001 contracts, and how much we added onto them with 
+``modifications'' and whether those modifications were cost 
+overruns, or we really didn't think we had to do that in our 
+original contract, and how much of it was new technology. As I 
+recall, 2001 was new technology and was to be competitively 
+bid, was it not, in the last contract?
+    And again, you probably don't have these numbers, but I 
+think that's something that would be important for the 
+committee to understand, why did we have 229 with 
+modifications, and for what reason? It could turn out that the 
+229 modifications cost more than the original contract. I would 
+just like to look at those numbers.
+    Mr. Perry. Sure. We will provide that to you.
+    I will tell you though, that we talk about those 229 
+modifications with some pride, because these were not cost 
+overruns or cost increases, generally speaking. These 
+modifications were enhancements, and many times, cost 
+reductions. So we'll be happy to provide that information to 
+you.
+    Mrs. Maloney. Do you know how much the 229 modifications 
+cost the American taxpayer?
+    Mr. Perry. I don't know the answer to that question.
+    Mrs. Maloney. That's what I'd be looking at.
+    And also, I think that our country has changed dramatically 
+since the last contract and the No. 1 concern for many of us is 
+security and safety. And I want to know if this new contract 
+has a category in it that looks toward a Pentagon attack or a 
+September 11 attack. What are these new technologies that these 
+companies may have that would make the service more secure and 
+reliable in times of a tragedy or a terrorist attack? Is that 
+part of the new contract?
+    Mr. Perry. Yes, it will be. There is a feature referred to 
+as ``embedded security features.'' And to go back to the 
+modifications, some of the modifications that were made under 
+FTS 2001 were for an enhanced security by means that weren't 
+available previously, but became available and became more 
+desirable after September 11.
+    In fact, some agencies of the government, as you would 
+understand, the Defense Department and some others, have not 
+used the FTS 2001 contracts because of concerns on security 
+matters. So we are in the Networx contract addressing those 
+more and more.
+    Mrs. Maloney. And since you said security was built into 
+2001, and when they attacked the World Trade Center Towers, it 
+was primarily government offices. There was some private 
+sector, but we had the SEC there, and we had a lot of Assembly 
+offices there. There were a lot of government offices there. 
+How did the FTS 2000, 2001 respond to the attacks on September 
+11? I know we were out of power for a while. Was that part of 
+your contract? Were you down at the September 11 site with FTS 
+2000 and 2001?
+    Mr. Perry. Yes. And Sandy may add some details here, but 
+there was a facility there at the site that was destroyed. We 
+used the providers under this contract to reestablish 
+operations. We didn't do it overnight, but we did it very 
+quickly. The response was generally reviewed as being very 
+good.
+    Ms. Bates. I can only add that after the attack, service 
+was restored to the areas as soon as it could be under FTS 
+2001, as well as the metropolitan area, the MAAs, the local 
+contracts. We had a robust program working with our brothers in 
+the Public Building Service of helping agencies relocate to 
+other office space, and making sure that they had service at 
+that time.
+    In addition, many agencies used backups in other parts of 
+the country for their data services, and we had service into 
+there. So I think the companies on both the 2001 and MAA served 
+well in such a disaster, including the restoration of service 
+to the Pentagon.
+    Mrs. Maloney. My time is up. Thank you.
+    [The prepared statement of Hon. Carolyn B. Maloney 
+follows:]
+
+[GRAPHIC] [TIFF OMITTED] T4004.070
+
+    Chairman Tom Davis. Thank you very much.
+    Let me just ask a couple more questions of this panel 
+before we move on. I think I'll start this with Mr. Perry.
+    We continue to hear expressed a concern that GSA is 
+committed to the centrally managed program outlined in the RFI, 
+and that it's unlikely to change the basic framework as the 
+program goes forward. Will you go forward with a program that's 
+designed based on the information received from industry, 
+agency stakeholders and others, even if it differs 
+fundamentally from that currently set forth in the RFI?
+    Mr. Perry. Yes, absolutely. What we will do in the final 
+analysis is do what meets the needs of our customer agencies, 
+and the capabilities of the industry. At the same time, we 
+believe that our history has shown us, as we've been talking 
+here, about leveraging the volume of purchases that the Federal 
+Government represents. The way to do that is through pooling 
+those resources together, not by fragmenting them to the nth 
+degree.
+    So as a thought about this, we believe that our going-in 
+approach ought to be, how can we work as a Federal Government 
+in a collaborative way to understand what our inventories are, 
+understand what our requirements are, understand what the 
+industry capabilities are, and first, begin with the premise 
+that we will try to fashion a solution that provides the best 
+value to the government as a whole?
+    Certainly there are some agencies which would have reasons 
+to operate separately. And we would accommodate that, if they 
+don't use the FTS contracts, they are welcome to use other GSA 
+acquisition vehicles, including schedules, or they obviously 
+have the choice of doing it independently. But I think logic 
+would say that a starting point would be for us to collaborate 
+to the greatest extent feasible.
+    Chairman Tom Davis. OK. Ms. Koontz, let me ask you, you 
+note in your statement that the proposed FTS Networx 
+procurement represents the third in a series of major, 
+centralized telecommunications procurements undertaken by GSA 
+on behalf of Federal agencies. What are your thoughts on the 
+viability of using a centralized telecommunications acquisition 
+to meet the government's telecommunications service needs?
+    Ms. Koontz. We think that the concept of a centrally 
+managed program still has merit and is still viable. You don't 
+have to look a whole lot further than the FTS 2001 program 
+itself to see that there is a demand among agencies for a 
+centrally managed program where they are willing to pay a fee 
+to GSA in order to have GSA acquire and manage these services.
+    I would add to that, in addition, in our research that 
+we've done of private sector best practices that centralization 
+has a couple of benefits. One, you get to leverage your 
+requirements across your organization, or in this case, across 
+multiple agencies. And in addition, you get to leverage your 
+telecommunications expertise, which is often a scarce resource 
+in short supply. So the centralization can also be an 
+appropriate human capital strategy as well.
+    Chairman Tom Davis. OK. Mr. Ladner, Treasury is no stranger 
+to the pain of contract transition that we hear mentioned so 
+often in this. Having gone through to some extent under FTS 
+2000 and again at the inception of 2001 of the contract, based 
+on your experiences, are there specific actions you can 
+identify that GSA should be taking now to make future contract 
+transitions less stressful to their government agencies? And 
+I'll ask Mr. Bryson the same thing.
+    Mr. Ladner. Mr. Bryson actually mentioned a few things in 
+his testimony that address this. I think to add to that, we 
+believe that it's critical for any contract to embed 
+innovation. And one of the aspects which seems to change 
+quickest, which we need to remain most aligned with in the 
+private sector, is in the area of billing.
+    So as we look to transition off our current contract of 
+TCS, which expires in September 2005, what we are trying to 
+look at and work with FTS most specifically on is in the area 
+of billing. How can we ensure that as we find and address 
+business problems at the operating level, we ensure that those 
+can be managed in the transition process appropriately.
+    To add to what Ms. Koontz said, we believe as well that a 
+centrally managed program is very, very helpful, and there are 
+a lot of benefits to that. Whether one looks at what's 
+happening in the private sector or public sector, IT government 
+reform is pushing more and more organizations to centralize.
+    But again, being able to solve business problems and then 
+take how we're solving those business problems and introduce 
+those learnings and those technologies in at the central level 
+is critical. And again, being able to transition what we're 
+already doing in that regard from TCS to say, a Networx 
+contract, would be crucial.
+    Chairman Tom Davis. OK. Mr. Bryson, you might reiterate a 
+couple of things you said just to get it in this part of the 
+record.
+    Mr. Bryson. I would, yes. Of the moneys that we spent on 
+telecommunications, about half of them are spent on the 
+national infrastructure, and about half of them are spent 
+actually at the local level for services. We're very much in 
+favor, as I said, of a national contract that allows us to get 
+the kind of savings that the size of the government can 
+generate for all of those services.
+    So to the extent we have a contract that allows courts or 
+other offices out in smaller locations, away from the major 
+cities, to have better prices for cellular, local dial tone, 
+those kinds of things, we think that is helpful.
+    As we move to the new contract, we really would like to 
+have GSA and the companies that we deal with look at their 
+interface. It would be nice to have an electronic way to 
+transmit orders, track them, have them implemented, and then 
+get billing back in a timely way, so that the services that we 
+ask for, that we contract for, we know are there, they're done 
+correctly, and that we're being billed correctly for them.
+    This is a huge juggernaut that we're dealing with here, we 
+have multiple companies. If you're dealing with the small 
+companies around the country as well who have to then bill back 
+through the main providers, it is a serious concern keeping all 
+that straight. All that of course goes through GSA as well, so 
+you've got an interesting dilemma in how you make sure that all 
+that information is correct, that what we're paying in our 
+billing cycles is correct for what we're getting. We think that 
+is an area that really needs to be focused on, the 
+infrastructure that supports this contract needs to be looked 
+at very carefully and improved to really serve us well.
+    Mr. Ladner. Let me just add, while it's more of a steady 
+state issue, and has a lot of ramifications for what we're 
+transitioning to, and that is, the area of portfolio 
+management, Clinger-Cohen holds that we steward resources well 
+across the Department. So what we've been working hard at is 
+figuring out what we've got, to figure out how we're doing.
+    With regard to network services, that's no exception. So 
+what we've been trying to do at Treasury is to understand 
+better in as close to real time as possible how we're doing on 
+the network side, and then help our business owners understand 
+how telecommunications services are supporting, achieving 
+mission critical objectives.
+    So having the right kinds of interfaces to get the 
+information that we need from carriers, from FTS, so we can 
+figure out what's going on, is absolutely critical for our 
+portfolio management initiative.
+    Chairman Tom Davis. Thank you very much.
+    Does anyone else on the panel want to add anything? We'll 
+keep the record open for a couple of weeks if Members have 
+questions they want to forward. I know Mr. Waxman, I think, 
+will have a couple. And based on the review of some of the 
+comments, we may have a couple followups. But I appreciate your 
+patience, appreciate your being here today.
+    We'll dismiss this panel, move to the second panel and take 
+about a 3-minute recess. Thank you very much.
+    [Recess.]
+    Chairman Tom Davis. The committee will come to order.
+    Just please rise with me and I'll introduce you if we could 
+swear everybody in. Anthony D'Agata, the vice president and 
+general manager from Government Systems Division at Sprint; 
+Quinten Johnson, regional vice president, SBC Federal 
+Solutions; Kevin O'Hara, president and chief operating officer, 
+Level 3 Communications; Jerry Hogge, the senior VP for Winstar; 
+David Page, vice president, Federal Systems, BellSouth; Louis 
+Addeo, the president of AT&T Government Solutions; Shelley 
+Murphy, president, Federal Marks, Verizon, and Jerry Edgerton, 
+senior vice president, Government Markets, MCI.
+    Please raise your right hands.
+    [Witnesses sworn.]
+    Chairman Tom Davis. Thank you. Thank you for your patience. 
+Your total testimony is in the record. I figure if everybody 
+takes the allotted time or a minimum of 40 minutes, working out 
+before we get to questions. But you don't have to take it all 
+if you don't want to. But if we can keep on schedule, we all 
+get out of here. I'll remind you, your presence is really 
+important, and as you heard from the previous panel, your 
+comments are really important in shaping this thing.
+    So we want to make sure--again your total testimony is in 
+the record, I'll just re-emphasize that--but we want to make 
+sure you get your major points across because it's important 
+not just that this committee hear them, but that GSA 
+understands how you underline your important points; take that 
+into account.
+    We drew out of a hat to see who goes first. This is such a 
+distinguished body, we didn't want to rank one company over 
+another in the telecom arena. You can understand--[laughter]--
+so I'm going to start on the left, Mr. D'Agata, with you, and 
+move on down. Thank you.
+
+   STATEMENTS OF ANTHONY D'AGATA, VICE PRESIDENT AND GENERAL 
+  MANAGER, GOVERNMENT SYSTEMS DIVISION, SPRINT CORP.; QUINTEN 
+JOHNSON, REGIONAL VICE PRESIDENT, SBC FEDERAL SOLUTIONS; KEVIN 
+    O'HARA, PRESIDENT AND CHIEF OPERATING OFFICER, LEVEL 3 
+  COMMUNICATIONS, LLC; JERRY W. HOGGE, SENIOR VICE PRESIDENT, 
+    WINSTAR GOVERNMENT SOLUTIONS, LLC; DAVID J. PAGE, VICE 
+PRESIDENT, FEDERAL GOVERNMENT SALES, BELLSOUTH CORP.; LOUIS M. 
+ ADDEO, PRESIDENT, AT&T GOVERNMENT SOLUTIONS; SHELLEY MURPHY, 
+PRESIDENT, VERIZON FEDERAL INC.; AND JERRY A. EDGERTON, SENIOR 
+            VICE PRESIDENT, GOVERNMENT MARKETS, MCI
+
+    Mr. D'Agata. Good morning, Mr. Chairman and members of the 
+committee. My name is Tony D'Agata, I'm vice president and 
+general manager of Sprint's Government Systems Division.
+    I would like to express my appreciation for the opportunity 
+to share with you this morning Sprint's views on Networx, the 
+follow-on program to FTS 2001. Simply stated, Sprint endorses 
+GSA's network acquisition plan to replace the FTS 2001 program. 
+We will, however, recommend changes to the Networx acquisition.
+    The Networx acquisition strategy is sound. The government's 
+experience over the past 15 years with multiple award, IDIQ, 
+telecommunications contracts has been extraordinary. These 
+vehicles have enabled the government to aggregate its buying 
+power to the benefit of the smallest government agency.
+    As of the third year of the FTS 2001, the government had 
+saved over $400 million, compared to the best prices available 
+on FTS 2000. By the end of the term of the FTS 2001, the 
+government savings will approach over $1 billion. Moreover, FTS 
+has provided to the government agencies unprecedented 
+management tools, such as online ordering, pricing and trouble 
+report handling to manage the accomplishment of their 
+respective missions.
+    But the carriers cannot take all the credit for delivering 
+unparalleled value to the government. The General Services 
+Administration, as a full partner, has played a significant 
+role in the success of these vehicles. While some would say 
+that it's time to change the above winning formula to one 
+resembling a set of schedules, Sprint strongly disagrees. It 
+must be remembered that the schedule procurement model has been 
+successful for the procurement of one size fits all, commercial 
+off-the-shelf commodity items. It is not suited to the delivery 
+of customized telecommunications solutions envisioned by 
+Networx.
+    The Networx acquisition strategy should be modified, 
+however. First, the Networx carriers, contractors should not be 
+put in the position of assuming the economic risk of an 
+unpredictable access market. The FTS 2001 required carriers to 
+forward price access services for 8 years. Unfortunately, full 
+competition and those projected price reductions in access have 
+not materialized. This has caused significant financial harm to 
+the service providers. As a result, the government must 
+consider the future uncertainties in access pricing when 
+forming its price expectations of the Networx offerors.
+    Second, the existing Networx procurement strategy is to 
+award a universal contract to provide the mandatory ubiquitous 
+services and a select contract to provide niche services. The 
+Networx Select contract should not be used to cannibalize the 
+Universal Networx program. If the select program awardees are 
+permitted to subsequently provide overlapping but 
+geographically limited similar services, the select program 
+provider could cherry pick or cream skim the business base of 
+the universal providers. The select program should be reserved 
+exclusively for small and small disadvantaged businesses to 
+provide them the opportunity to offer services complementary to 
+those provided by the Networx Universal providers. Finally, 
+Sprint recommends that the successor contract not contain a 
+substantial minimum revenue guarantee [MRG]. One major 
+rationale to support a substantial MRG is to guarantee the 
+contractor a specific volume of business to justify the sizable 
+system development costs. However, due to the foresight of the 
+architects of the FTS 2001 acquisition strategy, all of the 
+long distance providers and MAA local service providers already 
+must comply with those requirements. Therefore, as long as the 
+Networx billing and system requirements remain the same, all 
+the likely Networx offerors should already substantially comply 
+with these requirements and there is no need for a significant 
+MRG to cover those costs.
+    Fundamentally, Sprint's message here today is that the 
+Networx procurement strategy has a long and successful 
+pedigree. We urge the committee to stay the course, and I'd be 
+happy to answer any questions that you may have.
+    [The prepared statement of Mr. D'Agata follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.071
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.072
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.073
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.074
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.075
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.076
+    
+    Chairman Tom Davis. Thank you very much.
+    Mr. Johnson.
+    Mr. Johnson. Thank you very much, Mr. Chairman, for the 
+opportunity to discuss the Networx contract. My name is Quinten 
+Johnson, I'm the regional vice president with SBC 
+Communications, Federal Solutions. SBC is very pleased in 
+responding to this very important government program.
+    There are a couple of issues that would help SBC achieve 
+the lowest possible rates for the government under this 
+contract. Historically, our internal rate determination is 
+based on factors such as the volume of the service and the 
+opportunity, and the length of the term of the contract. In 
+this regard, the longer the contract term, such as 5 year base 
+with five 1-year options, would result in lower costs, as would 
+the addition of minimum revenue guarantees demonstrating 
+commitment on the part of the government.
+    We also believe that the government should seek normal 
+commercial products and services which would allow the 
+companies to provide existing offerings in the government 
+marketplace, as they do in the commercial marketplace, 
+resulting in lower costs.
+    In the cases of special requirements, we feel that the 
+entity causing the cost should bear the cost. For example, if 
+the government was able to use the normal billing offerings, 
+then the agency or department that requires a government-unique 
+bill, that is CLIN, contract line item number-based, should pay 
+for the extra costs related to that type of bill. Using our 
+normal billings systems would result in reduction of billing 
+errors and transition problems.
+    In the discussion of the structure of the Networx Universal 
+contract, we feel that requiring all vendors to offer services 
+everywhere that the present contract provides would provide 
+potential higher cost to the government. If vendors have to 
+subcontract to other companies, it would result in higher 
+administrative costs, which would result in higher overall 
+costs.
+    We would suggest that the government allow for different 
+categories of service and allow vendors to bid on the 
+categories that they have the greatest expertise in providing. 
+Allowing companies who have 7 or 8 categories covered out of 10 
+would allow for a greater number of companies to participate in 
+the contract, and result in more competition and lower rates to 
+the government. This could result in one single contract, 
+rather than requiring a Networx Universal and Networx Select.
+    A good model for this kind of bid would be the GSA 
+Connections contract, where vendors were allowed to bid on 
+different categories and task orders were competed within the 
+companies that were qualified in each category. This would 
+allow the government to also have the ability to offer products 
+and services that go from the more commodities-type to the very 
+complex-type networks. Additionally, it would allow companies 
+which have specific expertise to assist the government in each 
+of the different categories.
+    We are very pleased to see the requirement for managed 
+network services, since we have a history of offering this type 
+of service. We have found that many of these types of services 
+do not fit into a fixed price service-based or equipment-based 
+CLIN. These managed services are better served if they are 
+priced on an individual case basis, which reflects the 
+customized solution which meets each individual customer's 
+unique situation.
+    We believe that the converged services, such as Voice Over 
+Internet Protocol [VOIP], and Services Blending products such 
+as local calling, long distance, voice, DSL, and wireless 
+services on one bill are already here. We think that Networx 
+should have the ability to include other services and 
+technologies that will be developed in the future to be 
+included in this contract.
+    Thank you for allowing SBC the opportunity to participate 
+in these hearings. SBC looks forward to working with you and 
+the GSA on the continued development of the Networx contract. I 
+would be happy to entertain any questions.
+    [The prepared statement of Mr. Johnson follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.077
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.078
+    
+    Chairman Tom Davis. Thank you very much.
+    Mr. O'Hara.
+    Mr. O'Hara. Thank you. Good afternoon, Mr. Chairman.
+    I believe if we look back, I think we would all conclude 
+that the FTS program has generally worked well and served the 
+needs of the government. However, since the time that the FTS 
+was last awarded, there has been tremendous change in our 
+industry. And we believe strongly at Level 3 that the Networx 
+approach, particularly the universal approach, as contemplated 
+in the RFI, does not allow the government to take advantage of 
+the changes in our industry, and in fact would limit the 
+government's ability to derive best value.
+    Level 3 was founded on the principle of deploying the 
+technology that pushes the cost-of-service down. Our goal was 
+not to have the lowest cost of service the day our network 
+construction was complete, but rather design and construct our 
+networks in a way that allowed us to take advantage of future 
+changes in technology and always enjoy the lowest cost of 
+service.
+    We invested $14 billion toward this goal, and in those 
+areas where we offer service, we have become a formidable 
+competitor. In a matter of a few short years, we've become one 
+of the top three Internet backbones in the world. We're one of 
+the top two providers of dial-up services to the Internet, and 
+we're one of the top transport service providers in both the 
+United States and Europe.
+    Our goal has never been to emulate the incumbents, as we 
+saw the industry realigning itself around areas of sustainable 
+competitive advantage. We believe that in a world changing as 
+radically as ours, trying to be good at all things while 
+competing against focused competitors is a difficult, if not 
+impossible task.
+    In this environment, where both the services and the 
+industry winners and losers are far from certain, it is 
+perilous to try and predict the future. Instead, users are far 
+better off taking advantage of and accommodating the inevitable 
+changes in their plans. While the last 5 years have been 
+difficult ones for our industry, there is no reason to believe 
+that the rate of change is going to slow down. Against this 
+background, we believe that the government can best achieve 
+best value by considering the following alternatives.
+    First, allow companies to play to their strengths. 
+Requiring potential bidders to support all services, including 
+legacy services everywhere, will have the unintended 
+consequence of higher prices. In the IP arena for instance, 
+where vigorous competition has emerged over the last few years, 
+we've seen prices drop approximately 80 percent just in the 
+last 2 years.
+    Second, define the services and the required product 
+attributes that the government desires, not the underlying 
+technology. Level 3 supports approximately 25 billion minutes 
+per month of calling in support of our ISP customers. If 
+measured separately, this volume would place us among the top 
+five local phone companies in the country. Our customers 
+consistently rate us as their best quality provider. However, 
+we do not own or deploy a single circuit switch. Instead, we 
+support the volume with a soft switch, essentially a general 
+purpose computer replacement for the very expensive traditional 
+switching technology. Since we first introduced our soft switch 
+services 4 years ago, our customers have enjoyed approximately 
+an order of magnitude decrease in price.
+    Third, the government should maintain flexibility on which 
+providers they do business with, not just today, but throughout 
+the life of any contract they enter. Since FTS was last 
+awarded, dozens of new entrants have raised hundreds of 
+billions of dollars of capital. The cumulative effect on 
+innovation, pricing and quality brought about by this set of 
+market forces is far greater than any benefits derived from a 
+long term contractual commitment. Locking into one or two 
+providers today would deny the government the market benefits 
+over the life of the contract.
+    In summary, the telecommunications market today does not 
+look like the industry that existed just a few short years ago. 
+In order to best derive best value, we believe that the 
+government's approach to communications procurement should take 
+advantage of these market changes.
+    Thank you.
+    [The prepared statement of Mr. O'Hara follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.079
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.080
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.081
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.082
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.083
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.084
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.085
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.086
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.087
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.088
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.089
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.090
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.091
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.092
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.093
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.094
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.095
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.096
+    
+    Chairman Tom Davis. Thank you very much.
+    Mr. Hogge.
+    Mr. Hogge. Good afternoon, Chairman Davis and members of 
+the committee. I appreciate the opportunity to appear today to 
+discuss the GSA's Networx program. My name is Jerry Hogge, and 
+I am senior vice president of Winstar Government Solutions. I'm 
+here to offer Winstar's perspective as an incumbent supplier in 
+GSA's MAA and FTS 2001 programs, and to offer our specific 
+recommendations as to each of the six issues outlined in your 
+February 17th letter to industry.
+    In addition to the six important issues raised by the 
+committee, I'd like to comment on what Winstar views as the 
+most vital, overarching issue for the Networx program, and that 
+is the ability of the program to properly address homeland 
+security, continuity of operations and their relationship to 
+our Nation's telecommunications networks.
+    As we all know, communications are essential to the 
+efficient and effective operation of any organization. This is 
+particularly true with large, distributed organizations such as 
+the Federal Government, where our telecommunications networks 
+are at the heart of all forms of communication, whether voice, 
+data or video. Through the terrible events of September 11, 
+2001, we learned some very valuable lessons about the 
+importance of communication and the essential role our 
+telecommunications networks serve in crisis situations. 
+Unfortunately and more importantly, we were also confronted 
+with some of the frailties and limitations of our 
+telecommunications networks.
+    One aspect of homeland security and telecommunications 
+networks is physical diversity into and out of key Federal 
+sites. In fact, numerous independent third party experts and 
+observers have concluded that all key commercial and government 
+buildings need to be served by at least two separate 
+facilities-based networks and enter and exit the building from 
+separate points.
+    As such, Winstar contends the Networx program should 
+directly address this important issue. In order for Networx to 
+adequately address these important issues, there should be an 
+express requirement for: One, a comprehensive network inventory 
+assessment; two, a program mandate that critical government 
+sites be identified and that special communications 
+requirements be determined, including physically diverse 
+infrastructure requirements; three, a time down requirement for 
+procuring diverse network connectivity at these critical sites; 
+and four, an ongoing program of review.
+    I will now direct the remainder of my remarks to the six 
+key issues raised by the committee. Concerning a centrally 
+managed program strategy, Winstar continues to see substantial 
+and lasting value in its relationship with the GSA FTS, and 
+believes that there are meaningful benefits for the competitive 
+industry and the Federal agency users through FTS's acquisition 
+expertise and program leadership. A centralized acquisition and 
+program approach can facilitate the establishment of standards, 
+promulgate shared, best common practices, provide an organized 
+evaluation of alternatives, and lend a sensible, unified 
+approach to contract management.
+    For national network requirements, such as those intended 
+to be within the scope of Networx Universal, a centralized 
+approach also reduces transaction costs for the government and 
+for industry participants, thereby making the procurement 
+action more efficient for the parties involved. Both small and 
+large agencies can benefit from GSA's ability to aggregate 
+Federal buying power, and from their highly specialized 
+expertise and telecommunications acquisition and program 
+management.
+    Transition strategies and cost and contract performance 
+period. The transition from one major program to another is a 
+daunting task. Direct costs, such as service initiation 
+charges, as well as indirect costs, such as lost productivity 
+and temporary interruption of operations can be substantial. 
+The time, capital and human resource commitments required by 
+the government as well as the vendor community weigh heavily in 
+the complex calculus of an agency's decision to make a change 
+and thus have a direct link to the contract's period of 
+performance.
+    The transition from the original FTS program to FTS 2000 
+took roughly 18 months, and reportedly cost several hundred 
+million dollars. Approximately 10 years later, the transition 
+from FTS 2000 to FTS 2001 took roughly 2 years to complete and 
+also came at a substantial cost. The magnitude of these 
+transition costs and the lengthy timeframes required to 
+complete the task create inertia against change.
+    We know empirically that movement between programs and 
+among vendors is not something agencies take lightly nor engage 
+in frequently. However, in order for there to be sufficient 
+business opportunity to drive competition at the time of 
+contracting, transition must be a practical and sensible option 
+for agencies as they evaluate the costs and benefits of making 
+a change.
+    In order for Networx to represent a meaningful business 
+opportunity to industry and a rational choice for agency users, 
+GSA must balance these competing factors by: One, creating a 
+shared financial resource to defray one-time costs of 
+transition; two, establishing a 10 to 15-year contract period 
+of performance structured as two or three 5-year periods; and 
+three, providing minimum revenue guarantees sufficient to 
+motivate competition and justify specialized investment that 
+may be required to comply with the requirements of the Networx 
+program.
+    Billing requirements. As with any business opportunity, 
+industry will evaluate the revenue potential against the cost 
+of acquiring and maintaining that revenue. The Federal 
+Government has longstanding and unique requirements for billing 
+telecommunications services. But as the cost of 
+telecommunications services has declined over the past decades, 
+the rationale for many of these unique requirements has 
+diminished. The government and industry have jointly recognized 
+this fact, and have made changes to certain billing 
+requirements. Winstar expects the trend toward commercial 
+standards to continue into the Networx program.
+    Services and technologies required by the agency users. In 
+order for the GSA and the Federal agency users to achieve 
+maximum benefit through the Networx program, there must be a 
+means for ensuring that both mature and leading edge 
+technologies are available to agency users. By mandating 14 
+major service categories, each with multiple sub-service 
+components that must be provided on a ubiquitous basis, the 
+Networx program will inherently limit the number of potential 
+bidders to only the largest telecommunications companies. At a 
+time in our history when technology advances and service 
+innovation are occurring at such a rapid pace, this broad 
+mandate and resulting limitation on potential prime bidders 
+works against the government's interest. Winstar recommends 
+that GSA consider a tiered approach to service offerings 
+designed to take advantage of the strengths of as many 
+companies as possible.
+    In conclusion, I'd like to again congratulate GSA on its 
+accomplishments through FTS 2001 and the MAA program 
+initiatives. GSA has done an exceptional job at managing 
+complex programs through some of the most challenging times in 
+our industry and in our country.
+    At this time in our Nation's history when homeland security 
+is one of our greatest challenges, I submit that economic 
+savings should not be the most important objective for the 
+Networx program. Instead, our collective focus in this 
+procurement should be on ensuring that the Networx program does 
+everything possible to guarantee that telecommunications 
+services are available to facilitate the efficient operation of 
+government in routine and crisis situations, and achieve these 
+objectives by utilizing the strengths of as many 
+telecommunications companies as possible.
+    [The prepared statement of Mr. Hogge follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.097
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.098
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.099
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.100
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.101
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.102
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.103
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.104
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.105
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.106
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.107
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.108
+    
+    Chairman Tom Davis. Thank you very much.
+    Mr. Page.
+    Mr. Page. Thank you, Mr. Chairman and members of the 
+committee. My name is Dave Page, and I'm the vice president for 
+BellSouth Federal Division.
+    It's a privilege to appear before you today to present the 
+views of BellSouth on this new important government program, 
+Networx. Our response to the Networx RFI emphasized the need 
+for open and fair partnering, use of best commercial practices 
+in as many areas of the acquisition process as possible, and an 
+innovative contracting strategy designed to concurrently drive 
+prices downward and reduce contract modification overhead. We 
+have four recommendations.
+    First, Mr. Chairman, we believe both Networx Universal and 
+Networx Select awards should be made at the same time. As the 
+RFI is written today, Networx Universal will receive their 
+award 9 months prior to Networx Select. Under this scenario, 
+Networx Universal awardees will have established themselves as 
+vendors of choice for almost a year prior to Networx Select 
+awardees being able to begin. Subdividing procurements by areas 
+of need would complement the select and universal categories. 
+For example, instead of finding two or three companies in the 
+world that might be universal by the early definitions, you 
+could have 10 companies who offer long distance, VOIP, etc.
+    Second, we also strongly advocate the use of standard 
+commercial pricing structures in billing platforms. CLIN-based 
+pricing, which is an artificial bundling of charges, is 
+government-specific and does not represent best practices in 
+commercial business. CLIN-based pricing requires either the 
+development of a customized billing platform or manual 
+conversion from commercial billing to CLIN billing, both of 
+which are inconsistent with lowering costs.
+    Third, we believe timely contract modifications are needed 
+to provide the most advanced and up to date services to end-
+user agencies. The current modification process under an MAA 
+takes far too long. Specifically, we believe the modification 
+process should be handled either at the regional or national 
+level, but not both. Required information for modification 
+requests should be simple and straightforward: brief technical 
+descriptions, brief descriptions of benefits and pricing. The 
+government should commit to a rapid timeframe within which the 
+modification request would be processed, say 30 days.
+    Finally, moving beyond the incremental to the innovative, 
+addressing timely contract modifications and more flexible 
+pricing strategy, the automatic inclusion of approved tariffs 
+under Networx and the use of tariff pricing as not to exceed 
+pricing would be a significant step forward for GSA. I 
+emphasize that the pricing should be used as a ceiling; 
+discounts would be handled on an individual case basis.
+    Mr. Chairman, BellSouth's recommendations are 
+straightforward and direct. GSA is moving forward with good 
+intentions to be a true best provider to its customers. With 
+the suggestions made today, BellSouth is confident GSA will 
+continue to be the governments' best answer to complex, 
+involved communications contracts awards.
+    Mr. Chairman, BellSouth appreciates the opportunity to 
+share its views, and we welcome any questions you may have.
+    [The prepared statement of Mr. Page follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.109
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.110
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.111
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.112
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.113
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.114
+    
+    Chairman Tom Davis. Thank you very much.
+    Mr. Addeo.
+    Mr. Addeo. Good afternoon, Chairman Davis and members of 
+the committee. My name is Lou Addeo, I'm the president of AT&T 
+Government Solutions.
+    I appreciate the opportunity to present AT&T's views 
+concerning GSA's Networx acquisition strategy. AT&T commends 
+the committee's interest in this important acquisition, and 
+looks forward to working with both the committee and GSA to 
+meet government telecommunications and network needs. AT&T has 
+a proud history of providing service to the government. 
+Thousands of AT&T employees provide sophisticated integration 
+information solutions, professional services and network 
+technology.
+    Networx is a logical follow-on to GSA's successful FTS 2001 
+Fed wireless and satellite programs, and GSA should be 
+commended for its initiative in preparing the Networx 
+acquisition. If properly structured, Networx can provide 
+agencies and taxpayers three important advantages: convergence 
+of services, security and ubiquitous service. We have 
+recommendations for each.
+    First, Networx can encourage convergence of services over 
+IP, Internet Protocol, with the promise of improved technical 
+capability, increased security and lower costs. Agencies will 
+be attracted to providers that can offer such innovations as 
+Web-based business transactions, multi-media instant message, 
+broad band wireless, and grid networking.
+    Second, in the post September 11th era, Networx must 
+address the government's need to have unsurpassed network 
+security and survivability. AT&T has made huge investments in 
+its network, nearly $3 billion in 2003 alone, so it can provide 
+security IT services. Events such as the September 11th 
+attacks, the 2003 blackout, the seemingly daily attacks by 
+computer viruses and worms, and the recent anthrax and ricin 
+attacks on Capitol Hill further demonstrate the need for 
+national security emergency preparedness and continuing plans. 
+For this reason, AT&T recommends that robust security 
+capabilities be expressly required in Networx.
+    Third, the agency mission requirements demand ubiquitous 
+services. Networx should guarantee the agencies that the 
+successful Networx contractors will serve all their existing 
+personnel and customers. AT&T supports the acquisition goals of 
+service continuity to all existing and new FTS 2001 users. We 
+must be able to provide service virtually anywhere. Agencies 
+simply cannot afford to leave some constituencies behind. They 
+must reach every corner of the United States and perhaps around 
+the globe.
+    These three opportunities, convergence, security and 
+ubiquity, make it critical that the Networx acquisition should 
+stay on its present schedule, or perhaps be accelerated, so the 
+government can realize the benefits of both converged 
+technologies and large scale contracting. Our analysis 
+indicates that many agencies recently have bypassed FTS 2001 
+and acquired services through independent acquisitions. 
+Agencies may be taking these unilateral actions because the 
+remaining period of FTS 2001 is short. This short time period 
+introduces substantial limitations into an agency's ability to 
+plan for and address telecommunications and network 
+requirements. For this reason, a new contract is critical.
+    We understand that GSA has the goals of continuous 
+competition, ease of acquisition, use of commercial methods and 
+expeditious transition. Let me discuss each of these. 
+Continuous competition. Multiple contract awards will maximize 
+competition, reduce costs and provide contractors enough 
+business to recover costs and provide best value.
+    Schedule contracts. AT&T agrees with the multi-tiered 
+acquisition strategy because it provides agencies choice and 
+flexibility in satisfying their network needs. To bring 
+agencies even greater flexibility, GSA should provide an 
+additional option for agencies of basic telecommunications-like 
+schedule.
+    Three, contract term and practices. Many GSA objectives can 
+be met through commercial contract terms and practices. For 
+example, some agencies may be satisfied to be billed using 
+commercial billing systems. Commercial systems typically result 
+in simplification, better prices, easier transitions, and more 
+flexible business arrangements. AT&T looks forward to working 
+with GSA and agencies to bring commercial best practices into 
+Networx.
+    Modernization and transition. GSA and user agencies must 
+actively manage and accelerate transition. I urge the Federal 
+Government to move expeditiously on Networx to bring an 
+unparalleled level of service and innovation to U.S. citizens 
+in the 21st century E-Gov. world.
+    I thank the committee for the opportunity to share AT&T's 
+views on Networx acquisition. AT&T is committed to serving the 
+government to assure that this opportunity is fully met. I look 
+forward to any questions you may have.
+    [The prepared statement of Mr. Addeo follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.115
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.116
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.117
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.118
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.119
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.120
+    
+    Chairman Tom Davis. Thank you very much.
+    Ms. Murphy.
+    Ms. Murphy. Mr. Chairman and members of the committee, I 
+want to thank you for giving me the opportunity to testify 
+today.
+    The current acquisition strategy as described in the RFI 
+for Networx is unlikely to provide robust competition from many 
+sources, thereby restricting the government from securing cost-
+effective, high quality services. Moreover, the current plan 
+does not encourage industry to provide new technology or 
+innovative solutions to meet the government's increasingly 
+complex information technology requirements.
+    We believe that the two-contract award approach of Networx 
+Universal and Networx Select is flawed. The Networx Universal 
+acquisition is geared to the traditional long distance 
+carriers, and represents business as usual for FTS and the 
+agencies. The universal procurement would have a small number 
+of awardees. The large number of mandatory services that must 
+be delivered within the United States and to international 
+locations under the Networx Universal procurement reduces 
+competition, limits new market entrants and also reduces the 
+attractiveness of the Networx Select procurement to other 
+competitors.
+    The Networx Select procurement appears to be for all other 
+vendors, both large and small. However, it is unclear how the 
+select vendors will compete with the universal providers, since 
+the select contract is scheduled for award 9 months after the 
+award of the universal contract. The select procurement would 
+not allow incumbent local exchange carriers, competitive local 
+exchange companies, wireless carriers, satellite providers, 
+systems integrators, or small businesses to directly compete 
+with traditional long distance vendors.
+    Some would say that the universal procurement approach is 
+needed to provide service continuity for existing customers. We 
+agree that service continuity should be provided for those 
+customers who do not want to make a change at this time. 
+However, all customers will eventually transition to new 
+technologies, either because they have new application 
+requirements or to take advantage in the improvement in price 
+performance that those new technologies, like Convergence or 
+Voice Over IP will provide. It is incumbent upon industry, GSA 
+and government customers to work together to ensure smooth 
+transitions to different providers or new service platforms. 
+Verizon is confident that we can mitigate transition risks for 
+those customers choosing to make a transition by active project 
+management with dedicated resources.
+    There is no need to artificially create two procurement 
+classifications of universal and select, when the marketplace 
+can determine the best solution. For example, if the Department 
+of Agriculture, with numerous remote sites, has a requirement 
+for services at all locations, then a vendor with greater 
+infrastructure coverage will have an advantage over a vendor 
+with fewer facilities. Conversely, there are other agencies 
+with requirements for services primarily in major metropolitan 
+areas or specific regions where more vendors, including 
+Verizon, could compete equally against traditional long 
+distance carriers.
+    Competition in the marketplace and customer requirements 
+should determine the awardees for these specific task orders. 
+Verizon requests that the government consider several key 
+changes to the Networx acquisition strategy to maximize 
+competition, reduce risk and achieve best value, while ensuring 
+rapid introduction of new technologies and offerings.
+    First, eliminate the distinction between Networx Universal 
+and Networx Select and create one Networx procurement with 
+several service categories, allowing for multiple awardees 
+within each category. Significantly reduce the number of 
+mandatory and ubiquitous service offerings. Develop multiple 
+categories of services, for example, voice, data, converged 
+solutions, and others to allow all segments of the industry to 
+participate in direct competition with the traditional long 
+distance carriers. If desired, some of the standard commodity 
+based service offerings could be placed on GSA schedules. Allow 
+vendors to structure their offerings to the geographies where 
+they provide services with the opportunity to expand them 
+during the life of the contract. Reduce the number of 
+government-unique management, operation, and billing 
+requirements to allow vendors to use their commercial systems, 
+thereby reducing costs and risk for the government. Finally, 
+create a rapid contract modification process to add new 
+technologies as they are made available.
+    In summary, GSA should allow the marketplace to drive the 
+service offerings, geographic coverage and prices for the 
+Networx acquisition. The dual procurement approach will only 
+dilute the power of the marketplace and cause increased costs, 
+higher risks and added confusion for the government. A single 
+procurement with multiple awards based on several categories of 
+service configured for maximum industry participation will 
+produce the most flexible and stable contract platform for the 
+future and result in cost savings for the government.
+    I thank the committee for the opportunity to discuss the 
+Networx procurement, and would be pleased to answer any 
+questions.
+    [The prepared statement of Ms. Murphy follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.121
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.122
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.123
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.124
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.125
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.126
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.127
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.128
+    
+    Chairman Tom Davis. Thank you very much.
+    And Jerry, before we get to you, let me just note, that was 
+a vote. We have two votes on the floor. What I intend to do is 
+let you finish your testimony, try to get a question or two in, 
+then I'm going to turn the meeting over to Ms. Norton. 
+Unfortunately, she doesn't get to come over and vote with us. 
+Now, we're trying to change that, but that's another whole 
+story. [Laughter.]
+    And I'm going to give her some of my questions to ask. And 
+Chris, if you want to come back, we can hold them or we can 
+give the questions, we can get them all in the record. That way 
+we can move you on. I know from your perspective, when this is 
+over, instead of holding you for what could be some time, 
+consultants bill the whole time. So we are conscious of that--
+[laughter]--and I want to get them out of here as quick as we 
+can, so our phone bills stay low. Mr. Edgerton.
+    Mr. Edgerton. Thank you, Mr. Chairman and members of the 
+committee. Good afternoon. My name is Jerry Edgerton, I'm the 
+senior vice president of MCI's Government Markets Division. I 
+appreciate the opportunity to appear before the committee 
+today. Thanks to you, Mr. Chairman, and the committee, for your 
+support of the FTS program.
+    I'm here today to share MCI's perspective on GSA's upcoming 
+Networx procurement. MCI is the largest telecommunications 
+provider to the U.S. Government. My company supports more than 
+75 Federal agencies, and some of the most complex and demanding 
+networks in the world.
+    MCI has had the privilege of working under a number of 
+contract vehicles to provide the best possible service on 
+behalf of the government to the American taxpayer. Our guiding 
+principle has been and will always be to make sure that the 
+Federal agencies get the full benefits of competition, 
+including the best available technology, world class service, 
+innovative problem solving, and most importantly, low prices.
+    I would like to also thank the GSA, particularly the FTS 
+organization, for their leadership during a tumultuous time in 
+the industry. Their leadership has resulted in the FTS 2001 
+program that has delivered very strong results across all 
+government agencies. According to a recent GSA IG report to 
+Congress, and as has been previously mentioned here today, FTS 
+has saved the government more than $574 million in fiscal year 
+2003 alone, and almost $2 billion for the life of the program. 
+The same report finds that the pricing for FTS 2001 services 
+are 53 percent lower than the same services provided to 
+commercial clients. Agencies and taxpayers have been well 
+served by FTS 2001.
+    MCI has worked closely with GSA and government agencies to 
+deliver innovative solutions in many areas, including call 
+centers, security solutions, and importantly, disaster 
+recovery. These services were added to the FTS contract as 
+customer need and technology evolved since the original award 
+in 1998.
+    MCI continues to bring competition and innovation to the 
+FTS program. Even through the difficult challenges of the past 
+2 years, we have remained laser focused on quality and customer 
+service. MCI has overcome the challenges and is here today a 
+new company. We have a new board of directors and a new senior 
+management team. We have an unsurpassed commitment to the 
+highest business ethics, and will be the model for corporate 
+governance.
+    The new MCI has been working tirelessly to restore public 
+trust and successfully emerge from Chapter 11. With the 
+exception of completing our financial filings, MCI has 
+satisfied all significant tasks required for its emergence, 
+including obtaining all Federal and State regulatory approvals. 
+Emergence is expected within the next couple of months.
+    In addition, after a careful review by GSA, MCI was found 
+to be a responsible government contractor. An independent third 
+party conducted a customer satisfaction survey in August 2003 
+to gauge how well MCI is serving our government customers on 
+the FTS 2001 program. MCI received universally high marks for 
+communication and overall performance. I'm proud to say that 
+our customers cited MCI's people as its greatest strength. This 
+is important to us, because it reaffirmed that our account 
+teams and customer service specialists were continuing to focus 
+on our customers, despite the challenges facing the company 
+during this period.
+    MCI is convinced, based on our experience, that the Networx 
+program will continue to build on the success of the FTS 2001, 
+and can maximize its primary goals of continuity, innovative 
+solutions and flexible and competitive pricing. In our response 
+to the Networx RFI, we recommended a three-tiered approach. The 
+first category would be commodity-like services with commercial 
+support. The second would add more complex services and 
+government-specific management and operations support, similar 
+to FTS 2001. The third would be task orders for customized 
+complex requirements. This three-tiered approach will maximize 
+cost savings by leveraging the buying power of the entire 
+government, maintaining the flexibility to obtain customers 
+services and benefit from ongoing innovations and technology.
+    Mr. Chairman, there are a couple of additional issues that 
+I would like to bring to the committee's attention that will 
+affect the ultimate success of the Networx program. First, a 
+binding consideration for many agencies is the continuity of 
+service. Agencies with remote small locations should not be 
+left behind, nor should the constituents that they serve. The 
+Networx contract must require the winning vendors to provide 
+service everywhere that service is provided to today. Vendors 
+may need to form partnerships to achieve this goal. It is a 
+critical necessity for agencies that offer services directly to 
+the public, such as the Social Security Administration or the 
+Indian Health Services or the Department of Agriculture, as 
+well as agencies responsible for national security and defense.
+    Second, to reduce the overall costs to agencies and 
+ultimately the taxpayers, GSA should limit the expansion of the 
+FTS 2001 billing, reporting and monitoring requirements. 
+Current FTS 2001 requirements provide significant benefits to 
+all agencies. However, if an agency has unique requirements, a 
+task order approach eliminates the possibility of a significant 
+cost increase borne by all agencies for a solution that 
+benefits only a few.
+    In conclusion, let me answer directly the question posed by 
+the committee: Does a centralized government telecom plan jive 
+with an evolving market? The answer is definitely yes. The FTS 
+2001 program saved government agencies both large and small 
+hundreds of millions of dollars, while at the same time 
+allowing them to address the unique requirements of their 
+missions. The Networx contract will continue to build on the 
+success of FTS 2001 by providing similar cost savings, assuring 
+that agencies have the flexibility to meet all of their 
+communications needs, and providing an efficient vehicle for 
+Federal users to obtain innovative solutions in an evolving 
+marketplace.
+    I thank you for the opportunity to appear. I'm available 
+for any questions.
+    [The prepared statement of Mr. Edgerton follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T4004.129
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.130
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.131
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.132
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.133
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.134
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.135
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.136
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.137
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.138
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.139
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.140
+    
+    [GRAPHIC] [TIFF OMITTED] T4004.141
+    
+    Chairman Tom Davis. Thank you.
+    Let me just very quickly throw out two questions that I've 
+got, then Ms. Norton has some others, and I'll turn the gavel 
+over to her, and we'll go over and vote. I'll come back if 
+she's not through, but we may well be through.
+    No. 1, is expanding the scope of the contract to allow 
+State and local governments to participate off the schedule, 
+how does that affect you? Your rates are so low in this case 
+that you can't afford to do this to others. I'd like to just 
+get a reaction to that, to the State and local governments 
+being able to use this and buy anything whether it's GWAC 
+schedules, whatever.
+    And second, some have suggested that it's imperative that 
+all government locations be served by a single, ubiquitous 
+contract, others argue that innovative solutions to some 
+communications needs would be encouraged by not mandating 
+service to all current locations, and perhaps the standard 
+ubiquitous service model may not be appropriate. What's your 
+response to that? The ubiquitous model or scenarios that are 
+tough to serve, they're areas where you don't make any money. 
+I've gotten different reactions to that as I hear the 
+testimony.
+    So those are my general questions. I'm turning the gavel 
+over to Ms. Norton, and she has the authority to adjourn this 
+if she wants. I told her not to get too comfortable in the 
+chairman's chair. [Laughter.]
+    But we are working together on this, and I thank you very 
+much.
+    Ms. Norton [assuming Chair]. I'm not going to sit in the 
+Chair's seat, because I would surely be tempted not to give it 
+up if he comes back. [Laughter.]
+    But I am going to allow any of you who wish to begin to 
+answer the questions first that the Chair has just posed.
+    Mr. D'Agata. Ms. Norton, I would support State governments 
+having the opportunity to procure off of Networx. They, I know, 
+would be delighted to have that opportunity. It would save 
+procurement costs on their part, and it would benefit industry 
+from having to compete on a State-by-State basis for the needs 
+of the States.
+    Ms. Norton. On that question, on that one issue, is there 
+anyone else who wants to respond?
+    Mr. Addeo. Yes, Congresswoman Norton. I support it in a 
+general sense, having supported State and local governments for 
+a few years. They do have some special approaches to doing 
+business.
+    Now, I think in general, they could take advantage of a 
+contract of this type. But some State and local governments 
+also pass down their price performance to non-State and local 
+governments. So it would almost look as if they were passing 
+down the pricing to commercial business. In that particular 
+case, I would see that is a blending of the protection 
+generally afforded Federal Government, State and local 
+government in terms of pricing, that would be an issue. Other 
+than that, I don't think it would be an issue.
+    Ms. Norton. What kind? Are those commercial entities, or 
+non-profits?
+    Mr. Addeo. Yes, they're commercial. Some could be non-
+profits, some could be commercial and some could be construed 
+as both.
+    Ms. Norton. Any other responses on that?
+    Mr. Edgerton. I'd like to respond to that. We provide 
+services to several States. What we find generally in conflict 
+is that their procurement regulations are State specific, and 
+they would probably have to make some exceptions in order to 
+deal with, and buy off of, the FTS contract. It would not be a 
+universal, just the privilege to buy off the FTS contract, but 
+not necessarily allow the States to do that.
+    Ms. Norton. No, it wouldn't, so those who wanted to might 
+and those who didn't----
+    Mr. Edgerton. If their procurement rules allow that. We're 
+seeing all kinds of different procurement rules.
+    Ms. Norton. And some might be quite willing to change their 
+procurement rules if in fact there were cost savings here, as I 
+assume there would be. I'm certain for the District of Columbia 
+there would be.
+    Are there other responses to the Chair's first question? 
+Then we'll go on to his second question. Yes, Ms. Murphy.
+    Ms. Murphy. With respect to the first question, Verizon 
+would also support cooperative purchasing, assuming that it 
+could be limited to governmental entities. We see that as 
+allowing all of the public sector to take advantage of the 
+broader purchasing power of the Federal Government.
+    Ms. Norton. How about Mr. Davis' second issue? Does anyone 
+want to comment on that one?
+    Ms. Murphy. Ms. Norton, with respect to ubiquitous service 
+or not, Verizon's position is that if you had a procurement 
+approach that provided specific task orders, the agencies could 
+decide whether they needed service to be provided ubiquitously 
+or not. When we look at traditional voice long distance 
+services, for example, those have traditionally been offered on 
+a ubiquitous basis. We certainly wouldn't want to disadvantage 
+those agencies that want to continue that way.
+    But as you look at the emergence of new technologies, very 
+often those are not available on a ubiquitous basis, they may 
+come out first in larger metropolitan areas and then be offered 
+more broadly over time. We would especially want newer 
+technologies to be available to the government on a non-
+ubiquitous basis, so that the agencies could perhaps have the 
+opportunity to pilot new technologies, which would allow them 
+to ease their transition costs and risks.
+    Ms. Norton. My understanding from the question that I asked 
+the prior panel is that they are willing to look into that. I'm 
+not sure. It does seem to me if you're talking about a country 
+as big and diverse as this, we've got to look at those options. 
+I was pleased to see that was seriously being considered.
+    Mr. Edgerton.
+    Mr. Edgerton. Yes, Madam Chairwoman. Do you like that 
+title?
+    Ms. Norton. I'll accept that. [Laughter.]
+    Mr. Edgerton. Our experience in dealing with the customers 
+and the agencies is that, when they roll out a program, they 
+roll it out ubiquitously. They may do it on a timing basis, but 
+the people in New Mexico or the people at Social Security 
+Administration, I think our toughest site was at the bottom of 
+the Grand Canyon. They want the same level of service. They 
+want the same response time as the people in Baltimore get.
+    So it's a demand brought about by technology. I was 
+thinking about what's changed since we entered into this 
+contract. Most of us had modems. What's a modem? And we dialed 
+up at 56 kilobytes, and now most of us have cable TV access or 
+DSL from Verizon. And in turn, just the expectations have 
+changed. And that's taking place in the agencies and by the 
+customers. So the ability to provide ubiquitous services is a 
+demand. We are in a position and have attempted to fulfill that 
+demand.
+    Ms. Norton. Mr. Addeo.
+    Mr. Addeo. I'm not as sweet talking as Jerry, but--
+[laughter.]
+    Ms. Norton. Just try a little bit of it. [Laughter.]
+    Mr. Addeo. I'll work on it.
+    Mr. Edgerton. And you never will be.
+    Mr. Addeo. No, I won't. I won't.
+    I think ubiquitous service in the dimension that we just 
+talked about is one that we all support. The network and the 
+carrier community and the partners here at the table are not 
+just using and looking at ubiquity from the perspective of 
+providing basic service alone in themselves, but of providing 
+services through partners. And networks are evolving 
+technologically, and so are we evolving through partnerships, 
+and we know how to do not only the basic network work, but we 
+also know how to do network integration work, which is a 
+natural evolution of where we're going in terms of 
+telecommunications.
+    Ms. Norton. Mr. O'Hara.
+    Mr. O'Hara. Ms. Norton, I believe that there is an absolute 
+requirement for ubiquity of service. However, it's not apparent 
+to me that a single provider needs to be relied upon to provide 
+that service. No carrier on this panel is capable of providing 
+all services themselves. They do partner, they do select 
+teaming partners, etc. However, there is a cost associated with 
+that partnership, depending on the sophistication of the 
+company involved. Either way, those costs of the partnership 
+get passed through to the government, and I would submit that 
+in many instances, the government may be better off by taking 
+business, and buying, for instance, from a Verizon in Verizon 
+territory versus an SBC in Verizon territory that would 
+probably be subcontracting to Verizon.
+    So while there may be a need at the agency level for 
+ubiquity of service, it's not apparent that you'd need to have 
+a requirement that all providers provide all things everywhere.
+    Ms. Norton. Yes, sir, is this Mr. D'Agata?
+    Mr. D'Agata. Yes. Ms. Norton, I think one of the beauties 
+of the FTS 2001 program is that the General Services 
+Administration is able to aggregate requirements to the benefit 
+of all agencies. So contractors consider that and provide 
+prices that are very competitive.
+    Most of the agencies that we do business with want a single 
+point of contact for their services. So if it happens to be 
+Customs and Border Patrol and they have services going to 
+remote sites around the country, they want someone to manage 
+that for them. They want someone to provide a wide area network 
+for all of those locations, and they want service level 
+agreements to be met at each site. One site is not necessarily 
+more important than another.
+    So I think the benefit to the FTS 2001 program and 
+hopefully the Networx program is that it will be able to 
+provide ubiquity to all of the agencies.
+    Ms. Norton. This discussion is most important. First of 
+all, we've broken down ubiquity to what it means. Yes, for 
+Border Patrol, but what about the 50 other agencies who may 
+have needs that are far more concentrated? That's why somebody 
+needs to look at this. If we've got the big bucks here, we have 
+to look at what in fact ubiquity means, and whether indeed what 
+we have now is all things told, the best way to do it, because 
+you don't make a hell of a lot of savings breaking it up into 
+several companies.
+    But it's clear from the testimony of the prior panel they 
+don't know. But what is also clear is that they want to find 
+out. And that's why I think everybody here ought to be 
+satisfied with that notion. Was there anyone else who wanted to 
+respond on the ubiquity question?
+    Mr. Page. I would like to just kind of tag along on what 
+you just said. For example, Health and Human Services might 
+want a ubiquitous nationwide network, but CDC, which is located 
+in Atlanta, may have some very unique requirements that don't 
+fit that ubiquitous network. I think we need to have the 
+flexibility to be able to look at the people that do want the 
+network that's nationwide, and the ones that are just very 
+local in nature, with very specific needs.
+    Ms. Norton. Are there any other responses there? Let me ask 
+a question that the chairman wanted to ask. And I'd like to 
+hear what each of you, what the response of each of you would 
+be to this question. Will your company be able to participate 
+with a reasonable chance of success in Networx as it is 
+currently configured in the RFI? Why don't we just start here 
+and go down the line.
+    Mr. D'Agata. From Sprint's standpoint, Ms. Norton, we feel 
+that we will be able to compete in the Networx architecture.
+    Mr. Johnson. Ms. Norton, from SBC, absolutely we could 
+compete. I think there would be some of the issues that we 
+outlined earlier, transition, billing, things like that, but 
+absolutely we'd be in a position to compete.
+    Mr. O'Hara. From a Level 3 perspective, I suspect that we 
+could compete. We may choose not to compete for the universal 
+portions of the program, as the government through that program 
+is essentially shifting risks and costs onto Level 3 where we 
+don't see adding a lot of value. To the extent that a tiered 
+approach or some other select approach is adopted, then I think 
+we could bring tremendous value through this process to the 
+government.
+    Mr. Hogge. As far as Winstar is concerned, I guess the 
+answer depends upon the ultimate answer to the ubiquity 
+question, how that turns out. In terms of Winstar competing for 
+this as a prime bidder, if ubiquity turns out to mean 
+everything everywhere, particularly with some concept of a 
+postalized rate, that would be quite a challenge for Winstar, 
+given our network architecture and infrastructure is focused 
+and concentrated in major metropolitan markets. If ubiquity 
+turns out to mean something else, then the answer to my 
+question would improve in terms of Winstar competing for 
+Networx as a prime bidder. Certainly, as an incumbent provider 
+in the MAA program and FTS 2001, we have a substantial 
+incumbency position, particularly on the local side. So we have 
+demonstrated our ability to compete. It's just the scope and 
+breadth of the way the RFI is written today that is giving us 
+some cause for concern.
+    Mr. Page. From a BellSouth perspective, we certainly could 
+go after the universal part of Networx. However, we would have 
+to do that through many layers of subcontractors to be able to 
+hit the ubiquity that it currently calls for. At that business 
+case review, we might choose not to do so. That's why we feel 
+strongly that we need to have the merging of the select and the 
+universal with different categories.
+    Mr. Addeo. AT&T feels strongly that we could compete, given 
+the current RFI. I think over 49 respondents came in and 
+responded to it. And with regard, as we follow on with the 
+discussion on ubiquity, I think it really brings to the fore 
+one of the key questions. We will be partnering with other 
+carriers, other companies and other partners, either directly 
+in, and neither to the universal and/or the other and perhaps 
+on the schedule side.
+    Ms. Murphy. Ms. Norton, Verizon would have difficulty 
+responding to the universal portion of Networx on our own, 
+without extensive partnerships that would add cost to the 
+government. We have not yet determined whether we would be 
+interested in participating in the select portion, because that 
+has not been as well defined so far. Assuming that GSA, because 
+of its openness to some of the ideas discussed today, combines 
+the procurements into one with some multiple categories where 
+there is the ability to provide services on a more flexible 
+basis, then Verizon would be well positioned to compete on the 
+Networx contract.
+    Mr. Edgerton. I find it fascinating that we, in fulfillment 
+of the current set of services of FTS 2001, use all the people 
+at this table to fulfill those services. We have contracts and 
+basically use these competitors to provide the services in 
+fulfillment of FTS 2001. So we are in a position to compete and 
+look forward to it.
+    Ms. Norton. All right, now, I want to get a little 
+competition going on the panel. [Laughter.]
+    As you might have gleaned from my earlier comments, I'm 
+interested in the lowest price for the government, of course 
+with the requisite quality of service. But I belong to the 
+``show-me school'' when it comes to lowering prices. There's a 
+kind of instinctive notion that if you have several categories 
+of service and multiple awards in each category that you would 
+lower prices. But that's instinctive. I'm not sure it's true.
+    Would any of you be prepared to tell me why the price for 
+the government would be lower than it is now in your view, if 
+in fact we have that kind of competition among categories of 
+service and with multiple awards to a number of companies? Why 
+would the price be lower than it is now?
+    Mr. Addeo. At the risk of starting the war, Madam 
+Chairwoman, although I don't think there would be--I do think 
+that a couple of comments first of all, I don't think, if this 
+was a like-for-like contract, that you'd see a significant 
+amount of price reductions. Although I don't think it will be.
+    I do think, however, that some of the----
+    Ms. Norton. Why don't you think so? If competition is 
+supposed to do that, why doesn't it do it in this case?
+    Mr. Addeo. I think that the current services, if you 
+compare them against previous contracts, they're managed every 
+year down, automatically there's a price reduction, and there's 
+some market-to-market benchmarking already that exists within 
+the contract. I think you heard already that the gentleman from 
+Sprint had indicated that there was some concern as to the 
+pricing on access, because there was not, in his forward view, 
+the pricing on access reductions that he put into his contract 
+where perhaps the others didn't win.
+    But I think that there's convergence coming on with the 
+network, where you'll see price performance enhancements and 
+things like voice and video, which cost probably more than they 
+need to cost right now, over time being converged into a 
+technology that will be able to help reduce costs. That has to 
+be identified and borne out over the next few months, few 
+years. But you'll get substantial price reductions and price 
+performance changes. But not on the like-for-like services.
+    Ms. Norton. Yes, Mr. O'Hara.
+    Mr. O'Hara. This is a case where, not surprisingly, I 
+actually do disagree with a number of the other members of the 
+panel. I think if you just look at what has happened in the 
+private sector over the course of the last 3 or 4 years, at the 
+differences in terms of price, the rate of price performance 
+improvement or price compression. In those segments of the 
+business that have been highly competitive versus those other 
+segments of the business that have been less competitive, at 
+least on a relative basis, you see radical changes in the rate 
+of price performance.
+    I don't see any reason to believe that same dynamic would 
+not play out within the government sector. Whether you take the 
+government's buying and you break it up into two or three 
+buckets, they still represent massive buckets. Even if you were 
+to break it down into many dozens of buckets, it would still 
+have the wherewithal and the clout to bring tremendous pricing, 
+complimented by much more rigorous competition for some 
+segments of the business. And in those segments where you may 
+not have as rigorous a competition, I think what I'm hearing 
+for the Montanas and the Border Patrols and the like, you're 
+still going to have at least three people competing, which is 
+as good as you're likely to get through the universal approach 
+in those areas.
+    So I think there's tremendous benefit to be gleaned. I 
+think the evidence from the private sector would bear that out.
+    Ms. Norton. You know, Mr. Addeo, I hear what you're saying, 
+and with this kind of contract, perhaps it is the case, you 
+understand it is counterintuitive. It's counterintuitive to 
+say, particularly when we're dealing in IT, there are things 
+that even my IT people, they're almost giving them away now 
+compared to what we were paying for them 3 years ago. It 
+doesn't happen in everything that way, but certainly in IT, you 
+just can't keep up with what competition has done.
+    And again, I recognize this is a unique contract. There's 
+not another contract like this in the world. So I'm willing, 
+and I believe that GSA is willing, to look at what Mr. O'Hara 
+refers to, which is the experience in the private sector, to 
+see if it obtains here. But we ought to see if it obtains here, 
+recognizing the uniqueness of the area in which we are 
+operating with this GSA contract.
+    Let me ask another question while the chairman is getting 
+himself together here. Does the bundling of services, which is 
+what we have here, make it harder or easier for small and 
+minority businesses to participate in this contract?
+    Mr. Johnson. Ms. Norton, I think absolutely, because I 
+think there's always going to be a certain niche----
+    Ms. Norton. What is absolutely?
+    Mr. Johnson. That it would help, having minority businesses 
+involved. I think certain services, especially a lot of the new 
+tech, Voice Over IP, broadband deployment, I think there's 
+going to be an active role, especially in certain geographies 
+where there's a role for those businesses to play.
+    As was stated earlier, I don't think any one industry 
+participant can be all things to all people. There's going to 
+have to be those kinds of relationships.
+    Ms. Norton. Mr. Page.
+    Mr. Page. I honestly think this is one of those ubiquity 
+questions also, because I think where you really get the most 
+for your small, disadvantaged businesses, the most use for 
+them, the most advantage for them is in those unique little 
+small areas, niche areas, where they can be probably more 
+nimble than most of the organizations represented on this panel 
+today. And they are able to work with a larger company or on 
+their own to go after those niche, very specific need 
+businesses.
+    I think it would offer them, being able to bundle a lot of 
+things together would give them a unique advantage.
+    Ms. Norton. Your industry provides an opportunity for the 
+new crop, particularly, of women and minorities who missed out 
+when the great companies of the United States were built. So we 
+hope you're not building another white male industry, when in 
+fact we're starting from the ground up, and there are lots of 
+young people out here from the broad spectrum of American 
+society who could easily participate on the ground floor and at 
+the highest levels in this industry.
+    Mr. Addeo.
+    Mr. Addeo. I think at this table, we certainly have that 
+problem. But I do think there is no doubt that the GSA is going 
+to have this in mind when they do this contract. And there are 
+probably all these companies here before you have what they 
+call small business mentoring programs, use of 8(a)'s. And 
+again, we keep talking about the network business at its basic 
+level. We're going to be providing basic services. When we talk 
+about applications and new changes into the network and new 
+partnership space, all that space or a majority of that space 
+should be taken up by partners and then serious partners with 
+regard to mentoring programs and small businesses.
+    Ms. Murphy. Ms. Norton, I feel honor-bound to respond, 
+under the circumstances. Scary as it may be, I'm going to agree 
+with Mr. Addeo that when you're providing basic services, those 
+commodity-like services, the players that are currently in the 
+marketplace are the players who will be providing those.
+    But as you look at the new technologies and the ability 
+under the Networx contract to provide solutions to meet 
+agencies' needs, there's a tremendous opportunity for 
+partnering with small business, women and minority-owned firms 
+and 8(a). I know that's an area that we've had particular 
+success, when there is a solutions component to these contracts 
+that allow us to provide a broader suite of services.
+    Ms. Norton. Mr. Chairman, if I could just ask one final 
+question.
+    Chairman Tom Davis. [resuming Chair]. Sure.
+    Ms. Norton. I'm a member of the Homeland Security 
+Committee. Obviously security is a primary issue in your 
+business. I'm wondering about concentration, a contract that 
+concentrates services. When the airlines went out, and who 
+would have thought that would ever have occurred in this 
+region, Mr. Davis and I were left with an airport that was 
+closed for 2 weeks, amazingly more than any place else.
+    But what happened was, people hopped on Amtrak and got out 
+of Dodge that way, and I suppose other ways as well. But Amtrak 
+had a great flow of business during that time. I'm wondering 
+whether we increase or diminish security by multiplying service 
+providers and what your view of that is?
+    Ms. Murphy. Ms. Norton, you speak to something that's very 
+important, and it comes down to how you define ubiquity or 
+continuity of service as part of the new contract, and why 
+there needs to be a place for telecommunications providers to 
+provide services in perhaps not all the way to the bottom of 
+the Grand Canyon in every single case.
+    If we look at the events of September 11, in particular 
+what happened in New York and at the Pentagon, one of the great 
+lessons learned by our customers is that continuity of 
+operations requires diversity up to and including vendor 
+diversity, carrier diversity, to make sure that in the event of 
+another disaster they can continue to operate.
+    Ms. Norton. Mr. Edgerton.
+    Mr. Edgerton. I'd like to comment that since September 
+11th, there have been lots of changes in network architecture 
+and technology and diverse routings and so forth, to again 
+provide the assurance that you have continuity of service, at 
+least on your backbone networks. The next piece is how do you 
+do that last mile and make sure there's continuity of service. 
+That's one of the benefits of a procurement like this, that you 
+can aggregate services traditionally in GSA facilities or 
+government areas, and then get even a further level of 
+redundancy as part of the overall solution.
+    Ms. Norton. Mr. Edgerton, on this you all have my sympathy. 
+All I can tell you is that when we had that blackout in the 
+Northeast, it spread all over the country because of the 
+interconnection of all of these.
+    Mr. Edgerton. The good news is the telecommunications 
+system continued to work. [Laughter.]
+    Ms. Norton. OK. Mr. Chairman, I do want to say, in turning 
+back your gavel, that you indicated that I did not have a vote 
+on the House floor. And I want to thank you for helping me in 
+that great 200-year fight. But I do want to put everybody on 
+notice that I do have a vote in this committee. [Laughter.]
+    Chairman Tom Davis. And a strong voice, if you haven't 
+noticed. [Laughter.]
+    Ms. Norton. And Mr. Chairman, I want to compliment you 
+finally because as I looked at the size of this panel and noted 
+the many--this is the biggest panel I think this chairman has 
+had since he took over the gavel--I think it shows that the 
+chairman believes in competition, because he's brought the 
+whole industry here. And I'm going to coin a new slogan for 
+him, leave no company behind. [Laughter.]
+    Chairman Tom Davis. Let me thank the panel for bearing with 
+us. We started late this morning, and you never know. When we 
+started the markup it was going to be like that, and things 
+happened along the way.
+    We appreciate your bearing with us. I appreciate GSA for 
+being here and continuing to take notes on this. I think the 
+industry input is really important. The difficulty is that what 
+we think we're going to get today isn't what we'd have gotten 2 
+or 3 or 4 years ago. You're one of the most rapidly 
+technologically developing industries in the world. And we need 
+to maintain that flexibility, where we can come in and out and 
+just get the best deal for the U.S. taxpayers and the 
+government every step of the way.
+    Your companies are leading the world. We're proud to have 
+you here today. Good luck to all of you. Thank you.
+    [Whereupon, at 1:56 p.m., the committee was adjourned, to 
+reconvene at the call of the Chair.]
+    [Additional information submitted for the hearing record 
+follows:]
+
+[GRAPHIC] [TIFF OMITTED] T4004.142
+
+[GRAPHIC] [TIFF OMITTED] T4004.143
+
+[GRAPHIC] [TIFF OMITTED] T4004.144
+
+[GRAPHIC] [TIFF OMITTED] T4004.145
+
+[GRAPHIC] [TIFF OMITTED] T4004.146
+
+[GRAPHIC] [TIFF OMITTED] T4004.147
+
+[GRAPHIC] [TIFF OMITTED] T4004.148
+
+[GRAPHIC] [TIFF OMITTED] T4004.149
+
+[GRAPHIC] [TIFF OMITTED] T4004.150
+
+                                 <all>
+
+</pre></body></html>

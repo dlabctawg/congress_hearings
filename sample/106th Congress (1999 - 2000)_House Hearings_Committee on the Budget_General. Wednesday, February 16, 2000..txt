@@ -1,0 +1,2708 @@
+<html>
+<title> - PRELIMINARY ANALYSIS OF PRESIDENT CLINTON'S FISCAL YEAR 2001 BUDGET</title>
+<body><pre>
+[House Hearing, 106 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+ 
+
+ 
+  PRELIMINARY ANALYSIS OF PRESIDENT CLINTON'S FISCAL YEAR 2001 BUDGET
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                        COMMITTEE ON THE BUDGET
+                        HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+           HEARING HELD IN WASHINGTON, DC, FEBRUARY 16, 2000
+
+                               __________
+
+                            Serial No. 106-8
+
+
+                               <snowflake>
+
+
+           Printed for the use of the Committee on the Budget
+
+                                  ------
+
+                       U.S. GOVERNMENT PRINTING OFFICE
+62-608cc                       WASHINGTON : 2000
+
+
+
+                        COMMITTEE ON THE BUDGET
+
+                     JOHN R. KASICH, Ohio, Chairman
+SAXBY CHAMBLISS, Georgia,            JOHN M. SPRATT, Jr., South 
+  Speaker's Designee                     Carolina,
+CHRISTOPHER SHAYS, Connecticut         Ranking Minority Member
+WALLY HERGER, California             JIM McDERMOTT, Washington,
+BOB FRANKS, New Jersey                 Leadership Designee
+NICK SMITH, Michigan                 LYNN N. RIVERS, Michigan
+JIM NUSSLE, Iowa                     BENNIE G. THOMPSON, Mississippi
+PETER HOEKSTRA, Michigan             DAVID MINGE, Minnesota
+GEORGE P. RADANOVICH, California     KEN BENTSEN, Texas
+CHARLES F. BASS, New Hampshire       JIM DAVIS, Florida
+GIL GUTKNECHT, Minnesota             ROBERT A. WEYGAND, Rhode Island
+VAN HILLEARY, Tennessee              EVA M. CLAYTON, North Carolina
+JOHN E. SUNUNU, New Hampshire        DAVID E. PRICE, North Carolina
+JOSEPH PITTS, Pennsylvania           EDWARD J. MARKEY, Massachusetts
+JOE KNOLLENBERG, Michigan            GERALD D. KLECZKA, Wisconsin
+MAC THORNBERRY, Texas                BOB CLEMENT, Tennessee
+JIM RYUN, Kansas                     JAMES P. MORAN, Virginia
+MAC COLLINS, Georgia                 DARLENE HOOLEY, Oregon
+ZACH WAMP, Tennessee                 KEN LUCAS, Kentucky
+MARK GREEN, Wisconsin                RUSH D. HOLT, New Jersey
+ERNIE FLETCHER, Kentucky             JOSEPH M. HOEFFEL III, 
+GARY MILLER, California                  Pennsylvania
+PAUL RYAN, Wisconsin                 TAMMY BALDWIN, Wisconsin
+PAT TOOMEY, Pennsylvania
+
+                           Professional Staff
+
+                    Wayne T. Struble, Staff Director
+       Thomas S. Kahn, Minority Staff Director and Chief Counsel
+
+
+
+                            C O N T E N T S
+
+                                                                   Page
+Hearing held in Washington, DC, February 16, 2000................     1
+Chart: Federal Reserve Board Chairman Alan Greenspan's quote on 
+  surpluses......................................................     3
+Chart: Inflated baselines........................................     4
+Statement of Dan L. Crippen, Director, Congressional Budget 
+  Office.........................................................     6
+    Chart 1: CBO Baseline Projections of the Surplus.............     8
+    Chart 2: Indebtedness to the Public Under the CBO Baseline...     9
+    Chart 3: Changes in CBO Projections of the Total Surplus 
+      Since July Under the Capped Baseline.......................    10
+    Chart 4: Economic Assumptions................................    11
+    Chart 5: Increases in Workers and Social Security 
+      Beneficiaries..............................................    12
+    Chart 6: GDP Fraction........................................    13
+Prepared statement of Dr. Crippen................................    13
+Written response to information requested by Mr. Minge concerning 
+  States' tax actions during times of surplus....................    41
+
+
+
+  PRELIMINARY ANALYSIS OF PRESIDENT CLINTON'S FISCAL YEAR 2001 BUDGET
+
+                              ----------                              
+
+
+                      WEDNESDAY, FEBRUARY 16, 2000
+
+                          House of Representatives,
+                                   Committee on the Budget,
+                                                    Washington, DC.
+    The committee met, pursuant to call, at 10:25 a.m. in room 
+210, Cannon House Office Building, Hon. John R. Kasich 
+(chairman of the committee) presiding.
+    Members present: Representatives Kasich, Chambliss, Franks, 
+Smith, Hoekstra, Gutknecht, Sununu, Ryun of Kansas, Wamp, 
+Green, Fletcher, Miller, Ryan of Wisconsin, Toomey, Spratt, 
+Rivers, Thompson, Bentsen, Davis, Markey, Clement, Moran, 
+Hooley, Lucas, and Holt.
+    Chairman Kasich. 10:25 a.m. The hearing will come to order 
+and--I don't know what that cartoon is--it is not mine. Is that 
+yours?
+    Mr. Crippen. It is.
+    Chairman Kasich. It says, I found out about Santa and the 
+tooth fairy, and now I am beginning to wonder about the budget 
+surplus. Frank and Ernest. That is pretty good. It will not 
+take the place, though, of Charles Schulz, as I think everybody 
+will admit. What an absolutely amazing development that on the 
+very last day of the publishing of Charles Schulz's work, that 
+the man passed, and everybody I know thought what a great--how 
+great he was for children and for adults probably more than 
+children.
+    Dan, we are glad to have you here this morning. I am glad 
+that you are working hard. First of all, I think you have taken 
+your share of criticism, and I think--and I don't--I am not 
+happy about it because I think you are professional, and I know 
+that you had in the United States Senate a very unfortunate 
+meeting over there 6 months ago--I was thinking about it this 
+morning as I was getting ready--where some of the elected 
+officials take delight in pounding on people who are not 
+elected like a punching bag. I didn't like what they did over 
+there, and I think things are settling out a little bit. And 
+when we had your predecessor, we never attempted to ever 
+manipulate or maneuver her any more than we do it with you.
+    And in our conversations, you have been clear with me, and 
+we don't have that many conversations, but you always make it 
+clear that, John, I have a job to do, and I don't want you to 
+do anything but your job. And I think you are doing great, and 
+I think you are very smart, and I think you have a very good 
+staff, and I am glad that you are upgrading all of your 
+activities there.
+    I think it is important we go back and look at all the 
+models and try to be as accurate. I think that is what you want 
+to do.
+    Obviously we are all very, very pleased with the state of 
+the economy. We talked about last week when we had Jack Lew in. 
+In fact, last night I was talking to a friend of mine who lives 
+in the Silicon Valley, and he was saying, I think this boom is 
+going to last at least another 10 years, and I kind of chuckled 
+because this is not a 10-year deal. This is not snow on the 
+ground and then it gets warm and it all melts.
+    To me we are really in a new period of revolution, idea 
+revolution, just like the industrial revolution, and when you 
+take the development of the high tech, whether it is 
+biotechnology or whether it is the Internet, and you see the 
+various industries now that are starting to grow off of these 
+main industries, that represents really the greatest evidence 
+that we are now in a period of significantly increased 
+productivity, although I have got to tell you I was a little 
+concerned last week when the President made a statement saying 
+that don't anticipate these productivity increases like we have 
+been having them. And I don't like to hear that. That is not 
+designed to be pejorative toward the President. It is just that 
+we better keep these productivity increases up, because if you 
+do not continue to grow at the same rate, and you get stagnant 
+there, then you lose your revenues.
+    One of my concerns is if the stock market does go negative, 
+and I am not--I believe it is possible that it will go to 
+20,000 over time, that is my personal view--but if it doesn't 
+grow and we have slumps, people sell less stock, I think we are 
+going to find over time that capital gains collections were a 
+very significant part of the surpluses. Then you could find 
+yourself in a position of not having the surpluses that you 
+want.
+    But I am not here to be negative because I can't quite see 
+much on the horizon that should sink this economy in the short 
+and intermediate run, I mean, even including things like oil. I 
+do have concerns, though, about a little bit more of the 
+longer-term impact on the economy. I put education first and 
+foremost. I just really believe that we are educating--failing 
+to educate too many of our young people today, and with people 
+not having the tools--having the brains, but not having the 
+tools, we begin over time to lose that battle of ideas and 
+development. And I just think the education system needs total 
+revamping, and I think that poses a significant threat to the 
+long-term economic growth of our economy.
+    Secondly, I believe that regulations are a huge part of 
+what government does. Now, we are having a running debate in 
+this country today, and it is a bipartisan debate, everybody 
+talking about what a low percentage of GDP we are spending. I 
+remember in my own district we had a big company out there. 
+They made a lot of money, and, boy, when times were good, they 
+built their infrastructure, and when times went bad, they had 
+to fire people to bring the right people in to chop the 
+infrastructure. With government, once--you know, the reason we 
+are doing so well on GDP right now is because the economy is 
+growing so strong. But if we lock things in place that lead to 
+higher levels of infrastructure for government, then when times 
+are bad, the word around here is, oh, well, we can't make any 
+changes now because the economy is bad. To me, this is the time 
+that you get the reform agenda going again.
+    In addition to that, I am very concerned about the total 
+inability of Congress to come to grips with the entitlement 
+problems. Now, your report reflects, I think, about 10 years. 
+About 2 or 3 years after that, we fall off a cliff, and I 
+really wish that you had talked about the inability of Congress 
+to address the acute problems of Medicare and--which are 
+devastatingly acute, and the devastating, less acute problems 
+of Social Security and what it can mean to the long-term impact 
+on our economy.
+    And I think it is also very important we maintain fiscal 
+discipline, the ability to have fiscal discipline. And I can 
+remember back in 1994 visiting with Alan Greenspan and him 
+telling me both privately and then coming and saying publicly 
+that if the Congress can show that they have a commitment to 
+smaller government, then we can have a stronger economy.
+    I have got just two little deals here I would like to put 
+up. One that I just--I don't know why we didn't see this 
+earlier. It is a quote from Alan Greenspan where the Chairman 
+says in his confirmation hearing, ``My first priority would be 
+to allow as much of the surplus to flow through into a 
+reduction of debt to the public. If that proves politically 
+infeasible, I would opt for cutting taxes. And under no 
+conditions do I see any room in the longer-term outlook for 
+major changes in expenditures.''
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    People have always said, well, Greenspan is not for cutting 
+taxes. I don't think that is a correct and proper analysis of 
+where he is, not that I think we ought to be spending all of 
+our time discussing where Alan Greenspan is, but the fact is 
+that he does matter, and that is his position.
+    Now, if you would stick this other chart up, because we 
+have been talking about the need for inflation increases in 
+discretionary, not even talking about what we are going to do 
+with prescription drugs or any other entitlements programs, 
+particularly the problems of Medicare as it relates to 
+reimbursement. But if you look at that chart, it is a little 
+confusing, but if you go to 1991, the red line represents how 
+much spending we would have had had we just grown at the rate 
+of inflation. The blue line is what we actually did, and as you 
+can see, in 1993 we started to bring spending down 
+fundamentally, the results of cuts in defense.
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Then we got down to 1995. Well, look, 1994, 1995, 1996, the 
+glory years, the height of the Republican empire so to speak, 
+you know, the glory days of Greece and Republicans when we were 
+cutting spending and limiting government. You can see what 
+happened to that blue line.
+    And then it is interesting, isn't it, when you look at 
+1998, and 1999 and 2000, you know, it is kind of off to the 
+races again because we have surpluses, and when you have 
+surpluses, you spend, because all politicians are fundamentally 
+tarred with the same stick. So what you see there, though, is 
+the gap between that blue line and that inflation-adjusted 
+spending. You have got $419 billion more in spending than you 
+would have had had we restrained discretionary spending, and, 
+frankly, it is twice as much, it is twice as much as where we 
+started in 1991.
+    So thank goodness we did not go on autopilot and we 
+restrained spending over this decade, and there is credit that 
+goes to both parties on that. There are. Then there is blame 
+that goes to both parties as we kind of escalate our spending 
+again.
+    I worry that the growth in government brings about more 
+regulations, more bureaucrats, more red tape. And it is 
+interesting. If you talk to people who live in the Silicon 
+Valley, there is a raging debate there as to whether they ought 
+to even engage politicians in Washington. Some of the more--I 
+don't want to say radical--some of the more aggressive ones 
+argue that any time you sit down with a politician, you end up 
+with a compromise that does you in, and they don't come here 
+anymore. They don't want to be here. They don't want to deal 
+with us because they think the result is more regulation and 
+less progress for them.
+    I just think that we have got lots of good things going. I 
+wish we would be doing more things with entitlement also, and I 
+am going to be talking about that even when I am gone from 
+here. And I hope we don't get carried away with spending and 
+just get loose around here and build a big infrastructure that 
+we can't control. And I hope at some point we are going to 
+actually confront education in this country, and open this 
+system up and reform it, and not have a government monopoly in 
+education in this country, and improve things. So just some 
+observations.
+    I am glad you are here, Mr. Crippen. I will look forward to 
+Mr. Spratt's comments and then to your testimony.
+    Mr. Spratt. Dr. Crippen, welcome. I like your cartoon. I 
+think it honestly sets a good theme for this particular hearing 
+because we have reidentified these projections as if they were 
+ready to be disposed of, and we have yet to earn them. The 
+economy has yet to produce them, as well as the budget.
+    There are a couple of variables that I think would be 
+useful for you to help us focus on. One the Chairman has just 
+touched upon, and that is what is the right level for 
+discretionary spending. You can't make normative judgments 
+about that, but you can look back over the past and look at the 
+present and tell us what some of the risks are if we understate 
+discretionary spending.
+    We have focused for the most part in this discussion on 
+discretionary spending. That is the one variable that you 
+manipulate in deriving three different projections. Yesterday 
+the American Federation of Hospitals was in my office, and they 
+were showing me their projection of Medicare over the next 
+several years, emphasizing the fact that in order to attain 
+these surpluses as you projected them, we have got to keep 
+Medicare growing below the cost growth level that was projected 
+in the BBA for several years to come at historically low growth 
+rates, and it is questionable whether or not that can be 
+attained as well.
+    So there are lots of iffy assumptions underlying these 
+projections. It won't be easy to attain, and they are certainly 
+not automatic assumptions by any means. They will require a lot 
+of discipline on the part of Congress, and cut some things that 
+some of us really aren't advocating right now.
+    Yesterday we had a meeting of the procurement subcommittee, 
+of the Armed Services Committee, and the Chairman of that 
+subcommittee, Mr. Hunter, who is a Republican and a good friend 
+of mine, said quite earnestly and honestly, we have asked each 
+of the chiefs of staffs of the four services what they need 
+over and above what has been provided in the President's 
+defense budget, which is an increase of $12.2 billion over last 
+year. As I pointed out to him, it is also an increase of $24.4 
+billion over what we provided for defense in the balanced 
+budget agreement in 1997 for the year 2001. The chiefs told us 
+they need another $15.5 billion for procurement alone. If you 
+add that to the $24.4 billion, you are $40 billion above what 
+was provided for defense in 2001 in the BBA. How can we return 
+to the caps if we are going to make that kind of provision for 
+defense, and then if we don't return to the caps, what is the 
+proper level to send?
+    I think you have done a good job in laying out the choices 
+for us in the economic projection you have provided us, and I 
+look forward to your testimony to explain those choices and 
+explain the surplus today. Thank you very much for coming.
+    Chairman Kasich. If I could just--one other comment. I 
+think John raises a very good issue about this whole issue of 
+reimbursement. The question to me on health care is whether we 
+keep pumping money into a model that is clearly not working 
+very well. In our hearings tomorrow, we are going to be talking 
+about Medicare and how hard it is to try to control the 
+spending on it. We clearly have problems in our hospitals, with 
+our physicians. Do we put more in the old model, or do we 
+figure out a way in which we create a new model?
+    This year I think we will do--John would like to do some 
+hearings on Medicare. I don't know that it will be done before 
+we mark up the budget because we are on a fast track, but 
+whatever we mark up is clearly going to be subject to changes, 
+and it is a really great issue and an important issue because 
+there is real people that pay a price. I just talked to a nurse 
+the other day, pediatric nurse, and she has got seven patients, 
+a number of them, seven patients they need to take care of 
+because the--there is just not enough money there.
+    These are vexing problems, and it is going to be 
+interesting to see how we deal with it this year and really how 
+we deal with it long term.
+    Mr. Crippen, you are recognized.
+
+  STATEMENT OF DAN L. CRIPPEN, DIRECTOR, CONGRESSIONAL BUDGET 
+                             OFFICE
+
+    Mr. Crippen. Thank you, Mr. Chairman. Before I begin, I 
+want to thank you for your gracious opening comments. I hope 
+that I will ultimately deserve them, but I want to assure you 
+that my colleagues--both those who are here and those who are 
+back across the freeway working--deserve them much more than I 
+do. They are a hard-working, professional crew. I am just 
+representing them here today.
+    I don't know if any of you ever take time out to look at 
+the comics. Of course, I know a lot of you only read the New 
+York Times, so you don't have a chance. But I do look at the 
+comics, and I brought this one today, as Congressman Spratt 
+said, because I thought it had some relevance to our debate 
+over competing versions of our baseline.
+    Before I discuss the baseline, however, let me report 
+briefly on our upcoming analysis of the President's budget. 
+Like you, we have had the budget a little more than a week. It 
+will take us another 2 to 3 weeks to finish our analysis and 
+another week or so after that to produce a report. Obviously, 
+if it is the desire of the committee, I will be happy to return 
+next month to discuss that analysis with you. For today, 
+however, I am prepared to speak only about our baseline report. 
+Indeed, we have no analysis yet of the President's budget on 
+which I can report.
+    But I can report on our assessment of the budget and 
+economic outlook, which has substantially improved since last 
+July. First, we project that there will be an on-budget surplus 
+this year and every year for the next 10 years. During the 
+coming decade, under current policies, we believe the line 
+between Social Security and the rest of the budget will not be 
+crossed. The off-budget Social Security surpluses will 
+accumulate over $2 trillion over the next 10 years (see Chart 
+1). Thus, if there are no on-budget deficits, debt held by the 
+public will be reduced by at least that amount.
+    As I will explain in a moment, the on-budget surpluses 
+range from a little more than $800 billion to just under $2 
+trillion. If those surpluses were dedicated to paying down the 
+national debt, it would be possible to retire all debt held by 
+the public that was available for repurchase in the next 10 
+years.
+    Differences in the estimates of the on-budget surplus are 
+attributable to three variations in our baseline, variations 
+based on, as Congressman Spratt said, differing assumptions 
+about the future path of discretionary spending. The first 
+variation assumes strict compliance with CBO's estimates of the 
+spending caps that are in place for 2000. The second variation 
+assumes that discretionary resources are held to the level 
+provided in the 2000 appropriations. The third variation 
+presents the implications of inflating appropriations for 2000 
+to approximate the resources it would take to continue the same 
+spending over 10 years.
+    Mr. Chairman, each of these formulations is flawed, and the 
+flaws are more apparent now than ever before. Discretionary 
+spending, as the name implies, is not cast in stone, although 
+we sometimes treat it as such. And a baseline is, among other 
+things, an attempt to extrapolate current policy into the 
+future so that the impact of changes in policy can be measured. 
+But the policy for discretionary appropriations is established 
+one year at a time.
+    The capped variation, reflecting the agreement reached in 
+1997 between the Congress and the President, has by our 
+reckoning been breached by ever-increasing amounts in the past 
+2 years. Adherence to the cap for 2001 would require an 
+absolute reduction in spending of approximately $25 billion.
+    The freeze variation may provide a good approximation of 
+current discretionary policy from one year to the next, but 
+adherence to it would require unprecedented restraint over the 
+10 years considered in this outlook.
+    To assume adjustments for inflation, as our third variation 
+does, makes appropriations appear to be mandatory, not 
+discretionary, implying that the same level of real (inflation-
+adjusted) resources must be provided each year, regardless of 
+the merits of existing programs and the needs of the future.
+
+                                Chart 1
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Both the freeze and inflated baseline of variations include 
+spending that is not likely to be repeated, although the 
+mechanics of constructing those variations inherently assume 
+that it will be. For example, funds for the 2000 census as well 
+as all other funds appropriated for emergency purposes, 
+including one-time items such as funding for the Wye River 
+Accords, are assumed to be repeated in 2001, 2002, and every 
+year thereafter.
+    In addition, the inflated variation implicitly assumes no 
+increases in government productivity and no improvements in 
+providing government services, despite the obvious improvements 
+in private-sector productivity that have been reported.
+    The second chart shows that total surpluses would exceed 
+total debt held by the public in 2009 or 2010, under both the 
+capped and freeze alternatives (see Chart 2). With the inflated 
+alternative, total surpluses would exceed total debt soon after 
+the end of the decade.
+    A word of caution here. The tables in the testimony show 
+debt held by the public to be positive in those last years. 
+That is because even though sufficient surpluses would be 
+generated to retire all debt, there is an irreducible minimum 
+debt over this 10-year period because of outstanding long-term 
+bonds and, we assume, the continuation of the savings bond 
+program. To determine the Nation's true net debtor position, 
+the amounts in the ``excess cash'' line must be subtracted from 
+debt held by the public. For our purposes, we assume that the 
+excess cash generated under this outlook would be invested in a 
+way that produced a return equal to that on short-term, risk-
+free instruments.
+    To summarize, if these projections are in the ballpark and 
+the underlying mandatory policies are not changed, the Federal 
+Government should be able to save an amount roughly equal to or 
+greater than the amount of debt held by the public over the 
+next decade.
+
+                                Chart 2
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Our next chart summarizes what has changed since July (see 
+Chart 3). We compare the capped alternative with the July 
+baseline because the July estimates also assumed adherence to 
+the cap, allowing us to make strict comparisons between the 
+two.
+
+                                Chart 3
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Regarding legislative changes since July, spending 
+increases and revenue reductions obviously reduce the 
+surpluses, but the effects of economic and technical changes in 
+our forecast are eight times greater than the effects of 
+legislation. The economy, specifically productivity, continues 
+to grow at a rate well above previous trends. We now assume 
+that growth in real gross domestic product (GDP) will average 
+0.4 percentage points more than we assumed in July. Half of 
+that increase is due to productivity.
+    In the 20 years prior to 1996, productivity grew at an 
+average rate of 1.6 percent. In the past 4 years, productivity 
+has grown at an average rate of 2.6 percent, a full percentage 
+point higher. We assume that about 60 percent of that increase 
+will prove to be permanent, for an average productivity growth 
+of 2.2 percent over the 2001-2010 period.
+    Tax revenues remain higher relative to GDP than past 
+experience would suggest. Over time, we assume that collections 
+will decline relative to GDP and for some, categories will 
+revert to past patterns, with personal income taxes remaining 
+somewhat higher than historical levels and corporate taxes 
+slightly lower.
+    Finally, the slowdown in Medicare spending--last year's 
+spending actually declined by close to 1 percent--has lowered 
+the base. Some of the dampening effect of reforms under the 
+Balanced Budget Act of 1997 (BBA) and enhanced enforcement of 
+antifraud measures will continue to restrain Medicare growth in 
+the future--to the tune of about $140 billion less in costs 
+over the 10 years than we had earlier estimated.
+    Thus, the story continues to be one of strong economic 
+performance and growth in revenues that is greater than 
+previously forecast, coupled with a small reduction in expected 
+spending for Medicare.
+    As with any 10-year forecast, there is a great deal of 
+uncertainty to any particular path. We generate specific 
+numbers, but no one should be sanguine about the apparent 
+precision they imply. Many of the numbers presented here are 
+the result of accumulating many estimates, which are themselves 
+uncertain. This year, the uncertainty is probably greater than 
+usual, encompassing uncertainty about the long-run trend in 
+productivity and future spending and tax policies.
+    Indeed, most other economic forecasters do not venture to 
+project as far forward as 10 years. The next chart compares our 
+economic forecasts for this year, next year, and the next 5 
+years (see Chart 4). Looking at the 5-year averages in the far 
+right-hand column, you can see that we are at the bottom of the 
+range of forecasts, and we are obviously quite close to our 
+brethren at the Office of Management and Budget (OMB).
+    We don't pretend to know much, Mr. Chairman, about economic 
+performance in the last half of our forecast other than that we 
+know growth in the economy will be limited to the increase in 
+the workforce and in productivity, a combination that we assume 
+for the terms of this projection will amount to growth of 2.9 
+percent in a steady state toward the end of the decade.
+    It is once again obvious that small changes over a long 
+period make a big difference, a lesson I hope we can carry over 
+to the reform of programs for the too-soon-to-be-elderly people 
+like me. The apparent good news in this forecast is tempered by 
+what lies just over the 10-year horizon--namely, my generation, 
+the baby boomers.
+
+                                Chart 4
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Between this year and 2030, the number of retirees will 
+grow by 80 percent, although the number of workers will 
+increase by only 10 percent. The portion of the economy that 
+will be transferred from the younger working population--that 
+is, from our children--to us will almost double, rising from 
+just over 7 percent to just under 14 percent of GDP. To try and 
+put that in perspective, Mr. Chairman, if the characteristics 
+of 2030----
+
+                                Chart 5
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Chairman Kasich. Give us those numbers a little slower. 
+Those are--that is not in your testimony here, is it?
+    Mr. Crippen. Probably not. From this year to 2030, the 
+number of retirees will grow by approximately 80 percent, yet 
+the number of workers will only grow by about 10 percent (see 
+Chart 5).
+    From our estimates, we assume that the portion of the 
+economy that will be dedicated to support retirees will grow 
+from 7 percent of GDP to 14 percent of GDP. I'll try and put 
+that in perspective in relation to today's terms and today's 
+debates. If the characteristics of 2030 applied to the budget 
+you are working on for 2001--that is to say, if Social 
+Security, Medicare, and Medicaid consumed an amount equal to 14 
+percent of GDP--you would have about $400 billion to spend on 
+everything else next year instead of the roughly $1 trillion 
+you will have to fund the rest of the government. Put another 
+way, you would have to raise taxes by $600 billion for next 
+year alone in order to have the same relative spending for 
+everything other than the programs for the elderly.
+    As the economic outlook improves, even in the short run, so 
+does the outlook, of course, for those programs. I would like 
+to note that the 14 percent of GDP we project for programs for 
+the elderly in 2030 is down over 1 full percentage point from 
+last July, primarily because increased economic growth, albeit 
+small, makes a big difference over the long haul.
+    Think of it this way. The calculation of the share of GDP 
+is a fraction with two moving parts (see Chart 6). The relative 
+amount of resources transferred from the productive working 
+population to retirees can be diminished by reducing the 
+obligations or benefits--the numerator of the fraction--or by 
+growing the economy--the fraction's denominator.
+
+                                Chart 6
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Can we grow our way out of this problem? Probably not, and 
+certainly not if we define the problem as keeping the relative 
+share of the economy transferred to the elderly constant. What 
+is likely is that my generation when retired will consume more 
+than 7 percent of GDP because the economy will not grow that 
+quickly. Nevertheless, the larger the economy, the easier it 
+will certainly be to support those retirees.
+    Again, in terms of the budget you are about to write, the 1 
+percent improvement in the 2030 forecast translates into 
+roughly $100 billion today. That is, the higher growth in this 
+forecast is the equivalent of $100 billion in spending cuts or 
+tax increases that would otherwise be necessary to fund 
+government as we know it.
+    Ultimately, Mr. Chairman, it is not the size of the 
+balances in a trust fund that will limit our ability to pay for 
+these long-term obligations but the size of the economy. How 
+much of the funding are we going to push off to succeeding 
+generations? How much of what our children produce are we going 
+to demand that they give us? Thank you, Mr. Chairman.
+    [The prepared statement of Dr. Crippen follows:]
+
+ Prepared Statement of Dan L. Crippen, Director, Congressional Budget 
+                                 Office
+
+    Mr. Chairman, Congressman Spratt, and Members of the Committee, I 
+am pleased to be with you this morning to discuss the budget and 
+economic outlook for fiscal years 2001 to 2010.
+    Total Federal revenues exceeded spending by $124 billion in fiscal 
+year 1999, producing a surplus in the total budget for the second 
+consecutive year. The Congressional Budget Office (CBO) estimates that 
+without legislative changes, that surplus will rise to $176 billion in 
+2000 (see Summary Table 1). If current policies remain in place, the 
+surplus will continue to increase after 2000, CBO projects; however, 
+the size of that increase depends on the amount of discretionary 
+spending that is assumed.
+
+                                               SUMMARY TABLE 1.--THE BUDGET OUTLOOK UNDER CURRENT POLICIES
+                                                        [By fiscal year, in billions of dollars]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Actual                                                                                 Total
+                                                           1999    2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2010  2001-2010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Discretionary Spending Grows at the Rate of Inflation
+ After 2000:
+    On-Budget Surplus...................................       1     23     11     26     31     37     43     86    115    131    162    195       838
+    Off-Budget Surplus..................................     124    153    166    182    195    209    225    239    254    268    281    295     2,314
+                                                         -----------------------------------------------------------------------------------------------
+      Total Surplus.....................................     124    176    177    209    227    246    268    325    368    399    444    489     3,152
+                                                         ===============================================================================================
+Discretionary Spending Is Frozen at the Level Enacted
+ for 2000:
+    On-Budget Surplus...................................       1     23     22     50     76    102    129    194    245    288    346    407     1,858
+    Off-Budget Surplus..................................     124    153    166    182    196    209    226    240    255    269    282    296     2,320
+                                                         -----------------------------------------------------------------------------------------------
+      Total Surplus.....................................     124    176    188    232    271    312    355    434    500    556    628    703     4,179
+                                                         ===============================================================================================
+Discretionary Spending Equals CBO's Estimates of the
+ Caps Through 2002 and Grows at the Rate of Inflation
+ Thereafter:
+    On-Budget Surplus...................................       1     23     69    112    126    136    151    199    231    258    298    339     1,918
+    Off-Budget Surplus..................................     124    153    166    182    195    209    225    239    254    268    281    295     2,314
+                                                         -----------------------------------------------------------------------------------------------
+      Total Surplus.....................................     124    176    235    294    321    345    376    438    485    526    579    633     4,232
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCE: Congressional Budget Office.
+
+    CBO's baseline projections are intended to provide the Congress 
+with estimates of the spending and revenues that will occur if current 
+laws affecting the budget remain unchanged. In the case of mandatory 
+spending and revenues, which are generally governed by permanent laws, 
+the projections incorporate the effects of anticipated changes in the 
+economy, demographics, and other relevant factors.
+    In the case of discretionary spending, however, which is controlled 
+by annual appropriation acts, no consensus exists about how to define 
+current policy as it applies to future years. Is it best represented by 
+the statutory caps on discretionary budget authority and outlays, which 
+were most recently specified in the Balanced Budget Act of 1997? Or 
+does section 257(c)(1) of the Balanced Budget and Emergency Deficit 
+Control Act of 1985 better depict current policy by specifying that 
+baselines should be adjusted for inflation? Or is current policy for 
+discretionary spending simply the amount that was provided in 
+appropriations for the current year?
+    Without any definitive answer to those questions, CBO presents 
+three variants of its baseline in this report. Each one reflects a 
+different assumption about discretionary spending.
+    <bullet> The ``inflated'' variation assumes that budget authority 
+for discretionary programs grows at the rate of inflation each year 
+after 2000.
+    <bullet> The ``freeze'' variation pegs discretionary budget 
+authority to the level enacted for the current year, plus amounts 
+already enacted for 2001.
+    <bullet> The ``capped'' variation assumes that discretionary 
+spending equals CBO's estimates of the statutory caps through 2002 and 
+grows at the rate of inflation thereafter.
+    The Congress has used each of those spending paths as a benchmark 
+in some past budget deliberations. Each alternative has limitations, 
+however. As they currently stand, the caps may not be a realistic 
+reference point given recent action on discretionary spending. The 
+inflated baseline, for its part, implicitly earmarks future resources 
+to maintain the real (inflation-adjusted) level of discretionary 
+spending even though there is no explicit statutory basis for such 
+earmarking. And the freeze baseline ignores the effects of pay raises 
+and inflation--costs that could erode the amount of services or 
+programs that the government can deliver. In addition, both the 
+inflated and freeze baselines mechanically repeat funding for programs 
+(such as the decennial census) whose needs are known to be 
+significantly greater or less in future years.
+    Most of the components of CBO's baseline budget projections--
+revenues, mandatory spending, and offsetting receipts--are the same no 
+matter which assumption about discretionary spending is used. Net 
+interest costs, however, depend on the amount of projected debt 
+outstanding, which in turn reflects the choice of paths for 
+discretionary outlays. Likewise, projections of the surplus will vary 
+depending on assumptions about the discretionary portion of the budget 
+and the resulting effects on interest costs.
+    Regardless of the variant, the budgetary picture is a bright one. 
+Between 2001 and 2010, accumulated surpluses are projected to total 
+$3.2 trillion under the inflated baseline and $4.2 trillion under the 
+freeze or capped baseline. On-budget surpluses (which exclude the 
+spending and revenues of Social Security and the Postal Service) total 
+more than $800 billion under the inflated baseline and $1.9 trillion 
+under the other two baselines.
+    Those surpluses are much larger than the ones that CBO projected 
+last July in ``The Economic and Budget Outlook: An Update.'' Comparing 
+capped baselines (which CBO used in that report), the cumulative 
+surplus for the 2000-2009 period is now $879 billion higher, despite 
+legislation enacted since July that reduces that surplus by a total of 
+$127 billion between 2000 and 2009. The effects of new legislation are 
+more than offset by changes in economic and other factors that increase 
+revenues by $651 billion over that period and reduce spending by $355 
+billion.
+    Most of the improvement in the budgetary picture results from CBO's 
+updated economic outlook. Real economic growth is forecast to average 
+about 3 percent a year over the next 2 years, with only a slight rise 
+in the underlying rate of inflation. For the longer term, CBO projects 
+that real growth will average 2.7 percent a year from 2002 through 
+2010, taking into account the possibility of booms and recessions 
+during that period.
+
+                           The Budget Outlook
+
+    The total budget surplus of $176 billion that CBO is projecting for 
+this year results from a $153 billion surplus in off-budget accounts--
+mainly the Social Security trust funds, whose inflows and outflows are 
+accounted for separately from those of the rest of the government--and 
+a $23 billion surplus in on-budget accounts. That on-budget surplus 
+would be the largest ever in nominal dollars. Measured as a percentage 
+of gross domestic product (GDP), it would be the largest since 1951.
+    Assuming that current policies do not change, CBO projects growing 
+surpluses over the next decade. The total budget surplus would reach 
+between 3 percent and 5 percent of GDP by 2010 depending on the path of 
+discretionary spending (see Summary Tables 2, 3, and 4). The on-budget 
+surplus would range between 1 percent and 3 percent of GDP.
+
+            SUMMARY TABLE 2.--CBO BASELINE BUDGET PROJECTIONS, ASSUMING THAT DISCRETIONARY SPENDING GROWS AT THE RATE OF INFLATION AFTER 2000
+                                                                    [By fiscal year]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               Actual
+                                                1999     2000     2001     2002     2003     2004     2005     2006     2007     2008     2009     2010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 IN BILLIONS OF DOLLARS
+Revenues:
+    Individual income.......................      879      945      986    1,026    1,068    1,112    1,162    1,217    1,275    1,339    1,407    1,480
+    Corporate income........................      185      189      189      187      190      194      200      208      216      225      233      242
+    Social insurance........................      612      653      684      714      742      770      808      842      878      913      954      998
+    Other...................................      151      158      158      169      177      187      192      198      202      210      218      226
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................    1,827    1,945    2,016    2,096    2,177    2,263    2,361    2,465    2,572    2,686    2,813    2,946
+        On-budget...........................    1,383    1,465    1,515    1,571    1,630    1,693    1,764    1,843    1,923    2,010    2,106    2,208
+        Off-budget..........................      444      480      502      525      547      570      597      623      649      676      707      738
+Outlays:
+    Discretionary spending..................      575      603      635      650      669      684      702      716      730      750      768      786
+    Mandatory spending......................      977    1,020    1,071    1,119    1,182    1,249    1,329    1,385    1,460    1,550    1,643    1,744
+    Offsetting receipts.....................      -78      -79      -85      -91      -94      -93      -98     -103     -108     -113     -119     -125
+    Net interest............................      230      224      218      209      194      177      160      142      122      101       80       68
+    Proceeds from investing excess cash.....     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.       -3      -16
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................    1,703    1,769    1,839    1,888    1,950    2,017    2,093    2,140    2,204    2,287    2,369    2,457
+        On-budget...........................    1,382    1,442    1,504    1,545    1,598    1,656    1,721    1,756    1,808    1,879    1,944    2,014
+        Off-budget..........................      321      327      336      343      352      361      372      384      396      409      425      443
+Surplus                                           124      176      177      209      227      246      268      325      368      399      444      489
+    On-budget...............................        1       23       11       26       31       37       43       86      115      131      162      195
+    Off-budget..............................      124      153      166      182      195      209      225      239      254      268      281      295
+Debt Held by the Public.....................    3,633    3,455    3,292    3,097    2,884    2,651    2,394    2,080    1,721    1,330    1,016      941
+                                                                 AS A PERCENTAGE OF GDP
+Revenues:
+    Individual income.......................      9.6      9.9      9.8      9.8      9.7      9.7      9.7      9.8      9.8      9.9      9.9     10.0
+    Corporate income........................      2.0      2.0      1.9      1.8      1.7      1.7      1.7      1.7      1.7      1.7      1.6      1.6
+    Social insurance........................      6.7      6.8      6.8      6.8      6.8      6.7      6.8      6.8      6.8      6.7      6.7      6.7
+    Other...................................      1.7      1.6      1.6      1.6      1.6      1.6      1.6      1.6      1.6      1.5      1.5      1.5
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................     20.0     20.3     20.1     20.0     19.9     19.8     19.8     19.8     19.8     19.8     19.8     19.8
+        On-budget...........................     15.2     15.3     15.1     15.0     14.9     14.8     14.8     14.8     14.8     14.8     14.8     14.9
+        Off-budget..........................      4.9      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0
+Outlays:
+    Discretionary spending..................      6.3      6.3      6.3      6.2      6.1      6.0      5.9      5.7      5.6      5.5      5.4      5.3
+    Mandatory spending......................     10.7     10.6     10.7     10.7     10.8     10.9     11.1     11.1     11.2     11.4     11.6     11.7
+    Offsetting receipts.....................     -0.9     -0.8     -0.8     -0.9     -0.9     -0.8     -0.8     -0.8     -0.8     -0.8     -0.8     -0.8
+    Net interest............................      2.5      2.3      2.2      2.0      1.8      1.6      1.3      1.1      0.9      0.7      0.6      0.5
+    Proceeds from investing excess cash.....     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.        *     -0.1
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................     18.7     18.5     18.3     18.0     17.8     17.7     17.6     17.2     16.9     16.8     16.7     16.5
+        On-budget...........................     15.2     15.1     15.0     14.7     14.6     14.5     14.4     14.1     13.9     13.8     13.7     13.6
+        Off-budget..........................      3.5      3.4      3.3      3.3      3.2      3.2      3.1      3.1      3.0      3.0      3.0      3.0
+Surplus.....................................      1.4      1.8      1.8      2.0      2.1      2.2      2.2      2.6      2.8      2.9      3.1      3.3
+    On-budget...............................        *      0.2      0.1      0.3      0.3      0.3      0.4      0.7      0.9      1.0      1.1      1.3
+    Off-budget..............................      1.4      1.6      1.7      1.7      1.8      1.8      1.9      1.9      2.0      2.0      2.0      2.0
+Debt Held by the Public.....................     39.9     36.1     32.8     29.5     26.3     23.2     20.1     16.7     13.2      9.8      7.2      6.3
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCE: Congressional Budget Office.
+NOTE: n.a. = not applicable; * = less than 0.05 percent of GDP.
+
+
+             SUMMARY TABLE 3.--CBO BASELINE BUDGET PROJECTIONS, ASSUMING THAT DISCRETIONARY SPENDING IS FROZEN AT THE LEVEL ENACTED FOR 2000
+                                                                    [By fiscal year]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               Actual
+                                                1999     2000     2001     2002     2003     2004     2005     2006     2007     2008     2009     2010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 IN BILLIONS OF DOLLARS
+Revenues:
+    Individual income.......................      879      945      986    1,026    1,068    1,112    1,162    1,217    1,275    1,339    1,407    1,480
+    Corporate income........................      185      189      189      187      190      194      200      208      216      225      233      242
+    Social insurance........................      612      653      684      714      742      770      808      842      878      913      954      998
+    Other...................................      151      158      158      169      177      187      192      198      202      210      218      226
+    Total...................................    1,827    1,945    2,016    2,096    2,177    2,263    2,361    2,465    2,572    2,686    2,813    2,946
+    On-budget...............................    1,383    1,465    1,515    1,571    1,630    1,693    1,764    1,843    1,923    2,010    2,106    2,208
+    Off-budget..............................      444      480      502      525      547      570      597      623      649      676      707      738
+Outlays:
+    Discretionary spending..................      575      603      624      628      627      624      625      623      620      622      621      621
+    Mandatory spending......................      977    1,020    1,071    1,119    1,182    1,249    1,329    1,385    1,460    1,550    1,643    1,744
+    Offsetting receipts.....................      -78      -79      -85      -91      -94      -93      -98     -103     -108     -113     -119     -125
+    Net interest............................      230      224      218      208      191      171      150      127      101       81       72       68
+    Proceeds from investing excess cash.....     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.       -9      -33      -65
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................    1,703    1,769    1,829    1,864    1,905    1,951    2,006    2,032    2,073    2,130    2,185    2,244
+        On-budget...........................    1,382    1,442    1,493    1,521    1,554    1,590    1,635    1,649    1,678    1,722    1,761    1,801
+        Off-budget..........................      321      327      336      342      352      361      372      383      395      408      424      442
+Surplus.....................................      124      176      188      232      271      312      355      434      500      556      628      703
+    On-budget...............................        1       23       22       50       76      102      129      194      245      288      346      407
+    Off-budget..............................      124      153      166      182      196      209      226      240      255      269      282      296
+Debt Held by the Public.....................    3,633    3,455    3,281    3,062    2,805    2,506    2,162    1,739    1,249    1,078    1,016      941
+                                                                 AS A PERCENTAGE OF GDP
+Revenues:
+    Individual income.......................      9.6      9.9      9.8      9.8      9.7      9.7      9.7      9.8      9.8      9.9      9.9     10.0
+    Corporate income........................      2.0      2.0      1.9      1.8      1.7      1.7      1.7      1.7      1.7      1.7      1.6      1.6
+    Social insurance........................      6.7      6.8      6.8      6.8      6.8      6.7      6.8      6.8      6.8      6.7      6.7      6.7
+    Other...................................      1.7      1.6      1.6      1.6      1.6      1.6      1.6      1.6      1.6      1.5      1.5      1.5
+    Total...................................     20.0     20.3     20.1     20.0     19.9     19.8     19.8     19.8     19.8     19.8     19.8     19.8
+    On-budget...............................     15.2     15.3     15.1     15.0     14.9     14.8     14.8     14.8     14.8     14.8     14.8     14.9
+    Off-budget..............................      4.9      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0
+Outlays:
+    Discretionary spending..................      6.3      6.3      6.2      6.0      5.7      5.5      5.2      5.0      4.8      4.6      4.4      4.2
+    Mandatory spending......................     10.7     10.6     10.7     10.7     10.8     10.9     11.1     11.1     11.2     11.4     11.6     11.7
+    Offsetting receipts.....................     -0.9     -0.8     -0.8     -0.9     -0.9     -0.8     -0.8     -0.8     -0.8     -0.8     -0.8     -0.8
+    Net interest............................      2.5      2.3      2.2      2.0      1.7      1.5      1.3      1.0      0.8      0.6      0.5      0.5
+    Proceeds from investing excess cash.....     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     -0.1     -0.2     -0.4
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................     18.7     18.5     18.2     17.8     17.4     17.1     16.8     16.3     15.9     15.7     15.4     15.1
+        On-budget...........................     15.2     15.1     14.9     14.5     14.2     13.9     13.7     13.2     12.9     12.7     12.4     12.1
+        Off-budget..........................      3.5      3.4      3.3      3.3      3.2      3.2      3.1      3.1      3.0      3.0      3.0      3.0
+Surplus.....................................      1.4      1.8      1.9      2.2      2.5      2.7      3.0      3.5      3.8      4.1      4.4      4.7
+    On-budget...............................        *      0.2      0.2      0.5      0.7      0.9      1.1      1.6      1.9      2.1      2.4      2.7
+    Off-budget..............................      1.4      1.6      1.7      1.7      1.8      1.8      1.9      1.9      2.0      2.0      2.0      2.0
+Debt Held by the Public.....................     39.9     36.1     32.7     29.2     25.6     21.9     18.1     14.0      9.6      7.9      7.2      6.3
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCE: Congressional Budget Office.
+NOTE: n.a. = not applicable; * = less than 0.05 percent of GDP.
+
+
+  SUMMARY TABLE 4.--CBO BASELINE BUDGET PROJECTIONS, ASSUMING THAT DISCRETIONARY SPENDING EQUALS CBO'S ESTIMATES OF THE STATUTORY CAPS THROUGH 2002 AND
+                                                        GROWS AT THE RATE OF INFLATION THEREAFTER
+                                                                    [By fiscal year]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               Actual
+                                                1999     2000     2001     2002     2003     2004     2005     2006     2007     2008     2009     2010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 IN BILLIONS OF DOLLARS
+Revenues:
+    Individual income.......................      879      945      986    1,026    1,068    1,112    1,162    1,217    1,275    1,339    1,407    1,480
+    Corporate income........................      185      189      189      187      190      194      200      208      216      225      233      242
+    Social insurance........................      612      653      684      714      742      770      808      842      878      913      954      998
+    Other...................................      151      158      158      169      177      187      192      198      202      210      218      226
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................    1,827    1,945    2,016    2,096    2,177    2,263    2,361    2,465    2,572    2,686    2,813    2,946
+        On-budget...........................    1,383    1,465    1,515    1,571    1,630    1,693    1,764    1,843    1,923    2,010    2,106    2,208
+        Off-budget..........................      444      480      502      525      547      570      597      623      649      676      707      738
+Outlays:
+    Discretionary spending..................      575      603      578      571      585      600      615      630      646      662      679      696
+    Mandatory spending......................      977    1,020    1,071    1,119    1,182    1,249    1,329    1,385    1,460    1,550    1,643    1,744
+    Offsetting receipts.....................      -78      -79      -85      -91      -94      -93      -98     -103     -108     -113     -119     -125
+    Net interest............................      230      224      217      204      183      162      139      115       92       77       72       68
+    Proceeds from investing excess cash.....     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.       -2      -16      -41      -70
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................    1,703    1,769    1,781    1,802    1,856    1,918    1,985    2,027    2,087    2,161    2,234    2,313
+        On-budget...........................    1,382    1,442    1,446    1,460    1,504    1,557    1,613    1,644    1,692    1,752    1,809    1,870
+        Off-budget..........................      321      327      336      343      352      361      372      384      396      409      425      443
+Surplus.....................................      124      176      235      294      321      345      376      438      485      526      579      633
+    On-budget...............................        1       23       69      112      126      136      151      199      231      258      298      339
+    Off-budget..............................      124      153      166      182      195      209      225      239      254      268      281      295
+Debt Held by the Public.....................    3,633    3,455    3,234    2,954    2,647    2,314    1,949    1,522    1,142    1,078    1,016      941
+                                                                 AS A PERCENTAGE OF GDP
+Revenues:
+    Individual income.......................      9.6      9.9      9.8      9.8      9.7      9.7      9.7      9.8      9.8      9.9      9.9     10.0
+    Corporate income........................      2.0      2.0      1.9      1.8      1.7      1.7      1.7      1.7      1.7      1.7      1.6      1.6
+    Social insurance........................      6.7      6.8      6.8      6.8      6.8      6.7      6.8      6.8      6.8      6.7      6.7      6.7
+    Other...................................      1.7      1.6      1.6      1.6      1.6      1.6      1.6      1.6      1.6      1.5      1.5      1.5
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................     20.0     20.3     20.1     20.0     19.9     19.8     19.8     19.8     19.8     19.8     19.8     19.8
+        On-budget...........................     15.2     15.3     15.1     15.0     14.9     14.8     14.8     14.8     14.8     14.8     14.8     14.9
+        Off-budget..........................      4.9      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0      5.0
+Outlays:
+    Discretionary spending..................      6.3      6.3      5.8      5.4      5.3      5.3      5.2      5.1      5.0      4.9      4.8      4.7
+    Mandatory spending......................     10.7     10.6     10.7     10.7     10.8     10.9     11.1     11.1     11.2     11.4     11.6     11.7
+    Offsetting receipts.....................     -0.9     -0.8     -0.8     -0.9     -0.9     -0.8     -0.8     -0.8     -0.8     -0.8     -0.8     -0.8
+    Net interest............................      2.5      2.3      2.2      1.9      1.7      1.4      1.2      0.9      0.7      0.6      0.5      0.5
+    Proceeds from investing excess cash.....     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.     n.a.        *     -0.1     -0.3     -0.5
+                                             -----------------------------------------------------------------------------------------------------------
+      Total.................................     18.7     18.5     17.7     17.2     16.9     16.8     16.6     16.3     16.0     15.9     15.7     15.6
+        On-budget...........................     15.2     15.1     14.4     13.9     13.7     13.6     13.5     13.2     13.0     12.9     12.7     12.6
+        Off-budget..........................      3.5      3.4      3.3      3.3      3.2      3.2      3.1      3.1      3.0      3.0      3.0      3.0
+Surplus.....................................      1.4      1.8      2.3      2.8      2.9      3.0      3.2      3.5      3.7      3.9      4.1      4.3
+    On-budget...............................        *      0.2      0.7      1.1      1.1      1.2      1.3      1.6      1.8      1.9      2.1      2.3
+    Off-budget..............................      1.4      1.6      1.7      1.7      1.8      1.8      1.9      1.9      2.0      2.0      2.0      2.0
+Debt Held by the Public.....................     39.9     36.1     32.2     28.1     24.2     20.3     16.3     12.2      8.8      7.9      7.2      6.3
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCE: Congressional Budget Office.
+NOTE: n.a. = not applicable; * = less than 0.05 percent of GDP.
+
+                           changes since july
+    CBO's current budget outlook is considerably more positive than the 
+one described in its July 1999 report. Since then, CBO estimates, the 
+Congress and the President have enacted legislation that increases 
+projected spending over the 2000-2009 period by about $109 billion and 
+reduces projected revenues by $18 billion, compared with the levels in 
+CBO's July baseline (see Summary Table 5). The majority of that 
+legislative action occurred at the end of the session, when the 
+Congress and the President enacted the District of Columbia 
+appropriation act and nine other acts enacted by reference--four 
+regular appropriation acts (for the Departments of Commerce, Justice, 
+and State; for foreign operations; for the Department of the Interior; 
+and for the Departments of Labor, Health and Human Services, and 
+Education), a miscellaneous appropriation act, and four additional 
+acts. The effects of that legislation, however, have been more than 
+offset by changes in CBO's estimates of future revenues and outlays 
+that have added to projected surpluses.
+
+                         SUMMARY TABLE 5.--CHANGES IN CBO PROJECTIONS OF THE SURPLUS SINCE JULY 1999, UNDER THE CAPPED BASELINE
+                                                        [By fiscal year, in billions of dollars]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                 Total
+                                                       2000     2001     2002     2003     2004     2005     2006     2007     2008     2009   2000-2009
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+July Baseline Total Surplus \1\....................      161      193      246      247      266      286      334      364      385      413      n.a.
+Changes:
+    Legislative:
+        Revenues...................................        3       -6       -8       -2       -2       -1       -1        *        *        *       -18
+        Outlays \2\................................      -33      -11       -9       -8       -7       -7       -8       -8       -9       -9      -109
+                                                    ----------------------------------------------------------------------------------------------------
+          Subtotal.................................      -30      -17      -18      -10       -9       -8       -8       -9       -9      -10      -127
+    Economic:
+        Revenues...................................       23       41       52       54       53       53       54       56       60       65       510
+        Outlays \2\................................        2       -1       -3        1        8       13       19       24       30       36       130
+                                                    ----------------------------------------------------------------------------------------------------
+          Subtotal.................................       25       40       49       55       61       66       74       80       89      101       640
+    Technical:
+        Revenues...................................       14       12        8        9       13       14       15       16       18       22       141
+        Outlays \2\................................        6        7        8       20       14       19       23       34       43       51       225
+                                                    ----------------------------------------------------------------------------------------------------
+          Subtotal.................................       20       19       16       28       27       33       38       50       61       74       366
+                                                    ----------------------------------------------------------------------------------------------------
+            Total Changes..........................       15       42       47       73       79       90      104      121      141      166       879
+January Baseline Total Surplus.....................      176      235      294      321      345      376      438      485      526      579      n.a.
+Memorandum:
+    Total Change in Revenues.......................       40       46       51       60       64       66       69       71       77       88       634
+    Total Change in Outlays \2\....................      -25       -4       -4       13       15       24       35       50       64       78       245
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCE: Congressional Budget Office.
+NOTE: n.a. = not applicable; * = less than $500 million.
+\1\ Assumes that discretionary spending equals CBO's estimates of the statutory caps through 2002 and grows at the rate of inflation thereafter.
+\2\ Increases in outlays are shown with a negative sign because they reduce surpluses.
+
+    Most of the improvement in the budget outlook since July results 
+from the continuing strength of the economy, which CBO estimates will 
+produce higher revenues. The current revenue projections are more than 
+$500 billion higher over the 10-year period because of changes in CBO's 
+economic forecast. Most of that increase stems from higher projected 
+levels of wage and salary income, which boost receipts from individual 
+income and social insurance taxes.
+    CBO projects that interest rates will be approximately 1 percentage 
+point higher in 2001 and 2002 than previously forecast and at least 0.3 
+percentage points higher after that. Such changes boost anticipated 
+interest costs (in the capped baseline) by $56 billion through 2009. At 
+the same time, higher revenue projections and other factors lower the 
+projected costs of servicing the Federal debt by as much as $31 billion 
+a year by 2009 and by a total of $138 billion over the 10-year period.
+    Changes in factors other than legislation and the economic outlook 
+(so-called technical changes) increase the surplus under the capped 
+baseline by $366 billion over 10 years. Technical changes to revenue 
+projections account for $141 billion of that difference--mostly the 
+result of an increase in projected realizations of capital gains in the 
+near term and other effects on social insurance taxes and individual 
+income taxes in later years. Technical changes to outlay projections 
+(other than for debt service) represent a similar amount--nearly all of 
+it resulting from changes to CBO's estimates of Medicare spending. 
+Continued emphasis on improving compliance with program rules and a 
+larger-than-anticipated drop in the use of home health care services 
+have slowed the growth of Medicare spending, prompting CBO to adjust 
+its estimates downward.
+               revenue projections for 2000 through 2010
+    CBO estimates that total Federal revenues will exceed $1.9 trillion 
+in fiscal year 2000 if current policies remain unchanged--marking the 
+eighth consecutive year in which the growth of revenues has outstripped 
+the growth of gross domestic product. Revenues are expected to grow 
+more slowly than GDP through 2004 and then at about the same rate as 
+GDP through 2010. In that year, revenues are projected to be $2.9 
+trillion, or about 19.8 percent of GDP.
+    Although revenues will continue to grow, CBO expects the rate of 
+growth to slow from the rapid pace of the past few years. From 1994 to 
+1998, revenues rose at an average rate of 8.3 percent a year, much 
+faster than GDP. Consequently, revenues as a percentage of GDP 
+increased from 18.1 percent in 1994 to 19.9 percent in 1998. Although 
+revenue growth slowed to 6.1 percent in 1999, it still exceeded GDP 
+growth and boosted the ratio of receipts to GDP to a postwar high of 20 
+percent.
+    In CBO's forecast, receipts will increase slightly faster this year 
+(6.4 percent) than in 1999. They will also grow faster than GDP, 
+pushing the ratio of revenues to GDP to 20.3 percent, which is expected 
+to become the postwar peak. Beginning next year, however, CBO expects 
+receipts to grow by roughly 4 percent a year through 2004. That rate is 
+projected to rise to about 4.5 percent a year between 2005 and 2010. 
+Although GDP will grow faster than receipts during that period, on 
+average, the ratio of receipts to GDP will stay close to its peak, 
+remaining at 19.8 percent.
+    Individual income tax receipts--bolstered primarily by higher 
+realizations of capital gains, growth in real incomes, and especially 
+rapid growth in income among high-income taxpayers--fueled the rapid 
+rise in revenues of the past few years. Those receipts are also an 
+important contributor to the slower growth of revenues projected for 
+the next few years. Higher realizations of capital gains stemmed 
+largely from the sharp rise in stock prices. Effective tax rates rose 
+because an increasing number of taxpayers fell into the high-income 
+category and were therefore taxed at higher marginal rates. 
+Furthermore, those taxpayers experienced higher-than-average growth in 
+income. None of those sources of rapid growth in revenues are expected 
+to persist indefinitely. As they play smaller roles in boosting 
+receipts, revenue growth is projected to slow.
+                outlay projections for 2000 through 2010
+    CBO expects Federal spending to total $1.8 trillion in fiscal year 
+2000. Under current policies, that figure is projected to rise to 
+between $2.2 trillion and $2.5 trillion by 2010, depending on the path 
+assumed for discretionary spending.
+    Federal spending as a percentage of the economy declines from its 
+current level under all three of CBO's alternatives for discretionary 
+spending. Last year, federal outlays totaled just under 19 percent of 
+GDP. In 2000, they will drop further, to about 18.5 percent. Over the 
+next decade, CBO estimates, outlays will continue to fall slowly, 
+reaching between 15.1 percent and 16.5 percent of GDP in 2010, 
+depending on which assumptions are used.
+    Within the overall picture, the mix of Federal spending has changed 
+significantly over time. Today, the government spends more on 
+entitlement programs and less on discretionary programs as a share of 
+GDP than it did in the past. Spending for entitlements and other 
+mandatory programs (including offsetting receipts) rose from 4.9 
+percent of GDP in 1962 to 9.9 percent in 1999, while discretionary 
+spending declined from 12.7 percent of GDP to 6.3 percent.
+    That trend continues in CBO's baseline projections. By 2010, 
+mandatory spending (including offsetting receipts) is expected to reach 
+10.9 percent of GDP, as discretionary spending falls to between 4.2 
+percent and 5.3 percent. The growth of mandatory spending--at a 
+projected rate of 5.6 percent a year--will be fueled by the two major 
+health care programs, Medicare and Medicaid, which are projected to 
+grow at average annual rates of 6.9 percent and 8.6 percent, 
+respectively. Those growth rates are faster than the ones experienced 
+in the past 3 years but slower than those of the early 1990's.
+    Discretionary spending is projected to increase at various rates 
+from 2000 to 2010: the inflated baseline shows growth averaging 2.7 
+percent a year; the freeze baseline, 0.3 percent; and the capped 
+baseline, 1.4 percent. Although total discretionary spending was 
+virtually unchanged between 1991 and 1996, nondefense discretionary 
+spending grew by 4.7 percent annually, while defense spending dropped 
+by 3.6 percent annually. Over the following 3 years, nondefense 
+spending increased by 3.8 percent, on average, and defense spending by 
+1.2 percent, leading to an average increase of 2.5 percent a year for 
+total discretionary spending.
+    As a whole, Federal outlays (other than net interest outlays) are 
+projected to rise by between 3.5 percent and 4.5 percent a year during 
+the next decade (depending on which variation of the baseline is used). 
+By comparison, total noninterest outlays grew at an annual rate of 3.4 
+percent over the 1991-1999 period.
+    Under each of the alternatives for discretionary spending, the 
+Treasury would have enough cash on hand sometime between 2007 and 2009 
+to retire all of the federal debt held by the public. However, because 
+some outstanding debt will not be available for repurchase, the 
+Treasury would not be able to devote all such funds to that purpose. 
+CBO's baseline simply assumes that the Treasury would invest all of its 
+excess cash at an interest rate equal to the average rate projected for 
+Treasury bills and notes and would receive dividend or interest 
+earnings from those investments.
+
+                          The Economic Outlook
+
+    In 1999, the U.S. economy continued to expand far beyond 
+expectations--yet without any meaningful acceleration in the underlying 
+rate of inflation. Most analysts expect the economy's growth to remain 
+strong but to slow at least moderately from the 4.3 percent annual rate 
+of the past 3 years.
+                           changes since july
+    CBO's current economic outlook is more optimistic about the 
+prospects for real growth than the one reported last July. Compared 
+with the July projections, growth of real GDP and labor productivity is 
+significantly higher, inflation as measured by the consumer price index 
+(CPI) is unchanged, and interest rates are slightly higher (see Summary 
+Table 6). Private-sector assessments of the economy's recent behavior 
+reach the same conclusion--that the sustainable trends in the growth of 
+labor productivity and real GDP are higher than previously thought 
+possible.
+
+                                  SUMMARY TABLE 6.--COMPARISON OF CBO ECONOMIC PROJECTIONS FOR CALENDAR YEARS 2000-2010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                           Forecast                                         Projected
+                                            Estimated --------------------------------------------------------------------------------------------------
+                                               1999      2000     2001     2002     2003     2004     2005     2006     2007     2008     2009     2010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Nominal GDP (Billions of dollars):
+    January 2000..........................     9,235     9,692   10,154   10,610   11,069   11,544   12,054   12,589   13,148   13,734   14,362   15,024
+    July 1999.............................     8,964     9,351    9,751   10,159   10,583   11,027   11,508   12,017   12,554   13,113   13,695     n.a.
+Nominal GDP (Percentage change):
+    January 2000..........................       5.4       5.0      4.8      4.5      4.3      4.3      4.4      4.4      4.4      4.5      4.6      4.6
+    July 1999.............................       5.3       4.3      4.3      4.2      4.2      4.2      4.4      4.4      4.5      4.5      4.4     n.a.
+Real GDP \1\ (Percentage change):
+    January 2000..........................       3.9       3.3      3.1      2.8      2.6      2.6      2.7      2.7      2.7      2.7      2.9      2.9
+    July 1999.............................       4.0       2.4      2.4      2.3      2.3      2.3      2.5      2.5      2.5      2.5      2.5     n.a.
+GDP Price Index \2\ (Percentage change):
+    January 2000..........................       1.4       1.6      1.6      1.7      1.7      1.7      1.7      1.7      1.7      1.7      1.7      1.7
+    July 1999.............................       1.3       1.8      1.8      1.8      1.8      1.8      1.9      1.9      1.9      1.9      1.9     n.a.
+Consumer Price Index \3\ (Percentage
+ change):
+    January 2000..........................       2.2       2.5      2.4      2.5      2.5      2.5      2.5      2.5      2.5      2.5      2.5      2.5
+    July 1999.............................       2.2       2.5      2.5      2.5      2.5      2.5      2.5      2.5      2.5      2.5      2.5     n.a.
+Unemployment Rate (Percent):
+    January 2000..........................       4.2       4.1      4.2      4.4      4.7      4.8      5.0      5.0      5.1      5.2      5.2      5.2
+    July 1999.............................       4.2       4.3      4.6      4.9      5.1      5.3      5.4      5.5      5.5      5.5      5.5     n.a.
+Three-Month Treasury Bill Rate (Percent):
+    January 2000..........................       4.6       5.4      5.6      5.3      4.9      4.8      4.8      4.8      4.8      4.8      4.8      4.8
+    July 1999.............................       4.6       5.0      4.6      4.5      4.5      4.5      4.5      4.5      4.5      4.5      4.5     n.a.
+Ten-Year Treasury Note Rate (Percent):
+    January 2000..........................       5.6       6.3      6.4      6.1      5.8      5.7      5.7      5.7      5.7      5.7      5.7      5.7
+    July 1999.............................       5.6       5.9      5.5      5.4      5.4      5.4      5.4      5.4      5.4      5.4      5.4     n.a.
+Tax Bases (Billions of dollars):
+    Corporate profits: \4\
+        January 2000......................       840       829      833      829      839      860      885      919      954      991    1,028    1,060
+        July 1999.........................       724       687      725      758      783      814      844      880      915      950      982     n.a.
+    Wages and salaries
+        January 2000......................     4,475     4,732    4,959    5,183    5,408    5,641    5,890    6,150    6,422    6,706    7,009    7,328
+        July 1999.........................     4,410     4,632    4,810    4,995    5,207    5,431    5,670    5,922    6,187    6,463    6,751     n.a.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCES: Congressional Budget Office; Department of Commerce, Bureau of Economic Analysis; Department of Labor, Bureau of Labor Statistics; Federal
+  Reserve Board.
+NOTES: Percentage changes are year over year. The projections for nominal GDP and the tax bases are not comparable because of definitional changes in
+  the national income and product accounts (see Box 2-1 in The Budget and Economic Outlook: Fiscal Years 2001-2010).
+n.a. = not applicable.   \1\ Based on chained 1996 dollars.   \2\ The GDP price index is virtually the same as the implicit GDP deflator.   \3\ The
+  consumer price index for all urban consumers.   \4\ Corporate profits are book profits.
+
+    In CBO's current projections, real GDP grows for the next 10 years 
+at an average annual rate that is 0.4 percentage points higher than was 
+projected in July. Several factors account for that increase: 0.2 
+percentage points stem from a reassessment of how much of the recent 
+surge in productivity will persist; slightly less than 0.1 percentage 
+point results from a change in the projected growth of the labor force; 
+and the rest reflects revisions in the measurement of real GDP.
+    Compared with real GDP growth, the growth of nominal GDP and the 
+categories of income that are important for predicting revenues 
+(corporate profits and wages and salaries) did not change as much from 
+the July projections. The reason is largely that CBO's current 
+projection of the growth of the GDP price index is lower. Furthermore, 
+revisions to the historical data--along with revised outlooks for 
+depreciation, net investment income from abroad, and corporate debt-
+service costs--have also reduced the projected growth of those income 
+categories relative to the growth of GDP.
+                      recent economic performance
+    The economy has performed exceptionally well for several years, 
+combining rapid growth and very low unemployment with declining 
+inflation. Since 1996, the growth of real GDP has averaged better than 
+4 percent, compared with an average of about 3 percent since 1973. 
+Because of those 4 years of rapid growth, the unemployment rate has 
+fallen to 4.1 percent, its lowest level since January 1970. CPI 
+inflation, excluding food and energy prices, had been running at about 
+3 percent per year earlier in the decade but was roughly 2 percent over 
+the past year.
+    Much of the recent good news can be attributed to a surge in 
+productivity growth, which has allowed the economy to grow faster 
+without raising the rate of inflation. Low import and (until recently) 
+oil prices, plus a number of other favorable but probably transitory 
+developments, have also helped suppress inflation. However, domestic 
+demand grew even faster than productivity--boosting employment, 
+tightening labor markets, and raising concerns that recent growth rates 
+may not be sustainable without sparking a rise in inflation.
+                     the forecast for 2000 and 2001
+    The economy retains considerable forward momentum, but at some 
+point, a slowdown from the recent blistering pace seems inevitable. If 
+tight labor markets push up labor costs, the best news about price 
+inflation may be in the past. Unless a faster rise in labor costs was 
+offset by continued increases in productivity growth, consumer prices 
+could move upward. Recovery in foreign economies could add to those 
+inflationary pressures by boosting commodity prices and by 
+strengthening foreign currencies relative to the dollar, which would 
+raise import prices.
+    The Federal Reserve has already responded to the threat of 
+accelerating inflation by increasing the Federal funds rate by 0.75 
+percentage points since June. Although those rate hikes may diminish 
+the risk of inflation in the near term, financial markets seem 
+convinced that further increases will occur this year.
+    For the next 2 years, CBO forecasts real GDP growth of about 3 
+percent, on average, and a slight rise in the underlying rate of 
+inflation. That outlook would not cause the unemployment rate to change 
+much in 2000 or 2001 from its current low level. The core CPI inflation 
+rate (excluding food and energy prices) is expected to edge up slightly 
+over the next 2 years from its recent pace of 2.1 percent.
+    In CBO's forecast, short-term interest rates average 5.4 percent in 
+2000 and 5.6 percent in 2001. The forecast assumes that the Federal 
+Reserve will boost the federal funds rate by 0.5 percentage points 
+during the first half of 2000 (in early January, financial markets 
+expected at least that large an increase). Thus, the interest rate on 
+three-month Treasury bills is forecast to reach 5.6 percent by midyear 
+and remain there through 2001. The rate on 10-year Treasury notes is 
+forecast to average 6.3 percent in 2000 and 6.4 percent in 2001.
+                   projections for 2002 through 2010
+    CBO projects that real GDP will grow at an average annual rate of 
+2.8 percent during the 2000-2010 period. That growth compares with the 
+slightly higher growth of 3.1 percent for potential output. Since the 
+current estimated level of real GDP exceeds its potential level, actual 
+GDP must grow at a slower pace than potential GDP to close the gap.
+    CPI inflation averages 2.5 percent a year after 2001 in CBO's 
+projections, and the unemployment rate averages 5.0 percent. Short- and 
+long-term interest rates are projected to average 4.8 percent and 5.7 
+percent, respectively, during that period.
+
+                     Uncertainty of the Projections
+
+    CBO's baseline projections represent the midrange of possible 
+outcomes for the economy and the budget, assuming that current policies 
+are not changed. Actual budgetary outcomes, however, could be 
+considerably different from those projections. Economic performance and 
+other assumptions that deviate from CBO's baseline will surely lead to 
+results that diverge from the numbers presented in this report. Policy 
+changes will also occur that will alter outlays and revenues; CBO's 
+projections do not attempt to take such changes into account.
+    Experience shows that although CBO's projection of the surplus for 
+the coming fiscal year is likely to be within 1 percent of GDP in most 
+cases, discrepancies can become more substantial over a 5-year horizon. 
+CBO's 10-year projections have only been made since 1992, so it is too 
+soon to assess their accuracy. But 10-year projections are likely to be 
+less accurate than 5-year projections.
+    Many observers believe that a major structural change has taken 
+place in the economy, and that belief influences CBO's projections. 
+However, any transition to a ``new economy'' would have occurred only 
+in the past few years, which means that little data about it are 
+available from which to make projections for the next decade. Moreover, 
+those data are insufficient to say for sure whether a structural shift 
+has occurred or whether the economy has merely deviated temporarily 
+from its underlying trends, as it has many times in the past. Under 
+those circumstances, projecting the economy and the budget is even more 
+uncertain than usual.
+    To illustrate the possible effects of differences from the baseline 
+assumptions, CBO has produced budget projections under two alternative 
+scenarios that make different assumptions. One (the optimistic 
+scenario) assumes that the robust performance of the past few years 
+will continue indefinitely and that Medicare and Medicaid spending will 
+grow at a rate 1 percentage point slower than in the baseline. The 
+other (the pessimistic scenario) assumes that the economy has simply 
+experienced a temporary divergence from stable, long-term trends and 
+will soon return to those trends--including even faster growth in 
+Medicare and Medicaid. The projections that result from those two 
+scenarios suggest a very wide range of possible outcomes for the 
+budget: for example, the total surplus or deficit in 2010 could deviate 
+from the baseline projections by $700 billion to $800 billion.
+    Under the assumptions of the optimistic scenario, the budget 
+outlook would improve dramatically. If discretionary spending grew at 
+the rate of inflation but there was no other action to cut taxes or 
+increase spending, the annual on-budget surplus under that scenario 
+would exceed $800 billion by the end of the decade, and the total 
+budget surplus would exceed $1.1 trillion. Projected surpluses that 
+large would imply that the Federal Government was holding huge amounts 
+of nonfederal assets (more than $4 trillion). If discretionary spending 
+was held to the lower levels implied by the statutory caps through 2002 
+or was frozen at the level enacted for 2000, surpluses would be even 
+larger.
+    Under the pessimistic scenario, the on-budget surpluses that CBO is 
+projecting in its baseline would never emerge. Instead, the on-budget 
+deficit would rise to more than $290 billion a year by the end of the 
+decade. The total budget deficit would be smaller; if discretionary 
+spending was constrained for the whole decade to the level enacted for 
+2000, that deficit would stay under $100 billion.
+
+                               Conclusion
+
+    The budgetary picture is bright. Projected surpluses are much 
+larger than the ones that CBO projected last July. The improved picture 
+largely results from CBO's updated economic outlook. But actual 
+budgetary outcomes could be considerably different from the 
+projections. Economic performance and other assumptions that differ 
+from CBO's baseline will lead to results that diverge from the 
+projections. Policy changes will also occur that will alter outlays and 
+revenues; CBO's projections do not attempt to account for such changes.
+    Although the improved budget outlook over the next 10 years 
+brightens the long-term outlook, problems lie not far beyond the 10-
+year horizon. Between this year and 2030, the number of retirees will 
+grow by 80 percent, but the number of workers will increase by only 
+about 10 percent. Ultimately, it is not the size of the balances in the 
+trust funds that will limit the ability to meet long-term obligations 
+but the size of the economy.
+
+    Chairman Kasich. Let me just then ask you, Mr. Crippen, we 
+were in the hearing with Mr. Lew. I was making the point that 
+there are no programmatic changes in either Medicare or Social 
+Security that extends the life of these programs; is that 
+correct?
+    Mr. Crippen. I believe so, but again, we have not examined 
+the President's budget thoroughly, so I cannot tell you what 
+all of the programmatic changes are.
+    Chairman Kasich. Let me ask you this: If you put IOUs in 
+the funds, does that extend the life of these programs?
+    Mr. Crippen. No, it does not. The trust funds may look 
+better, but it does not change the program or the important 
+variable of how much of the economy is being dedicated to those 
+programs.
+    Chairman Kasich. Your report really reflects--let's talk a 
+little bit about this demographic situation in terms of Social 
+Security and Medicare. How about putting into perspective what 
+happens the longer you wait--just kind of paint the picture of 
+Medicare and Social Security, understanding that--I kind of 
+look at Social Security as a program where you can do a reform, 
+where you can slow the growth in benefits, but on the other 
+side, if you give people private accounts, they have the 
+opportunity over time to more than make up for what they lost 
+in government promises, which are empty anyway.
+    But there is a good news story there. Minority people 
+really get hurt at all, I think that is a silly thing to even 
+say. The only people that get a little bit less, at least under 
+the plan I have that I think will ultimately be--what will be 
+adopted to fix Social Security, this narrow range of baby 
+boomers, because their private accounts cannot--well, they 
+could actually grow fast enough to make up for the slowing in 
+the growth rate in benefits, but for anybody, you know, under 
+the age of 40, they are going to make out like bandits, and if 
+you are young, you are going to do terrific under Medicare.
+    So there is a good news story, but I can't figure out the 
+good news story under Medicare because the population growths 
+are high, and I don't know how you balance these out.
+    Why don't you talk about the difference, the need to get 
+onto those programs, and what we are really facing. Paint a 
+picture for us.
+    Mr. Crippen. Maybe one way to think about it, Mr. Chairman, 
+is that if we are truly going to fund Social Security and maybe 
+Medicare, our generation should pay twice: once for our parents 
+and once for ourselves. By paying twice, we would save enough 
+so that the economy could grow enough to keep us from 
+commanding more from our children in the future than we are 
+paying to our parents today. At some point, some generation 
+will need to pay twice.
+    Now, we can spread that out. We can certainly leave more of 
+the burden on our kids by borrowing and not reforming the 
+programs any time soon. We could try and shift some costs onto 
+our parents by cutting current benefits, but no one is talking 
+about that. Essentially, the question is, where do you want to 
+place that burden for finally paying twice and funding Social 
+Security?
+    Chairman Kasich. Can't we just grow out of this?
+    Mr. Crippen. No. Part of the problem is that in order to 
+grow at all, we need to save more, which means our generation 
+has to save more now and cut current consumption. Be it public 
+consumption through the government or private consumption, we 
+need to cut consumption now and save more so the economy can 
+grow faster.
+    Chairman Kasich. Isn't it true also if you have a Social 
+Security System that pegs you to wages and prices, that, in 
+fact, the faster we grow, in a way the deeper the hole is we 
+get ourselves in? Is that not correct?
+    Mr. Crippen. It is certainly correct because we index 
+Social Security's initial benefits to real wage growth, 
+although there is a lag, which helps, of course, in the 
+process. You could change the objective of the Social Security 
+System from one of maintaining a certain share of earnings to 
+one of preserving purchasing power. If, for example, you 
+changed the indexation of the initial benefit from real wage 
+growth to price increases, you would pretty much solve the 
+problem of the long-term actuarial balance in the Trust Funds.
+    Chairman Kasich. That is precisely the proposal I have, but 
+it is also offset, however, by the fact that you can have a 
+private account that you would be able to earn money in, and 
+the longer you get that account, the more money you earn. The 
+longer it takes us to enact it, the less money you earn. So 
+that is why we ought to get about it today.
+    Mr. Crippen. The more you can increase savings, whether 
+private or public, the faster the economy will grow and the 
+better the fraction that I described will look.
+    Chairman Kasich. Tell me about Medicare a little bit.
+    Mr. Crippen. Medicare is a different story, of course, 
+because Social Security is both simpler on its face and also a 
+lot easier to project into the future. We know that everyone 
+who is going to collect Social Security in the near term is 
+alive today. And we know roughly how long they are going to 
+live and what their wage patterns are going to be. Projections 
+are thus much easier to make, and the program is also 
+relatively stable. In that sense, there are only two or three 
+variables or levers that you would pull for policy.
+    In the case of Medicare, and to a lesser extent Medicaid, 
+we not only have growth in the number of recipients driving the 
+numbers, as is the case with Social Security, but we also have 
+the growth in prices of medical care, a rate that is often 
+higher than that of the general economy, and changes in medical 
+technology and utilization of medical resources. So you have 
+three big components driving Medicare spending and only one, in 
+effect, driving Social Security. And it is those two other 
+components--utilization of resources through technology, or 
+intensity of use, and the prices of medical care and 
+pharmaceuticals that are hard to predict and that drive 
+spending for the program. And it is those components that will 
+cause Medicare to eventually spend more money than Social 
+Security, and it is those that, as you are suggesting, are 
+probably necessary to get us through to programmatic reform. 
+Simply changing one of those three streams--namely, trying to 
+control prices--does not do you much good in terms of 
+controlling the overall cost.
+    Chairman Kasich. Mr. Spratt.
+    Mr. Spratt. Dr. Crippen, you told the Senate Appropriations 
+Committee, I believe, on January 26 that to have a freeze on 
+appropriations for a period as long as 10 years would require, 
+in your words, unprecedented restraint. Let's take two of the 
+paths you have plotted for discretionary spending and see if 
+there is any precedent for the level of expenditure of cuts 
+that each of these paths would take.
+    For example, you assumed--you really had to assume because 
+you are pretty much bound to assume that Congress will follow 
+its own law, that Congress would track the BBA or return to the 
+balanced budget agreement and in 2001 drop spending, 
+discretionary spending, to the level of the cap set by the BBA. 
+As I recall your report, you indicated that outlays this year, 
+discretionary outlays, by your calculation was $603 billion. If 
+we return to the caps, outlay caps, in 2001, what sort of 
+outlay cut would be required between this year and next year?
+    Mr. Crippen. Roughly $30 billion.
+    Mr. Spratt. Roughly $30 billion.
+    And BA, budget authority, that would be, I take it, 
+probably 10 or 15 billion more.
+    Mr. Crippen. I think because of the advance appropriations, 
+it may actually be slightly less this time.
+    Mr. Spratt. Around $30 billion for both then.
+    Now, is there any precedent for that?
+    Mr. Crippen. I was just looking back, Mr. Spratt, to one of 
+the few times we have had absolute cuts--in 1981 or 1982--and I 
+do not think it was quite that much. So probably there is no 
+precedent.
+    Mr. Spratt. That was one year.
+    Mr. Crippen. Yes.
+    Mr. Spratt. Now, the next year, from 2001 to 2002, if we 
+were to track the caps, we would have to go down again in 
+outlay terms by about $10 billion more because the cap drops 
+from around 580 to around 570 in 2002.
+    Mr. Crippen. Yes.
+    Mr. Spratt. That would mean we would have to take a $40 
+billion reduction in 2002, and there is no precedent for that 
+then, not even 1981.
+    Mr. Crippen. Probably not to that extent. Total 
+discretionary budget authority and outlays have never gone down 
+as much as you just described, although nondefense 
+discretionary spending dropped in the 1981-1982 period by about 
+those same magnitudes.
+    Mr. Spratt. If we had a freeze in discretionary spending 
+over a period as long as 10 years, what would be the effect on 
+real spending, real discretionary spending, at the end of that 
+period of time?
+    Mr. Crippen. It would be a diminution of about 25 percent 
+in real terms.
+    Mr. Spratt. Twenty-five percent.
+    Mr. Crippen. Yes.
+    Mr. Spratt. If we held defense spending constant against 
+inflation, harmless against inflation, over that 10-year period 
+of time, what would be the real spending decrease in nondefense 
+spending at the end of the 10-year period of time?
+    Mr. Crippen. Outlays in 2005 would be 21 percent lower. 
+Over the 10 years, it would be much more than that.
+    Mr. Spratt. Our calculation was roughly 40 percent. Does 
+that sound right to you?
+    Mr. Crippen. Yes.
+    Mr. Spratt. Is there any precedent for that kind of cut in 
+discretionary spending?
+    Mr. Crippen. Not that I am aware of--certainly not for the 
+cut over the 10-year period.
+    Mr. Spratt. We have done a calculation of nondiscretionary 
+spending over the last 20 or 30 years, and we found that it has 
+grown at a pretty constant rate, real and nominal, over that 
+period of time. Even when there were caps, as there have been 
+since 1990, there has been a fairly steady incremental growth 
+in discretionary spending, so it would truly be unprecedented 
+restraint to have that level of cut in nondiscretionary 
+spending.
+    Mr. Crippen. It is certainly true, Mr. Spratt, that, on 
+average, over the period you were citing--say, from on--has 
+discretionary spending grown. But growth has not been 
+consistent; there is no steady increase. In some years, 
+spending has been down, in some years up. We have had cuts in 
+nondefense discretionary spending, as I said, in 1981 and 1982 
+of as much as 12 percent in real terms. So the pattern is 
+variable. I think it helps to reiterate that this is 
+discretionary spending; it does change from year to year, with 
+no overall pattern. So that is why in my testimony I said that 
+none of these baselines are really very satisfying because they 
+do not tell you what your needs are going to be for next year, 
+nor do they tell you what programs no longer deserve your 
+support. It is really not a particularly satisfying exercise to 
+have a 10-year baseline for discretionary spending. 
+Discretionary means just that, and I think the history of such 
+spending shows that it has, indeed, been used that way.
+    Mr. Spratt. With respect to Medicare, which I mentioned a 
+while ago, you have assumed continued cost growth, but at a 
+restrained or lower level than historically has been the case 
+with Medicare. Do you have some concern about the maintenance 
+of this historically low rate of growth in Medicare and 
+Medicaid, the two big health care entitlements?
+    Mr. Crippen. Our concern is not about our projection; 
+obviously, we can be wrong about the final numbers. But if we 
+begin to add spending in the intermediate term, that is, in the 
+next 10 years, it is going to change those programs in ways 
+that we cannot determine today. Again, utilization rates for 
+pharmaceuticals, for example, and technological changes are 
+very hard to predict. My guess is that actual rates of growth 
+for Medicare and Medicaid will be higher than the baseline 
+rates of growth we have projected. But we are not too concerned 
+that the roughly 6.6 percent growth, on average, over the next 
+10 years would be exceeded greatly under current policy or 
+current laws.
+    Again, growth in those programs is going to be driven not 
+so much by my generation's retirement but by increases in 
+utilization and prices. So, although those are harder to 
+project, we are not uncomfortable saying that the 6.6 percent 
+is going to be twice that or half that. After my generation 
+starts to retire, those numbers will be much, much different, 
+of course.
+    Mr. Spratt. Do you think the projection is firmer now than 
+it has been in the past because more of the categories of 
+benefits are in prospective payment form rather than 
+reimbursement form?
+    Mr. Crippen. That has certainly helped; it makes it a 
+little easier to project more accurately. History is a guide, 
+not an absolute. Last year, we had a 1 percent reduction in 
+Medicare spending. Nobody believes that that drop is going to 
+be repeated this year or any time in the future, but nobody 
+predicted it was going to happen either. If we based our 
+projections solely on last year's experience, we would have 
+obviously a very bad prediction of what future costs are going 
+to be. That is why we use a number of years of program spending 
+in determining our projections. Our current outlook of 6.6 
+percent annual growth--we are comfortable with that.
+    Mr. Spratt. Still a little iffiness in that assumption, 
+too?
+    Mr. Crippen. Absolutely.
+    Mr. Spratt. Finally, with respect to Social Security, we 
+have had this discussion before. The President proposes taking 
+$300 billion out of the general fund and over time putting it 
+into the Medicare fund. Mr. Kasich calls these IOUs. Legally, 
+they are bonds backed up by the full faith and credit of the 
+United States Government, and so you might call them an IOU, 
+but the Administrator, instead of being a political supplicant 
+when his cupboard runs bare, is a secured creditor. He has got 
+the strongest claim against the Treasury that you can have in 
+our country. That makes it more than just an IOU. But 
+economically if this is a net addition to national savings, if 
+that $300 billion contribution is an offset against money that 
+would otherwise be spent and is instead used to pay down 
+national debt or to buy equities in the stock market, invest in 
+the markets, doesn't that do something for the life insolvency 
+of Social Security?
+    You said for us to grow out of the problem, we have got to 
+save. If we save more, we can grow more. Wouldn't this be a net 
+addition to national saving that might promote growth and 
+therefore help Social Security?
+    Mr. Crippen. In the way you have put the question, 
+absolutely. You are assuming that it is a net addition to the 
+reduction of debt held by the public. If that is the case, it 
+would certainly add to national savings and could enhance 
+economic growth. It would help the denominator of that fraction 
+I mentioned, by helping to grow the economy.
+    What we have seen in the past, as in last year's budget, is 
+a situation in which the transfers do not really contribute to 
+a net reduction in debt held by the public. The question is, 
+does the transfer contribute to a reduction in debt? If so, 
+then it helps with saving.
+    Mr. Spratt. Thank you very much.
+    Chairman Kasich. We have got a vote on--this is the 10-
+minute warning. We will go over and vote, come back right away, 
+and finish the hearing. Thank you. We will stand in recess.
+    [Recess.]
+    Chairman Kasich. Why don't we go ahead and start. I would 
+like to recognize Mr. Smith for 5 minutes.
+    Mr. Smith. Mr. Chairman, thank you. And I think maybe the 
+question, Mr. Crippen, with the combined challenge of Social 
+Security, Medicare and Medicaid, has CBO calculated the 
+increased obligation that will be put on future generations in 
+terms of either payroll or income tax increases, if we make no 
+changes in Medicare or Social Security?
+    Mr. Crippen. By 2030, which is when roughly the end of the 
+baby-boom generation hits retirement, the amount required to 
+fund obligations to the elderly will be twice what is needed 
+today--that is, 14 percent of GDP instead of 7 percent. What 
+does that mean? In today's terms--if that was the situation you 
+were facing as you write next year's budget--it would mean that 
+you would have only $400 billion left to spend on everything 
+else. To put it another way, you would have to raise taxes by 
+$600 billion next year to fund those obligations. We would go 
+from taking 7 percent of the total output of the economy to 
+taking 14 percent. You could also raise taxes, increase 
+borrowing, or cut benefits. The policy that is chosen will 
+affect which generation is paying for what. As I said, one way 
+to think about it is that my generation needs to pay twice, 
+once for our parents and once for ourselves. In order to do 
+that, we obviously have to save a lot more and forgo 
+consumption, whether it is through the government or by 
+ourselves. Of course, we can put that burden on our kids by 
+ignoring the problem for as long as we can or by borrowing 
+more. It really has to do with which generation you want to pay 
+for those benefits.
+    Mr. Smith. A combination of your office and Social Security 
+actuaries show that without any program changes, within 40 
+years we would have to approach a 40 percent payroll deduction 
+to pay for Social Security, Medicare, and Medicaid. I am sorry 
+Mr. Spratt isn't here. With your permission, Mr. Chairman, I am 
+going to just shout. Mr. Spratt suggested that it is 
+inconceivable that we can have a freeze and that we should 
+increase spending with inflation. But it is obvious that we 
+don't increase spending consistent with inflation. Actually we 
+see a downturn in spending compared to the red line of 
+inflation.
+    Mr. Spratt, I was just saying that maybe your point that it 
+is going to be tough to have a freeze, and saying that we 
+should automatically increase spending consistent with 
+inflation is unnecessary. What I was pointing out on this chart 
+is that we haven't increased spending with inflation and it 
+isn't necessary to increase spending with inflation.
+    Mr. Crippen, I would like to ask you a question on an issue 
+that is coming up before Rules Committee today, and that is a 
+biennial budget. With our performance record on not doing a 
+good job guessing what the revenue is 2 years down the road, 
+plus the increased power that it gives the administration, 
+would you say that having a biennial budget tends to shift some 
+power over spending from the legislative branch to the 
+executive branch?
+    Mr. Crippen. I would have to confess that I have not really 
+thought about it in those terms. I think it does shift power 
+within the Congress, among the budget committees, the 
+appropriations committees, and the authorizing committees, 
+although I am not quite sure how.
+    My first reaction is that I do not think that a biennial 
+budget would shift power much. Presumably, the administration 
+would present a budget every 2 years instead of every year, so 
+congressional activity in the second year would be enhanced. 
+One of the things I was talking about with some of your folks 
+earlier was that the result of biennial budgeting will probably 
+be determined by what the media decides to cover or what 
+becomes interesting and newsworthy. In the second year of the 
+cycle, you could see a lot of oversight by appropriators and 
+authorizers, and that would be the news, as opposed to the 
+President presenting his budget or the State of the Union 
+address.
+    Mr. Smith. Are we good enough guessers on revenues 2 years 
+ahead of time to accurately have a 2-year budget?
+    Mr. Crippen. Clearly, we would have to update the outlook 
+at the halfway mark if you wanted to make adjustments at that 
+point. We have had trouble in the recent past projecting 
+revenues for a 2-year period, but last year was almost dead on. 
+This year, we are hoping we will be pretty close, too.
+    Mr. Smith. Last year was dead on on revenue projections?
+    Mr. Crippen. Very close.
+    Mr. Smith. Whole 12 months ahead of time?
+    Mr. Crippen. Not the whole 12 months ahead, but closer to 
+the end of the year. We are now doing 10-year policy-based 
+projections where we used to do 5-year ones. We are more 
+comfortable with 2 years than we are with 5 and 10. So I think 
+our projections are accurate enough to do a 2-year budget. Are 
+they going to be precise? No. You are going to want to review 
+and perhaps adjust things 12 months down the road.
+    Mr. Smith. Thank you.
+    Chairman Kasich. Ms. Rivers, you are recognized.
+    Ms. Rivers. I was listening very carefully when you were 
+answering Mr. Smith's questions about Medicare and Social 
+Security and the long-term solvency of them, and you said at 
+one point we better by saving a hell of a lot more now than we 
+are. If you look at it from that perspective, what would the 
+effect of, say, the $1.7 trillion tax cut Governor Bush is 
+proposing or even the $8 trillion proposed by Republicans in 
+the House, what would the effect of that be in our efforts to 
+deal with Medicare and Social Security over the long haul?
+    Mr. Crippen. It would depend on what your assumption is 
+about the alternatives.
+    Ms. Rivers. Loss of revenue; what would the loss of that 
+kind of revenue do?
+    Mr. Crippen. If it were to be spent on something else, it 
+might have no effect----
+    Ms. Rivers. If it were not, if it were going to be used to 
+pay down the debt.
+    Mr. Crippen. If we saved all of it, as I said in my 
+testimony, by the end of the decade we could pay off the debt, 
+and the additional savings would help Social Security.
+    Ms. Rivers. So having a tax cut would make it harder, and 
+not having a tax cut and not spending the money would make it 
+easier to deal with Medicare and Social Security?
+    Mr. Crippen. Let me retreat into economist talk. The one 
+thing most economists agree on is that if you save the 
+surpluses, the economy will grow faster. If the economy grows 
+faster, it will be easier to pay the obligations owed to my 
+generation. After that, there is a division of the house. A tax 
+cut of one kind might help economic growth; a tax cut of 
+another kind might not. As the Chairman pointed out, there may 
+be spending programs that help economic growth, and there are 
+certainly those that probably do not. You cannot make a broad-
+brush statement--or, rather, I am unwilling to make the broad-
+brush statement that you just made.
+    Ms. Rivers. The other question I have, this is my sixth 
+year, and I was in State government before that, and the idea 
+that we can bring down spending by large amounts by ferreting 
+out waste, fraud and abuse, which is one that gets floated all 
+the time. Do we have any historical data that suggests how 
+successful these efforts have been in the past?
+    Mr. Crippen. We have no data that you would find 
+satisfying; they are not very precise. Let me use one example 
+from recent history, and that is in Medicare. It is quite 
+apparent that the efforts the Clinton administration has 
+undertaken to increase compliance with Medicare regulations 
+have had a profound effect on spending. How much is open to 
+question because we do not know exactly how much of the drop in 
+spending is due to those efforts and how much is the result of 
+a change in----
+    Ms. Rivers. But we also know that the legacy of that broad-
+based account, that sort of meat-axe approach, was that home 
+health care providers, hospitals that were doing nothing wrong, 
+that were not operating in any way in a wasteful, fraudulent or 
+abusive manner, found their overall costs cut, and they were 
+unable to deliver services. So when you have a flat cut as 
+opposed to ferreting out specific problems, don't you create 
+other kinds of consequences?
+    Mr. Crippen. You can; however, the waste, fraud, and abuse 
+effort--and I use those terms advisedly--for Medicare was not 
+really the same thing as the cuts in payments implemented by 
+the Congress and the Balanced Budget Act. The payment cuts had 
+a different purpose--some were intended to save money and some 
+to change the payment policy. The assault, if you will, by the 
+administration on noncompliance in Medicare did not have 
+anything to do directly with the BBA's changes. The things they 
+have done to enforce compliance have become quite public.
+    Let me give you an example. Medicare had a long history of 
+aggressive billing by hospitals for particular conditions--that 
+is, the more expensive conditions were showing up more often. 
+After the administration began their compliance efforts, that 
+trend reversed.
+    Ms. Rivers. My understanding is the cuts in home health 
+care were specifically directed at abuse in a minority of 
+States, and that there was a meat-axe approach used to cut 
+funding across the board for everyone in an effort to deal with 
+these specific States, which is sort of what is being proposed 
+for the budget. Make a big cut, everybody has to live with it, 
+and maybe we will get the fraud and waste and abuse; and if we 
+don't, well, we will still save some money. Isn't that 
+analogous?
+    Mr. Crippen. There could be some unfortunate outcomes when 
+spending is cut across the board. But spending restraint does 
+not have to mean an across-the-board cut. For instance, our 
+freeze baseline variation, or even the capped baseline version, 
+is only a top-line amount. It does not assume that spending for 
+every program is frozen at this year's level. It just assumes 
+that in total, when you add up all spending for the year, that 
+it is frozen roughly at the 2000 level of spending. That is why 
+we call such spending discretionary, so that it can go up and 
+go down for particular programs. Our frozen baseline variation 
+is just a top-line assumption; it does not assume across-the-
+board cuts in individual programs.
+    Ms. Rivers. The last question I have, since I have always 
+had reservations about the projected surplus, I wonder if the 
+cartoon you chose to bring us today is to remind us we 
+shouldn't be too sure about your projections either?
+    Mr. Crippen. That is certainly true. I brought it because I 
+thought it was somewhat appropriate to our discussion. In the 
+volume we just released, ``The Budget and Economic Outlook: 
+Fiscal Years 2001-2010,'' Chapter 5 is entitled 
+``Uncertainties.'' In it, we highlight a number of the factors 
+that we are unsure about and, in fact, develop two different 
+scenarios of assumptions about spending and the economy that 
+could produce surpluses greater than we are now projecting or 
+smaller than we anticipate. The farther out you project, the 
+more uncertainty there is; 10 years is a long time to project 
+anything--the economy or government policy.
+    Ms. Rivers. As we look at decisions that have long-term 
+consequences, how firm is the footing on which we are making 
+decisions that are going to play out 5 and 10 years from now?
+    Mr. Crippen. Well, let's take Social Security as an 
+example. We know a little more about Social Security in the 
+future than we do about many other programs because we know, 
+for instance, roughly how many people are now alive and are 
+going to retire. And we know about factors that will influence 
+spending growth in such programs over the long term. But short-
+term projections of spending and tax revenues are more 
+uncertain. Discretionary spending has gone up, then gone down; 
+taxes have gone up and gone down. Of course, the politics of an 
+issue might make it difficult to reverse directions or do 
+something else, but clearly, the history of the budget shows 
+that we have had both tax increases and tax cuts, spending 
+increases and spending cuts--for example, the BBA's home health 
+care.
+    Now, I am not saying that you should hesitate to do 
+something because 10 years from now we do not know what the 
+situation is going to be. There may be current spending needs 
+that should be funded or tax cuts that would be appropriate and 
+that indeed, might help long-term programs by growing the 
+economy more quickly. The uncertainty of the projections, 
+although they might suggest the need for caution, obviously 
+should not prevent you from taking action you think is 
+appropriate.
+    Ms. Rivers. Thank you very much.
+    Thank you, Mr. Chairman.
+    Chairman Kasich. Mr. Hoekstra is recognized.
+    Mr. Hoekstra. Good morning.
+    Mr. Crippen. Good morning.
+    Mr. Hoekstra. Words make a difference. Benchmarking makes a 
+difference. I chair a subcommittee of oversight, and we have 
+oversight over the Education Department, about $35 to $40 
+billion of discretionary spending annually. They also manage a 
+loan portfolio that runs into the billions of dollars. In 1998, 
+they couldn't audit their books. I don't know if you factor 
+that kind of information in or not when you put these numbers 
+together, but you have got an agency out there that makes up 
+$35 billion of your discretionary number, and they can't really 
+tell us how much money they spent or where they spent it.
+    If we benchmark that Department against the Pentagon, it is 
+kind of like, hey, they are doing a great job. If we benchmark 
+them against the private sector, and we just met with Ernst & 
+Young yesterday, they said their performance for 1999, while 
+improved, would still be somewhere in the C minus to D minus 
+range, and if they were listed on the Securities and Exchange 
+Commission, they would be--or if they were listed--they would 
+be in trouble with the Securities and Exchange Commission for 
+that kind of performance.
+    The question I have is your CBO baseline budget 
+projections, assuming that discretionary spending is frozen, 
+there could be another title on there, it saying that perhaps 
+you could deliver the same services at these dollars or if you 
+had roughly a 2, 2\1/2\ percent productivity enhancement; is 
+that correct?
+    Mr. Crippen. Yes, absolutely.
+    Mr. Hoekstra. Because one of the things that--I have got a 
+lot of automotive suppliers in my district, and I can tell you 
+that none of them build in discretionary--excuse me--build in 
+automatic inflationary increases to any of the automotive 
+companies. A lot of them actually go in the other direction. If 
+they are building a product today that they are getting a 
+dollar for, they have got contracts into the future that say 
+next year you will deliver an improved product with enhanced 
+features, and you will do it for 95 cents, and in the third 
+year of the contract you are going to be doing it for 92 cents.
+    So how do you--the Education Department, I take a look at 
+them and they tell me how they try to keep their books, and it 
+sounds like a monastery with monks copying Holy Scripture in 
+500 or 600 A.D. They close their books and they bring in 
+outside contractors to manually reconcile their books and bring 
+it together, and, again, when you benchmark that against the 
+private sector, it is like, wow, why do you use the term 
+``freeze'' instead of ``productivity enhancement''? Could they 
+be identical?
+    Mr. Crippen. Sure. If you had an adequate productivity 
+increase, you could have the same output even though spending 
+was frozen. It is a nomenclature that we did not just develop 
+this year--it has been around for a while. Let me piggyback 
+some comments on what you said. I mentioned earlier that we do 
+not account for any productivity increases, although I suspect 
+there are some in the public sector. They may not be as great, 
+perhaps, as the private-sector examples you are citing, but 
+there should be some. I can look around CBO and see increased 
+productivity in the fewer clerical support people we need and 
+the better use we are making of resources in other areas.
+    But a freeze does not tell you about the programs that 
+should or should not be funded; it just suggests a number to 
+look at. And what we are doing with a baseline is trying to 
+give you a set of numbers that over 1 year or 5 or 10 years 
+gives you a sense of where we are headed. It is just very hard 
+to do with discretionary appropriations because you change them 
+from year to year, which is the nature of the beast and should 
+be.
+    The question is, what is the best measure, or benchmark, 
+for discretionary appropriations? It may well be that the 
+freeze baseline variation, which holds spending to last year's 
+enacted appropriations, is the best benchmark, at least for the 
+near term, because it gives you the most recent programs you 
+funded, presumably deservedly, and it also gives you the last 
+analysis anybody did of the existing system.
+    I think any baseline projecting discretionary 
+appropriations over 10 years is a very iffy proposition. But 
+whether you start with last year's appropriation levels as your 
+base or whether you assume some productivity increases, it is 
+important to recognize that underneath that big number we give 
+you are lots of programs that you need to examine, presumably 
+on an annual basis. That is why they are discretionary.
+    Mr. Hoekstra. When I take a look at--only in government 
+would we think that benchmarking off of last year and putting 
+in an automatic inflationary increase is the most reasonable 
+way to go. That is not the world that my constituents live in 
+in the business world. They take a look each and every year. 
+They take a look at new technology and say, hey, if we 
+incorporate this new technology, we will be able to deliver a 
+better quality product at a higher service level at a lower 
+cost, and so overall we can give a better degree of service to 
+our customers, and we will lower our costs and our prices at 
+the same time.
+    Mr. Crippen. The Congress enacted a program--I think, 7 
+years ago--under the Government Performance and Results Act 
+that has spent the past 7 years developing program objectives 
+and ways to measure whether those objectives are being met. I 
+believe the first round of reports from the agencies are due to 
+the Congress at the end of next month. So there should be ample 
+material there for the Congress to take a look at to see how 
+well the programs are performing, what are their objectives, 
+how are they doing. You could also have the departments come up 
+and talk to you about the programs. In that sense, you have, I 
+think, a very new and very good opportunity to do what your 
+private-sector constituents do.
+    Mr. Hoekstra. Thank you.
+    Mr. Green [presiding]. Mr. Minge, questions?
+    Mr. Minge. Thank you, and thank you, Mr. Crippen, for being 
+here. I would like to focus on the question of debt reduction 
+and how that factors into the projections and the activity that 
+is currently taking place here in Congress. And it is my 
+understanding that you and Chairman Greenspan really--the 
+consensus position of the economists and public policy experts 
+that have been analyzing the Federal budget is that the 
+surpluses that we are beginning to realize have contributed to 
+holding down interest rates to economic growth and to the 
+soundness of our economy, and I am assuming that you share this 
+position.
+    Mr. Crippen. Yes.
+    Mr. Minge. It is also my understanding that you recognize 
+the risks inherent in multiyear forecasts, especially 10-, 15-
+year forecasts, and I understand if a 10-year forecast like we 
+are talking about at this point is off by 1/10 of a percent 
+each year, that the cumulative effect over that 10-year period 
+on the Federal budget would be in excess of $200 billion. So 
+either we would have $200 billion more or, heaven forbid, $200 
+billion less. And we have seen some fairly significant swings 
+here in the forecast, as you already recounted, in the last 7, 
+8 years, and it has all been on the upside, so it gives us 
+reason for optimism, but you have tried to maintain some sort 
+of pessimistic estimates in your own forecast.
+    My concern is that if we were to come up with a bold new 
+entitlement program as opposed to even just a modest expansion 
+of the current program and lock that in place in reliance on 
+this 10-year forecast, you would probably caution us that that 
+is not a prudent move if we are committed to having a surplus 
+over this 10-year period of time. Would I be correct in that?
+    Mr. Crippen. I think so. It depends on the size and the 
+nature of the entitlement program you are talking about. If the 
+range of expenditures was $10 billion to $100 billion a year, 
+you would have to worry about it. If expenditures were pretty 
+well circumscribed--$10 billion to $15 billion a year, for 
+example--and you could predict with some certainty that that 
+spending would not grow quickly to $100 billion, you would have 
+a different story. If you were proposing a new entitlement 
+program that would spend $100 billion a year, you would 
+certainly have to be very cautious about how much of the 
+surplus you would have left to dedicate to paying down debt.
+    Mr. Minge. And certainly many of us share that concern, and 
+I know this is a part of the debate over prescription drug 
+coverage, can it be contained, will it grow, how can you 
+contain it and so on.
+    And one other aspect of this is on the revenue side, and I 
+expect that you would share that same concern if a new tax 
+approach was locked in, what is the impact on that over a 10-
+year period of time on the revenues that are needed to finance 
+Federal operations.
+    Mr. Crippen. As I said to Ms. Rivers earlier, the one thing 
+most economists do agree on is that paying down the debt is 
+generally helpful for the economy. After that, there is no 
+consensus on whether cutting taxes or increasing spending would 
+be just as or more helpful. In fact, there may be spending on 
+education, for example, that could help the economy grow more 
+than would paying down debt. There could be tax cuts that might 
+help the economy grow more. But economists as a group do not 
+have a clear view of exactly how that would go.
+    One thing I did say to Ms. Rivers, too, is that because of 
+the uncertainty----
+    Mr. Minge. I was here when she asked those questions, so 
+rather than revisit those, what I would like to conclude with 
+is an observation based upon what I have seen at the State 
+level. In Minnesota, and I expect in many other States, as 
+these surpluses have rolled into the State treasuries, they 
+have established rainy day funds, first to make sure that they 
+have a hedge against a bad year, if they have a bad year the 
+next year or two, and then secondly, they have had some modest 
+program expansion. Third, they have had tax refunds, which have 
+been curious to me because instead of making changes in the tax 
+code that would be carried forward from year to year, they 
+start by having a rebate. And I am just wondering if you could 
+give us any observation on whether or not what the States have 
+been doing is something that we should be paying more attention 
+to as opposed to spurning that and insisting on long-term 
+changes in the Tax Code itself, and certainly before these 
+surpluses have even begun to roll in.
+    Mr. Crippen. It is an excellent point but not, 
+unfortunately, one that I know much about. We may well have 
+some folks in CBO's State and local budget analysis section, 
+though, who pay more attention to it. I have read that States 
+are anticipating cutting taxes again this year, because, as you 
+say, surpluses are growing. I have not thought about the 
+different effects of rebates versus changing the Tax Code, but 
+we could certainly take a look at that.
+    [The information referred to follows:]
+
+            Tax Actions Taken By States in Times of Surplus
+
+                              introduction
+    Facing sluggish economies in the late 1980's and early 1990's, 
+states took a number of actions that bolstered their finances and 
+created opportunities for present surpluses. States established rainy-
+day funds, or some variation of them; they cut spending and reformed 
+many of their programs; and a number of states increased taxes. Because 
+of the danger of overextending themselves in the future, states did not 
+take dramatic actions to reduce early surpluses. Instead, they hedged 
+against overcommitting themselves by using surpluses in limited, yet 
+productive ways-by increasing rainy-day funds, spending funds for one-
+time infrastructure improvements or program formulation, and enacting 
+limited or phased-in tax reductions. However, with surpluses occurring 
+year after year, states began to reduce taxes in various ways, 
+including multiyear cuts in tax rates and other adjustments to 
+deductions and exemptions. In 1999, 31 states cut income taxes in some 
+way; 28 states will reduce them in 2000. Some states have also 
+continued to provide periodic tax relief through rebates.
+                tax rebates and one-time rate reductions
+    Tax rebates can provide a one-time tax reduction without changing 
+the underlying structure of state taxing authority. Through rebates, 
+states give money back to taxpayers, although they may create a Federal 
+tax liability for people who itemize their deductions if they return 
+the money through a state income tax rebate. Consequently, some states 
+base their rebates on sales taxes. Such rebates take a number of forms 
+but are usually available to all state residents and, on occasion, to 
+some out-of-state residents who can prove that a sales tax liability 
+occurred. Sales tax rebates are often tiered amounts, ranging from $30 
+to $500 in some cases, depending on the state and the total amount 
+designated for rebates; they are provided to most adult residents of 
+the state. In most instances, states use their own income tax data to 
+provide the rebates, although on occasion, they may use additional 
+Federal databases from the Internal Revenue Service or the Social 
+Security Administration. For rebates based on income taxes, the state 
+may require a simple form, or it may determine the amount on the basis 
+of existing records. However, income tax rebates are not always based 
+solely on income tax liability; marital and household status may be a 
+factor as well. Six states will provide tax rebates or one-time rate 
+reductions in 2000 for prior tax years.
+    Constitutional Rebates. In Missouri and Colorado, provisions of the 
+state constitution require rebates when revenues exceed either 
+estimates or some other defined level or cap. Missouri will rebate $178 
+million in taxes because revenues exceeded a cap on growth established 
+in state law. Colorado will rebate $679 million because of 
+constitutionally established limits on revenue and spending growth. 
+Oregon may have rebates in the upcoming year, but because the state 
+budgets biennially, rebates would not occur until the end of the 2-year 
+budget cycle.
+    Legislated Rebates. Three other states have provided rebates 
+through annual legislative action, despite no governing requirement in 
+existing law or in their state constitutions. Connecticut, Minnesota, 
+and Wisconsin have rebated $118 million, $1.3 billion, and $700 
+million, respectively. To avoid a Federal tax liability for taxpayers 
+and an adjustment to a prior year's itemized deductions, the states 
+returned that money in the form of sales tax rebates. (Another 
+rationale for providing sales tax rebates is that they can reach a 
+larger part of the population.) Before its most recent rebate, 
+Minnesota had provided tax rebates based on the amount of property 
+taxes that an individual had paid. A person could claim the rebate by 
+completing a line on his or her income tax form.
+
+                                                   TAX REBATES
+                                            [In millions of dollars]
+----------------------------------------------------------------------------------------------------------------
+                          State                           Rebate year 1999  Type \1\  Rebate year 2000  Type \1\
+----------------------------------------------------------------------------------------------------------------
+Colorado................................................               530         I               679        I*
+Connecticut.............................................               102         I               118         S
+Minnesota...............................................               468         P             1,300         S
+Missouri................................................               319         I               178         I
+Oregon (Biennial).......................................               167         I              n.a.      n.a.
+Wisconsin...............................................              n.a.      n.a.               700         S
+----------------------------------------------------------------------------------------------------------------
+\1\ I = income tax rebate (for Colorado in 2000, this amount also includes a business personal property tax
+  rebate, as indicated by the asterisk); S = sales tax rebate; and P = property tax rebate.
+
+    One-Time Rate Reduction in Ohio. Ohio adjusts its income tax rates 
+annually on the basis of prior-year surpluses, a unique way of 
+providing tax relief on an annual basis. After meeting a number of 
+funding requirements for rainy-day funds, special reserves, and 
+spending priorities, the state determines the total surplus accruing at 
+the end of the year. That surplus is returned to taxpayers by adjusting 
+baseline tax rates. Each tax bracket is reduced by the percentage that 
+the prior year's surplus exceeds projected revenues for the upcoming 
+year. By that method, Ohio will provide $293 million in tax relief by 
+reducing its baseline tax rates by 3.6 percent. That approach 
+accomplishes the same goal as more common rebate programs; however, it 
+can create problems with public perceptions. A large surplus one year 
+might necessitate a large cut in the tax rate, whereas a lower surplus 
+the following year would cause tax rates to increase-even though those 
+rates are lower than they would have been under the baseline estimate.
+    Unlike permanent reductions in tax rates or changes to exemption 
+status and deductions, tax rebates do not automatically recur. Rather, 
+they depend on excess revenues and most often require some form of 
+legislative action. They also allow lawmakers to provide a form of tax 
+relief without raising the possibility that tax rates will have to be 
+increased at some later date when spending pressures increase or 
+revenues fall.
+                           other tax changes
+    Although tax rebates may offer states greater flexibility in the 
+future compared with permanent changes to their tax systems, recurring 
+surpluses over the past few years have led many states to make such 
+changes. Fifteen states made significant net tax cuts in 1999, after 21 
+states took similar action in 1998. Since income and sales taxes 
+provide the majority of state revenues, it is not surprising that those 
+taxes saw the greatest reductions. Nine states cut income tax rates for 
+the 2000 tax year, and seven states raised exemptions or the amounts 
+allowed for standard deductions. Twenty-three states made some type of 
+reduction in sales or use taxes.
+                  tracking changes in state tax policy
+    Both the National Association of State Budget Officers and the 
+National Conference of State Legislatures publish annual updates on 
+state tax and budgetary actions. The Center for the Study of the States 
+(located at the State University of New York at Albany) also publishes 
+regular summaries of states' revenue experiences and changes in their 
+tax laws.
+
+    Mr. Minge. I would appreciate receiving some advice and 
+guidance from CBO on this because the States have had these 
+surpluses for several years, and so they have struggled with 
+this, and at this point they are beginning to change their tax 
+codes. But at least the first couple of years my observation is 
+that they were focusing on rebates and other approaches to 
+this, and similarly they were cautious about embracing new 
+programs which under at least current leadership it doesn't 
+appear we are at much risk of doing. So that, I think, would be 
+helpful. The States, so to speak, are a laboratory for 
+experimentation, and we can certainly learn from watching what 
+they have done and whether or not it has been successful.
+    Mr. Crippen. Fortunately for the citizens of Alaska, they 
+have been giving back revenues for a long time. We have some 
+examples.
+    Mr. Minge. Thank you very much.
+    Mr. Green. Mr. Gutknecht, please.
+    Mr. Gutknecht. Thank you, Mr. Chairman.
+    Thank you, Mr. Crippen. It is always good to have you here. 
+I do check your Web site from time to time, and I am sorry I 
+haven't checked it for the last month or so, but the first 2 
+months of the fiscal year, revenues were running ahead of last 
+year by 7 percent. Are we roughly at that level today?
+    Mr. Crippen. We are still above what we had projected at 
+this point, but these early months are quite variable compared 
+with some of the others. So it is clearly too soon to tell, but 
+we are above, not below, what we had anticipated.
+    Mr. Gutknecht. Under your model--and I know everybody likes 
+to look out 5 years and 10 years, and frankly, as the 
+weatherman, they don't do a very good job predicting what is 
+going to happen tomorrow let alone what is going to happen 5 
+years from now. This year what are you assuming for economic 
+growth?
+    Mr. Crippen. I believe it is 3.3 percent. I could check 
+that for you.
+    Mr. Gutknecht. But that is--you are still being relatively 
+conservative compared to what we are seeing?
+    Mr. Crippen. Yes.
+    Mr. Gutknecht. I want to go back to another point, and this 
+is as much a comment as a question in response to what some of 
+my colleagues have said. I think we need to change the whole 
+way we look at this, and our job as a budget committee, as far 
+as I am concerned, is to bake the bread like the little red 
+hen. We have got to create the surplus. I have said if we could 
+simply do this, if we could limit the growth in total Federal 
+spending to no more than the average growth in the average 
+family budget--in other words, the Federal budget should grow 
+no faster than the average family budget, and that is running a 
+little over 3 percent right now, and I think actually next year 
+we can do a little bit better than that. We can actually come 
+in under that number. I believe if we do that, we are going to 
+guarantee strong economic growth and significant surpluses as 
+we go forward.
+    I want to go back to a point. When people say we can't 
+limit the growth in Federal spending or we can't freeze Federal 
+spending, we are going to have a meeting tomorrow, and I hope 
+all of my colleagues will come and take a look at how much, as 
+far as I am concerned, waste is still in this Federal budget.
+    Let me just throw out a couple of things. Last year we 
+spent $1 billion on construction projects in Europe for the 
+Army, the military, to defend Europe from whom? I mean, at some 
+point we have to ask who are we defending Europe from? Last 
+year we spent over $9 billion in the Balkans. Again, there was 
+supposed to be burden-sharing between us and our allies. I 
+haven't seen it.
+    We are currently, just in Medicare alone--let me just give 
+you a few numbers, Mr. Crippen. We sometime have to start 
+calculating this. Let us take one drug, Coumadin. If you buy it 
+in the United States, the price is $35.25. If you buy that drug 
+in Europe, it is $2.85. I can go on to a long list of what we 
+pay for prescription drugs in the United States, and ultimately 
+it costs the taxpayers--right now, back in the envelope 
+calculations we could save $1.8 billion in Medicare alone, not 
+even including what we pay through the VA for drugs, if we just 
+simply could get somewhere close to the world price of 
+prescription drugs.
+    Let me talk about some other areas where I think there is 
+just enormous waste. As my colleague from Michigan said, the 
+Education Department is a $38 billion company, which, for the 
+second year in a row, our own General Accounting Office says 
+their books are unauditable. At some point we on the Budget 
+Committee have to demand some accountability.
+    I raised the issue last year when the representatives from 
+the Pentagon were here, because I have heard this and it has 
+yet to be refuted. We currently have more generals and admirals 
+than we had at the peak of World War II when we had 16-1/2 
+million Americans in uniform. We have become so top-heavy, and 
+yet we can't find any savings. In my opinion--and this report 
+is filled with even more examples. The Pentagon is still 
+spending, one example, $75.60 for set screws that American 
+consumers would buy for 57 cents.
+    I mean, I think we on this committee have to take a very 
+tough stand, and the argument that we can't balance the budget 
+or we can't provide tax relief or we can't freeze spending, 
+discretionary spending, I think, is outrageous, and I think 
+when the American people begin to realize how much, whether it 
+is the Pentagon, the Department of Education, do we need 6,000 
+people in the Department of Housing and Urban Development, I 
+think that is a legitimate question, and somebody ought to be 
+asking it, and I think it ought to be the members of this 
+committee, because if we do, and if we get better answers and 
+better accountability, I think we can balance the budget. I 
+think we can save Social Security. I think we can pay down 
+debt. And I think we can have tax relief that helps families 
+keep more of what they earn.
+    That is an editorial statement, but, Mr. Chairman, I hope 
+more of the Members will be here tomorrow to go through this 
+report and just see how much waste and mismanagement is still 
+embedded in this Federal budget, and I think once they do, they 
+will come to the same conclusion. We can balance this budget, 
+and we can freeze discretionary spending if we have the courage 
+to say no to some of this waste.
+    I yield back my time.
+    Mr. Green. I think the session tomorrow will be very 
+interesting.
+    Before we proceed, I would like to ask unanimous consent 
+that any questions may be submitted for the record.
+    Mr. Green. And without objection, we will proceed on 
+questions.
+    Mr. Bentsen.
+    Mr. Bentsen. Thank you Mr. Chairman.
+    Mr. Crippen, good to see you. I thought for a second my 
+colleague from Maine, Mr. Allen, was my colleague from 
+Minnesota, Mr. Minge, when he was talking about drug prices and 
+whether or not we ought to impose some price controls, maybe 
+some European Union-type model or something, but I won't go any 
+further on that.
+    I want to reference my questions back on the discussion of 
+what the baseline is and what our future fiscal policy should 
+be because that is really what we are talking about. I would 
+reference you back to last year's markup of the fiscal 2000 
+budget resolution, which ended up going nowhere. I am going to 
+bring this up all year, but I did offer an amendment last year 
+that would have frozen spending at the caps per the 1997 BBA 
+and dedicated all surplus, on- and off-budget surplus, to debt 
+retirement. That amendment was not unanimously, but almost 
+unanimously, rejected by Republican and Democrat alike. So when 
+my colleagues talk about us being able to do this, I would 
+remind them that they were given an opportunity and failed.
+    CBO uses a criteria dealing with behavioral compliance in 
+the Medicare baseline. In a second, I will talk about the 
+Medicare baseline, but right now I want to talk further about 
+the table that our Chairman put up there. If you were to apply 
+that type of formula to congressional action in your budget 
+projections and extrapolate what the trend has been for 
+Congress over the previous 3 to 5 years in discretionary 
+spending, what would your baseline look like, because according 
+to your testimony it certainly wouldn't be a freeze. In some 
+instances, it would certainly be somewhere at or above the rate 
+of inflation, is that correct?
+    Mr. Crippen. It depends on which 3 or 5 years you choose.
+    Mr. Bentsen. Let's just talk about, say, fiscal 1995 
+through fiscal 1999.
+    Mr. Crippen. Because spending in 1995 was lower, you 
+probably have essentially a freeze since then.
+    Mr. Bentsen. Nominal freeze?
+    Mr. Crippen. Yes, nominal. This shows the sensitivity of 
+what base you use. Because there was an absolute reduction in 
+discretionary spending in 1995, by including that year you show 
+that a freeze is possible. By leaving out 1995, you may suggest 
+that a freeze is not possible, which belies the variability in 
+the underlying----
+    Mr. Bentsen. You said a nominal freeze. A nominal freeze 
+assumes the rate of inflation.
+    Mr. Crippen. No. Nominal without inflation.
+    Mr. Bentsen. So it did assume the rate of inflation.
+    Mr. Crippen. It did not.
+    Mr. Bentsen. So are you talking about a real freeze.
+    Mr. Crippen. Again, if you choose a different time period, 
+you will get a different answer. The point I would like to make 
+is simply that discretionary spending has gone up, and it has 
+gone down. Over the past several years, it has gone up.
+    Mr. Bentsen. But the valley was hit in 1995, and since 
+then, we started to ramp back up, right?
+    Mr. Crippen. Yes.
+    Mr. Bentsen. So, if you looked at the behavioral experience 
+of Congress on the discretionary side, then you would say it is 
+less than likely that they are going to follow a real freeze in 
+the future.
+    Now, through your testimony you show a rampdown, a dramatic 
+rampdown in discretionary spending as a percentage of GDP from 
+1960 to today, dramatic rampdown certainly from 1980 to today, 
+and a dramatic increase in mandatory spending. I would just 
+note that for all that we hear about how government is 
+strangling the American economy and how terrible things are as 
+a result of it, it is ironic that you look and see how little 
+discretionary spending is of the gross domestic product, 
+particularly nondefense discretionary spending. I might add 
+that it is hard to find the period of economic growth that 
+compares to the current recovery cycle, certainly in the 
+postwar period and even in the last century. So it certainly 
+has not caused a recession or a depression or controlled growth 
+to such an extent that it is killing the American economy. I 
+think maybe we should also not just focus so much on what we 
+would do on the discretionary side, because, as I see it, our 
+experience on the discretionary side of trying to achieve a 
+real freeze is not particularly good.
+    But in Medicare, as I read it, the Medicare baseline from 
+1997 to today has changed dramatically. Since the Balanced 
+Budget Amendment in 1997, the baseline has decreased by about 
+$100 billion over 5 years and is projected to decrease even 
+more. First, I want to know how did CBO miss that reduction, 
+because we relied upon you when we formulated the BBA in 1997?
+    Second, virtually all of us on this committee have heard 
+from hospitals about the cuts, I probably have more hospitals 
+than anybody else in a district. Last year we had the BBA give-
+back bill, and we put back about $15 billion over 5 years. What 
+is to say that Congress won't at some point put back more of 
+the BBA? There are about a dozen bills that have been filed, 
+including bills from very influential committees. Should we 
+not, when we look at these surplus figures, be taking a very 
+hard look as to whether or not Congress may decide to go back 
+to what the projected 1997 BBA baseline was for Medicare?
+    Mr. Crippen. There are two questions here. One is, what 
+happened to CBO's 1997 estimates? The second is, how much of 
+that is factored in or should be factored in for the future? 
+The 1997 estimates may well be accurate. That is to say, the 
+change in policy that the BBA instituted may produce roughly 
+the savings that we estimated at that time. Other things have 
+changed as well since then, a principal change being what has 
+happened with the initiatives by the administration to increase 
+compliance with Medicare law and regulations.
+    As I mentioned earlier, we are getting some effects out of 
+the compliance efforts that we did not expect in 1997 and that 
+does not have anything to do with the BBA. So it is not just 
+that the policy changed in 1997. There are other things that 
+have happened that are causing Medicare to spend less than we 
+projected in 1997. Home health care was mentioned earlier. The 
+law that you passed limited the average payment per beneficiary 
+under the interim payment system. What many home health 
+providers did was cut off services to patients who reached the 
+per-beneficiary limit, which lowered average payments below the 
+allowable limit. So the implementation had a little different 
+effect than anyone had anticipated.
+    The primary point, though, is that other things happened in 
+addition to your policy changes. So it is not----
+    Mr. Bentsen. But if we were to reverse the policy----
+    Mr. Crippen. You would not get all of that spending back.
+    Mr. Bentsen. Any we get back obviously is going to adjust 
+the Medicare baseline, and it is going to take it out of the 
+hide of the projected surplus. We should be cognizant of that, 
+given our earlier actions.
+    Mr. Crippen. Right.
+    Mr. Bentsen. Thank you, Mr. Chairman.
+    Mr. Green. Ms. Hooley, questions.
+    Ms. Hooley. Yes. Thank you.
+    Thank you for coming today. I am looking forward to your 
+coming in another month when you have actually finished your 
+job.
+    Mr. Crippen. So am I.
+    Ms. Hooley. I come from the State of Oregon, and I can 
+remember in 1979 when we were going great guns in our economy, 
+and all of a sudden without any warning in 1981 the bottom fell 
+out of our economy, and we made huge cuts. It was a tough time 
+in our State, and we spent about 6 years getting back on track. 
+So I have--when I see huge new proposals that would really have 
+huge impacts for future on the budget, I get very nervous about 
+it, knowing how quickly your surplus can disappear.
+    And I think there is agreement in this group and with you 
+that paying down the national debt should be a priority, and 
+you talk about it would promote private investment and 
+therefore increase our productivity and spur faster economic 
+growth. I think the problem is just how much do we need to do 
+to pay down that debt.
+    The President has proposed that we should use the bulk of 
+the surplus to pay down the debt. Greenspan has argued, and you 
+saw it up on the chart, that we need to pay down our debt. My 
+question is do you agree that using the bulk of our surplus to 
+pay down the debt should be our number one fiscal priority, and 
+how much would you use?
+    Mr. Crippen. Relative to your first question, as 
+economists, we would say yes, we think paying down the debt 
+will help economic growth and therefore long-term budgetary 
+problems. I have no answer as to how much. If we look at Social 
+Security, for example, or the Nation's long-term obligations, 
+it is clear that even if we saved all the projected surpluses, 
+they would not be enough to fulfill the obligations that we now 
+have on the books to my generation. We are still going to be 
+taking more out of the economy in 2030 than we are today for 
+retirement and other programs for the elderly.
+    But that is not to say that you may not find priorities 
+that are more important than economic growth. You may find 
+other ways to grow the economy that have little to do with 
+saving--with paying down the debt. This is not an absolute in 
+which you can say saving $2 trillion is enough, or saving $3 
+trillion is more than enough. In some absolute sense, all of it 
+is not enough. It depends on what your objective is.
+    Ms. Hooley. Your analysis concludes that if we maintain a 
+zero real growth spending level over the next 10 years, that 
+our on-budget surplus will be a little over $800 billion, 
+right?
+    Mr. Crippen. Right.
+    Ms. Hooley. If we adopted a zero growth spending on the 
+discretionary budget, do you think we could continue to make 
+substantial progress in paying down the national debt?
+    Mr. Crippen. No matter which of these baseline variations 
+you look at, by 2010, we will have something like $2.3 trillion 
+in surpluses in Social Security alone. That means that if we do 
+not cross this line we have established between on-budget and 
+off-budget surpluses, we will have at least $2.3 trillion in 
+debt paid down. Anything above that is obviously helpful as 
+well. So no matter which of these variations you want to 
+assume, you will have substantially paid down $3.6 trillion in 
+debt, $2.3 trillion out of Social Security alone. I do not know 
+if that has been responsive to your question.
+    Ms. Hooley. Representative Minge brought up looking at some 
+of the States' programs and what they have done. We have a 
+unique program in our State, and some people would think it is 
+good, and some people not good, but it really depends on the 
+projections, whether they come true and whether or not there is 
+a refund or not a refund. And it is a way of--because of the 
+uncertainty with any projection, it is a way of dealing with 
+the budget, giving the money back to the people without 
+changing your tax code. And again, I am going to recommend that 
+you--that someone on your staff maybe look at some of those 
+programs out there that States have been successful in doing 
+that. Thanks.
+    Mr. Green. Mr. Gutknecht.
+    Mr. Gutknecht. Mr. Chairman, I want to come back to a point 
+that was raised. I won't debate who has more hospitals in their 
+district, I or Mr. Bentsen. My hospitals have been quite noisy 
+regarding the Medicare cuts. And one of the questions I had for 
+them was how much were you cut, and the answer I keep getting 
+is, I don't know, but it was a lot.
+    So we went to the Health Care Finance Agency and said, 
+well, how much in aggregate were hospitals cut? And their 
+answer was something like, well, we don't think they were cut, 
+that they actually got about a 6 to 6-1/2 percent increase. I 
+said, well, just give me the numbers. They can't give me the 
+numbers. They don't have the numbers.
+    Do you have the numbers? Can you help us get the numbers?
+    There was a debate that raged during the Middle Ages in 
+terms of exactly how many teeth a mule had. Finally one bright 
+young fellow said, let's open its mouth and count them. You 
+know, it would be very helpful if we had an honest count here 
+of how much we are actually--I understand there are some 
+unintended consequences, and there are some things that have 
+happened with the way the reimbursements are made and so forth, 
+but at the end of the day it would be helpful if we at least 
+knew how much hospitals were reimbursed in fiscal year 1999, 
+how much they are being reimbursed in fiscal year 2000 and so 
+forth. And I think you could be the person who helps us count 
+those teeth.
+    Mr. Crippen. We have thought some about this, as you might 
+guess. Part of the problem is the data lags at the Health Care 
+Financing Administration (HCFA). Traditionally, lags are 12 
+months or 18 months.
+    Mr. Gutknecht. I think you are being very generous. This is 
+amazing to me that an agency that is responsible for paying 
+bills, I mean, that is basically what they do, and yet they 
+don't have data for up to 18 months after the checks have been 
+issued. Now, I would not invest in a bank that did business 
+that way.
+    I am sorry, that is an editorial.
+    Mr. Crippen. We rely on other agencies to develop that kind 
+of data--we do not develop data on our own. In terms of HCFA, 
+we can do nothing until they produce the numbers, but we have 
+talked to our sister agency, the General Accounting Office 
+(GAO), for example, which has studies under way and has 
+actually gone into the field. The question we need to ask is 
+not only how much has been cut but what effect that has had on 
+beneficiaries. That is the important question--whether 
+beneficiaries are receiving the services they need.
+    GAO has been checking on that, but I do not know the status 
+of their research. We are kind of stumped. We think about these 
+problems, but we have no answers for you.
+    Mr. Bentsen. Would the gentleman yield on that point?
+    Your hospitals may want to talk to my hospitals, because my 
+hospitals certainly know how much is in their budget 
+projections, what the reductions mean, and the PPS update and 
+the other reimbursements they get. And the impact is on that 
+there are other costs arising, their census of patients is 
+rising, and so against that they do feel a cut. And 
+particularly for those hospitals which I know----
+    Mr. Gutknecht. Is it 3 percent? Is it 4 percent? Is it 6 
+percent? Is it 10 percent?
+    Mr. Bentsen. CFO should be able to provide you with 
+information. In dollar terms of what the impact is when they 
+project what their Medicare receipts will be on a per-patient 
+basis against what they perceive to be their per-patient cost.
+    Mr. Gutknecht. At this point I haven't been able to get 
+very good information from anybody, and they are all talking 
+about the cuts, and they are saying it is devastating them. As 
+a member of the Budget Committee, I think we do want to try and 
+rectify that, but it is really difficult to get our arms around 
+it if neither they, nor you, nor the Health Care Finance Agency 
+can give us some numbers. Right now we have no numbers to work 
+with.
+    Mr. Green. Since we allowed questions to be submitted for 
+the record, I would be interested to see Mr. Crippen's response 
+to the number of teeth in a mule.
+    Next, Mr. Markey?
+    Mr. Markey. I thank you very much, Mr. Chairman. And like 
+that medieval theological debate, we have similar problems here 
+today because everyone can see what they want to see. You can 
+see a lower, a midcourse, or a higher surplus over the next 10 
+years, depending on which way you want to turn the image. You 
+can see whatever you want to see. It is beautiful because each 
+one of us can then project our own theological beliefs, 
+politically speaking, into this surplus projection. But I know, 
+as does the gentleman from Texas, that when three hospitals 
+close in your district in the 2 years after the Balanced Budget 
+Act amendment is passed in 1997, that you don't have to be a 
+mining expert to know that the canary died in the mine shaft. 
+There is something wrong down there. There just isn't enough 
+air to breathe.
+    So we have got a problem at the local level. And again, I 
+believe, as you know, this committee has the highest 
+prevarication coefficient of any committee in Congress. The 
+hardest thing to get numbers out of is CBO or even OMB back in 
+1997, because if we were able to open up the mule's mouth back 
+then, we would have known that the budget was already balancing 
+itself by the end of 1997, but, of course, they were told by 
+this committee and by the administration not to give any new 
+numbers while we were anticipating the vote at the end of July 
+on the Balanced Budget Amendment in 1997. So we didn't have the 
+updated numbers at that point in time which would have revealed 
+that this miraculous balanced budget that was the target for 
+the year 2002 was reached in 1998.
+    Isn't that great, just by a single vote in 1997. We did the 
+whole thing in that year and started to see the projections. 
+That is because the mule didn't open his mouth. It was under 
+orders from both OMB and CBO. So that is a problem. These 
+people just take orders, so it is just the way it is.
+    So I am going to get away from that because that gets 
+theological.
+    What I would like to do is to deal with the issues on 
+Social Security. Again, it gets kind of hard to solve the 
+problem for 7 years, kind of gets outside people's grasp, but 
+Mr. Bartlett, Roscoe Bartlett, zero ADA rating, and Ed Markey, 
+100 percent ADA, kind of joined together in a very simple plan 
+which we think makes some sense, and I would like to get your 
+views on it. What it does is it permits a portion of the Trust 
+Fund to be invested each year in securities. It is no geniuses 
+need apply. Investments will be under index funds only to 
+mirror the long-term growth of the market as a whole, and 
+additional political insulation would be provided by requiring 
+proxies to be voted to mirror the voting by nongovernment 
+investors. And we would have multiple 10, 20 mutual funds or 
+other financial institutions each taking a relatively small 
+percentage of the money so that no one investment firm would 
+have the control over that large sum of money.
+    What do you think about that as an idea, Mr. Crippen? Do 
+you think that would help to advance the solvency of the Social 
+Security Fund?
+    Mr. Crippen. The answer depends critically on exactly how 
+you just asked the question. Your idea could certainly raise 
+the rate of return and make the Trust Funds look better. The 
+ultimate question, though, is, does the investment increase 
+national savings and therefore help economic growth? Because 
+ultimately, the controlling factor is the size of the economy, 
+not the balances in the Trust Funds.
+    For example, you have a choice today. You could pay down 
+debt with, say, some of the Social Security surpluses now, or 
+you could buy equity securities. The two strategies would have 
+the same effect essentially on national savings, so that would 
+not change the outlook for the economy. So if your plan would 
+increase----
+    Mr. Markey. Do you think this plan would? The gridlock is 
+that a lot of the Republicans want to give the money to 
+individuals, and they would invest, and a lot of Democrats 
+don't want to give it to anybody, even index funds. So we are 
+trying to go up the middle here.
+    Let's just compare what we are doing here with IRAs, with 
+individual accounts that the Republicans want. Would there be a 
+difference in terms of the impact it would have on savings if 
+it was done this way as opposed through individuals?
+    Mr. Crippen. Probably not, but it depends critically on----
+    Mr. Markey. If we could create similar incentives in both 
+programs, you would still remain agnostic in terms of whether 
+or not it would enhance the savings?
+    Mr. Crippen. I would.
+    Mr. Markey. So a lot of this discussion gets to that 
+pivotal first question, and you are not sure that anything we 
+would do----
+    Mr. Crippen. Very clearly, paying down debt held by the 
+public would enhance net national savings.
+    Mr. Markey. I'm talking about going to individual 
+accounts----
+    Mr. Crippen. It depends on how you do it. There are many 
+plans--yours may be included--that would actually enhance 
+national savings and therefore help economic growth. What I am 
+trying to emphasize is that the balances in the Trust Funds 
+have little to do with our ability to pay for the obligations 
+we have.
+    Mr. Markey. If I gave you my plan, would you give me a 
+written response as to whether or not you think that that would 
+enhance national savings?
+    Mr. Crippen. I will be happy to.
+    Mr. Markey. And contrast it with whether or not the 
+Republican plan that gives individuals the ability to take 
+their own----
+    Mr. Crippen. Which Republican plan?
+    Mr. Markey. The one that Dennis Hastert would split. How is 
+that? So we would take that. But just so--I just want to break 
+this cycle here. We have got to move to this marketplace, and I 
+think that the biggest obstacle that we have is that neither 
+side wants to give up either doing nothing or going all the way 
+like individuals do it. I don't think either one of them is 
+realistic. I think we have got to get our foot in the water 
+here. We have got to get people used to it. If this is a way 
+that enhances the savings goal and yet gets us to get the 
+benefit of the stock market long term, then it would be a good 
+way of going.
+    So I would appreciate it if you would give me a written 
+response. We will give you the details of the plan, and if you 
+tell us that it enhances national savings, then we would, I 
+think, be able to build a broader coalition this year toward 
+advancing that goal.
+    Thank you, Mr. Chairman.
+    Mr. Green. Thank you, Mr. Markey.
+    Mr. Crippen, earlier when you were responding to a question 
+from Mr. Bentsen, I was intrigued by how you pointed out that 
+discrepancies in forecasts have been less due to based on 
+calculations and more on other side events that have changed, 
+the eddies and currents have changed. As we go forward, as you 
+know, we will be looking at a variety of tax relief plans. In 
+your view, what kind of tax relief plans would project or would 
+create greater economic growth and would create a positive push 
+on the surplus as opposed to a cost, which some have suggested?
+    Mr. Crippen. Let me answer you in two ways. First, if you, 
+for example, sent us a tax cut and asked not only what the 
+revenue effects would be--which the Joint Committee on Taxation 
+provides--but also what would be the economic effects, we would 
+say, we do not know. Currently, when we prepare estimates, we 
+do not also assess the impact of the proposal on the economy or 
+on economic growth. We may do that someday, but we are not 
+currently doing it.
+    Second, what I can say in answer to your question is not 
+our view because CBO does not have an opinion on this matter. 
+There is a pretty extensive literature that suggests that 
+changing incentives in the Tax Code for savings or for work--
+changing marginal tax rates, for example--is the kind of things 
+that is more likely to increase output, work, and economic 
+growth. But beyond that, there is not much the literature--the 
+empirical literature, in particular--can tell you about whether 
+one kind of tax cut is better than another.
+    Mr. Green. Well, for example, a--the marriage penalty 
+reduction that we just passed, what is your view as to the 
+incentives changed by that?
+    Mr. Crippen. Again, CBO has no view. Probably, the view of 
+the economics profession would be that the change in the 
+marriage penalty will have relatively little effect on economic 
+growth. The effect on incentives to work or to save would be 
+limited because so much of the tax savings from the cut would 
+not affect taxpayers at the margin.
+    Mr. Green. What about the type of State tax reduction that 
+we saw in last year's tax bill that was passed? What is your 
+view as to the economic impacts from that?
+    Mr. Crippen. Again, CBO does not have a view. I think the 
+literature is mixed on the question but mostly suggests that 
+there is not much impact. I would have to check that, however. 
+The last time I looked, there was not much effect on economic 
+growth.
+    Mr. Green. Are there other questions? Ms. Hooley, do you 
+have any further questions?
+    Ms. Hooley. No.
+    Mr. Green. Seeing no other questions, again, Mr. Crippen, 
+we thank you very much.
+    Mr. Crippen. Thank you.
+    [Whereupon, at 12:30 p.m., the committee was adjourned.]
+
+                                <greek-d>
+                                  <ALL>
+</pre></body></html>

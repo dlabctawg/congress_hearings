@@ -1,0 +1,3374 @@
+<html>
+<title> - THE IMPLEMENTATION AND FUTURE OF DECIMALIZED MARKETS</title>
+<body><pre>
+[Senate Hearing 107-346]
+[From the U.S. Government Printing Office]
+
+
+
+                                                        S. Hrg. 107-346
+
+
+                     THE IMPLEMENTATION AND FUTURE
+                         OF DECIMALIZED MARKETS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+               SUBCOMMITTEE ON SECURITIES AND INVESTMENT
+
+                                 of the
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                      ONE HUNDRED SEVENTH CONGRESS
+
+                             FIRST SESSION
+
+                                   ON
+
+THE CURRENT STATUS OF IMPLEMENTATION OF DECIMAL PRICING FOR SECURITIES, 
+             INCLUDING AN ESTIMATION OF COSTS AND BENEFITS
+
+                               __________
+
+                              MAY 24, 2001
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+78-288              U.S. GOVERNMENT PRINTING OFFICE
+                            WASHINGTON : 2002
+____________________________________________________________________________
+For Sale by the Superintendent of Documents, U.S. Government Printing Office
+Internet: bookstore.gpr.gov  Phone: toll free (866) 512-1800; (202) 512�091800  
+Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001
+
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                      PHIL GRAMM, Texas, Chairman
+
+RICHARD C. SHELBY, Alabama           PAUL S. SARBANES, Maryland
+ROBERT F. BENNETT, Utah              CHRISTOPHER J. DODD, Connecticut
+WAYNE ALLARD, Colorado               TIM JOHNSON, South Dakota
+MICHAEL B. ENZI, Wyoming             JACK REED, Rhode Island
+CHUCK HAGEL, Nebraska                CHARLES E. SCHUMER, New York
+RICK SANTORUM, Pennsylvania          EVAN BAYH, Indiana
+JIM BUNNING, Kentucky                ZELL MILLER, Georgia
+MIKE CRAPO, Idaho                    THOMAS R. CARPER, Delaware
+JOHN ENSIGN, Nevada                  DEBBIE STABENOW, Michigan
+                                     JON S. CORZINE, New Jersey
+
+                   Wayne A. Abernathy, Staff Director
+
+     Steven B. Harris, Democratic Staff Director and Chief Counsel
+
+                      Linda L. Lord, Chief Counsel
+
+                 Dean V. Shahinian, Democratic Counsel
+
+                       George E. Whittle, Editor
+
+                                 ______
+
+               Subcommittee on Securities and Investment
+
+                   MICHAEL B. ENZI, Wyoming, Chairman
+
+            CHRISTOPHER J. DODD, Connecticut, Ranking Member
+
+RICHARD C. SHELBY, Alabama           TIM JOHNSON, South Dakota
+MIKE CRAPO, Idaho                    JACK REED, Rhode Island
+ROBERT F. BENNETT, Utah              CHARLES E. SCHUMER, New York
+WAYNE ALLARD, Colorado               EVAN BAYH, Indiana
+CHUCK HAGEL, Nebraska                JON S. CORZINE, New Jersey
+RICK SANTORUM, Pennsylvania          THOMAS R. CARPER, Delaware
+JIM BUNNING, Kentucky                DEBBIE STABENOW, Michigan
+
+             Katherine McGuire, Subcommittee Staff Director
+
+                 Joel Oswald, Professional Staff Member
+
+                                  (ii)
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                         THURSDAY, MAY 24, 2001
+
+                                                                   Page
+
+Opening statement of Senator Enzi................................     1
+
+Opening statement of Senator Corzine.............................     2
+
+                               WITNESSES
+
+Laura S. Unger, Acting Chairman, U.S. Securities and Exchange 
+  Commission, Washington, DC.....................................     2
+    Prepared statement...........................................    25
+    Response to written questions of Senator Enzi................    56
+J. Patrick Campbell, President, Nasdaq, U.S. Markets and Chief 
+  Executive Officer, The Nasdaq Stock Market, Washington, DC.....     7
+    Prepared statement...........................................    33
+Catherine R. Kinney, Group Executive Vice President, New York 
+  Stock Exchange, Washington, DC.................................     9
+    Prepared statement...........................................    35
+    Response to written questions of Senator Enzi................    57
+Kenneth D. Pasternak, Chairman and Chief Executive Officer, 
+  Knight Trading Group, Inc., Jersey City, NJ....................    11
+    Prepared statement...........................................    37
+Donald D. Kittell, Executive Vice President, Securities Industry 
+  Association, Washington, DC....................................    13
+    Prepared statement...........................................    41
+Peter Jenkins, Managing Director and Head of Global Equity 
+  Trading, Zurich Scudder Investments, New York, NY..............    14
+    Prepared statement...........................................    46
+Robert B. Fagenson, Vice Chairman, Van der Moolen Specialist USA, 
+  LLC, New York, NY..............................................    16
+    Prepared statement...........................................    53
+
+                                 (iii)
+
+ 
+          THE IMPLEMENTATION AND FUTURE OF DECIMALIZED MARKETS
+
+                              ----------                              
+
+
+                         THURSDAY, MAY 24, 2001
+
+                               U.S. Senate,
+  Committee on Banking, Housing, and Urban Affairs,
+                 Subcommittee on Securities and Investment,
+                                                    Washington, DC.
+
+    The Subcommittee met at 10 a.m., in room SD-538 of the 
+Dirksen Senate Office Building, Senator Michael B. Enzi 
+(Chairman of the Subcommittee) presiding.
+
+          OPENING STATEMENT OF SENATOR MICHAEL B. ENZI
+
+    Senator Enzi. Let me call the Subcommittee to order.
+    I am not sure how many people will be attending. There are 
+a number of things happening in Washington today, virtually at 
+this moment. But some of us intend to get the business at hand 
+done.
+    I want to thank Ms. Laura Unger and the other witnesses 
+today for taking the time to appear before this Subcommittee 
+and share their views on how decimalization has affected the 
+U.S. securities market.
+    While we always compress a little bit to get the main 
+substance from the testimony, everyone's complete testimony 
+will appear as part of the record. When the hearing is over, we 
+will leave the record open for additional questions for those 
+of my colleagues who may not make it in at some point during 
+the hearing.
+    The use of decimal pricing marks a fundamental change to 
+the way the market participants interact. As with any 
+significant change, it will take time to fully adjust to the 
+new pricing increments. Most of the reported problems 
+associated with decimali-zation are not new. Instead, they are 
+old problems that have been exacerbated and the phraseology has 
+changed a little bit by decimalization. However, there have 
+been some benefits to the decimal conversion, such as the 
+narrowing of spreads. Additionally, securities are now priced 
+as all other countries' are priced--and that is in decimal 
+increments.
+    I am very confident that the industry will fully adjust to 
+the decimalization of the securities markets. These challenges 
+will provide the Subcommittee with an opportunity to examine 
+the structure of the market. It calls for reviewing the need of 
+certain rules, such as the short-sale and trade-through rules. 
+The Subcommittee will continue to work with the industry to 
+ensure that any adjustments made are in the best interest of 
+investors and the U.S. 
+capital markets.
+    I look forward to hearing the testimony of everyone today. 
+I appreciate Senator Corzine being here and invite him to move 
+closer to the front if he would like.
+    [Laughter.]
+    I know that got him in trouble once.
+    [Laughter.]
+
+               COMMENTS OF SENATOR JON S. CORZINE
+
+    Senator Corzine. It would be my pleasure, Mr. Chairman.
+    I want to thank you and Senator Dodd for having this 
+hearing. This happens to be something that I have spent a 
+little bit of time with on the other side of table.
+    I am very much supportive of and know that there are 
+transitional issues here, but one that I think in the long run 
+will serve investors and the providers of investment services 
+great advantage over the long run. I am anxious to hear how 
+this is going and look forward to hearing the testimony.
+    Senator Enzi. Thank you.
+    Our first witness today is Ms. Laura Unger, the Acting 
+Chairman of the U.S. Securities and Exchange Commission. We are 
+anxious to hear your testimony. Go ahead and begin.
+
+                  STATEMENT OF LAURA S. UNGER
+
+                        ACTING CHAIRMAN
+
+            U.S. SECURITIES AND EXCHANGE COMMISSION
+
+    Ms. Unger. Chairman Enzi, and Senator Corzine, thank you 
+very much for your invitation to speak.
+    I am pleased to testify today on behalf of the Securities 
+and Exchange Commission about the recent conversion to decimal 
+pricing and the effects that this change has had on market 
+dynamics and trading behavior.
+    As you know, under the leadership of Congress, over the 
+past year, U.S. markets have successfully moved from pricing 
+shares in fractions to pricing shares like everything else, as 
+you said, Chairman Enzi, in dollars and cents. The goal of 
+decimalization was to simplify pricing for investors and to 
+make our markets more competitive internationally. 
+Decimalization was also expected to ultimately reduce trading 
+costs for investors by narrowing quotation spreads, from the 
+\1/16\ minimum increment, or 6.25 cents, that was standard in 
+the fractional environment, to a penny.
+    While comprehensive analyses of the market effects of 
+decimalization are not yet available, I am pleased to report 
+that preliminary reviews by the Commission and the markets 
+indicate that these goals have been largely met. For example, 
+quotation spreads in New York Stock Exchange securities 
+narrowed an average of 37 percent, and effective spreads in 
+those securities narrowed about 15 percent. An even more 
+dramatic reduction in quotation spreads was observed in Nasdaq 
+securities, with spreads narrowing an average of 50 percent. 
+While it is difficult to estimate the overall cost savings to 
+investors, the narrowing of spreads makes it likely that 
+investors entering small orders that are executed at or within 
+the quotes are experiencing reduced trading costs.
+    Nevertheless, we recognized that the shift to decimal 
+pricing was a fundamental market structure change that had the 
+potential to affect the transparency, liquidity, and fairness 
+of the markets. So, as a result, in June 2,000, the Commission 
+required that the markets carefully phase-in decimal pricing. 
+We also hosted a roundtable last December to solicit views on 
+how the early phases of decimalization were affecting markets 
+and trading.
+    In addition, the Commission has asked the markets to 
+conduct their own studies that would analyze how the conversion 
+was affecting systems capacity, liquidity, and trading 
+behavior, as well as investor protection. In view of the 
+complexity of these issues, the Commission has extended the 
+deadline for these markets' studies from July 8 to September 
+10, 2001. In the meantime, we are continuing to work with the 
+markets and market participants to identify any aspects of 
+decimalization that might compromise the fair and orderly 
+operation of the securities markets.
+    Today, I would like to focus on how decimalization has 
+affected market transparency, liquidity, and key investor 
+protections.
+    As far as market transparency and liquidity are concerned, 
+as the minimum quoting increment has narrowed to a penny, the 
+market depth--the number of shares available at the published 
+bid or offer--has decreased as well. Preliminary estimates 
+indicate that the New York Stock Exchange quote sizes have been 
+reduced an average of 60 percent since the decimal conversion, 
+and Nasdaq quote sizes have been reduced about 68 percent. Some 
+firms and institutional investors have expressed concerns that 
+the reduction in quoted market depth may be adversely affecting 
+their ability to execute large orders. They have indicated that 
+smaller pricing increments have increased the risk that large 
+limit orders will not be executed. Instead, other market 
+participants will use the information provided by these limit 
+orders to step ahead of the orders for a penny. This practice 
+could ultimately lead to a reduction in the amount of 
+liquidity.
+    In an effort to provide more information about available 
+liquidity, the Commission accelerated the approval of a New 
+York Stock Exchange rule change in March of this year to 
+disseminate ``depth 
+indications'' and ``depth conditions'' to reflect market 
+interest in a security below the published bid and above the 
+published offer.
+    Decimal pricing also raises a number of key investor 
+protection issues. For example, Commission and market rules 
+protect customer limit orders by providing them with priority 
+over specialist and market maker proprietary orders at the same 
+price. New York Stock Exchange and NASD rules require that a 
+specialist or market-maker who wants to ``step ahead'' of a 
+customer limit order pay a price that is greater than the limit 
+order by at least the minimum quoting increment. With the 
+conversion to decimals, this minimum increment is only a penny. 
+This means it will be less costly for specialists, market 
+makers, and possibly other market participants to profit from 
+their knowledge of limit order flow by trading ahead of limit 
+orders for only a penny a share. The fact that professionals 
+may have an unfair advantage over the little guy is of concern 
+to the Commission. So, together with the SRO's, we are 
+currently gathering information about the operation of these 
+investor protection rules in the decimal environment and will 
+consider whether any action is necessary to protect investors.
+    Finally, I should note that many of the issues raised by 
+decimals may be exacerbated by the practice of trading at 
+increments of less than a penny, so-called ``subpenny'' 
+trading. Subpenny trades by electronic trading systems and 
+market makers currently account for only about 4 to 6 percent 
+of trades in Nasdaq securities. But the Commission intends to 
+further study the impact of subpenny trading on market 
+transparency and liquidity, as well as investor protection and 
+market integrity rules.
+    In summary, while the decimal conversion went smoothly from 
+an operational standpoint, our work in this area is far from 
+complete. I want to assure you that the Commission will 
+continue to work with the markets and the securities industry 
+to address potential problems while preserving the benefits of 
+decimalization.
+    We appreciate the continuing interest of the Subcommittee 
+in this issue and the role that the Subcommittee has played in 
+helping to ensure a smooth transition to decimals.
+    Thank you very much.
+    Senator Enzi. Thank you for what you said and your more 
+extensive testimony.
+    We are all anxious to see what direction things are going 
+and what changes might be made. In your testimony, you 
+mentioned that the Securities and Exchange Commission approved 
+a pilot rule filed by NASD, specifying certain protections to 
+customer limit orders priced in increments smaller than a 
+penny, or subpennies.
+    Do you believe there is a trading increment that might be 
+too small for efficiencies to be realized in the market, 
+particularly in the listed market? Is there a minimum increment 
+that should 
+be set?
+    Ms. Unger. Well, Mr. Chairman, when we were talking about 
+the conversion to decimals, the biggest debate was whether it 
+would be nickels or pennies. At that time no one really 
+contemplated that it would be something smaller than pennies. 
+We are all very surprised by a conversation about subpennies. 
+But that is the conversation that we are having.
+    It is not something that the Commission would like to 
+dictate in terms of what the appropriate increment should be. 
+We are concerned about some of the issues that the smaller 
+increments will raise in terms of our regulatory responsibility 
+over the marketplace. And those are, capacity issues and the 
+whole issue of stepping ahead of a customer order, the smaller 
+the increment, the easier it is, and the more incentive you 
+might have to do it.
+    It could result in less transparency. If people stop using 
+limit orders because they are not getting filled because they 
+are being stepped ahead of, then what will happen to 
+transparency in the market overall?
+    I do not think we want to dictate to the industry on this 
+issue and would prefer an industry solution to this problem. 
+But I would assume it is a problem for them as well.
+    I am saying, no, we do not want to say what the increments 
+are.
+    Senator Enzi. Okay. You are not suggesting a change at the 
+moment.
+    Ms. Unger. No, I do not think so. But, again, the notion of 
+trading in subpennies raises a number of regulatory issues. And 
+also flickering quotes and complying with the short-sale rule 
+and a whole host of other issues. We are expecting to hear from 
+the industry what their recommendations will be. We will have 
+more statistical information about what the exchanges 
+experienced with decimals trading in the fall, and they will 
+have to submit to us rule changes by November 10.
+    Senator Enzi. You mentioned the short-sale rule, and that 
+you are gathering data and considering changes. I know that the 
+SEC began its concept release in October 1999, which seems to 
+be an adequate time for review, even in the light of the 
+relatively new decimal pricing. What changes are you 
+considering and when do you expect to have a change of that 
+rule?
+    Ms. Unger. With respect to the short-sale rule?
+    Senator Enzi. Yes.
+    Ms. Unger. I think we take the position that the short-sale 
+rule doesn't make sense as currently drafted in the decimals 
+environment because of the flickering quote issue. It is too 
+hard to comply with the rule, and it would be too easy to 
+manipulate.
+    We are working right now diligently on drafting a rule 
+change, and we should be ready to release a draft of that soon, 
+and put it out for comment.
+    Senator Enzi. Senator Corzine.
+    Senator Corzine. Has the concept of block trading been 
+affected by the decimalization, which gets at much of the depth 
+issue.
+    Ms. Unger. Right. I would assume that if people are talking 
+about an order of a thousand shares being difficult to fill in 
+the decimals environment--not difficult to fill--but requiring 
+more transactions to complete, that block trading would be 
+affected by decimals as well.
+    I have not heard a lot of anecdotal evidence about that 
+specifically, other than that the institutions seem more 
+concerned about the limit order issue and not having the orders 
+filled. So I suspect we will have more information about that, 
+and perhaps the New York Stock Exchange has something on that.
+    Senator Corzine. Right. In the depth indicators, has there 
+been an embracing of this concept? Is it working? How do you 
+feel? You commented on it. I am actually curious how that 
+works.
+    Ms. Unger. Well, the depth indicator is not very precise at 
+this point. I think all it shows is that there are a certain 
+number of shares within a parameter, a price parameter, where 
+there is an interest. But it does not say how many shares and 
+at what price.
+    The New York Stock Exchange is refining that a little bit 
+more and will be working on providing some more specific 
+information as to the depth of interest.
+    Senator Corzine. Refresh me. Nasdaq actually shows the 
+depth indicators, makes it available, the amount of shares 
+sought or offered at a particular price level.
+    Ms. Unger. At a particular price level--at a quote, yes. 
+But I am not sure that it is to the extent that you are talking 
+about.
+    And I think the Super-Montage proposal that was approved by 
+the Commission would probably address a lot of the concerns in 
+terms of showing the depth of the book further down than the 
+quoted price.
+    Senator Corzine. It seems that a number of those kinds of 
+transparency initiatives might correct some of these problems. 
+Are those being reviewed by the industry or asked to be 
+commented and promoted as concepts, or at least considered as 
+concepts?
+    Ms. Unger. So far, the only thing that the Commission has 
+received in terms of a proposed rule by one of the SRO's is the 
+New York Stock Exchange's depth quote proposal. And we approved 
+it expeditiously on an accelerated basis. So, yes, we would 
+embrace solutions to this problem of showing the depth in a 
+quote.
+    Senator Corzine. Is there anecdotal evidence of charges of 
+stepping ahead, or front-running, by small increments to break 
+up trading patterns?
+    Ms. Unger. Yes. As I said in the testimony, there is 
+concern particularly among institutional investors that the 
+limit orders will go away because of the fact that it is so 
+easy to step ahead of the limit orders and they are not being 
+filled.
+    There is a concern, then, if there aren't limit orders, 
+which the order handling rules require to be displayed, what 
+will happen to the transparency in the marketplace? And that is 
+actually a step backward in terms of enhanced transparency. 
+That is something that we are definitely concerned about.
+    Senator Corzine. And the available liquidity issues, you 
+always have the risk of a fallacy of composition. We have gone 
+through a much more turbulent or volatile period in the first 4 
+or 5 months of the year. I presume that the overlay of that in 
+conjunction with the change to decimalization could have 
+different interpretations.
+    There is different levels of liquidity, I suppose, in so-
+called bear markets or highly volatile markets than there would 
+be in straight-line moves.
+    Ms. Unger. Well, I haven't heard of any studies tying the 
+volatility of the market to decimals trading. I think it is all 
+Regulation FD, actually.
+    And not that, either.
+    [Laughter.]
+    Senator Corzine. I would encourage, though, that when one 
+looks at whether decimalization is working, and I use it as a 
+generalization, we want to be careful that one doesn't confuse 
+a different market environment for the diminishment of 
+liquidity versus the execution of the decimalization process 
+because it wouldn't be intuitively obvious whether it was 
+because markets are volatile and would have been volatile in 
+other environments as well, and you might have less activity.
+    Ms. Unger. Where it really comes into question is if you 
+have customer orders of, say, over a thousand shares. Then it 
+is hard for us to ascertain what the cost savings is that 
+decimals provide, because if you have to execute that trade or 
+transaction in multiple trades, then you have trading costs 
+associated with that. And do those trading costs then exceed 
+the savings that you have by a narrowed spread brought about by 
+decimals?
+    Senator Corzine. Right.
+    Ms. Unger. So that is really something that is going to 
+take a little time to figure out.
+    Senator Corzine. Thank you, Mr. Chairman.
+    Senator Enzi. I want to thank you for your testimony and 
+the questions that you have answered. And I am sure that there 
+will be more questions.
+    There are a number of meetings that an hour ago were not 
+scheduled around the Senate that are happening at the moment to 
+figure out some changes that are in process. So several of the 
+Members interested in this hearing were not able to be here.
+    Ms. Unger. Thank you very much for the opportunity to 
+testify, Mr. Chairman.
+    Senator Corzine. Thank you.
+    Ms. Unger. If any of the Members have any follow-up 
+questions that they would like to submit, of course, we would 
+be happy to answer them in writing.
+    Senator Enzi. Thank you very much.
+    Ms. Unger. Thank you.
+    Senator Enzi. Our next panel consists of: Mr. J. Patrick 
+Campbell, who is the President of Nasdaq U.S. Markets and the 
+Chief Operating Officer of The Nasdaq Stock Market, Inc.; Ms. 
+Catherine R. Kinney, Group Executive Vice President of the New 
+York Stock Exchange; Mr. Kenneth D. Pasternak, Chairman and 
+Chief Executive Officer, Knight Trading Group, Inc.; Mr. Don 
+Kittell, Executive Vice President of the Securities Industry 
+Association; Mr. Peter Jenkins, Managing Director and Head 
+Equity Trader of Zurich Scudder Investments; and Mr. Robert B. 
+Fagenson, Vice Chairman of Van der Moolen Specialists USA.
+    I thank all of you for being here this morning. Again, we 
+have all of your testimony as part of the record. So if you can 
+summarize that for us and make your comments in a 5 minute 
+period, we would appreciate it.
+    Mr. Campbell.
+
+                STATEMENT OF J. PATRICK CAMPBELL
+
+              PRESIDENT, NASDAQ, U.S. MARKETS AND
+
+        CHIEF OPERATING OFFICER, THE NASDAQ STOCK MARKET
+
+    Mr. Campbell. Good morning, Chairman Enzi, Senator Corzine.
+    I am Pat Campbell, President of Nasdaq U.S. Markets and 
+Chief Operating Officer of The Nasdaq Stock Market. We welcome 
+this opportunity to share with you our experience and insights 
+into the recent conversion to decimal pricing on the Nasdaq 
+market, although it has only been about 7 weeks.
+    As the world's largest stock market, ensuring that 
+decimalization was not disruptive to our investors and the U.S. 
+capital markets was our primary concern. Crucial to our job as 
+the world's largest provider of stock quote information is 
+maintaining the availability, integrity and accessibility of 
+this data. The estimates of increased computer demands prior to 
+decimalization made switching a challenging project. One study 
+projected a three-fold increase in quotation traffic. 
+Decimalization takes the market from 16 price points per dollar 
+to 100 price points. Due to the hard work of our highly skilled 
+employees, our member firms, and the Securities and Exchange 
+Commission, I am glad to report that the decimalization was 
+accomplished without incident.
+    As the engine of the new economy, Nasdaq is dynamic and is 
+adjusting to changing market realities in order to better serve 
+our listed companies, member firms, and investors. As you may 
+know, Nasdaq applied to the Securities and Exchange Commission 
+to become a registered national securities exchange in November 
+of last year. We expect the SEC to publish our application for 
+public comment in the Federal Register in the immediate future, 
+and we are hopeful for a speedy approval at the end of the 
+comment period. This process will facilitate final separation 
+of Nasdaq from the NASD, lead to our ability to access the 
+capital necessary for our Exchange to invest in new technology 
+in order to remain a competitor in the world capital markets.
+    I would now like to share with you our experience with 
+decimalization. Again, I caution these initial trends are 
+observed through a fast-track analysis. The three most 
+important points I wish to share with you today are: First, 
+Nasdaq's transition from fractions to decimals was smooth and 
+seamless. To achieve today's results in a 5 week period, 
+virtually every computer system within Nasdaq was changed. A 
+similar effort took place among Nasdaq broker-dealers. This 
+followed two pilots of decimalization in March of this year. On 
+April 9, all remaining Nasdaq-listed securities began to be 
+quoted in decimals. Thus, Nasdaq has successfully completed the 
+full conversion to decimals in approximately 1 month. Nasdaq 
+has been carefully monitoring the impact of decimalization both 
+through our on-line surveillance and market operations group 
+and by gathering and analyzing data for the 2 week period prior 
+to decimalization and the period following decimalization.
+    I would like to add that Nasdaq during all of this set a 
+new share volume record only 7 days after full conversion to 
+decimals of approximately 3.2 billion shares, and was able to 
+handle that volume without incident.
+    The second major observation we have is Nasdaq's market has 
+seen a dramatic decrease in spreads. As expected, quoted 
+spreads declined substantially for most stocks. Quoted spreads 
+on average decreased by 51 percent. Our most active stocks saw 
+a 71 percent spread decline. Many of Nasdaq's well-known and 
+widely held stocks, such as Cisco, Dell, Intel, Microsoft, and 
+others have now quoted spreads of one cent. Similarly, 
+effective spreads declined for all stock groups by an average 
+of 46 percent. This is in addition to the 30 percent decline 
+seen following the order handling rules and move to \1/16\ in 
+1997.
+    The third and last observation is that there is no evidence 
+on our market, to date, that the institutional investors are 
+bearing the burden of any significant cost-shifting.
+    We looked at large trades to see if decimalization thinned-
+out the market and caused effective spreads for large 
+institutional trades to increase. Our preliminary evidence is 
+that they did not.
+    One issue that has caused significant controversy within 
+the industry but not in the Nasdaq market with a shift to 
+decimals was pennying. On this issue it is useful to recognize 
+that the advantages allowed by Nasdaq's market structure of a 
+hybrid market with electronic communications network and 
+competing dealers have not to date experienced a pennying issue 
+in our market.
+    We also believe competing market makers and ECN's will 
+continue to provide a market environment that discourages 
+unfortunate behavior. In fact, it is important to note that 
+Nasdaq has been trading in pennies prior to April 9, 2001. 
+Decimalization for Nasdaq was an issue of quoting in pennies.
+    Overall, the implementation has been seamless. It is still 
+a work in progress. We expect to continue to report our 
+progress to you, the industry, and to the SEC.
+    As more time passes, we could see the results change over 
+time. We plan to continue to conduct our final detailed 
+analysis for all three phases of decimalization as the SEC is 
+requiring soon. We are committed to keeping you apprised of any 
+future developments.
+    Thank you.
+    Senator Enzi. Ms. Kinney.
+
+                STATEMENT OF CATHERINE R. KINNEY
+
+                 GROUP EXECUTIVE VICE PRESIDENT
+
+                    NEW YORK STOCK EXCHANGE
+
+    Ms. Kinney. Chairman Enzi and Senator Corzine, my name is 
+Catherine Kinney and I am a Group Executive Vice President at 
+the New York Stock Exchange. And I am very pleased to be here 
+today to relate some of the preliminary results of decimal 
+trading.
+    Decimalization has been one of the most important 
+occurrences in our capital markets in the last quarter century. 
+Congress and the SEC directed this initiative to accomplish 
+significant policy goals. The NYSE is pleased to have 
+facilitated this conversion process. The benefits of decimal 
+trading have been realized, but the shift to a minimum price 
+variation, or MPV, of one penny has created some difficulties. 
+The New York Stock Exchange is already taking steps to remedy 
+some of these detrimental effects. In this regard, we urge that 
+the MPV be no less than one cent and that it be established by 
+Congress or the SEC across all markets. Otherwise, the current 
+difficulties will become worse, and the benefits of 
+decimalization may be jeopardized.
+    The Exchange is proud that our conversion to decimals was 
+accomplished well ahead of the SEC's deadline without any 
+systems or capacity problems. Most of our decimal conversion 
+costs were incurred simultaneously with Y2K system conversions 
+and cost about $30 million.
+    The Exchange launched decimal trading with a pilot project 
+of seven stocks in August 2000. Stocks in the pilot were priced 
+in dollars and cents instead of fractions, and the minimum 
+pricing increment was one penny instead of \1/16\ of a dollar. 
+The pilot was extended to an additional 57 stocks in September 
+and 94 stocks on December 4. The entire floor was converted on 
+January 29, 2001, which was 2 months ahead of the SEC's 
+deadline of April 9.
+    We are confident that the conversion to decimal pricing has 
+accomplished important public policy goals. It has certainly 
+brought the U.S. markets into conformity with the quoting and 
+trading systems that are used around the world. This will help 
+the U.S. equity markets to expand their foreign listings, make 
+us more competitive in trading with foreign markets, and 
+certainly will facilitate the globalization of equity markets.
+    Our preliminary analysis of conversion to decimal pricing 
+indicates that, on balance, the penny increment has been good 
+for some small retail investors. Stock prices in decimals are 
+certainly more understandable. Over the last decade, direct 
+share ownership by individual investors has certainly 
+increased, and decimal prices will encourage this trend by 
+breaking down a barrier to understanding the markets.
+    Spreads have been reduced by approximately 37 percent and 
+price improvement has been significantly increased, 
+particularly for smaller orders. On the other hand, the one-
+cent MPV has significantly impacted institutional investors. It 
+is premature to draw any sweeping conclusions, but we have 
+observed some trends that I would like to summarize.
+    Decimal trading has had a number of detrimental impacts on 
+mutual funds, pension funds, and other institutional investors 
+who act on behalf of individual investors. These investors, who 
+tend to trade in large blocks, have experienced reduced depth 
+at the NYSE quote or the best bid and offer. They have 
+experienced a lack of transparency of depth or liquidity 
+outside the best bid and offer. And they have experienced an 
+increased number of execution reports, that is, the number of 
+transactions that are necessary to fill an order. These market 
+participants are a very important part of our liquidity.
+    The impact on institutional investors is an inevitable 
+outgrowth of the decrease in the minimum price variation from 
+6\1/4\ cents to one cent. This decrease in the MPV has lowered 
+the transparency of the market and thus made it harder for 
+institutional investors to find the right price for liquidity 
+that they require.
+    Our research to date shows a significant 67 percent 
+decrease in the number of shares available at the published 
+NYSE quote. While true liquidity--that is, actual interest from 
+all sources--available may not have been significantly 
+impaired, there is a significant impairment of transparency.
+    We have acted to address the transparency concerns of the 
+institutional investor. The Exchange as you have heard this 
+morning, has initiated two changes to permit dissemination of 
+depth indications and depth quotes in our listed securities. 
+These initiatives are the first in a series of actions that the 
+Exchange will implement to improve transparency and 
+communication of market depth in a decimal trading environment.
+    Next month, we will also put forward an initiative called 
+Open Book, and we have certainly expanded the use of hand-held 
+terminals to brokers on our trading floor. In addition, we have 
+formed an Advisory Committee on Decimalization to review 
+decimal trading at the Exchange and to make recommendations.
+    We are reviewing Exchange trading rules to ensure that they 
+are appropriate for the changes that are occurring. We will 
+also be working with academics to study these issues.
+    The SEC has requested that we provide a preliminary report 
+by September 10 on the impact of decimal trading. The SEC has 
+further requested all markets to submit by November 4 proposed 
+rule changes establishing their individual choice by markets of 
+the minimum pricing increments.
+    We believe an MPV of less than a penny would undermine the 
+benefits that decimal pricing has brought to the markets, while 
+at the same time exacerbating the problems that decimal pricing 
+has caused for institutional investors. In addition, the 
+problems that institutional investors have faced in trading at 
+an MPV of one cent would be exponentially increased if the 
+markets were permitted to quote and trade in increments of less 
+than one cent.
+    I appreciate the opportunity to testify here today, and I 
+would be pleased to answer any questions.
+    Senator Enzi. Thank you very much.
+    Mr. Pasternak.
+
+               STATEMENT OF KENNETH D. PASTERNAK
+
+              CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+
+                   KNIGHT TRADING GROUP, INC.
+
+    Mr. Pasternak. Chairman Enzi, Senator Corzine, good 
+morning. Thank you for this opportunity to testify today about 
+the impact of trading in decimals. My name is Kenny Pasternak. 
+I am Chairman, CEO, and President and Co-Founder of Knight 
+Trading Group, the world's largest wholesale market maker for 
+shares of both Nasdaq and non-Nasdaq equities.
+    Knight Trading Group supports decimalization. By making 
+stock prices easier to understand, decimalization encourages 
+market participation and therefore benefits everyone.
+    The U.S. stock markets recently adopted decimalized trading 
+in the belief that it would narrow spreads and lead to less 
+costly order execution. There is no doubt that spreads have 
+fallen. In many instances, order execution has become more 
+costly, not less. My purpose today is to focus this 
+Subcommittee's attention on this issue.
+    It is important to know that the introduction of 
+decimalized pricing is not itself responsible for the narrowing 
+of spreads. Rather, spreads have narrowed as a result of the 
+decision by major market centers to reduce their minimum price 
+variation--sometimes called MPV--to a single penny.
+    Today's one-penny MPV has reduced price discovery, 
+diminished liquidity, and increased the level of trading 
+activity required to execute an entire order in many instances. 
+No market participant has an incentive to quote size, as others 
+can easily coopt that information and trade ahead by as little 
+as one penny. While such problems were once experienced only by 
+institutional investors, they are now affecting increasing 
+numbers of individual investors as well.
+    The one-penny MPV is, in many circumstances, too small. In 
+my view, the most important issue for this Subcommittee's 
+consideration is how to encourage the markets to arrive at the 
+correct MPV for a given set of circumstances. This issue is 
+vital to the depth, liquidity, and overall strength of our 
+markets.
+    Preliminary data suggests that, even for retail-sized 
+orders, trading outside the spread has increased dramatically. 
+The price discovery process has been impeded because the 
+displayed depth on Nasdaq has also declined to approximately 
+one-third of what it was before the transition to trading in 
+decimals began. Meanwhile, we see that more and more investors 
+feel compelled to break down their buy and sell orders into 
+smaller lots in order to achieve more control over their 
+executions. Trades generally have increased in number, but have 
+declined substantially in size.
+    In addition, the one-penny MPV has occasioned a significant 
+decline in the average number of market participants at the 
+inside quote. In other words, those who provide enhanced 
+liquidity to the markets are now committing less capital for 
+the execution of individual investor trades than they did 
+before the one-penny MPV.
+    Those who proactively provide enhanced liquidity constitute 
+a large and highly competitive industry that is absolutely 
+essential to the efficient operation of the markets. They often 
+provide liquidity automatically in amounts considerably larger 
+than the NBBO. This automatic execution feature expands as the 
+MPV increases and shrinks as the MPV decreases.
+    Presently, because of the one-penny MPV, many retail 
+investors are paying more as the nature of executions changes 
+from fast and complete to slow and fragmented. During the month 
+of January, Knight Securities alone provided liquidity above 
+the National Best Bid and Offer size level in excess of 179 
+million shares. Without our enhanced liquidity, we estimate 
+conservatively that investors would have paid nearly $4 million 
+additional in execution costs.
+    With the advent of the one-penny MPV, we and our 
+competitors are providing enhanced liquidity in fewer 
+instances. Whereas, we previously provided instantaneous, 
+automatic execution at the NBBO price for any order of up to 
+2,000 shares, we now reserve automatic execution for much 
+smaller orders. And in many instances, we do not offer 
+automatic execution no matter how small the order. This decline 
+in availability of enhanced liquidity for Nasdaq stocks, 
+coupled with the lower average quoted size, translates into 
+slower and more fragmented executions--and ultimately, higher 
+costs for individual investors.
+    In the listed markets, what we are seeing is a pronounced 
+increase in a number of ITS trade-throughs. This means that the 
+investor may actually receive a price dis-improvement.
+    During the first 6 trading days in February 2001, when 
+decimal trading was introduced in all listed stocks, Knight 
+Capital Markets experienced an average of more than 2,500 
+trade-throughs per day by NYSE members, a more than four-fold 
+increase over the predecimalized period.
+    Before investors can realize the full benefits of 
+decimalization, including cheaper order execution, Congress, 
+the SEC, and the major market centers must address the negative 
+consequences of narrowing spreads. Some of the blame can be 
+traced to outdated rules and regulations that were written for 
+an era of fractional pricing and substantially larger MPV's.
+    I have addressed the most important of these issues in my 
+written testimony. The implementation of trading in decimals 
+has made the markets more accessible to investors, but it has 
+also led to a number of profound changes that diminish market 
+liquidity, as well as the speed and efficiency with which 
+investor orders are being executed.
+    Only by recognizing and adapting to the changes occurring 
+in the U.S. markets can we continue to protect the investor, 
+strengthen market integrity, and maintain the position of 
+leadership that our market enjoy globally.
+    As this Subcommittee ponders the significant policy issues 
+surrounding decimal pricing, my colleagues and I at Knight 
+would welcome any opportunity to contribute further to the 
+discussion.
+    Thank you.
+    Senator Enzi. Thank you.
+    Mr. Kittell.
+
+                 STATEMENT OF DONALD D. KITTELL
+
+                    EXECUTIVE VICE PRESIDENT
+
+                SECURITIES INDUSTRY ASSOCIATION
+
+    Mr. Kittell. Chairman Enzi, Senator Corzine, thank you very 
+much for the opportunity to speak on behalf of the Securities 
+Industry Association today.
+    The SIA has worked for over 3 years with securities firms, 
+the equities and options exchanges and Nasdaq, clearance and 
+settlement organizations, service bureaus, market data vendors, 
+the SEC, the Department of Justice, the General Accounting 
+Office, a group of over 500 diverse organizations to convert 
+the U.S. markets to decimals. We estimate that the conversion 
+cost the industry approximately $1 billion, of which about $600 
+million we attribute to increases in capacity.
+    The operational aspects of the conversion were completed 
+without incident and I would particularly credit the leadership 
+of the New York Stock Exchange, Nasdaq, as well as my 
+colleagues testifying today, for that successful result.
+    I have four observations.
+    The first is that the conversion was a positive step for 
+investors and for the securities industry. The language of 
+decimals is easier to understand. The U.S. markets now speak 
+the same language as markets around the world. The opportunity 
+for competition between market participants has been increased. 
+We eliminated two particularly aggravating problems--the cloud 
+of suspicion that hung around fractional trading and the image 
+of Spanish antiquity with references to pieces of eight both 
+eliminated. SIA has not attempted to put a value on those 
+qualitative benefits.
+    Second, the conversion has presented a number of 
+challenges. And I would just like to point out that those 
+challenges were not caused by decimalization, per se, but by 
+the reduction in the minimum price variation. That reduction in 
+the basic unit of trading was 84 percent, a \1/16\ or 6\1/4\ 
+cents down to a penny--84 percent. And that reduction increases 
+the number of trading increments that market participants can 
+use by more than 6 times. It would be akin to the U.S. Senate 
+moving from 100 to 625 Senators to deal with the same set of 
+issues.
+    When we use the term decimalization, we are really talking 
+about two subjects--the language of decimals itself and the 
+reduction in the minimum price variation of 84 percent. That 
+reduction impacts market mechanics by creating more quotes, 
+more trades, more price movements for traders and systems to 
+handle. Market screens display the same amount of data, but 
+less information. And all else being equal, the trading process 
+must work perhaps 15 to 20 percent harder to accommodate the 
+same dollar result.
+    The smaller trading increment also impacts trading rules, 
+as you have heard, and these rules impact just about every kind 
+of trade and just about every kind of participant in the 
+market. The increments also impact market making economics by 
+reducing the spread, which is one of the ways that market 
+makers have traditionally been paid for their services. And 
+that changes the behavior of market makers, as well as those 
+who trade with them.
+    Third, market participants will successfully resolve these 
+issues, in our judgment, through competition, experience, 
+debate, ingenuity, working with the SEC, in the same way that 
+the industry has successfully resolved difficult issues in the 
+past.
+    Market mechanics issues are the easiest to resolve, such 
+things as volume and better display mechanisms. Trading rule 
+adjustments take longer and market-maker behavior issues will 
+take longer still. We believe that the process of adjustment 
+will be in front of us for many months.
+    Finally, the SIA believes that the markets are functioning 
+smoothly, having accomplished the conversion without incident. 
+The quality of our markets is as high as it has ever been. 
+Competition has never been healthier.
+    The industry-wide operations and systems resources have 
+moved on and are now focusing on reengineering the clearance 
+and settlement system and other projects that will further 
+strengthen the safety and soundness of the equity markets for 
+all investors.
+    Thank your for your attention and I would be happy to 
+respond to questions.
+    Senator Enzi. Thank you, Mr. Kittell.
+    Mr. Jenkins.
+
+         STATEMENT OF PETER JENKINS, MANAGING DIRECTOR
+
+                 HEAD OF GLOBAL EQUITY TRADING
+
+                   ZURICH SCUDDER INVESTMENTS
+
+    Mr. Jenkins. Thank you, Mr. Chairman for this opportunity 
+to testify on decimalization today. My name is Peter Jenkins. I 
+serve as Managing Director and Head of Equity Trading at Zurich 
+Scudder Investments. We manage $400 billion for both 
+individuals and institutions.
+    I am a trader and I have been a trader for 21 years. I 
+spend a considerable amount of my personal time promoting 
+market efficiency. Today, my goal for being here is to provide 
+you with practical suggestions to achieve this.
+    As a preliminary comment, I would like to point out that I 
+strongly support the move to decimal pricing in the U.S. 
+securities markets and the trading of securities in minimum 
+increments of one penny. The move to smaller trading increments 
+reduces the spread in securities, which will result in benefits 
+to our shareholders. In addition, the implementation of 
+decimalization has enabled the pricing of securities in the 
+United States to conform with securities markets around the 
+world. Most institutional traders, such as myself, are 
+continually adjusting to this new trading environment and we 
+are already seeing the development of competitive products to 
+help us cope with this change.
+    Some critics have contended that the problems that market 
+participants are facing since the move to decimalization have 
+arisen solely as a result of that move. I do not believe that 
+is the case. Instead, I would suggest that many of those 
+problems are the result of the underlying structure of the 
+securities markets on which we trade. Decimalization has simply 
+brought these longstanding issues to the forefront, thereby 
+highlighting the urgency of addressing several unresolved 
+market structure issues. These include the need for the display 
+of meaningful depth a of limit orders by specialists and market 
+makers; and the need for priority rules for ordered entered 
+into the securities markets; and the need to address problems 
+arising from the internalization of orders. I have long 
+advocated that with the move to decimals, we need greater 
+transparency and increased electronic access to the markets.
+    I should note that most of the difficulties that I have 
+faced since decimalization have occurred while trading on the 
+New York Stock Exchange. In contrast, we have had few such 
+problems when trading securities on the Nasdaq Stock Market, 
+due largely to the fact that electronic communications 
+networks--ECN's--have offered efficient access and have allowed 
+our traders to deal in smaller increments while at the same 
+time have control over our order flow. But to the New York 
+Stock Exchange's credit, they have taken some bold steps to 
+address these emerging market issues, including the 
+implementation of the ``Network New York Stock Exchange.'' 
+However, since the implementation of decimalization on the New 
+York Stock Exchange, the execution of large orders has actually 
+been hampered by the reduced transparency of orders on the 
+exchange limit order book.
+    The dramatic increase in change of quotes in conjunction 
+with increased instances of market participants stepping ahead 
+of orders by increments of as little as a penny. The net effect 
+has been for the institutional trader to lose control of his or 
+her order flow, since no effective tools exist in the New York 
+Stock Exchange listed market to reach the market efficiently. 
+The ``upstairs'' trader does not have the time to negotiate 
+trades as quotes change rapidly. This lack of control has led 
+the upstairs trader to expose less to the market for fear of 
+being ``front run'' for a penny. The result is an increasing 
+amount of order flow has left the Exchange and has been 
+directed to the alternative markets where institutions face 
+less of a risk of having their orders stepped ahead, further 
+fragmenting the listed market.
+    These problems are not due to decimalization. They result 
+from the fact that the New York Stock Exchange does not provide 
+sufficient protection to the orders that I--and other 
+institutional traders--utilize in trading larger amounts of 
+stock. Today, when an electronic order is sent to the Exchange 
+via Super Dot, the order is first exposed to the brokers on the 
+floor who surround the specialists post prior to actually 
+interacting with the Limit Order book. This technique is called 
+``an attempt at price improvement.'' If an electronic order is 
+small, it may in fact receive price improvement. If, on the 
+other hand, the electronic order is large, an institutional 
+order, the specialist may first allow the crowd to interact 
+with the limit order prior to execution of the trade.
+    These hidden orders in the ``pockets'' of the floor brokers 
+gain standing. When an institution attempts to interact with 
+limit orders on the book, most institutional traders feel this 
+exposure to the crowd is unnecessary. If the upstairs trader 
+were able to interact with the limit order directly without 
+delay, floor brokers might be compelled to make instantaneous 
+decisions and not use limit orders as options. In order to 
+resolve these problems, institutions must have facilities for 
+the automatic execution of large orders on the Exchange and the 
+ability to trade large orders without subjecting these orders 
+to the price improvement mechanisms.
+    The New York Stock Exchange's new system, ``Institutional 
+Xpress,'' does offer some solutions. But here's the problems 
+with Xpress. Orders do not become expressible until it is on 
+the best bid or offer for a time period of 30 seconds. This 
+should be changed, to enhance efficiency, there should be no 
+time limit. Institutional Xpress also requires that an order be 
+at least 25,000 shares in size--this number is too high. 
+Institutional Xpress should be able to react through the offer 
+to get to the available liquidity pool.
+    These large orders eligible for execution in that system 
+should not be permitted to be represented by specialists to the 
+crowd on the floor of the Exchange. The New York Stock Exchange 
+has the opportunity to promote the placement of limit orders on 
+the book by providing protection for, and rewarding the 
+placement of, those orders and attracting order flow. These 
+improvements that I suggest will serve to increase the depth 
+and liquidity of the market. Greater transparency, along with 
+greater liquidity, will benefit our investors to enabling them 
+to get a more effective execution.
+    In closing, I want to stress that I have worked with the 
+New York Stock Exchange and other exchanges, as well as the 
+Investment Company Institute directly for many years to voice 
+my opinions, along with those of my competitors, on how best to 
+provide institutions the liquidity we need to perform 
+effectively on behalf of our clients' portfolios. These changes 
+I suggest do not pose a threat to the New York Stock Exchange. 
+In fact, these enhancements will offer the ability for both 
+institutions and retail participants to transact more 
+efficiently and at the best price.
+    Thank you.
+    Senator Enzi. Thank you.
+    Mr. Fagenson.
+
+                STATEMENT OF ROBERT B. FAGENSON
+
+       VICE CHAIRMAN, VAN DER MOOLEN SPECIALISTS USA, LLC
+
+     VICE CHAIRMAN, THE SPECIALIST ASSOCIATION OF THE NYSE
+
+    Mr. Fagenson. Chairman Enzi, thank you for having me here 
+today. I am Vice Chairman of Van der Moolen Specialists, one of 
+the largest specialist firms on the floor of the Stock 
+Exchange. I am also Vice Chairman of the Stock Exchange 
+Specialist Association. So I am really here today representing 
+the 480 men and women who are the specialists who do make the 
+markets on the floor of the New York Stock Exchange.
+    In 1997, the House introduced a bill called The Common 
+Cents Pricing Act, and I had the opportunity to testify before 
+the Subcommittee on Finance and Hazardous Materials, known as 
+``cash and trash.'' We made several points there and, quite 
+frankly, they have all come true.
+    Reduced minimum trading increments from 12\1/2\ cents to 
+6\1/4\ cents to a penny, are really down more than 90 percent 
+now, and they are easier to understand. We said that this would 
+reduce payment for order flow, which distorts the markets, 
+where brokers send their orders to dealers who pay them for 
+them, and perhaps, to a certain extent, ignore their fiduciary 
+responsibility. This has been reduced, but it hasn't been 
+eliminated.
+    We felt this would hurt the regionals' ability to compete 
+and, at this point, we think it has. And we fear that the 
+Philadelphia Stock Exchange's equity business may, in fact, be 
+in jeopardy.
+    This would certainly create the ability for market 
+participants to price improve or step ahead, depending upon the 
+terminology you would use, for one penny. That certainly has 
+happened, and also that the market would get cluttered with a 
+tremendous number of meaningless flashing quotes and liquidity 
+would be harder to find, although it was still there.
+    Now all this has come to pass and it was not because we are 
+geniuses and we had some crystal ball. But we do do this for a 
+living and after 30 years on the floor, I can tell you that 
+none of this was unexpected.
+    We suffered a shock to the system, despite the fact that, 
+technically, we were all prepared and the SEC made sure that we 
+were, and the SRO's did a good job.
+    It is the equivalent of traveling the same road to work 
+every day for 30 years and it was 10 miles long, and there were 
+eight traffic lights. And suddenly, one day, there were 16. It 
+would be a bit more difficult, but it wouldn't be a 
+tremendously noticeable change.
+    Then one day, you woke up and there were a hundred lights 
+on that same 10 mile stretch. Some were green, some were red, 
+and some were yellow. So you had to stop some places and some 
+places you did not, and every day, it changed.
+    You knew the road really well and you were going to get to 
+the other end, and it was a pretty safe travel. But it probably 
+took a little longer, and the end and the time it would take 
+was probably somewhat more obscured. And this, despite the fact 
+that you were dealing in increments that were given to greater 
+clarity.
+    The participants all had to relearn how to do certain 
+things. We had to develop new systems and the New York Stock 
+Exchange has been moving aggressively to do that.
+    What Cathy Kinney mentioned in terms of depth indications, 
+depth conditions, the use of enhanced hand-held electronic 
+devices to transmit information, and a look at the book that 
+would allow investors to see a hundred price points, are 
+certainly things that are going to move toward making this 
+transition a lot smoother.
+    It is almost like the equivalent of installing radar or 
+sonar on your car as you traverse that road. It just lets you 
+see out a little bit further so that you know exactly what is 
+coming up.
+    We are a lot busier on the floor. There are a tremendous 
+number of quotes. A lot more trades per order. A 500- or a 
+1,000-share order that used to get executed in one transaction, 
+now may take two or three. These are just the realities that we 
+have to deal with. Spreads are narrower, clearly, but the sizes 
+at those reduced spreads are smaller.
+    There are many inaccessible quotes that create tremendous 
+frustrations, not just for Peter, but for all investors, large 
+and small. I do not want you to confuse spreads with liquidity. 
+Spreads have narrowed, but liquidity most likely is pretty much 
+the same. It just is somewhat more obscured and a little bit 
+harder to access. But we are working on that.
+    Price discovery certainly has slowed. It is almost the 
+equivalent of trying to buy a house and negotiating in $100 
+increments. That may take a little bit longer than the way it 
+is normally done.
+    The ability to narrow quotes to a penny caused a tremendous 
+upheaval. The phrase pennying was coined. Suddenly, there was a 
+tremendous amount of finger-pointing. The specialists were 
+blamed for all of it. We were unprepared for the result.
+    But the statistics are proving that it is the professional 
+traders, day traders, and floor brokers representing financial 
+institutions that are in fact taking advantage of this ability 
+to get a better price for their customer in increments as small 
+as a penny.
+    Yesterday, I learned of a new trading program that was 
+developed to watch for quotes that are somewhat larger than 
+average and automatically enter orders for a thousand or two 
+thousand shares, a penny below or a penny above, just to try 
+and take advantage of a perceived opportunity. But brokers are 
+learning, both upstairs, off the floor, and downstairs, how to 
+accommodate.
+    If a market in Black Hills Power were 57 bid, offered at 57 
+and 25 cents, and that became narrowed to 57.10 bid and 57.15 
+offered, limit orders are now being entered to buy at prices 
+higher than that lower offer, to bid through it and access the 
+liquidity that is hidden above, and sell orders lower than the 
+posted bid to access those buy orders below the posted bid, 
+down to the point where that seller is willing to sell. Brokers 
+on the floor are being given greater discretion, so they can 
+access liquidity where they find it, and not having to run back 
+to the phone every 2 minutes to ask for additional 
+instructions.
+    Mr. Chairman, we have the most powerful liquidity pool the 
+world has ever known and it is intact and it is working just 
+fine. We are still the envy of the world. We have increased the 
+clarity and we are moving to solve our problems. But let us not 
+forget why we did it.
+    We did it to create a system that was more customer-
+friendly. With trading increments reduced 90 percent and in 
+dollars and cents, we are essentially there. But there is a 
+great threat that looms. We could lose the very clarity that we 
+have all fought so hard to try and create.
+    If we permit subpenny trading to proliferate, trading in 
+hundredths of a penny, in thousandths of a penny, we will 
+destroy the ability to access liquidity. We went from saying 
+that 10.125 was difficult to understand and 10.0625 is more 
+difficult. So we said 10.05 sounds fine. Are we now to say that 
+we bought something at 10.0237, is that better? When was the 
+last time you walked into a supermarket and asked for 1.537 
+pounds of ham?
+    We have created a system that is efficient, effective, and 
+understandable. Do we really want to create the equivalent of 
+an impressionist art auction where bids go up a hundred dollars 
+at a time? The buyers and sellers would be dead before the 
+auction is over. Public confidence is hard to build and easy to 
+destroy. We have to continue to design our systems for 
+investors, not for practitioners.
+    Just because we can do it, doesn't mean we ought to do it. 
+And our industry, sometimes has acted in the reverse. As we 
+look at rules such as the short-selling rule, let us take a 
+hard look. But let us not forget that issuers and the public 
+like some of these and before we change them, let us make sure 
+we get their opinions.
+    Subpenny trading can undo all the good we have 
+accomplished. We call on you to go past what the SEC would 
+suggest, which is study of this issue, and pass legislation 
+that prevents the minimum increment nationally from moving 
+below a penny unless we all decide that it is the right thing 
+to do.
+    The road to work may take a little bit longer to get there 
+under certain circumstances, but let us not risk creating a 
+gridlock that destroys the system we have worked so hard to 
+build that we cannot undo.
+    Thank you.
+    Senator Enzi. Thank you very much.
+    I want to thank all of you for your excellent testimony, 
+not only the great job you did of convincing and summarizing 
+here, but also the more extensive testimony. From my 
+standpoint, I appreciate the way that you kept it simple and 
+clear. Many of us do not have the depth of understanding or 
+experience that you have acquired in your years of dealing with 
+this. And, of course, one of our tasks, is to take what you 
+told us and put it in terms that our constituents can 
+understand, who are often confused and sometimes upset when 
+they are talking to us. So I do appreciate your effort and the 
+tremendous job that you did.
+    To start the questioning, do any of you who spoke at the 
+beginning have anything that you would like to comment on as a 
+result of what has been said? And then those who testified 
+later can say something about what they are saying now. Are 
+there any additional comments based on the additional 
+testimony?
+    [No response.]
+    I saw some note-taking up there at the desk, so I thought 
+there might be.
+    One of the reasons that we are holding this hearing today 
+is 
+because there have been numerous complaints about orders, 
+particularly large orders, being stepped ahead by specialists 
+and floor brokers. I do realize that there is the flip side to 
+that, where there is some receiving of price improvement. Can 
+you tell me what this effect is going to have on the small 
+investor. Anyone?
+    Mr. Fagenson. Well, the small investor who is buying in 
+100-, 200-, 300-share lots has probably benefited the most from 
+the change to decimal pricing because those small quotes that 
+are created either by computer programs or other retail orders 
+are usually in the size that the smaller investor is buying or 
+selling. And at that narrower spread, they are probably saving 
+some money.
+    The greater frustration comes in for institutional 
+investors such as Peter Jenkins, who has to deal in 100,000-, 
+200,000-, and 500,000-share lots, and how do they find that 
+liquidity? And that has become somewhat more of a task.
+    So the small investor probably is having a better time and 
+is probably reaping the greatest benefit. But once you get 
+above that 200- or 300-share lot, it becomes a lot less clear. 
+And in fact, they may be paying more in certain circumstances.
+    Mr. Jenkins. I would add one thing. Zurich Scudder manages 
+mutual funds and we have to remember that we represent 
+thousands of individual retail mutual fund shareholders. My 
+costs, if they are increasing, are affecting the retail. We 
+need not forget that. It is not only the individual that comes 
+direct to the 
+Exchanges, the retail broker, but also the mutual fund 
+shareholders as well.
+    Senator Enzi. Excellent point. Anyone else?
+    Mr. Pasternak.
+    Mr. Pasternak. I think, just to take you back in history to 
+illustrate, about 5 years ago, an individual investor who was 
+trading on-line, let us say at the birth of the Internet in 
+1995, he could buy 5,000 shares of virtually any Nasdaq stock, 
+for instance, at the NBBO--the National Best Bid and Offer--the 
+spread was generally an eighth or better or wider, for about 
+$40.
+    By about 1998, 1999, the price of that transaction had gone 
+down to about $9 or $10 on the commission side. But the auto-
+exsize had gone down to 2,000.
+    Just to show you the tenuous balance between that 
+proposition, over 95 percent of all orders were still 
+automatically executing. And generally speaking, depending on 
+how you define individual investor orders, a large proportion--
+I do not have a stat right here--but I would say at least 90 
+percent of all investors, individual investors, units of 
+trading, are 2,000 shares or less meaning the marketplace was 
+providing liquidity at the national best bid and offer the vast 
+majority of the time. Today, under decimal pricing, that is 
+occurring in our environment less than 50 percent of the time.
+    I think Mr. Jenkins made a statement about the NBBO having 
+some relevance in two cases. In the case, to make an assessment 
+of how to proceed with a strategy to trade. And second, from a 
+small individual investor. I would define it as 2,000 shares or 
+less.
+    Should there be a sense, a high sense of confidence that I 
+can buy or sell, and even lower that to 1,000 shares of 
+virtually any security in the United States at a price that I 
+am seeing? If that sense of confidence is not there, then in 
+fact what use is a pricing stream that includes a National Best 
+Bid and Offer if most Americans cannot effect the transaction 
+at that price?
+    Senator Enzi. Mr. Campbell.
+    Mr. Campbell. It is clear that in terms of the display 
+depth on Nasdaq is about one-third of what it was in a 16th 
+environment.
+    The real question is, moving from 6\1/4\ pennies and then 
+putting it in comparison to penny increments as opposed to 
+16th, is the depth through that roughly the equivalent of what 
+it was when it was in the 16th increment? Having been at this 
+for 7 weeks, and having our display depth about a third of what 
+it was prior in a fraction environment, I think right now, it 
+is still premature for us to be able to come out and say, okay, 
+this is exactly what is happening, and watching it migrate to 
+some point in time where we really have statistical evidence as 
+opposed to anecdotal.
+    Senator Enzi. Mr. Fagenson.
+    Mr. Fagenson. Mr. Chairman, historically, whenever we have 
+increased the flow of information to investors, the market has 
+grown. Whenever we have enhanced the quality of the 
+information, the market has grown.
+    The challenge is to make sure that we can have investors 
+see not just the NBBO, but where liquidity resides. And we are 
+moving in that direction by opening up the specialist book and 
+by offering these depth indicators.
+    That is really one of the keys. And in terms of 
+Institutional Xpress, a system that Peter spent some time 
+explaining, I would only say, if you understand it now, you 
+ought to come to the New York Stock Exchange and take over 
+because it is a complex system, and I was one of the people who 
+helped design it and I still find it complex. But we did design 
+it and we continue to enhance it, and we will, to give just the 
+type of institutional access that Peter is talking about. And 
+hopefully, over time, it will prove to be a system that works 
+well. We want all investors, small and large, to have the best 
+information. And the systems that provide that will continue to 
+serve to expand the market.
+    Ms. Kinney. Chairman Enzi, I think one of the issues that 
+we raised in our testimony and one that is important to the 
+Exchange is this issue of ensuring that both Congress and the 
+SEC look at the issue of the MPV and not allow the minimum 
+price variation to go below a penny. I think a number of the 
+issues that have been raised here, whether it is reduced depth 
+or whether it is reduced transparency, will all be exacerbated 
+if the markets go below one penny as the minimum price 
+variation.
+    We would all agree here that individual investors who are 
+buying 500 shares of IBM, or those that are buying 500 shares 
+of Microsoft, are certainly getting better prices, when you 
+look at what is driving the markets and the institutional 
+interest in the markets, as well as individuals who are buying 
+larger numbers of shares, you have to be concerned about some 
+of the impacts that you have seen. And they certainly are 
+impacts that we have seen before.
+    A study has just come out by two economists looking back 
+over the experience of moving from eighths to sixteenths. And 
+they have concluded that simply having spreads narrow is not a 
+good indicator of cost of execution. We just draw that to your 
+attention as well and try to balance this issue across a 
+variety of investors who are involved in the markets.
+    Senator Enzi. Thank you.
+    One of the things that Congress does is step in the middle 
+of things occasionally. The purpose of this hearing was not to 
+do that. It was to get some very basic information on a system 
+that changed relatively recently--very recently--to see if any 
+problems were cropping up yet that we would begin to hear 
+about. Of course, we would hope that you, in cooperation with 
+the SEC, would make the necessary changes and it wouldn't ever 
+become a legislative responsibility.
+    In regard to the SEC, does the decimal implementation 
+change the necessity of certain regulations, such as the short-
+sale rule or the trade-through rule? Are there things pending 
+there now that do not need to be done and some that do need to 
+be done that maybe are not being considered?
+    Mr. Fagenson.
+    Mr. Fagenson. I think we have to make sure that we do not 
+think about every stock trading the same way. Stocks trade 
+differently. Your hundred most active stocks are going to trade 
+far differently than your hundred least active stocks.
+    There are all sorts of variations in the middle. And while 
+eliminating the short-sale rule in your top one hundred stocks 
+might crate additional liquidity, it might create havoc and 
+market manipulation in less liquid stocks. So this is really an 
+issue that I think requires tremendous study.
+    If you ask issuers and you ask small customers whether they 
+take comfort in a rule such as the short-sale rule, I think, 
+universally, they would probably say yes. But before we upset 
+that delicate balance, I think we have to make sure that the 
+perceived benefit is really there before we destroy this 
+element of public confidence that I think is an important piece 
+of the market framework.
+    Senator Enzi. Mr. Campbell.
+    Mr. Campbell. Mr. Chairman, we have submitted rules to 
+reflect the new structure and the trading environment that we 
+are in to address the changes brought about by decimalization.
+    My only concern is that the SEC opines on the short-sale 
+rule prior to an adequate time to evaluate as we are doing our 
+new 
+experience with about 7 weeks of history behind us in a decimal 
+environment. Our concern is that it is well thought out, that 
+it is adequately discussed, and the empirical evidence is there 
+to be able to make an important judgment call as we start 
+modifying the rules in a new market environment.
+    I do agree that there are some very important attributes of 
+short-sale rule that are very important to a lot of people.
+    Our only concern is that we have the right debate with the 
+right information at the appropriate time when the empirical 
+evidence is available, and it is not today.
+    Senator Enzi. Anyone else wish to comment on that?
+    [No response.]
+    The foreign markets have been decimalized for a longer time 
+than we have, they have probably been dealing with some of the 
+problems that we have discussed, such as the shrinking limit 
+orders and stepping in front. How are they handling it? Or are 
+they worrying about it at all?
+    Mr. Jenkins.
+    Mr. Jenkins. I think in the foreign markets, they have 
+stressed time and price priority and connectivity. And I think 
+that is the way they are dealing with a lot of these problems.
+    Clearly, they have their problems as well. But priority of 
+order placement is important, or a little bit more important, 
+in the international markets.
+    Mr. Kittell. Also, in the case of some international 
+markets, the minimum price variation varies by the price of the 
+stock.
+    So that a $100 stock would have a higher minimum price 
+variation than a $10 stock. And there will be a schedule of 
+four or five minimum price variations up and down the price 
+scale.
+    We have that in the United States here in the case of 
+options trading, where the options priced below $3 trade at the 
+moment in 5 cent increments, and over $3 trade in 10 cent 
+increments.
+    Mr. Pasternak. Just two comments. We do have operations in 
+Europe and Japan and we are active in those markets. We do have 
+a perspective--it is a real-time perspective. You could make a 
+few observations about the foreign markets.
+    First is that the individual investor is not as far along 
+as he is in the United States. So there is still a very heavily 
+institutional market that is in almost every market in the 
+world.
+    Second, that their markets are behind our markets and we 
+are the envy of every market in the world when it comes to 
+liquidity, price discovery, and what I call liquidity provider 
+participation. And finding that sweet spot between rewarding 
+price discovery--I think Mr. Jenkins has an excellent point 
+about incentivizing and eliminating people from coopting your 
+information and rewarding you properly.
+    Markets have to take that head on and find a balance 
+between that and people who are bringing liquidity, capital and 
+expertise to the market, liquidating both block trades for 
+institutions, providing knowledge for institutions, and 
+liquidating individual investor transactions. The foreign 
+markets have not reconciled that and there is no culture 
+whatsoever of capital commitment and immediacy for individual 
+investors in virtually every market in the world, except for 
+ours. As we look forward, we should protect what we have and 
+keep refining it, but not to think that our markets are second 
+to each, but certainly respect innovation, even if it comes 
+from around the world.
+    Mr. Fagenson. We make markets in Germany, Great Britain, 
+Amsterdam and here in the States. We were the largest 
+specialist on the Amsterdam Stock Exchange for many, many 
+years. We still are, although they are doing away with the 
+specialist system. These markets are far smaller than we are. 
+As Ken just said, they take absolutely no notice or concern for 
+the individual investor.
+    I mean, the big bang in London was the sound of the small 
+investor getting whacked over the head. They bifurcated that 
+market into wholesale and retail so that they could hide what 
+they were doing in size transactions and in not any way 
+demonstrate what the true price was. Price discovery went on 
+behind closed doors. So they have been doing it longer, but 
+that is just made them more expert at hiding things.
+    Senator Enzi. Mr. Campbell.
+    Mr. Campbell. Mr. Chairman, I think the one thing that 
+everybody at this panel has really pushed very hard in 
+everything the capital markets, the United States, does today 
+is transparency.
+    Most foreign markets have solved their decimal issues by 
+lack of transparency. And as we continue to balance as much 
+information that we can provide for the benefit of the 
+investor, that is part of what we are all trying to do in the 
+most sincere way we know how. Most foreign markets have gone 
+the other way. You cannot see what the problems are because 
+they do not allow you to.
+    Senator Enzi. Anyone else?
+    [No response.]
+    I am glad that I asked that last question because it is not 
+often in the Banking Committee when we are dealing with 
+securities or accounting issues and those sorts of things, that 
+you get that feeling of patriotism, and how great it is in the 
+United States.
+    [Laughter.]
+    Every one of you reflected how we have it better in the 
+United States. Of course, that is what this Committee wants to 
+make sure happens, that that same thing continues as we become 
+kind of a clearinghouse for complaints, mostly from 
+constituents.
+    I think the view of the Committee is that the 
+decimalization has gone well and that life is good in the 
+United States. Some of the things that you mentioned may be 
+more of an effect of the economy than the decimalization 
+process. And we want to keep a careful eye on that.
+    I do have a series of questions for each of you. But I will 
+submit those to you and would appreciate your answers. And 
+then, when I get the answers, I will circulate both the 
+questions and the answers to my colleagues. And we will be 
+doing some summaries of what you said and emphasizing those a 
+little bit, too. Of course, they will be from my perspective 
+because I am the one here.
+    [Laughter.]
+    So I do appreciate your participation today and all of your 
+help. We will be calling on you again. Thank you very much.
+    Ms. Kinney. Thank you very much.
+    Mr. Campbell. Thank you.
+    Mr. Jenkins. Thank you very much.
+    Senator Enzi. The hearing is adjourned.
+    [Whereupon, at 11:20 a.m., the hearing was adjourned.]
+    [Prepared statements and response to written questions for 
+the record follow:]
+                  PREPARED STATEMENT OF LAURA S. UNGER
+        Acting Chairman, U.S. Securities and Exchange Commission
+                              May 24, 2001
+    Chairman Enzi, Ranking Member Dodd, and Members of the 
+Subcommittee:
+    I am pleased to testify today on behalf of the Securities and 
+Exchange Commission (``Commission'' or ``SEC'') concerning the recent 
+conversion of quotations in equity securities and options from 
+fractional to decimal pricing and the effects that this change has had 
+on market dynamics and trading behavior. I would particularly like to 
+address not only the benefits of decimalization, but also some aspects 
+of this historic change that could affect the transparency, liquidity, 
+and fairness of our markets.
+I. Introduction
+    As you know, under Congress' leadership, over the past year the 
+U.S. markets have moved from pricing shares in fractions to pricing 
+shares in dollars and cents--the same pricing used in virtually all 
+other aspects of the economy. The goal of decimalization was viewed as 
+necessary to simplify pricing for investors and to make our markets 
+more competitive internationally. Many proponents of decimalization 
+also hoped that decimal prices would ultimately reduce trading costs 
+for investors by, among other things, permitting quotation spreads (the 
+difference between the highest bid quotation and the lowest offer 
+quotation) to narrow from the \1/16\ minimum increment that was 
+standard in the fractional environment.
+    Over the last year, the Commission has sought to ensure that the 
+conversion to decimal pricing was accomplished in as rapid but orderly 
+a manner as possible. On June 8, 2000, we issued an order directing the 
+securities exchanges and the Nasdaq Stock Market (``Nasdaq'') to phase-
+in decimal pricing beginning no later than September 5, 2000, and 
+ending no later than April 9, 2001.\1\ As a result of the careful 
+planning, preparation, and coordination among regulators, the markets, 
+clearing agencies, vendors, and the securities industry, I am able to 
+report that the phasing-in of decimal pricing was completed on schedule 
+and without significant operational problems or trading disruptions.
+---------------------------------------------------------------------------
+    \1\ See Securities Exchange Act Release No. 42914 (June 8, 2000), 
+65 FR 38010 (June 19, 2000).
+---------------------------------------------------------------------------
+    While comprehensive analyses of the market effects of 
+decimalization are not yet available, preliminary reviews by the 
+Commission's Office of Economic Analysis (``OEA'') and Nasdaq indicate 
+that at least some of the anticipated benefits of decimalization, such 
+as the significant narrowing of quotation spreads, are already evident. 
+For example, OEA estimates that, from December 2000 to March 2001, 
+quotation spreads in securities listed on the New York Stock Exchange 
+(``NYSE'') narrowed an average of 37 percent, and effective spreads 
+narrowed 15 percent.\2\ An even more dramatic reduction in quotation 
+spreads was observed in Nasdaq securities, with spreads narrowing an 
+average of 50 percent following decimalization, and effective spreads 
+narrowing almost as much. While it is difficult, at this time, to 
+formulate accurate estimates of the extent to which investors may have 
+benefited from decimalization, the overall narrowing of spreads makes 
+it likely that investors entering small orders that are executed at or 
+within the quotes have experienced reduced trading costs.
+---------------------------------------------------------------------------
+    \2\ The effective spread measures the cost of trading by comparing 
+the execution price of a trade with the current mid-point of the quoted 
+spread. Since trades sometimes occur at prices that are better than the 
+posted quotes, the effective spread measure captures this ``improved 
+pricing.''
+---------------------------------------------------------------------------
+    In addition, preliminary studies by Nasdaq indicate that, despite 
+the concerns previously raised by some market commentators, decimal 
+pricing has not expanded quotation traffic or exacerbated capacity 
+demands to the extent anticipated. Although there is some evidence that 
+the number of quotation updates has increased, the fears that 
+decimalized quotes would cause reporting backlogs and outages appear to 
+have been unfounded.
+    Nevertheless, the Commission has long recognized that the shift 
+from fractional to decimal prices had the potential to influence market 
+dynamics and trading behavior in ways that could affect the 
+transparency, liquidity, and fairness of the markets. When ordering the 
+decimal conversion last June, therefore, the Commission required the 
+markets to carefully phase-in this process in order to provide 
+regulators and market participants opportunities to observe how 
+decimalization worked in practice. The Commission hosted a roundtable 
+on December 11, 2000 to solicit viewpoints on how the early phases of 
+decimalization were affecting markets and trading. Moreover, our June 
+8, 2000 decimals order required the markets to conduct their own 
+studies within a few months of the full implementation of decimal 
+pricing on April 9, 2001 that would analyze how the conversion had 
+affected systems capacity, liquidity, and trading behavior. In view of 
+the complexity of some of the issues that have been raised concerning 
+decimal pricing, the Commission has extended the deadline for the 
+markets' studies to September 10, 2001.\3\ In the meantime, we are 
+continuing to work with the markets and market participants to identify 
+any aspects of decimalization that might compromise the fair and 
+orderly operation of the securities markets.
+---------------------------------------------------------------------------
+    \3\ The difficulties inherent in conducting useful analyses of the 
+effects of decimalization in such a short time frame were also 
+discussed in a letter from the American Stock Exchange (``Amex'') 
+requesting an extension of the June 8, 2001 deadline for decimalization 
+studies. See letter to Annette Nazareth, Director, Division of Market 
+Regulation, from Peter Quick, Amex President, dated May 9, 2001. The 
+Commission has decided to extend the study deadline not only for the 
+Amex, but also for the other securities exchanges and the NASD.
+---------------------------------------------------------------------------
+    Today, I would like to focus on how decimalization has affected 
+market transparency and liquidity, as well as key investor protection 
+and market integrity rules of the Commission and the self-regulatory 
+organizations (``SRO's'').
+II. Effects on Market Transparency and Liquidity
+    Market transparency--the dissemination of meaningful quote and 
+trade information--assists investors in making informed order entry 
+decisions and enables broker-dealers to meet their best execution 
+duties for their customer orders. Moreover, market transparency plays 
+an essential role in linking dispersed markets and improving the price 
+discovery, fairness, competitiveness, and attractiveness of U.S 
+markets. Currently, the quotes and trade reports from all registered 
+exchanges and Nasdaq are published on a consolidated basis to vendors, 
+brokers, and customers worldwide.
+    Decimal pricing presumably has enhanced the ability of investors to 
+understand the consolidated quotations of competing market centers. 
+Investors can now easily compare prices to buy and sell stocks in 
+dollars and cents without having to deal with prices in fractions. 
+Nevertheless, we recognize that, as the minimum quoting increment has 
+narrowed to a penny, the market depth at any particular price level 
+(that is, the number of shares available at the published bid or offer) 
+has decreased as well. For example, OEA has estimated that quote sizes 
+in NYSE-listed securities have been reduced an average of 60 percent 
+since the conversion to decimals and preliminary analyses of Nasdaq 
+securities show a 68 percent reduction in quote sizes. Some firms and 
+institutional investors also have expressed concerns that the reduction 
+in quoted market depth may be adversely affecting their ability to 
+execute large orders.\4\ In particular, market participants have 
+indicated that smaller trading and quoting increments have increased 
+the risk of displaying limit orders, particularly larger limit orders, 
+leading to a reduction in the amount of liquidity provided by such 
+orders. In an effort to provide more information about available 
+liquidity, the NYSE recently proposed, and the Commission approved on 
+an accelerated basis, a rule to disseminate ``depth indications'' and 
+``depth conditions'' to reflect market interest in a security below the 
+published bid and above the published offer.\5\
+---------------------------------------------------------------------------
+    \4\ See letter to Richard A. Grasso, Chairman, New York Stock 
+Exchange, Inc., from Craig S. Tyle, General Counsel, Investment Company 
+Institute, dated March 11, 2001.
+    \5\ See Securities Exchange Act Release No. 44084 (March 16, 2001), 
+66 FR 16307 (March 23, 2001) (NYSE Rule 60). The Commission's Advisory 
+Committee on Market Information is also considering a range of market 
+transparency issues.
+---------------------------------------------------------------------------
+    We recognize, however, that these measures alone are unlikely to 
+address market participants' liquidity concerns in a decimal 
+environment. We have asked the markets to evaluate these concerns in 
+their reports to the Commission, and we will work with the markets and 
+the securities industry to identify and address any negative effects 
+from decimalization on overall market transparency and liquidity.
+III. Investor Protection and Market Integrity
+    We recognize that decimal pricing also raises a number of issues 
+regarding vital investor protection and market integrity rules of the 
+Commission and the SROs that depend on price changes or differentials. 
+I will briefly mention two examples.
+Customer Limit Order Protection Rules
+    Investors use two main types of orders to buy securities: market 
+orders and limit orders. When a customer uses a market order, a broker 
+will execute the order in the market at the best price available. When 
+a customer uses a limit order, a broker is required to obtain an 
+execution at the limit price or better. By submitting a limit order, 
+the customer competes for a better price than the market is offering, 
+or limits the price that the investor will accept. As a result, limit 
+orders provide liquidity to those who demand immediate execution. Limit 
+orders are a very important source of price information and market 
+liquidity in the equity markets. When customers submit limit orders, 
+they are held by a specialist or market maker until the orders are 
+executed, they expire, or are cancelled. Because they collect these 
+limit orders submitted by customers, specialists and market makers may 
+obtain informational and trading advantages. Commission and SRO rules 
+protect customer limit orders by providing them with priority over 
+specialist and market maker proprietary orders at the same price on the 
+exchanges and on Nasdaq.\6\ However, specialists and market makers can 
+``step ahead'' of customer limit orders by trading at a price better 
+than the existing limit order.\7\
+---------------------------------------------------------------------------
+    \6\ Exchange Act Rule 11a1-I (T) requires Exchange members to grant 
+priority to any bid or offer at the same price for the account of a 
+person who is not a member. NYSE Rule 92(b) prohibits NYSE members from 
+trading for their own account at the same price as an unexecuted 
+customer limit order. The NASD's Manning Rule similarly requires the 
+execution of a customer limit order upon the execution of a proprietary 
+trade at a price that would satisfy the customer limit order. See NASD 
+IM-2110-2--Trading Ahead of Customer Limit Order.
+    \7\ It should be noted that when a specialist or market maker 
+``steps ahead'' of a limit order, it provides ``price improvement'' to 
+the execution on the contra side of the trade. For example, assume that 
+a customer limit order is sent to a specialist or market maker to buy 
+100 shares of XYZ stock at $10 per share for a total of $1,000. The 
+specialist or market maker may decide to ``step-ahead'' of the customer 
+limit order and trade with a customer order to sell the security. While 
+the customer buy order would remain unfilled in this situation, the 
+customer sell order would receive a price from the specialist or market 
+maker that is better than it would have received from an execution with 
+the customer buy order.
+---------------------------------------------------------------------------
+    With some variations, the rules of the NYSE and the NASD require 
+that a specialist or market maker who wants to ``step ahead'' of a 
+customer limit order pay a price which is greater than the limit order 
+by at least the minimum quoting increment.\8\ However, with the 
+conversion to decimals, the minimum price increment has decreased from 
+\1/16\, or 6.25 cents, to 1 cent. This means that it could be less 
+costly for specialists, market makers, and possibly certain other 
+market participants to profit from their knowledge of limit order flow 
+by trading ahead of limit orders for only a penny a share.\9\ Public 
+traders may defend themselves from such stepping ahead practices by 
+using floor brokers to hide their orders, by breaking up their orders, 
+and by switching to market order strategies from limit order 
+strategies. These responses could increase transaction costs and reduce 
+market transparency.
+---------------------------------------------------------------------------
+    \8\ NYSE Rule 92(b) establishes a defacto ``stepping-ahead'' 
+increment based on the NYSE's minimum trading and quoting increment. 
+That increment is currently a penny for most securities. The NASD's 
+Manning Interpretation requires market makers who want to trade ahead 
+of customer limit orders to trade at a price $0.01 better than the 
+customer limit order priced at or better than the inside market. For 
+customer limit orders priced outside the inside market, a market maker 
+must trade at a price at least equal to the next superior minimum 
+quotation increment. See Securities Exchange Act Release No. 44165 
+(April 6, 2001) 66 FR 19268 (order 
+approving Nasdaq proposed rule change to the Manning Interpretation 
+adopting a $0.01 price improvement standard for securities quoting in 
+decimals.)
+    \9\ For example, assume that a public limit order is entered to buy 
+100 shares of XYZ stock at $10 per share for a total of $1,000. Under 
+fractions, with a minimum price increment of \1/16\ a specialist or 
+market maker could trade ahead of the customer buy order by executing 
+at $10\1/16\ per share, for a total of $1,006.25. With the decimals 
+minimum price increment of a penny, it is possible that the specialist 
+or market maker could ``step-ahead'' of the customer order by paying 
+$10.01 per share for a total cost of $1,001 to buy 100 shares, an 84 
+percent reduction in the ``stepping-ahead'' cost.
+---------------------------------------------------------------------------
+    Since the commencement of decimals trading, numerous articles have 
+appeared in the press that have raised concerns about increased 
+stepping ahead activity. In addition, the NYSE held a meeting on 
+February 16, 2001 with a cross-section of market participants to 
+discuss several issues related to decimal trading--including ``stepping 
+ahead.'' The NYSE reported after the meeting that while it believed 
+that some of the problems associated with decimals may be behaviorally 
+solved, some other issues might need to be addressed systemically, and 
+has organized committees to examine these issues and develop possible 
+solutions.
+    The Commission currently is gathering information about the 
+operation of these investor protection rules in the decimal 
+environment, and will consider whether action is necessary to protect 
+investors.
+Short Sale Regulation
+    A short sale is the sale of a security that the seller does not own 
+or that the seller owns but does not deliver.\10\ In general, short 
+selling is utilized to profit from an expected downward price movement, 
+or to hedge the risk of a long position in the same security or in a 
+related security.
+---------------------------------------------------------------------------
+    \10\ See Rule 3b-3 under the Exchange Act, 17 CFR 240.3b-3.
+---------------------------------------------------------------------------
+    Commission Rule 10a-1 is designed to restrict short selling in a 
+declining market. The rule applies to short sales in any security 
+registered on a national securities exchange, and uses a ``tick test,'' 
+which means that a short sale generally must be at a price higher than 
+the last reported sale for the security. \11\ The NASD also has a short 
+sale rule for Nasdaq securities that requires a short sale to be 
+effected at a price above the current bid in a declining market.\12\ In 
+a decimals environment, where price differences between trades can be a 
+penny or less, the question is: how much above the last sale or the bid 
+must a short sale be?
+---------------------------------------------------------------------------
+    \11\ 17 CFR 240.10a-1.
+    \12\ NASD Rule 3350 prohibits short sales by NASD members in NMS 
+securities at or below the current best (inside) bid as shown on the 
+Nasdaq screen when that bid is lower than the previous best (inside) 
+bid (commonly referred to as the ``bid test''). Rule 3350 contains 
+certain exemptions, including an exemption for qualified Nasdaq market 
+makers, options market makers, and warrant market makers. The Rule also 
+contains exceptions similar to those provided under Rule 10a-1.
+---------------------------------------------------------------------------
+    On March 2, 2001, the Commission took a step toward answering this 
+question when we approved a change to the NASD short sale rule 
+providing that a ``legal'' short sale must be executed at a price at 
+least $0.01 above the current best bid.\13\ In approving this amendment 
+on a one-year pilot basis, we noted that transactions based on very 
+small price changes could undermine the operation of the short sale 
+rules. While permitting a $0.01 increment standard for short sales 
+during the initial stages of the conversion to decimal pricing, we 
+required Nasdaq to submit a study analyzing the operation of the 
+amended rule.\14\
+---------------------------------------------------------------------------
+    \13\ See Securities Exchange Release No. 44030 (March 2, 2001) 66 
+FR 14235 (March 9, 2001).
+    \14\ The Nasdaq study is due on December 1, 2001.
+---------------------------------------------------------------------------
+    Essentially the same question arises in the context of the 
+Commission's short sale rule. In addition to our ongoing review of the 
+short sale rule, which was begun in our concept release in October 
+1999,\15\ the Commission's staff is gathering data and is considering 
+rule changes to address short selling in a decimals environment.
+---------------------------------------------------------------------------
+    \15\ Securities Exchange Release No. 42037 (October 20, 1999) 64 FR 
+57996 (October 28, 1999).
+---------------------------------------------------------------------------
+IV. Subpenny Trading
+    Many of the regulatory issues that have arisen in a decimal 
+environment may be exacerbated by the practice of trading at increments 
+finer than $0.01, commonly referred to as subpenny trading. For years, 
+some electronic communication networks (``ECN's'') and Nasdaq market 
+makers have permitted trading in increments smaller than that displayed 
+through the Nasdaq system. This practice has continued in the decimal 
+environment, with approximately 4 to 6 percent of trades in Nasdaq 
+securities executed in subpenny increments even though the quotations 
+for these securities are at a penny increment. On April 6, 2001, the 
+Commission approved, on a pilot basis, a rule filed by the NASD 
+specifying the protections Nasdaq market makers must provide to 
+customer limit orders priced in subpennies.\16\ As noted earlier, the 
+NASD's Manning Interpretation requires the execution of a customer 
+limit order held by a market maker if the market maker trades for its 
+own account at a price that would satisfy the customer limit order.\17\ 
+The market maker, however, can trade for its own account at a price 
+better than the customer limit order and is not obligated to execute 
+the limit order (so-called ``trading ahead''). The amendment to the 
+Interpretation requires market makers who want to trade ahead of 
+customer limit orders to trade at a price at least $0.01 better than 
+the customer limit order priced at or better than (inside) the best 
+displayed inside market. For customer limit orders priced outside the 
+best displayed inside market, a market maker must trade at a price at 
+least equal to the next superior minimum quotation increment. Because 
+subpennies increase the concerns raised by decimal trading, the 
+Commission needs to consider the impact of subpenny trading on market 
+transparency and liquidity, as well as investor protection and market 
+integrity rules.
+---------------------------------------------------------------------------
+    \16\ Securities Exchange Act Release No. 44165 (April 6, 2001), 66 
+FR 19268. The Commission also approved on April 6, 2001, a pilot 
+program setting forth protections that must be provided by specialists 
+and market makers on the Chicago Stock Exchange(``CHX'') for customer 
+subpenny orders in Nasdaq securities. Securities Exchange Act Release 
+No. 44164 (April 6, 2001), 66 FR 19263 (April 13, 2001). The Nasdaq and 
+CHX proposals were approved as pilot programs until July 9, 2001, 
+during which time the markets will supply the Commission staff with 
+monthly reports on their activity in subpenny increments.
+    \17\ See text at n. 6, above; NASD IM-3220-2--Trading Ahead of 
+Customer Limit Order.
+---------------------------------------------------------------------------
+V. Conclusion
+    The conversion to decimals went smoothly from an operational 
+standpoint, thanks to the planning and cooperation among regulators, 
+self-regulators, and the industry. Decimal trading has raised issues 
+that must be carefully considered to ensure our markets remain 
+transparent, liquid, and fair. As other market challenges have arisen 
+over time, the Commission has embraced these challenges, working to 
+adapt regulatory structures in a manner that will affirm investor 
+confidence and help to lead our markets into the future. We believe 
+that the conversion to decimals fosters these goals by simplifying 
+pricing and making our markets more competitive internationally. We 
+recognize, however, that there are some aspects of the effects of 
+decimalization that still need to be considered thoroughly. I want to 
+assure you that the Commission is working with the markets and the 
+securities industry to address potential problems while preserving the 
+benefits of decimalization. We appreciate the Subcommittee's continuing 
+interest in this issue and the role it has played in helping to ensure 
+a smooth transition to decimals.
+    Thank you. 
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+     <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+     <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+               PREPARED STATEMENT OF J. PATRICK CAMPBELL
+                   President, Nasdaq U.S. Markets and
+            Chief Operating Officer, The Nasdaq Stock Market
+                              May 24, 2001
+Introduction
+    Mr. Chairman and Members of the Subcommittee, I am Pat Campbell, 
+President, Nasdaq U.S. Markets and Chief Operating Officer, The Nasdaq 
+Stock Market. We welcome this opportunity to share with you our 
+experience and insights into the recent conversion to decimal pricing 
+on the Nasdaq Stock Market.
+    As the world largest stock market by every measure other than 
+aggregate market capitalization (for example, in terms of the number of 
+listings, dollar volume, transaction volume and liquidity), ensuring 
+that decimalization of the market was not disruptive to investors and 
+the U.S. capital markets was our primary concern. Crucial to our job as 
+the world's largest provider of stock quote information is maintaining 
+the availability, integrity, and accessibility of this data. The 
+estimates of increased computer system demands made switching to 
+decimals a challenging project. One study projected a three-fold 
+increase in quotation traffic. Decimalization takes the market from 16 
+price points per dollar to 100 price points. Due to the hard work of 
+our highly skilled employees, member firms and the Securities and 
+Exchange Commission (SEC), I am glad to report that the decimalization 
+was accomplished without incident.
+    We are proud of the often-cited characterization of Nasdaq as the 
+Engine of the New Economy. However, we are much more than that. Across 
+the board, we have been the home to more IPO's than any other U.S. 
+market, providing crucial access to capital for new companies of all 
+sizes and types to grow. These companies create jobs and add vibrancy 
+to local economies. The impact of these benefits are felt in every 
+State.
+    Nasdaq is dynamic and is adjusting to changing market realities in 
+order to better serve our listed companies, member firms, and 
+investors. As you may know, Nasdaq applied to the SEC to become a 
+registered national securities exchange in November of last year. We 
+expect the SEC to publish our application for public comment in the 
+Federal Register in the immediate future, and we are hopeful for speedy 
+approval of our application at the end of the comment period. This 
+process will facilitate final separation of the Nasdaq from the NASD, 
+lead to our ability to access the capital necessary for our Exchange to 
+invest in new technology in order to remain a competitor in the world 
+capital markets, and allow us to better serve our constituencies. In 
+order to continue to be the preeminent global competitor, we have 
+recently taken significant steps such as the March 27, 2001, 
+acquisition of a majority interest in the pan-European Easdaq stock 
+market, as well as the March 26, 2001, announcement of Nasdaq's 
+partnership with the London International Financial Futures and Options 
+Exchange to offer single stock futures in the United States. As you 
+know, Nasdaq Japan, our undertaking with the Osaka Stock Exchange, is 
+operational and is becoming an increasing presence in the Japanese 
+equity market, particularly with respect to IPO's.
+Early Analysis
+    I would caution that the initial trends are observed through a 
+fast-track analysis intended to get information to the Subcommittee as 
+quickly as possible. The data has not yet been verified by independent 
+analysis, but is instructive as an important benchmark for short-term 
+analysis. It is preliminary and will be continuously revisited as we 
+gain more experience with the new environment. The three most important 
+points I wish to share with you today are:
+
+          (1) Nasdaq's transition from fractions to decimals was smooth 
+        and seamless;
+          (2) Nasdaq's market has seen a dramatic decrease in spreads; 
+        and
+          (3) There is no evidence on our market, to date, that 
+        institutional investors are bearing the burden of any 
+        significant cost-shifting.
+Nasdaq's Seamless Transition to Decimals
+    To achieve today's results in a very compressed time frame, 
+virtually every computer system within Nasdaq was changed. This 
+included an upgrade of the Enterprise Wide Network, a change to Nasdaq 
+Workstations to allow for the display of decimal information, 
+replacement of front-end processors with a higher-capacity computer 
+architecture that allows for quoting and matching of decimals trades, 
+and upgrades to back-office batch processing systems that calculate 
+indices, dividends, etc. A similar effort took place among Nasdaq 
+broker-dealers that required them to assess and redesign their systems 
+and business models. This followed the first two pilots of 
+decimalization for 212 Nasdaq stocks and 3 OTC Bulletin 
+Board<SUP>'</SUP> (OTCBB) securities in March 2001. On April 9, 2001, 
+all remaining Nasdaq-listed securities began being quoted in a decimal 
+format with a $0.01 minimum price increment (for example ``tick 
+size''). Thus, Nasdaq has successfully completed the full conversion to 
+decimal quoting and trading in approximately 1 month. Nasdaq has been 
+carefully monitoring the impact of decimalization both through our on-
+line surveillance and market operations group and by gathering and 
+analyzing data for the 2 week period prior to decimalization and 
+comparing it to the 2 week period following decimalization (March 26, 
+2001-April 20, 2001). I would like to add that Nasdaq set a new share 
+volume record only 7 days after full conversion to decimals--3.19 
+billion shares--and was able to handle that volume without incident.
+    Among the major concerns raised by conversion to decimals is the 
+capacity impact on message traffic. There are two general classes of 
+messages: quote updates disseminated by the various market centers and 
+the Last Sale trade report disseminated by Nasdaq. We found that the 
+number of quote updates for stocks increased by at least 12 percent 
+after controlling for the day-to-day fluctuation in trading activity 
+for the overall market. The Nasdaq systems have ample capacity to 
+handle this increase.
+    As expected, decimals did not significantly increase the overall 
+market trading 
+activity. On average, stocks experienced only a 5 percent increase in 
+trades and a less than 1 percent increase in volume.
+Dramatic Decrease in Spreads
+    As expected, quoted bid-ask spreads declined substantially for most 
+stocks. A quoted spread is an appropriate measure of costs for retail 
+investors placing small market orders. All types of stocks saw dramatic 
+decreases in quoted spreads; on average, the quoted spreads decreased 
+by 51 percent. All else being equal, the decline was greater for more 
+active and lower price securities--our most active stocks saw a 71 
+percent spread decline. Many of Nasdaq's most well known and widely 
+held stocks, such as Cisco, Dell, Intel and Microsoft and others, now 
+have quoted spreads of one cent. Similarly, effective spreads (spreads 
+that take into account actual trade prices) declined for all stock 
+groups by an average of 46 percent. This is in addition to the 30 
+percent decline seen following the order handling rules and move to 
+sixteenths in 1997.
+    Many people expected the intra-day volatility to increase as a 
+result of decimalization, the frequent change of the inside quotes. We 
+use three measures of intraday volatility to analyze this issue:
+
+<bullet> average magnitude of trade-to-trade price changes;
+<bullet> average volatility of duration-weighted bid-ask-midpoint; and
+<bullet> percentage differences of high and low prices of the day.
+
+    In all three measures, we did not detect any noticeable increase in 
+volatility. In fact, the data indicates a decrease in volatility, 
+consistent with what we found for the pilot issues. It should be noted 
+that volatility, as measured during this time frame, could be 
+influenced by a number of other market factors independent of 
+decimalization.
+Investor Costs
+    We also reviewed the extent to which penny increments have caused 
+orders to be broken into smaller trades. We looked for trends in trade 
+size by looking at the average number of shares per trade report. 
+Contrary to what some academics had predicted, according to early 
+indications the average trade size for the decimalized stocks decreased 
+only by 4.6 percent. Obviously, this is a calculation that would be 
+benefited by covering a longer time period.
+    The price dimension of quotes tells only part of the story. The 
+quoted size is also significant. The Nasdaq quote montage is not a 
+consolidated limit order book. Market makers frequently fill orders for 
+far more size than indicated by their quotes, and they often fill 
+orders at prices better than their own quotes. Nevertheless, analysis 
+of the impact of decimals on displayed depth is of interest as it may 
+be indicative of the total level of liquidity provided by the market. A 
+more definitive analysis of liquidity postdecimals awaits future 
+research.
+    Quoted depth at the inside quotes declined for the newly-
+decimalized stocks. Again, recall that decimalization moved from 16 
+price points per dollar to 100 price points. We looked at two measures 
+of inside depth, the average aggregate quoted depth at the inside and 
+the number of market makers and electronic communications networks 
+(ECN's) displaying quotes.
+    This week, another effort was made by Nasdaq to analyze 
+decimalization to understand its impact, if any, on institutional 
+trading cost. While we believe this analysis is preliminary, we found 
+good news for institutional trades on Nasdaq. It does not appear that 
+decimalization on Nasdaq has caused higher institutional trading costs. 
+A reasonable proxy to evaluate the cost of trades is to look at 
+effective spreads. We know decimalization had a huge impact on retail 
+trades, as effective spreads dropped by about 50 percent. We found that 
+trading costs (effective spreads) fell for institutional trades as 
+well. Effective spreads are based on actual trade prices, which are 
+sometimes better and sometimes worse than the posted bid-ask quotes. 
+The effective spread is defined as the twice the difference between the 
+trade price and the average of the bid and ask (i.e, the quote 
+midpoint).
+    We looked at large trades, and institutional trades specifically, 
+to see if decimalization thinned-out the market and caused those 
+effective spreads for large/institutional trades to increase. We 
+believe they did not. Our attempt to use our data showed 
+``institutional'' prints got better fills (lower effective spreads) 
+after decimalization (although by insignificant amounts for 5,000-
+shareprints and higher) but the fills were slower. Again, this is based 
+on the early days of decimal trading--as trading/sales practices adapt, 
+this could change.
+    One issue that has caused significant controversy with the shift to 
+decimals is ``pennying'' or trading in front of a standing order by a 
+penny. On this issue it is useful to recognize the advantages allowed 
+by the Nasdaq market model of an all electronic market with competing 
+dealers and ECN's. Nasdaq's quotes may be electronically accessed with 
+no participant being provided a second look, we have not heard 
+significant institutional concerns expressed about ``pennying'' on 
+Nasdaq. We believe competing market makers and ECN's provide a hybrid 
+market environment that discourages such unfortunate behavior. In fact, 
+it is important to note that Nasdaq has been trading in increments 
+finer than pennies since before April 9, 2001. Decimalization for 
+Nasdaq pertained to quotes. We do recognize, however, that some 
+institutional investors retain significant concerns over the impact of 
+decimalization on market liquidity and we will continue to aggressively 
+monitor our market to identify any basis for such concerns.
+Conclusion
+    Overall, the implementation of decimal trading for all Nasdaq 
+stocks was carried out smoothly, as anticipated, with respect to 
+capacity and market quality. Decimalization is a success story for 
+Nasdaq, the industry and the American economy. We could not have 
+accomplished it without the full cooperation of our member firms and 
+their technology providers and the SEC.
+    Most of the results are consistent with what we had anticipated. 
+Indeed, overall spreads declined by a larger-than-expected percentage. 
+Investors are seemingly enjoying some improvement of prices because of 
+the tightened spreads.
+    That said, we want to caution that decimal trading is still in a 
+preliminary stage. As more time passes, we could see the results change 
+over time. We plan to conduct our final detailed analysis for all three 
+phases of decimalization for the SEC soon.
+    Thank you for the opportunity to share Nasdaq's experiences with 
+decimalization. I would be happy to respond to your questions.
+
+                               ----------
+
+               PREPARED STATEMENT OF CATHERINE R. KINNEY
+
+        Group Executive Vice President, New York Stock Exchange
+                              May 24, 2001
+
+    Chairman Enzi, Senator Dodd, and Members of the Subcommittee: My 
+name is Catherine Kinney, and I am Group Executive Vice President of 
+the New York Stock Exchange (``NYSE'' or ``Exchange''). I am pleased to 
+be here today to relate some of the preliminary results of decimal 
+trading.
+    Decimalization has been the most important occurrence in our 
+capital markets in the last quarter-century. Congress and the SEC 
+directed this initiative to accomplish significant policy goals. The 
+NYSE is pleased to have facilitated the conversion process. The 
+benefits of decimal trading have been realized, but the shift to a 
+minimum price variation (``MPV'') of 1 cent has created some 
+difficulties. The NYSE is already taking steps to remedy some of these 
+detrimental effects. In this regard, we urge that an MPV of no less 
+than 1 cent be established by Congress or the SEC across all markets. 
+Otherwise, the current difficulties will become worse, and the benefits 
+of decimalization may be jeopardized.
+Conversion to Decimals
+    The Exchange recognizes that conversion to decimals was a high 
+priority for a number of Congressional leaders and for the Securities 
+and Exchange Commission (``SEC'' or ``Commission''). The Exchange made 
+a commitment to convert to decimals, and we are proud that our 
+conversion was accomplished without systems or capacity problems. Most 
+of our decimal conversion costs were incurred simultaneously with our 
+Year 2000 system conversion. These simultaneous system upgrades cost 
+approximately $30 million.
+    Decimal trading has increased the number of possible trading 
+increments within a dollar from 16 to 100. This increased number of 
+trading increments has required an increase in capacity for our trading 
+systems. Since 1988, we have spent nearly $3 billion on technology to 
+maximize capacity. We currently have the capacity to trade five times 
+our average daily volume. Today, the NYSE has sufficient capacity to 
+handle 2,000 messages, or orders, per second. Stated differently, 
+capacity is 6 
+billion shares per day.
+    The Exchange launched decimal trading with a pilot project of seven 
+stocks on August 28, 2000. Stocks in the pilot program were priced in 
+dollars and cents instead of fractions, and the minimum pricing 
+increment was one penny instead of \1/16\ of a dollar. The pilot was 
+extended to include 57 additional stocks on September 25, and 94 stocks 
+were added on December 4. The Exchange completed the conversion by 
+trading all 3,525 listed issues in decimals on January 29, 2001, more 
+than 2 months ahead of the SEC's deadline of April 9. Throughout the 
+conversion process, all Exchange systems performed efficiently and 
+without problems.
+Trading in a Decimal Environment: The Early Results
+    We are confident that the conversion to decimal pricing has 
+accomplished important public policy goals: It has brought U.S. markets 
+into conformity with quoting and trading systems used around the world. 
+This will help U.S. equity markets to expand their foreign listings, 
+and will facilitate globalization of equity markets.
+    Our preliminary analysis of conversion to decimal pricing indicates 
+that, on balance, the penny increment has been good for some retail 
+investors. Stock prices in decimals are certainly more understandable. 
+Over the last decade, direct share ownership by individual investors 
+has increased, and decimal prices will encourage this trend by breaking 
+down a barrier to understanding the market. Spreads have been reduced, 
+and price improvement on the NYSE has increased.
+    The smaller price variation (a penny) encourages price competition. 
+Results to date indicate a tightening of the bid-ask spread--the 
+differential between the highest quote to buy (the ``bid'') and the 
+lowest seller's asking price (the ``ask'')--by approximately 37 
+percent. This is particularly beneficial to small investors, especially 
+those trading in the most active stocks.
+    We have also seen an increase in price improvement, particularly 
+for smaller orders. In orders that do not exceed the quoted size of the 
+best bid or offer, the price improvement rate on the NYSE has increased 
+from 35.2 percent to 50.7 percent.
+    On the other hand, the one-cent MPV has significantly impacted 
+institutional investors. The Exchange has monitored, and continues to 
+monitor, the effect of this change on investors and on the operation of 
+the market. The market is continuing to acclimate to this new 
+environment, and it is premature to draw any sweeping conclusions. But, 
+we have observed some trends that I will summarize.
+    Decimal trading has had a number of detrimental impacts on mutual 
+funds, pension funds and other institutional investors, who act on 
+behalf of individual investors. These investors, who tend to trade in 
+large blocks, have experienced a lack of transparency and reduced depth 
+at the published NYSE quote (best bid and offer), and an increase in 
+number of execution reports (for example, the number of transactions 
+necessary to fill an order). These market participants are an important 
+source of liquidity.
+    We conducted a one-week analysis of a random sample of 150 stocks 
+to assess the degree to which trades occurred at a minimum variation 
+before and after decimalization when the bid or offer equaled or 
+exceeded 10,000 shares. We found a significant decrease in occurrence 
+in a one-cent variable compared to a \1/16\ variable. We also found 
+that a majority of these occurrences were initiated by a floor broker 
+or an order received through the Super Dot system, rather than by a 
+specialist.
+    The impact on the institutional investor is an inevitable outgrowth 
+of the decrease in the minimum price variation from 6.25 cents to one 
+cent. This decrease in the MPV has lowered the transparency of the 
+market and thus made it harder for institutional investors to find the 
+right price for the liquidity they require.
+    Our research to date shows a significant 67 percent decrease in the 
+number of shares available at the published NYSE quote. While true 
+liquidity (for example, 
+actual interest from all sources) available may not have been 
+significantly impaired, there has been a significant impairment of 
+transparency.
+    Nevertheless, because liquidity is spread-out over a number of 
+price points, institutions have found that it takes significantly more 
+trades in a decimal environment to execute a large order compared to 
+trading in sixteenths. We have canvassed institutional investors 
+serving on our Institutional Traders Advisory Committee, Pension 
+Managers Advisory Committee and Advisory Committee on Decimalization, 
+and this has been a leading complaint.
+    We have acted to address the transparency concerns of the 
+institutional investor. The Exchange has initiated two changes to pemit 
+dissemination of ``depth indications'' and ``depth conditions'' in our 
+listed securities. These initiatives are the first in a series of 
+actions the Exchange will implement to improve transparency and 
+communication of market depth in a decimal trading environment.
+    In March, the Exchange began to disseminate an ``indicator'' of 
+additional market depth. The range is currently defined as 20,000 
+shares within 15 cents of the bid, offer, or both. Part two of this 
+effort began this week, with the ability to disseminate ``depth 
+conditions.'' The ``depth condition'' shows liquidity beyond the best 
+bid or offer without the predefined, limited parameters of the ``depth 
+indicator''.
+    In addition, next month, we intend to introduce Open Book, which 
+will provide data in orders residing at each price point in 
+specialists' display books. We also are proliferating hand-held 
+technology called E-Broker, which allows floor brokers to 
+electronically communicate ``market looks'' at the market depth to 
+customers from the point of sale.
+    In addition, we have formed an Advisory Committee on Decimalization 
+to review decimal trading at the Exchange and to make recommendations 
+based on that assessment. The Committee is comprised of representatives 
+from various Exchange constituencies, including representatives of our 
+Pension Managers Advisory Committee, Institutional Traders Advisory 
+Committee, the NYSE Board of Directors, and specialists and floor 
+brokers. As more definitive information becomes available from our 
+review of the effects of decimal pricing, we will share it with the 
+SEC.
+The Future
+    The work of the Advisory Committee on Decimalization is ongoing, 
+and it will continue meeting to consider initiatives to facilitate 
+price discovery in a decimal environment. We are reviewing Exchange 
+trading rules to ensure that they are appropriate for the changes that 
+are occurring. We will also be working with academics to study these 
+issues.
+    The SEC has requested that we provide a preliminary report by 
+September 10 on the impact of decimal pricing on systems capacity, 
+liquidity, and trading behavior, including an analysis of whether there 
+should be a uniform minimum increment. The SEC has further requested 
+all markets to submit by November 4 proposed rule changes establishing 
+their individual choice of minimum pricing increments.
+    We believe an MPV of less than a penny would undermine the benefits 
+that decimal pricing has brought to the markets, while at the same time 
+exacerbating the problems that decimal pricing has caused for 
+institutional investors. An MPV of less than a penny would provide no 
+real benefit for individual investors. It would reverse the 
+harmonization of U.S. pricing with that of overseas markets. And it 
+would be a step backward in improving clarity of stock prices for 
+individual investors.
+    In addition, the problems that institutional investors have faced 
+in trading at an MPV of one cent would increase exponentially if 
+markets were permitted to quote and trade in increments of less than 
+one cent.
+    If the SEC decides to establish an MPV greater than a penny, we 
+believe that the variation should apply to trades and quotes; to trade 
+at a variation lower than the quote minimum would give dealers an 
+unfair advantage.
+    The NYSE intends to be competitive in the marketplace under all 
+circumstances as it relates to the issue of the MPV, and will continue 
+to assess the best means of addressing the transparency problem 
+resulting from liquidity dispersed over more price points.
+    I appreciate the opportunity to testify today, and I would be 
+pleased to answer any questions.
+
+                               ----------
+
+               PREPARED STATEMENT OF KENNETH D. PASTERNAK
+
+    Chairman and Chief Executive Officer, Knight Trading Group, Inc.
+                              May 24, 2001
+
+    Chairman Enzi, Senator Dodd and Members of the Senate Banking 
+Securities and Investment Subcommittee, thank you for this opportunity 
+to testify today about the impact of trading in decimals. My name is 
+Kenny Pasternak. I am Chairman, Chief Executive Officer, President, and 
+Co-Founder of Knight Trading Group, the world's largest wholesale 
+market maker for shares of both Nasdaq and non-Nasdaq equities. We are 
+also a growing options market maker and an asset manager.
+    At Knight, we like to think of ourselves as providing the 
+processing power behind the explosive growth in securities trading via 
+the Internet. We founded Knight with the purpose of empowering self-
+directed individual investors--to give them the same speed, low cost 
+and dependability in their securities transactions long enjoyed by 
+large institutional investors. We are committed to offering the same 
+efficient, dependable service, whether people wish to trade a single 
+share of stock or a thousand shares--so our interest in the issues 
+under discussion here today is acute.
+    The Subcommittee has asked me to assess how decimal pricing is 
+affecting the trading environment; whether the anticipated benefits of 
+decimalization are being realized; and whether the transition to 
+decimalized trading has brought about a need for change in securities 
+regulations.
+Decimal Pricing Has Led To Reduced Spreads But Not
+Always Lower Trading Costs
+    To answer the first of these questions, U.S. stock markets recently 
+adopted decimalized trading in the belief that it would narrow spreads 
+and lead to less costly order execution.
+    There is no doubt that spreads have fallen. According to 
+preliminary data, quoted spreads for Nasdaq stocks have fallen by an 
+average 51 percent since the advent of decimalized trading. The decline 
+has been greatest for the most active, lower-priced securities, which 
+saw a 71 percent decline in quoted spread. Effective spreads \1\--a 
+better measure of investor cost--fell by an average of 46 percent.
+---------------------------------------------------------------------------
+    \1\ Nasdaq Economic Research defines the effective spread as twice 
+the absolute difference between the actual trade price and the 
+prevailing bid-asked mid-point.
+---------------------------------------------------------------------------
+    It is important to note that the introduction of decimalized 
+pricing is not in itself responsible for the narrowing of spreads. 
+Rather, spreads have narrowed as a result of the decision by major 
+market centers to reduce their Minimum Price Variation, or MPV. In 
+1997, when the major market centers dropped the MPV from one-eighth of 
+a dollar (12.5 cents) to one-sixteenth of a dollar (6.25 cents), the 
+narrowing of spreads reduced trading costs for many investors, but 
+increased costs for others. With the MPV now at a penny, the number of 
+investors for whom costs have increased has been magnified. In other 
+words, a higher percentage of orders are being processed less 
+efficiently.
+    Today's one-penny MPV has reduced price discovery, diminished 
+liquidity and increased the level of trading activity required to 
+execute an entire order. No market participant has an incentive to 
+quote in size, as others can easily coopt that information and trade 
+ahead by as little as one penny. While such problems were once 
+experienced only by institutional investors, they now affect increasing 
+numbers of 
+individual investors as well.
+    Knight Trading Group supports decimalization. We believe that by 
+making stock prices easier to understand, decimalization encourages 
+market participation and, therefore, benefits everyone. My purpose 
+today is to focus this Subcommittee's attention on the adverse effects 
+of the dramatic reduction in MPV adopted by the major market centers at 
+the time when they implemented decimal pricing.
+    The one-penny MPV is, in many circumstances, too small. In my view, 
+the most important issue for this Subcommittee's consideration is how 
+to encourage the markets to arrive at the correct MPV for a given set 
+of circumstances. The thrust of my testimony today will be to explain 
+why this issue is vital to the depth, liquidity and overall strength of 
+our markets.
+How the One-Penny MPV Hurts Investors
+    The major market centers' recent adoption of the one-penny MPV has 
+had enormous unintended consequences. Preliminary data suggests that, 
+even for retail-sized orders, trading outside the spread has increased 
+dramatically. The price discovery process has been impeded because 
+displayed depth on Nasdaq has also declined--to approximately one-third 
+of what it was before the transition to trading in decimals. Meanwhile, 
+we see that more and more investors feel compelled to break down their 
+buy and sell orders into smaller lots in order to achieve more control 
+over their executions. Trades generally have increased in number but 
+declined substantially in size.
+    In addition, the one-penny MPV has occasioned a significant decline 
+in the average number of market participants at the inside quote. In 
+other words, those who provide enhanced liquidity to the markets are 
+now committing less capital for the execution of individual investor 
+trades than they did before the one-penny MPV.
+    Those who proactively provide enhanced liquidity constitute a large 
+and highly competitive industry that is absolutely essential to the 
+efficient operation of the markets. They often provide liquidity 
+automatically in amounts larger than the National Best Bid and Offer 
+(NBBO). This automatic execution feature expands as the MPV increases 
+and shrinks as the MPV decreases.
+    At present, because of the one-penny MPV, many retail investors are 
+paying more as the nature of executions changes from fast and complete 
+to slow and fragmented. For example, during the month of January, 
+Knight Securities alone provided liquidity above the NBBO size level in 
+excess of 179 million shares. Without our enhanced liquidity, we 
+estimate conservatively that investors would have paid nearly $4 
+million more in execution costs.
+    With the advent of the one-penny MPV, however, we and our 
+competitors are providing enhanced liquidity in many fewer instances. 
+Whereas, we previously provided instantaneous automatic execution at 
+the NBBO price for any order of up to 2,000 shares, we now reserve 
+automatic execution for much smaller orders. And in many instances, we 
+do not offer automatic execution no matter how small the order.
+    This decline in the availability of enhanced liquidity for Nasdaq 
+stocks, coupled with the lower average quoted size, translates into 
+slower and more fragmented executions--and ultimately higher costs for 
+investors.
+    In the listed markets, what we are seeing is a pronounced increase 
+in the number of ITS ``trade-throughs.'' As you know, ITS--the 
+Intermarket Trading System--is the linkage between the major exchanges 
+and other trading centers. When an ITS participant like a New York 
+Stock Exchange specialist sees another trading center offering a better 
+price for more than a hundred shares, the specialist is obliged to 
+either match that price or else forward the order on the investor's 
+behalf. When the specialist fails to make good on that obligation, the 
+omission is known as a ``trade-through.'' It means that the investor 
+may actually receive a price dis-improvement.
+    Our subsidiary, Knight Capital Markets (or KCM), which trades New 
+York and American Stock Exchange listed equities on the Nasdaq 
+InterMarket<SUP>TM</SUP>, has seen a marked increase in the number and 
+frequency of Exchange member trade-throughs. During the first six 
+trading days in February 2001, when decimal trading was introduced in 
+all listed stocks, KCM experienced an average of more than 2,500 trade-
+throughs per day by NYSE members--a more than four-fold increase over 
+the predecimalized period.
+Anachronistic Rules and Regulations Need To Be Reviewed
+    Before investors can realize the full benefits of decimalization, 
+including cheaper order execution, Congress, the SEC and the major 
+market centers must address the negative consequences of narrowing 
+spreads. Some of the blame can be traced to outdated rules and 
+regulations that were written for an era of fractional pricing and 
+substantially larger MPV's.
+    One area that needs review is the long-held notion that our NBBO's 
+standard provides the most accurate barometer as to whether an investor 
+has received best execution. The concept of best execution remains a 
+cornerstone of our markets, implying that broker-dealers have a duty to 
+seek the most advantageous terms for their customers' transactions.
+    For many years, the NBBO has been regarded as the ultimate measure 
+of best execution. The NBBO, the consolidated stream of transaction 
+reports and quotations mandated by Congress in 1975, has been available 
+to the public on a real-time basis. Retail investors have come to 
+expect automatic execution for orders up to a thousand shares at the 
+NBBO's price or better.
+    Automatic executions and guaranteed liquidity are decreasing as 
+liquidity providers become less proactive. It is time to acknowledge 
+that the NBBO has become less indicative of market liquidity. With the 
+advent of the one-penny MPV, the NBBO has lost its value for all but 
+the smallest orders. It gives no indication as to the price at which 
+many orders can be executed in their entirety and at what speed.
+    Indeed, the NBBO's prices can actually mislead the public with 
+respect to the quality of order executions available among various 
+market centers trading the same issues. The quality of executions 
+afforded investor market orders by various market centers can vary 
+widely in relation to the consolidated NBBO at the time of order 
+receipt. The price at which an order was executed may not reflect the 
+greater liquidity that might have been available at a competing market 
+center. In short, the NBBO should no longer be regarded as sacrosanct.
+Best Execution Entails More Than Getting the Best Price
+    In many instances, price should not be the primary consideration in 
+determining best execution. In the past, a broker-dealer could argue 
+persuasively that it had discharged its best execution obligation 
+merely by providing price improvement. Today, however, in an 
+environment of narrowed spreads and diminished liquidity, providing 
+price improvement may be less important than executing an order 
+promptly and in its entirety. Broker-dealers should be obligated to 
+consider such criteria as order size in seeking the destination that 
+will provide the best execution.
+
+Other Impediments to Fairer, More Efficient Markets
+
+    While the Subcommittee and the SEC are reviewing the rules 
+governing the 
+National Market System, we would encourage them to consider a number of 
+other impediments to fairer, more efficient markets. These include:
+
+<bullet> The issue of connectivity, as manifested through market-center 
+    linkages.
+<bullet> The proper means of encouraging market participants to quote 
+    and perform price discovery in larger sizes.
+<bullet> The Short Sale Rule and other outmoded regulations that 
+    actually impede the efficient handling of orders. Short-selling by 
+    market professionals increases market liquidity, helping to offset 
+    temporary imbalances in supply and demand. It also reduces the risk 
+    that the price paid by investors will be inflated by temporary 
+    supply impediments.
+<bullet> And finally, the need for a new Trade-Through Disclosure Rule 
+    for equities, similar to the rule recently adopted by the SEC for 
+    options trading. Such a rule would require broker-dealer disclosure 
+    whenever a customer's order is executed at a price that is inferior 
+    to a published quote on another exchange. The rule would not 
+    supplant the broker-dealer's duty to provide best execution, but it 
+    would provide investors with the means to monitor broker-dealer 
+    performance, while encouraging broker-dealers to develop effective 
+    means of accessing better quotes published by other markets.
+
+Conclusion
+
+    Let me conclude by citing the words of recently retired SEC 
+Chairman Levitt:
+
+          It is not the pace of technology or the brilliance of 
+        innovation . . . that guarantees the success of our markets, 
+        but rather an unyielding commitment to quality. Quality in the 
+        marketplace is faster, cheaper execution of transactions . . . 
+        [and] efficient price discovery. Quality is the best execution 
+        of customer orders. Quality . . . is the protection of the 
+        investor interest. This last principal . . . reaffirms a simple 
+        and salient truth--markets exist by the grace of investors.\2\
+---------------------------------------------------------------------------
+    \2\ Arthur Levitt, Dynamic Markets, Timeless Principles, Remarks at 
+Columbia Law School, New York, NY (September 23, 1999) (transcript 
+available at http://www.sec.gov/news/speeches/spch295.htm) (emphasis 
+added).
+
+    That same ``simple and salient truth'' is at the heart of the 
+issues we are discussing today: Whether our domain is Wall Street or 
+Main Street, we are obliged to do what best serves the interests of all 
+investors--large and small.
+    The implementation of trading in decimals has made the markets more 
+accessible to investors, but it has also led to a number of profound 
+changes that diminish market liquidity, as well as the speed and 
+efficiency with which investor orders are being executed.
+    Only by recognizing and adapting to the changes occurring in the 
+U.S. markets can we continue to protect the investor, strengthen market 
+integrity, and maintain the position of leadership that our markets 
+enjoy globally. Therefore, we hope that Congress and the Commission 
+will review the Securities Exchange Act of 1934--especially its rules 
+regarding the National Market System--then take the necessary steps to 
+create markets that are fairer and more efficient for the largest 
+possible number of trading participants.
+    As this Subcommittee ponders the significant public-policy issues 
+surrounding decimal pricing, my colleagues and I at Knight would 
+welcome any opportunity to contribute further to the discussion.
+    Thank you.
+
+                PREPARED STATEMENT OF DONALD D. KITTELL
+
+       Executive Vice President, Securities Industry Association
+                              May 24, 2001
+
+    I am Donald D. Kittell, Executive Vice President of the Securities 
+Industry Association.\1\ SIA worked with its member firms, the U.S. 
+equities and options exchanges and Nasdaq, clearance and settlement 
+organizations, service bureaus, market data vendors and the Securities 
+and Exchange Commission to successfully convert the U.S. equities and 
+options markets from fraction-formatted trading to decimal-
+formatted trading earlier this year. The conversion took 3 years to 
+accomplish and cost in excess of $1 billion, according to estimates 
+developed by the Tower Group on behalf of SIA. The conversion itself 
+was accomplished smoothly, to the credit of all participants involved.
+---------------------------------------------------------------------------
+    \1\ The Securities Industry Association brings together the shared 
+interests of nearly 700 securities firms to accomplish common goals. 
+SIA member-firms (including investment banks, broker-dealers, and 
+mutual fund companies) are active in all U.S. and foreign markets and 
+in all phases of corporate and public finance. The U.S. securities 
+industry manages the accounts of approximately 50 million investors 
+directly and tens of millions of investors indirectly through 
+corporate, thrift, and pension plans. In the year 2000, the industry 
+generated $314 billion of revenue directly in the U.S. economy and an 
+additional $110 billion overseas. Securities firms employ approximately 
+770,000 individuals in the U.S. (More information about SIA is 
+available on its home page: http://www.sia.com.)
+---------------------------------------------------------------------------
+    I have organized my comments on the impact of decimalization into 
+four subjects:
+
+          I.   Systems and Operations
+          II. Trading Rules and Regulations
+          III. Market Making
+          IV. Investor Benefits
+
+    I would summarize SIA's conclusions on the impact of decimalization 
+as follows:
+    (1) The systems and operational aspects of the conversion went 
+extremely well, primarily as a result of a carefully constructed phase-
+in process of pilot trading, testing and evaluation by each market 
+participant. Industry participants worked well together to accomplish 
+the conversion--literally without incident. Thus far, actual message 
+traffic has not reached the levels that early studies anticipated; 
+however, it is still early to conclude that message traffic projections 
+were overstated.
+    (2) Trading rules and regulations are currently under study by 
+market participants, self-regulatory organizations and the SEC. These 
+rules address minimum price variation, short sales, limit order 
+disclosure and protection, trade throughs, best execution, locked and 
+crossed markets and block trading. It seems clear that timely 
+adjustments to some of these rules are required.
+    (3) The economics of trading and market making are under intense 
+review by market participants and may be expected to result in changes 
+in strategies and practices by securities firms and institutional 
+trading desks. We expect this process to evolve over many months.
+    (4) It is clear that the benefit of decimalization to investors is 
+a complex subject which will be debated for some time. It is clear that 
+the simpler ``language'' of decimals is a benefit. It is also clear 
+that the harmonization of decimals across products and across 
+international markets is a benefit. SIA believes that removal of the 
+cloud of suspicion surrounding fractions was a constructive step. 
+Conclusions about market liquidity, trading volume, volatility 
+transaction costs, global competitiveness and the relative economic 
+impacts upon market participants would, in our judgment, be premature.
+    Each market center is required by the SEC to submit a study to the 
+Commission regarding the impact of decimal pricing on systems capacity, 
+liquidity, and trading behavior, including an analysis of whether there 
+should be a uniform minimum increment for a security. These studies are 
+due June 9, 2001. In the interim, Nasdaq has released three decimal 
+impact studies which area very useful. SIA has not seen impact studies 
+from the other exchanges.
+I. Impact of Decimalization on Industry Systems and Operations
+    (1) The securities industry's conversion of the equity and options 
+markets to decimals took place, for listed securities, on January 29, 
+2001 and for Nasdaq securities on April 9, 2001. The conversion 
+proceeded smoothly and essentially without incident. All industry 
+participants--exchanges, Nasdaq, specialists, market makers, data 
+vendors, service bureaus, clearance and settlement organizations and 
+securities firms reported a seamless transition.
+    (2) The conversion to decimals followed 34 months of planning, 
+coordination and testing. The cost of the conversion is estimated at in 
+excess of $1 billion, by the Tower Group on behalf of SIA. These costs 
+include programming changes, capacity increases and internal, as well 
+as industry testing.
+    (3) Message traffic (quotes, trades and administrative messages) 
+has not risen to the levels projected by SRI Consulting in April 1999; 
+however, it should be noted that SRI's projections were made during a 
+period of very high market activity and were ``as of '' December 31, 
+2001. We do not yet have experience in a market environment comparable 
+to early 1999.
+    (4) The SRI message traffic projections for options trading 
+presented the most serious challenge to capacity. The options markets 
+have introduced multiple listing, the quoting of size and the launching 
+of a new Exchange at the same time as the conversion to decimals. As a 
+result, the options exchanges have decided to trade in minimum price 
+variations of 5 cents and 10 cents, instead of in pennies.
+    (5) Market makers, specialists and trading desks report an increase 
+in administrative workload as a result of the increase in trading 
+increments. This workload deals with increases in cancels, cancel-and-
+replaces, rejects and breaks, as well as the increased number of 
+partial executions and executions per order. SIA has not attempted to 
+quantify the increase in workload. It would be reasonable to assume 
+that as market participants adapt to the decimal environment, 
+productivity should improve.
+    (6) Some SIA firms have raised concerns about the lack of a 
+standardized decimal format in the Nasdaq market. The NYSE listed 
+market provides that quotes and trades take place in pennies, with 
+average prices of block trades carried out to four decimal places. The 
+Nasdaq market provides that quotes be in pennies, but has no similar 
+standard for trades. As a result, some Nasdaq market makers and ECN's 
+execute trades carried out to mills, with the number of decimal places 
+to the right of the decimal varying by participant. This lack of 
+standardization is confusing and may result in operational 
+inefficiency.
+II. Impact of Decimalization on Trading Rules and Regulations
+    The conversion to decimals impacts at least four sets of trading 
+rules and regulations. The exchanges, Nasdaq, self-regulatory 
+organizations and SIA's regulatory and trading committees are currently 
+reviewing these rules and regulations as the industry gains experience 
+in decimal trading.
+    (1) Minimum Price Variation: The NYSE currently quotes and trades 
+in penny 
+increments. Nasdaq quotes in pennies but allows trading in mills. The 
+options exchanges currently quote and trade in increments of 5 cents 
+for options priced under $3 and of 10 cents for options priced over $3.
+    Each Exchange is anticipated to make recommendations as to minimum 
+price variations in its June study.
+    (2) Rules that are ``triggered'' by price ticks: A number of SEC 
+and SRO rules are ``triggered'' by price ticks. Examples include the 
+short sale rules, limit order disclosure and protection rules, and the 
+intermarket trading system trade-through rule. Decimalization has 
+resulted in industry participants questioning whether these rules can 
+be effectively managed in a fast moving environment of fluctuating 
+penny (or mill) ticks. Participants also question whether such ticks 
+are economically significant. It may be that some of these rules should 
+be triggered by large tick sizes.
+    (3) Best Execution Rules: The concept of ``best execution'' has 
+been debated in the industry for many years, but the smaller pricing 
+increments of decimals complicate the debate. It has long been 
+recognized that the characteristics, which define ``best execution,'' 
+include factors other than pure price, such as speed of execution and 
+size of trade. Decimalization has resulted in finer pricing increments, 
+and at least in the case of Nasdaq, a greater number of trades outside 
+of the best bid and offer.
+    The SEC has recently adopted two new rules governing the Disclosure 
+of Order Execution and Routing Practices (Rule 11 Ac 1-5 for market 
+centers and Rule 11 Ac 1-6 for broker-dealers).
+    Some SIA firms are concerned about the accuracy of the data that 
+they will be reporting and the conclusions that may be drawn from this 
+data particularly about trades executed outside of the best bid and 
+offer for legitimate business reasons.
+    Reporting under the SEC's new disclosure rules will begin in June 
+and be phased in between June and October 2001. SIA anticipates a great 
+deal of discussion among industry participants, regulators and third-
+party observers as to the accuracy and meaning of the newly reported 
+data in a decimal environment.
+    (4) Block Trading Rules: Institutional trading desks have voiced 
+concerns about the reduction in displayed depth as a result of 
+decimalization, as well as problems with entering limit orders and the 
+breaking up of large orders as they interact with the NYSE auction.
+    SIA understands that a committee formed by the NYSE is addressing 
+these and related issues. We look forward to the recommendations of 
+this committee, as well as to the introduction by the NYSE of new 
+functionality to provide greater information about market depth. We 
+understand that Nasdaq is also addressing the issue of greater 
+displayed depth.
+    The ways in which market centers deal with integrating the 
+institutional and retail markets to insure fairness to all market 
+participants is a critical issue, made more complex by the conversion 
+to decimal trading.
+III. Impact of Decimalization on Market Making
+    Decimalization has resulted in significant reductions in the quoted 
+spreads (and ``effective spreads'') reported by market centers. The 
+reduced spreads have given rise to conjecture as to the impact of 
+decimalization on specialist and market maker profitability, the future 
+viability of payment for order flow, the prospect of Nasdaq market 
+makers introducing commissions on top of ``net trades,'' a possible 
+increase in proprietary trading by market makers, the potential for 
+capital being withdrawn from unprofitable market making activities and 
+other issues of concern to market makers. SIA firms are addressing 
+these issues individually, and when appropriate, in trading and 
+regulatory committees.
+    SIA's conclusion at this stage of decimal trading, is that it is 
+too early to tell how these issues will resolve themselves. The 
+conversion from one-eighth trading to one-sixteenth trading took a 
+number of months to settle down and the introduction of the new order-
+handling rules continues to evolve. It may be many months before we see 
+a clear picture of the impact of decimalization on market making 
+activities.
+IV. Impact of Decimalization on Investors
+    It is clear that the benefits of Decimalization to investors is a 
+complex subject which will be debated for some time. It is clear that 
+the simpler ``language'' of decimals is a benefit. It is clear that the 
+harmonization of decimals across financial products and across 
+international markets is a benefit. SIA believes that removal of the 
+cloud of suspicion surrounding fractions was a constructive step.
+    SIA has always been skeptical about the assertion that 
+Decimalization would produce huge savings for investors as a result of 
+reduced spreads. The arithmetic supporting this assertion is too 
+simplistic to consider the effects of price movement, trade size, 
+liquidity, transaction costs and other factors that govern the 
+economics of trading.
+    SIA has also been skeptical about the issue of global 
+competitiveness. A study conducted by SRI on behalf of SIA indicates 
+that the U.S. equity markets are more than competitive with 
+international equity markets in spite of the use of fractions.
+    SIA firms report complaints from both institutional and retail 
+customers relative to the number of trades and the time required 
+filling an order. Institutional firms report complaints about their 
+inability to see displayed depth and to find liquidity.
+    Conclusions about market liquidity, trading volume, volatility, 
+transaction costs, and the relative economic impacts upon market 
+participants--institutional and retail customers, as well as market 
+markers and specialists--would, in our judgment, be premature until 
+trading behavior settles down over the course of many months. We also 
+suspect that it will be difficult to generalize these conclusions 
+because experience will vary by type of security, type of market 
+center, and type of customer. Further, the experiences of each of these 
+groups will vary as market activity changes over time.
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                  PREPARED STATEMENT OF PETER JENKINS
+
+          Managing Director and Head of Global Equity Trading
+                       Zurich Scudder Investments
+                              May 24, 2001
+
+    Good morning, Chairman Enzi, Senator Dodd and Members of the 
+Subcommittee on Securities and Investment, I thank you for the 
+opportunity to comment on the implementation and future of the 
+decimalized market. My name is Peter Jenkins and I serve as Managing 
+Director and Head of Global Equity Trading at Zurich Scudder 
+Investments.\1\ Zurich Scudder Investments manages nearly $400 billion 
+in individual accounts, institutional portfolios and mutual funds, as 
+well as private equity, private debt and hedge fund assets. Our clients 
+include individuals, institutions, corporations, retirement funds, 
+pension plans and insurance companies. It is important to note that 
+while Zurich Scudder Investments, as well as other mutual funds, are 
+correctly viewed as institutional investors because we frequently 
+execute large sized-orders, we are acting on behalf of the millions of 
+individual investors who put their trust in us to invest their money.
+---------------------------------------------------------------------------
+    \1\ Zurich Scudder Investments is the global investment management 
+business of Zurich Financial Services Group (ZFSG). ZFSG is a global 
+leader in the financial services industry, providing its customers with 
+solutions in the area of financial protection and asset accumulation. 
+The Group concentrates its activities in five business segments: 
+nonlife and life insurance, reinsurance, Farmers Management Services 
+and asset management. Headquartered in Zurich, Switzerland, the Group's 
+worldwide presence builds on strong positions in its three key markets: 
+the United States, the United Kingdom and Switzerland. It has offices 
+in more than 60 countries reaching 35 million customers and employing 
+73,000 people (30,000 of which are in the United States). Based on 
+consolidated figures for 2000, the Group achieved gross premiums of USD 
+50 billion. This amount includes insurance deposits, as well as 
+premiums from the Farmers P&C Group. The net income amounted to USD 
+$2.33 billion.
+---------------------------------------------------------------------------
+    As a trader for the last 21 years, I speak today on behalf of 
+Zurich Scudder Investments, though the views that I express are shared 
+by the Investment Company Institute, as well as many of my colleagues 
+on the buyside. My comments today will illustrate some of the practical 
+frustrations we as institutional traders face daily. I submit that the 
+suggestions I offer will enhance overall market efficiency, which, in 
+turn, will benefits all market participants and U.S. consumers.
+    As a preliminary comment, I would like to point out that I strongly 
+support the move to decimal pricing in the U.S. securities markets and 
+the trading of securities in minimum increments of one penny. The move 
+to smaller trading increments reduces the spread in securities, which 
+in turn will result in benefits to our shareholders. In addition, the 
+implementation of decimalization has enabled the pricing of securities 
+in the United States to conform with securities markets around the 
+world. Most institutional traders, such as myself, are continually 
+adjusting to the new trading environment and we are already seeing the 
+development of competitive products to help us cope with the change.
+    Critics have contended that the problems that market participants 
+are facing since the move to decimalization have arisen solely as a 
+result of that move. I do not believe this to be the case. Instead, I 
+would suggest that many of those problems are the result of the 
+underlying structure of the securities markets on which we trade. 
+Decimalization has simply brought these long-standing issues to the 
+forefront, thereby highlighting the urgency of addressing several 
+unresolved market structure issues. These include the need for the 
+display of a meaningful depth of limit orders by both specialists and 
+market makers; the need for priority rules for orders entered into the 
+securities markets; and the need to address problems arising from the 
+internalization of orders. I have long advocated that with the move to 
+decimals, we need greater transparency and increased electronic access 
+to the floor. Since decimalization, there are many more transactions, 
+yet overall trading volume has not been affected. Furthermore, the 
+depth or amount of shares on the inside market has been reduced.
+    I should note that most of the difficulties that I have faced since 
+decimalization have occurred while trading on the New York Stock 
+Exchange (NYSE). In contrast, we have had few such problems when 
+trading securities on the Nasdaq Stock Market, due largely to the fact 
+that electronic communications networks (ECN's) have offered efficient 
+access and have allowed traders to deal in smaller increments while at 
+the same time retain control over order flow. The NYSE has taken some 
+bold steps to address these emerging market issues, including the 
+implementation of the ``Network NYSE,'' a program that offers a limited 
+degree of transparency and connectivity for both institutional and 
+retail customers. Furthermore, I commend the Exchange for attempting to 
+address some of the unintended consequences of decimalization by 
+introducing two initiatives--Depth Condition and Depth Indicator--to 
+increase transparency and improve the communication of market depth in 
+a decimal trading environment, and by allowing users to view the entire 
+NYSE electronic limit order book.
+    Since the implementation of decimalization on the NYSE, the 
+execution of large orders has actually been hampered by the reduced 
+transparency of orders on the Exchange's limit order book and by 
+increased instances of market participants stepping ahead of orders by 
+increments of as little as one penny. The net effect has been for the 
+institutional trader to lose control of his/her order flow, since no 
+effective tools exist in the NYSE listed market to reach the market 
+efficiently. The ``upstairs'' trader does not have the time to 
+negotiate trades as quotes change rapidly. This lack of control has led 
+the ``upstairs'' trader to expose less to the Market for fear of being 
+``front run'' for a penny (See Attachment A). Examples such as this 
+have created a disincentive for market participants to enter orders of 
+any significant size into the Exchange. As a result, an increasing 
+amount of order flow has left the Exchange and been directed to 
+alternative markets where institutions face less of a risk of having 
+their orders stepped ahead, further fragmenting the listed market.
+    These problems are not due to decimalization. They result from the 
+fact that the NYSE does not provide sufficient protection to the orders 
+that I--and other institutional traders--utilize in trading large 
+amounts of stock. Today, when an electronic order is sent to the 
+exchange via Super Dot (an electronic order routing system that links 
+member firms to specialists' posts on the trading floor,) the order is 
+first exposed to the brokers on the floor who surround the specialists 
+post prior to actually interacting with the Limit Order book. This 
+technique is called ``an attempt at price improvement.'' If an 
+electronic order is small, it may in fact receive price improvement. 
+If, on the other hand, the electronic order is large, the specialist 
+may first allow the crowd to interact with the limit order prior to 
+execution of the trade.
+    These hidden orders in the ``pockets'' of the floor brokers gain 
+standing. When an institution attempts to interact with limit orders on 
+the book, most institutional traders feel this exposure to the crowd is 
+unnecessary. If the ``upstairs'' trader were able to interact with the 
+limit order book without delay, floor brokers might be compelled to 
+make instantaneous decisions and not use limit orders as options. In 
+order to resolve these problems, institutions must have facilities for 
+the automatic execution of large orders on the Exchange and the ability 
+to trade large orders without subjecting those orders to the price 
+improvement mechanisms.
+    These remedies to the problems that institutions are facing were 
+recently included in a letter from the Investment Company Institute 
+(ICI) to the NYSE, which I have attached as part of my official 
+statement (See Attachment B). In this letter, the ICI recommends 
+changes to the NYSE's new system to facilitate the ability of 
+institutional investors to trade large orders on the Exchange 
+(``Institutional Xpress''). Specifically, the ICI recommends that large 
+orders eligible for execution in that system should not be permitted to 
+be represented by specialists to the crowd on the floor of the 
+Exchange. In addition, the orders do not become expressible until it is 
+on the best bid or offer for a time period of 30 seconds. This should 
+be changed, to enhance efficiency, there should be no time limit. 
+Institutional Xpress also requires that an order be at least 25,000 
+shares in size--this number is too high. Furthermore, Institutional 
+Xpress should be able to reach through the offer to get to the 
+available liquidity pool. These are all significant concerns that must 
+be addressed.
+    While the NYSE and the specialists will tell you that they are 
+benefiting investors by providing price improvement, I, along with my 
+colleagues on the buyside (would gladly forego this price improvement, 
+which can be as little as a penny in a decimal environment, to receive 
+protection for our displayed orders. By making this change to the 
+Institutional Xpress system, the NYSE has the opportunity to promote 
+the placement of limit orders on the book by providing protection for, 
+and rewarding the placement of, those orders and attracting order flow. 
+These improvements that I suggest will serve to increase the depth and 
+liquidity of the market. The changes I suggest--both a stronger limit 
+order book and greater transparency--will result in enhanced liquidity 
+for all users of the NYSE. Greater liquidity enables more cost-
+effective execution. It follows that the more transparent the market 
+is, the more 
+informed decisions an investor can make whether he/she is an 
+institutional trader or a retail customer.
+    In closing, I have directly worked with the NYSE and other 
+exchanges for years to voice my opinions--as well as competitors'--on 
+how best to provide institutions the liquidity to perform effectively 
+on behalf of our clients' portfolios. These changes pose no threat to 
+the NYSE, rather, these enhancements offer the ability for institutions 
+and retail participants to transact efficiently and at the best price.
+    I thank you again for this opportunity to testify, and I am pleased 
+to answer any questions. 
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                PREPARED STATEMENT OF ROBERT B. FAGENSON
+
+           Vice Chairman, Van der Moolen Specialists USA, LLC
+        Vice Chairman of The Specialist Association of the NYSE
+                              May 24, 2001
+
+    I am Robert B. Fagenson, Vice Chairman of Van der Moolen 
+Specialists USA, LLC, a New York Stock Exchange (``NYSE'') specialist 
+firm. I appear before you today in my capacity as a specialist.
+    On behalf of the Association, I want to express my thanks for this 
+opportunity to testify before the Subcommittee on the effects that 
+``decimalization''--that is, changing the typical trading increment for 
+securities from sixteenths to pennies--has had on our securities 
+markets.
+    In April 1997, I had the pleasure of testifying before the House 
+Subcommittee on Finance and Hazardous Materials concerning H.R. 1053, 
+``The Common Cents Stock Pricing Act of 1997.'' That bill, which was 
+never passed, would have required the Securities and Exchange 
+Commission (``SEC'') to adopt a rule that would replace trading in 
+fractions with trading in decimals. The bill also would have left it to 
+the SEC to decide the minimum number of cents per share that should 
+characterize bid and offer quotations for stocks and last sale reports 
+for those securities in our markets. The primary purpose of The Common 
+Cents Act and the move to decimal trading was to reduce the ``spread'' 
+between bid and offer prices for securities. The spread was widely 
+regarded as excessive and as a cost visited on public investors that 
+was not subject to the moderating force of competition. Creating more 
+pricing points in each dollar of stock traded (potentially one hundred 
+compared to the sixteen that characterized traditional trading 
+fractions in our markets), according to theory, would enhance price 
+competition among traders and thereby reduce spreads and lower the 
+costs that they represented. In short, fixed minimum fractional spreads 
+were said to punish investors and reward traders. A beneficial side 
+effect of eliminating fractional trading increments was supposed to be 
+elimination of ``payment for order flow,'' a practice whereby a market 
+maker or market pays money--a cent or more per share--to a broker to, 
+in effect, ``buy'' that broker's flow of customer orders.\1\
+---------------------------------------------------------------------------
+    \1\ The SEC considered banning payment for order flow in 1993. 
+Ultimately, however, and wrongly, in our view, the SEC decided to 
+permit it to continue so long as the practice was disclosed to 
+brokerage customers whose orders were being sold. See SEC Release Nos. 
+34-33026 (October 6, 1993) and -34902 (October 27, 1994).
+---------------------------------------------------------------------------
+    Imagining then that the worst that could happen as a result of a 
+change to decimal trading would be a reduction in the trading increment 
+to as little as a penny, we predicted in 1997 the following:
+
+    1. We believed that decimalization and any consequent narrowing of 
+spreads between bid and offer prices would reduce the profitability of 
+payment for order flow and internalization of retail orders in listed 
+stocks. We think that this has occurred, but not to such a degree as to 
+eliminate either payment for order flow or internalization--both of 
+which we regard as bad practices.
+    2. We thought that decimalization would tend to reduce the ability 
+of regional stock exchange specialists that trade NYSE stocks to do so. 
+We also think that this is happening.
+    3. We said that decimalization, especially if the trading increment 
+was reduced to a penny, would incent on- and off-floor market 
+professionals to trade for their own accounts ahead of customers by 
+stepping in front of their orders by a single penny. This, too, has 
+happened. ``Stepping ahead'' has acquired a bad name in today's markets 
+even though it improves the price for the other side of the trade--
+something that those who characterize the practice seem to forget, 
+focusing only on the disappointed would-be buyer or seller and not at 
+all on the ``improved'' other side of the trade. We observe that 
+``stepping ahead'' of (or ``pennying'') customers almost always seems 
+to involve trading by market professionals, including institutional 
+traders, rather than specialists and market makers, at least in the 
+exchange markets. Market professionals acknowledge that they engage in 
+this practice, even though they dislike it, because they believe that 
+their responsibilities force them to do so in a penny-increment trading 
+environment.
+    4. We pointed out that decimalization would reduce transparency in 
+our markets by cluttering bid-offer quotation displays with short-lived 
+bids and offers for small amounts of shares that would flicker in and 
+out of existence too rapidly to permit public customers to take 
+advantage of apparent price improvements. Further, we said that the 
+overall effect would be to make the actual prices of stocks more 
+difficult to determine by increasing the number of trades displayed on 
+the consolidated tape at very small price changes. This prediction also 
+has come true--and to an even greater extent than we anticipated in 
+1997.
+    5. Finally, we predicted that, if spreads were significantly 
+reduced, the sizes displayed to the markets in connection with 
+prevailing bid and offer prices also would be reduced. This, too, has 
+occurred, and to a much greater degree than we foresaw in 1997.
+
+    Collectively, we think that the most severe and adverse of the 
+effects that have been engendered by decimalization have been these:
+
+    1. The significance of the pricing information available to public 
+investors and market professionals--namely, last sale reports and 
+displayed bid and offer quotations--has been blurred. This is because, 
+with one hundred pricing points are available for each dollar of stock 
+traded instead of the sixteen that existed when we traded in fractions, 
+stock prices now change much more rapidly, and because the amount of 
+stock available to be bought or sold at any single pricing point is 
+much smaller than was the case when fewer pricing points were 
+available.
+    2. There has been a loss of predictable and visible liquidity at 
+the prices of displayed bids and offers (in the form of quotes with 
+size). This has happened because interest in buying or selling is 
+spread out among more of the possible pricing points than was the case 
+when there were fewer of them, and because, since only the highest bid 
+and lowest offer in each market is widely disseminated, the degree of 
+liquidity, or the lack of any liquidity, at prices away from the best 
+bid and offer prices is hidden.
+    3. There now is a trend toward trading in increments as small as 
+\1/100\ of a cent or $.0001. So far, this phenomenon has been confined 
+to trading in over-the-counter (``OTC'') stocks, where visible 
+liquidity is now significantly lower than it was in a fractional 
+trading environment. The adverse effects of such trading have been 
+partially obscured by the fact that the NASD's mechanisms for 
+disseminating consolidated last sale and bid and ask information in OTC 
+stocks are not yet capable of showing prices in increments smaller than 
+a penny. Display of actual four-decimal place prices (or even smaller 
+increments), we believe, would sharply amplify these negative effects.
+
+    In our view, the foregoing factors indicate that trading stocks in 
+penny increments may have confused and disadvantaged public investors 
+rather than helped them. Spreads may have been reduced, but investors 
+cannot put those ``saved'' spread increments in their pockets. Instead 
+they find that, in a penny-trading environment, even modestly sized buy 
+and sell orders are sometimes broken into three or four separate parts 
+before they can be filled--and that those parts are filled at different 
+prices. In addition to getting different prices, this usually also 
+involves increased clearing costs for the customer. This did not occur 
+when we traded in fractions. Before the change to decimals, orders of 
+modest size did not move market prices away from the levels that 
+prevailed before those orders were entered in the market. These costs, 
+unlike the supposed savings inherent in ``reduced spreads,'' are 
+readily understood by all.
+    How did we get to where we are from a well-meaning effort to make 
+stock trading more understandable and less expensive for the public? 
+Most investors, we would think, like everyone else, really would rather 
+do away with pennies altogether, 
+rather than be forced to carry and use them--though we all do. No one 
+at all, however, carries mills or tenths of mills in their pockets or 
+can be expected to think rapidly in terms of such units. Can it be said 
+that a price of 10\1/4\ is harder to understand than a price of 
+$10.2639? We think not.
+    The Association believes that adjustments can be and are being made 
+to overcome the problems that have attended the movement from sixteen 
+pricing points for each dollar in fractional trading to one hundred 
+such points in a penny trading environment. For example, investors are 
+learning that the smaller sizes associated with each such pricing point 
+displayed as part of a quotation can be and often are quickly 
+exhausted, forcing prices to the next higher or lower level. As a 
+result, investors are finding that it makes sense to place a limit or 
+``cap'' on the prices they are willing to pay or accept when they buy 
+or sell and to confer discretion on their brokers to work within the 
+cap to fill their orders. This trading process, however, and the 
+diminished liquidity available at any particular pricing point, may 
+well result in average prices for investors above the lowest offer or 
+below the highest bid displayed at the time their orders were entered 
+in the market.
+    Under these circumstances, are investors paying more to buy stock 
+or getting less when they sell stock than was the case before the 
+introduction of decimal trading? We have no data to support a 
+conclusion in this regard. At the same time, because sizes associated 
+with displayed bids and offers seem to us to be so much smaller than 
+they were in a fractional trading environment, it is entirely possible 
+that it has become more expensive, on the whole, for ordinary investors 
+to transact than formerly was the case.
+    Our final concern--reduction of the trading increment below one 
+penny--is our most serious one. Reduction of the trading increment 
+below a penny, in our view, could damage the integrity of the markets' 
+pricing function and undermine public confidence in the fairness of our 
+markets. This could occur because trading in tiny, sub-penny increments 
+will even more completely obscure the true state of the market as it is 
+seen by individual and institutional investors alike, as liquidity at 
+particular price points is buried beneath very small size amounts 
+associated with 
+momentarily higher bids or lower offers. In turn, this effect can be 
+expected to increase investor uncertainty as to the price at which a 
+buy or sell order of any substantial size can be executed and to 
+increase buyers' and sellers' anxiety that their intentions will become 
+known to the market before their orders can be filled. Last, because of 
+the spray of prices resulting from sales in increments smaller than a 
+penny, confidence that any particular price is ``the'' price at the 
+moment will be sapped.
+    Our securities markets are acknowledged by all to be the most 
+powerful engine for the raising of capital ever conceived. Risking the 
+basic pricing and trading mechanisms of that engine and public 
+confidence in them by allowing the uncontrolled splintering of the 
+prices at which stocks trade and in which bids and offers are made is 
+worse than foolish: it is dangerous.
+    For the foregoing reasons, we urge the Subcommittee to consider 
+legislation that would not only empower the SEC, but also require that 
+agency, to determine appropriate trading increments for different 
+categories of stocks (that is, actively or thinly traded, highly 
+capitalized or less robust, and so on) and to adopt an appropriate rule 
+that would compel the markets and broker-dealers to adhere to those 
+increments in the trading of securities. In 1997, we thought that it 
+would not be necessary to ask for government assistance to deal with 
+the consequences of decimalization. Experience with decimals to date, 
+however, has persuaded us that we were wrong and that such assistance 
+is badly needed now. We are unsure whether the SEC has authority today 
+under the Securities Exchange Act of 1934 to adopt particular trading 
+increments. We are confident, however, that, with the help of the 
+securities industry and academicians, the SEC will be able to develop a 
+rational limit on what now is a dangerously uncontrolled process of 
+endlessly splintering the trading increment.
+    I would be pleased to respond to questions.
+
+  RESPONSE TO WRITTEN QUESTIONS OF SENATOR ENZI FROM LAURA S. 
+                             UNGER
+
+Q.1. At the May 24, 2001, Subcommittee hearing I asked you 
+about the status of the Commission's consideration of repealing 
+or significantly revising the Short Sale ``Uptick'' rule. You 
+stated that the Commission would be coming out with a proposal 
+shortly. I note that the Commission's semiannual regulatory 
+agenda, published May 14, 2001, in the Federal Register, states 
+that the Commission expects to publish a notice of proposed 
+rulemaking (NPRM) on the Short Sale Rule by the end of May 
+2001, which is this month. Please clarify for the Subcommittee 
+the Commission's time frame for issuing the NPRM.
+
+A.1. We anticipate that the staff 's recommendations on 
+possible revisions to Rule 10a-1 will be ready for the 
+Commission to consider by late summer.
+
+Q.2. In addition, it is my understanding that several 
+commenters to the October 1999 SEC concept release on revision 
+or repeal of the Short Sale Rule believe that the rule should 
+be repealed in its entirety. Decimalization further reduces the 
+economic justification for retention of the Short Sale Rule. Is 
+the SEC considering a repeal of the Short Sale Rule, or merely 
+a revision to the rule?
+
+A.2. As you note, the Commission in 1999 published a concept 
+release seeking comment on Rule 10a-1. The concept release 
+sought comment on eight concepts related to the regulation of 
+short sales of securities, including eliminating Rule 10a-1. 
+The comments received in response to the concept release were 
+mixed. A few commenters (9 out of a current total of 2,577) 
+advocated repealing the rule altogether, while others favored 
+retaining the rule with modifications. The majority of the 
+comment letters were delivered electronically by individual 
+investors calling for extending short sale regulation to cover 
+nonexchange listed securities, such as Nasdaq Small Cap, OTC 
+Bulletin Board, and Pink Sheet securities. The staff is 
+currently developing a proposal on the Short Sale Rule for the 
+Commission's consideration. It would be premature to comment in 
+detail on what that proposal will be until the Commission has 
+had a chance to consider the staff 's recommendation.
+    The staff does intend, however, to recommend that any 
+proposal address the issue of decimalization. While the staff 
+believes that it may be premature to say that decimalization 
+has further reduced the economic justification for retention of 
+the Short Sale Rule, decimalization raises at least two other 
+distinct questions regarding the operation of Rule 10a-1. The 
+first is the extent to which the reduction in the minimum price 
+increment from \1/16\ (6.25 cents) to a penny makes it more 
+difficult to comply with the rule, due to rapid trade and quote 
+price changes. The second question is, in a decimals 
+environment where price differences between trades can be a 
+penny (or less), how much above the last sale (or bid) should a 
+short sale be executed in order to achieve the goals of the 
+rule. The staff intends to recommend that the Commission 
+inquire in the proposing release regarding the effects of 
+decimal-ization on the Short Sale Rule and will recommend 
+regulatory changes, as necessary.
+    Any short sale proposing release will be designed to 
+attract constructive input from a broad range of market 
+participants, and will encourage commenters to supply data to 
+support their views. We hope that these responses will assist 
+our understanding of both the costs and benefits of the current 
+Short Sale Rule. We will study the comments and any 
+accompanying data to improve the regulation of short selling.
+
+RESPONSE TO WRITTEN QUESTIONS OF SENATOR ENZI FROM CATHERINE R. 
+                             KINNEY
+
+Q.1. At the May 24, 2001, Subcommittee hearing there was some 
+discussion regarding the SEC revising or repealing the short 
+sale uptick rule. The SEC indicated at the hearing that they 
+will be issuing a proposed rule on revising or repealing the 
+Short Sale Rule in the very near future. The consensus seems to 
+be that the Short Sale Rule should be scaled back, if not 
+totally repealed. Do you believe that the rule has any 
+continued economic or policy justifications? If so please 
+identify the market capitalization and trading volume 
+thresholds, as well as other criteria, which you believe are 
+appropriate.
+
+A.1. The New York Stock Exchange does not favor elimination of 
+the Short Sale Rule. We continue to believe that this rule 
+provides important safeguards in protecting the public interest 
+and in maintaining an orderly marketplace. The rule continues 
+to offer appropriate regulatory safeguards for allowing short-
+selling in a rising market, while prohibiting short-selling 
+from being used to accelerate a declining market. The 
+elimination or modification of the rule could have the effect 
+of encouraging short-selling activities in which the price of a 
+security could be manipulated. We also understand that 
+companies that have listed their securities on the Exchange 
+favor the retention of the rule.
+    If the SEC issues a proposed rule to revise or repeal the 
+Short Sale Rule, the Exchange will comment on such a specific 
+proposal at that time.
+
+Q.2. In your testimony, you indicate that price improvement on 
+the New York Stock Exchange has increased, particularly for 
+smaller orders. Please explain how the NYSE measures price 
+improvement.
+
+A.2. When placing a market order, there is an expectation that 
+the order will be filled at the current best bid or offer--for 
+example, the quote. The NYSE measures price improvement by 
+comparing the actual price with that quote. The statistics are 
+further summarized in categories by order size.
+    Published along with the quote is the number of shares 
+available to buy or sell at that price. When calculating price 
+improvement numbers, the NYSE does not include orders that 
+exceed the published size. We do not calculate the statistics 
+for stocks with a per share price above $1,000, or stocks 
+trading in round lots of less than 100 shares, and we exclude 
+odd lots from our calculations.
+    In May 2001, 47 percent of all orders executed on the 
+Exchange received price improvement. The Exchange publishes 
+best execution statistics each month on our website, 
+www.nyse.com.
+
+Q.3. The Investment Company Institute, in a March 1, 2001, 
+letter to Mr. Grasso, Chairman of the New York Stock Exchange, 
+has requested changes to the functioning of Institutional 
+Xpress to ``facilitate the ability of mutual funds and other 
+institutions to trade large orders on the Exchange.'' What are 
+the drawbacks, if any, to implementing the changes requested in 
+the letter, such as the 30-second requirement and the automatic 
+execution of large orders? Would anyone be disadvantaged by 
+these proposed changes?
+
+A.3. We believe that some of the changes requested by the 
+Investment Company Institute would increase volatility by 
+diminishing the ability of all orders to participate in the 
+auction market. It is important to have a mix of institutional 
+and retail order flow in the price discovery process, and to 
+ensure that both institutional and retail orders receive the 
+best price through the same auction process. We need to gain 
+experience with Institutional XPress, and we will be reviewing 
+the suggestions submitted by the ICI and other market 
+participants.
+    We have, however, taken some action in accordance with 
+discussion in the Exchange's initial rule filing for the 
+approval of Institutional XPress. We stated at that time that 
+certain changes were to be considered within 6 months after the 
+initial implementation of the XPress product. On June 11, 2001, 
+the Exchange filed with the SEC a proposed rule change relating 
+to Institutional XPress quotations and orders. The rule filing 
+proposes to reduce the minimum size of an XPress quote from 
+25,000 shares to 15,000 shares; reduce the time period for 
+designation as an XPress quote from 30 seconds to 15 seconds; 
+and reduce the minimum size of an XPress order from 25,000 
+shares to 15,000 shares. This current rule filing, which has 
+not yet been acted upon by the SEC, is in accord with our 
+previously expressed intention.
+
+Q.4. During his testimony before the Subcommittee, Peter 
+Jenkins of Zurich Scudder Investments expressed some concern 
+about trading on the NYSE. He mentioned that the one cent MPV 
+has hampered the ability of institutional investors to obtain 
+executions on the NYSE floor, because market participants can 
+step in front of any order, for as little as one cent price 
+improvement.
+    Mr. Jenkins testified that the problem institutional 
+investors face is due to the lack of control they can exercise 
+over the trades they send to the floor, for example, since 
+trades are exposed to the floor crowd, large institutional 
+orders do not receive ``sufficient protection'' and can be 
+broken up. Please respond to these comments by Mr. Jenkins. In 
+particular, please address whether the NYSE floor 
+specialists are the market participants who are stepping in 
+front of institutional investors' large block trades.
+
+A.4. While there may be a perception that specialists are 
+stepping ahead of customers at a minimally improved price 
+(commonly referred to as ``pennying''), in fact a recent study 
+shows that two-thirds of such ``one-tick-better'' trades are by 
+nonspecialists. The vast majority (about 85 percent) of 
+``pennying'' quotes appear to arise from system limit orders. 
+The facts suggest that, contrary to reports in the press and 
+elsewhere, in the large majority of trades NYSE's floor 
+specialists are NOT stepping in front of institutional 
+investors' large block trades.
+    This study, ``Getting `Pennied': The Effect of 
+Decimalization on Traders' Willingness to Lean On the Limit 
+Order Book at the New York Stock Exchange,'' is attached and 
+can also be found on our website, www.nyse.com.
+    Nevertheless, the NYSE has taken steps to assuage the 
+concerns of institutional investors. The NYSE has recently 
+taken action to address the ability of institutional investors 
+to execute large transactions at a single price. In early June, 
+our Board approved an amendment to our Rule 72(b) to provide 
+that a specialist may not effect a proprietary transaction to 
+provide price improvement to either side of a ``clean cross'' 
+transaction. The proposed amendment will preserve the auction 
+market principle of price improvement since orders sent in from 
+off the trading floor and placed with the specialist or a floor 
+broker may offer price improvement at any minimum variation. 
+This proposed rule change was filed with the SEC on July 2. The 
+NYSE has taken these steps to reassure this important segment 
+of the market of the integrity of our floor-based auction 
+market.
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+ <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+
+</pre></body></html>

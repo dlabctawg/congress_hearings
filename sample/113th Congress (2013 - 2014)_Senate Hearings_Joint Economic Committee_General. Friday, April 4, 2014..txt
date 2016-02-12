@@ -1,0 +1,1109 @@
+<html>
+<title> - THE EMPLOYMENT SITUATION: MARCH 2014</title>
+<body><pre>
+[Senate Hearing 113-335]
+[From the U.S. Government Printing Office]
+
+
+
+
+
+
+                                                        S. Hrg. 113-335
+
+                  THE EMPLOYMENT SITUATION: MARCH 2014
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                        JOINT ECONOMIC COMMITTEE
+                     CONGRESS OF THE UNITED STATES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                             APRIL 4, 2014
+
+                               __________
+
+          Printed for the use of the Joint Economic Committee
+
+
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+
+
+
+
+
+
+
+                         U.S. GOVERNMENT PRINTING OFFICE 
+
+88-243                         WASHINGTON : 2014 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Printing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001
+
+
+
+
+
+
+                        JOINT ECONOMIC COMMITTEE
+
+    [Created pursuant to Sec. 5(a) of Public Law 304, 79th Congress]
+
+HOUSE OF REPRESENTATIVES             SENATE
+Kevin Brady, Texas, Chairman         Amy Klobuchar, Minnesota, Vice 
+John Campbell, California                Chair
+Sean P. Duffy, Wisconsin             Robert P. Casey, Jr., Pennsylvania
+Justin Amash, Michigan               Bernard Sanders, Vermont
+Erik Paulsen, Minnesota              Christopher Murphy, Connecticut
+Richard L. Hanna, New York           Martin Heinrich, New Mexico
+Carolyn B. Maloney, New York         Mark L. Pryor, Arkansas
+Loretta Sanchez, California          Dan Coats, Indiana
+Elijah E. Cummings, Maryland         Mike Lee, Utah
+John Delaney, Maryland               Roger F. Wicker, Mississippi
+                                     Pat Toomey, Pennsylvania
+
+                 Robert P. O'Quinn, Executive Director
+                 Niles Godes, Democratic Staff Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                     Opening Statements of Members
+
+Hon. Hon. Erik Paulsen, Presiding Chairman, a U.S. Representative 
+  from Minnesota.................................................     1
+Hon. Amy Klobuchar, Vice Chair, a U.S. Senator from Minnesota....     3
+
+                               Witnesses
+
+Hon. Erica L. Groshen, Commissioner, Bureau of Labor Statistics, 
+  U.S. Department of Labor, Washington, D.C. Accompanied by: Dr. 
+  Michael Horrigan, Associate Commissioner for Prices and Living 
+  Conditions, Bureau of Labor Statistics, U.S. Department of 
+  Labor, Washington, DC; and Ms. Sandra L. Mason, Assistant 
+  Commissioner for Current Employment Analysis, Bureau of Labor 
+  Statistics, U.S. Department of Labor, Washington, DC...........     5
+
+                       Submissions for the Record
+
+Prepared statement of Hon. Erik Paulsen..........................    18
+Prepared statement of Hon. Erica L. Groshen......................    19
+Chart titled ``49 Months of Private-Sector Job Growth'' submitted 
+  by Vice Chair Klobuchar........................................    21
+Chart titled ``Unemployed Workers per Job Opening'' submitted by 
+  Vice Chair Klobuchar...........................................    22
+Response from Hon. Erica L. Groshen to Question for the Record 
+  posed by Vice Chair Klobuchar..................................    23
+
+ 
+                  THE EMPLOYMENT SITUATION: MARCH 2014
+
+                              ----------                              
+
+
+                         FRIDAY, APRIL 4, 2014
+
+             Congress of the United States,
+                          Joint Economic Committee,
+                                                    Washington, DC.
+    The committee met, pursuant to call, at 9:32 a.m. in Room 
+216 of the Hart Senate Office Building, the Honorable Erik 
+Paulsen, presiding.
+    Representatives present: Paulsen, Hanna, Cummings, Delaney, 
+and Carolyn B. Maloney of New York.
+    Senators present: Klobuchar.
+    Staff present: Ted Boll, Gail Cohen, Connie Foster, Niles 
+Godes, Paige Halen, Colleen Healy, J.D. Mateus, Patrick Miller, 
+Robert O'Quinn, and Andrew Silvia.
+
+ OPENING STATEMENT OF HON. ERIK PAULSEN, PRESIDING CHAIRMAN, A 
+               U.S. REPRESENTATIVE FROM MINNESOTA
+
+    Representative Paulsen. We'll call the Joint Economic 
+Committee to order. Vice Chair Klobuchar is not here yet, but 
+Members and Commissioner Groshen:
+    Chairman Brady went to Dallas this morning to attend the 
+funeral of Ray Hutchinson, the Chairman's friend and also the 
+husband of the former Senator Kay Bailey Hutchinson. In 
+Chairman Brady's absence, he asked me to preside at this 
+hearing this morning. I was hoping we would have a little bit 
+of the Minnesota Mafia starting off the hearing this morning. 
+Senator Klobuchar will be here shortly, though.
+    The recovery that began in June 2009 is now nearly five 
+years old. Yet, a NBC News/Wall Street Journal poll last month 
+found that 57 percent of Americans still think the economy is 
+in a recession. This is likely due to the persistent weakness 
+in our labor market.
+    The fact that nonfarm payrolls increased by 192,000 and the 
+official unemployment rate remained unchanged at 6.7 percent 
+last month is positive news, but it is simply not enough.
+    I agree with Federal Reserve Chair Janet Yellen's recent 
+assessment of our economy. In a speech on Monday at the 2014 
+National Interagency Community Reinvestment Conference, she 
+said, ``[w]hile there has been steady progress, there is also 
+no doubt that the economy and the job market are not back to 
+normal health.''
+    By several measures, the recovery from the most recent 
+recession is far below the average of prior recoveries over the 
+last 50 years. Here at the Joint Economic Committee we often 
+refer to that as the Growth Gap.
+    Since the recession ended in June 2009:
+    Real GDP growth is a cumulative 9 percentage points below 
+the average recovery;
+    Private payroll employment growth is more than 5 percentage 
+points below the average recovery; and
+    The real disposable income of a family of four grew by 
+$13,032 less than it did during an average recovery. Clearly 
+our economy is underperforming, and we should be doing better 
+than five consecutive years of below average.
+    In her speech, Chair Yellen cited a number of statistics 
+indicating that our labor market is weaker than the official 
+unemployment rate would suggest. For example: More than seven 
+million people are working part-time even though they would 
+prefer full-time jobs.
+    The falling unemployment rate has not sparked a significant 
+increase in real wages. Real average weekly earnings for all 
+private, nonfarm employees are up by less than 1 percent since 
+the recession ended.
+    Nearly 36 percent of the unemployed have been unemployed 
+six months or longer. I'll say that again: More than one-third 
+of the unemployed in this country have been unemployed for six 
+months or more.
+    The labor force participation rate has fallen from 66 
+percent in December 2007 to 63.2 percent, and only half of this 
+decline may be attributable to demographic factors.
+    Some may blame the housing bubble, its collapse and the 
+ensuing financial panic for this persistent weakness in our 
+labor market. While the collapse of the housing bubble 
+undoubtedly has some lingering effects, it is not the main 
+factor, let alone the only factor, for this weakness.
+    What is unique about this recovery is the combination of 
+the economic policies that the President has pursued.
+    From 1982 to 2000, federal spending declined as a percent 
+of GDP, and the private sector created more than 37 million 
+jobs. Under President Obama, federal spending reached a post-
+World War II high of 24.4 percent of GDP and remains above its 
+postwar average of 18.9 percent of GDP.
+    Presidents Kennedy and Reagan passed tax cuts that 
+encouraged new business investment. This Committee has shown a 
+strong correlation between new business investment and the 
+creation of new private-sector jobs. In contrast, President 
+Obama increased taxes on successful small businesses, capital 
+gains, and dividends.
+    Presidents Reagan and Clinton took a balanced approach 
+toward environmental, health, and safety regulations. In 
+contrast, the Obama Administration has pursued an aggressive 
+agenda of regulation without carefully weighing costs and 
+benefits.
+    Presidents Reagan, Kennedy, and Clinton opened new markets 
+to American products through international trade agreements. 
+There are several trade opportunities on the horizon that are 
+proven job creators, but the Administration has not yet fully 
+engaged on this issue. There's been bipartisan support for 
+trade in the past, and I am confident that there is bipartisan 
+support in Congress for trade agreements today.
+    Presidents Kennedy, Reagan, and Clinton did not burden a 
+weak economy with costly new entitlement programs. In contrast, 
+President Obama pushed forward the Affordable Care Act through 
+Congress on party-line votes.
+    The President's health care law has increased uncertainty, 
+raised taxes by nearly half a trillion dollars, undermined the 
+medical device industry that is so important to our home State 
+of Minnesota--as Senator Klobuchar knows--and has caused 
+millions of Americans to lose access to some of the doctors and 
+health insurance plans that they liked.
+    The economic policies that America needs now are well 
+known: stable prices, a gradual decline in federal spending as 
+a percent of GDP, tax reform that encourages new business 
+investment, balanced regulation, and trade liberalization.
+    It is the best way to strengthen our economy, create good 
+jobs, and boost the wages of hardworking Americans; and it is 
+time that the Administration work together with both 
+Republicans and Democrats to move our country forward.
+    With that, Commissioner Groshen, I look forward to your 
+testimony, but Senator Klobuchar has arrived so I recognize the 
+Vice Chair for her opening statement.
+    [The prepared statement of Hon. Erik Paulsen appears in the 
+Submissions for the Record on page 18.]
+
+  OPENING STATEMENT OF HON. AMY KLOBUCHAR, VICE CHAIR, A U.S. 
+                     SENATOR FROM MINNESOTA
+
+    Vice Chair Klobuchar. Well thank you very much. Sorry I was 
+a few minutes late. I was in a dentist's chair--can you kind of 
+tell? Well, all right. But how much more fun to be here with 
+all of you.
+    [Laughter.]
+    It is great to be here with Representative Paulsen chairing 
+this hearing, as well as Commissioner Groshen. It's good to see 
+you again. And I would like to welcome Sandy Mason who is the 
+Assistant Commissioner for the Office of Current Employment 
+Analysis.
+    I am pleased we are having this hearing on the monthly 
+employment situation. I think we all know these hearings give 
+us an opportunity to dig deeper into the numbers, March, as we 
+discuss a gain of 192,000 total nonfarm gains with all of these 
+job gains in the private sector--something we like to hear.
+    Recent economic news, as we know, has been encouraging. The 
+economy has grown for 11 straight quarters, and the 2.6 percent 
+GDP growth over the course of 2013 exceeds the gains in 2011 
+and in 2012.
+    Manufacturing, which is the engine of innovation and 
+generates 90 percent of all patents, has rebounded, adding more 
+than 600,000 jobs since February of 2010.
+    Exporting has been another bright spot, with exports 
+growing in each of the past four years, and exceeding the 
+prerecession peak.
+    All of this is good news, and I think we all know that we 
+have a lot of room to go, but we also have accomplished much in 
+terms of the private sector adding jobs.
+    I think back to the first half of 2009 when we shed more 
+jobs in this country. We were losing jobs at a rate of 700,000 
+per month. We shed more jobs in one month than there are people 
+in Vermont.
+    Five years later we are now adding jobs. We have recorded 
+49 straight months, as you can see from that graph, 49 straight 
+months of private-sector job growth. And with this month's gain 
+of 192,000 private-sector jobs, we have now regained all of the 
+8.8 million private-sector jobs that were lost during the 
+recession.
+    So this is the month that we finally have gotten to where 
+we were, and now I hope we are going to expand from there.
+    The number of unemployed workers per job opening has 
+decreased from nearly 7 in July 2009 to 2.6 in January of 2014, 
+approaching the prerecession level of roughly 2 unemployed 
+workers for every job opening.
+    The unemployment rate currently is at 6.7 percent and is 
+down nearly a full percentage point from last March when it was 
+7.5 percent. The unemployment rate is better than average at 
+4.8 percent in the State of Minnesota.
+    For most workers, the job market is better today than it 
+has been in years, but we all know that recovery has not 
+reached everyone, particularly the long-term unemployed, those 
+who have been out of work for more than six months.
+    Nearly 4 million Americans, over one-third of unemployed 
+workers, have been out of work for more than six months. As 
+this Committee has discussed, long periods of joblessness do 
+significant damage to affect workers' future earnings and to 
+our Nation's productivity.
+    I am pleased that the Senate is moving forward on Monday to 
+pass an extension of Unemployment Insurance, and I hope the 
+House will act as well.
+    It would help people like Linda and her husband from Little 
+Falls, Minnesota, who lost their jobs, are both over 55, and 
+who need some support as they continue to look for work.
+    Linda wrote me recently, urging Congress to extend 
+unemployment. She wrote: ``I feel like the people who are still 
+jobless are being forgotten.''
+    We've got to approach this issue from all sides. Obviously 
+there are openings in some parts of the country, and in certain 
+industries, and we need to make sure the workers are trained to 
+do those jobs. That is a major part of this, is the skills' 
+training.
+    The second part of it is to continue to increase our 
+exports. The third part of it is to get more kids to go into 
+math and science and engineering and technology.
+    The next is immigration reform, which I think would be very 
+helpful to the economy, as the numbers have shown, in 
+decreasing the debt by $160 billion in ten years, nearly $700 
+billion in ten years, according to the CBO.
+    One of the things that I'll want to ask you, Commissioner 
+Groshen, is just about the unemployment with Veterans, with 
+young people, where we are as we move forward on that. We have 
+made some improvement, with more to go.
+    Our focus should be on long-term policies that create jobs 
+in the short term, while laying the groundwork for prosperity 
+in the long term. I am very much looking forward to hearing 
+about the numbers today, and to get some analysis from all of 
+you.
+    Thank you very much. Thank you, Chairman Paulsen.
+    Representative Paulsen. Well thank you. Erica Groshen is 
+the 14th Commissioner of the Bureau of Labor Statistics. Prior 
+to joining the BLS, she was Vice President in the Research and 
+Statistics Group at the Federal Reserve Bank of New York. She 
+has also been a Visiting Assistant Professor of Economics at 
+Columbia University, and a Visiting Economist at the Bank for 
+International Settlements in Basil, Switzerland.
+    She earned a Ph.D. in Economics from Harvard University, 
+and a Bachelor's Degree in Economics and Mathematics from the 
+University of Wisconsin-Madison. I was a mathematics major, as 
+well, so welcome back to the Committee and you are recognized 
+for five minutes, Commissioner Groshen.
+
+STATEMENT OF HON. ERICA L. GROSHEN, COMMISSIONER, UNITED STATES 
+   DEPARTMENT OF LABOR, WASHINGTON, DC; ACCOMPANIED BY: DR. 
+MICHAEL HORRIGAN, ASSOCIATE COMMISSIONER FOR PRICES AND LIVING 
+CONDITIONS; AND MS. SANDRA L. MASON, ASSISTANT COMMISSIONER FOR 
+                  CURRENT EMPLOYMENT ANALYSIS
+
+    Commissioner Groshen. Thank you, Mr. Chairman.
+    Mr. Chairman and Members of the Committee, thank you for 
+the opportunity to discuss the employment and unemployment data 
+that we released this morning.
+    Nonfarm payroll employment rose by 192,000 in March, and 
+the unemployment rate was unchanged at 6.7 percent. Employment 
+increased in professional and business services, in health 
+care, and in mining and logging.
+    Incorporating the revisions for January and February which 
+increased total nonfarm employment by 37,000 on net, monthly 
+job gains have averaged 178,000 over the past 3 months. In the 
+past 12 months prior to March, employment growth averaged 
+183,000 per month.
+    All of the net job growth in March occurred in the private 
+sector which has now exceeded its employment level in December 
+2007 when the most recent recession began.
+    So this is a milestone.
+    The private sector lost 8.8 million jobs during the job 
+market downturn, and it has now gained 8.9 million jobs since 
+the employment low in February 2010.
+    However government employment is down since the recession 
+began, and therefore total nonfarm employment remains below its 
+December 2007 peak.
+    In March, employment in professional and business services 
+rose. It rose in line with the prior 12-month average. Within 
+the industry, temporary help services added 29,000 jobs in 
+March.
+    Health care employment rose by 19,000 in March with gains 
+in ambulatory services. In the prior 12 months, job growth in 
+health care had averaged 17,000 per month, with most of the 
+growth occurring in ambulatory care.
+    Employment in mining and logging rose by 7,000 in March, 
+led by gains in support activities for mining.
+    Employment in food services and drinking places continued 
+to trend up in March. This industry has added 323,000 jobs over 
+the year.
+    Employment continued to trend up in construction in March, 
+and is up by 151,000 over the past 12 months.
+    Employment in other major industries--including 
+manufacturing, wholesale trade, and retail trade--changed 
+little in March.
+    Average hourly earnings of all employees on private nonfarm 
+payrolls edged lower by 1 cent in March, after rising by 9 
+cents in February. Over the past 12 months, average hourly 
+earnings have risen by 2.1 percent. In comparison from February 
+2013 to February 2014, the Consumer Price Index rose by 1.1 
+percent.
+    In March, the average workweek for all employees increased 
+to 34.5 hours, offsetting a net decline over the prior 3 
+months.
+    Turning now to our survey of households, the unemployment 
+rate at 6.7 percent was unchanged in March, and the number of 
+unemployed persons remained at 10.5 million.
+    The number of unemployed persons who had been jobless for 
+27 weeks or more was also little changed. These individuals 
+accounted for 35.8 percent of the unemployed.
+    Both the civilian labor force and total employment 
+increased in March. The labor force participation rate and the 
+employment to population ratio though changed little over the 
+month.
+    Among persons who were neither working nor looking for work 
+in March, 2.2 million were classified as marginally attached to 
+the labor force. And this is little changed from a year 
+earlier.
+    The number of discouraged workers who believed that no jobs 
+were available for them edged down over the year to 698,000 in 
+March.
+    In summary, employment rose by 192,000 in March, and the 
+unemployment rate was unchanged at 6.7 percent.
+    My colleagues and I now would be glad to answer your 
+questions.
+    [The prepared statement of Commissioner Erica L. Groshen 
+appears in the Submissions for the Record on page 19.]
+    Representative Paulsen. Thank you, Commissioner.
+    Federal Reserve Chair Janet Yellen earlier this week gave a 
+speech in which she listed signs of weakness in the U.S. labor 
+market that indicate conditions are worse than the unemployment 
+rate suggests.
+    Chair Yellen, among other things, specifically mentioned 
+the meager increases in labor compensation, an average of 
+little more than 2 percent a year since the Recession, and the 
+large number of part-time workers of more than 7 million, as 
+you referenced as well, who want full-time work, many more than 
+one would expect when you have a 6.7 percent unemployment rate.
+    Could you explain why, and give some thoughts about why the 
+unemployment rate does not convey the same extent of weakness 
+as these other labor market indicators might show?
+    Commissioner Groshen. The employment situation contains--
+the release that we released today, contains I think it's over 
+1,000 numbers in them, all of which give you different 
+perspectives on what is going on in the labor market. So no one 
+particular number is going to be able to convey all facets of 
+what is the largest market in the country.
+    So it is really important for educated users like 
+yourselves to look at many different measures, as Janet Yellen 
+has done as well. And some part of the answer to the question 
+lies in not only what the numbers have been doing lately, but 
+also how they are compared to what is normal for the economy 
+for what are pre-Recession levels.
+    So that is all to preface saying that we have had a lot of 
+improvement lately since the Recession was over, but we have 
+not made--we have not fully returned to pre-Recession levels.
+    Representative Paulsen. Yes.
+    Commissioner Groshen. So, for example, the number of people 
+who are part-time for economic reasons, who would like a full-
+time job but who do not have one, or who have had their hours 
+cut, has come down dramatically since the Recession began, but 
+it is still much higher than its pre-Recession levels. And this 
+is a measure of under-utilization of labor in the economy, and 
+those continue to be high.
+    Even the unemployment rate, although it has come down a 
+lot, is still much higher than its pre-Recession levels.
+    Representative Paulsen. Do you have some thoughts on why 
+those indicators might be so weak, those other indicators might 
+appear more weak?
+    Commissioner Groshen. Well, I guess we at the BLS are more 
+about counting the way things are than, you know, measuring the 
+current conditions than on actually dividing this up. But we 
+know that the labor market is large and complex, and so what 
+happens when you have this big decline in aggregate demand is 
+that this under-utilization of labor goes into many different 
+ways. It goes into people working fewer hours. It goes into 
+more people unemployed. It goes--it spreads through all 
+different parts of the labor market, and it takes awhile for 
+all of these different parts of the labor market to return.
+    Representative Paulsen. Maybe you could explain, too, the 
+linkage that exists between private investment and economic 
+growth on the one hand, and then on the other hand labor 
+demand, employment, and the labor force participation rate.
+    Commissioner Groshen. Well, we know we have had a lot of--
+there has been a very--during the Recession we had--the biggest 
+hit in the Recession immediately was a big increase in job 
+destruction.
+    We had a huge number of layoffs of workers. At the same 
+time, we had a slowing in the hiring. We have now returned to 
+normal in our job destruction rates by most measures. What has 
+not returned to normal have been the job creation rates. Job 
+creation rates have not been high enough to absorb all of the 
+slack that has remained in the labor market.
+    Representative Paulsen. Is it fair to say that the slower 
+economic growth we've had is the root cause of the labor market 
+problems? And that the unemployment rate has been declining 
+mostly because more and more people are disengaged from the 
+labor market?
+    Commissioner Groshen. I--so going to the labor force 
+participation, about--the estimates are that about half of the 
+decline in the labor force participation rate is due to 
+demographic factors. So that would not be associated with the 
+slowdown.
+    About half of the remaining part--and this is work being 
+done largely in the Federal Reserve, rather than at the BLS--
+estimates there are that about half of the remaining part is 
+due to changing behavior of various demographic groups. For 
+example, young people enrolling in college more and staying in 
+high school longer; and women no longer increasing their labor 
+force participation rates.
+    The remaining quarter seems to be associated with the 
+downturn in the economy, with the assumption that when the 
+economy--as the economy improves, that part will generally go 
+away. And so we will see at least a slower decline in labor 
+force participation.
+    So not that much of decline in participation by these 
+estimates is due to the slower economy.
+    Representative Paulsen. Thank you, Commissioner.
+    With that, Vice Chair Klobuchar is recognized for five 
+minutes.
+    Vice Chair Klobuchar. Thank you very much. Thank you, and 
+also welcome to you, Dr. Horrigan.
+    As we have talked about, there have been some improvements. 
+I think the last few months, looking at our weekly/monthly 
+reports, were affected somewhat by the cold weather. Did that 
+have a negative impact the last few months, Ms. Groshen, as I 
+look at 10 more inches of snow in Minnesota as we speak this 
+morning?
+    Commissioner Groshen. Yes. We see some--we definitely see 
+some evidence that is consistent with the weather having had an 
+impact on the last few months of the employment reports, 
+particularly in hours.
+    So we have now--in March, we recovered most of the decline 
+in hours that we were seeing. So that is the clearest part.
+    The impact on job creation is a little harder to judge.
+    Vice Chair Klobuchar. I just think it had a very temporary 
+effect over the last few months. The Recession was especially 
+tough on younger workers, we know that, who were faced with 
+very high levels of unemployment, and older workers who faced 
+longer durations of unemployment.
+    What is the unemployment rate for workers who are like 20 
+to 24 years old? And how about the long-term unemployment rate 
+for them?
+    Commissioner Groshen. So the unemployment rate for 20 to 
+24-year-olds declined over the year from 13.3 percent to 12.2 
+percent in March. And of those people in that age range, 31 
+percent were unemployed long term for 27 weeks.
+    Vice Chair Klobuchar. Do you know--and you may not have 
+this right now; you can get it to me later--but what it was 
+pre-Recession, like the year before the Recession? That age 
+group?
+    Commissioner Groshen. Much lower. Let me see if I've got it 
+here.
+    Vice Chair Klobuchar. Okay. That's okay. We'll get it. But 
+you think it was lower.
+    Commissioner Groshen. Yes.
+    [Commissioner Erica L. Groshen's response to Vice Chair 
+Klobuchar's question appears in the Submissions for the Record 
+on page 23.]
+    The unemployment rate was 7.7% in March of 2007, before the 
+recession, and 13 percent of the unemployed had looked for work 
+for 27 weeks or longer.
+    Vice Chair Klobuchar. It's something we clearly have to be 
+focused on. Older workers? What's the unemployment rate for 
+workers 55 and older?
+    Commissioner Groshen. 4.7 percent.
+    Vice Chair Klobuchar. Wow. Okay. And did that improve over 
+the last year, too?
+    Commissioner Groshen. Yes. It was 5.5 percent a year ago.
+    Vice Chair Klobuchar. And do you know how that was in pre-
+Recession?
+    Commissioner Groshen. It was 3.2% in December 2007 when the 
+recession began.
+    Vice Chair Klobuchar. Women now have about a half a million 
+more jobs than when the Recession began, while men still need 
+to add over a million jobs to return to the December 2007 
+level. Is that right?
+    Commissioner Groshen. Yes, it's about a million jobs for 
+men.
+    Vice Chair Klobuchar. So I think they call it the 
+``mansession''?
+    [Laughter.]
+    And I still think we have an issue, and I touched on this, 
+with the long-term unemployed, we have an issue with some of 
+the wages that people make; that even though they have jobs, 
+that they are not able to support their families.
+    And one of the ways we know works here is education. A two-
+year or a four-year college degree makes a big difference. What 
+is the unemployment rate for college graduates right now?
+    Commissioner Groshen. Um, let's see.
+    [Pause.]
+    Let me see if we've got that.
+    [Pause.]
+    Vice Chair Klobuchar. That's okay. You can give it to me 
+later. I'm just trying to see--I used to ask this every month 
+to try to get where we were in relation----
+    Commissioner Groshen. Oh, here we go. Unemployment rates. 
+Got it. For college graduates, 3.7 percent.
+    Vice Chair Klobuchar. Okay. And then do you know what it is 
+for high school, or even for people who didn't complete high 
+school?
+    Commissioner Groshen. 7.5 percent for high school graduates 
+with no college, and 11 percent for those without a high school 
+diploma.
+    Vice Chair Klobuchar. Okay. And have there been any trends 
+on that over the last few years?
+    Commissioner Groshen. All of these have been declining 
+since the Recession was over.
+    Vice Chair Klobuchar. And how about the Veteran 
+unemployment rate? We've had a major focus all across the 
+country, really, on private employers focusing on trying to 
+employ some of our post-Gulf War II Era Veterans and trying to 
+make sure that we are getting people employed that left, 
+especially while the numbers were--when they left, the numbers 
+were high, and then the Recession happened and they had trouble 
+getting employed. Where is it now for Veterans?
+    Commissioner Groshen. Well focusing on the unemployment 
+rate for Gulf War Era II Veterans, that is at 6.9 percent in 
+March.
+    Vice Chair Klobuchar. Oh, yes, that has improved I think.
+    Commissioner Groshen. Yes.
+    Vice Chair Klobuchar. Do you know where it was before?
+    Commissioner Groshen. Oh, yeah. Last month it was 9.2 
+percent, so this is a huge drop--although these numbers can be 
+somewhat volatile.
+    Vice Chair Klobuchar. Yes, they are a smaller group of 
+people. I just was thinking more over the long term it has 
+improved because it was for many years--so it is around the 
+same as our Nation's unemployment rate.
+    Commissioner Groshen. Yes, yes.
+    Vice Chair Klobuchar. That is a big shift, because for a 
+long time it was a number of percentage points above the 
+Nation's unemployment rate.
+    Commissioner Groshen. Yes.
+    Vice Chair Klobuchar. So this is probably some of the best 
+news out of the report. So thank you, very much.
+    I think I am out of time. I had one last question on rural 
+areas. Is there a difference in unemployment numbers between 
+rural and urban?
+    Commissioner Groshen. Yes, there is. And I think I have 
+this--okay. Yes, the unemployment rate for urban areas was 7.5 
+percent; but for rural areas it was 6.7 percent. So lower in 
+the rural areas than urban areas.
+    Vice Chair Klobuchar. That is surprising. Okay, thank you 
+very much. I appreciate it.
+    Commissioner Groshen. You're welcome.
+    Representative Paulsen. Mr. Hanna is recognized for five 
+minutes.
+    Representative Hanna. Thank you. Thank you, very much.
+    There is a purported skill, or education job gap, and it is 
+suggested that it poses a hindrance to employment and may 
+relate to a decline in labor force participation rate, and the 
+employment-to-population ratio.
+    When the economy is growing at a healthy pace and demand 
+for labor is strong, are skill differentials as great a factor 
+in getting a job offer as when there is excessive labor? 
+Perhaps that is a subjective question, but--I mean, it is, but 
+if you have any ideas I'd appreciate it.
+    Commissioner Groshen. Generally speaking, the lower skilled 
+people have bigger increases in their unemployment rate during 
+recessions than higher skilled people. So it's possible that 
+the wages of higher skilled people and employment of higher 
+skilled people are preserved much more than lower skilled 
+people during recessions.
+    Representative Hanna. So using that suggestion, do you 
+believe that we have a long-term structural problem in terms of 
+what Senator Klobuchar referred to in terms of matching those 
+skills up and education? And therefore is it somehow something 
+that is structural in a way that we have to respond to 
+differently than we are? And are many of these people 
+permanently displaced? Do you see some change in that? Does the 
+demand in a growing economy help that, whatever you think.
+    Commissioner Groshen. Sure. So generally speaking the BLS 
+does not have data about the specific skills required for job 
+vacancies that employers are trying to fill. However, we would 
+say that from what we can see there does not appear to be a 
+larger than normal mismatch between the skills employers are 
+seeking and those that job seekers have.
+    One of the reasons why we say this is because we have not 
+seen an increase in wages. And that is what you would--that is 
+what you would expect if you had a big, sudden mismatch in what 
+the employers--between what employers were demanding and the 
+skills that workers had.
+    You would see an increase in wages for those workers who 
+had those skills. So we are not seeing that.
+    Representative Hanna. But other things could be the reason 
+for that, as well. I mean, you are talking about basic supply 
+and demand, but wage growth in general has been relatively 
+stagnant in some areas, even in the decline.
+    Commissioner Groshen. That's right. But if you had some 
+employers who were--you know, a group of employers who really 
+wanted to get workers with a certain skill, you would expect 
+that they would start hiring, they'd start poaching each 
+other's workers. And in response, employers would then raise 
+their wages to be able to retain them.
+    Representative Hanna. Thank you. Perhaps this has been 
+asked, but do you think that the--there has been some 
+conversation about there is a population in our country that 
+has not really been well prepared for retirement. We know that. 
+And even young people going towards--50-year-olds, and 55-and-
+older, are not prepared. We have seen a lot of elderly old 
+people that might otherwise wish to be retired, or not, 
+engaging in the laborforce. And there is also suggestion that 
+there is a displacement because of that for younger people who 
+might enter that same workforce, for those same jobs.
+    Would you talk a little about that, if you actually think 
+that is the case? Or what that maybe will look like on the 
+ground?
+    Commissioner Groshen. The increase in labor force 
+participation amongst older workers seems to be an important--
+well, an important part of that may be that the jobs that they 
+are in are increasingly ones that one can do later in life. So 
+they are less likely to be blue collar jobs where the physical 
+demands become difficult for people at older ages.
+    So this is seen as one of the most--you know, an important 
+factor in an increasing participation rate for the elders.
+    Representative Hanna. Well wouldn't those same jobs be the 
+ones that people entering the workforce would also be likely to 
+take?
+    Commissioner Groshen. Usually the sort of crowding out that 
+people think about is not, you know--internationally has not 
+been seen as that much of a factor in whether or not you have 
+overall wage and employment growth.
+    Usually when you have a growing economy, then you can 
+accommodate all the workers who come in.
+    Representative Hanna. So growth helps everyone.
+    Commissioner Groshen. Growth helps everyone.
+    Representative Hanna. Thank you.
+    Representative Paulsen. Thank you. Mr. Cummings is 
+recognized for five minutes.
+    Representative Cummings. Thank you, very much.
+    Commissioner, while the unemployment rate among African 
+Americans had been declining, last month it increased to 12.4 
+percent. Why did the rate of unemployment for African Americans 
+increase in March? Do you have any idea? Do the numbers tell us 
+anything?
+    Commissioner Groshen. Yeah. It didn't--while it did 
+increase, so our point estimate of it went up, this is based on 
+a small enough sample, unfortunately, that it is not 
+statistically significant. So my best guess is that this is 
+noise around a high level. I mean, clearly the unemployment 
+rate for African Americans is very high. But this particular 
+tick up is probably noise, although it will take another couple 
+of months for us to see if it sticks or goes higher.
+    Representative Cummings. Well when we are looking at the 
+situation with Latinos, we see the unemployment rate has gone 
+down significantly. Is that accurate?
+    Commissioner Groshen. Not in this particular month.
+    Representative Cummings. But overall?
+    Commissioner Groshen. But it has been--the change over the 
+year is a decline of 1.3 percentage points; whereas the decline 
+for Black and African Americans is .08 of a percentage point.
+    Representative Cummings. So today's jobs report shows that 
+in March the unemployment rate for Hispanic workers is 7.9 
+percent? Is that right?
+    Commissioner Groshen. That's right.
+    Representative Cummings. And 5.2 percentage points lower 
+than the peak?
+    Commissioner Groshen. Let's see. For--let's see.
+    Representative Cummings. The peak I think was 16.8.
+    Commissioner Groshen. Well, for Hispanics I have a decline 
+of 4.3 percent since January '09.
+    Representative Cummings. That is significant, is it not?
+    Commissioner Groshen. Yes.
+    Representative Cummings. And do we know why that is? I 
+mean, do the numbers tell us anything?
+    Commissioner Groshen. Well this is consistent with what has 
+been happening with all of--you know, throughout the labor 
+market. And since they had a particularly large increase in 
+unemployment over the course of the Recession, then they would 
+expect them to have a larger decrease when the labor market 
+returns to normal.
+    Representative Cummings. You know, I was at the University 
+of Maryland Law School, which is where I went to school, and 
+they were telling me that law schools throughout the country 
+are having less and less people apply. And they said there were 
+reasons for that, and one being people do not have the money; 
+and two, they do not see the jobs.
+    I always ask this question when you all come in: For 
+somebody watching this right now who does not have a job, what 
+would you tell them? I mean, are there certain areas of the 
+country that are doing well? What areas might one who graduated 
+from high school, or getting ready to enter college, want to go 
+into?
+    Because I think more and more people are concerned that 
+when they get out of college they will not have a job. So based 
+upon the numbers--I know you do not give a lot of advice--but 
+just putting the numbers out there, what would you say to young 
+people who are trying to figure out their way? And who do not 
+want to go back and live with their mother and father after 
+they get out of college?
+    Commissioner Groshen. Well the main advice I would give 
+them is to get a good education; that there is one thing that 
+is under people's control and has a very important role in 
+determining people's unemployment rate, is how much education 
+they have. So that would be the main thing.
+    And then the choice of industry makes a difference. We 
+project that occupations and industries related to health care 
+will add the most new jobs over the next 10 years. So we think 
+health care and social assistance jobs, we project them to add 
+nearly a third of all new jobs, 5 million of the 15.6 million 
+total jobs expected to be added between now and 2022.
+    We also actually project large gains in construction jobs, 
+primarily to reflect recovery from the very severe downturn 
+that we had in construction jobs.
+    Representative Cummings. Are there any particular regions 
+of the country that you would tell them that they might want to 
+travel to?
+    Commissioner Groshen. Well of late the regions that have 
+had most--the most job growth have been in the South and the 
+West. So for instance the average, let's see, the average 
+change in employment in the South, the South has been adding 
+about 49,000 jobs per month from June 2009 to February 2014 and 
+the West has been adding 32,000 jobs per month. So these are 
+the areas where we have seen most of the job growth regionally.
+    Representative Cummings. Thank you, very much.
+    Commissioner Groshen. You're welcome.
+    Representative Paulsen. Mr. Delaney is recognized for five 
+minutes.
+    Representative Delaney. Thank you, Mr. Chairman.
+    And thank you, Commissioner, for being here today to 
+provide what I view as a positive report with a fair amount of 
+evidence that things are getting back on track after a winter 
+slowdown. And there was some very good news in the numbers you 
+reported--not that there is not a lot for us to do, but 
+certainly some good things to build upon.
+    My question is in keeping with my friend and colleague's 
+theme of, of--mine are more kind of direct questions as opposed 
+to advice--is trying to disaggregate some of this data.
+    Do you compile any analysis of how jobs break down between 
+low, middle, and high skilled in terms of their profile? Now 
+those are obviously subjective categorizations, but do you 
+disaggregate any of your data along those lines? And if so, can 
+you observe any trends that are relevant?
+    Commissioner Groshen. Okay, let's see.
+    [Pause.]
+    I am looking for . . .
+    Representative Delaney. Or while you are looking for that, 
+I will add another question which is related, which is: The 
+concern I have is obviously the headline unemployment number, 
+and kind of subsidiary numbers that flow from that, are largely 
+affected by choices people are making about the type of jobs 
+they want to pursue.
+    Do you compile any data about trends in the standard of 
+living of average jobs, which would effectively be an 
+aggregation of the low, middle, and high skilled composite, if 
+you will?
+    Commissioner Groshen. Yes, let me try--yes. So we have--
+let's see.
+    Representative Delaney. If it's easier, you can get me the 
+information after the fact.
+    Commissioner Groshen. Right.
+    Well, so what we have been finding is that the largest 
+over-the-year employment increases have come in professional 
+and business services. And this industry has a relatively high 
+earnings.
+    Representative Delaney. Right. And high skills.
+    Commissioner Groshen. And high skills, right.
+    Representative Delaney. So those are growing.
+    Commissioner Groshen. Yes. But the next highest job gains 
+occurred in the industry which has the lowest average hourly 
+earnings, leisure and hospitality. So we are having growth at 
+both ends of the spectrum.
+    Representative Delaney. So would that lead us to conclude 
+that we continue to see this kind of barbell job creation where 
+we are creating high-skill jobs at a decent rate, reflecting 
+kind of the country's competitiveness position in industries 
+like technology, medical devices, et cetera, et cetera? And 
+that the income driven by those high-skill jobs is actually 
+creating a fair amount of low-skill jobs. But we continue to 
+see a hollowing out, if you will, of the middle-skill jobs? 
+Would the data suggest that is continuing, or decelerating, or 
+accelerating?
+    Commissioner Groshen. I would say it is continuing, 
+certainly by industry. It is a little more mixed by occupation.
+    Representative Delaney. Got it. And a related point, you 
+talked about this ratio, this kind of framing the job 
+destruction rate over the job creation rate.
+    Commissioner Groshen. Yes.
+    Representative Delaney. The impact of technology on the 
+workforce here is obviously fairly profound as it relates to 
+those two statistics, the job creation rate and the job 
+destruction rate. Obviously technology is destroying a lot of 
+jobs, and technology is also creating a lot of jobs.
+    Do you have a view as to what that ratio is based on 
+technology? And is it changing? In other words, is technology 
+creating more jobs relative to the number it is destroying? Or 
+is it going the other way? Do you have a view on that?
+    Commissioner Groshen. Well the simplest question is that by 
+and large it is balanced. Within any net job change that we 
+observe for the economy as a whole, the amount of churn in the 
+U.S., in this dynamic U.S. economy that we have, is very high.
+    So we will, you know, for every job, every net job we 
+create, we probably destroy eight or nine jobs. And we have a 
+huge number of--at the same time, we have a huge number of jobs 
+being created, you know, nine gross jobs for every eight jobs.
+    Representative Delaney. Got it.
+    Commissioner Groshen. So getting back to one of the 
+questions you had, the STEM jobs, if we want to focus on those, 
+have grown much faster than total employment during this time. 
+They grew at 5.1 percent between 2009 and 2013, while total 
+employment grew by just 1.5 percent.
+    So certainly our demand for STEM jobs is much faster than 
+for other jobs.
+    Representative Delaney. We may follow up with some more 
+specific questions on some of that. Thank you.
+    Commissioner Groshen. You're welcome.
+    Representative Paulsen. Thank you, Commissioner, for taking 
+the time to be here with your team and testifying this morning. 
+I know that Senator Klobuchar and I are getting ready to head 
+back to several inches of snow in Minnesota, and we thank 
+everyone for being here this morning. The Committee is 
+adjourned.
+    (Whereupon, at 10:16 a.m., Friday, April 4, 2014, the 
+hearing in the above-entitled matter was adjourned.)
+                       SUBMISSIONS FOR THE RECORD
+
+  Prepared Statement of Hon. Erik Paulsen, Presiding Chairman, Joint 
+                           Economic Committee
+    Vice Chair Klobuchar, Members, and Commissioner Groshen:
+    Chairman Brady went to Dallas this morning to attend the funeral of 
+Ray Hutchinson, the Chairman's friend and the husband of former Senator 
+Kay Bailey Hutchinson. In Chairman Brady's absence, he asked me to 
+preside at this hearing.
+    The recovery that began in June 2009 is now nearly five years old. 
+Yet, a NBC News/Wall Street Journal poll last month found that 57% of 
+Americans still think the economy is in a recession. This is likely due 
+to the persistent weakness in our labor market.
+    The fact that nonfarm payrolls increased by 192,000 and the 
+official unemployment rate remained unchanged at 6.7% last month is 
+positive news, but it's simply not enough. I agree with Federal Reserve 
+Chair Janet Yellen's recent assessment of our economy. In a speech on 
+Monday at the 2014 National Interagency Community Reinvestment 
+Conference, she said, ``[w]hile there has been steady progress, there 
+is also no doubt that the economy and the job market are not back to 
+normal health.''
+    By several measures, the recovery from the most recent recession is 
+far below the average of prior recoveries over the last 50 years. Here 
+at the Joint Economic Committee, we often refer to that as the Growth 
+Gap. Since the recession ended in June 2009,
+
+    <bullet>  Real GDP growth is a cumulative 9 percentage points below 
+the average recovery;
+    <bullet>  Private payroll employment growth is more than 5 
+percentage points below the average recovery; and
+    <bullet>  The real disposable income of a family of four grew by 
+$13,032 less than it did during an average recovery.
+
+    Clearly, our economy is underperforming. We should be doing better 
+than five consecutive years of below average.
+    In her speech, Chair Yellen cited a number of statistics indicating 
+that our labor market is weaker than the official unemployment rate 
+would suggest. For example,
+
+    <bullet>  More than seven million people are working part-time even 
+though they would prefer full-time jobs.
+    <bullet>  The falling unemployment rate has not sparked a 
+significant increase in real wages. Real average weekly earnings for 
+all private, nonfarm employees are up by less than 1% since the 
+recession ended.
+    <bullet>  35.8% of the unemployed have been unemployed six months 
+or longer. I'll say that again. More than one-third of the unemployed 
+in this country have been unemployed for six months or more.
+    <bullet>  The labor force participation rate has fallen from 66.0% 
+in December 2007 to 63.2%. Only half of this decline may be 
+attributable to demographic factors.
+
+    Some blame the housing bubble, its collapse, and the ensuing 
+financial panic for this persistent weakness in our labor market. While 
+the collapse of the housing bubble undoubtedly has some lingering 
+effects, it is not the main factor, let alone the only factor, for this 
+weakness.
+    What is unique about this recovery is the combination of the 
+economic policies that President Obama has pursued:
+
+    <bullet>  From 1982 to 2000, federal spending declined as a percent 
+of GDP, and the private sector created more than 37 million jobs. Under 
+President Obama, federal spending reached a post-World War II high of 
+24.4% of GDP and remains above its postwar average of 18.9% of GDP.
+    <bullet>  Presidents Kennedy and Reagan passed tax cuts that 
+encouraged new business investment. This Committee has shown a strong 
+correlation between new business investment and the creation of new 
+private-sector jobs. In contrast, President Obama increased taxes on 
+successful small businesses, capital gains, and dividends.
+    <bullet>  Presidents Reagan and Clinton took a balanced approach 
+toward environmental, health, and safety regulations. In contrast, the 
+Obama Administration has pursued an aggressive agenda of regulation 
+without carefully weighing costs and benefits.
+    <bullet>  Presidents Kennedy, Reagan, and Clinton opened new 
+markets to American products through international trade agreements. 
+There are several trade opportunities on the horizon that are proven 
+job creators, but the Administration has not fully engaged on this 
+issue. There's been bipartisan support for trade in the past, and I'm 
+confident that there's bipartisan support in Congress for trade 
+agreements today.
+    <bullet>  Presidents Kennedy, Reagan, and Clinton did not burden a 
+weak economy with costly new entitlement programs. In contrast, 
+President Obama pushed the Affordable Care Act through Congress on 
+party-line votes.
+    <bullet>  The President's health care law has increased 
+uncertainty, raised taxes by nearly half a trillion dollars, undermined 
+the medical device industry that is so important to my home state of 
+Minnesota, and caused millions of Americans to lose access to the 
+doctors and health insurance plans they liked.
+    The economic policies America needs now are well known--stable 
+prices, a gradual decline in federal spending as a percent of GDP, tax 
+reform that encourages new business investment, balanced regulation, 
+and trade liberalization.
+    It's the best way to strengthen our economy, create good jobs, and 
+boost the wages of hardworking Americans; and it's time that the 
+Administration work with Republicans and Democrats in Congress to move 
+our country forward.
+    With that, Commissioner Groshen, I look forward to your testimony.
+                               __________
+ Prepared Statement of Erica L. Groshen, Commissioner, Bureau of Labor 
+                               Statistics
+    Mr. Chairman and Members of the Committee:
+    Thank you for the opportunity to discuss the employment and 
+unemployment data we released this morning.
+    Nonfarm payroll employment rose by 192,000 in March, and the 
+unemployment rate was unchanged at 6.7 percent. Employment increased in 
+professional and business services, in health care, and in mining and 
+logging.
+    Incorporating the revisions for January and February, which 
+increased total nonfarm employment by 37,000 on net, monthly job gains 
+have averaged 178,000 over the past 3 months. In the 12 months prior to 
+March, employment growth averaged 183,000 per month.
+    All of the net job growth in March occurred in the private sector, 
+which now has exceeded its employment level in December 2007, when the 
+most recent recession began. The private sector lost 8.8 million jobs 
+during the labor market downturn and has gained 8.9 million since the 
+employment low in February 2010. However, government employment is down 
+since the recession began (-535,000), and therefore total nonfarm 
+employment remains below (-422,000) its December 2007 level.
+    In March, employment in professional and business services rose 
+(+57,000) in line with the prior 12-month average. Within the industry, 
+temporary help services added 29,000 jobs in March. Employment growth 
+in temporary help services had averaged 20,000 per month in the prior 
+12 months.
+    Health care employment rose by 19,000 in March, with gains in 
+ambulatory health care services (which includes home health care and 
+outpatient care centers). In the prior 12 months, job growth in health 
+care had averaged 17,000 per month, with most of the growth occurring 
+in ambulatory care. In March, nursing care facilities lost 5,000 jobs.
+    Employment in mining and logging rose by 7,000 in March, led by 
+gains in support activities for mining (+5,000). Mining and logging has 
+added 38,000 jobs over the year.
+    Employment in food services and drinking places continued to trend 
+up in March (+30,000). This industry has added 323,000 jobs over the 
+year.
+    Employment continued to trend up in construction in March (+19,000) 
+and is up by 151,000 over the past 12 months.
+    Employment in other major industries, including manufacturing, 
+wholesale trade, and retail trade, changed little in March.
+    Average hourly earnings of all employees on private nonfarm 
+payrolls edged lower by 1 cent in March, after rising by 9 cents in 
+February. Over the past 12 months, average hourly earnings have risen 
+by 2.1 percent. From February 2013 to February 2014, the Consumer Price 
+Index for All Urban Consumers (CPI-U) rose by 11.1 percent.
+    In March, the average workweek for all employees on private nonfarm 
+payrolls increased to 34.5 hours, offsetting a net decline over the 
+prior 3 months.
+    Turning now to our survey of households, the unemployment rate, at 
+6.7 percent, was unchanged in March, and the number of unemployed 
+persons remained at 10.5 million. The number of unemployed persons who 
+had been jobless for 27 weeks or more was little changed (3.7 million). 
+These individuals accounted for 35.8 percent of the unemployed.
+    Both the civilian labor force and total employment increased in 
+March. The labor force participation rate (63.2 percent) and the 
+employment-population ratio (58.9 percent) changed little over the 
+month.
+    Among persons who were neither working nor looking for work in 
+March, 2.2 million were classified as marginally attached to the labor 
+force, little changed from a year earlier. (These individuals had not 
+looked for work in the 4 weeks prior to the survey but wanted a job, 
+were available for work, and had looked for a job within the last 12 
+months.) The number of discouraged workers, a subset of the marginally 
+attached who believed that no jobs were available for them, edged down 
+over the year to 698,000 in March.
+    In summary, employment rose by 192,000 in March, and the 
+unemployment rate was unchanged at 6.7 percent.
+    My colleagues and I now would be glad to answer your questions.
+
+
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+
+                                  [all]
+
+</pre></body></html>

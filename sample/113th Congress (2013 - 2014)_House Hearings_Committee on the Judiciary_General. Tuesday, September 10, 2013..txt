@@ -1,0 +1,3093 @@
+<html>
+<title> - SATELLITE TELEVISION LAWS IN TITLE 17</title>
+<body><pre>
+[House Hearing, 113 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+                 SATELLITE TELEVISION LAWS IN TITLE 17
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                            SUBCOMMITTEE ON
+
+                     COURTS, INTELLECTUAL PROPERTY,
+
+                            AND THE INTERNET
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           SEPTEMBER 10, 2013
+
+                               __________
+
+                           Serial No. 113-48
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+
+      Available via the World Wide Web: http://judiciary.house.gov
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+82-690                    WASHINGTON : 2014
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+                       COMMITTEE ON THE JUDICIARY
+
+                   BOB GOODLATTE, Virginia, Chairman
+F. JAMES SENSENBRENNER, Jr.,         JOHN CONYERS, Jr., Michigan
+    Wisconsin                        JERROLD NADLER, New York
+HOWARD COBLE, North Carolina         ROBERT C. ``BOBBY'' SCOTT, 
+LAMAR SMITH, Texas                       Virginia
+STEVE CHABOT, Ohio                   MELVIN L. WATT, North Carolina
+SPENCER BACHUS, Alabama              ZOE LOFGREN, California
+DARRELL E. ISSA, California          SHEILA JACKSON LEE, Texas
+J. RANDY FORBES, Virginia            STEVE COHEN, Tennessee
+STEVE KING, Iowa                     HENRY C. ``HANK'' JOHNSON, Jr.,
+TRENT FRANKS, Arizona                  Georgia
+LOUIE GOHMERT, Texas                 PEDRO R. PIERLUISI, Puerto Rico
+JIM JORDAN, Ohio                     JUDY CHU, California
+TED POE, Texas                       TED DEUTCH, Florida
+JASON CHAFFETZ, Utah                 LUIS V. GUTIERREZ, Illinois
+TOM MARINO, Pennsylvania             KAREN BASS, California
+TREY GOWDY, South Carolina           CEDRIC RICHMOND, Louisiana
+MARK AMODEI, Nevada                  SUZAN DelBENE, Washington
+RAUL LABRADOR, Idaho                 JOE GARCIA, Florida
+BLAKE FARENTHOLD, Texas              HAKEEM JEFFRIES, New York
+GEORGE HOLDING, North Carolina
+DOUG COLLINS, Georgia
+RON DeSANTIS, Florida
+JASON T. SMITH, Missouri
+
+           Shelley Husband, Chief of Staff & General Counsel
+        Perry Apelbaum, Minority Staff Director & Chief Counsel
+                                 ------                                
+
+    Subcommittee on Courts, Intellectual Property, and the Internet
+
+                 HOWARD COBLE, North Carolina, Chairman
+
+                TOM MARINO, Pennsylvania, Vice-Chairman
+
+F. JAMES SENSENBRENNER, Jr.,         MELVIN L. WATT, North Carolina
+Wisconsin                            JOHN CONYERS, Jr., Michigan
+LAMAR SMITH, Texas                   HENRY C. ``HANK'' JOHNSON, Jr.,
+STEVE CHABOT, Ohio                     Georgia
+DARRELL E. ISSA, California          JUDY CHU, California
+TED POE, Texas                       TED DEUTCH, Florida
+JASON CHAFFETZ, Utah                 KAREN BASS, California
+MARK AMODEI, Nevada                  CEDRIC RICHMOND, Louisiana
+BLAKE FARENTHOLD, Texas              SUZAN DelBENE, Washington
+GEORGE HOLDING, North Carolina       HAKEEM JEFFRIES, New York
+DOUG COLLINS, Georgia                JERROLD NADLER, New York
+RON DeSANTIS, Florida                ZOE LOFGREN, California
+JASON T. SMITH, Missouri             SHEILA JACKSON LEE, Texas
+
+                       Joe Keeley, Chief Counsel
+
+                   Stephanie Moore, Minority Counsel
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                           SEPTEMBER 10, 2013
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Howard Coble, a Representative in Congress from the 
+  State of North Carolina, and Chairman, Subcommittee on Courts, 
+  Intellectual Property, and the Internet........................     1
+The Honorable Melvin L. Watt, a Representative in Congress from 
+  the State of North Carolina, and Ranking Member, Subcommittee 
+  on Courts, Intellectual Property, and the Internet.............     2
+The Honorable Bob Goodlatte, a Representative in Congress from 
+  the State of Virginia, and Chairman, Committee on the Judiciary     3
+The Honorable John Conyers, Jr., a Representative in Congress 
+  from the State of Michigan, Ranking Member, Committee on the 
+  Judiciary, and Member, Subcommittee on Courts, Intellectual 
+  Property, and the Internet.....................................     4
+
+                               WITNESSES
+
+Paul Donato, Executive Vice President and Chief Research Officer, 
+  The Nielsen Company
+  Oral Testimony.................................................     6
+  Prepared Statement.............................................     8
+R. Stanton Dodge, Executive Vice President, General Counsel and 
+  Secretary, DISH Network, L.L.C.
+  Oral Testimony.................................................    10
+  Prepared Statement.............................................    12
+Gerard J. Waldron, Partner, Covington and Burling LLP, on behalf 
+  of the National Association of Broadcasters
+  Oral Testimony.................................................    25
+  Prepared Statement.............................................    27
+Earle A. MacKenzie, Executive Vice President and Chief Operating 
+  Officer, Shentel Cable, on behalf of the American Cable 
+  Association
+  Oral Testimony.................................................    43
+  Prepared Statement.............................................    45
+James Campbell, Regional Vice President, Public Policy, 
+  CenturyLink, Inc.
+  Oral Testimony.................................................    56
+  Prepared Statement.............................................    58
+Robert Alan Garrett, Partner, Arnold & Porter LLP, on behalf of 
+  Major League Baseball
+  Oral Testimony.................................................    67
+  Prepared Statement.............................................    68
+Preston Padden, former President, ABC Television Network, former 
+  Executive Vice President, The Walt Disney Company, testifying 
+  on his own behalf
+  Oral Testimony.................................................    70
+  Prepared Statement.............................................    72
+
+          LETTERS, STATEMENTS, ETC., SUBMITTED FOR THE HEARING
+
+Material submitted by the Honorable Melvin L. Watt, a 
+  Representative in Congress from the State of North Carolina, 
+  and Ranking Member, Subcommittee on Courts, Intellectual 
+  Property, and the Internet.....................................   109
+
+
+                 SATELLITE TELEVISION LAWS IN TITLE 17
+
+                              ----------                              
+
+
+                      TUESDAY, SEPTEMBER 10, 2013
+
+                        House of Representatives
+
+            Subcommittee on Courts, Intellectual Property, 
+                            and the Internet
+
+                       Committee on the Judiciary
+
+                            Washington, DC.
+
+    The Subcommittee met, pursuant to call, at 10:04 a.m., in 
+room 2141, Rayburn Office Building, the Honorable Howard Coble 
+(Chairman of the Subcommittee) presiding.
+    Present: Representatives Coble, Goodlatte, Marino, 
+Sensenbrenner, Smith (Texas), Chabot, Farenthold, Holding, 
+Collins, DeSantis, Smith (Missouri), Watt, Conyers, Chu, 
+Deutch, Bass, Richmond, DelBene, Jeffries, and Jackson Lee.
+    Staff present: (Majority) Joe Keeley, Chief Counsel; Olivia 
+Lee, Clerk; and (Minority) Stephanie Moore, Minority Counsel.
+    Mr. Coble. Good morning, ladies and gentlemen. I appreciate 
+the witnesses' presence today. We welcome you to the 
+Subcommittee hearing on satellite television laws contained in 
+Title 17 of the U.S. Code.
+    Not unlike other copyright issues before Congress, the 
+circumstances surrounding disputes over our satellite 
+television laws are exceedingly complicated and important to 
+every congressional district.
+    When it comes to video, I believe there are some points on 
+which we can all agree. Americans love to watch television and 
+want to have as many choices available at the lowest possible 
+price.
+    This Committee has created three compulsory licenses to 
+make content more available. While in some instances these 
+licenses have served consumers and stakeholders efficiently and 
+effectively, I believe it is safe to say that compulsory 
+licenses are not without their shortcomings. The classic 
+example is when a local sports competition or a popular show is 
+suddenly unavailable. You go home looking forward to seeing 
+that particular show involved and you are unable to get it. You 
+are likely to turn off the television and call someone to 
+complain. I think that is a natural result.
+    Regardless of what perspective a Member of Congress has on 
+licensing issues, we can all learn one truth. Our constituents 
+are not shy about telling us to do something about problems in 
+the marketplace that deprive them of their favorite shows.
+    As we begin this review of the satellite licenses, one of 
+our goals will be to find solutions to situations where the 
+laws tend to benefit one party over the other. Throughout this 
+discussion, our top priority will be to protect the interests 
+of consumers. When there is a dispute and a resultant blackout, 
+consumers are left with no recourse.
+    Again, this is an extremely complex area of copyright law, 
+and I am pleased by our highly talented and highly qualified 
+panel of witnesses who are participating in today's hearing.
+    I am now pleased to recognize the distinguished gentleman 
+from North Carolina, the Ranking Member, Congressman Mel Watt, 
+for his opening statement.
+    Mr. Watt. Thank you, Mr. Chairman.
+    Today is the first of what I suspect will be a series of 
+hearings to consider the reauthorization of the Satellite 
+Television Extension and Localism Act, or what we call STELA, 
+which, among other things, extended the 119 license through 
+December 31, 2014.
+    Enacted in 1988, the Satellite Home Viewer Act created a 
+copyright compulsory license for the benefit of the satellite 
+industry to retransmit distant television signals to its 
+subscribers. The license, codified in section 119 of the 
+Copyright Act, was originally intended to ensure the 
+availability of broadcast programming to satellite providers 
+and to foster competition with the cable industry, which has 
+enjoyed a permanent compulsory license to retransmit 
+copyrighted content contained in both local and distant 
+broadcast television signals since passage of the Copyright Act 
+of 1976.
+    The intent of providing compulsory copyright licenses was 
+to facilitate investment in new, creative works by the 
+satellite and cable industries by eliminating direct 
+negotiation with the copyright owners for the use of distant 
+signal programming.
+    Although the 119 compulsory license is temporary and 
+therefore the focus of the reauthorization we will be 
+considering, it is part of a complex statutory and regulatory 
+framework governing cable and satellite retransmission of 
+broadcast signals, making it virtually impossible to consider 
+whether to reauthorize the provision in a vacuum.
+    For that reason, the Committee on Energy and Commerce, 
+which has jurisdiction over key regulations and statutory 
+provisions that govern the broadcast market, has held multiple 
+hearings in this Congress on whether to repeal, revise, or 
+reauthorize STELA.
+    Four years ago, under the leadership of Chairman Conyers, 
+the Judiciary Committee also grappled with a number of issues 
+that had emerged in the marketplace in an effort to simplify 
+and modernize what was largely perceived as an anachronistic 
+regime for the provision of broadcast programming. Most 
+immediately we addressed the impending transition from analog 
+to digital television. Other issues the Committee considered at 
+that time remain unresolved while new technologies have further 
+disrupted the market with innovations that we could not foresee 
+less than a decade ago.
+    I believe we have a unique opportunity to tackle some of 
+the big issues that will define the future of video. Compulsory 
+licenses I think everyone will admit represent a departure from 
+free market negotiations and are usually the last resort in the 
+event of market failure. When the compulsory licenses were 
+first enacted, the cable and satellite industries were in their 
+embryonic stages. Today, however, it is estimated that over 90 
+percent of American households subscribe to a pay TV service. 
+So there are a myriad of issues that may be relevant for 
+consideration.
+    For example, are these licenses still necessary to foster 
+competition or should they be phased out as the Copyright 
+Office and others have recommended? How many consumers truly 
+benefit from these licenses?
+    On the other hand, is the current overlapping web of 
+communications and copyright policy functioning in a way that 
+meets the goals of national media policy? It cannot be denied 
+or disregarded that marketplace incumbents, including 
+broadcasters, cable, and satellite providers and content 
+creators, have entrenched interests and investments in a 
+complex framework created by law. Would an abrupt dismantling 
+of this structure be unfair to those industries and harmful to 
+consumers? Can current law keep pace with new technologies that 
+seek to exploit ambiguities in the legal framework, for 
+example, what constitutes a public performance for 
+retransmission consent purposes?
+    Recently the CBS/Time Warner Cable retransmission consent 
+dispute resulted in a temporary blackout for some consumers. Is 
+that dispute evidence of a broken system or does it reflect a 
+robust free market?
+    Also, how should we address or should we address the 
+nascent online video distribution models that in the future may 
+very well displace the traditional distribution methods 
+altogether? Are these Internet-based video distribution models 
+the new kids on the block entitled to comparable statutory 
+imposed rights, obligations, and prohibitions? Or is the time 
+for Government intervention over?
+    These are only a few of the broad policy questions that I 
+think are relevant in this space. I believe that we must 
+determine whether the current regime is working to ensure that 
+content providers and distributors, old and new, are 
+appropriately compensated and incentivized in a way that 
+provides a competitive environment for American consumers.
+    We have an impressive and diverse group of expert witnesses 
+today with very different views on how the marketplace works 
+and how it has developed since STELA and most probably what the 
+rules of the road should be moving forward. I look forward to 
+the testimony today and to continuing this dialogue in the 
+future.
+    And, Mr. Chairman, I yield back and thank you for the time.
+    Mr. Coble. I thank the gentleman for his opening statement.
+    The Chair now recognizes the distinguished gentleman from 
+Virginia, Mr. Bob Goodlatte, the Chairman of the Committee on 
+the Judiciary, for his opening statement.
+    Mr. Goodlatte. Well, thank you, Mr. Chairman. I appreciate 
+your holding this hearing. I look forward to the testimony of 
+the witnesses.
+    For decades, the vast majority of Americans have relied 
+upon satellite and cable services for access to a wide variety 
+of video content ranging from nighttime entertainment for their 
+families, educational shows for their children, local and 
+national news with information that informs them, and public 
+access channels that empower Americans to see their local, 
+State, and Federal representatives in action.
+    As the number of channels and sources of video content 
+continue to increase, a growing number of Americans now 
+subscribe to additional services such as Redbox, Amazon, and 
+Hulu, some of which create their own content. Americans are 
+embracing these additional services to such a degree that 
+society has coined two new terms, ``cord shavers'' and ``cord 
+cutters,'' for those who are reducing or eliminating 
+traditional video subscriptions. According to the FCC's latest 
+competition report, in addition to free over-the-air broadcast 
+content, 100 percent of Americans have access to two satellite 
+services. 98 percent have access to these two satellite 
+services and one local alternative, and 35 percent have access 
+to two satellite services and two local alternatives.
+    Marketplace competition has grown significantly since the 
+last major Committee activity in this area in 2010 when 
+Congress enacted the Satellite Television Extension and 
+Localism Act. There are three compulsory licenses in Title 17 
+impacting this industry, one of which expires at the end of 
+2014. This Committee will consider, over the next year, whether 
+a reauthorization of this compulsory license is warranted.
+    However, as the written testimony submitted for this 
+hearing demonstrates, some interested parties are advocating 
+for Congress to undertake more than a simple reauthorization 
+and look at other matters surrounding the video marketplace and 
+competition policies that appear to have become more prominent 
+recently.
+    One core factor that this Committee will weigh, as we 
+consider these important issues, is ensuring that copyright 
+owners maintain the right to distribute their intellectual 
+property as they choose. This Committee has traditionally 
+disfavored compulsory licenses, although there are three in 
+effect today in this marketplace.
+    Another core factor we will weigh is ensuring competition 
+in the marketplace. Consumers and intermediaries benefit where 
+there is robust competition. As the Committee of jurisdiction 
+for competition policy, efforts that involve competition issues 
+deserve this Committee's oversight and ongoing attention.
+    The written testimony of the witnesses here this morning 
+highlights the importance of both issues to the video 
+marketplace. As this Committee continues its oversight and 
+legislative activities in this area, I look forward to hearing 
+from all interested parties about their perspectives and 
+concerns.
+    And I thank the Chairman and yield back.
+    Mr. Coble. I thank you, Chairman Goodlatte.
+    The Chair now recognizes the distinguished gentleman from 
+Michigan, Mr. John Conyers, the Ranking Member of the Committee 
+on the Judiciary, for his opening statement.
+    Mr. Conyers. Thank you, Chairman.
+    The Satellite Television Extension and Localism Act is full 
+of options that we have witnesses to distinguish.
+    I want to thank the Chairman for keeping the witness list 
+down to seven. I understand we ran out of tables and we were 
+not able to put on any more people than are here.
+    I want to consider these options, and I look forward to the 
+witnesses' testimony.
+    Two considerations, one about copyright owners and the 
+other about consumers. We must protect copyright owners because 
+it is their property that forms the basis of the entire scheme. 
+Compulsory licenses are generally not favored because they 
+distort the marketplace and result in below-market rates being 
+paid to content owners.
+    Second, we must enact policies that protect consumers and 
+safeguard competition. Consumers benefit from increased 
+competition because more competition usually produces lower 
+prices. And copyright owners do not benefit financially from 
+retransmission consent agreements, which is at the heart of 
+these disputes, despite the fact that the signal only has worth 
+because of the programming contained on the signal.
+    And so I think we must focus on principles of localism. 
+People who subscribe to cable or satellite television have so 
+many options. There is never a shortage of something to watch. 
+But even with all these choices, people still highly value 
+their local news, their local sports, and need local channels 
+to deliver community service and emergency information. 
+Localism and the traditional network affiliate relationship 
+also benefits copyright owners by allowing their programming to 
+be publicly performed in every market across the country.
+    Now, I conclude by observing that there will be 
+circumstances in which these principles will conflict. I look 
+forward to working to ensure that the public interest can best 
+be served through satellite carriage of broadcast television 
+signals.
+    And I thank the Chairman for allowing me to make these few 
+brief remarks.
+    Mr. Coble. Thank you, Mr. Conyers. I appreciate that.
+    As indicated before, we have a very distinguished panel 
+before us today, and I will begin by swearing in the witnesses. 
+Gentlemen, if you would please rise.
+    [Witnesses sworn.]
+    Mr. Coble. Let the record show that all witnesses concur 
+with that.
+    And I will now introduce our panel. We appreciate 
+everyone's attendance at this very important hearing.
+    Our first witness today is Mr. Paul Donato, Executive Vice 
+President and Chief Research Officer of the Nielsen Company. 
+Mr. Donato is responsible for overseeing the development and 
+evaluation of research while also serving as Nielsen's liaison 
+to his clients and industry associations. He received his B.A. 
+in psychology and sociology from the State University of New 
+York at Stony Brook.
+    Our second witness is Mr. Stanton Dodge, Executive Vice 
+President, General Counsel, and Secretary for DISH Network. Mr. 
+Dodge is responsible for all legal and government affairs for 
+DISH-added subsidiaries. He received his B.S. in accounting 
+from the University of Vermont.
+    Our third witness is Mr. Gerard Waldron, partner at 
+Covington and Burling, testifying today on behalf of the 
+National Association of Broadcasters. With more than 25 years 
+experience in law and public policy, his practice focuses on 
+communication and technology. Mr. Waldron received his B.A. 
+degree from the University of Virginia.
+    Chairman Goodlatte has now asked permission to introduce 
+our next witness.
+    Mr. Goodlatte. Thank you, Mr. Chairman. It is my pleasure 
+to welcome our fourth witness and my constituent, Mr. Earle 
+MacKenzie, the Executive Vice President and Chief Operating 
+Officer of Shentel Cable, testifying on behalf of the American 
+Cable Association. With 35 years of telecom experience, Mr. 
+MacKenzie is responsible for Shentel's daily operations of its 
+many subsidiaries. He received his B.A. in accounting from the 
+College of William and Mary. Earle, welcome. We are delighted 
+to have your testimony today as well.
+    Mr. Coble. I thank the Chairman.
+    Our next witness is our fifth witness today, Mr. James 
+Campbell, Vice President for Public Policy at CenturyLink. Mr. 
+Campbell is responsible for the company's regulatory and 
+legislative affairs and received his bachelor's degree from 
+Santa Clara University.
+    Our sixth witness is Mr. Robert Garrett, partner at Arnold 
+& Porter, who is testifying today on behalf of Major League 
+Baseball. Mr. Garrett joined Arnold & Porter in 1977 and has 
+served as outside counsel to Major League Baseball on copyright 
+and telecom issues for more than 35 years. Mr. Garrett attended 
+the Northwestern University.
+    Our seventh and final witness is Mr. Preston Padden, who is 
+testifying on his own behalf today. With an extensive career in 
+the media business, he served as former President of the ABC 
+Television Network and former Executive Vice President of the 
+Walt Disney Company. He received his B.A. from the University 
+of Maryland.
+    We welcome you all and we will start, Mr. Donato, with you. 
+You will be the lead-off hitter today.
+    Gentlemen, as is obvious to all, we have seven witnesses. 
+This could take a long time. We try to apply the 5-minute rule. 
+There is a timer before you. When that green light turns to 
+amber, that is your signal that the time is running. The clock 
+is running out. You have a minute to go. So at that point, we 
+would appreciate if you would sort of wrap it up.
+    We are trying to apply the 5-minute rule to us as well. So 
+if you will respond tersely to our questions, that would be 
+helpful as well.
+    So, Mr. Donato, why don't you start us off?
+
+ TESTIMONY OF PAUL DONATO, EXECUTIVE VICE PRESIDENT AND CHIEF 
+             RESEARCH OFFICER, THE NIELSEN COMPANY
+
+    Mr. Donato. Good morning, Chairman Coble, Ranking Member 
+Watt, and Members of the Subcommittee. My name is Paul Donato 
+and I am the Executive Vice President and Chief Research 
+Officer for Nielsen. I thank you for the opportunity to join 
+today's panel to discuss Nielsen's designated market area, 
+commonly known as DMAs, and their role in satellite 
+transmission statutes such as STELA.
+    Nielsen is a global media and marketing research company 
+that measures what people watch and buy in 100 countries 
+worldwide. In the United States, we are widely known for our 
+television audience measurement service, the Nielsen television 
+ratings, which provide estimates of audiences for broadcast, 
+cable, and satellite programs.
+    Over the years, Nielsen has developed innovative 
+technologies, allowing us to expand our measurement services to 
+include computers, tablets, and smart phones. Through these 
+technologies and our volunteer opt-in panelists, Nielsen has 
+the capability to measure consumer Internet purchase habits, 
+listening trends on terrestrial, Internet, and satellite radio, 
+and how consumers utilize social media. Our audience 
+measurement reports are relied on by a range of public and 
+private sector stakeholders to facilitate business transactions 
+and gauge consumer trends. Nielsen's DMAs are also used by the 
+Federal Government to define markets in satellite television 
+retransmission statutes.
+    Most discussions of STELA and its predecessors begin with a 
+conversation about Nielsen's DMAs, and that will be the focus 
+of my testimony today.
+    The designated market area is a collection of counties 
+which share a predominance of viewing to broadcast stations 
+licensed to operate within a given standard metropolitan 
+statistical area as defined by the OMB. Predominance or 
+dominance of viewing is defined here to indicate that ``for a 
+particular county, homes may view broadcast stations licensed 
+to operate from different but generally nearby metro areas. The 
+DMA with the predominant viewing is that metro area whose 
+broadcast stations have the highest share of audience for that 
+county.''
+    So we start with a metro area, such as New York or Los 
+Angeles, and continue on through the 210 DMA markets in the 
+United States.
+    Each March, using tuning data collected from Nielsen homes 
+over the last year, existing DMA regions are tested in order to 
+verify that the dominant share of viewing from each DMA county 
+continues to be from broadcast stations licensed to operate 
+from within that same home metro. All assignments are based on 
+share of household tuning between 6 a.m. and 2 a.m. Sunday 
+through Saturday. While this is the basic premise behind the 
+DMA, there are rules which Nielsen exercises when it appears 
+that the predominance of viewing may be shifting. These rules 
+try to balance the need for stability in television markets, 
+but at the same time, they need to ensure that counties are 
+assigned to the DMAs from where the highest share of broadcast 
+viewing occurs.
+    For example, if a larger share of viewing from a county 
+shifts from its current DMA assignment to broadcast stations 
+from another DMA, that shift must be statistically significant 
+and occur for 2 consecutive years.
+    Nielsen instituted the DMA system in the mid-1960's to 
+measure the number of viewers in a particular area and, more 
+specifically, to connect sellers and buyers of advertising.
+    The DMA allowed for the creation of a market where buyers 
+and sellers of local television advertising could do business 
+with each other based on impartial information provided by a 
+third party. Advertisers need to know that their ads are 
+directed at audiences they want to serve. The TV Advertising 
+Bureau estimates that in Q1 of this year, ad spending in the 
+U.S. was almost $18 billion, with an estimate of $72 billion 
+for the entire year. That is a market that fuels the great 
+entertainment and news programs that this country produces and 
+watches.
+    With the emergence of cable and satellite television in the 
+late 1980's and early 1990's, the landscape of the industry 
+changed. The new technology allowed companies that carried 
+television programming to expand their boundaries. 
+Specifically, television stations were previously limited to 
+being viewed within a local DMA and could not be seen outside 
+of those boundaries. And while new technologies open up new 
+horizons, they also create new problems for the television 
+industry.
+    The industry needed rules to determine which local stations 
+could be carried in which local markets, and it turned to the 
+Federal Government for help. In 1992, Congress and the FCC 
+established rules governing which local television stations 
+could be carried in which local markets. As part of that 
+process, Nielsen's designated market areas were adopted as the 
+guideline for determining which local stations could be 
+carried. It should be noted that Nielsen did not recommend the 
+use of the DMAs for this purpose nor were we asked for 
+technical assistance on the use of the DMAs. It was a decision 
+that was made entirely by Congress.
+    Finally, as you work to learn more about the future trends 
+in video use, we would be happy to assist you in any way we 
+can. Thank you again for the opportunity to appear before you, 
+and I look forward to your questions.
+    [The prepared statement of Mr. Donato follows:]
+    Prepared Statement of Paul Donato, Executive Vice President and 
+                    Chief Research Officer, Nielsen
+    Good morning Chairman Coble, Ranking Member Watt and members of the 
+Subcommittee. My name is Paul Donato, and I am the Executive Vice 
+President and Chief Research Officer for Nielsen. I thank you for the 
+opportunity to join today's panel to discuss Nielsen's Designated 
+Market Areas, commonly referred to as ``DMAs,'' and their role in 
+satellite transmission statues such as the Satellite Television 
+Extension and Localism Act (STELA).
+    Nielsen is a global media and marketing research company that 
+measures what people watch and buy in 100 countries worldwide. In the 
+United States, we are widely known for our Television Audience 
+Measurement Service, the Nielsen Television Ratings, which provide 
+estimates of the audiences for broadcast cable and satellite programs. 
+Over the years Nielsen has developed innovative technologies allowing 
+us to expand our measurement services to include computers, tablets, 
+and smartphones. Through these technologies and our volunteer 
+panelists, Nielsen has the capability to measure consumers' Internet 
+purchasing habits, listening trends on terrestrial, Internet and 
+satellite radio, and also how consumers utilize social media. Our 
+audience measurement reports are relied upon by a range of public and 
+private sector stakeholders to facilitate business transactions and 
+gauge consumer trends. Nielsen's DMAs are also used by the federal 
+government to define markets in satellite television retransmission 
+statutes.
+            nielsen dmas & satellite retransmission statutes
+    Most discussions of STELA and its predecessors begin with a 
+conversation about Nielsen's DMAs, and that will be the focus of my 
+testimony today.
+The Designated Market Area
+    The Designated Market Area is a collection of counties each of 
+which shares a predominance of viewing to broadcast stations licensed 
+to operate in a given Standard Metropolitan Statistical Area (SMSA) as 
+defined by the Office of Management and Budget (OMB). Predominance or 
+dominance of viewing is defined here to indicate that:
+
+        for a particular county, homes may view broadcast stations 
+        licensed to operate from different but generally nearby Metro 
+        areas. The DMA with the predominant viewing is that Metro area 
+        whose broadcast stations have the highest share of audience for 
+        that county.
+
+So we start with a Metro area such as the New York or Los Angeles SMSA 
+and continue throughout the 210 DMA markets in the US.
+    Each March, using tuning data collected from Nielsen homes over the 
+last year, existing DMA regions are tested in order to verify that the 
+dominant share of viewing from each DMA county continues to be from 
+broadcast stations licensed to operate from within that same home Metro 
+(SMSA). All assignments are based on share of household tuning between 
+6 AM and 2 AM Sunday through Saturday. While this is the basic premise 
+behind the DMA, there are rules which Nielsen exercises when it appears 
+that the predominance of viewing may be shifting. These rules try to 
+balance the need for stability in television market definitions and the 
+need to ensure that counties are assigned to the DMAs from where the 
+highest share of broadcast viewing occurs.
+    For example, if the larger share of viewing from a county shifts 
+from its current DMA assignment to broadcast stations from another DMA, 
+that shift must be ``statistically significant'' and occur for two 
+consecutive years.
+    Nielsen instituted the DMA system in the mid-1960s to measure the 
+number of viewers in a particular area and, more specifically, to 
+connect the sellers and buyers of advertising.
+    The DMA system allowed for the creation of a market where the 
+buyers and sellers of local television advertising could do business 
+with each other based on impartial information provided by a third 
+party. Advertisers need to know that their ads are directed at the 
+audience they want to serve. The Television Advertising Bureau 
+estimates that Q1 2013 ad spending in the US was almost $18 billion, 
+for an annual spending estimate of almost $72 billion for all TV, a 
+market that fuels the great entertainment and news programs that this 
+country produces and America watches.
+    With the emergence of cable and satellite television in the late 
+1980s and early 1990s, the landscape of the industry changed. The new 
+technology allowed companies that carried television programming to 
+expand their boundaries. Specifically, television stations that were 
+previously limited to being viewed within a local DMA could be seen 
+outside of those boundaries. And, while the new technologies open new 
+horizons, they also created new problems for the television industry.
+The DMA and Satellite Statutes
+    The industry needed rules to determine which local stations could 
+be carried in which local markets and it turned to the federal 
+government for help. In 1992, the Congress and the Federal 
+Communications Commission established rules governing which local 
+television station could be carried in which local markets. As part of 
+that process, Nielsen's Designated Market Areas were adopted as the 
+guideline for determining which local stations could be carried in 
+which local markets. It should be noted that Nielsen did not recommend 
+the use of DMAs for this purpose, nor were we asked for technical 
+assistance on the use of DMAs. This was a decision that was made by the 
+Congress.
+                               conclusion
+    As you work to learn more about the future trends in video use, we 
+would be happy to assist you in any way we can. Thank you again for the 
+opportunity to appear before you and I look forward to your questions.
+                               __________
+
+    Mr. Coble. Thank you, Mr. Donato. Congratulations. You beat 
+the illumination of the red light. Pressure on you, Mr. Dodge.
+    Needless to say, gentlemen, your entire statements will be 
+made part of the record.
+    Mr. Dodge?
+
+   TESTIMONY OF R. STANTON DODGE, EXECUTIVE VICE PRESIDENT, 
+      GENERAL COUNSEL AND SECRETARY, DISH NETWORK, L.L.C.
+
+    Mr. Dodge. Thank you. Chairman Goodlatte, Chairman Coble, 
+Ranking Member Conyers, Ranking Member Watt, and Members of the 
+Subcommittee, I appreciate the opportunity to testify today. My 
+name is Stanton Dodge, and I am the General Counsel of DISH 
+Network. DISH is the Nation's third largest pay TV provider 
+with more than 14 million subscribers and over 25,000 
+employees. We are the only provider for local television 
+service in all 210 local DMAs.
+    DISH's award-winning innovations include the Hopper DVR and 
+TV Everywhere features that consumers can use to have greater 
+choice and control over their viewing experience. DISH pays 
+billions of dollars a year for the right to distribute 
+programming to our subscribers and fully supports fair 
+compensation to copyright holders.
+    As the Subcommittee examines the video marketplace, we 
+believe that outdated laws need to be updated comprehensively 
+to reflect changes in the market and changes in how consumers 
+view their content. Public policy should support the 
+preservation and expansion of consumer video choices.
+    Unfortunately, as distributors like DISH offer advances in 
+technology, some programmers are again crying wolf, saying that 
+this time the threat is real and they will not be able to 
+survive the onslaught of innovation. The challenges to our 
+Hopper DVR are a perfect example.
+    We believe in consumer choice and to preserve and expand 
+it, I want to make three points.
+    First, we believe Congress should protect consumers against 
+the growing problem of blackouts caused by retransmission 
+consent disputes. The proof is in the numbers. In 2010, there 
+were 12 blackouts. In 2011, there were 51. In 2012, the number 
+soared to almost 100, and the pace has yet to level off. So far 
+in 2013, we have had 84 blackouts which puts us on track for a 
+record-setting year of 120.
+    Making matters worse, the length of the blackouts and the 
+number of consumers impacted are increasing. The consumers are 
+the real victims of these one-sided negotiations. Their 
+programming gets pulled by the broadcasters and their monthly 
+bills go up. Of increasing concern, some broadcasters are 
+coordinating their negotiations with each other and colluding 
+rates that they demand from video distributors like DISH.
+    The American Television Alliance, a coalition whose 
+membership encompasses cable, satellite, and telco providers, 
+independent programmers and public interest groups, and of 
+which DISH is a member, is unified in calling for changes to 
+the outdated retransmission consent rules as part of the STELA 
+reauthorization. We and many others in the industry propose, 
+among other things, that when a local network station is pulled 
+from a consumer due to a retransmission consent dispute, the 
+video distributor should be able to provide another market's 
+network signal. The broadcaster whose signal is imported would 
+be compensated under the established distant signal royalty 
+rate. And this reform will at least allow consumers to keep 
+their network programming while negotiations continue. If the 
+broadcaster's local content is as valuable as they assert, then 
+the imported distant network signal is a poor substitute, and 
+both parties will continue to have every incentive to reach an 
+agreement. Importing a distant signal during a blackout simply 
+fills the void for network programming.
+    Second, Americans living in remote, underserved areas have 
+especially benefited from STELA and its predecessors. Among 
+other things, STELA allows Americans residing in predominantly 
+rural areas to receive distant network signals for any missing 
+Big 4 stations in their market. The distant signal license 
+sunsets at the end of 2014, and without reauthorization, 1.5 
+million American households will be disenfranchised.
+    Third, in the 3 years since the last reauthorization, the 
+video industry has not been sitting still. Consumers can and 
+increasingly want to watch news, sports, and entertainment on 
+the go using increasingly high resolution screens available on 
+their smart phones and tablets. Over the years, DISH has done 
+much to respond to changing consumer preferences, and today 
+DISH stands ready to make a significant investment in the 
+wireless market to satiate consumers' growing demand for 
+increased mobility and flexibility in consuming video.
+    In summary, we believe the Government should work to ensure 
+its laws mirror today's competitive realities, consumer 
+expectations, and advances in technology.
+    Thank you, and I look forward to answering any questions 
+you may have.
+    [The prepared statement of Mr. Dodge follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+
+
+                               __________
+    Mr. Coble. Thank you, Mr. Dodge.
+    Mr. Waldron?
+    I commend you as well for beating the illuminating light, 
+Mr. Dodge. Thank you. Pressure on you, Mr. Waldron.
+
+TESTIMONY OF GERARD J. WALDRON, PARTNER, COVINGTON AND BURLING 
+   LLP, ON BEHALF OF THE NATIONAL ASSOCIATION OF BROADCASTERS
+
+    Mr. Waldron. Good morning, Chairman Coble, Ranking Member 
+Watt, Chairman Goodlatte, and Ranking Member Conyers, and 
+Members of the Subcommittee. My name is Gerry Waldron. I am a 
+partner with the law firm of Covington and Burling, and I am 
+testifying here today on behalf of the more than 1,000 free, 
+local, over-the-air television members of the National 
+Association of Broadcasters.
+    As the Committee begins its review of STELA, your broadcast 
+constituents urge you to keep in mind two principles. First, 
+free, locally focused broadcast television should remain 
+available to American households. Second, your review of STELA 
+should not be used to create new exceptions to copyright law 
+that undermine those contractual relationships between 
+broadcasters and satellite or cable companies that enable 
+broadcasting's local focus.
+    Why is localism so important? For broadcasters, localism is 
+coverage of local news, severe weather and emergency alerts, 
+school closings, high school sports, local elections, and 
+public affairs. Localism is support for charities, civic 
+organizations, and events that help create a sense of 
+community. Our broadcast stations are also the way that local 
+businesses educate and inform the public about the goods and 
+services and, in turn, create jobs and support your economies.
+    There is no doubt that viewers, your constituents, continue 
+to rely on our service. Broadcast television remains unique 
+because it is free, it is local, and it is always on even when 
+other forms of communications may fail.
+    As a threshold matter, the Subcommittee should ask whether 
+the expiring section 119 distant signal license continues to 
+promote localism and whether it is in the public interest. It 
+could be argued that the distant signal license served its 
+purpose in 1988 when the backyard satellite industry was just 
+getting started and that it served its purpose again when DISH 
+and DirecTV first launched their small receiver services in the 
+mid-1990's. But in 2013, when DISH and DirecTV are two of the 
+largest three pay TV providers in the country, the distant 
+signal license is a vestige of a bygone era.
+    Today over 98 percent of all U.S. television households can 
+view their local network affiliates by satellite, and that 
+number is growing all the time. No public policy justifies 
+treating satellite subscribers in local markets as unserved, 
+which would deprive viewers of the benefits of locally focused 
+service. As DISH has demonstrated, there are no technical 
+reasons for failing to serve all markets.
+    Accordingly, the Subcommittee should continue to encourage 
+localism and consider whether the section 119 license should 
+expire.
+    In reexamining STELA, you are likely to hear from those 
+seeking enactment of new exceptions to the copyright laws that 
+would undermine broadcasters' retransmission consent rights. 
+Let me be clear. Arguments that broadcasters have too much 
+leverage in the retransmission consent process or that 
+retransmission fees are directly responsible for rising cable 
+bills are wrong. Local broadcasters and pay TV providers both 
+have an incentive to complete retransmission consent 
+negotiations. And for that simple reason, they always do before 
+any disruption to viewers occurs. There are exceptions but they 
+are rare, and in fact, carriage disruptions from retransmission 
+consent impasses represent 1 one-hundredth of 1 percent of all 
+annual U.S. television viewing hours. Put that another way, 
+consumers are 20 times more likely to lose television 
+programming service because of a power outage than because of a 
+retransmission consent impasse.
+    Furthermore, in the small number of instances where these 
+negotiations have resulted in disruptions to consumers, there 
+is one distinct pattern: the involvement of Time Warner Cable, 
+DirecTV, and DISH. Since 2012, these three companies alone have 
+been party to 89 percent of all the disruptions nationwide.
+    In contrast to what some suggest, NAB has demonstrated 
+across numerous economic studies that retransmission consent 
+payments are not responsible for high and rising pay TV prices. 
+Just 2 cents of every cable bill dollar goes to broadcast 
+retransmission fees, and that is true in spite of the fact that 
+during the 2011 season, 96 of the top 100 most watched prime 
+time programs were on broadcast television.
+    Lastly, the Committee should understand that retransmission 
+consent negotiations are about more than just fees. 
+Increasingly, these negotiations include hard discussions about 
+how we can distribute our content across a variety of new 
+platforms such as Hulu that promote competition.
+    In conclusion, your local broadcast constituents urge you 
+to rebuff calls from the pay TV industry to expand the narrow 
+examination of STELA solely to give them an unfair leverage in 
+market-based negotiations.
+    Thank you for your time. I look forward to your questions.
+    [The prepared statement of Mr. Waldron follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+
+
+                               __________
+    Mr. Coble. Thank you, Mr. Waldron.
+    Mr. MacKenzie?
+
+ TESTIMONY OF EARLE A. MacKENZIE, EXECUTIVE VICE PRESIDENT AND 
+   CHIEF OPERATING OFFICER, SHENTEL CABLE, ON BEHALF OF THE 
+                   AMERICAN CABLE ASSOCIATION
+
+    Mr. MacKenzie. Good morning.
+    Shentel offers wireline and wireless services to 
+residential and business customers in smaller markets in rural 
+areas in the mid-Atlantic region. As a smaller, rural provider, 
+our costs per subscriber are greater. However, despite the 
+higher costs, firms like Shentel still provide our customers 
+with the same service enjoyed by urban customers.
+    It is a challenge that is not made any easier by certain 
+laws and rules that govern our business. For example, one of 
+the simplest issues I would raise for the Committee today is 
+the competitive disparity that stems from the fact that certain 
+laws governing the satellite TV industry are reauthorized every 
+5 years. The cable industry does not benefit from such a 
+periodic review. In fact, Congress has not made a broad 
+legislative change to the cable rules since the 1990's.
+    If Congress wants to conduct such a review, one set of 
+rules that has worked and should not be changed is the cable 
+copyright license. It continues to serve its goal in 
+compensating copyright holders for the retransmission of their 
+work. Many stakeholders agree no significant change to the 
+license is necessary.
+    If Congress were to repeal the license, it would be very 
+burdensome for the cable firms to anticipate all the 
+copyrighted works that would need to be cleared before they are 
+aired on broadcast stations. Moreover, the repeal would create 
+uncertainty in the marketplace for us and our customers.
+    Should Congress reach a different conclusion, any change to 
+the existing license must coincide with reform to the broadcast 
+carriage rules such as retransmission consent because they are 
+legally intertwined.
+    There are a number of specific problems related to the 
+outdated rules and regulations governing the cable industry, 
+particularly retransmission consent, that are covered in my 
+written testimony. But with limited time, I will focus on just 
+two that are of direct relevance to the Judiciary Committee.
+    This Committee should be aware that there are dozens of 
+instances where separately owned Big 4 broadcasters in the same 
+market are colluding against the cable operator in their 
+negotiation of retransmission consent. Typically this means 
+that two broadcast stations with exclusive market rights that 
+are protected by the Government use the same negotiator to 
+conduct the negotiations. Available evidence shows this 
+anticompetitive conduct by broadcasters raises fees between 22 
+and 160 percent. In the end, these costs are passed on to the 
+consumer.
+    The practice of coordinating retransmission consent 
+negotiations is widespread, occurring in at least 20 percent of 
+the TV station markets, and it is increasing. This year, there 
+has been a number of broadcast station mergers and acquisitions 
+that could result in even more coordination of retransmission 
+consent negotiations.
+    If you share my concerns, please inform the Department of 
+Justice.
+    Another area we would like the Committee to consider are 
+skyrocketing sport programming fees. It is amazing in the past 
+few years sports leagues have extracted more than $110 billion 
+from broadcast and cable TV networks, and there is no end in 
+sight. These networks bid extraordinary amounts because they 
+can pass those costs on to the pay TV providers and our 
+customers. Not surprisingly, ESPN, regional sports networks, 
+and the Big 4 broadcasters are aggressively hiking their fees. 
+In the end, the consumer shoulders these costs.
+    One part of the sports programming problem is rooted in a 
+50-year-old Federal law giving an antitrust exemption to 
+professional sports leagues when they are negotiating their TV 
+programming deals. However, like retransmission consent, the 
+sports programming market has changed significantly since JFK 
+was President, but the rules have not. It may have made sense 
+to give professional sports leagues a pass from the antitrust 
+rules in 1961. Their dominant market power no longer justifies 
+this exemption.
+    Mr. Chairman, it is clear that there is a host of issues 
+that need attention. Given the significant changes in the 
+marketplace, I hope the issues I have raised here will be taken 
+into consideration as part of the Committee's reauthorization 
+of the satellite TV license.
+    Thank you for the opportunity to testify.
+    [The prepared statement of Mr. MacKenzie follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+
+
+
+                               __________
+    Mr. Coble. Thank you, Mr. MacKenzie.
+    Mr. Campbell?
+
+             TESTIMONY OF JAMES CAMPBELL, REGIONAL 
+        VICE PRESIDENT, PUBLIC POLICY, CENTURYLINK, INC.
+
+    Mr. Campbell. Thank you, Mr. Chairman, Ranking Member Watt, 
+Chairman Goodlatte, and Ranking Member Conyers. I appreciate 
+you giving CenturyLink the opportunity to testify before this 
+Subcommittee as a relatively new entrant into the video 
+marketplace.
+    And I would echo Mr. Dodge's testimony that CenturyLink is 
+certainly not seeking to avoid paying reasonable costs for 
+acquisition of broadcast content. Rather, we seek a fair set of 
+rules by which it cannot be unfairly leveraged against both 
+consumers and new entrants like us.
+    To give you a little background, CenturyLink is the third 
+largest telecommunications company in the United States 
+offering voice, video, and data at over 14 million homes in 37 
+States and businesses in all 50 States and select international 
+markets. We offer cybersecurity solutions to the Federal 
+Government and multiple State and local governments, and as a 
+result of our recent acquisition of Savvis, we are actually one 
+of the largest cloud computing and hosting companies in the 
+world.
+    Only recently over the past 5 years have we gotten involved 
+in the competitive video market, launching a fully digital IPTV 
+product in multiple markets, including Orlando, Las Vegas, 
+Phoenix, and central North Carolina. And I will tell you 
+consumers benefit from robust competition in the form of better 
+service quality, in the form of more innovation, more 
+investment, and ultimately lower rates. But, unfortunately, the 
+cost of obtaining broadcast content has threatened consumers' 
+ability to get any of these benefits.
+    The current regulatory regime was created in an environment 
+where the Federal lawmakers were concerned about market abuse 
+from monopoly incumbent cable operators. As a result, over the 
+years lawmakers have kind of skewed the regulatory advantages 
+toward broadcasters vis-a-vis their relationship with pay TV 
+providers in multiple ways.
+    For example, one, a local broadcaster, because of tie-down 
+arrangements, can force feed unwanted content to providers 
+regardless of consumer demand.
+    Two, a provider has no other alternative to obtain this 
+content in most of these markets.
+    And third, the FCC's application and interpretation of the 
+good faith standard has rendered really meaningless, giving de 
+facto power to the broadcasters in retransmission consent 
+negotiations.
+    In addition, the regulatory regime, as has been stated, did 
+not contemplate the explosion of video competition from a 
+myriad of industries. Incumbent cable operators no longer have 
+a monopoly in the market.
+    While the current rules create problems for the larger 
+companies, they impose additional burdens on new entrants like 
+CenturyLink. Every customer we get had a relationship with 
+another provider before they come to us. We have to win every 
+single customer we sign up. That is capital intensive. It is 
+tough sledding. And for that reason, we cannot simply just take 
+whatever the broadcasters' demands are. In the case of a 
+blackout--and I know that broadcasters have used this more 
+frequently--there is little harm to the broadcasters if the 
+signal is lost, but a tremendous amount of harm to a company 
+like CenturyLink as we try and provide competitive service.
+    And unfortunately, the retransmission consent fees are 
+providing a windfall not to the local stations but to national 
+networks. The original intent of these rules was to provide a 
+safety net for true local stations. It is not the case anymore. 
+SNL Kagan projects that retransmission fees will increase to 
+$6.1 billion in 2018, up from $2.4 billion in 2012. That is a 
+250 percent increase, and that is all at the expense of 
+consumers.
+    Congress has an opportunity as part of the STELA 
+reauthorization to reform and rebalance the negotiation process 
+regarding the retransmission consent marketplace. The reasons 
+Congress conferred significant regulatory advantage to the 
+broadcasters no longer exist. CenturyLink favors a deregulatory 
+approach where our consumers could receive national content 
+from adjacent or alternate markets during the pendency of 
+negotiations, should they break down. This is good for two 
+reasons. One, it rebalances the negotiation process where both 
+parties have a little bit more leverage at the table, and two 
+and most importantly, it does not punish consumers for two 
+providers' failure to reach an agreement.
+    At the end of the day, it is not about winners and losers. 
+It is about protecting consumers who bear the biggest brunt of 
+this regulatory problem and ensuring the future of a 
+competitive marketplace in the video marketplace.
+    Again, I thank you again for the opportunity testify. We 
+look forward to working with the Committee and try and enact 
+and enable consumer-oriented legislative reform. Thank you.
+    [The prepared statement of Mr. Campbell follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+
+
+                               __________
+    Mr. Coble. Thank you, Mr. Campbell.
+    Mr. Garrett?
+
+TESTIMONY OF ROBERT ALAN GARRETT, PARTNER, ARNOLD & PORTER LLP, 
+               ON BEHALF OF MAJOR LEAGUE BASEBALL
+
+    Mr. Garrett. Thank you, Chairman Coble, Ranking Member 
+Watt. Thanks for the opportunity to testify on behalf of Major 
+League Baseball this morning.
+    Let me summarize that testimony with three brief points.
+    First, baseball has a major stake in any revision of the 
+copyright laws that affect television programming, including 
+cable and satellite compulsory licenses. Baseball and its 
+member clubs are copyright owners of a substantial amount of 
+very entertaining, very valuable television programming. They 
+now offer their fans access to approximately 5,000 copyrighted 
+telecasts of Major League Baseball games each year. They do not 
+believe that there is any single copyright owner that provides 
+the American public with more television programming than Major 
+League Baseball.
+    Second, the vast, overwhelming majority of baseball's 
+telecasts are provided to cable and satellite subscribers 
+pursuant to licenses negotiated in a free marketplace and not 
+pursuant to compulsory licensing. There is simply no reason 
+that satellite carriers or cable systems or anyone else require 
+a compulsory license to provide Major League Baseball telecasts 
+or any other broadcast television programming. Satellite 
+carriers and cable systems negotiate every day in the free 
+marketplace to offer hundreds of channels, tens of thousands of 
+hours of non-broadcast television programming. We believe that 
+they can do the same to offer broadcast programming, including 
+telecasts of baseball games.
+    Third and finally, if Congress, nevertheless, chooses to 
+reauthorize the section 119 compulsory license, baseball has 
+one simple request, and that is adopt a mechanism to ensure 
+that satellite carriers and cable systems at the very least pay 
+fair market value for their compulsory licenses. According to 
+the FCC, cable systems derive more than $67 billion in revenues 
+by selling access to video programming. Compulsory licensing 
+royalties amount to less than one-half of 1 percent of those 
+revenues, one-half of 1 percent for what is undoubtedly the 
+most valuable, the most watched of all the programming cable 
+systems offer. Satellite carriers also pay less than one-half 
+of 1 percent of their revenues for their compulsory license. 
+Their video revenues amount to approximately $36 billion. Their 
+compulsory licensing royalties in 2012 amounted to 
+approximately $87 million or about $10 million less than when 
+Congress last renewed the section 119 license. The current 
+satellite royalty rate is, in fact, the same as the rate that 
+an independent panel of arbitrators determined to be fair 
+market value in 1997, 16 years ago.
+    There is simply no justification for requiring copyright 
+owners to subsidize with below-market royalty rates the major 
+corporate entities that dominate the cable and satellite 
+industries. Baseball believes that Congress should authorize 
+the Copyright Board to set rates for the carriage of all 
+broadcast programming under the cable and satellite compulsory 
+licenses and that the Copyright Royalty Board also should be 
+authorized to adjust those rates periodically so that they 
+continue to provide fair market compensation to copyright 
+owners.
+    Thank you, Mr. Chairman, and baseball also looks forward to 
+working with you and your Subcommittee on this important 
+matter.
+    [The prepared statement of Mr. Garrett follows:]
+    Prepared Statement of Robert Alan Garrett, Arnold & Porter LLP, 
+           Washington, DC, on Behalf of Major League Baseball
+    Mr. Chairman and members of the Subcommittee, thank you for the 
+opportunity to testify, on behalf of Major League Baseball, concerning 
+the Section 119 satellite compulsory license that is scheduled to 
+expire at the end of next year. I have been Major League Baseball's 
+outside counsel on copyright and telecommunications matters for more 
+than thirty-five years. During that same period, I also have served as 
+lead counsel in satellite and cable compulsory licensing proceedings 
+for the Joint Sports Claimants, which consists of Baseball, the 
+National Football League, National Basketball Association, National 
+Hockey League and National Collegiate Athletic Association. While I am 
+presenting this testimony solely on behalf of Baseball, all JSC members 
+share a common interest in ensuring strong and effective copyright 
+protection, and fair market compensation, for the telecasts of their 
+games.
+                    baseball's copyrighted telecasts
+    When Congress comprehensively revised the copyright laws in 1976, 
+and adopted the Section 111 cable compulsory license, the average 
+sports fan had access to approximately 100 telecasts of Major League 
+Baseball games each season. Much the same was true in 1988 when 
+Congress enacted the satellite compulsory license by adding a new 
+Section 119 to the Copyright Act. Today, however, the situation is very 
+different.
+    Baseball and its member clubs now offer their fans the ability to 
+view virtually every one of the approximately 5,000 MLB game telecasts 
+each year. Telecasts of MLB games are available on the FOX national 
+broadcast television network; three national cable networks (ESPN, TBS, 
+MLB Network); over-the-air broadcast stations throughout the country 
+(e.g., WUSA-TV in Washington DC and ``superstation'' WGN-TV in 
+Chicago); and more than two dozen regional sports networks (e.g., MASN, 
+FOX Sports Net). In addition, Baseball's ``out-of-market'' satellite 
+and cable package, MLB Extra Innings, provides each subscriber with 
+virtually all Major League Baseball games not otherwise available from 
+other licensed telecasters. Fans in Washington DC, for example, can 
+view game telecasts of the Yankees, Red Sox, Cardinals, Pirates, Giants 
+and a score of other teams. More than 67 million cable and satellite 
+subscribers in the United States currently have access to MLB Extra 
+Innings.
+    The comparable out-of-market package for Internet-connected 
+devices, MLB.TV, is available to subscribers through more than 350 such 
+devices--including personal computers, smartphones (Apple, Blackberry 
+and Android), tablets (iPad, Kindle Fire and Android) and a variety of 
+consoles (Xbox360, Sony Playstation 3, Apple TV, Roku). In addition to 
+receiving access to out-of-market games, MLB.TV subscribers can choose 
+whether to listen to the radio or TV broadcast of the home or visiting 
+club. MLB.TV also offers access to HD quality broadcasts of the games 
+and provides DVR capabilities that allow fans to pause or rewind live 
+telecasts. And those who utilize the MLB.com At Bat app to view games 
+can take advantage of several additional features, including real-time 
+statistical updates and analyses, video archive and a ``pitch-by-pitch 
+widget'' that tracks the location, type, and speed of every pitch 
+(including whether a pitch is a curve ball, slider, or knuckle-curve). 
+The At Bat app has been downloaded more than 22 million times since its 
+debut five years ago.
+    All of the MLB game telecasts, whether they are accessible over-
+the-air or via cable, satellite or Internet-connected devices, are 
+copyrighted works. In the 1976 Copyright Act, Congress--at the urging 
+of Baseball and other sports interests--clarified that telecasts of 
+live sports events receive copyright protection, like any other 
+audiovisual work, as long as they are recorded (``fixed'') 
+simultaneously with their transmission. When entering into licensing 
+agreements with its various rightsholders, Major League Baseball and 
+its member clubs contractually ensure that the resulting telecasts are 
+recorded and that either Baseball or one of its clubs will own the 
+copyright in those telecasts. With approximately 5,000 MLB game 
+telecasts each year, Major League Baseball is a major copyright owner 
+and source of television programming. Baseball relies heavily upon the 
+copyright laws to protect its substantial investment in (and incentive 
+to create) that highly entertaining and valuable programming.
+                          compulsory licensing
+    The satellite compulsory license in Section 119 of the Copyright 
+Act permits satellite carriers to retransmit to their paying 
+subscribers, without the consent of copyright owners, out-of-market 
+broadcast television programming. The retransmitted programming 
+includes the telecasts of games that Major League Baseball and its 
+clubs license to broadcast stations and the FOX broadcast network. A 
+similar compulsory license, which applies to cable systems, exists in 
+Section 111 of the Copyright Act. The effect of these licenses is to 
+divest Baseball (as well as other copyright owners) of any ability to 
+negotiate with satellite carriers and cable systems over the terms on 
+which those services commercially exploit broadcasts of MLB games.
+    These licenses are impediments to the operation of the free 
+marketplace. They unfairly deprive all copyright owners, including 
+Baseball, of the ability to control the distribution of their 
+copyrighted works--as well as the right to receive fair market 
+compensation and other license terms typically included in marketplace 
+agreements. They also impose significant administrative costs upon 
+Baseball and other copyright owners and substantially delay the receipt 
+of compensation for the use of their programming. Baseball routinely 
+negotiates in the marketplace with the cable and satellite industry 
+concerning the carriage of Baseball telecasts; the vast majority of 
+programming that cable systems and satellite carriers offer are the 
+product of marketplace negotiations. There is no reason that similar 
+negotiations should not be allowed to occur over the broadcast 
+programming now covered by the compulsory licenses.
+                        fair market compensation
+    Some parties have taken the position that elimination of the 
+compulsory licenses could be disruptive to the marketplace, because the 
+licenses reflect the settled expectations of the licensees and at least 
+some licensors. Baseball respectfully disagrees with that view. An 
+inequitable and unjustifiable regulatory regime that supplants 
+marketplace negotiations should not be perpetuated simply because some 
+parties have become accustomed to it. However, Baseball understands the 
+practical difficulties associated with elimination of the cable and 
+satellite compulsory licenses.
+    If the compulsory licenses are retained, Baseball urges Congress to 
+ensure that both cable operators and satellite carriers pay fair market 
+value for all programming they choose to carry pursuant to the 
+compulsory licenses. Baseball believes the relevant evidence 
+demonstrates that neither cable operators nor satellite carriers are 
+paying fair market value under their compulsory licenses. Indeed, 
+satellite carriers are currently paying a Section 119 royalty that is 
+less than the royalty that three independent arbitrators considered to 
+be fair market value in 1997--sixteen years ago. Moreover, the total 
+Section 119 royalties have declined by approximately $10 million per 
+year since Congress last reauthorized the Section 119 license. The 
+Section 111 royalty paid by cable operators is comparably below fair 
+market value. Indeed, when Congress adopted the Section 111 royalty 
+rates nearly forty years ago, it explicitly noted that those rates 
+would produce only a ``minimal'' royalty that had no economic basis. 
+Cable operators pay less than one-half of one percent of their $66 
+billion in video revenues (according to the FCC) for the Section 111 
+compulsory license that allows them to offer some of their most 
+valuable television programming.
+    There is no justification for requiring copyright owners to 
+subsidize, with below-market royalty rates, the major corporate 
+entities that dominate the cable and satellite industries. Baseball 
+believes Congress should, at the very least, authorize the Copyright 
+Royalty Board to set market rates for the carriage of all programming 
+under the cable and satellite compulsory licenses. The CRB also should 
+be authorized periodically to adjust those rates so that they continue 
+to provide fair market compensation to copyright owners.
+    While Section 119(c) of the Copyright Act directs the Copyright 
+Royalty Board to adopt fair market value rates for the satellite 
+carrier license, that provision sets a series of procedural dates that 
+focus upon 2010, when Congress last renewed the Section 119 license. 
+Section 119(c) must be amended to permit the adjustment of royalty 
+rates for whatever period, if any, Congress decides to continue the 
+Section 119 compulsory license. Congress also should adopt a similar 
+rate adjustment mechanism for the compulsory license of cable systems, 
+which compete with satellite carriers in the delivery of broadcast 
+television programming. Currently, the law allows adjustments in the 
+cable royalty rates to account for inflation only.
+
+                             *  *  *  *  *
+
+    Thank you, Mr. Chairman and members of the Subcommittee, for the 
+opportunity to express Baseball's views on the satellite compulsory 
+license in Section 119 of the Copyright Act and the related cable 
+compulsory license in Section 111 of the Act. Baseball looks forward to 
+working with you and your Subcommittee to help ensure strong and 
+effective copyright protection, including fair market compensation, for 
+all copyrighted works.
+                               __________
+
+    Mr. Coble. Thank you, Mr. Garrett.
+    Mr. Padden?
+
+ TESTIMONY OF PRESTON PADDEN, FORMER PRESIDENT, ABC TELEVISION 
+   NETWORK, FORMER EXECUTIVE VICE PRESIDENT, THE WALT DISNEY 
+             COMPANY, TESTIFYING ON HIS OWN BEHALF
+
+    Mr. Padden. Chairman Coble, Ranking Member Watt, Chairman 
+Goodlatte, and Ranking Member Conyers, my name is Preston 
+Padden. I appear today on my own behalf and sadly no one is 
+paying me to be here. [Laughter.]
+    I am so old that I am one of the few living souls who has 
+been around for the entire history of this issue, and I am here 
+today to implore you not to just kick the can down the road 
+again. It is long past time to repeal the satellite and cable 
+compulsory licenses and the Rube Goldberg-like statutory and 
+regulatory system that surrounds them.
+    As the former President of the ABC Television Network, I 
+know how TV program rights are negotiated. I promise you that 
+the earth will continue to spin, consumers will continue to 
+have access to TV, and all TV industry sectors will continue to 
+thrive without the compulsory licenses, without the associated 
+FCC rules, and without retransmission consent.
+    In 1976 when the cable TV industry was in its infancy, 
+Congress granted cable an extraordinary exception to normal 
+copyright principles: a compulsory copyright license to 
+distribute the programs on broadcast TV channels. The FCC 
+adopted rules, including network non-duplication and syndicated 
+exclusivity, to limit the market disruption caused by the new 
+compulsory license.
+    In 1988, the compulsory license was extended to satellite.
+    Then in 1992, Congress enacted retransmission consent 
+requiring a marketplace negotiation between broadcast TV 
+stations and cable and satellite distributors, a negotiation 
+that is the functional equivalent of a negotiation that would 
+have been required if the compulsory licenses had never been 
+enacted in the first place.
+    When others argue that the compulsory licenses are 
+essential, please consider this. Every day hundreds of non-
+broadcast TV channels, channels like Discovery, History 
+Channel, USA Network, Bravo, and HBO, get distributed to nearly 
+every man, woman, and child in America without any compulsory 
+license and without retransmission consent. They get 
+distributed because the channel owner and the cable and 
+satellite systems have an old-fashioned, simple copyright 
+negotiation. There is absolutely no reason why the broadcast 
+channels cannot be distributed in exactly the same way.
+    When the satellite license was adopted in 1988, you 
+provided a sunset and expressed the expectation that the 
+license would temporary and would be replaced by market 
+negotiations. Instead, the license has been renewed four times.
+    When you renewed it in 2004, you directed the Register of 
+Copyrights to study the continued need for compulsory 
+licensing. In 2008, the Register released that study, calling 
+the cable and satellite compulsory licenses--and I quote--
+arcane, antiquated, complicated, and dysfunctional. Not exactly 
+a ringing endorsement.
+    When you renewed the satellite license again in 2010, you 
+directed the Register of Copyrights to prepare a more specific 
+report to Congress, proposing mechanisms and methods for the 
+phase-out and eventual repeal of the cable and satellite 
+compulsory licenses. And you asked the Register to propose 
+marketplace alternatives. The Register issued that report in 
+2011, concluding that the compulsory licenses are--and I quote 
+again--an artificial construct created in an earlier era. The 
+Register further recommended that Congress set a date-specific 
+trigger to phase out and ultimately repeal the licenses.
+    I want to close with what I think are three simple truths. 
+First, compulsory licensing is just not necessary in these 
+markets. Second, broadcast channels like non-broadcast channels 
+absolutely deserve to be paid by the cable and satellite 
+distributors who want to sell their programming to consumers. 
+And lastly, local broadcast channels are no more a monopoly 
+than are the non-broadcast channels like AMC, Time Warner Cable 
+SportsNet, Bravo, and Discovery.
+    Thank you very much.
+    [The prepared statement of Mr. Padden follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+
+
+                               __________
+    Mr. Coble. Thank you, Mr. Padden.
+    I want to thank the witnesses for your timely testimony, 
+staying within the 5-minute rule. We try to apply the 5-minute 
+rule to ourselves as well. So if you can be terse in your 
+answers, we would be appreciative of that.
+    Mr. Garrett, how is Major League Baseball working to make 
+its content available to Americans in new ways with advanced 
+technology?
+    Mr. Garrett. Mr. Chairman, as I indicated in my testimony, 
+Major League Baseball currently offers approximately 5,000 
+telecasts of its games to consumers each season. That is 
+virtually every single game that is played during the course of 
+a season is made available to Major League Baseball's fans.
+    They do it in a variety of ways. They have done it over 
+national broadcast television networks such as Fox. They do it 
+over a myriad of local broadcast stations and regional sports 
+networks throughout the country. They do it over several cable 
+networks, including ESPN, TBS, the Major League Baseball 
+network. They make some of these programs available via their 
+out-of-market packages that are carried by cable systems and 
+satellite carriers to almost 67 million households across the 
+United States. And finally, they also make it available via 
+their very successful, award-winning MLB.TV app which makes all 
+of these telecasts available to anyone with an Internet-
+connected device, over 350 different devices.
+    Mr. Coble. Thank you, sir.
+    Mr. Dodge, for our constituents what issues should they be 
+asking the Congress to place its focus upon?
+    Mr. Dodge. If there is one issue that is top of mine for 
+DISH is that the retransmission consent system today is broken. 
+It is not a free market. In every local market around the 
+country, in the old days when cable was in its infancy, you had 
+one broadcaster who would negotiate with one cable company and 
+there was somewhat a symbiotic relationship or mutual assured 
+destruction, depending on how you looked at it, and today that 
+one broadcaster plays three or four distributors off against 
+each other and ultimately it is consumers who are caught in the 
+crosshairs and are hurt by losing their signals and have their 
+prices go up year after year.
+    Mr. Coble. Thank you, sir.
+    Mr. Padden, I think you have touched on this. In your 
+opinion, what would be the result if the section 119 license 
+simply expires, which I think is December of next year.
+    Mr. Padden. My recommendation is that Congress provide a 
+short transition period to allow the broadcast industry to get 
+its rights in order and then repeal all of these licenses. And 
+all that would happen is the broadcast programming would get 
+distributed exactly the same way the non-broadcast programming 
+is distributed today, through a simple negotiation between the 
+cable and satellite companies on the one hand and the local 
+station on the other hand, with the station acting as a rights 
+aggregator just as the non-broadcast channels do today.
+    Mr. Coble. I still have time. Anybody else want to weigh in 
+on that?
+    Mr. Dodge. Sure. I think what Mr. Padden suggests is very 
+similar to a bill that has been proposed by Representative 
+Scalise over at the Energy and Commerce Committee, and it is 
+certainly one potential option very worthy of debate. We are 
+just thrilled at DISH that there does appear to be a 
+recognition that there is a problem and that there should be 
+such a debate.
+    Mr. Waldron. If I may add. I think the section 119 license 
+expiring--this Committee could advance the debate by actually 
+getting a number as to how many people would be affected. So I 
+would suggest that the Committee ask the satellite carriers to 
+submit a certified number as to how many people today are 
+getting distant signal. In the past, we have heard 1 million. 
+But we do not know what the number is. And I think if the 
+Committee would get that information, then we could have a 
+serious debate about is this distant signal license worthwhile 
+to extend for this small number of people. There may be some 
+hardship cases. There may be special circumstances which 
+justify it. But right now we are all in a blind alley.
+    Mr. Coble. Time for one more comment.
+    Mr. Dodge. Well, in response to that, I would say that it 
+is true that there are less and less folks who are actually 
+availing themselves of the distant signal license today, but it 
+is a very important group of rural and underserved Americans, 
+for example, in short markets like Glendive, Montana that does 
+not have an ABC or Fox affiliate, and what the distant signal 
+license allows us to do is import those stations, the network 
+programming, to those folks who otherwise would have no access 
+to that.
+    Mr. Waldron. And we would be happy to have a conversation 
+about short markets and areas where there is a spot beam 
+problem. But we just do not know what the nature of it is. And 
+that would actually be a helpful step in promoting legislation.
+    Mr. Coble. How many people use it, Mr. Dodge?
+    Mr. Dodge. The estimates I have heard are 1 million to 1.5 
+million consumers.
+    Mr. Coble. I see my amber light appears. So I now recognize 
+the distinguished gentleman from North Carolina, Mr. Watt, for 
+his questioning.
+    Mr. Watt. Thank you, Mr. Chairman. As has become my policy, 
+I have decided to defer until the end of the process. So I will 
+defer to Mr. Conyers and go last in the chain.
+    Mr. Conyers. Thank you very much.
+    Could I begin our discussion that I thank you for the 
+variety of views presented? But do you believe, Mr. Dodge and 
+Mr. Padden, that Congress should do more than simply 
+reauthorize the distant signal license? Either one can start 
+off.
+    Mr. Padden. I am happy to go first.
+    As I have said, I think this is one Government program that 
+you can retire. These licenses were enacted before there were 
+any non-broadcast channels. They only apply to the programming 
+on the broadcast channels, and you now have hundreds of other 
+channels distributed nationwide with no muss, no fuss through 
+normal copyright negotiations, and I think that proves that you 
+do not need these licenses anymore for the broadcast 
+programming.
+    Mr. Dodge. To address that specific point, I believe there 
+is a difference between cable channels and the local 
+broadcasters, the chief difference being the local broadcasters 
+received at least initially billions of dollars of spectrum for 
+free under the promise that they would be stewards of that 
+spectrum and use it for the public good. And they are further 
+propped up by rules such as must-carry, syndicated exclusivity, 
+and network non-duplication that the cables do not have the 
+benefit of.
+    And to your specific question, Ranking Member Conyers, we 
+think that the satellite act should be reauthorized so that the 
+current beneficiaries are not disenfranchised.
+    And further, we think there are two reasonable zones of 
+expansion that should be considered, one of which is fixing the 
+broken retransmission consent system as it stands today, and 
+the other is fixing the orphan county that, at least in my 
+case, every time around this year, the folks in two southwest 
+counties in Colorado start asking the question of why they 
+cannot watch the Broncos. And the reason is because they are in 
+the Albuquerque DMA.
+    Mr. Conyers. Well, Mr. Dodge and Mr. Padden, do I sense 
+that there is a little space between both your responses? 
+[Laughter.]
+    Mr. Dodge. Yes, although we are good friends.
+    Mr. Conyers. We are all friends here.
+    Mr. Padden. Ranking Member Conyers, this Committee asked 
+the expert agency, the Register of Copyrights, to study these 
+licenses, and their report said--and again I will quote--that 
+they are arcane, antiquated, complicated, and dysfunctional. I 
+cannot imagine why you would want to continue such a program.
+    Mr. Conyers. Now, I am going to give you another chance, 
+Mr. Dodge. What are the targeted fixes that the American 
+Television Alliance, ATVA, is calling for to the retransmission 
+consent rules as part of the STELA reauthorization?
+    Mr. Dodge. Principally there are two, the first of which is 
+one that we favor, which is allowing video providers to import 
+a distant signal on an interim basis during the pendency of 
+retransmission disputes when the broadcaster takes down the 
+programming. The other would be some form of standstill where 
+the programming stays up and then the parties would enter 
+binding baseball-style arbitration to reach a fair rate. But in 
+each of those cases, the consumers would still have access to 
+the programming and theoretically the broadcasters in the first 
+instance would still have an incentive to negotiate, as would 
+the TV provider because the distant signal is an imperfect 
+solution.
+    Mr. Conyers. Would you add to that, Mr. Waldron?
+    Mr. Waldron. Absolutely. Thank you, sir.
+    In terms of it, I think it is clear that there are 
+thousands of cable systems in America. There are thousands of 
+broadcasters in America. And the vast majority of time, the 
+system works. There is a marketplace settlement. There are 
+marketplace negotiations.
+    The fact is, as I mentioned in my testimony, there has been 
+an increase in disruptions, and they all involve three 
+companies, DirecTV, DISH, and Time Warner. We see this, 
+frankly, as a manufactured crisis. They are deliberately going 
+and playing the game and, frankly, in order to get this 
+Committee to pay attention to these issues.
+    So we actually think in the vast majority of cases the 
+system is working.
+    And with respect to the suggestion of a standstill, well, 
+there is another way of putting that. They get to take my 
+copyright without my permission. That is what a standstill is. 
+I do not want to give them my retransmission consent, but yet 
+they get to take it because they were taking it before. And I 
+do not want to give it to them anymore. That seems rather 
+contrary to our copyright law tradition. So we think that 
+actually would be not something that the Congress should 
+endorse.
+    Mr. Padden. Could I add one thing?
+    Mr. Conyers. Yes.
+    Mr. Padden. In evaluating the request being made by the 
+cable and satellite industry for a standstill provision, I 
+think you should consider the fact that the cable industry just 
+went to court and successfully defeated a standstill agreement 
+in program access disputes. So they went to court and got rid 
+of the standstill when they did not want to continue to carry 
+something, and now they are back here asking you to enact a 
+standstill against the broadcasters.
+    Mr. Conyers. Mr. Campbell, the last comment.
+    Mr. Campbell. Thank you, Ranking Member Conyers.
+    The companies that Mr. Waldron mentioned are very large. 
+And we are a new entrant into the market. I would suggest that 
+often these larger companies play the negotiations against 
+smaller companies like CenturyLink trying to compete and win 
+customers over. And without any leverage at all, we are the 
+ones that are getting kind of swallowed up in this thing, and 
+that is going to stifle competition, investment, and 
+innovation.
+    The other thing I would point out is while the broadcasters 
+often threaten to black out, it is unlawful for any provider to 
+not carry the signals during ``sweeps week,'' which is the week 
+that broadcasters get their ratings and make their advertising 
+money. That is the 1 week we cannot put it off.
+    Mr. Conyers. Mr. Chairman, could I get 30 seconds more?
+    Mr. Coble. 30 seconds will be granted.
+    Mr. Dodge. Thank you. I just wanted to address one point 
+made by Mr. Waldron, which is that 90 percent of the blackouts 
+are caused by three entities, my company included. And I guess 
+that is a bit in the eye of the beholder because we would, of 
+course, take the view that 100 percent the blackouts are caused 
+by four companies, ABC, NBC, CBS, and Fox and their affiliates. 
+[Laughter.]
+    But putting that aside for the moment, if you look at the 
+facts, it is not surprising the DISH, DirecTV, and Time Warner 
+Cable represent, as they assert, 90 percent of the blackouts 
+because, one, we represent 50 percent of the marketplace for 
+pay TV today. The other 25 percent is Comcast, which owns NBC, 
+arguably is conflicted. And the remaining 25 percent is folks 
+like Mr. Campbell. So in many ways, DISH, DirecTV, and Time 
+Warner are the only folks who are actually able to negotiate 
+effectively with the broadcasters, and thank goodness we are 
+out there fighting for consumers to lower prices.
+    Mr. Conyers. Thank you, Chairman Coble.
+    Mr. Coble. You are welcome, Mr. Conyers.
+    The distinguished from Virginia, Mr. Goodlatte, is 
+recognized for 5 minutes.
+    Mr. Goodlatte. Thank you, Mr. Chairman.
+    Mr. Donato, I want to ask you a question on behalf of my 
+constituents. I have a number of them that I hear from who live 
+usually in a rural area, a good distance from the market that 
+they are in and a lot closer to another market that they would 
+prefer to receive the broadcast signal from or the 
+retransmission of that. And I wonder if you might just 
+elaborate on that. These are lots of people but living in rural 
+areas who are 75 miles from the D.C. market but 25 miles from 
+the small Harrisonburg market and would rather have the 
+Harrisonburg market.
+    Mr. Donato. Generally each year there are a few markets in 
+which that kind of a situation happens. The DMA is what it is. 
+It was created to reflect the viewing of people in that county. 
+So the particular counties that you are talking about, as I 
+said in my testimony, the predominance of viewing is actually 
+to the home market that it is currently in.
+    Again, it was developed as a mechanism to define the 
+geography in which television signals are viewed and therefore 
+local advertisers would be able to use local television and 
+support local television.
+    Mr. Goodlatte. Should those lines be adjusted?
+    Mr. Donato. We have an analysis process. Every year we go 
+through and we evaluate the viewing for each county within the 
+DMA. It is perhaps a little bit conservative in that you have 
+got to have a statistically significant change 2 years in a row 
+before we move the county over. But the reason for that is the 
+need for stability in the marketplace overall in the 
+advertisers' behalf.
+    There are always better ways of doing things. We generally 
+treat these situations on a case-by-case basis. We often meet 
+with Congressmen when in their district there is an issue and 
+we describe what the numbers are. So it is a system upon which 
+almost $40 billion worth of advertising has been very 
+successful for the last 50 years.
+    Mr. Goodlatte. Let me interrupt you, and I want to ask a 
+couple other questions that are of a broader nature.
+    But before I do that, I want to ask Mr. Garrett if he wants 
+to respond to Mr. MacKenzie's suggestion that the sports 
+broadcast antitrust exemption should be eliminated.
+    Mr. Garrett. Mr. Chairman, actually I do not have a 
+response. There is nobody who comes to me and asks for advice 
+on antitrust laws. My focus is on copyright law and what is 
+good copyright policy.
+    Mr. Goodlatte. Well, in light of that, I will cut you short 
+then and ask if you work with and represent people who might 
+have an opinion on that subject.
+    Mr. Garrett. Absolutely.
+    Mr. Goodlatte. And if they would submit that to the 
+Chairman of the Committee in writing, I would be pleased if the 
+Chairman would share that answer with me when it arrives.
+    Mr. Garrett. Absolutely.
+    Mr. Goodlatte. Let me ask all of the members of the panel 
+what is the proper role for Congress in responding to 
+marketplace disputes. In order to resolve disputes, should 
+Congress set general guidelines for the marketplace to follow, 
+or should it set detailed requirements that all participants 
+must follow? And then as an adjunct to that, are there ways for 
+business disputes to occur and be resolved without disrupting 
+the consumers who rely upon satellite and cable services for 
+access to video content?
+    Mr. Donato I gave you a shot. I will start with Mr. Dodge 
+and we will work our way down. If we have time, we will get 
+back to you.
+    Mr. Dodge. I will take your second question first, and I 
+would say the ways to avoid consumers being disrupted are the 
+two ways I said earlier, which is, one, allow us to import a 
+distant signal during the pendency of these disputes or some 
+mechanism for a standstill. I have to say I am not all that 
+familiar with the niceties of what standstills have and have 
+not been struck down over the time, but the fact of the matter 
+is if the broadcasters are going to sit here and wrap 
+themselves in localism as a justification for about 99 percent 
+of what they are saying, why do they want to take the signal 
+down and disenfranchise consumers at these times? Leave the 
+signal up. We are not saying we are not going to pay during 
+those periods. We gladly will. But do not disenfranchise the 
+consumer.
+    Mr. Goodlatte. We have just got to keep moving because of 
+limited time.
+    Mr. Waldron. Two points. One is that Congress actually, I 
+think, wisely decided in 1992 to essentially have the 
+marketplace settle these issues.
+    And secondly, where there are problems, frankly, consumers 
+should have more choice. So it is sometimes difficult to change 
+your provider. There were news reports that people wanted to 
+change from Time Warner, but nobody was answering the phone. 
+And there are cancellation penalties and the like. So that 
+actually would enhance the marketplace competition.
+    Mr. Goodlatte. Mr. MacKenzie?
+    Mr. MacKenzie. I think our position is general guidelines 
+would be better than specific guidelines. Mr. Dodge has come up 
+with two ideas, the distant signal and also kind of preventing 
+the blackouts. A distant signal really does not work for the 
+cable industry because we do not already have that content. The 
+satellite industry already has that content and can quickly 
+move it. For us, it would be building fiber and trying to get 
+it off air, which would be impossible. So from our standpoint, 
+preventing the blackout by leaving the signal on while we 
+negotiate would be preferable.
+    Mr. Goodlatte. Mr. Campbell?
+    Mr. Campbell. Not to repeat what has been said, I agree 
+with Mr. Dodge and Mr. MacKenzie.
+    But to return the negotiations to actual free market 
+negotiations, we hear a lot about the thumb on the scale in 
+favor of one party over the other. We do not seek to have the 
+thumb put on the scale in our favor. We would just rather have 
+it removed from the other side so that the negotiations do 
+become, once again, free market negotiations because the world 
+has changed a lot since 1992.
+    Mr. Goodlatte. Thank you.
+    Mr. Garrett?
+    Mr. Garrett. From Major League Baseball's standpoint, they 
+license a great deal of programming that they want their 
+consumers--they want their fans to see. And they are as 
+frustrated as anyone either here in Congress or the fans 
+themselves when that programming is not made available.
+    Having said that, we also recognize that broadcasters have 
+property rights in those signals, and we believe the best way 
+to determine the value of those property rights is through free 
+marketplace negotiations. And that is the objective that we in 
+baseball have, is to have free marketplace negotiations or, at 
+the very least, fair market value compensation for the 
+programming that is being utilized.
+    Mr. Goodlatte. Thank you.
+    Mr. Padden?
+    Mr. Coble. The gentleman's time has expired.
+    Mr. Padden, you may respond.
+    Mr. Padden. If I could, I would like to respond briefly to 
+your question to Nielsen about the DMA. This is an example of 
+the dysfunction that is built into the compulsory license and 
+the associated FCC rules. In the free market, if you have 
+constituents who want to see station A and station A would like 
+constituents to see it and there is a distributor between them 
+that would like to make money distributing it, they can figure 
+it out. All the non-broadcast channels get distributed anywhere 
+someone wants to see them.
+    The problem is the compulsory license and the associated 
+FCC rules actually enshrine Nielsen's rating data from 1972 as 
+the basis for what signals can go where. They are still sitting 
+in the FCC rules, 1972 ratings data. And if you would just get 
+a big broom and sweep all of this stuff away, the free market 
+could better serve your constituents.
+    Mr. Goodlatte. Thank you, Mr. Chairman.
+    Mr. Coble. Thank you. The gentlelady from California, Ms. 
+Chu, is recognized for 5 minutes.
+    Ms. Chu. Thank you, Mr. Chair.
+    Mr. Dodge, I understand that--well, in fact, you said 
+earlier that 1 million to 1.5 million households in the United 
+States currently get their access to broadcast stations through 
+the distant signal service. But it is clear that the number of 
+households that are dependent on the distant signal decreases 
+every time Congress looks into reauthorizing section 119.
+    Can you tell us who these remaining 1 million to 1.5 
+million households are and where they are located? Are they 
+mostly located in rural areas, or are they concentrated in 
+certain parts of the country?
+    Mr. Dodge. Generally located in rural and underserved 
+areas. And there is really four categories, if you will, of 
+consumers: folks in short markets such as Glendive, Montana 
+that is missing a Fox and an ABC where we are allowed those 
+network affiliates into those markets; outside the spot beam of 
+our satellites. So if you think of Utah, for example, which is 
+a rectangle--our spot beams are generally round. The law allows 
+us to provide distant signals to the folks that are not covered 
+by our spot beams. Commercial trucks and RVs are covered by the 
+distant signal license, and then DirecTV.
+    We are an alternate in 10 markets so we do not actually 
+make use of the, quote, traditional unserved household 
+exception allowing a distant signal, but DirecTV does because I 
+believe there are still 15 markets where they do not provide 
+local service. And then they have some grandfathered 
+subscribers as well I believe.
+    Ms. Chu. And do we have that technology now to close the 
+gap to them?
+    Mr. Dodge. For example, the short market issue is just 
+purely the fact that there are no affiliates of a particular 
+network in those markets. And with respect to outside of the 
+spot beam, it depends on whether or not the satellite beam is 
+large enough to actually cover an entire DMA, which it is not 
+in all cases, but it is very, very limited when it is not.
+    Ms. Chu. Mr. Waldron, I am aware that today consumers have 
+several options for how they will view video content. They can 
+access the content through pay TV carriers or other options now 
+through the Internet. There is no doubt that the online model 
+will continue to grow in the coming years. To what extent 
+should we consider these newer platforms as we are 
+reauthorizing satellite TV laws? Should we consider them at 
+all?
+    Mr. Waldron. Well, I think they can inform the debate 
+because they show how the TV market is evolving.
+    And let me also say that, you know, we have talked earlier 
+about the conflict between CBS and Time Warner Cable. A 
+significant part of that dispute was about the ability for CBS 
+to offer its programming to a competitor to Time Warner Cable. 
+Now, I understand why Time Warner Cable does not want CBS to 
+make its programming available to a Hulu or a Netflix or an 
+Amazon Instant Video. But CBS actually is interested in doing 
+that to give consumers choice. So you should be aware that that 
+is actually increasingly a matter of the negotiations. It is 
+not necessarily the fee which news reports said was a deal that 
+was cut relatively early in the process, but in fact, enabling 
+broadcasters to actually have--giving consumers choice across 
+these different platforms.
+    Ms. Chu. Well, in fact, the digital rights of content are 
+playing a more important role in these retransmission 
+negotiations. How do you think the issue of digital rights will 
+impact future negotiations, and does Congress have a role in 
+protecting consumers in this regard?
+    Mr. Waldron. Well, I think Congress should actually say, as 
+it has, that the copyright holders should be able to negotiate 
+an agreement across all of their content. As I said, I think 
+the CBS example is telling in that CBS wants to actually 
+promote competition. So that is why they actually went about 
+those negotiations. And we think that actually is a way that 
+consumers can give choices.
+    I do want to come back to a statement that Mr. Dodge said. 
+We do not dispute that there are some hard cases out there such 
+as the short market situation or the corners of spot beams. But 
+what we do not know is how many there are. And Mr. Dodge is one 
+of two. So he said earlier he has heard the 1.5 million. Well, 
+he has half of the information that is needed and DirecTV has 
+the other half. So it is not like you have to survey a thousand 
+companies in order to get this data. And what we would like to 
+do is to get what is the number and what is the context. How 
+many are RVs, how many are in short markets, how many are spot 
+beams problems. And as DISH has proven, there is now technology 
+so that there should not be an unserved household. So DISH is 
+in 100 percent of all the markets.
+    Ms. Chu. And can you address the issue of localism, the 
+principle that is embedded in our Nation's communications laws? 
+Can you tell us how the law developed to focus on localism and 
+some of the benefits of holding onto that principle?
+    Mr. Waldron. So just quickly. So localism goes back to the 
+original broadcast licenses. It is embedded in the 
+Communications Act of 1934, and it is the notion that 
+broadcasters should meet the needs of their local community. 
+That makes American broadcasting unique around the world. There 
+are national broadcast systems in Europe and in Asia. We have a 
+locally focused broadcast system.
+    The reason why we have concerns with the distant signal--it 
+undermines that localism. That local broadcaster who is 
+bringing the local car dealership, who is talking about the 
+local high school sports or the tornado--if you are getting a 
+signal in from New York or LA, you are not going to be aware in 
+Moore, Oklahoma about the tornado that is coming. So localism 
+is the heart of the broadcast and it also is at the heart of 
+the satellite laws. And we think that that actually is a strong 
+argument why the Committee should be skeptical that a distant 
+signal license is still needed.
+    Ms. Chu. Thank you. I yield back.
+    Mr. Coble. I thank the gentlelady.
+    The gentleman from Texas.
+    Mr. Farenthold. Thank you very much.
+    Having grown up as a broadcaster working in radio since I 
+was 15 years old, I kind of grew up with the public interest, 
+convenience, and necessity standard. And I certainly have a 
+great deal of sympathy for the local broadcasters.
+    I want to ask Mr. Dodge and maybe Mr. MacKenzie. If we take 
+away or limit the local TV station's leverage with respect to 
+negotiating a programming license by allowing distant signals, 
+what leverage are they going to have in the negotiations?
+    Mr. Dodge. Well, if you believe what they say and localism 
+is as important as it is, then the distant signal is an 
+imperfect solution. All it will do is ensure that folks 
+continue to be able to watch American Idol, but they will not 
+be getting their local news.
+    Mr. Farenthold. I do think that that is important. And, Mr. 
+Waldron, maybe you can tell me some of the benefits that we are 
+getting. I cannot believe Jim Cantore is going to give me 
+better hurricane information than the weathercaster we call 
+``Dead Wrong Dale'' affectionately in Corpus Christi.
+    Mr. Waldron. Actually that is exactly right. And look, we 
+understand the market. We understand that people actually are 
+tuning in on a daily basis for their American Idol or for their 
+CBS or NBC hit show. But when the tornado comes, suddenly there 
+will be an outcry. And I do not think you want to say where is 
+that local station the day after the tornado hits. So that is 
+the point, that localism is about being there and serving the 
+community all the time. And yes, much of the viewing is tuning 
+in for----
+    Mr. Farenthold. Okay. I have got limited time.
+    So, Mr. MacKenzie, can you tell me--go ahead. Did you want 
+to answer this?
+    Mr. MacKenzie. I would. The American Cable Association are 
+primarily very small cable providers. Oftentimes we are at the 
+edge of a DMA. So I will use my system as an example. We are in 
+Shenandoah County, which is in the Washington, D.C. DMA. You 
+cannot get off air in our area. We have to have that brought in 
+by fiber to do so. So I can tell you there are no local sports. 
+There are no local--but I can get that from a distant station 
+which is only 30 miles away.
+    Mr. Farenthold. All right. So let us talk about section 
+119. And if we do away with the requirements--or the incentives 
+for local stations to get on or the requirements, do we end up 
+with network affiliate super stations where it is the station 
+in New York or Chicago or LA that everyone gets? And then how 
+does the local car dealer advertise or whatever business there 
+is in the local community or a candidate for Congress?
+    Mr. Waldron. Our view is that is absolutely what would 
+happen, that the easiest thing for the carriers to do would be 
+to make an arrangement with New York and Chicago and LA. So 
+then we would have a national broadcast system, which is how 
+some other countries are doing it. That is not the American 
+system and it is not the case that actually would give a 
+platform for the car dealers or the movie theaters----
+    Mr. Farenthold. I am sorry. I have got limited time.
+    Mr. Dodge----
+    Mr. Dodge. Can I just say----
+    Mr. Farenthold. Sure.
+    Mr. Dodge. Why should consumers not be able to choose in 
+that case? It sounds like Mr. Waldron is proving the point that 
+perhaps localism is not that important. If a consumer is going 
+to be satisfied with New York, shouldn't they make that----
+    Mr. Farenthold. But isn't it much cheaper for you and uses 
+less bandwidth and less resources for you on your satellite 
+just to have one national? You do away with all the spot beams 
+and all of that and you just have one station. And it is 
+actually cheaper for you to broadcast one affiliate rather than 
+several hundred?
+    Mr. Dodge. It certainly would be, but the fact of the 
+matter is today we broadcast locals in all 210 markets. We have 
+made the decision that we want to be in there, and all we are 
+saying is to protect consumers from takedowns, allow us to 
+temporarily import a distant signal. That is not the end game.
+    Mr. Farenthold. Would another option to the ones you 
+suggested might be, all right, you stay up and you go under 
+whatever agreement is eventually reached?
+    Mr. Dodge. Of course.
+    Mr. Farenthold. All right.
+    Mr. Donato, we talk about these million or so----
+    Mr. Donato. Designated market areas.
+    Mr. Farenthold. Yes. Well, we talk about the million or so 
+people who are not served by anybody. Is there a way we set it 
+up where--and even with the DMAs, we set it up to the one that 
+is most rationally close to them? Isn't there just a way to 
+start over and do away with the 1972 stuff? If I had my choice 
+of local affiliates in Washington, D.C. on DirecTV, I would 
+pick the Corpus Christi local affiliate.
+    Mr. Donato. So the 1972 stuff is--that is what existed at 
+the time the law was written, and that is why it is in the 
+appendix and no one has gone back to update it. We would be 
+delighted to supply the Committee with updated information on 
+it.
+    Just so you understand what the implications are, pay 
+penetration in 1972 was obviously less than 5 percent or the 
+amount of viewing that went to pay was less than 5 percent. And 
+right now the amount of viewing that goes to cable stations is 
+about 60-65 percent. So there has been a shift.
+    Typically the counties in which it feels like it is 
+irrational because you cannot get the Broncos game are really 
+large rural counties, and most of those people in those 
+counties do, in fact, watch to the home market station. We do 
+have split counties. We had split counties in the past.
+    Mr. Farenthold. My time is up. I have now got to go 
+research whether or not watching my Corpus Christi stations on 
+my Slingbox is illegal. I am really concerned now.
+    I yield back.
+    Mr. Coble. I thank the gentleman.
+    The distinguished gentleman from Florida, Mr. Deutch, is 
+recognized for 5 minutes.
+    Mr. Deutch. Thank you, Mr. Chairman.
+    Mr. Padden, you have made an argument, a very compelling 
+argument, that the current retransmission system that is in 
+place is incredibly complex, comically complex I am sure you 
+would say. But your solution is to walk away--for us to walk 
+away from that process altogether, which would bring all of the 
+broadcast stations into the free market, if I understand your 
+proposal. And I appreciate your desire to take Congress out of 
+this. And the full Committee's Chairman I think touched on this 
+before. If you take Congress out of these business-to-business 
+dealings, Congress is still going to be tipping the scales in 
+favor of one party or the other either by keeping compulsory 
+licenses or by striking them. Why is walking away altogether a 
+fair solution?
+    Mr. Padden. I think the best way to explain it is like 
+this. First you gave cable--I will say cable and satellite a 
+compulsory license for the programs on broadcast stations. Then 
+as part of that deal, the FCC adopted rules that restrict cable 
+and satellite's use of that compulsory license. And then in 
+1992, Congress enacted retransmission consent which requires a 
+marketplace negotiation between the station and the cable and 
+satellite people. So you ended up at the same place you would 
+be, namely in marketplace negotiation, if you had done nothing 
+except you have got a bunch of regulatory warts that you 
+developed along the way like the fact that the 1972 rules are 
+still in the FCC's rules.
+    All I am saying is it is a Rube Goldberg system. It is a 
+complex way to do something simple, and it really is a chance 
+for once to say here is a Government program that each little 
+step made sense when we did it but the end result is 
+nonsensical, so we are going to back out of it.
+    Mr. Deutch. Mr. Dodge, let's talk about regulatory warts 
+for a second. I assume that you would be in some disagreement 
+with that proposal. But I am hoping you could walk us through 
+the process that DISH undertakes to negotiate with local 
+broadcasters. What makes that more difficult from your 
+company's perspective than negotiating with the non-broadcast 
+stations that Mr. Padden holds up as the model as to exactly 
+how this should now work? As he points out, those negotiations 
+all take place without any congressional interference at all. 
+Why is there a difference? Is it more difficult and, if so, 
+why?
+    Mr. Dodge. It is more difficult because you have 210 small 
+monopoly territories, if you will, where this one local 
+broadcaster who, as Mr. Waldron asserts, has this valuable 
+local content that is irreplaceable that no one else can 
+recreate, and that one broadcaster gets to play three if not 
+four distributors off each other. And oftentimes you get to a 
+point in a negotiation where they are asking for 300-400 
+percent increase, and they say, okay, I guess we are not going 
+to get there. I am just going to take the signal down. I am 
+going to call up your competitors and tell my consumers to go 
+switch to them. And the problem is while the broadcaster might 
+lose an eyeball for 30 days, DISH has lost a customer for 
+eternity after the consumer goes through the headache of 
+switching.
+    Mr. Deutch. Mr. Dodge, can you just go through that in a 
+little more detail, though? When you say they are playing 
+several off of one another, can you give me some examples? How 
+does that actually work? What is it that you would see happen?
+    Mr. Dodge. So in some cases, the broadcasters literally 
+start running advertisements in the paper saying--you know, 
+putting into their signal that you are about to lose your 
+signal from DISH network. Please call DirecTV or Comcast, 
+whomever. They run advertisements in the local papers. And, you 
+know, as Mr. Waldron says, maybe it is a smaller amount of 
+these things that actually go to a takedown. What he does not 
+account for is there are numbers of these where you do actually 
+get to an 11th hour negotiation, but the consumers have been 
+bombarded for weeks if not a month with all these 
+advertisements and messages across the bottom of the screen 
+saying the sky is falling, you better switch now. So there is a 
+huge disenfranchisement of consumers even in cases where it 
+does not actually go to a takedown.
+    Mr. Deutch. Mr. Waldron?
+    Mr. Waldron. Let's take Mr. Dodge's statement, read it 
+back, and swap out the word HBO for broadcaster. HBO does not 
+want to reach a deal with the local cable company. HBO is going 
+to pull back its programming. HBO is going to run an 
+advertising to say that, ``Oh, you want to watch HBO, you want 
+to watch your favorite show? Go to DirecTV because DISH does 
+not have HBO.'' What is so remarkable about this? These are 
+marketplace negotiations. To your point, Congressman, what you 
+started out with, what is different about this, as Mr. Padden 
+said, with every other sort of broadcaster? And the answer is 
+Congress depends on HBO and DISH and DirecTV to have serious 
+negotiations and to deal with the marketplace. That is the same 
+exact thing that is going on here.
+    Mr. Dodge. And if I may.
+    Mr. Deutch. Can I have 15 seconds just to hear the 
+difference? Mr. Dodge?
+    Mr. Dodge. So with respect to HBO, are there other movie 
+channels out there? Yes, there are. Is there potential 
+substitute programming? Yes, there is.
+    Now let's substitute in what Mr. Waldron said. I guess 
+localism is not that important. We should be able to import New 
+York because it is just not that important what is actually 
+going on in Denver. He cannot talk about of both sides of his 
+mouth.
+    Mr. Coble. The gentleman's time has expired.
+    The distinguished gentleman from Florida?
+    Mr. DeSantis. Mr. MacKenzie, if you wanted to chime in, go 
+ahead.
+    Mr. MacKenzie. I would. I think the big difference between 
+DirecTV and DISH and members of the American Cable Association 
+are relative size. We are very small providers, normally with, 
+on average, less than 5,000 subscribers. When we start our 
+retransmission discussions with the broadcasters, it is after 
+they have already negotiated with the big company that is in 
+the DMA. When we try to make a negotiation--and on numerous 
+occasions I have asked, ``Could we have a most favored nations 
+clause in our contract to make sure that we are being treated 
+fairly compared to the others in the marketplace?'' And I have 
+never been able to get that in. So I think there is a huge 
+difference between the negotiations between a DirecTV and DISH 
+and the broadcasters and the small cable operators and the 
+broadcasters.
+    Mr. DeSantis. Great. I just wanted to give you a chance.
+    This is my first time going around with this. I am a 
+freshman, but it is really interesting to see. I was listening 
+to the Major League Baseball testimony, and I am one of the 
+youngest Members of Congress, but yet I remember watching 100 
+games about. We had TBS in Florida, TBS for the Braves, WGN for 
+the Cubs, a little bit of White Sox. Then we did get WOR, so 
+there were Mets games. So those were the people that I 
+followed. When ESPN started covering cable, you started to get 
+more, and then with the Internet--I remember when MLB.TV came 
+out. You could actually watch games at work. And now you can do 
+it on your devices. I mean, it is just unbelievable. And I 
+think the technology is great. I wonder about the lost 
+productivity in the American workforce, but I guess that is 
+just a discussion for another time.
+    So as someone who is new to this, I would just like you all 
+to say--you know, we are here. A lot of people say, you know, 
+Congress--they got to solve the problems of the American 
+public, all that. And that is nice to say but it obscures the 
+fact that we actually create a lot of problems here through the 
+years. And I have seen it in other areas.
+    And so as somebody who is new looking at this, what would 
+you say as kind of something that Congress has created a 
+problem with this that we should look to rectify? I probably 
+know where Mr. Padden is going but can you start and then just 
+give me a quick----
+    Mr. Padden. Sure. One perfect example is the compulsory 
+license that you enacted gives cable systems the right to carry 
+stations that are deemed significantly viewed in their county 
+based on a list of ratings from 1972 that is enshrined in the 
+FCC rules. And if a station wants to get carried somewhere else 
+and the constituents there want to see it, the station has to 
+petition the FCC to amend the list of significantly viewed 
+stations so they can be carried there. It is crazy. I mean, if 
+you simply rely on the free market and there are people who 
+want to see the station and the station wants to be seen, they 
+will figure out how to get it done.
+    Mr. DeSantis. Mr. Garrett?
+    Mr. Garrett. Well, Congressman DeSantis, there are probably 
+several answers I could give. The one I would focus on for 
+Major League Baseball here is the fact that entities like Major 
+League Baseball and other content owners are forced to 
+subsidize essentially a $100 billion industry by providing them 
+with below-market programming pursuant to the compulsory 
+license.
+    You mentioned the great variety, the wealth of programming, 
+baseball programming that you can see now. The vast bulk of 
+that programming is made available through negotiated licenses, 
+through marketplace negotiations. And we think that the same 
+can be true of the program that is now available during 
+compulsory licensing, but if compulsory licenses continue, at 
+the very least, we should have fair market value paid for that 
+programming.
+    Mr. DeSantis. You mentioned the industry. But what is the 
+dollar loss to Major League Baseball? Have you looked----
+    Mr. Garrett. I do not know the answer to that. It is not a 
+question of harm here. It is a question of talking about what 
+is fair and reasonable and that marketplace compensations, 
+marketplace value is what we all live with in this industry.
+    Mr. DeSantis. Thank you.
+    Mr. Campbell?
+    Mr. Campbell. Congressman DeSantis, thank you.
+    Conceptually I think that the biggest problem is that the 
+rules that are currently in place do not recognize what the 
+marketplace looks like today and it is ever-changing and ever-
+evolving. I think the biggest thing that Congress could do 
+would make sure that rules are in place that encourage 
+innovation and investment and competition because we are 
+dealing with companies that have been there forever, and I 
+think consumers benefit the most by having companies like 
+CenturyLink go into a major market, invest the capital, and 
+compete. And I think the rules in place would tend to stifle 
+that. So I think conceptually that is what Congress should take 
+a look at.
+    Mr. DeSantis. Good.
+    Mr. MacKenzie?
+    Mr. MacKenzie. Small rural carriers are the ones who are 
+bringing broadband to America which is, I know, a priority for 
+everyone. But oftentimes the rules and regulations are one size 
+fits all. And so I think one of the things we should look at is 
+some changes in the rules or when the rules are being looked 
+at, how it impacts the small providers.
+    Mr. DeSantis. I am out of time, but if the rest of you 
+gentlemen would like to submit something, I would certainly 
+love to hear your views as well.
+    So thank you for coming.
+    Mr. Coble. I thank the gentleman from Florida.
+    The distinguished lady from California.
+    Ms. Bass. Thank you very much, Mr. Chairman.
+    And our witnesses today--I appreciate your time. It has 
+been helpful to me coming from Los Angeles and having just 
+experienced the blackout which, again, I thought was specific 
+to our area and did not really realize how widespread this was 
+or why this happens.
+    So I just had a couple of questions for you, one of which 
+is do you worry that pulling consumers into these escalating 
+negotiations between cable or satellite and broadcasters means 
+that more people are going to opt out of pay TV and whether or 
+not you think this would have a harmful effect on content 
+creators whose shows are distributed on cable and satellite? 
+And that is for anybody.
+    Mr. Waldron. Can I make one point?
+    Ms. Bass. Sure.
+    Mr. Waldron. I want to emphasize that a broadcaster is a 
+free over-the-air service. So during the so-called blackout, 
+the service was available 100 percent of the time. I realize 
+that some people might not have antennas or some people might 
+have reception problems. But I do want to emphasize----
+    Ms. Bass. I could have seen CBS?
+    Mr. Waldron. I am sorry?
+    Ms. Bass. I could have seen CBS if I had rabbit ears?
+    Mr. Waldron. Yes, absolutely. It was available over the air 
+during the entire time, and indeed, there were reports at least 
+in the New York market that there was a run on antennas at 
+Radio Shack. So I do want to emphasize that the signal is 
+always on and always up. It may not be available on the cable 
+system, and we realize that, but it was available during this 
+whole time.
+    Mr. Dodge. Well, I would take a bit of an issue with that 
+as I do not think the broadcasters actually build out 
+terrestrial signal to their entire DMA, certainly not in every 
+DMA. So I think it depends where you lived in Los Angeles as to 
+whether you could get an off-air signal.
+    Ms. Bass. I see. I do not think people knew that, and I 
+doubt whether there was a run on rabbit ears in LA.
+    Mr. Dodge. Shame on broadcasters for not building out their 
+entire DMAs.
+    Ms. Bass. Okay.
+    Mr. Campbell. And from a pay provider perspective, it is 
+not free.
+    Ms. Bass. Okay.
+    The second question is many local broadcast stations play 
+an important role in providing local news, weather and 
+emergency information particular to the communities they serve. 
+And I know that we all agree that viewers should not be 
+deprived of local information, especially during emergencies. 
+So specifically I wanted to ask what steps can Congress take to 
+ensure that our constituents do not get caught in the middle of 
+these commercial disputes, particularly when weather or other 
+emergency information is at stake.
+    Mr. Waldron. Well, one approach that we would have is that 
+if there is a dispute, the consumers should be able to change 
+providers. So there should not be a cancellation fee, and 
+frankly there should be a rebate if they are denied service.
+    Ms. Bass. That is not that easy to do.
+    Mr. Waldron. I am sorry. Excuse me?
+    Ms. Bass. That is not that easy to do. I mean, if you just 
+want to cancel right in the middle of the dispute?
+    Mr. Waldron. I understand it is not easy to do, but that is 
+a choice that consumers can have in addition to getting the 
+signal over the air. And by the way, it is free to anyone who 
+has antennas. You can also pay for pay TV, but it is free to 
+anyone who has an antenna.
+    Ms. Bass. Okay, representing the antenna companies.
+    Mr. Dodge. Could I address just the point about refunds and 
+cancellation fees? I think, as is clear, our view of the world 
+is today it is an unfair fight as it stands. You have got one 
+broadcaster who plays all the distributors off against each 
+other. With all due respect, Mr. Waldron is trying to actually 
+make it even worse by saying now let's give another hammer to 
+the broadcaster by saying you have to do refunds and waive 
+termination fees in all these cases when, quite frankly, the 
+fact that there are blackouts are the exact reason why our 
+disclosures to our consumers in our contracts are crystal clear 
+that programming is subject to change because we cannot ever 
+guarantee that we are going to be able to provide any local 
+broadcaster's signal because there is this constant threat of 
+takedowns.
+    Ms. Bass. Thank you.
+    Would anybody else like to respond?
+    Mr. MacKenzie. Yes. I think the proposal that we put 
+forward that during these disputes the signal remains up while 
+the negotiations are going on, therefore the consumer is not 
+going to be harmed, and once the negotiations are completed, 
+then the fees are paid retroactive. So no one really is 
+disturbed or harmed by that, and it allows the consumer to 
+continue to have service during that period of time.
+    Ms. Bass. Anyone else? All right. Thank you. Oh, I am 
+sorry.
+    Mr. Padden. I would just repeat that Mr. MacKenzie's 
+industry just went to court to defeat a standstill agreement in 
+the context of the program access rules, and for them to now 
+come in and say they would like it in this instance I think is 
+unusually duplicitous even by Washington standards.
+    Ms. Bass. Would you like to respond to that, Mr. MacKenzie?
+    Mr. MacKenzie. My company and the companies of the ACA were 
+not involved in that suit. The large cable operators maybe, but 
+not the small cable operators.
+    Ms. Bass. Okay, thank you.
+    Mr. Coble. I thank the gentlelady.
+    The distinguished gentleman from Louisiana.
+    Mr. Richmond. Thank you, Mr. Chairman. I want to thank you 
+for having the Committee meeting today.
+    Let me just start with--I guess I will show a little 
+favoritism and start with Mr. Campbell from CenturyLink. I 
+guess my question to you would be looking at most of your new 
+subscribers and the fact that they are probably new to the 
+Internet and looking at the area where you all are located 
+which, if you go right down the street toward Monroe Lake 
+Providence, you are talking about one of the poorest places in 
+the country. That has consistently been that way. The fact that 
+your new customers and coming in and taking video along with 
+Internet access, what kind of effect is that having in the 
+area?
+    Mr. Campbell. Congressman, thank you for the question. It 
+has had a great effect not only for our subscribers that take 
+the video product but for those who choose not to. As we 
+upgrade the networks in these markets that we enter, we are 
+offering broadband speeds that range from 25 to 40 megabits. So 
+even those folks we cannot sign up to the video product that 
+may not want it, everyone else is getting enhanced broadband 
+speed. So really the benefit from the video perspective is 
+great because it allows us to compete with the incumbent cable 
+operator and offer a video product. But even from a broadband 
+perspective, the effect is even greater.
+    Mr. Richmond. From a price point, how are you all with the 
+traditional video providers and cable providers?
+    Mr. Campbell. Traditionally in the markets where we have 
+entered, we obviously enter lower than they do. What we have 
+seen is some slowdown in price increases from the incumbent 
+cable operator although that has not--they slow down the 
+increases. They still increase their prices and the content 
+acquisition is still a problem, but generally our price point 
+is lower.
+    Mr. Richmond. Let me just say that many local broadcast 
+stations play an important role in providing local news, 
+weather, and emergency information to the communities they 
+serve. However, nearly 90 percent of households today watch 
+their local broadcaster through a pay TV subscription and 
+therefore are dependent on cable, satellite, or other video 
+provider to offer this program. And as we mark the anniversary 
+of 9/11, I believe that we all agree that the U.S. should not 
+be deprived of local information during emergencies regardless 
+of how retransmission consent negotiation is proceeding. And I 
+mentioned 9/11 but, of course, in Louisiana and in our area, we 
+have to worry about hurricanes and tornados and other things.
+    So I would be interested whether the panelists would 
+comment on their views as to whether it is a fair negotiating 
+tactic to threaten blackouts given viewers are then at the risk 
+of missing emergency information. What steps can we take to 
+ensure that our constituents do not get caught in the middle of 
+that fight, particularly when weather and other disasters may 
+play a part? And anyone can start.
+    Mr. Dodge. Of course, we do not think it is fair for 
+consumers to be put in that position, especially given that the 
+broadcasters received at least initially billions of dollars of 
+spectrum for free under the premise that they would be stewards 
+of that spectrum for the public good.
+    And with all due respect to Mr. Waldron, I do not think 
+saying to folks, ``Hey, just go use an off-air antenna'' is a 
+100 percent satisfactory solution because the broadcasters do 
+not cover their entire DMAs with the free broadcast signal.
+    Mr. Waldron. The vast majority--I do want to emphasize the 
+vast majority of the thousands of broadcasters and the 
+thousands of cable companies reach deals. So for your 
+constituents and the vast majority of constituents, as I said 
+in my opening statement, 1 one-hundredth of 1 percent of all 
+viewing hours were lost to disruptions last year. You are 20 
+times more likely to lose your service because of a power 
+outage than you are because of retransmission consent impasse. 
+So broadcasters have every commitment to reach the deals in the 
+marketplace, and in the vast majority of times, those deals are 
+reached and constituents continue to get their service.
+    Mr. Campbell. Congressman, as you know, our company is 
+steeped in a rich history of being a local rural communications 
+provider, and we absolutely embrace localism. The issue from a 
+video perspective is--I think Mr. Dodge mentioned this--
+negotiations are not quite as local as they used to be. If we 
+were dealing with a local station in the Colorado Springs 
+market, then it might be a better negotiation process. We are 
+dealing with syndicates that own 30, 40, 50 markets who play 
+them against each other, who push these negotiations up to the 
+national level and tie in all of this non-local content into 
+the agreement and say take it or else. And so that is kind of 
+the issue from the video perspective.
+    In utopia, if they were local and it worked the way that 
+Mr. Waldron said, I do not disagree, but it does not work that 
+way.
+    Mr. Richmond. I see that my time has expired, and Mr. 
+Chairman, I yield back.
+    Mr. Coble. The gentleman's time has expired. I thank the 
+gentleman.
+    The distinguished gentleman from Georgia.
+    Mr. Collins. Thank you, Mr. Chairman. I appreciate the 
+opportunity to be here.
+    This is one of those issues that my staff and others have 
+said this is just a terribly complicated issue. And I began 
+reading about this last week, and I felt like I was back in law 
+school and, as I call, seminary ``cemetery'' and reading a 
+paragraph and having to reread it four or five times and saying 
+what exactly is being said here. Mr. Padden, you made a great 
+point about that. This is just chaotic.
+    And then I have been listening today, and what I come back 
+to is--having the great joy of serving Georgia's 9th 
+congressional district, which is northeast Georgia, the 
+mountains, the start of the Appalachian Trail, very rural but 
+also very urban in certain areas. Is what I hear lost here? The 
+people who are not in this room paid to be here and that is my 
+constituents back home who could really frankly care less about 
+the complexity of it. They are wanting to be able to get their 
+news, to watch new ideas and to watch new TV and to watch new 
+programming. And sometimes the complacency of what I have seen 
+here today is more fighting for our battles and our market 
+share than ending up--the bottom line is the person that we 
+actually serve. And this is some of the questions that I want 
+to take up first.
+    Mr. Donato, you answered a few minutes ago, and I am going 
+to assume that it was sort of off the cuff. But you said, well, 
+the DMA is what it is, almost implying like Nielsen--where we 
+are because we are in a statute doing what we do. But you do 
+not always have to be there. We can change that. I mean, there 
+can be other ways to look at DMAs and going very conservatively 
+and this kind of thing.
+    So I would like for you to explain the process in which 
+Nielsen decides current DMA boundaries and tell me whether or 
+not northeast Georgia is under current consideration.
+    Mr. Donato. Currently the process is annually. We go in and 
+we evaluate the share of tuning to stations from the home 
+market, and the market for a particular county which has the 
+majority of the viewing or the larger share--it is to that home 
+market that a county is assigned. In some cases very large or 
+rural or counties which are on the sort of outskirts of the 
+DMA, we will actually split counties and put one part of the 
+county in one market and one part of the county in the other 
+market.
+    Mr. Collins. Does safety ever become an issue? I mean, you 
+seem to talk about viewership, but I mean, we are talking about 
+safety here. We talked about hurricanes, tornados. Does safety 
+ever enter into what you are thinking about? Because by 
+splitting a county--Elbert County is one of mine that is split. 
+I was watching just a few months ago when we had an issue with 
+ice. I did not even see four of my counties on the Atlanta 
+area--which I am in Gainesville--even listed there. I mean, is 
+there safety that ever comes into account of what you are 
+talking about?
+    Mr. Donato. The DMA is entirely based on viewing.
+    Mr. Collins. Okay, and I appreciate that because we have 
+something I want to cover here.
+    So these gentlemen have talked about safety and localism 
+and these kind of things, but yet, when we do the DMA, safety 
+is not a consideration being taken into account. So the 
+argument is really interesting here. We get them talking about 
+localism and safety. We get you saying, well, we do not even 
+take it into account for DMAs.
+    Mr. Donato. I guess I would respond in this way. So the DMA 
+is basically set up as a commercial entity so that buyers and 
+sellers of advertising understand the geography associated with 
+viewing audiences. It is the basis for literally hundreds of 
+billions of dollars of commercial activity, and it really is 
+the thing that has supported local television all along. It is 
+objective. It is based on viewer preferences. It is not based 
+on any rules. We frequently talk to Congressmen and women when 
+there are issues that arise in terms of someone not seeing a 
+signal and they go to their Congressman or woman.
+    Mr. Collins. We are going to talk about that in just a 
+second.
+    Mr. Donato. Yes. We basically handle them one at a time and 
+try to demonstrate why they are where they are. And we listen 
+to them and sometimes this is the reason why we begin to split 
+a county if it does appear as if a county really goes--part of 
+a county goes to one market, part of a county goes to another 
+market in terms of the viewer preferences.
+    Mr. Collins. In one of my counties in particular, I think 
+that is just a false distinction.
+    But really I think what is happening here is we are talking 
+on two different levels when we deal with this DMA issue. In 
+one part, we are dealing with localism and the safety aspects 
+and why we need local broadcasting and why the satellite and 
+cable providers get in this market. And on your angle, you are 
+not even discussing really what some of the arguments that are 
+being made here. So that is a concern. I may submit more 
+questions for the record for you at a later time.
+    Mr. Waldron, how specifically are broadcasters willing to 
+facilitate the availability? As I said before, I have four 
+counties that are orphan counties. I would like a commitment 
+from you to work with my office, and I know that they have 
+already been working there to make sure that we get this 
+question addressed because it came up in my town hall meetings. 
+They understand this. They get it because we are really in a 
+different dynamic in those four counties and really split 
+between two smaller markets in the predominant Atlanta market 
+in which most of them are participating. Can I get a commitment 
+out of you continuing to work with me on those orphan counties 
+that I have?
+    Mr. Waldron. Absolutely.
+    Mr. Collins. The other question here and this is sort of an 
+overall question. I will leave this one open. It is not one 
+that I had prepared but it came to me as I was listening to 
+you. I am out of time, I believe, Mr. Chairman? So I guess I 
+will have to submit it for the record. Can I have 30 seconds, 
+Mr. Chairman?
+    Mr. Coble. 30 seconds will be granted.
+    Mr. Collins. Thank you, Mr. Chairman.
+    I read the New York Times. I read the Washington Post. I 
+read the Wall Street Journal. I read the Atlanta Journal. I 
+read the Gainesville Times. I even read the Fannin News 
+Observer. I get information from all over. Why couldn't I have 
+my local broadcasting and the Los Angeles affiliate if I wanted 
+to? And I am not setting myself up. So anybody in the audience 
+says, ``Oh, he is for one side or the other.'' No. I am just 
+asking an honest question with the way things are developed. 
+Shouldn't the question be ``either/or''--not be ``either/or'' 
+and be ``and?''
+    Mr. Waldron. If I may answer.
+    Mr. Coble. Your time has expired.
+    You may answer.
+    Mr. Waldron. I mean, I think the argument is that exclusive 
+territories are very common in business, let's say a beer 
+distributorship or a car dealership. Well, that is what a local 
+broadcaster is. They are the CBS outlet, if you will, for a CBS 
+affiliate in Gainesville or Atlanta. They are that outlet. If 
+you are bringing in another CBS station, then you actually have 
+defeated the exclusivity that the broadcaster negotiated for.
+    Mr. Collins. We will talk about it.
+    Mr. Coble. The gentleman's time has expired. I thank the 
+gentleman.
+    The gentlelady from Washington.
+    Ms. DelBene. Thank you, Mr. Chair, and I just want to thank 
+all of you for being here today and continuing as we have more 
+questions.
+    I wanted to start with Mr. Padden. You have not talked 
+about localism at all and with your proposal how that would 
+impact access to local information.
+    Mr. Padden. Again, I am just suggesting to you that 
+marketplace forces would be a better servant of consumers' 
+interests. If there is programming they are interested in, 
+whether it is local programming or something from somewhere 
+else, and you leave it to the market and there is money to be 
+made providing that program to them, they will get it. The 
+overwhelming majority of the viewing is to local broadcast 
+stations because of the overwhelming interest in the local news 
+and weather and sports, and in a free market system, that would 
+continue. There would be absolutely no diminution in that at 
+all.
+    Why you would want to continue a system that is based on 
+the Nielsen ratings from 1972 to decide who gets to watch what 
+I do not understand.
+    Ms. DelBene. You know, with the new technology today, the 
+Internet, people are getting a lot of local information even 
+when they are not at home. Many of us when we are here are 
+still staying connected at home and getting local information 
+in other ways because we have people traveling around a lot and 
+they are not always in their local area but they still want 
+news that is happening from home.
+    So given the development of new technologies and the 
+different consumer behavior in terms of access to content and 
+making sure that we--given that we have legislation from 1988 
+and Nielsen ratings from earlier, how do we make sure that we 
+put together a policy that does not inhibit innovation or 
+change going forward as we look at what we should do here in 
+the next step? And so that is kind of a broad question for 
+everyone, but we want to make sure that whatever we do 
+addresses issues that consumers have today but also does not 
+block innovative new entrants that may also want to compete in 
+this space.
+    Mr. Donato?
+    Mr. Donato. Yes, I would like to answer that actually.
+    So we measure viewing of television online. We have made an 
+announcement. It is a very complicated technical problem of 
+measuring it through tablets. We have made an announcement that 
+we have solved the technology, and starting the end of next 
+year, viewership on tablets will also be included in the 
+ratings.
+    I suppose my point is we have got measurement solutions. 
+The business relationships are very, very complicated, and I 
+would not comment on them. I would leave it to my fellow 
+panelists to comment on them. But we do have the measurement 
+solutions worked out.
+    Mr. Dodge. If I could comment on the 1972 Nielsen data 
+point, I think one thing that is missing from the record is 
+that although theoretically DMAs can change based on viewership 
+and viewership is what is measured, if there is only one signal 
+that is available in a DMA, when you check the viewership, you 
+are going to get the same local affiliate over and over and 
+over again. And in southwest Colorado, for example, which I 
+mentioned is in the Albuquerque DMA, we have proposed to 
+provide both Albuquerque and Denver to the folks in those two 
+counties and let the consumers decide. So when Mr. Donato's 
+firm calls them up, they can say I am watching Albuquerque and, 
+lo and behold, maybe the broadcasters are right. People down 
+there prefer to buy their Chevrolets from Albuquerque, but some 
+people might say I am watching Denver. And ultimately it is a 
+vote of the people to decide where those two counties should 
+be.
+    Mr. Donato. I said it before, but I do not understand the 
+1972 comment. Every year we evaluate viewership and that is the 
+basis on which DMAs are constructed.
+    Ms. DelBene. So I was not just focused on 1972. I am kind 
+of focused on the speed of legislation and the way people are 
+viewing, the way the industry work changes more quickly 
+sometimes than legislation does. So how do we make sure we put 
+together legislation that does not inhibit that innovation?
+    Mr. Waldron. If I could come back to your original question 
+about technology, technology is very exciting for broadcasters 
+because, as you are probably well aware, with Slingbox and 
+other technologies, watchabc.com, you can actually use the 
+Internet technologies to keep up with your local broadcaster 
+even when you are in Washington, D.C. And with the CBS issue 
+with Time Warner, an important part of that was the online 
+digital rights so that CBS can make that programming available 
+to Hulu or Netflix or Amazon Instant Video. So the technology 
+is actually expanding opportunities to access your local 
+broadcaster.
+    Ms. DelBene. Yes, Mr. Padden.
+    Mr. Padden. If I could respond just briefly. You are right. 
+New technology is creating all kinds of wonderful 
+opportunities. Unfortunately, the compulsory license that you 
+have given to the cable industry and the satellite industry you 
+have not given to the online industry. So, for example, you 
+give the rights to broadcast programming, to Comcast and to 
+DirecTV, but you do not give it to Netflix. I do not understand 
+why. I am not advocating that you give it to Netflix. What I am 
+advocating is you undo the license you have given to cable and 
+satellite that currently puts online distributors at a 
+disadvantage. The United States is a party to a number of 
+international treaties that prohibit compulsory licensing of 
+television programming to online providers. So the only way you 
+can level the playing field is by repealing the license for 
+cable and satellite.
+    Ms. DelBene. My time has expired. So thank you, Mr. Chair. 
+I yield back.
+    Mr. Coble. I thank the gentlelady.
+    The distinguished gentleman from Texas, Mr. Lamar Smith.
+    Mr. Smith of Texas. Thank you, Mr. Chairman.
+    First of all, let me apologize for being tardy as well as 
+for having to leave early. This is one of those days where all 
+of the three Committees on which I serve are meeting 
+concurrently. So I am having to shift around.
+    Also, I may be covering some subjects that have already 
+been covered, and I apologize for that. But I would like to 
+address a couple of questions to our panelists today.
+    My first question I think would go to Mr. Dodge, Mr. 
+Waldron, and Mr. MacKenzie, and it is this. The compulsory 
+license has been extended innumerable times by Congress, and my 
+question is how well is it working for television viewers? And 
+do you feel that it ought to be reauthorized for another 5 
+years? Mr. Dodge?
+    Mr. Dodge. I would say it is working wonderfully. As a 
+result of the last reauthorization, DISH is now providing local 
+channels in all 210 DMAs.
+    Mr. Smith of Texas. Okay. Thank you.
+    Mr. Waldron?
+    Mr. Waldron. With respect to the local channels, I might 
+surprise you. I agree completely with Mr. Dodge. We think the 
+local compulsory licenses actually do work. I disagree with my 
+friend, Preston Padden, on that one. Broadcasters think the 
+system is working.
+    Mr. Smith of Texas. And Mr. MacKenzie?
+    Mr. MacKenzie. We are going to go three in a row. I would 
+agree.
+    Mr. Smith of Texas. Okay. Thank you.
+    The next question is for Mr. Garrett and Mr. Padden and Mr. 
+Dodge, and it is this. What alternatives exist to the 
+compulsory license? And would those alternatives adequately 
+protect the rights of copyright holders? Mr. Garrett?
+    Mr. Garrett. The Copyright Office addressed that very 
+question in a report that they prepared for Congress here, and 
+they talked about the different types of licensing, direct 
+licensing, sub-licensing, and collective licensing. And the 
+report lays it out in excellent detail here.
+    The one thing I would mention is just the actual history 
+here of what has happened with WTBS, for example. I have had 
+the privilege of being present, I think, at every one of the 
+hearings this Subcommittee has held on this issue since the 
+late 1970's. And when I go back, I think about the years when 
+people would debate about making WTBS available and it could 
+only be done via compulsory licensing. And in fact, what 
+happened in 1990 is WTBS converted to a cable network, and 
+today it is available to virtually every cable subscriber, not 
+pursuant to compulsory licensing, but pursuant to free 
+marketplace negotiated agreements, including agreements that 
+Major League Baseball has and has kept a package of programming 
+on TBS for several years and will through the year 2021.
+    Mr. Smith of Texas. Mr. Padden?
+    Mr. Padden. There are plenty of marketplace alternatives 
+that would be far more appropriate and fair to copyright owners 
+than a Government system where Government boards set the rates.
+    Mr. Smith of Texas. Thank you.
+    And finally, Mr. Dodge.
+    Mr. Dodge. We believe that the compulsory licenses do still 
+continue to have utility, and part of the reason is what Mr. 
+Padden noted in his written testimony, which is to this day the 
+broadcasters still have not cleared copyrights through to the 
+viewer in all instances. And that is the magic of a compulsory 
+license actually.
+    Mr. Smith of Texas. Thank you all for your testimony.
+    Thank you, Mr. Chairman. I yield back.
+    Mr. Coble. I thank the gentleman from Texas.
+    The distinguished gentleman from New York.
+    Mr. Jeffries. Thank you, Mr. Chairman, and I thank the 
+distinguished Ranking Member as well.
+    It seems to me that many of the disputes over the last 
+several years that have, in some instances unfortunately, 
+resulted in a temporary blackout and ability for consumers, 
+some of whom I represent back home in Brooklyn and parts of 
+Queens, to get content all seem to occur in and around 
+significant sporting events. So most recently in the run-up to 
+the start of the football season, there was a conflict that was 
+resolved on the eve of the football season starting, 
+thankfully. In the past back at home, there was a conflict that 
+prevented some consumers from seeing part of the early Yankees 
+run through a particular playoff season that wound up resolving 
+itself. And there was a conflict at home that centered around 
+the ability for some people to see MSG which broadcast cast the 
+Knicks. The Knicks were off to a terrible start, so nobody 
+cared. [Laughter.]
+    And then Jeremy Lin came on the scene and it became a big 
+problem. And it ultimately resolved itself.
+    But there is a lot of conflicts, not all exclusively, but a 
+lot that just seem to have interesting timing as it relates to 
+major sporting events.
+    And so I was very interested in Mr. MacKenzie's 
+observations as it relates to sports licensing fees. I believe 
+you testified that sort of these transmission fees have been 
+skyrocketing in recent times. Is that correct?
+    Mr. MacKenzie. True.
+    Mr. Jeffries. And I think you also indicated that as a 
+result, consumers are hurt as a result of the increase in the 
+sports transmission fees. Is that right?
+    Mr. MacKenzie. That is our opinion, yes.
+    Mr. Jeffries. Now, could you elaborate on that opinion in 
+terms of how exactly you think the consumers are hurt by an 
+increase in licensing fees connected to ESPN or some of the 
+other sports content?
+    Mr. MacKenzie. Well, for instance, ESPN, as reported by SNL 
+Kagan--the cost of that channel alone is $5.50, and that is a 
+channel that is required to be carried at the basic tier. So 
+whether you are a sports fan or not, you are having to pay for 
+ESPN. So when you look at the sports programming that is on the 
+cable channels and on the broadcast channels, the amount of the 
+programming costs that can be attributed to sports--and I do 
+not have an exact number, but the estimate is a third of the 
+expense----
+    Mr. Jeffries. Now, who requires ESPN to be carried at the 
+basic tier?
+    Mr. MacKenzie. That is part of the negotiations that you 
+have with Disney. When you are negotiating with them, they will 
+only allow you to carry ESPN if you put it on the lowest tier.
+    Mr. Jeffries. Okay.
+    You also mentioned in your testimony that you thought that 
+the antitrust exemption that exists perhaps should be revisited 
+because of the dominant market share that exists with the major 
+sports leagues. Is that correct?
+    Mr. MacKenzie. Yes.
+    Mr. Jeffries. Now, in 1922, I believe there was an 
+antitrust exemption granted blanket to Major League Baseball, 
+and then you referenced legislation that this Congress passed 
+in 1961. But if we were to revisit the antitrust exemption and 
+adjustments were to be made, recognizing that there is a 
+difference between baseball and the other major sports leagues, 
+how do you think that that could impact the landscape in a 
+manner that was favorable to our consumers?
+    Mr. MacKenzie. Well, I think that what you have, rather 
+than one entity negotiating on behalf of the entire league, you 
+would have individual teams negotiating in their local market. 
+I think that that would allow for more competition and probably 
+lower costs.
+    Mr. Jeffries. Could you comment on that, Mr. Garrett?
+    Mr. Garrett. Congressman, as I indicated earlier, very few 
+people want to hear what I have to say about antitrust policies 
+and antitrust laws. My focus is on the copyright side.
+    But what I will say is that with the Sports Broadcasting 
+Act, it is, among other things, responsible for why you and the 
+American public will be able to see the World Series on Fox 
+this year. It is that law which gives the Commissioner of 
+Baseball, gives the NFL and other leagues the ability to pull 
+together rights and make available to the American public the 
+kind of programming that is now made available. I think the law 
+has worked well. It has not been abused, and it is one of the 
+reasons why today I can come here and say to you that every one 
+of the approximately 5,000 games played in Major League 
+Baseball--I am sorry--5,000 telecasts of games in Major League 
+Baseball is available in one fashion or another to your 
+constituents and to all consumers.
+    Mr. Jeffries. Thank you.
+    Mr. Coble. Thank you. I thank the gentleman.
+    The distinguished lady from Texas is recognized.
+    Ms. Jackson Lee. Mr. Chairman, thank you. I think all of us 
+are expressing our appreciation to our Chairman and to the 
+Ranking Member and indicating that our calendars caused us to 
+be delayed. In one instance, the Homeland Security Committee 
+was discussing Syria, and I might add that the combination of 
+gentlemen that are before us, content and the various 
+providers, have helped to contribute to America's education and 
+discourse on this very important issue. So we are here for more 
+than just a separation of powers as to who has what, who is to 
+be regulated, but to be able to thank you for how you 
+contribute to the public discourse on some very vital issues.
+    We are engaged in this regulatory discussion because 
+Congress, in its wisdom, saw fit to regulate both the content 
+and the providers in order to create more robust competition, 
+which I think is vital, and particularly the responsibilities 
+of the Judiciary Committee are on the issue of competition. And 
+I might add that there is merit in everyone's position, as I 
+have been able to glean, as I have sat here.
+    And certainly to the National Association of Broadcasters, 
+I want to just be historic in my reflection on the old days of 
+the black and white television with that antenna where you did 
+provide content of joy to those communities that could get a 
+television. And all they had to do was to plug it into the 
+socket. So we have come to a new posture that for many was a 
+very difficult change because they had to now pay for something 
+that they had been able to plug in and receive some form of 
+content. But in the wisdom of the Congress and the 
+innovativeness of technology, we have all come to live together 
+with the new access that consumers have.
+    In the course of that, I want to raise a number of 
+questions. All of us I think or many Members have expressed 
+certainly the concern of the issue of blackout and how it 
+impacts not so much the two entities that are having a 
+disagreement. I heard someone say that that is only a minute 
+percentage that occurred, but if it occurs at all, it is a 
+difficult challenge for many of us who deal with our 
+constituents.
+    With all due respect and reflection, the customer will be 
+calling the satellite company or they will be calling the cable 
+company, and they will not be calling the entity that has the 
+content. And we have to find a balance with that because there 
+are concerns that this would be a growing problem.
+    So I am going to be posing a generic question to start out 
+with, and I would appreciate those who would answer it could do 
+so. And I might have missed. So this is just a plain, simple 
+question. Do we expect to have these content conflicts coming 
+up over and over again? And is there a way that the industry 
+will look to solve those kinds of concerns? We know what the 
+issues are. The issues I have, content. You are a provider. You 
+want to get my content. You have to pay. But are there ways to 
+handle that in a preferable way than to skew what Congress 
+tried to regulate and balance to protect the content, rightly 
+so, and also to give competition. That is one question.
+    The other question is should the upcoming reauthorization 
+include a discussion of other issues related to satellite, 
+cable, and the Big 4 broadcasters? And what do you think they 
+should be or do you think--and again, to those who would want 
+to answer that--it should be simply a clean reauthorization? 
+The Judiciary Committee has its jurisdiction and others have 
+theirs.
+    Specifically to Mr. Dodge on the DISH Network, are the cord 
+cutters or cord shavers, those who do not subscribe to multi-
+channel video programming distributor, reduce the scope of the 
+MVP's ability--are they of concern to the DISH Network? And if 
+Congress did not reauthorize section 119 compulsory license, 
+how expensive or burdensome would that be for you? Now, that is 
+specifically to you.
+    Can you answer the other questions about getting a 
+resolution on how you debate this question going forward and 
+then the reauthorization question?
+    Mr. Dodge. Sure.
+    Ms. Jackson Lee. And this is for everyone, Mr. Dodge. Why 
+don't you wait on the question I specifically asked you?
+    Others on the comment please.
+    Mr. Campbell. Yes, I think something can be done to resolve 
+this. What we need to do is look at the rules that are 
+currently in place that are slanted in favor of the 
+broadcasters that were created at a time when the broadcasters 
+were facing issues with the incumbent operators, and now the 
+shield has turned into a sword. And so if some of those issues 
+were removed, such as network non-duplication and syndicated 
+exclusivity, then I think you would see a much more balanced 
+negotiation process. We have incentive to get local channels, 
+the local news channels to our consumers, and I think the 
+broadcasters have the incentive as well. But the problem is 
+that so much of a national content is tied to it. If we were 
+able to carry that content, I think the negotiations would be 
+more balanced.
+    Ms. Jackson Lee. Mr. Dodge, on your question.
+    Mr. Dodge. Oh, sure. I would say to answer your first 
+question, is this problem going away, for lack of a better 
+term, the proof is in the numbers. In 2010, there were 10 local 
+blackouts. In 2011, there were roughly 50. Last year, there 
+were roughly 100, and now we are on track to set a record with 
+120, which is not a record I think any of us will be happy to 
+hit.
+    With respect to your question on whether cord cutters were 
+a concern for DISH, the answer is no. We welcome the 
+competition, and we need to find a way ourselves to actually 
+evolve and participate in that.
+    Ms. Jackson Lee. Thank you.
+    Anyone else?
+    Mr. Waldron. If I may,
+    Mr. Coble. The gentlelady's time has expired. I will give 
+you 1 more minute.
+    Mr. Waldron. I was just going to say broadcasters support a 
+clean reauthorization of STELA, and the vast majority of deals 
+do get done.
+    And with your opening comment, still today you can get a TV 
+and an antenna and plug it in and you get TV for free.
+    Ms. Jackson Lee. Thank you, Mr. Chairman, for your 
+indulgence. And thank you. I look forward to talking with you 
+all individually. Thank you very much.
+    Mr. Coble. I thank the gentlelady.
+    The distinguished gentleman from North Carolina, Mr. Watt.
+    Mr. Watt. Thank you, Mr. Chairman. And I want to thank the 
+Chair for convening this hearing and all of the witnesses for 
+participating. It has been a delightful, free-flowing 
+discussion. It has been great to see Mr. Dodge and Mr. Waldron 
+seated next to each other going toe to toe.
+    I will always benefit, since I have started going last in 
+the series of questioning on our side, from what has taken 
+place because there is always one comment that kind of pops up 
+in the whole discussion that hits my mind. And that comment 
+today came from Mr. Dodge when he looked at Mr. Waldron and 
+said you cannot talk out of both sides of your mouth. My 
+thought was that most of us--in all of the industries is my 
+experience--have talked out of both sides of their mouths 
+depending on what is beneficial to their particular industry.
+    But I did note that it was particularly applicable to the 
+broadcasters because I have been a strong advocate for people 
+being paid for their intellectual property, and for that 
+reason, I have been a strong advocate of your ability to 
+negotiate for payment for your products. I think that is very 
+important.
+    What I have not been able to reconcile, however, is how you 
+apply a different standard to the people who provide 
+copyrighted material on radio, the performers. And I just do 
+not understand that dichotomy. And so I am hopeful that you all 
+will maybe come around on the radio side to the same position 
+that you hold on the--when you own the protected material, 
+understand that there are performers out there that own the 
+protected material that they produce, and they deserve to be 
+paid also.
+    So I am not going to belabor that, although I would note 
+that it seems to me to be unfair for you all to take the 
+position that there is some kind of performance tax when the 
+Government gets no part of the performance rights revenue. Yet, 
+there is no performance tax when you get paid for what you have 
+the copyright to. So I hope you all will help me reconcile 
+that. I will not do it here in public. But it is a concern that 
+I have.
+    I think these are inordinately difficult issues. I kind of 
+come down closer probably to where Mr. Padden does than most 
+people. We would probably be better off to get the Government 
+out of the way not only in this context but in the performance 
+rights context too.
+    So it will not be a surprise to anybody because I announced 
+it at a hearing right before the break that I was introducing a 
+bill to do away with the compulsory license of music, but to 
+make sure that if you play a performer's music that you 
+compensate them and go and work out a deal with them if that is 
+what you want to do. I am kind of free market on a lot of this 
+stuff, Mr. Padden, and I was particularly appreciative that 
+your testimony was the last testimony.
+    So I thank all of you for being here. I will not 
+necessarily ask a question unless Mr. Waldron wants to respond 
+to what I did not intend to be a personal attack on NAB because 
+I started out by saying we all are self-serving and talk out of 
+both sides of our mouths. I think that is characteristic of all 
+of us at one time or another. I just used your industry as an 
+example, as Mr. Dodge did. I thought his comment was 
+appropriate.
+    Mr. Waldron. I was just going to say we look forward to 
+further conversations with you. It probably is best in private. 
+We do not accept all that you said, but we can continue those 
+conversations.
+    Mr. Watt. Well, we have continued those conversations on a 
+local and national level, and they have always been cordial and 
+congenial. So as you all said, you and Mr. Dodge and Mr. 
+Waldron are good friends, and Mr. Dodge and Mr. Padden are good 
+friends. All of us are good friends. We do not always agree on 
+every issue.
+    Mr. Chairman, before you close the record, the Motion 
+Picture Association of America has requested that we submit 
+this info-graphic illustrating the continued rapid growth of 
+online viewing options for audiences for the record. So I would 
+ask unanimous consent that we make this a part of the record. I 
+am not even sure what it is. [Laughter.]
+    But I am in complete agreement that anything that will help 
+us make good decisions ought to be part of the record. I ask 
+unanimous consent to submit it.
+    Mr. Coble. Without objection. Now, if it ignites in my 
+hands, Mr. Watt, I will not hold you harmless for that. But we 
+will accept that without objection.
+    [The information referred to follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+
+
+                               __________
+    Mr. Coble. I thank the gentleman.
+    I want to thank those of you who have been in attendance 
+for the entire hearing. Obviously, your interest is more than 
+just casual. And I particularly want to thank the witnesses. 
+You have contributed significantly to a very complex and a very 
+important issue. And we may meet again. But it has been a 
+pleasure having you all with us.
+    The hearing is now concluded.
+    Without objection, all Members will have 5 legislative days 
+to submit additional written questions for the witnesses or 
+additional materials for the record.
+    This hearing stands adjourned.
+    [Whereupon, at 12:25 p.m., the Subcommittee was adjourned.]
+
+                                 <all>
+
+</pre></body></html>

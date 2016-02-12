@@ -1,0 +1,2458 @@
+<html>
+<title> - THE DEPARTMENT OF ENERGY'S STRATEGY FOR EXPORTING LIQUEFIED NATURAL GAS</title>
+<body><pre>
+[House Hearing, 113 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+THE DEPARTMENT OF ENERGY'S STRATEGY FOR EXPORTING LIQUEFIED NATURAL GAS
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                     SUBCOMMITTEE ON ENERGY POLICY,
+                      HEALTH CARE AND ENTITLEMENTS
+
+                                 of the
+
+                         COMMITTEE ON OVERSIGHT
+                         AND GOVERNMENT REFORM
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 19, 2013
+
+                               __________
+
+                           Serial No. 113-11
+
+                               __________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+
+         Available via the World Wide Web: http://www.fdsys.gov
+                      http://www.house.gov/reform
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+80-386                    WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office, 
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail, gpo@custhelp.com.  
+
+
+              COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                 DARRELL E. ISSA, California, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland, 
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, JR., Tennessee       CAROLYN B. MALONEY, New York
+PATRICK T. McHENRY, North Carolina   ELEANOR HOLMES NORTON, District of 
+JIM JORDAN, Ohio                         Columbia
+JASON CHAFFETZ, Utah                 JOHN F. TIERNEY, Massachusetts
+TIM WALBERG, Michigan                WM. LACY CLAY, Missouri
+JAMES LANKFORD, Oklahoma             STEPHEN F. LYNCH, Massachusetts
+JUSTIN AMASH, Michigan               JIM COOPER, Tennessee
+PAUL A. GOSAR, Arizona               GERALD E. CONNOLLY, Virginia
+PATRICK MEEHAN, Pennsylvania         JACKIE SPEIER, California
+SCOTT DesJARLAIS, Tennessee          MATTHEW A. CARTWRIGHT, 
+TREY GOWDY, South Carolina               Pennsylvania
+BLAKE FARENTHOLD, Texas              MARK POCAN, Wisconsin
+DOC HASTINGS, Washington             TAMMY DUCKWORTH, Illinois
+CYNTHIA M. LUMMIS, Wyoming           DANNY K. DAVIS, Illinois
+ROB WOODALL, Georgia                 PETER WELCH, Vermont
+THOMAS MASSIE, Kentucky              TONY CARDENAS, California
+DOUG COLLINS, Georgia                STEVEN A. HORSFORD, Nevada
+MARK MEADOWS, North Carolina         MICHELLE LUJAN GRISHAM, New Mexico
+KERRY L. BENTIVOLIO, Michigan        VACANCY
+RON DeSANTIS, Florida
+
+                   Lawrence J. Brady, Staff Director
+                John D. Cuaderes, Deputy Staff Director
+                     Robert Borden, General Counsel
+                       Linda A. Good, Chief Clerk
+                 David Rapallo, Minority Staff Director
+
+      Subcommittee on Energy Policy, Health Care and Entitlements
+
+                   JAMES LANKFORD, Oklahoma, Chairman
+PATRICK T. McHENRY, North Carolina   JACKIE SPEIER, California, Ranking 
+PAUL GOSAR, Arizona                      Minority Member
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of 
+JASON CHAFFETZ, Utah                     Columbia
+TIM WALBERG, Michigan                JIM COOPER, Tennessee
+PATRICK MEEHAN, Pennsylvania         MATTHEW CARTWRIGHT, Pennsylvania
+SCOTT DesJARLAIS, Tennessee          TAMMY DUCKWORTH, Illinois
+BLAKE FARENTHOLD, Texas              DANNY K. DAVIS, Illinois
+DOC HASTINGS, Washington             TONY CARDENAS, California
+ROB WOODALL, Georgia                 STEVEN A. HORSFORD, Nevada
+THOMAS MASSIE, Kentucky              MICHELLE LUJAN GRISHAM, New Mexico
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on March 19, 2013...................................     1
+
+                               WITNESSES
+
+Mr. Tom Choi, National Practice Leader, Gas, Deloitte Marketpoint 
+  LLC
+    Oral Statement...............................................     8
+    Written Statement............................................    11
+Mr. Paul Cicio, President, Industrial Energy Consumers of America
+    Written Statement............................................    16
+    Oral Statement...............................................    18
+Dr. Charles Ebinger, Director Foreign Policy, Energy Security 
+  Initiative, Brookings Institute
+    Oral Statement...............................................    30
+    Written Statement............................................    32
+Mr. Chris Smith, Actng Assistant Secretary Fossil Energy, U.S. 
+  Department of Energy
+    Oral Statement...............................................    42
+    Written Statement............................................    44
+
+                                APPENDIX
+
+The Honorable Jim Jordan, a Member of Congress from the State of 
+  Ohio, Opening Statement........................................    98
+The Honorable James Lankford, a Member of Congress from the State 
+  of Oklahoma, Opening Statement.................................    99
+The Honorable Jackie Speier, a Member of Congress from the State 
+  of California. Opening Statement...............................   101
+DEI, Opening Statement...........................................   104
+The Honorable Elijah E. Cummings, a Member of Congress from the 
+  State of Maryland, Opening Statement...........................   106
+
+
+THE DEPARTMENT OF ENERGY'S STRATEGY FOR EXPORTING LIQUEFIED NATURAL GAS
+
+                              ----------                              
+
+
+                        Tuesday, March 19, 2013,
+
+                  House of Representatives,
+    Subcommittee on Energy Policy, Health Care and 
+                                      Entitlements,
+              Committee on Oversight and Government Reform,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 3:10 p.m. in 
+room 2247, Rayburn House Office Building, Hon. James Lankford 
+[chairman of the subcommittee], presiding.
+    Present: Representatives Lankford, Gosar, McHenry, 
+DesJarlais, Farenthold, Massie, Issa, Speier, Horsford, Lujan 
+Grisham, and Cummings.
+    Also present: Representatives Turner, Meadows, and Fleming.
+    Staff Present: Ali Ahmad, Majority Communications Advisor; 
+Molly Boyl, Majority Parliamentarian; Joseph A. Brazauskas, 
+Majority Counsel; Sharon Casey, Majority Senior Assistant 
+Clerk; Drew Colliatie, Majority Legislative Assistant; Brian 
+Daner, Majority Counsel; Linda Good, Majority Chief Clerk; 
+Tyler Grimm, Majority Professional Staff Member; Ryan M. 
+Hambleton, Majority Professional Staff Member; Frederick Hill, 
+Majority Director of Communications and Senior Policy Advisor, 
+Christopher Hixon, Majority Deputy Chief Counsel, Oversight; 
+Mark D. Marin, Majority Director of Oversight; Scott Schmidt, 
+Majority Deputy Director of Digital Strategy; Jaron Bourke, 
+Minority Director of Administration; Jimmy Fremgen, Minority 
+Legislative Assistant; Nicholas Kamau, Minority Counsel; Chris 
+Knauer, Minority Senior Investigator; Adam Koshkin, Minority 
+Research Assistant; Safiya Simmons, Minority Press Secretary 
+and Mark Stephenson, Minority Director of Legislation.
+    Mr. Lankford. Let us begin this hearing by saying the 
+Oversight's mission statement.
+    We exist to secure two fundamental principles. First, 
+Americans have the right to know that the money Washington 
+takes from them is well spent. Second, Americans deserve an 
+efficient and effective government that works for them.
+    Our duty on the Government Oversight and Reform Committee 
+is to protect these rights. Our solemn responsibility is to 
+hold the government accountable to taxpayers because taxpayers 
+have a right to know what they get from their government. We 
+will work tirelessly in partnership with citizen watchdogs to 
+deliver the facts to the American people and bring genuine 
+reform to the federal bureaucracy.
+    This is the mission of the Government Oversight and Reform 
+Committee.
+    Today we are here to discuss the Department of Energy's 
+strategy and process in reviewing applications to export 
+liquefied natural gas, LNG, specifically to non-free trade 
+agreement countries.
+    For countries with which we have a free trade agreement 
+covering the Natural Gas Act of 1938, and obviously amended 
+multiple times since then, the Department of Energy is required 
+to grant applications to export LNG. Such export is deemed to 
+be consistent with the public interest and the authorization 
+must be granted without modification or delay.
+    For countries with which we do not have a free trade 
+agreement covering natural gas, the Natural Gas Act presumes 
+the Department of Energy will grant the application to export 
+LNG unless the Department finds the proposed exportation will 
+not be consistent with the public interest.
+    The issue we are here to discuss today is not if we should 
+export natural gas. The U.S. has exported natural gas via 
+pipeline to Canada and Mexico since the 1930s. We are also not 
+here to discuss if we should export liquefied natural gas. The 
+U.S. has exported LNG from the Kenai Peninsula in Alaska since 
+1969.
+    Again, by statute, the Department of Energy must approve 
+LNG exports to FTA countries and the default position is it 
+exports to non-FTA countries unless DOE finds that it is not 
+consistent with the public interest.
+    Finally, we are not here to discuss if we should export 
+liquefied natural gas to non-FTA countries. Again, the U.S. has 
+exported to Japan, which is not an FTA country, from Alaska 
+since 1969. In the lower 48 in May 2011, the Department of 
+Energy granted the first permit to export LNG to a non-FTA 
+country. That facility is currently under construction in 
+southwest Louisiana and will begin exporting LNG within two 
+years.
+    We are not even here to discover for the first time the 
+economic impacts of LNG export. DOE has already commissioned 
+and released the results of a two-part study. The first part 
+was conducted by the U.S. Energy Information Administration and 
+the second part was conducted by NERA, Economic Consulting. 
+Dave Montgomery of NERA was invited to testify today as well, 
+but due to a last minute scheduling conflict, has submitted 
+written testimony for the record for which I will ask unanimous 
+consent to put into the record.
+    Mr. Lankford. The DOE studies concluded that for every one 
+of the market scenarios examined, net economic benefits 
+increased as the level of LNG exports increased and that 
+exports of natural gas will improve the U.S. balance of trade 
+and result in a wealth transfer to the U.S.
+    Two additional studies on LNG have also been commissioned 
+by Brookings and Deloitte, which will testify here today on the 
+risks and potential gains for our economy and global 
+relationships.
+    As a Nation, we have already decided exporting is 
+consistent with our public interest and we will continue to 
+export natural gas by pipeline and LNG to FTA and non-FTA 
+countries. The only issue here is how and when the Department 
+will process the approximately remaining 20 LNG export 
+applications. Every other applicant is now significantly behind 
+the first permit holder which was permitted almost two years 
+ago. It is essential that the process moves fairly and 
+expeditiously.
+    Today's question is really a narrow and simple set of 
+process questions, although each answer has enormous 
+implications for our international economic relationships and 
+capital investments at home. When will DOE make its 
+determination of public interest and what are the specific 
+criteria in that decision, especially since the law encourages 
+a default yes answer to exports.
+    The two DOE-requested studies are complete. They both show 
+a favorable gain for our nation when we export LNG. Now the 
+comment period and replies are also complete. Will the DOE seek 
+to limit the number of billion cubic feet that can be exported 
+per day? Has DOE already set a certain amount of LNG to export 
+and if so, how was that limit chosen? Will DOE seek to limit 
+the number of export facilities permitted and thus allowed to 
+compete and explore for contracts worldwide? What role will the 
+market or geopolitical goals play in this decision? When can 
+potential exporting companies begin competing for those 
+contracts?
+    There are not an infinite number of contracts that can be 
+acquired worldwide. If we delay making a decision on 
+permitting, other countries with a more efficient bureaucracy 
+will beat us. The U.S. has a great head start in terms of 
+technology, experience, pipeline infrastructure and processing. 
+We have developed financial and legal systems to support gas 
+development. These advantages will not last forever.
+    There are massive shale gas fields around the world. China 
+and India have invested in the Marcellus Shale in order to 
+learn more about our technologies and currently Australia has 
+eight LNG export facilities under construction. We have one. 
+The demand window is open. We can step through it or we can 
+delay until the window closes.
+    If DOE intends to delay the decision to export to reduce 
+the opportunity for global contracts, that is also something we 
+should know. I don't believe that is the Administration's 
+intent. In December 2012, President Obama said to Time 
+Magazine, ``The United States is going to be a net exporter of 
+energy because of new technologies and what we are doing with 
+natural gas and oil.''
+    The President also recognizes these energy developments 
+could have huge geopolitical consequences. For decades, energy 
+has been used as a diplomatic tool against the U.S. Now with 
+LNG, the U.S. has the potential to flip that and be in the 
+position to use energy as a tool to benefit our Nation's 
+strategic interest.
+    Now that DOE has completed the first permit and developed a 
+system, what will be the timing and systems to permit the 
+remaining applicants? With billions of private capital at 
+stake, how can we make the process neutral, fair and expedited? 
+How quickly can that process be released and how can we 
+complete the process so that our nation can move forward with 
+energy exploration, jobs, construction, midstream jobs and the 
+narrowing of our trade deficit?
+    Uncertainty destabilizes a free market economy. It is time 
+to provide timelines and decision-making criteria ensuring 
+fairness of the process for everyone involved. I look forward 
+to those answers on all these key issues today.
+    Mr. Lankford. With that, I would like to recognize the 
+distinguished Ranking Member, the gentlelady from California, 
+Ms. Speier, for her opening statement.
+    Ms. Speier. Thank you, Mr. Chairman. Thank you for holding 
+today's hearing. I look forward to an informative discussion on 
+the Obama Administration's process for reviewing the export of 
+liquefied natural gas.
+    New technologies in horizontal drilling and hydraulic 
+fracturing have led to significant increases in U.S. natural 
+gas production and a huge growth in our domestic gas supplies. 
+For the first time in modern history, America has the 
+opportunity to become dramatically more energy independent.
+    As USAID Today reported last year, energy independence is 
+no pipe dream. The U.S. is already the world's fastest growing 
+oil and natural gas producer. Counting the output from Canada 
+and Mexico, North America is the new Middle East. Furthermore, 
+at our current pace of production, the Energy Information 
+Administration predicts that the United States will slash its 
+dependence on foreign oil to as low as 36 percent by the year 
+2035, down from some 49 percent in 2010.
+    Many have called natural gas a bridge fuel to a clean 
+energy future due to its lower emissions compared to other 
+fossil fuels. Right now the natural gas producing and 
+transporting industry wants to cross that bridge in part by 
+exporting U.S. natural gas to foreign countries. Those foreign 
+countries will pay a higher price for natural gas than is 
+currently sold domestically. That means higher profits, more 
+investment and more jobs for the oil and gas industry.
+    Many gas consuming industries, including many businesses 
+who ``are making it in America,'' want to cross that bridge in 
+a different way. These are companies that use gas as a fuel and 
+as input to make a variety of products ranging from chemicals 
+to cars. They want U.S. natural gas to be sold into the 
+domestic market at current prices which will enable them to 
+make higher profits and invest in more job creation.
+    The domestic manufacturing industry warns that if we permit 
+the export of large volumes of our domestic natural gas supply, 
+prices for natural gas in the U.S. will increase. It is unclear 
+what the consequences of a rush to export would be for American 
+manufacturing jobs, as well as for many middle class and lower 
+income Americans.
+    I look forward to hearing from today's witnesses about the 
+importance of natural gas to our manufacturing sector and 
+whether those benefits have been overlooked or under assessed 
+in the debate over liquefied natural gas.
+    We are balancing two very important interests, those that 
+want to export and those that want to retain the natural gas in 
+the United States for consumers and companies that make it in 
+America. The Federal Government should proceed deliberately and 
+carefully on LNG export. In fact, the Federal Government is 
+legally bound to determine what degree of LNG exports is in the 
+``public interest'' before moving ahead on permitting new 
+export facilities.
+    Currently, the Department of Energy is fulfilling its duty 
+under the Natural Gas Act of 1938 to evaluate the cumulative 
+impacts of allowing the natural gas industry to export U.S. 
+natural gas. The Department of Energy commissioned two reports 
+from the Energy Information Administration and NERA Economic 
+Consulting and is now reviewing more than 200,000 public 
+comments on those reports, including many that are highly 
+critical of the reports' methodologies and conclusions.
+    I would like to hear from our witnesses today whether they 
+feel that the EIA and NERA's report conclusions are 
+comprehensive or leave important questions unanswered or 
+inadequately addressed.
+    I do not believe it is the job of DOE or the Federal 
+Government to choose sides in the natural gas marketplace. This 
+is not what the Natural Gas Act requires. However, it is the 
+job of the Department to hear all sides and determine, on 
+balance, how much liquefied natural gas export is permissible 
+within the ``public interest'' and to make sure that its 
+decision is informed by the best data and analysis.
+    Today's hearing should not be read as an opportunity to 
+influence the DOE's process or to push on the scales of what is 
+in the public interest. The Department is considering all views 
+as it is charged to do by statute.
+    Thank you again, Mr. Chairman, for holding this hearing. I 
+look forward to hearing from our witnesses.
+    Mr. Lankford. Thank you.
+    I now recognize the Chairman of the full committee, Mr. 
+Issa, for an opening statement.
+    Mr. Issa. Thank you, Mr. Chairman.
+    On the screen, I have a slide that I think sets of 
+something of interest for us to bear in mind throughout the 
+hearing. The two circles drawn around areas are areas of major 
+production, one of oil and natural gas at Eagle Ford, the other 
+one of almost all oil but with enough natural gas being flared 
+today that it practically looks like New York City. That is the 
+effect, in no small part, of artificially low natural gas.
+    I think one of the points we have to make here today is 
+that when natural gas falls too low, you end up with it 
+becoming essentially waste fuel. That is not our goal. This is 
+a valuable and clean energy. This is an energy that produces 
+not just the methane we think of as burnable natural gas, but 
+the ethylene that we so often think of for plastics and other 
+uses; the propane, a highly portable fuel that on which America 
+counts. All of this and more in the way of byproducts are part 
+of what we are hoping to get to.
+    The other thing is, for those who talk in terms of clean 
+energy and exports, I just want to point out that in 2012, the 
+United States exported 126 million short tons of coal, a great 
+deal of it to China, our largest partner in that. If you could 
+visualize that, it is 1.4 million railcars of coal.
+    To a great extent, what we are trying to do is export a 
+cleaner fuel, both in its raw form and of course if we burn it 
+in the U.S. and use it in the U.S., in the form of exported 
+product. I believe there is enough fuel, and the studies show 
+there is, to do both.
+    Additionally, today, with a roughly $3.90 cost of a million 
+BTUs, that is about $21 equivalent to a barrel of oil. It is so 
+cheap that Burlington Northern has announced a $2 billion 
+investment to convert diesel locomotives to work on natural 
+gas. For many who find that interesting, let us make something 
+more interesting. We are going to burn natural gas to haul coal 
+to China. That is the reality of what we are doing and that's 
+how plentiful it is.
+    I support all of the use of both liquefied and compressed 
+natural gas because, in fact, it is a clean fuel, a plentiful 
+fuel and an inexpensive fuel. It is going to be part of 
+reducing our trade deficit.
+    Mr. Chairman, in 2012, in spite of increased exports, we 
+had our largest trade deficit since 2008, a whopping $475 
+billion. Converting to using more natural gas, producing more 
+oil as we are in North Dakota, all of this comes together to 
+reduce our imports, increase our exports and make America more 
+competitive.
+    For those who view, as they should, the lower a fuel stock 
+gets, the lower a raw material gets, the better for domestic 
+business, I concur. However, there comes a point at which a 
+decision has been made by many companies that at $5.77, which 
+is our 10-year average price for natural gas, they are going to 
+bring those jobs to America because that is so much lower than 
+the global price, that, in fact, American businesses remain 
+very competitive with this low cost fuel, still half the cost 
+of using comparable oil.
+    If you look to Japan where they compete with us often, they 
+are looking at nearly $20 equivalent to our $3.95. They pay a 
+lot. They are an important ally.
+    Mr. Chairman, one of the most important things you are 
+bringing about today is a discussion on our NATO allies who 
+find themselves being held hostage both by the Middle East and 
+by Russia and our Asian allies who find themselves simply 
+paying a very high price and feeling fuel is part of their 
+diplomatic decisions.
+    The ability to export at least, in part, a portion from the 
+United States, along with Australia and other countries who are 
+also going to be increasing exports, makes us better neighbors 
+diplomatically and better allies. Last but not least, you 
+pointed out very clearly if we deliberately delay the ability 
+to compete 20 year-plus contracts will go to other nations and 
+will not go to the United States. We are not dealing with 
+whether we do it today or tomorrow, we are dealing with whether 
+delay is working to the detriment of our long term ability to 
+compete in this important fuel.
+    Last but not least, for those who say natural prices will 
+rise, when I have looked at the nature of export contracts, if 
+we get back to the $12.69 peak in 2008 or above, the liquefied 
+natural gas exporters will simply shut that down because it 
+won't be worthwhile. There is a natural stop point on all of 
+this.
+    For all of us who have viewed energy as an important tool 
+of our national defense, as an important tool of our economy, 
+we have a windfall. We need to make sure we have enough of the 
+windfall that we do not flare gas for lack of the price to 
+support infrastructure development.
+    I thank the Chairman for this important hearing.
+    Mr. Lankford. I would like to recognize the Ranking Member 
+of the Full Committee, Mr. Cummings for an opening statement.
+    Mr. Cummings. Thank you very much, Mr. Chairman. Thank you 
+for holding this hearing.
+    I have not reached conclusions; I am coming here today to 
+hear the witnesses so that I can be better informed. Today's 
+hearing focuses on a very important energy policy question. Is 
+it in the public interest to export increasing amounts of 
+natural gas to foreign markets overseas? That is the question.
+    Because of new drilling techniques and other technology 
+advancements, the United States is now able to produce natural 
+gas in geological formations that were once impossible to tap. 
+This new technology has given rise to an emerging industry that 
+is transforming parts of our nation. This recent boom has 
+reduced the price of natural gas and has saved consumers money 
+on their electricity bills and is fueling a resurgence in the 
+domestic manufacturing. Our natural gas has become a 
+competitive advantage in a global market.
+    Because so much natural gas is being produced, 
+paradoxically, it may be placing the natural gas production 
+industry and the jobs in that sector at some risk. As prices 
+fall, some producers may be faced with the prospect of 
+suspending operations or even going out of business. To address 
+that concern, some companies are now seeking to export gas to 
+foreign markets.
+    While that could be a very good thing for United States 
+producers, it raises questions that must be addressed. First, 
+will exports drive up prices for domestic U.S. manufacturers 
+and consumers? Multiple studies have shown that they will. That 
+will mean higher gas prices for consumers, higher prices for 
+manufacturers who want to support and potentially higher prices 
+for goods and services for everyone.
+    The producers contend that increasing exports will increase 
+jobs. That too must be a consideration. By converting import 
+terminals to export terminals, there is likely to be an 
+increase in the number of jobs in certain sectors. God knows, 
+we need more jobs.
+    We also need to understand whether we will be supporting 
+this set of jobs, those in the energy sector, at the expense of 
+another set of jobs in United States manufacturing that rely 
+heavily on natural gas in their operations.
+    Another question we must answer is whether exporting 
+natural gas will more quickly deplete U.S. supplies just as the 
+Country is moving toward greater energy independence. For 
+years, we have heard that the United States must reduce its 
+dependence on foreign energy sources. By increasing gas 
+exports, are we trading part of that independence for short 
+term profits?
+    Third, complex environmental questions regarding some of 
+the techniques used in gas production have not been resolved. I 
+believe it is critical that we give ample attention to how 
+increased production may exacerbate those concerns.
+    Mr. Chairman, as we hear today it is the Department of 
+Energy's job to determine whether exporting more natural gas is 
+in our Nation's best interest, but we will also hear today that 
+studies commissioned by the Department are subject to debate. 
+Some believe that recent studies demonstrate a clear benefit 
+from gas exports while others believe the studies point to the 
+opposite conclusion.
+    Although we may begin to answer some of these important 
+questions at today's hearing, I believe we will also learn that 
+there are a number of key questions that need to be studied 
+more carefully.
+    I want to thank you for holding this hearing and with that, 
+Mr. Chairman, I yield back.
+    Mr. Lankford. Thank you.
+    All members will have seven days to submit opening 
+statements for the record.
+    I will now recognize our panel. Mr. Tom Choi is the 
+National Practice Leader, Gas, Deloitte MarketPoint LLC; Mr. 
+Paul Cicio is President, Industrial Energy Consumers of 
+America; Dr. Charles Ebinger is Director, Foreign Policy, 
+Energy Security Initiative, Brookings Institute; and Mr. Chris 
+Smith is Acting Assistant Secretary for Fossil Energy, U.S. 
+Department of Energy.
+    Thank you all for being here.
+    Pursuant to committee rules, all witnesses are sworn before 
+they testify. Please rise and raise your right hand.
+    Do you solemnly swear or affirm that the testimony you are 
+about to give will be the truth, the whole truth, and nothing 
+but the truth?
+    [Witnesses respond in the affirmative.]
+    Mr. Lankford. Thank you.
+    Let the record reflect that the witnesses answered in the 
+affirmative.
+    In order to allow time for discussion, I would ask you to 
+limit your testimony to five minutes. Watching our clock, we 
+expect votes somewhere around the next 15 minutes, so that 
+would be perfect. We will try to get through all of our 
+testimony and will start with questioning time. If votes call 
+us, then we will put temporarily pause, come back and continue 
+questioning from there.
+    Depending on time and the questioning, as soon as two of us 
+get back, I would like to start questioning again and try to 
+finish as quickly as we can to honor your time as well.
+    Mr. Choi, you are at bat first. We are pleased to receive 
+your testimony.
+
+                       WITNESS STATEMENTS
+
+                     STATEMENT OF TOM CHOI
+
+    Mr. Choi. Good afternoon, Chairman Lankford, Ranking Member 
+Speier and members of the subcommittee. Thank you for inviting 
+me to testify this afternoon.
+    My name is Tom Choi. I am the National Gas Practice Leader 
+for Deloitte Marketpoint.
+    Deloitte Marketpoint has worked for a number of clients 
+across different industries to help them better understand 
+energy markets. In particular, we have utilized a World Gas 
+Model to help LNG companies seeking objective and in-depth 
+economic analysis of global gas and LNG markets. The key 
+results of our model and our analysis form the basis for my 
+comments this afternoon.
+    The World Gas Model computes prices and quantities based on 
+established microeconomic theories. It has been used by leading 
+energy companies and institutions for over 20 years. Vital to 
+this analysis, the World Gas Model represents natural gas 
+producers' decisions regarding when and how much gas to develop 
+given a producer's resource endowment and anticipated forward 
+prices.
+    The supply-demand dynamic is particularly important in 
+analyzing the impact of demand changes, including LNG exports. 
+Without a proper representation, the results would likely under 
+estimate producer response and over estimate the price impact. 
+It would be tantamount to assuming that the markets would be 
+surprised or unprepared for the volume of exports and in 
+effect, would have to ration fixed supplies to meet export, as 
+well as domestic demand.
+    Our findings show that the price impact to the U.S. is 
+likely to be modest. The impact of 6 Bcfd of U.S. LNG exports 
+on average U.S. prices is projected to be only $.15/MMBtu from 
+2016 to 2030. Abundant North American gas resources, coupled 
+with the market's demonstrated ability to respond to market 
+changes, mitigate the price impact of exports.
+    Since there is some uncertainty about the magnitude of the 
+potential impact of LNG exports on domestic prices, an 
+examination of the fundamental economic factors might be 
+helpful. I think it is important to separate the timing issue, 
+that is how quickly new supplies can be brought online from the 
+resource depletion issue, how increased demand affects future 
+production costs and prices.
+    Can the U.S. natural gas production keep pace with 
+projected gas demand, including potential LNG exports? If 
+history provides any indication, the answer appears to be yes. 
+In just four years, from 2008-2012, the U.S. dry gas production 
+has increased by over 10 Bcfd a day, demonstrating just how 
+dynamic the U.S. natural gas industry is.
+    Hence, if export volume can be properly anticipated and 
+productive capacity made available when needed, then the price 
+impact will likely be determined by how increased demand 
+affects resource depletion and future production costs. 
+Moreover, it is not just the gas fields feeding directly into 
+LNG export terminals that respond, but rather, the entire 
+highly interconnected North American gas system.
+    Since there is a large quantity of domestic gas available 
+at similar production cost levels, U.S. exports are projected 
+to increase the price of domestic gas not by very much, because 
+it is not likely to change the future production cost by very 
+much.
+    Our model also projects that natural gas prices will likely 
+be greater in importing countries than in the U.S. As prices in 
+the U.S. firm and prices in export markets soften, their price 
+spread will narrow. Hence, markets will check the volume of 
+U.S. LNG imports, even in the absence of policy restrictions.
+    Furthermore, U.S. LNG exports are unlikely to cause prices 
+to rise to levels of importing regions. The cost of 
+liquefaction, shipping and regasification form a large price 
+wedge between prices in the U.S. and those in import markets. 
+Exports will only occur if large price spreads prevail, 
+implying that sectors of the U.S. economy that compete in 
+global markets will not likely see their price advantage 
+significantly diminished as a result of LNG exports.
+    In summary, given the dynamic nature of the North American 
+gas market and the abundance of U.S. gas supplies available at 
+similar cost levels, our model projects modest price impacts at 
+our assumed export volumes.
+    Thank you for this opportunity. I look forward to 
+addressing your questions.
+    [Prepared statement of Mr. Choi follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T0386.001
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.002
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.003
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.004
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.005
+    
+    Mr. Lankford. Thank you, Mr. Choi.
+    Mr. Cicio.
+
+                    STATEMENT OF PAUL CICIO
+
+    Mr. Cicio. Thank you for the opportunity to testify before 
+you.
+    I am Paul Cicio, President of Industrial Energy Consumers 
+of America.
+    IECA is a nonpartisan association of leading manufacturing 
+companies with $1.1 trillion in annual sales, over 1,000 
+facilities nationwide, and with more than 1.4 million employees 
+worldwide.
+    IECA membership represents a diverse set of energy 
+intensive industries including: chemical, plastics, steels, 
+aluminum, paper, food processing, fertilizer, insulation, 
+glass, industrial gases, pharmaceutical, brewing and cement.
+    IECA member companies are energy-intensive and trade-
+exposed, EITE. For these industries, the cost of energy can be 
+from 10 to 85 percent of the cost of making their products. Our 
+competitiveness is dependent upon the price of energy relative 
+to our offshore competitors.
+    The U.S. manufacturing sector is the largest consumer of 
+natural gas, as a fuel and as a feedstock, and natural gas-
+fired electricity, consuming approximately 40 percent of all 
+U.S. natural gas. We also consume approximately 30 percent of 
+the electricity.
+    It is important to note that IECA is not opposing LNG 
+exports, although we are very concerned that exports could 
+negatively impact manufacturing competitiveness and jobs. It is 
+for this reason that we urge the DOE to do a better job than 
+what we have seen so far. Even though both DOE-sponsored 
+studies used domestic demand assumptions, I should understated 
+assumptions, the outcome of the study should give public 
+policymakers pause because they confirm one thing, that any 
+level of exports will increase domestic prices for all 
+consumers.
+    Natural gas prices have both direct and indirect impacts on 
+peoples' lives and their safety for homes, for heating, cooling 
+and electricity, for the Nation's economic growth, exports of 
+manufactured products and jobs. Energy intensive manufacturing 
+industries are especially impacted.
+    Specifically page 7 of the flawed NERA study confirmed that 
+``Expansion of LNG exports has two major effects on income. It 
+raises energy costs and in the prices, depresses both real 
+wages and the return on capital in all other industries'' and 
+from our perspective, with only trivial net benefit to the 
+economy.
+    My comments today will focus on two issues. First, we urge 
+the DOE to implement a rulemaking process to determine public 
+interest determination criteria that will be used on an 
+application by application basis. Secondly, we also urge the 
+DOE to complete the necessary studies to clarify the 
+implications of LNG exports to consumers, the economy and the 
+manufacturing sector using up to date, domestic demand 
+assumptions.
+    DOE must include scenarios that consider pending 
+legislative and regulatory actions that could impact natural 
+gas production and spur domestic demand. Special attention is 
+needed to address the impacts to energy intensive trade exposed 
+industries.
+    The U.S. is at an important crossroads on the subject of 
+LNG exports. If we do this right, the U.S. can export LNG and 
+provide an adequate supply of natural gas at affordable prices 
+to domestic consumers. If we get it wrong, the LNG exports 
+could slow, if not stop, the manufacturing renaissance and 
+every U.S. consumers' price of natural gas and electricity will 
+rise, so much is at stake.
+    Today, the DOE is considering 24 applications to export 
+LNG. In the modern era, the U.S. Government has not faced the 
+need to determine the public interest in connection with 
+requests to authorize exports as large as this. The DOE has 
+extensive experience in evaluating import applications but has 
+limited experience with export applications. Perhaps not 
+surprisingly, there are no clear established criteria for DOE 
+to apply in determining the public interest with regard to 
+natural gas exports.
+    IECA supports an approach to such determinations by DOE 
+that are based on objective criteria and metrics, established 
+through a rulemaking process and applied on an incremental case 
+by case basis consistent and balanced in manner. We urge the 
+Congress to embrace this process.
+    Thank you.
+    [Prepared statement of Mr. Cicio follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T0386.006
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.007
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.008
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.009
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.010
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.011
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.012
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.013
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.014
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.015
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.016
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.017
+    
+    Mr. Lankford. Thank you.
+    Dr. Ebinger.
+
+                  STATEMENT OF CHARLES EBINGER
+
+    Dr. Ebinger. Chairman Lankford, Ranking Member Speier and 
+other distinguished subcommittee members, thank you very much 
+for inviting me here today to share my views on U.S. LNG export 
+policy.
+    My name is Charles Ebinger, Director, Energy Security 
+Initiative, Brookings Institution and not the Director of the 
+Foreign Policy Program, for the record.
+    The Energy Security Initiative at Brookings has been 
+studying this issue of LNG for the past two years and last 
+March, issued a comprehensive report. In the interest of time, 
+let me say the report had two primary conclusions. First, the 
+negative implications of LNG exports in the lower 48 States are 
+at best marginal and vastly are outweighed by the benefits. 
+Second, as the lynchpin of a globalized economy, the United 
+States must continue to espouse free trade and avoid 
+intervening in a global market.
+    As we state in our report, ``The United States should 
+neither act to prohibit nor to promote export of LNG, but 
+rather let the existing process, with modifications, work its 
+way through.''
+    I will not spend much time talking about the economic 
+implications because I think Tom Choi has done an excellent job 
+of that, but merely say we echo Deloitte's findings and that of 
+other major public reports by ICF, EIA and others that we 
+believe that the impact on domestic natural gas prices arising 
+from exports would only be between 2 and 11 percent than they 
+are today by the year 2035, hardly a massive distress to the 
+American public.
+    We also believe that LNG exports are likely to have only a 
+modest impact no electricity prices. Again, studies done by a 
+host of leading economic consulting firms have produced a range 
+of estimates but the conclusion is profound. That is that the 
+average increase in electricity prices per megawatt hour might 
+be somewhere between $1.40 to just under $5.00.
+    To put this in context for those that do not follow 
+megawatt hour pricing, the EIA's annual energy outlook in 2013 
+estimates that by 2035, the average megawatt price will be $101 
+a megawatt hour, nearly 95 times bigger than the increase in 
+prices, again hardly devastating to the American consumer.
+    I firmly disagree with the views of people who say we 
+cannot export because it will hurt the prospects of an 
+industrial renaissance in the United States. Today, the ratio 
+of the price of oil to the price of natural gas in the world 
+market is over 30 to 1, well over the 7 to 1 oil to gas price 
+ratio at which the American Chemistry Council considers the 
+U.S. petrochemical and plastic producers to be globally 
+competitive.
+    Let me turn quickly to the issue of geopolitics. Already, 
+we have seen the fact that cargoes planned to be destined to 
+the United States, when we were forecast to import up to 40 
+percent of our natural gas in the near future have had a major 
+transformation in the European market and have proven to be of 
+benefit to our European allies in both western and central 
+Europe.
+    The advent of LNG coming into that market has reduced the 
+influence of Gazprom, the Russian monopoly on the European gas 
+market and today, rather than dominating the European market, 
+we see a situation where last month nearly 54 percent of the 
+gas that flowed in Europe was under spot contracts, not under 
+long term oil index contracts, saving many of the nations huge 
+quantities of money, particularly some of the more ailing 
+economies in eastern Europe.
+    Already we have seen the impact that LNG exports can have 
+on alleviating the terrible situations in Asia with index 
+pricing already beginning to come down away from oil and 
+towards natural gas which will be of vital assistance to our 
+major Allies.
+    Finally, let me turn quickly to say we believe it is a 
+prudent policy to continue to allow exports. We disagree with 
+the two extreme proposals of the volumetric gap or a policy 
+where the U.S. automatically approves all applications.
+    We do, as we say in our testimony in greater detail, 
+believe there are reforms that may occur in the process and we 
+hope they will be seriously considered, both by our 
+Administration and by members of Congress with oversight on 
+these issues.
+    Thank you very much.
+    [Prepared statement of Dr. Ebinger follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T0386.018
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.019
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.020
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.021
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.022
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.023
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.024
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.025
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.026
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.027
+    
+    Mr. Lankford. Thank you.
+    After 30 minutes of talking about DOE, it will be great to 
+hear from DOE. We are honored that you are here and glad you 
+are a part of this conversation.
+    Mr. Smith, we are pleased to receive your testimony.
+
+                    STATEMENT OF CHRIS SMITH
+
+    Mr. Smith. Thank you very much, Mr. Chairman.
+    Thank you, Chairman Lankford, Ranking Member Speier and 
+members of the subcommittee. I appreciate the opportunity to 
+discuss the Department of Energy's program regulating the 
+export of natural gas, including liquefied natural gas.
+    The boom in domestic shale gas provides unprecedented 
+opportunities for the United States. Over the last several 
+years, domestic natural gas production has increased 
+significantly, outpacing consumption growth, resulting in 
+declining natural gas and LNG imports. Production growth is 
+primarily due to the development of improved drilling 
+technologies, including the ability to produce natural gas 
+trapped in shale gas geologic formations.
+    Historically, the Department of Energy has played a 
+critical role in development of technologies that have enabled 
+the United States to expand development of our energy 
+resources. Between 1978 and 1992, public resource investments 
+managed by the Department contributed to the development of 
+hydraulic fracturing and extended horizontal lateral 
+technologies that spurred private sector investments and 
+industry innovation, unlocking billions of dollars in economic 
+activity associated with shale gas.
+    Today, domestic natural gas prices are lower than 
+international prices of delivered LNG to overseas markets. As 
+in the United States, demand for natural gas is growing rapidly 
+in foreign markets. Due primarily to these developments, the 
+Department of Energy has begun to receive a growing number of 
+applications to export domestically produced natural gas to 
+overseas markets in the form of liquefied natural gas.
+    The Department's authority to regulate the export of 
+natural gas arises from the Natural Gas Act which provides two 
+statutory standards for processing applications to export LNG 
+from the United States. By law, applications to export natural 
+gas to Free Trade Agreement nations are deemed to be consistent 
+with the public interest and the Secretary of Energy must grant 
+authorization without modification or delay.
+    For applications to export natural gas to non-FTA nations, 
+the Secretary must grant the authorization unless after 
+opportunity for hearing, the proposed export is found to be not 
+consistent with the public interest.
+    The Department's review of applications to export LNG to 
+non-Free Trade Agreement countries is conducted through a 
+publicly-transparent process which includes full public 
+interest review. To date, the Department of Energy has granted 
+one long term application to export domestically-produced, 
+lower 48 LNG to non-Free Trade Agreement countries.
+    In the Sabine Pass Order, the Department of Energy stated 
+that it would evaluate the cumulative impact of the Sabine Pass 
+authorization and any future authorizations for export 
+authority when considering subsequent authorizations. Following 
+issuance of that order, the Department undertook a two-part 
+study of the cumulative economic impacts of LNG exports.
+    The first part of the study was conducted by the Energy 
+Information Administration and looked at the potential impact 
+of additional natural gas exports on domestic energy 
+consumption, production and prices under several prescribed 
+export scenarios. The second part of the study, performed by 
+NERA Economic Consulting under contract to the Department of 
+Energy, evaluated the macroeconomic impact of LNG exports on 
+the U.S. economy with an emphasis on the energy sector and 
+natural gas, in particular.
+    To date, the Department has received 188,000 initial 
+comments and about 2,700 reply comments on these two studies. 
+Now that all comments are received regarding the LNG export 
+studies, the Department will take into consideration the 
+studies, the comments and the record of the proceedings of the 
+19 non-FTA LNG export applications. The Department will then 
+make a public interest determination and act on each of these 
+applications on a case by case basis.
+    Due to the adjudicatory nature of this process, I will be 
+unable to comment today on issues that are presently being 
+addressed in our opinion proceedings. Those issues include but 
+are not limited to the merit of pending applications, the 
+validity of the two-part macroeconomic study, the study's 
+adequacy as the basis for decisions and the appropriate scope 
+of environmental review.
+    I can, however, speak to DOE's statutory authority, our 
+process to review applications to export LNG to non-FTA 
+countries, our two-part LNG export studies, the comments we 
+have received on those studies and other recent developments in 
+LNG export. With respect to those topics, the Department and I 
+are committed to being as responsive as possible to any 
+questions the committee may have today.
+    In conclusion, Mr. Chairman, I would like to emphasize that 
+the Department of Energy is committed to moving this process 
+forward as expeditiously as possible. The Department 
+understands the significance of this issue as well as the 
+importance of getting it right.
+    With that, I would be happy to answer any questions the 
+committee may have.
+    [Prepared statement of Mr. Smith follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T0386.028
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.029
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.030
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.031
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.032
+    
+    Mr. Lankford. Thank you.
+    I ask unanimous consent to place in the record the 
+statement of Dr. David Montgomery, the Senior Vice President of 
+NERA Consulting. Without objection, so ordered.
+    [The information follows:]
+    [GRAPHIC] [TIFF OMITTED] T0386.033
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.034
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.035
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.036
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.037
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.038
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.039
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.040
+    
+    Mr. Lankford. We have a vote that has been called at this 
+point. It is a single vote, so that makes it rapid to go over 
+and come back. We will take a momentary recess.
+    I would like to reiterate something Mr. Smith asked, a 
+personal privilege for the members of the committee when they 
+go through the asking of the questions. I would like for us not 
+to get into a specific application from a specific company, 
+where they are in the process, how they can move in the 
+process. I think that is unfair to be able to ask Mr. Smith.
+    Obviously, each of us can choose what we ask on our own 
+time and on questions, but I would ask that out of respect for 
+DOE for being here to be able to honor them in that, process 
+questions rather than a specific company and whether they are 
+moving a specific permit.
+    With that, we will stand in recess for a single vote. We 
+will return. As soon as two of us get back here, we will 
+continue with our questions.
+    [Recess.]
+    Mr. Lankford. Thank you for being able to recess for a 
+short period, have the votes and jump back into it.
+    I would like to recognize the Ranking Member, Ms. Speier, 
+for a quick motion.
+    Ms. Speier. Thank you, Mr. Chairman.
+    I would like to ask unanimous consent that the written 
+testimony by the American Public Gas Association be submitted 
+for the record.
+    Mr. Lankford. Without objection.
+    [The information follows:]
+
+    [GRAPHIC] [TIFF OMITTED] T0386.041
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.042
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.043
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.044
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.045
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.046
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.047
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.048
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.049
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.050
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.051
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.052
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.053
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.054
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.055
+    
+    Mr. Lankford. I would like to recognize myself for five 
+minutes of questioning. Then we will move back and forth and 
+allow members to ask questions. If we have an opportunity, 
+schedule allowing, we would like to be able to do a second 
+round if time permits for both the witnesses and us as well.
+    We are at a 14 year low of actually gas well producing rigs 
+and 1999 was the last time we had this small a number of rigs 
+out there producing natural gas. It is an interesting dynamic 
+to see very little production coming into the stream but 
+because we have so much currently being produced in the wells 
+that are out there and makes this conversation about the 
+cumulative impact and the decision is very difficult for DOE.
+    The first export facility has been permitted. They are in 
+the process of construction and will be done some time in two 
+years from now. When you begin to evaluate, from the DOE 
+perspective, cumulative impact, how will that work process-
+wise? Because obviously we have one facility and will not 
+really know the impact of that truly for maybe four or five 
+years as we go through the process. You have the two studies in 
+hand, now what on determining cumulative impact?
+    Mr. Smith. Thank you, Mr. Chairman, for that question.
+    Essentially the way the Department has handled this, when 
+we issued the permit for Sabine Pass, in that permit we noted 
+for future applications, since we were looking at queue of 
+applications that were building up, we would have to consider 
+the cumulative impact of each of those applications and going 
+through our public interest determination.
+    The first step we did was to commission a study. The first 
+part was conducted by EIA and the second part was conducted by 
+NERA Economic Consulting. The idea of doing the studies and 
+offering the studies for public comment was to provide some 
+sort of analytic rigor to looking at what the production 
+capability of the natural gas industry in the United States and 
+the capability of the global gas market to absorb gas in the 
+United States.
+    That was the process we undertook. The NERA study is now 
+back and has been put out for public record. We have entered a 
+public comment and reply comment period and have received 
+responses. It is our job now to evaluate not only the study we 
+received, which was done for the Department, but also the 
+cumulative comments that we received from stakeholders and 
+individuals interested in the process.
+    Mr. Lankford. How does that work from here? Is the 
+cumulative impact an economic impact, a forecasting, is it a 
+matter of they have to function for a while before that is 
+determined or can you do that off the study and the responses?
+    Mr. Smith. That is the process we are going through right 
+now. We have something around 200,000 comments and reply 
+comments that we are evaluating. Our job is to take the studies 
+that have been provided, that have been put out for public 
+comment, evaluate the rigor of the studies and also the 
+opinions we received from the stakeholders.
+    Mr. Lankford. I understand. Once it comes back, is the 
+issue really just the evaluation from the studies or will you 
+have to wait to permit numbers two, three or whatever may be, 
+if you permit two and three, until after the existing facility 
+that is under construction is done and is actually exporting? 
+When will that decision be made? Will it be before the export 
+begins two years from now or after?
+    Mr. Smith. The answer to that question is going to be 
+determined by the analysis we are currently undergoing. The 
+reply comment period just ended three weeks ago. We are now 
+looking at a tremendous amount of information we just received.
+    Mr. Lankford. That is the reply on the initial. You had the 
+initial that went out, all those comments went out and then 
+there was reply. That is really the second phase of it, 
+correct?
+    Mr. Smith. There were two periods. The reply was 45 days 
+and the reply comment was 30 days.
+    Mr. Lankford. The question in making the decision is do you 
+forecast the decision, what to do with applications to and on 
+after the facility under construction is already exporting or 
+before?
+    Mr. Smith. That is going to be determined by our analysis 
+of the comments.
+    Mr. Lankford. It could be four years from now before the 
+second decision is made? Is there a time period you are looking 
+at of when to make the next decision or is it that wide open, 
+could be ten years or two years?
+    Mr. Smith. I am not in a position to opine on something 
+that is going to be based on a determination or analysis we are 
+currently conducting.
+    Mr. Lankford. Does DOE feel at all an economic pressure of 
+what happens globally on these contracts? By the way, I do not 
+intend to pressure DOE. I am just trying to figure out what is 
+going on with this one way or the other.
+    Globally, the contracts are going out. As I mentioned, 
+there are eight export facilities being constructed currently 
+in Australia and other countries are ramping up for this. There 
+is a limited amount of time that we have to be able to compete 
+in the global market and be able to fulfill contracts that are 
+out there.
+    If this is going to be ten years before the next facility 
+is constructed, that is a significant lag to try to get those 
+contracts. The guess is where do we go as a nation? How big is 
+that window you anticipate before a decision is made?
+    Mr. Smith. Again, Mr. Chairman, I am not in a position to 
+put out a timeline for making decisions because that timeline 
+is going to be based on the very analysis that we are in the 
+middle of right now.
+    Mr. Lankford. When do you think you will have concluded 
+your analysis? As you go through all the comments, you are in 
+the second phase of that, do you think that is another 45 days, 
+another six months, another year? Give us a best guess on how 
+that moves.
+    Mr. Smith. Mr. Chairman, it would be inappropriate and 
+irresponsible for me to make a guess.
+    Mr. Lankford. I would have to disagree, it is inappropriate 
+to have an indefinite period of time to decide when you are 
+going to decide. At some point, there has to be something in 
+your forecasting to think we are going to decide by this point 
+and then the decision will be out from there.
+    Mr. Smith. The comment period ended three weeks ago. We are 
+currently going through an immense volume of input. Many of the 
+commenters have made comments very consistent with the points 
+you are making, so I understand the sense of urgency and the 
+importance of this decision.
+    Mr. Lankford. It has to be right.
+    Mr. Smith. But we have to make the decision in a way that 
+is consistent with public interest and that withstands the 
+scrutiny it is certainly going to receive.
+    Mr. Lankford. Thank you.
+    I will recognize Ms. Speier for five minutes.
+    Ms. Speier. Thank you, Mr. Chairman.
+    Mr. Smith, let us get to what your challenge is, which is 
+to determine whether or not approving or authorizing the 
+process to move forward for liquid natural gas to be exported 
+is consistent with the public interest. Can you be more 
+specific about the criteria you have to include in that 
+evaluation?
+    Mr. Smith. The statute essentially creates a rebuttable 
+presumption that exports are in the public interest. It is our 
+job to look at each application to make that determination. The 
+law gives the Department of Energy considerable latitude in 
+determining what that means. In fact you opined that when the 
+law was written, one was not envisioning the export of natural 
+gas from shale gas resources. That was just not something that 
+was on the horizon.
+    Our job has been to come up with a standard which we are 
+going to have to defend when we write the order. We are looking 
+at a wide range of factors that Americans care about, 
+everything from balance of trade, creation of jobs, GDP, impact 
+of prices on consumers and American families, impact of prices 
+on American industry, energy security and environmental issues. 
+We have a wide range of factors we have to consider.
+    For me, it is illustrative to be sitting next to Mr. 
+Ebinger, Mr. Cicio and Mr. Choi, all professionals whose work I 
+am familiar with outside of this hearing, but all who have 
+somewhat divergent views on what this means.
+    Ms. Speier. Let me ask, Mr. Cicio, in your statement you 
+said any level of exports will increase cost of natural gas for 
+consumers. That was pretty blanketed in that statement. Can you 
+express that more specifically?
+    Mr. Cicio. I am referring to the two studies, the EIA study 
+done in January of last year and the NERA study. Both of them 
+used a broad number of volume of exports. Under every scenario, 
+prices of natural gas rose. That is where our comment came 
+from.
+    Ms. Speier. Mr. Choi, you make evaluations based on whether 
+or not they are good investments for the oil and gas industry, 
+is that correct?
+    Mr. Choi. We have a model that looks at producer decisions 
+based on a profit maximization objective for the producer.
+    Ms. Speier. When you speak up, you are speaking from a 
+perspective of it being advantageous for the producers as 
+opposed to whether it is advantageous for domestic 
+manufacturers or the domestic consumers, correct?
+    Mr. Choi. Yes. We have a model of the NASR gas industry in 
+which we represent producer decisions and also consumer 
+decisions. Our model is different from most other models in 
+that we represent the individual incentives by each of the 
+parties. It is not purely looking at the incentives for one 
+particular sector but rather, representing the industry by 
+looking at how each individual agent would make decisions.
+    Ms. Speier. Dr. Ebinger, I actually read your report. One 
+of the things you stated in the report is that there would be 
+harm or impact, I should say, to low income consumers with the 
+exportation of LNG and that there should be some set aside of 
+whatever sales tax or revenue the Federal Government gets to 
+make sure low income people would have some form of subsidy 
+because of the increased cost to consumers, is that correct?
+    Dr. Ebinger. Yes. We did not go into great detail in 
+looking at what that real impact would be but it was certainly 
+our conclusion that low income consumers would have some price 
+impacts. Again, I would like to emphasize that taken in the 
+wide sweep of the benefits of exports, however those needs are 
+met for the low income consumers, we believe overall, the 
+nation would be much better off with exports.
+    Ms. Speier. I will yield back, Mr. Chairman, until the 
+second round.
+    Thank you.
+    Mr. Lankford. Dr. Gosar.
+    Mr. Gosar. Thank you, Mr. Chairman.
+    Mr. Cicio, the rates are artificially low right now, are 
+they not?
+    Mr. Cicio. Natural gas prices are low, yes.
+    Mr. Gosar. So we are not really being truthful to the 
+American public, as the Ranking Member mentioned. We are going 
+to see a natural increase because if we do not, we are not 
+going to see production, true?
+    Mr. Cicio. That is true. In fact, the NIMEX price between 
+now and 2020 increases 44 percent.
+    Mr. Gosar. Mr. Ebinger, you just heard Mr. Smith's comments 
+about timelines. How do you view that timeline from your 
+perspective?
+    Dr. Ebinger. I view that timeline as very deleterious to 
+the U.S. natural gas industry because, according to our 
+analysis by 2020, if you are not in the marketplace by one of 
+our first few LNG plants, you are going to have very serious 
+competition. The Chairman has mentioned the projects coming out 
+of Australia. By the early 2020s, we will see major new gas 
+projects arising in east Africa, Algeria, Angola and many other 
+places.
+    We also remind people in our report that in the Asian power 
+market, coal remains extremely competitive with LNG and despite 
+our efforts to curtail global warming, we see massive new coal 
+deposits coming into the international market. Coal is going to 
+be competing directly against gas.
+    As we move into the 2020 period, particularly the ten year 
+time frame that was potentially mentioned, I think we can 
+assume there will be at least a handful of additional countries 
+that come up with their own shale gas development, be that in 
+China, South Africa or Argentina. We are going to have more 
+shale gas, more LNG with the prospect of big pipelines coming 
+from eastern Siberia and Russia to the Asian market which will 
+also compete against LNG.
+    It is not going to be easy to finance a big LNG project 
+when the competition is so great and you have to get your buyer 
+to take a huge proportion of the sales in order to get the 
+project financed.
+    Mr. Gosar. From what you have seen of our previous history 
+in this country about getting projects like this online, give 
+me an estimate of getting it online by 2020. My dad is a 
+geologist, so 30 days, 60 days, 90 days, 120 days, three 
+months, six months. They all come at cost and within the 
+bureaucracy of government. What is your best estimate of 
+getting it done?
+    Dr. Ebinger. I think it is an impossible question to answer 
+because DOE and FERC do have statutory responsibilities.
+    Mr. Gosar. Isn't there a way to streamline the process?
+    Dr. Ebinger. I would certainly think we could have some 
+additional plants in the market by 2020, 2022, if we were able 
+to get the process moving beyond the first Cheniere project 
+that we could probably see two or three projects in the 
+marketplace by 2025, say. I think anybody who thinks we are 
+going to have more or the fearmongers that list all the 
+projects before DOE and FERC argue that all these were built, 
+we would collapse the international LNG market. We see no 
+scenario where that is going to happen.
+    Mr. Gosar. I agree.
+    Do you see, Mr. Smith, in regards to the protocol? Looking 
+at timelines, it is very, very frustrating to America, by not 
+having a timeline that is equivocally pretty close to an 
+outline. Does that make sense?
+    Mr. Smith. I appreciate that Congressman. One think I would 
+like to emphasize is it is our job to get to a defendable, 
+transparent a decision as expeditiously as possible. We have a 
+tremendous sense of urgency for this process. Many of the 
+points that have been made by members of the committee and by 
+my friends on the panel have certainly been made multiple times 
+on both sides of the fence in the numerous comments we have 
+received in our public comment period.
+    Our job is to move forward as expeditiously as possible, 
+but in a way that is open, transparent and which yields a 
+decision which will withstand the scrutiny that it is certain 
+to receive. A point we emphasize as we go through our own 
+internal adjudication is that a decision that does not 
+withstand scrutiny is not going to be useful for the concerns 
+you have and it will be a wrong decision for the country.
+    This is something that is important. We are talking about a 
+period of analysis that we discussed here but this is 
+infrastructure that will be in place, if built, for decades. 
+These are long term decisions and are going to lead to long 
+term investments that will be important for our economy. We 
+have to get this right.
+    Mr. Gosar. That is only if you do them within the time 
+frame that makes it economically feasible. If you don't, you 
+are done.
+    Mr. Smith. On that, I would state I spent 11 years in 
+industry before I came to the Department of Energy. I actually 
+worked at Chevron when Chevron was working on the LNG import 
+terminal at Sabine Pass and I worked on that terminal. I did a 
+lot of that commercial work.
+    Industry will move forward to build what it decides to 
+build. Certainly falling into a window where you think the 
+market is open sometimes is good for the shareholders of that 
+company, sometimes it is not. It is not our job to opine on 
+what the company should be doing.
+    We have to make sure that our process is managed in the 
+public interest to make sure we are looking out for the public 
+interest of American businesses and families, that it is 
+consistent, open, transparent and will withstand scrutiny.
+    Mr. Gosar. Thank you.
+    Mr. Lankford. Mrs. Lujan Grisham.
+    Mrs. Lujan Grisham. Thank you, Mr. Chairman.
+    I am actually going to reverse my order of questions 
+because this is what happens when you are nearly last on a 
+panel.
+    Mr. Smith, given your now testimony and description of a 
+pretty in-depth process to make sure we get it right in terms 
+of the public interest and considering that we have trade 
+agreements with our Allies and we are mindful and watchful 
+about those compliance issues, are you reaching out to those 
+other federal agencies and stakeholders when you are talking 
+about those folks you are working with in the public interest 
+to get this right?
+    Mr. Smith. We are trying to be as open and transparent as 
+possible, so we like input from a diverse field of 
+stakeholders.
+    Mrs. Lujan Grisham. I appreciate that, but are you also 
+reaching out? Are you in a position to maintain objectivity 
+where you are waiting for people to come to you?
+    Mr. Smith. The process works such that we have an open 
+comment period, 45 days for entities to make comments and there 
+is a reply comment period. Anything we are going to consider as 
+part of the adjudicatory process has to be entered in the 
+public record, so that is our primary vehicle for making sure 
+we have an open and diverse group of stakeholders who are 
+opining on the process.
+    Mrs. Lujan Grisham. I would just encourage you on that note 
+that without interfering with the due process required here and 
+to get it right, and I am mindful and appreciative of the fact 
+that the public interest issues are paramount and get this 
+right so that we make the right decisions going forward, that 
+you are also reaching out and coordinating with our other 
+administrative partners who are going to have similar issues 
+and interests. I appreciate that and encourage you within the 
+context of that process to do that.
+    Mr. Choi, I am from New Mexico and very excited about the 
+positive potential here for natural gas and exporting liquid 
+natural gas. In my home State, it accounts for one-tenth of the 
+U.S. total and the San Juan and Permian Basins, neither of 
+which by the way are in my district, but create really the 
+economic foundation for our State.
+    Unfortunately, as you all have indicated, the low price of 
+natural gas has led to a drop off in natural gas production and 
+it has negatively impacted many parts of New Mexico's economy, 
+especially our State tax revenues that depend heavily on 
+severance taxes and other revenue raisers from gas production.
+    In the context of difficult economic times, the prospect 
+that we can increase natural gas exports and increase economic 
+activity and create jobs in my State is particularly 
+encouraging. As you discussed, we need to examine the issue 
+carefully and ensure that we are protecting consumers, domestic 
+manufacturing jobs and the environment as we consider exporting 
+our surplus natural gas.
+    Without reading the rest of that statement, the issue I am 
+getting to, you talked about in the short term, I am really 
+interested, given the low price of natural gas today and the 
+supply and demand influences, I want you to talk to me a bit 
+about whether the processes we are undertaking today can bring 
+stability in the long term for natural gas in terms of the 
+price indexes?
+    Mr. Choi. Are you talking about the regulator process or 
+the market process?
+    Mrs. Lujan Grisham. Both.
+    Mr. Choi. I am more familiar with the market process, 
+having worked with a number of companies. I can tell you that 
+they are undergoing a very deliberate and careful process 
+because a lot of the companies seeking to export LNG are the 
+same companies that have been burned by building import 
+terminals in this country. They are not going to rush towards 
+anything that puts their investments at risk.
+    Part of the interest in exporting LNG is the abundance of 
+natural gas that we have in this country. U.S. gas production 
+has continued to increase. You might have seen a bit of decline 
+in your home State because some of the production has shifted 
+from dry gas areas to more liquid rich areas. The total U.S. 
+production continues to grow.
+    At the present time, I believe the market is more demand 
+constrained than it is supply constrained. There are wells that 
+have been completed but not yet connected just because there is 
+a lack of demand or possibly because of lack of infrastructure 
+to take the gas away to markets. I believe the market is well 
+equipped to determine how much LNG export would be economic.
+    There could be some increase in price, but according to 
+economic theory, any increase in demand will have some increase 
+in price. Just because there is a price increase is really a 
+pretty innocuous statement; the question is how much of a price 
+increase will there be? According to our study, that price 
+increase will be fairly modest because of how dynamic the 
+market is and because of how much domestic resources we have in 
+this country.
+    Mrs. Lujan Grisham. Given the huge fluctuations in the 
+market, it would be nice if there was a sense given that the 
+potential here for broadening our exports, that we might be 
+able to have a little more long term stability in the market by 
+the appropriate effort between the two, market supply and 
+demand, a response and an appropriate regulatory environment so 
+that you do not have these huge fluctuations. You could then 
+get to a place where we can do consumer protection by some 
+other model if necessary in that case.
+    Mr. Choi. I agree with that. Just because we have exports, 
+I don't believe necessarily means that price volatility would 
+increase in this country. In addition to exporters securing 
+long term markets through long term supply contracts, they 
+would also have supply contracts or supplies that are ready to 
+support their export terminals. The supply will respond to the 
+increase in demand.
+    Mrs. Lujan Grisham. Thank you. I yield back.
+    Mr. Farenthold. [Presiding]. Thank you very much.
+    At this point, I think I am next on the list right at the 
+time I take the center chair, so perfect timing for me. I will 
+now recognize myself for five minutes.
+    Mr. Choi, you talk about an abundance of natural gas and 
+not a whole lot of price volatility with the addition of 
+exports. Can you give us an idea just how much natural gas we 
+think there is in some of these new shale finds?
+    Mr. Choi. It is not just shale finds, it is the total 
+domestic resource base which includes conventional supplies, 
+shale gas, coal bed methane and other types.
+    Mr. Farenthold. Assuming projected growth in world demand, 
+how many years supply are we looking at?
+    Mr. Choi. By most accounts, we have over 2,000 bcf of 
+natural gas in the United States. At our current production 
+levels, that is equivalent to about 100 years.
+    Mr. Farenthold. In shale gas, we only recover with our 
+fracking technology about a third of what is there with today's 
+technology?
+    Mr. Choi. The technology is constantly improving and we are 
+able to recover more. The shale gas comprises a growing share 
+of our total U.S. production.
+    Mr. Farenthold. Mr. Smith, are you familiar with the 
+concept of being in the right place at the right time? That is 
+where you want to be, right?
+    Mr. Smith. You would have to clarify that question.
+    Mr. Farenthold. I guess what I am getting at is I don't 
+know whether it is coincidence or divine providence or 
+whatever, but to me it looks like our technology in the energy 
+industry is pulling this country out of a recession kicking and 
+screaming. I am going to mix my metaphors here, strike while 
+the iron is hot. If the blacksmith industry had to go through a 
+burdensome regulatory process while the tire industry was 
+developing, we would miss the ability sell a lot of horseshoes 
+because cars come into existence.
+    I guess what I am getting at is the Federal Government is 
+spending a lot of money on alternative energies. I think a 
+breakthrough in battery technology makes a whole lot of 
+alternative energies work a whole lot better. Are we not 
+possibly at a unique time in history where we have a lot of 
+natural gas, there is a market for it and we could make some 
+money off it if we did something now?
+    Mr. Smith. Congressman, what I can say is that there are 
+certainly a large number of commenters of the 200,000 comments 
+we are going through now that have made exactly the point you 
+are making. We certainly have a sense of urgency to as 
+expeditiously as possible get to a open and transparent.
+    Mr. Farenthold. I know that Chairman Issa showed this slide 
+where you can actually see in the dark the Balkan field and the 
+Eagle Ford Shale in Texas which I am blessed to have touch the 
+district I represent.
+    I am also going to show you a map, a Baker Hughes map, that 
+shows all the rigs currently in production. The red ones are 
+gas, the blue ones are oil. There is no gas being produced in 
+the Balkans because there is no market for it and at the 
+current prices, they cannot afford to build a pipeline. They 
+basically are just burning it. It is a huge waste of what 
+potentially is a very valuable resource.
+    We are seeing gas prices that are just above $3.00, $3.25 
+or so, in Texas. It is great for us. We have steel plants 
+coming in, we have plastic plants coming in, we have LNG 
+companies looking to come in and export. We have some red ones 
+because we have the pipeline infrastructure to do it and 
+market.
+    What we hear from producers is in addition to having to get 
+pipelines, which are expensive to build and another regulatory 
+burden, I only need say the word Keystone, that is a problem.
+    Then you zoom in down here and see there are also gas wells 
+offshore in Louisiana. These are traditional, horizontal wells. 
+You are not seeing the development of the gas wells because you 
+cannot produce a horizontal gas well at $3 gas. The gas we are 
+getting out of these horizontal wells is being produced along 
+with oil or other liquids. It is not economical to even pursue 
+it. We could lose this boom if we do not get a market. I guess 
+I want to make sure you all are aware of the urgency of getting 
+this done.
+    Then you look at what is going on now in Japan after the 
+terrible tragedy there, they are looking to decommission their 
+nuclear facilities and go with natural gas. Wouldn't it be cool 
+to actually have something to sell back to them for all those 
+electronics we are bringing over here to get the balance of 
+trade? This is the time. I just want to make sure you guys 
+understand that. There really is that sense of urgency.
+    Mr. Smith. Thank you for those comments, Congressman. Those 
+are all factors we are considering. I grew up in Ft. Worth, 
+Texas in the Labar Neck Shale. I have seen firsthand the 
+difference that some of these developments can make.
+    We also understand all the other balancing factors. We want 
+to make sure we make a good public interest determination and 
+we need to move forward as quickly as possible in a way that is 
+open and transparent.
+    Mr. Farenthold. I appreciate that. I am a relatively 
+newcomer in Washington but I do know one of the best ways to 
+kill something is delay. I hope any delay we are doing is 
+necessary and not intentional.
+    My time has expired. Mr. Horsford, you are next for five 
+minutes.
+    Mr. Horsford. Thank you, Mr. Chairman. Thank you to the 
+panelists for being here today.
+    I am from Nevada and we also have natural gas facilities in 
+our State. It is both a blessing and a curse. On the one hand, 
+prices are at an all time low. These low prices have benefitted 
+the manufacturers, the consumers and household users. On the 
+other hand, these low prices are at adversely affecting many 
+producers of natural gas.
+    Going forward, as policymakers, we have difficult questions 
+to answer. One of the areas I feel we have to address beyond 
+corporate profitability also pertains to our security, jobs and 
+households. I would like to ask the panel, Mr. Cicio, you say 
+in your testimony your organization is not opposing LNG exports 
+but you ``remain very concerned that exports could negatively 
+impact manufacturing competitiveness and U.S. jobs.'' Why is 
+that and is there a way to calculate how many U.S. 
+manufacturing jobs could be lost or not created if LNG exports 
+are allowed to proceed?
+    Mr. Cicio. It is difficult to answer the second part of you 
+question. What I can do is tell you that these prices have 
+clearly started the manufacturing renaissance. There are 
+upwards to $95 billion of new capital investments by chemical 
+companies, nitrogen fertilizer for plastics, steel, glass and 
+these new facilities are going to create upwards to six to 
+eight bcf a day. With those announcements, we are talking about 
+a 10 percent increase in demand for natural gas.
+    Every month, there are new announcements. In our view when 
+I talk to my companies, in my view this is the first wave. The 
+commodity, as we call them, the building blocks, the kind of 
+companies I mentioned they supply energy intensive block 
+products to every manufacturer in the country. As this new 
+capacity for this building block material--the plastics, 
+chemicals and nitrogen fertilizer--comes on stream, our 
+customers will be expanding.
+    We are quite optimistic about the demand side, but it is 
+very difficult, other than to do a study much like the DOE has 
+done, to determine what negative impact it would have at a 
+specific price going forward.
+    Mr. Horsford. As we have heard, those in the oil and gas 
+sectors believe that failure to permit foreign exports of LNG 
+could severely undermine that industry and would ultimately 
+affect current and future jobs. Do they have a valid concern, 
+do you think?
+    Mr. Cicio. Manufacturers have a valid concern, yes, they 
+do. Higher prices, just from 1999, natural gas prices doubled, 
+then tripled and peaked in 2008. In that time period, I saw 
+almost 55,000 manufacturing facilities shut down. A lot of it 
+was related to high prices of natural gas. There is an absolute 
+relationship between the price of natural gas, the price of 
+electricity and manufacturing competitiveness.
+    Mr. Horsford. Is there the proposition of you said the kind 
+of winner take all where it is to the benefit of one sector and 
+to the detriment of another?
+    Mr. Cicio. No.
+    Mr. Horsford. Can there be a balance?
+    Mr. Cicio. That is correct. Our testimony bears this out. 
+If we have a process at the Department of Energy that takes 
+into consideration the public interest and balances, we should 
+be able to export and we should be able to provide affordable 
+prices of natural gas for domestic consumers.
+    Mr. Horsford. Mr. Choi, what do you say about that?
+    Mr. Choi. First of all, I think we need to realize that 
+between 2004 and 2008, U.S. natural gas prices rose to 
+unprecedented sustained levels. Prices during that time ranged 
+from about $7 to $10 per mmbtu. Nobody I am aware of is saying 
+exports will bring prices up to those levels.
+    The advent of the shale gas revolution, which used the 
+hydraulic fracturing and horizontal drilling to make vast 
+amounts of shale gas economical, has fundamentally changed the 
+picture. Even with exports, we are not going to see prices at 
+that level in the future.
+    Mr. Horsford. Thank you, Mr. Chairman. I will wait for 
+additional questions.
+    Mr. Farenthold. Thank you. It is interesting where we see 
+this side of the aisle agreeing with the DOE and Brookings and 
+not always with the industry.
+    At this point, I need to ask for unanimous consent for the 
+gentleman from Louisiana, Dr. Fleming to sit as a member of 
+this subcommittee. Without objection, so ordered.
+    Up next is Mr. Turner. Mr. Turner, you are recognized for 
+five minutes.
+    Mr. Turner. Thank you, Mr. Chairman.
+    I appreciate our panelists because it is certainly an 
+important discussion as we look to the issue of job creation 
+and energy policy. In Ohio alone, it is expected that Utica 
+Shale would have a $5 billion economic impact and create or 
+supply nearly 66,000 jobs in Ohio by 2014. I appreciate the 
+discussion that we have great opportunity to export and that 
+the price spikes we had in the past were the result of the fact 
+we did not have the access to or the abundance of supply that 
+we are now seeing.
+    Dr. Ebinger and Mr. Choi, in your reports you both touched 
+on the issue of the geopolitical implications of exporting U.S. 
+natural gas. I would like to speak to that for a minute and ask 
+you a question.
+    When we look to the U.S. interests and certainly domestic 
+economic benefits, we also need to look to the issue of the 
+geopolitical implications of our being able to export. As both 
+of you have noted, Russia has a major role as a supplier of 
+natural gas and is a non-reliable exporter to the European 
+countries. They use it as a political tool, punishing our 
+European allies, especially eastern Europe, and use it to try 
+to divide the EU and NATO countries as they put pressure on 
+individual countries to adopt policies favorable to Russian 
+positions.
+    I have a bill, H.R. 580, the Expedited LNG for American 
+Allies Act, that would expand the ability to export LNG to our 
+NATO partners and to Japan to allow expedited approval for that 
+export. This is a bill that initially had been championed by 
+Senator Lugar. It is a bipartisan and bicameral piece of 
+legislation. I think it would be very important to give that 
+expedited opportunity, not only increasing our markets, 
+lowering the overall bureaucratic process for export, but also 
+have an impact in the Pacific region with respect to Russia's 
+export.
+    Dr. Ebinger and Mr. Choi, would you please elaborate on 
+your positions and thoughts as to the geopolitical effects of 
+U.S exports to those regions?
+    Dr. Ebinger. Thank you, Congressman.
+    Yes, I would thoroughly agree with your characterization of 
+what LNG cargoes diverted from the U.S., since we no longer 
+need them, have played in the European market. The big reason 
+for that is that in most of the world outside the United 
+States, petrochemicals are derived from naphtha, an oil-based 
+product, rather than from natural gas, making them much more 
+costly.
+    We have seen LNG cargoes allow the Europeans, as some of 
+their longstanding contracts with Gazprom have come up for 
+renegotiation, to use the availability of natural gas to delink 
+a large portion of their supply from Russia and in some cases, 
+get significant price concessions from the Russians.
+    My only concern about your bill, I think it is very 
+admirable and we certainly support our NATO and European 
+allies, is that one has to be very careful because having just 
+returned from a significant gas conference in Amsterdam, it 
+does appear, listening to the Europeans, that they believe for 
+the next ten years the European gas market is saturated.
+    Part of that is, of course, the depressed economic 
+condition prevailing in Europe, which obviously can switch 
+around at some point in time, we hope, but I will only caution 
+that if we were to direct U.S. LNG cargoes there, it might be 
+good that we could drive prices down further but it might not 
+necessarily be good for our own exporters if they found that to 
+penetrate that very glutted market, they had to significantly 
+redirect it.
+    Mr. Turner. The bill doesn't redirect it, but streamlines 
+the bureaucratic process for those who are doing that.
+    Mr. Choi?
+    Mr. Choi. In our latest paper, we looked at the global 
+implications of U.S. LNG exports. In order to understand what 
+the impacts would be, you have to look at each market and 
+examine what the marginal source is. The marginal source might 
+not be just what is currently being exported, it could also be 
+future supplies. These supplies could be marginal either 
+because they have high production costs or high transportation 
+costs, or possibly because of political hurdles that make these 
+supplies effectively more costly to come to market. I am 
+talking about the supplies such as from Iran or possibly 
+Venezuela.
+    You mentioned Russia. Russia is the largest gas exporter to 
+Europe. They are vulnerable, according to our study, because 
+not only do they have the largest volumes, but they are also 
+the highest cost contract supplied to the European market. We 
+believe if the U.S. exports to Europe, which is one of our 
+scenarios, Russian supplies would be vulnerable.
+    Mr. Turner. Thank you, Mr. Chairman.
+    Mr. Farenthold. Thank you, very much.
+    We will now recognize the gentleman from Louisiana, Dr. 
+Fleming, for five minutes.
+    Mr. Fleming. Thank you, Mr. Chairman. I thank the committee 
+for allowing the courtesy today to sit in and I appreciate the 
+panel here today.
+    I come from the 4th District of Louisiana which has the 
+Haynesville Shale. The Haynesville Shale, as you know, in the 
+period around 2007 to 2008, we had nothing less than a 
+revolution in marrying the old technology of hydro-fracking and 
+the new technology of horizontal drilling, which has released 
+tremendous wealth and economic activity which has really 
+sustained my district through difficult economic times.
+    We are victims of our own success, unfortunately. As a 
+result of that, as you know, the price has been well displayed 
+here, and has been depressed because of all of the production, 
+so we have gone from excessive demand and little supply to 
+excessive supply and relatively the same demand, which is kind 
+of interesting because our friends on the other side of the 
+aisle assure us the high cost of gasoline and oil has nothing 
+to do with supply and demand, it is speculation.
+    We would like to have a little speculation in natural gas 
+if that would be okay with you gentlemen just to get that price 
+up a little bit because we have had a number of actual drilling 
+sites that we have not moved forward on because it is just not 
+economically viable.
+    The other piece is in Lake Charles, we have the Cheniere 
+plant which is an incoming supply depot for LNG because we have 
+been net importers. Now they are spending $10 billion to make 
+it a net export facility and we are glad about that. We will be 
+well positioned for the future not only to take care of our own 
+needs, but to take care of the needs of the world when it comes 
+to this revolution.
+    I have a couple of questions today. Mr. Smith, what are the 
+criteria for approving one terminal over another? Is geography 
+a factor, a region already has a facility or other projects 
+that may be less advantageous? How do you decide about that 
+because we are waiting on final permitting and approval with 
+our plant?
+    Mr. Smith. As you are aware, and as you stated in your 
+comments, we have already approved one export facility and that 
+is the Sabine Pass facility in Louisiana. Subsequent to that, 
+now that we are looking at cumulative impact of another 
+additional 28.2 billion cubic feet a day of potential exports, 
+one of the things we have announced as we go through our 
+process is we do have a queue, we have a sequence we are going 
+to use in order to determine the order in which we are going to 
+evaluate the export opportunities.
+    We took all of the applicants before the Department and 
+divided them into two categories, ones which had submitted 
+their FERC pre-filing application, the process where you start 
+spending more significant quantities of money, and those who 
+had no filed for pre-filing. Within those, it is on a first 
+come, first serve basis.
+    There is a list. There is a pdf on the DOE website and you 
+can see the next applicant we are going to consider and you can 
+see the last applicant. We are going to work through that queue 
+looking at all the factors we have announced as part of our 
+public interest determination, everything from jobs, balance of 
+trade, economic impact on consumers, prices, impact on 
+industry, international issues, economic and environmental 
+issues, a wide range of factors we are going to use in order to 
+evaluate each one of those applicants.
+    Mr. Fleming. Do you do some en bloc or are they all one on 
+one?
+    Mr. Smith. We are compelled by statute to evaluate each of 
+these on an individual basis.
+    Mr. Fleming. What about the non-FTA countries? What is the 
+policy towards them? Are they still in the queue?
+    Mr. Smith. The law breaks up applicants into two 
+categories, FTAs and non-FTAs. Free Trade Agreement countries 
+essentially are approved without delay or modification by the 
+Department. There is no discretion that is exercised, under 
+statute, by the Department. Those are being approved as we 
+receive them. It is the non-FTA applicants we are evaluating.
+    Mr. Fleming. Is that there to say there is going to be 
+difficulty in approving them? What are going to be the 
+challenges in getting approvals for them?
+    Mr. Smith. There is a process. As I mentioned earlier, it 
+is illustrative that even on this panel you have individuals 
+who think should be approved immediately and all of them should 
+be approved; there are a lot of voices who think there are 
+concerns with exporting LNG in terms of rising prices. There 
+are lots of arguments being made.
+    We received somewhere on the order of 200,000 comments in 
+addition to the studies we received, some of which we 
+requested. It is our job to look at all the factors so that as 
+expeditiously as possible as transparently as possible and as 
+quickly as possible, we get to a public interest determination 
+that is going to inspire the right type of confidence in terms 
+of its ability to withstand the scrutiny it is certain to 
+attract. That is the process we are in right now.
+    Mr. Fleming. I certainly want to underscore that we should 
+encourage approval of non-FTA countries as well. It will be 
+good for the global economy, it will help our prices. You just 
+heard that we have more natural gas now than we ever thought we 
+had in the past and probably with newer technologies coming 
+online, we will have even more in the future.
+    It is not that we want to drive up prices; we want prices 
+to be at real market rates. That is going to be the sweet point 
+for consumers and for jobs.
+    With that, I yield back and again, I thank you for your 
+courtesy.
+    Mr. Farenthold. Thank you very much.
+    At this point, we will start a second round of questioning. 
+I will recognize myself for five minutes and then move across 
+the aisle.
+    Mr. Cicio, the gist of your concern is that as we start to 
+export natural gas, there will either be a shortage or an 
+increase in cost of natural gas that is used either as a raw 
+material or feedstock for domestic manufacturing and to keep 
+domestic electricity prices low as natural gas, certainly in 
+Texas, is a major source of energy. Is that a reasonable 
+summary of what you are saying?
+    Mr. Cicio. No. Natural gas is different. That is what makes 
+this public interest determination so critical. Natural gas is 
+very influenced by the public process. There is legislation and 
+regulation that can impact the access to natural gas in terms 
+of whether it is in a moratorium or not, and Congress can deal 
+with the intangible drilling cost tax benefit and that is going 
+to change the economics.
+    Mr. Farenthold. Intellectual property is highly regulated 
+and with music, their ability to profit is determined almost 
+entirely on government regulation of copyright. We could go in 
+and regulate almost any other industry.
+    Mr. Choi, do you agree with that characterization that 
+natural gas is unique over any other product or commodity?
+    Mr. Choi. No, I would not. First, I would note that at the 
+margin, there are some regulations that affect the amount of 
+drilling, but for the most part, we have deregulated the supply 
+markets and the market determines how much to produce.
+    Mr. Farenthold. Thank you.
+    Mr. Cicio, let me ask you this. As we get more natural gas 
+through pipelines to our ports doesn't that make the liquids 
+that are oftentimes produced with natural gas more available to 
+your industrial customers to use for other products?
+    Mr. Cicio. Drilling for natural gas, drilling for oil, it 
+increases potentially natural gas liquids, so the answer would 
+be yes.
+    Mr. Farenthold. Using your argument that natural gas is 
+special, does that mean we should add regulations to the export 
+of other basic chemicals like ethylene and propylene?
+    Mr. Cicio. I will say it again, natural gas is different 
+because let us say if DOE approves a terminal, they are 
+approving it for up to 30 years. The terminal operator then 
+negotiates long term contracts that are mostly take or pay. 
+That locks in demand for a 30 year time period. Meanwhile, 
+consumers are exposed to the risk of public policy on the 
+production side and on the demand side of natural gas.
+    Mr. Farenthold. Can any consumer, whether an electric 
+company generating for the public, negotiate a long term 
+contract the way exporters can?
+    Mr. Cicio. No.
+    Mr. Farenthold. Why not?
+    Mr. Cicio. There are very, very few long term natural gas 
+contracts negotiated.
+    Mr. Farenthold. At $3.00 and something, I might be 
+negotiating long term ones myself.
+    Mr. Cicio. We would like to do so.
+    Mr. Farenthold. Mr. Ebinger, would you like to comment on 
+this line of questioning?
+    Dr. Ebinger. Congressman, I would only say I am old enough 
+to remember when we could not burn natural gas in industrial 
+boilers or powerplants because ``it was a noble fuel'' and we 
+should not do that. We have made major disastrous decisions 
+through the years whenever we tried to not allow market forces 
+to work. It is precisely for that reason that in our analysis, 
+we see plenty of NGOs being available for the American 
+industrial renaissance and used the dry gas for export.
+    As I said in my formal testimony, I think we have to be 
+careful because this idea that Dr. Fleming seems to think, and 
+I would agree with you, sir, I would love to see more natural 
+gas exported but we think the realities of the marketplace are 
+not going to allow all these projects before DOE to ever be 
+developed in any time frame any of us can reasonably foresee 
+here.
+    As a result, we find some of the arguments put forth by the 
+petrochemical industry and others to be somewhat spurious to 
+the realities of the marketplace.
+    Mr. Farenthold. Let me ask, Mr. Choi, you studied this, 
+what is the environmental impact of this? It seems to me as we 
+have low cost natural gas that is cleaner burning than oil and 
+in most cases, coal, isn't it a positive net environmental to 
+get more people burning clean natural gas?
+    Mr. Choi. Yes, it is. If you look at the carbon emissions 
+in the United States, we are at I believe the lowest point we 
+have been in the past decade. Most of it is because we are 
+burning more natural gas than we ever have.
+    One other comment I would like to make is that just because 
+there is a rush to apply for DOE approval to export doesn't 
+necessarily mean that all these applications, if approved, 
+would be built.
+    Mr. Farenthold. Thank you very much. I apologize for 
+cutting you off but I am out of time. As a courtesy to my 
+colleagues, we do need to keep moving.
+    I will now recognize Mr. Horsford for five minutes and turn 
+the Chair back over to Chairman Lankford.
+    Mr. Horsford. I want to get back to this issue of who 
+should be involved in this process. Mr. Choi, would you agree 
+that all interests, those of the producers and those of the 
+consumers, should be considered by the Department of Energy in 
+their determination of what is a public interest?
+    Mr. Choi. I would rather not speculate on the role of the 
+Department of Energy but I can say that the market does 
+consider interests of all parties.
+    Mr. Horsford. Mr. Cicio, from what I understand, you are 
+here representing some very large companies that use natural 
+gas as an energy source and as an input in their production 
+process. What is your view on being able to have a say in this 
+process?
+    Mr. Cicio. Absolutely. All interested parties impacted on 
+the producing and consumer sides. Let us take a look at when 
+the DOE was confronted with dealing with determination on 
+imports. They did a rulemaking process to develop the criteria 
+and allowed for all parties to comment, both verbally and in 
+writing, to help develop that criteria. It was done in a very 
+transparent way.
+    My comments earlier today were that there has not been any 
+rulemaking that has allowed for a set of criteria for exports. 
+That is what we believe is the best process to move forward.
+    Mr. Horsford. The fact that your report accurately 
+estimates the impact of exportation on your member companies is 
+a concern?
+    Mr. Cicio. It is interesting. The NERA report said that 
+energy prices go up, wages go down and the return on capital of 
+all industries are impacted in a negative way.
+    Mr. Horsford. Mr. Chairman I think this hearing 
+demonstrates, at least to me, that there are many sides to the 
+question of allowing LNG exports on a scale never before 
+considered in U.S. history. The law requires the Department to 
+do what is in the public's interest. I know none of us want to 
+be motivated to pushing the Administration into picking winners 
+and losers and it is something that of course the majority has 
+talked about, not only in this committee, but in others and has 
+objected to that type of consideration.
+    The last Congress I know is in the past but I would hope we 
+would not do anything to try to push the Administration into 
+selecting winners and losers in this process.
+    At this hearing, which concerns something the oil and gas 
+industry wants, federal permission to export LNG and thereby 
+raise gas prices and profits, I get the feeling that some 
+members of the majority want the Administration to go in this 
+direction so long as oil and gas are the winners. I hope we 
+have the public's interest in mind rather than merely just one 
+industry's welfare or profit.
+    Thank you.
+    Mr. Lankford. [Presiding] I would recognize myself for the 
+next line of questioning.
+    Mr. Horsford, I would agree, this shouldn't benefit one 
+group or another, but there are tens of thousands of jobs on 
+the sidelines currently that in a 7.6 percent unemployment rate 
+for the Nation, we would love to see. The jobs that are 
+happening take an area like North Dakota, an area where there 
+are a lot of jobs that are $80,000 and above as a starting 
+position for a high school education. It would be great to see 
+this promulgated across the country. A lot of families would 
+enjoy that kind of benefit to see that in the days ahead.
+    I apologize that I had to slip out for a moment. I need to 
+come back to several things on this. I am still trying to 
+process through how we make the decision and how we move 
+forward in timing on this.
+    Mr. Smith, is DOE anticipating setting a numeric number of 
+bcf to export a day? Is that an expectation, there will be some 
+moment or some decision to be made to say we are going to find 
+a magic number of bcf, we are going to limit that?
+    Mr. Smith. I thank you for the question Mr. Chairman. The 
+Department has not made any determination about a volumetric 
+limit or cap or any sort of quantified figure, so that is not a 
+determination the Department has made.
+    Mr. Lankford. That decision has not been made or that 
+decision is irrelevant, it is going to be market-based? I am 
+trying to figure out will this be centrally determined, that 
+someone in DOE will determine we can do up to 6 bcf a day but 
+that is all we can do economically based on studies or will the 
+market decide?
+    Mr. Smith. The market has made no determination about the 
+imposition of any cap, quantification, the calculation of any 
+caps. That is not a decision the Department has made. We have 
+not come to that conclusion.
+    Mr. Lankford. You have made a decision at least 2 bcf are 
+going to happen a day because the existing export facility has 
+that capability of 2 bcf a day, correct?
+    Mr. Smith. We have decided to permit 28.2 bcf per day.
+    Mr. Lankford. I am trying to figure out where does this go 
+from here. Is it a situation where we have 19 applicants, we 
+are going to let the market decide what is appropriate or will 
+there be some decision to say we have two to permit, we are 
+going to allow two more, then wait a couple years, allow two 
+more, wait a couple years or is there going to be a decision we 
+think eight is the limit and try to figure out some process to 
+get us to eight?
+    Mr. Smith. Mr. Chairman, we simply have not made that 
+determination. We are in the process right now of making this 
+determination. The comment period literally closed three weeks 
+ago, so there is a very large volume of analysis the Department 
+still has to do.
+    Mr. Lankford. I do have to have some concern on the large 
+volume because there 186,000 individuals. My understanding is 
+that was about 300 actual comments and they all came in in the 
+thousands. Am I right or wrong on that because 300 comments you 
+are working through, just a large quantity of the same 300 
+comments?
+    Mr. Smith. There were a total of almost 200,000 comments. 
+Many of those were letter writing campaigns but you also have 
+to go through those because any campaign, people write things. 
+You have private citizens who are voicing their opinion.
+    Mr. Lankford. I definitely understand that. We get letter 
+writing campaigns, I assure you, but the comments, as they come 
+in, as far as in your decision-making, you have 300 unique 
+comments really there, you have thousands to reply to, but as 
+far as your decision-making process, you are really filtering 
+through 300, is that correct?
+    Mr. Smith. I do not want to characterize the 300 as being 
+unique from the other very large volume because we have to go 
+through all those comments.
+    Mr. Lankford. I understand. I am just trying to figure out 
+the decision-making process. As we are trying to process 
+through this, the assumption was the decision has been made we 
+are going to exports on non-FTA. That decision is done, it is 
+behind us. We are going to do it. Now it is how many additional 
+facilities. What will be the process and time? That is all that 
+is left at this point to determine. We have already determined 
+we are going to export.
+    I am trying to figure out is the timing because there are a 
+lot of contracts globally that depend on this, there are a lot 
+of jobs here in America scattered across the country. Mrs. 
+Lujan Grisham mentioned before, there are areas in New Mexico 
+and other areas all across the country that are dependent on 
+job development increasing.
+    With a 14 year low in production of natural gas happening 
+right now, that is a lot of jobs sitting on the sideline that 
+turn around almost immediately if production begins to increase 
+for export if there is some sort of advance planning, if we 
+know the timing. I am trying to figure out what is the timing 
+and what is the process.
+    Mr. Smith. I can say a couple things, Mr. Chairman. First, 
+we are committed to dedicating resources, dedicating personnel, 
+lawyers, to move as quickly and expeditiously as possible to 
+get to a transparent and defendable decision.
+    Mr. Lankford. You still don't know whether that is a month 
+from now or ten years from now?
+    Mr. Smith. Mr. Chairman, we are in the middle of the 
+analysis right now. I could opine on that but I would be making 
+something up that is trying to foresee the outcome of the 
+analysis we are currently doing.
+    Mr. Lankford. Do you have an expectation when you make a 
+decision, will they be made one at a time or based on a set of 
+merits where you will say this is the criteria. If your permit 
+application meets this set of criteria, we are going to permit 
+you and let the market decide or will this be, whatever system 
+it was, we are going to permit this company and then three 
+years, six months later or whatever it is, we are going to 
+permit another one? Will it be that order or will it be open it 
+up and let them go pursue capital, see who gets the capital and 
+who gets contracts? How will that work?
+    Mr. Smith. Again, that would be, to a large extent, 
+prejudging the analysis we are doing now. I can say we have 
+announced an order, we know what the next applicant is going to 
+be, what the subsequent applicant is going to be.
+    Mr. Lankford. How was that determined as far as the order, 
+the next one that is going to go down?
+    Mr. Smith. In the Sabine Pass Order, we stated we had to 
+look at the cumulative impact of LNG export, since we are 
+looking at a total of 28.2 bcf with the number of applicants.
+    Mr. Lankford. There is no way they are going to build that 
+much. There is not that much capital to build that.
+    Mr. Smith. That is not the argument I am making. I am just 
+saying that is the total quantity of export applications we are 
+looking at. We took the applicants on a first come, first serve 
+basis, with priority given to those that have started the FERC 
+pre-filing process. You can go to the DOE website, you can 
+download a pdf that shows you the list and the order. That is 
+the order in which we will proceed.
+    Mr. Lankford. So it is a first come, first serve if they 
+have gone through the pre-application. That is fine in some 
+semblances and I am sure for the company that is number two, 
+they are excited about that process and the company that is 
+number 19 is probably not as excited.
+    I know from being in a high school history class, when 
+tests were turned in on Friday, the first person turning in 
+their test didn't always get the highest grade. A process that 
+says whoever got his application request in first and started 
+with FERC has the highest priority seems to pull out some merit 
+issues.
+    Again, I am saying that and probably the number two company 
+is furious I am saying but there seems to be some need for 
+merit. Do they have the capital, do they have contracts, have 
+they had communication on this, can they actually fulfill it, 
+is this going to economically benefit the Nation?
+    If we make the determination to do it, then we need to have 
+some economic benefit immediately coming back to America, that 
+we know they are actually going to be able to fulfill it and 
+get it done. Does that come into play on this at all?
+    Mr. Smith. I appreciate the comment. First of all, in order 
+to get a permit before the Department of Energy, you need $50 
+and a fax machine, we get the application and it goes into the 
+docket. One of the ways we tried to emphasize or measure 
+seriousness or probability of outcome was to first do those 
+applicants that have a pre-filing before FERC. That is when you 
+start to spend very large quantities of dollars. We pushed 
+those to the front of the queue, the rest to the back of the 
+queue.
+    There are any number of algorithms one could try to come up 
+with to say this company is more serious than that one or they 
+have a better project than this one. We opted not to do that. 
+We said we were not going to try to judge the seriousness of 
+companies, or their business model or the probability of 
+financing because that is not our job.
+    We wanted something in terms of fairness to say we think 
+generally the idea that the company first in the queue should 
+go first. It was only fair.
+    Mr. Lankford. Did they know that in advance, that this was 
+going to be first come, first serve?
+    Mr. Smith. There was no process in place. This is brand new 
+ground.
+    Mr. Lankford. If someone did more research and took more 
+time to fill out their application, they ended up in the back 
+of the line. They just didn't know at that point?
+    Mr. Smith. Again, this is a new process that we are 
+creating.
+    Mr. Lankford. You have a difficult job in this and I 
+completely appreciate this. I know you are working 
+expeditiously but at the end of the day, everyone, all of us on 
+the dais, you, everyone is going to have to determine and be 
+able to say to people this was a fair process that worked as 
+expeditiously as possible.
+    I have gone well over time on this. I would like to 
+recognize Ms. Speier.
+    Ms. Speier. Thank you, Mr. Chairman.
+    Let me say to both you, Mr. Smith and you, Mr. Chairman, 
+you have done yeoman's work on behalf of each of your interests 
+here this afternoon, you, Mr. Smith, in terms of recognizing 
+that it is a judicial process and you cannot really offer a lot 
+of information about particular applications and Mr. Lankford 
+for pitching for his constituents as well. I compliment both of 
+you.
+    Let me just say though on your point about winners and 
+losers and whether or not someone has the ability to actually 
+take this approval and move forward, it appears they have done 
+just that. If you have put them in two categories, those that 
+have already done some precertification through FERC, they are 
+in the front of the queue you just said, is that correct?
+    Mr. Smith. Yes, that is the case. Those are being 
+considered first. Again, that is not a capricious 
+determination. Those were the companies already spending 
+millions and millions of dollars on feed and pre-feed and all 
+the other things they have to do in terms of determining 
+environmental impact. Those are companies making a real 
+investment. They are spending dollars now.
+    As I said, we didn't try to grade each company but we did 
+create two categories and we thought that was a fair way to 
+approach it.
+    Ms. Speier. Let me also ask this question. There are many 
+folks in the oil and gas industry that will go out, get the 
+permits and just sit on them. That is not what I think any of 
+us are interested in. How do we prevent that from being part of 
+this extended evaluation as to the merits of how much is 
+eligible to be exported versus not?
+    Mr. Smith. The Department has some flexibility and some 
+leeway in the way it writes its Orders. One thing we emphasize 
+is that when we write an Order, when we say yes or no, we don't 
+write yes or no on a sticky and say that is a decision. There 
+is actually a hundred-plus page Order the Department comes out 
+with that goes through in a very open, transparent and 
+dependable way, the rationale the Department has gone through 
+to get to that Order. Also, we have the flexibility and the 
+discretion to put in qualifications or requirements for the 
+companies.
+    If you look back to how we managed the Sabine Pass Order 
+for Cheniere, there was a requirement that by a certain date, 
+they had to have first gas going through the terminal which 
+essentially prevents a company from going in for a relatively 
+low price.
+    Ms. Speier. Fifty dollars?
+    Mr. Smith. Yes, $50, and obtaining an application which 
+they can sit on ad infinitum. That is not in the public 
+interest; that is not what we wanted to accomplish. That is how 
+we managed that.
+    Ms. Speier. Mr. Cicio, you have been very helpful and have 
+raised some interesting issues. Can you list out some of the 
+companies that you represent?
+    Mr. Cicio. Actually, no. We do not list our companies on 
+our website, we do not publish them. The reason why is that we 
+work on some very delicate environmental issues and many of our 
+companies have retail profiles. We try to protect them from 
+having that exposure. IECA represents a trade association and 
+the cumulative views and the consensus of those companies. We 
+speak as an organization, not speaking on behalf of a company.
+    Ms. Speier. I understand that, but for us to evaluate the 
+impact on companies making it in America, you talked about the 
+American renaissance of manufacturing which we all embrace. We 
+want products made in America. I do a Make It in America forum 
+in my district every year. I just want to get a sense of how 
+many employees are we talking about, are these Fortune 500 
+companies. Play 20 questions with me.
+    Mr. Cicio. Our companies have over $1 trillion in revenues, 
+they employ 1.4 million people, have some of the largest 
+manufacturing facilities in the United States. These are large 
+companies. They produce steel, aluminum, chemicals, plastics, 
+nitrogen, fertilizer, glass, cement, food processing companies, 
+these are all name brand companies.
+    Ms. Speier. You said how many employees?
+    Mr. Cicio. It is 1.4 million.
+    Ms. Speier. You also indicated that while the export 
+contracts typically are for 30 years, that is not the case for 
+manufacturing companies within the United States. Could you 
+elaborate on that?
+    Mr. Cicio. Manufacturing companies would love to lock in 
+long term, particularly fixed or advantaged natural gas prices 
+but for the most part, that is not happening. They are having 
+to buy natural gas prices on the spot market.
+    Ms. Speier. Typically that is a decision being made by the 
+actual utility that is offering you the gas?
+    Mr. Cicio. No. This is a negotiation that can occur between 
+a manufacturing company and a natural gas producer or marketer. 
+Utilities are not part of the equation.
+    Ms. Speier. So this is a producer basically saying no, we 
+are not going to lock in a 30 year contract to you but in an 
+export setting, they could?
+    Mr. Cicio. When I referred to 30 years earlier, I was 
+referring to the DOE approving an application, the terminal 
+owner then is going to secure long term contracts and they have 
+that ability for 30 years. The point I was trying to make 
+earlier is that creates demand that is going to impact domestic 
+consumer prices for a period of 30 years.
+    My point is still the same. Natural gas is different than 
+other trade products because it can be drastically impacted by 
+public policy, by Congress and by the EPA and by the Bureau of 
+Land Management that can impact the production over that 30 
+years and/or drive consumption such as the EPA on utilities, on 
+the industrial sector, controlling greenhouse gas emissions or 
+the industrial boiler mac. Public policy does drive demand and 
+can impact supply.
+    Ms. Speier. Mr. Chairman, my time has expired. I just want 
+to thank all of the witnesses for their testimony. It has been, 
+I think, a very enlightening hearing. I think what is coming of 
+it, for me certainly, is this is a process that has to be done 
+carefully, one that probably in my mind should provide for some 
+level of export but not to the detriment of manufacturing here 
+in this country or consumers in this country.
+    Unfortunately, Mr. Chairman, I have to depart to give a 
+speech. I thank you.
+    Mr. Lankford. Dr. Fleming, do you have another series of 
+questions?
+    Mr. Fleming. Thank you, Mr. Chairman.
+    I will say parenthetically before I get to my question, EPA 
+government policy can have impact on any of these natural 
+resources. Certainly coal is a great example where that is 
+happening today. Again, I have difficulty seeing where natural 
+gas is unique.
+    Mr. Smith, NERA issued a result of their study. I 
+understand DOE received that this summer, is that correct?
+    Mr. Smith. That is correct.
+    Mr. Fleming. However, it was released from DOE in December. 
+Can you account for that delay?
+    Mr. Smith. First of all, I certainly would not characterize 
+that as a delay. This is the NERA study here in my hand. This 
+was a significant and substantial economic study looking at 
+quantifying the impact of an unprecedented activity in the 
+United States in terms of exporting hydrocarbons in the form of 
+liquefied natural gas.
+    This study was received by the Department, as requested by 
+the Department, as something to be responsive to our need to be 
+judicious about quantifying public interest so we did need some 
+numbers.
+    Once it was received, there was an intense process to 
+understand the study, to ensure that it was clear and 
+transparent, to ask clarifying questions to make sure this 
+study, once entered in the public record, would be clear and 
+responsive to the types of things we need to understand as part 
+of the public interest determination.
+    Mr. Fleming. Who made the decision when to actually release 
+it?
+    Mr. Smith. I made that decision.
+    Mr. Fleming. Nothing that happened perhaps in November 
+could have had any impact on that decision at all?
+    Mr. Smith. No. The study was released when I was prepared 
+to release it and when we had done the work we needed to do 
+within the Department of Energy to make sure it was 
+appropriate.
+    Mr. Fleming. Mr. Ebinger, how do the transportation costs 
+of LNG affect the price in the world market compared to 
+domestic prices?
+    Dr. Ebinger. Transportation costs are, of course, extremely 
+high. Right now, if we are looking at what could we deliver gas 
+for example if we were ready to export into the Japanese 
+market, the actual transportation costs would be somewhere in 
+the neighborhood of $5 to $6 per million BTU, that added on to 
+the Henry Hub price plus the cost of gasification and 
+regasification, I think most analysts would agree we would 
+probably be able to deliver gas to Japan today if we could 
+export somewhere between $9.50 to $10 per million BTU, 
+significantly lower, of course, than the Japanese price.
+    Mr. Fleming. How would that compare to other forms of 
+energy for Japan? Would that be a favorable price for them?
+    Dr. Ebinger. At that price, it would be very favorable for 
+Japan because otherwise Japan imports almost everything and 
+since the Fukushima accident, the closing of the nuclear 
+powerplants has added roughly 4 bcf a day to Japanese demand, 
+killing them because they are importing into a very high cost 
+market.
+    Mr. Fleming. Obviously it is a very marketable concept to 
+sell natural gas to Japan up to and including all the delivery 
+costs that go with that?
+    Dr. Ebinger. The concern would be, however, the longer we 
+take to get some of our projects into the marketplace. I think 
+some of the others at the table have different views on this, 
+but if you believe the long run implications of any U.S. LNG 
+going to market will be to begin to bring further competition, 
+that the existing prices in Japan will begin to fall.
+    They will not fall down to probably $10 but they might fall 
+to $12 or $13, so the competitiveness of the U.S. while still 
+probably reasonable is not going to be as great the longer we 
+take to get LNG projects into the marketplace.
+    Mr. Fleming. How does that affect U.S exporters compared to 
+competitors and the U.S. exports compared to competitors in 
+Qatar or African countries?
+    Dr. Ebinger. The big loser in this competitive LNG market 
+down the road may be Australia, although most of the big 
+projects they have coming in they have long term contracts for, 
+but they are an extremely high cost producer. It is anticipated 
+Qatar is the low cost producer bar none. Although Australia 
+will be volumetrically larger than Qatar when all the projects 
+come in, it is anticipated the new fields in East Africa will 
+be extremely competitive into the Far Eastern market and even 
+some of the West African projects in Nigeria and Angola will 
+probably find a competitive market there.
+    The big question in my mind is will the Chinese and the 
+Russians do some very, very large pipeline deals because that 
+would be extremely competitive in the Far Eastern market 
+against any LNG.
+    Mr. Fleming. What I am really hearing is that we are seeing 
+a tremendous worldwide opportunity in natural gas that will 
+allow the growth of economies around the world where they will 
+have very competitive energy prices, that they can be good 
+producers for export/import which will be good for consumers, 
+would that be a correct assumption?
+    Dr. Ebinger. It will not only be good for consumers, but 
+for those of us that do believe in climate change, it offers a 
+unique opportunity to at least use a cleaner fossil fuel. It is 
+not an answer clearly for the long run because it is still a 
+CO2 emitting fuel but we do get some breathing space on the 
+carbon front.
+    Mr. Fleming. It is my understanding that just in the last 
+three years, carbon emissions have dropped 15 percent across 
+the U.S. That is due directly to the conversion to natural gas. 
+Really this is a win-win-win. We get better environment on CO2 
+emissions, we get better prices for manufacturing and 
+production so we get better job environment, higher paying jobs 
+and consumers get a better deal on the cost of energy. I cannot 
+imagine what could be better for this Nation or this world.
+    Dr. Ebinger. I would agree. The irony is that for those 
+opposed to the U.S. signing the Kyoto Protocol, which we did 
+not sign, ironically because of gas backing out; coal, we have 
+actually met the reduction targets we would have been obligated 
+to meet had we signed the Kyoto Protocol.
+    Mr. Fleming. Thank you, sir.
+    Mr. Lankford. Gentlemen, thank you for being here. I know 
+this was a long afternoon. We got interrupted a couple 
+different times by votes and other things. I appreciate you 
+coming here and the conversation you have had.
+    I would like to enter into the record the EIA, the NERA, 
+the Deloitte and the Brookings study. Mr. Cicio, we had your 
+study already attached to your testimony, correct?
+    Mr. Cicio. My written testimony.
+    Mr. Lankford. I wanted to make sure that was added. I want 
+to be able to add the other studies into the record.
+    Mr. Lankford. The issue that we have today is we have 
+around $40 to $50 billion of private money on the sideline that 
+our economy desperately needs. The best gift we can put into 
+our economy is certainty, to know the rules and to fulfill 
+those rules, so there is some gift of predictability as we walk 
+through the process.
+    Mr. Smith, you have a tall order as we have talked about 
+multiple times and a delicate balancing act. You have somewhere 
+between 300 and 186,000 different comments that have come in 
+that we have to sort through, make a decision and predict what 
+the future economy is going to be based off that. That is no 
+simple thing.
+    We understand that but dates of when the decisions will be 
+made, then a date for how that decision is going to be done and 
+a process to expeditiously work through that is a huge 
+difference. It is every company that has applied into and how 
+we work through the process, whether it be number 2, 19 or 1 to 
+19 or whatever it may be, to know they are not six years behind 
+the other one because they were two days behind them in 
+submitting an application, to know there is some sort of 
+process that is really fair to everyone but is also clearly 
+defined.
+    We don't envy you in that process but we are grateful you 
+are taking it on and do look forward in the days ahead to 
+hearing a clear timeline and a clear process so we will be able 
+to receive that. At any point, if you need to communicate with 
+this committee or we can help you in any way, we want to be an 
+asset to you because of that responsibility.
+    Did you have a final statement?
+    Mr. Smith. I was just going to say I appreciate that 
+comment. We are moving forward with all due haste. We 
+understand that sense of urgency.
+    Mr. Lankford. Thank you.
+    With that, we are adjourned.
+    [Whereupon, at 5:36 p.m., the subcommittee was adjourned.]
+
+    [GRAPHIC] [TIFF OMITTED] T0386.056
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.057
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.058
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.059
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.060
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.061
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.062
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.063
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.064
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.065
+    
+    [GRAPHIC] [TIFF OMITTED] T0386.066
+    
+                                 <all>
+
+</pre></body></html>

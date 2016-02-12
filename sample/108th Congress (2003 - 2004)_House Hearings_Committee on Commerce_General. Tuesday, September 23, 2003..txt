@@ -1,0 +1,3548 @@
+<html>
+<title> - DATABASE AND COLLECTIONS OF INFORMATION MISAPPROPRIATIONS</title>
+<body><pre>
+[House Hearing, 108 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+                      DATABASE AND COLLECTIONS OF 
+                     INFORMATION MISAPPROPRIATIONS
+
+=======================================================================
+
+                             JOINT HEARING
+
+                               BEFORE THE
+
+                 SUBCOMMITTEE ON COURTS, THE INTERNET,
+                       AND INTELLECTUAL PROPERTY
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+
+                                AND THE
+
+                    SUBCOMMITTEE ON COMMERCE, TRADE,
+                        AND CONSUMER PROTECTION
+
+                                 OF THE
+
+                          COMMITTEE ON ENERGY
+                              AND COMMERCE
+                        HOUSE OF REPRESENTATIVES
+
+                      ONE HUNDRED EIGHTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           SEPTEMBER 23, 2003
+
+                               __________
+
+                             Serial No. 51
+
+                      (Committee on the Judiciary)
+
+                           Serial No. 108-46
+
+                   (Committee on Energy and Commerce)
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary 
+                and the Committee on Energy and Commerce
+
+
+    Available via the World Wide Web: http://www.house.gov/judiciary
+                  and http://energycommerce.house.gov
+
+
+
+
+
+
+
+                   U.S. GOVERNMENT PRINTING OFFICE
+89-463                       WASHINGTON : 2004
+_______________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800, 
+DC area (202) 512-1800 Fax: (202) 512-2250 Mail: stop SSOP, Washington, 
+DC 20402-0001
+
+
+
+
+                       COMMITTEE ON THE JUDICIARY
+
+            F. JAMES SENSENBRENNER, Jr., Wisconsin, Chairman
+HENRY J. HYDE, Illinois              JOHN CONYERS, Jr., Michigan
+HOWARD COBLE, North Carolina         HOWARD L. BERMAN, California
+LAMAR SMITH, Texas                   RICK BOUCHER, Virginia
+ELTON GALLEGLY, California           JERROLD NADLER, New York
+BOB GOODLATTE, Virginia              ROBERT C. SCOTT, Virginia
+STEVE CHABOT, Ohio                   MELVIN L. WATT, North Carolina
+WILLIAM L. JENKINS, Tennessee        ZOE LOFGREN, California
+CHRIS CANNON, Utah                   SHEILA JACKSON LEE, Texas
+SPENCER BACHUS, Alabama              MAXINE WATERS, California
+JOHN N. HOSTETTLER, Indiana          MARTIN T. MEEHAN, Massachusetts
+MARK GREEN, Wisconsin                WILLIAM D. DELAHUNT, Massachusetts
+RIC KELLER, Florida                  ROBERT WEXLER, Florida
+MELISSA A. HART, Pennsylvania        TAMMY BALDWIN, Wisconsin
+JEFF FLAKE, Arizona                  ANTHONY D. WEINER, New York
+MIKE PENCE, Indiana                  ADAM B. SCHIFF, California
+J. RANDY FORBES, Virginia            LINDA T. SANCHEZ, California
+STEVE KING, Iowa
+JOHN R. CARTER, Texas
+TOM FEENEY, Florida
+MARSHA BLACKBURN, Tennessee
+
+             Philip G. Kiko, Chief of Staff-General Counsel
+               Perry H. Apelbaum, Minority Chief Counsel
+                                 ------                                
+
+    Subcommittee on Courts, the Internet, and Intellectual Property
+
+                      LAMAR SMITH, Texas, Chairman
+
+HENRY J. HYDE, Illinois              HOWARD L. BERMAN, California
+ELTON GALLEGLY, California           JOHN CONYERS, Jr., Michigan
+BOB GOODLATTE, Virginia              RICK BOUCHER, Virginia
+WILLIAM L. JENKINS, Tennessee        ZOE LOFGREN, California
+SPENCER BACHUS, Alabama              MAXINE WATERS, California
+MARK GREEN, Wisconsin                MARTIN T. MEEHAN, Massachusetts
+RIC KELLER, Florida                  WILLIAM D. DELAHUNT, Massachusetts
+MELISSA A. HART, Pennsylvania        ROBERT WEXLER, Florida
+MIKE PENCE, Indiana                  TAMMY BALDWIN, Wisconsin
+J. RANDY FORBES, Virginia            ANTHONY D. WEINER, New York
+JOHN R. CARTER, Texas
+
+                     Blaine Merritt, Chief Counsel
+
+                          Debra Rose, Counsel
+
+                         David Whitney, Counsel
+
+              Melissa L. McDonald, Full Committee Counsel
+
+                     Alec French, Minority Counsel
+                    COMMITTEE ON ENERGY AND COMMERCE
+
+               W.J. ``BILLY'' TAUZIN, Louisiana, Chairman
+
+MICHAEL BILIRAKIS, Florida           JOHN D. DINGELL, Michigan
+JOE BARTON, Texas                      Ranking Member
+FRED UPTON, Michigan                 HENRY A. WAXMAN, California
+CLIFF STEARNS, Florida               EDWARD J. MARKEY, Massachusetts
+PAUL E. GILLMOR, Ohio                RALPH M. HALL, Texas
+JAMES C. GREENWOOD, Pennsylvania     RICK BOUCHER, Virginia
+CHRISTOPHER COX, California          EDOLPHUS TOWNS, New York
+NATHAN DEAL, Georgia                 FRANK PALLONE, Jr., New Jersey
+RICHARD BURR, North Carolina         SHERROD BROWN, Ohio
+  Vice Chairman                      BART GORDON, Tennessee
+ED WHITFIELD, Kentucky               PETER DEUTSCH, Florida
+CHARLIE NORWOOD, Georgia             BOBBY L. RUSH, Illinois
+BARBARA CUBIN, Wyoming               ANNA G. ESHOO, California
+JOHN SHIMKUS, Illinois               BART STUPAK, Michigan
+HEATHER WILSON, New Mexico           ELIOT L. ENGEL, New York
+JOHN B. SHADEGG, Arizona             ALBERT R. WYNN, Maryland
+CHARLES W. ``CHIP'' PICKERING,       GENE GREEN, Texas
+Mississippi                          KAREN McCARTHY, Missouri
+VITO FOSSELLA, New York              TED STRICKLAND, Ohio
+ROY BLUNT, Missouri                  DIANA DeGETTE, Colorado
+STEVE BUYER, Indiana                 LOIS CAPPS, California
+GEORGE RADANOVICH, California        MICHAEL F. DOYLE, Pennsylvania
+CHARLES F. BASS, New Hampshire       CHRISTOPHER JOHN, Louisiana
+JOSEPH R. PITTS, Pennsylvania        TOM ALLEN, Maine
+MARY BONO, California                JIM DAVIS, Florida
+GREG WALDEN, Oregon                  JAN SCHAKOWSKY, Illinois
+LEE TERRY, Nebraska                  HILDA L. SOLIS, California
+ERNIE FLETCHER, Kentucky
+MIKE FERGUSON, New Jersey
+MIKE ROGERS, Michigan
+DARRELL E. ISSA, California
+C.L. ``BUTCH'' OTTER, Idaho
+
+                   Dan R. Brouillette, Staff Director
+
+                   James D. Barnette, General Counsel
+
+      Reid P.F. Stuntz, Minority Staff Director and Chief Counsel
+
+                                 ______
+
+        Subcommittee on Commerce, Trade, and Consumer Protection
+
+                    CLIFF STEARNS, Florida, Chairman
+
+FRED UPTON, Michigan                 JAN SCHAKOWSKY, Illinois
+BARBARA CUBIN, Wyoming                 Ranking Member
+JOHN SHIMKUS, Illinois               HILDA L. SOLIS, California
+JOHN B. SHADEGG, Arizona             EDWARD J. MARKEY, Massachusetts
+  Vice Chairman                      EDOLPHUS TOWNS, New York
+GEORGE RADANOVICH, California        SHERROD BROWN, Ohio
+CHARLES F. BASS, New Hampshire       JIM DAVIS, Florida
+JOSEPH R. PITTS, Pennsylvania        PETER DEUTSCH, Florida
+MARY BONO, California                BART STUPAK, Michigan
+LEE TERRY, Nebraska                  GENE GREEN, Texas
+ERNIE FLETCHER, Kentucky             KAREN McCARTHY, Missouri
+MIKE FERGUSON, New Jersey            TED STRICKLAND, Ohio
+DARRELL E. ISSA, California          DIANA DeGETTE, Colorado
+C.L. ``BUTCH'' OTTER, Idaho          JOHN D. DINGELL, Michigan,
+W.J. ``BILLY'' TAUZIN, Louisiana       (Ex Officio)
+  (Ex Officio)
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                           SEPTEMBER 23, 2003
+
+                           OPENING STATEMENT
+
+                                                                   Page
+The Honorable Lamar Smith, a Representative in Congress From the 
+  State of Texas, and Chairman, Subcommittee on Courts, the 
+  Internet, and Intellectual Property, Committee on the Judiciary     1
+The Honorable Cliff Stearns, a Representative in Congress From 
+  the State of Florida, and Chairman, Subcommittee on Commerce, 
+  Trade, and Consumer Protection, Committee on Energy and 
+  Commerce.......................................................     2
+The Honorable Howard L. Berman, a Representative in Congress From 
+  the State of California, and Ranking Member, Subcommittee on 
+  Courts, the Internet, and Intellectual Property, Committee on 
+  the Judiciary..................................................     4
+The Honorable Jan Schakowsky, a Representative in Congress From 
+  the State of Illinois and Ranking Member, Subcommittee on 
+  Commerce, Trade, and Consumer Protection, Committee on Energy 
+  and Commerce...................................................     4
+
+                               WITNESSES
+
+Mr. David Carson, General Counsel, Copyright Office of the United 
+  States, Library of Congress
+  Oral Testimony.................................................     9
+  Prepared Statement.............................................    11
+Mr. Thomas J. Donohue, President and Chief Executive Officer, 
+  Chamber of Commerce
+  Oral Testimony.................................................    17
+  Prepared Statement.............................................    18
+Mr. Keith Kupferschmid, Vice President, Intellectual Property 
+  Policy and Enforcement Software and Information Industry 
+  Association, on behalf of the Coalition Against Database Piracy
+  Oral Testimony.................................................    20
+  Prepared Statement.............................................    23
+Mr. William Wulf, President, National Academy of Engineering and 
+  Vice Chairman, National Research Council
+  Oral Testimony.................................................    40
+  Prepared Statement.............................................    42
+
+          LETTERS, STATEMENTS, ETC., SUBMITTED FOR THE HEARING
+
+Letter to the Honorable F. James Sensenbrenner, Jr., Committee on 
+  the Judiciary and the Honorable W. J. ``Billy'' Tauzin, 
+  Committee on Energy and Commerce from Nils Hasselmo, President, 
+  Association of American Universities...........................     6
+Letter from Thomas J. Donohue, President and Chief Executive 
+  Officer, Chamber of Commerce of the United States of America to 
+  the Honorable Lamar S. Smith, Chairman, Committee on the 
+  Judiciary, Subcommittee on Courts, the Internet and 
+  Intellectual Property and the Honorable Cliff Stearns, 
+  Chairman, Subcommittee on Commerce, Trade and Consumer 
+  Protection of the House Committee on Energy and Commerce.......    66
+
+                                APPENDIX
+               Material Submitted for the Hearing Record
+
+Statement of the Honorable W. J. ``Billy'' Tauzin................    79
+Statement of the Honorable Bart Stupak...........................    79
+Statement of the Honorable Barbara Cubin.........................    80
+Statement of the Honorable Gene Green............................    80
+Statement of the Honorable Ted Strickland........................    80
+Letter from Justin Hughes, Assistant Professor of Law, Benjamin 
+  N. Cardozo School of Law, Yeshiva University...................    81
+Letter from Keith Kupferschmid, Counsel for CADP to the Honorable 
+  Lamar Smith, Chairman, Subcommittee on Courts, the Internet and 
+  Intellectual Property, Committee on the Judiciary and the 
+  Honorable Cliff Stearns, Chairman, Subcomittee on Commerce, 
+  Trade and Consumer Protection of the House Energy and Commerce 
+  Committee......................................................   107
+Statement of Congressman John D. Dingell, Ranking Member, 
+  Committee on Energy and Commerce...............................   151
+Statement of Congressman John Shimkus............................   152
+
+
+       DATABASE AND COLLECTIONS OF INFORMATION MISAPPROPRIATIONS
+
+                              ----------                              
+
+
+                      TUESDAY, SEPTEMBER 23, 2003
+
+                  House of Representatives,
+              Subcommittee on Courts, the Internet,
+                         and Intellectual Property,
+                                Committee on the Judiciary,
+
+                                  and
+
+                  Subcommittee on Commerce, Trade, 
+                           and Consumer Protection,
+                          Committee on Energy and Commerce,
+                                                    Washington, DC.
+    The Subcommittees met, pursuant to call, at 4:08 p.m., in 
+Room 2141, Rayburn House Office Building, Hon. Lamar Smith 
+[Chairman of the Subcommittee on Courts, the Internet, and 
+Intellectual Property] presiding.
+    Mr. Smith. The Subcommittee on Courts, the Internet, and 
+Intellectual Property will come to order along with the written 
+permission of the Chairman of the Subcommittee on Commerce, 
+Trade, and Consumer Protection.
+    Before I recognize individuals for opening statements, let 
+me just make a couple of comments. To my knowledge, this is the 
+first time we have had such a joint hearing, and it is a 
+privilege to do so with the Commerce Committee, one, because 
+they are so important; but, two, because Cliff Stearns, the 
+Chairman of their Subcommittee, is a personal friend and for a 
+number of years, actually was a neighbor across the hall. And I 
+miss seeing him on that hall.
+    In any case, I want to recognize Congressman Stearns, 
+because we will be cochairs of this hearing today. My part will 
+be opening statements and the testimony of the witnesses, an 
+Congressman Stearns will preside during the question-and-answer 
+period after that.
+    Let me recognize myself for an opening statement.
+    Today the Subcommittee on Courts, the Internet, and 
+Intellectual Property and the Subcommittee on Commerce, Trade, 
+and Consumer Protection will consider the discussion draft of 
+the ``Database and Collections of Information Misappropriation 
+Act.
+    I am sure many of you are wondering what can be said about 
+database protection that hasn't already been said? However, 
+after 8 years of debate, we are here to review draft 
+legislation that embodies a compromise between the House 
+Committees on the Judiciary and Energy and Commerce.
+    Electronic compilations and other collections of factual 
+material are absolutely indispensable to the American economy. 
+These information products place a wealth of data at the 
+fingertips of business, professionals, scientists, scholars and 
+consumers. Databases are essential tools for improving 
+productivity, advancing education and training and creating a 
+more informed citizenry.
+    Developing, compiling, distributing and maintaining 
+databases requires substantial investments of time, personnel 
+and money.
+    Information companies must dedicate resources to gathering 
+and verifying factual material, presenting it in a user 
+friendly way and keeping it current.
+    U.S. firms have been the world leaders in this field, but 
+several recent legal and technological developments threaten to 
+erode incentives for investments needed to maintain and expand 
+databases.
+    While the 1991 Supreme Court decision in Feist Publications 
+reaffirmed that most commercially significant databases satisfy 
+the originality requirement for protection under copyright, the 
+court emphasized that this protection is necessarily thin.
+    Several subsequent lower court decisions have pointed out 
+that current copyright laws cannot stop a competitor from 
+lifting massive amounts of factual material from a copyrighted 
+publication to use as a basis for its own competing product.
+    In cyberspace, technological developments represent a 
+threat as well as an opportunity for collections of 
+information. Copying factual material from a third party's 
+collection and rearranging it to form a competing information 
+product is cheaper and easier than ever.
+    The draft legislation before us today provides protection 
+to databases and gives incentives to their creators to continue 
+producing these invaluable tools. This legislation is a 
+compromise. In fact, a key element is the misappropriation 
+approach that is narrowly tailored to target bad actors while 
+preserving the ability of consumers to access and use 
+information.
+    Mr. Smith. Now, that concludes my opening statement, and 
+the gentleman from Florida, Mr. Stearns, is recognized for his.
+    Mr. Stearns. Thank you, Chairman Smith, for hosting this 
+unprecedented joint hearing, and on behalf of my fellow Energy 
+and Commerce Subcommittee Members, I want to thank you for the 
+warm hospitality. We are delighted to be here.
+    The copyright clause of the United States Constitution 
+states that ``Congress shall have the power to promote the 
+progress of science and useful arts by securing, for limited 
+times to authors, the exclusive right to their respective 
+writings.'' .
+    This power is limited by subject matter, only writings and 
+discoveries of authors may be protected, purposed material may 
+only be protected to the end of promoting science and useful 
+arts; and duration, writings may be protected for a limited 
+time period.
+    While all three limitations are important, it is the 
+subject matter limitation that is the central consideration 
+underlying copyright protection.
+    For 7 years, there was a split in the courts about whether 
+copyright protection would be afforded to only creative works 
+or whether noncreative compilations of information could 
+receive protection.
+    A minority of courts held that noncreative compilations of 
+information could receive copyright protection under the 
+judicial ``sweat of the brow'' doctrine.
+    In 1991 the Supreme Court struck down the ``sweat of the 
+brow'' doctrine. The court wrestled with the ostensible paradox 
+that while facts are not copyrightable, compilation of facts 
+generally are.
+    The Supreme Court explained that the key to understanding 
+the seeming paradox was in understanding why facts are not 
+copyrightable.
+    The court held that originality is the sine qua non of 
+copyright law, without regard to the resources spent in 
+collecting and assembling factual compilations.
+    A compilation is no more worthy of copyright protection 
+than the underlying facts themselves, unless there is a modicum 
+of creativity in the compilation. In other words, creative 
+compilations of information would be protected by copyright. 
+Noncreative compilations of information like the White Pages 
+would not.
+    And that is why we are here today. Proponents of 
+legislation argue that this decision left a gaping hole in the 
+protection of their products. They believe the distribution 
+capabilities of the Internet have exacerbated the need to fill 
+this gap in protection. Opponents of the legislation see no 
+shortcomings in the current law and believe that proponents of 
+legislation have failed to demonstrate a concrete problem that 
+requires a legislative solution. They believe contract, 
+trespass, misappropriation, unfair competition, and the 
+Computer Fraud and Abuse Act provide sufficient protection for 
+noncreative databases.
+    It seems that while the opponents of the legislation would 
+support a narrow misappropriation statute, they raise 
+constitutional concerns about broader proprietary interest in 
+factual information, and I share those constitutional concerns.
+    I believe that Congress should not create property rights 
+in facts. Specifically, I am concerned that the prohibition 
+against making database information available has ambiguous 
+terms that will chill the development of new databases and lead 
+to further litigation. I am concerned that a database that is 
+merely maintained and not necessarily collected would receive 
+protection. How does this standard couple with the time 
+sensitivity standard? Could the maintenance provision cause a 
+court to have a liberal reading of time sensitivity?
+    I am most concerned about the way this legislation will 
+impact scientific educational and research activities. I worry 
+that the determination of what is customary is so vague, that 
+it will only be resolved through costly litigation. This could 
+put a real chill on important research activity.
+    As a result, I suspect none of us would like to see this.
+    And in conclusion, I look forward to a rigorous discussion 
+of the constitutional issues such as the constitutional 
+boundaries of noncreative database misappropriation legislation 
+and the other issues I have raised earlier. I am pleased that 
+we have the opportunity today to have these questions answered. 
+I withhold comment on the draft of the bill until I can be 
+certain that this draft strikes the appropriate balance between 
+access to information, innovation, and protection against 
+misappropriation.
+    It is plausible that such a balance may be unattainable. I 
+am certain the discussion here today will assist us, and I look 
+forward to hearing from our distinguished panel. And I thank 
+again Chairman Smith for his hosting this joint Committee and 
+his hospitality.
+    Mr. Smith. Thank you, Chairman Stearns.
+    Mr. Smith. The gentleman from California, Mr. Berman, is 
+recognized for his opening statement.
+    Mr. Berman. Thank you very much, Mr. Chairman, and without, 
+at this point specifically, reacting to some of the comments of 
+my colleague from Florida, I do note the former Chairman of 
+this Subcommittee sitting in the back row there, Howard Coble, 
+and there is something about database protection in Howard 
+Coble that automatically come to mind for anyone who sat 
+through the many hours of hearings and markups of this 
+legislation in earlier Congresses. And we are still with the 
+issue, and it is good to have Howard with us at this time.
+    I am open-minded on this issue, one of those rare issues 
+that I am open minded on. And I look forward to the witnesses 
+and understanding exactly what the draft does, how it differs 
+from the earlier legislation offered by each Committee and 
+studying the issue further. So I am glad you called this 
+hearing, and I think this is an important issue for us to be 
+dealing with and look forward to the testimony of the 
+witnesses.
+    Mr. Smith. Thank you, Mr. Berman.
+    Mr. Smith. And I also thank you for pointing out that Mr. 
+Coble is with us, and I would like to ask him, if Mr. Coble is 
+still here, he is welcome to join us up at the table here. And 
+we appreciate all that he has done on this issue to date.
+    Mr. Coble. I want to thank the gentleman from California 
+for his kind words. Howard, thank you, but pardon my gravelly 
+voice. I am just getting over a cold. And, Mr. Chairman, thank 
+you for calling--this is--I don't think the gentleman from 
+Florida and I are in synch on this, but this is a very 
+important issue, Mr. Chairman. I thank you for having the 
+hearing.
+    Mr. Smith. Thank you, Mr. Coble.
+    The gentlewoman from Illinois, Ms. Schakowsky is recognized 
+for her opening statement.
+    Ms. Schakowsky. Thank you, Chairman Smith, and I want to 
+thank my Chairman, Chairman Stearns, for holding today's 
+hearing on the database and collection of Information 
+Misappropriation Act of 2003.
+    I really look forward to hearing the expert testimony from 
+today's witnesses, their thoughts on the draft bill and the 
+problems that the bill aims to address.
+    As we all know, this is a highly controversial issue that 
+has been debated for several years by Members of both 
+Committees. In my view, our copyright laws need to strike a 
+very delicate balance between the interests of proprietors and 
+consumers. Our laws must ensure that proprietors are rewarded 
+for their work, while at the same time protecting the 
+consumer's access to information. It is extremely important 
+that we do not pass laws that prevent people from obtaining 
+factual information. Database owners can already copyright 
+their original selection, coordination and arrangement of 
+facts.
+    We need to explore the issue further to determine if the 
+current protections are adequate. If they are not, legislative 
+remedies must be narrowly tailored to solve identified 
+problems. Sweeping legislation could hamper research and harm 
+consumers.
+    I heard just in the last few days from Northwestern 
+University, a University of my district, and they were 
+supporting a letter from the president of the Association of 
+American Universities that was written to Chairman Tauzin and 
+Sensenbrenner that I would--if it hasn't already--like to ask 
+unanimous consent to place the letter in the record.
+    Mr. Smith. And without objection, that letter will be made 
+a part of the record.
+    [The information referred to follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+                              ----------                              
+
+    Ms. Schakowsky. Let me just quote a couple sentences. 
+Quote, colleges and universities believe that any database 
+protection legislation should provide narrowly focused 
+protection that supports data integrity and response to 
+demonstrable threats to the incentive to create databases 
+without impeding access to the data and information upon which 
+research and education programs depend.
+    We have also heard from librarians who have been very 
+careful in representing the consumer interests and researchers' 
+interest, and I look forward to learning more about this 
+important topic from today's witnesses. Thank you.
+    Mr. Smith. Thank you, Ms. Schakowsky.
+    Mr. Smith. Without objection, other Members' opening 
+statements will be made a part of the record, and now I will 
+introduce our witnesses today. Our first witness is David 
+Carson, general counsel of the U.S. Copyright Office. Mr. 
+Carson oversees the Office's regulatory activities, litigation 
+and administration of the copyright law. He also serves as a 
+liaison on legal and policy matters between the Copyright 
+Office and Congress and other Government agencies. He is a 
+graduate of Stanford University where he earned a master's 
+degree in history, and Harvard Law School.
+    The next witness is Thomas J. Donohue, president and chief 
+executive officer of the United States Chamber of Commerce. 
+Prior to his current post, Mr. Donohue served for 13 years as 
+the president and chief executive officer of the American 
+Trucking Association. Mr. Donohue earned a bachelor's degree 
+from St. John's University and his MBA from Adelphi University.
+    Our next witness is Keith Kupferschmid, vice president for 
+Intellectual Property Policy and Enforcement for the Software 
+and Information Industry Association. Mr. Kupferschmid is 
+responsible for working directly with SIIA's intellectual 
+property committee. He graduated from the University of 
+Rochester in 1987 with a BS in mechanical engineering and from 
+American University's Law School in 1993.
+    Our last witness is William Wulf, who was elected president 
+of the National Academy of Engineering in 1997. The NAE and 
+National Academy of Sciences operate under Congressional 
+charter to provide advice to the Government on issues of 
+science and engineering.
+    Mr. Wulf is the author of over 100 papers and technical 
+reports, has written three books and holds two U.S. patents. 
+And I welcome you all. We have written statements from every 
+one of our witnesses, and without objection, the complete 
+statements will be made a part of the record.
+    Mr. Smith. As you know, we expect you to limit your 
+testimony to 5 minutes, and Mr. Carson, we will begin with you.
+
+STATEMENT OF DAVID CARSON, GENERAL COUNSEL, COPYRIGHT OFFICE OF 
+             THE UNITED STATES, LIBRARY OF CONGRESS
+
+    Mr. Carson. Good afternoon, Chairman Smith, Chairman 
+Stearns, Ranking Members Berman and Schakowsky. Members of both 
+Subcommittees. Thank you for giving the Copyright Office the 
+opportunity to testify at this hearing on the discussion draft 
+of the Database and Collections of Information Misappropriation 
+Act.
+    Our written testimony provides some historical perspective 
+on database protection in the United States, briefly reviews 
+the approach taken in the discussion draft and addresses some 
+of the concerns that critics of database legislation have 
+voiced thus far.
+    In the few minutes that I have with you today, I would like 
+to focus on the message that the Register of Copyrights has 
+delivered in past testimony on database legislation, a message 
+that is equally relevant today. Since the Supreme Court in the 
+Feist case withdrew much of the protection that copyright law 
+had previously offered to databases, the Copyright Office has 
+perceived a need to provide adequate incentives for the 
+production and dissemination of databases.
+    We believe the databases are important to our economy and 
+culture, both as a component in the development of electronic 
+commerce and as a tool for facilitating scientific, educational 
+and technological advancement. We have long recommended an 
+approach to database protection based on a misappropriation or 
+unfair competition model rather than an exclusive property 
+rights model.
+    At the same time, we have been concerned about the risks of 
+overprotection. The free flow of information is essential to 
+the advancement of knowledge, technology and culture, and we 
+support legislation that, while ensuring adequate incentives 
+for investment, would not inhibit access and use for socially 
+beneficial purposes in appropriate circumstances.
+    The discussion draft represents a continuing evolution 
+toward such an approach. We commend the leadership of those who 
+have worked so hard to produce a draft that adopts this 
+approach and takes into account the needs of producers of 
+databases as well as users and members of the educational, 
+scientific and research communities.
+    While we have not had sufficient opportunity to study the 
+discussion draft to permit us to offer any defensive views on 
+this particular draft, we believe in general that it represents 
+a major step in the direction of enactment of the type of 
+balanced legislation that the Office has long recommended.
+    I should point out that our testimony on this issue in the 
+past, as well as today, draws heavily on our 1997 Report on 
+Legal Protection of Databases which contains a wealth of 
+information on the subject, to which I commend you.
+    Since the Supreme Court's 1991 decision in Feist, only a 
+thin layer of copyright protection remains for qualifying 
+databases. In order to qualify, they must exhibit some modicum 
+of creativity in the selection, arrangement or coordination of 
+the data in them.
+    The protection is thin in that only the creative elements--
+the selection, coordination and arrangement of data--are 
+protected by copyright. In no case is the data itself 
+copyrightable.
+    One of the most significant cases in this area since Feist 
+is the 2nd Circuit's 1997 decision in NBA v. Motorola. It is 
+our understanding that the approach taken in the discussion 
+draft is designed to codify the standards set forth in the NBA 
+case. Our written testimony sets forth our analysis of the 
+extent to which the discussion draft succeeds in this effort, 
+and we believe that, by and large, it does succeed.
+    We do believe that further clarification may be necessary 
+in some instances. For example, to determine whether the 
+approach taken in the discussion draft is intended to codify 
+nothing more than the hot news misappropriation doctrine 
+discussed in the NBA case and the landmark 1918 Supreme Court 
+decision in International News Services v. Associated Press.
+    While the discussion draft requires that the unauthorized 
+making available occur in a time-sensitive manner, courts would 
+be instructed to consider the temporal value of the information 
+in the database within the context of the industry sector 
+involved in determining whether the time-sensitive requirement 
+has been met.
+    This suggests that perhaps something beyond hot news would 
+be protected, but further thought should be given to clarifying 
+the circumstances under which such protection should be given.
+    We do believe that serious consideration should be given to 
+protecting more than hot news, but on the other hand, to the 
+extent that the legislation would go beyond protection of hot 
+news, we are inclined to favor imposing some time limit on the 
+duration of protection for a database.
+    As always, the Copyright Office stands ready to assist you 
+in your further consideration of this proposal, and I will be 
+pleased to answer any questions you may have.
+    Mr. Smith. Thank you, Mr. Carson.
+    [The prepared statement of Mr. Carson follows:]
+                 Prepared Statement of David O. Carson
+    Good afternoon. Chairman Smith, Chairman Stearns, Congressman 
+Berman, Congressman Schakowsky, Members of both Subcommittees, it is a 
+pleasure to appear before you today. Thank you for giving the Copyright 
+Office the opportunity to testify at this hearing on the discussion 
+draft of the Database and Collections of Information Misappropriation 
+Act.
+    The Copyright Office has testified twice in recent years before the 
+Subcommittee on Courts and Intellectual Property on legislation to 
+protect databases. In the 105th and 106th Congresses, the Register of 
+Copyrights testified in connection with the proposed Collections of 
+Information Antipiracy Act. That bill was passed by the House in the 
+105th Congress but no action was taken in the Senate. In her testimony 
+on that legislation and on a later version, the Register testified that 
+there was a need to preserve adequate incentives for the production and 
+dissemination of databases, which are increasingly important to the 
+U.S. economy and culture, both as a component in the development of 
+electronic commerce and as a tool for facilitating scientific, 
+educational and technological advancement. She stated that there was a 
+gap in existing legal protection, which could not be satisfactorily 
+filled through the use of technology alone. This legal gap was 
+compounded by the ease and speed with which a database can be copied 
+and disseminated, using today's digital and scanning capabilities. 
+Without legislation to fill the gap, publishers were likely to react to 
+the lack of security by investing less in the production of databases, 
+or disseminating them less broadly. The result would be an overall loss 
+to the public of the benefits of access to the information that would 
+otherwise have been made available.
+    At the same time, the Register cautioned that the risks of over-
+protection were equally serious, because (as already noted) the free 
+flow of information is essential to the advancement of knowledge, 
+technology and culture. She testified in support of legislation that 
+would ensure adequate incentives for investment, without inhibiting 
+access for appropriate purposes and in appropriate circumstances.
+    Accordingly, the Register recommended the restoration of the 
+general level of protection provided in the past under copyright 
+``sweat of the brow'' theories, but under a suitable constitutional 
+power, with flexibility built in for uses in the public interest in a 
+manner similar to the function played by fair use in copyright law. 
+Such balanced legislation could optimize the availability of reliable 
+information to the public.
+    In the intervening years, nothing has occurred to change the views 
+of the Copyright Office. We continue to believe that balanced 
+legislation should be enacted that would provide appropriate levels of 
+protection for producers of databases, without unnecessarily impeding 
+the free flow of knowledge and information.
+    The discussion draft represents a continuing evolution of the 
+legislation addressing the protection of databases toward a pure 
+misappropriation approach. In our previous testimony we expressed the 
+view that misappropriation is the best approach to this issue and we 
+commend the leadership of all of those who have worked so hard on this 
+issue for their commitment to craft legislation that takes into account 
+the needs of producers of databases as well as users and members of the 
+educational, scientific and research communities. While we have not had 
+sufficient opportunity to study the discussion draft to permit us to 
+offer any definitive views on this particular draft, we believe in 
+general that it represents a major step in the direction of enactment 
+of the type of balanced legislation the Office has long recommended.
+    Much of what I say today will be based on the research and findings 
+of the Register in her August 1997 Report on Legal Protection for 
+Databases, which was prepared at the request of Senator Hatch, Chairman 
+of the Senate Committee on the Judiciary. We are aware of no major 
+developments since the time of that Report that have significantly 
+altered the landscape with respect to legal protection for databases.
+    My testimony today will provide a historical perspective concerning 
+the protection of databases in the United States, briefly review the 
+approach taken in the discussion draft and address some of the concerns 
+that critics of database legislation have voiced.
+
+      i. lthe history of database protection in the united states
+
+    In the terminology of the copyright law, a database is a 
+``compilation.'' The Copyright Act defines a compilation as ``a work 
+formed by the collection and assembling of preexisting materials or of 
+data . . .''\1\ Compilations were protected as ``books'' as early as 
+the Copyright Act of 1790.
+---------------------------------------------------------------------------
+    \1\ 17 U.S.C. Sec. 101.
+---------------------------------------------------------------------------
+    Over the course of the nineteenth century, two rationales developed 
+for protecting compilations under copyright. The earliest cases 
+identified the compiler's effort--``his own expense, or skill, or 
+labor, or money'' \2\--as the critical contribution justifying 
+protection. This type of analysis came to be known as the ``sweat of 
+the brow'' doctrine. Analyses under sweat of the brow emphasized both 
+the compilers' efforts and the copiers' ``unfair use of the copyrighted 
+work, in order to save themselves the time and labor of original 
+investigation.''\3\
+---------------------------------------------------------------------------
+    \2\Emerson v. Davies, 8 F. Cas. 615, 619 (C.C.D. Mass. 1845).
+    \3\ West Pub. Co. v. Lawyers' Co-operative Pub. Co., 79 F. 756, 772 
+(2d Cir. 1897).
+---------------------------------------------------------------------------
+    During the late nineteenth century, courts began to articulate 
+another basis for copyright protection that generally differed from the 
+labor/investment approach taken in cases involving compilations. In a 
+series of decisions from 1879 to 1903, the Supreme Court held that the 
+``writings'' that could be protected under the Copyright Clause of the 
+Constitution included ``only such as are original,''\4\ and indicated 
+that creativity is a component of originality.\5\
+---------------------------------------------------------------------------
+    \4\ In re The Trademark Cases, 100 U.S. 82, 94 (1879).
+    \5\ Bleistein v. Donaldson Lithographing Co., 188 U.S. 239 (1903).
+---------------------------------------------------------------------------
+    The evolving doctrine of originality was applied by some courts in 
+compilation cases, particularly cases involving compilations of textual 
+materials such as law books. These cases identified the author's 
+critical contribution justifying protection as his judgment in 
+selecting and arranging materials.\6\
+---------------------------------------------------------------------------
+    \6\ See e.g., Edward Thompson Co. v. American Lawbook Co., 122 F. 
+922, 924 (2d Cir. 1903)(focusing on ``skill and taste of the 
+[plaintiff] in selecting or arranging'' materials); Lawrence v. Dana, 
+15 F. Cas. 26, 28, 4 Cliff. 1 (C.C.D. Mass. 1869)(``copyright may 
+justly be claimed by an author of a book who has taken existing 
+materials from sources common to all writers, and arranged and combined 
+them in a new form, and given them an application unknown before, for 
+the reason that, in so doing, he has exercised skill and discretion in 
+making the selections, arrangement, and combination . . .'').
+---------------------------------------------------------------------------
+    This approach coexisted with, rather than supplanted, sweat of the 
+brow cases. Sweat of the brow was applied to cases involving purely 
+factual compilations, such as catalogs and directories.
+    On the question of the scope of protection afforded to 
+compilations, there was somewhat greater uniformity in the case law. In 
+compilation cases, regardless of the theoretical framework adopted to 
+justify copyright protection, once the plaintiff's work was determined 
+to be copyrightable, courts generally held a defendant to have 
+infringed whenever material was copied from the plaintiff's work. 
+Typically, there was no inquiry as to whether the particular material 
+copied was protected by the plaintiff's copyright. To avoid 
+infringement, a second-comer was required to go to the original sources 
+and compile the material independently, without reference to the 
+earlier work.\7\ A common thread running through many of these 
+decisions was the court's desire to prevent the copier from competing 
+unfairly with the compiler by appropriating the fruits of the 
+compiler's efforts or creativity. In this sense, courts treated 
+copyright protection for compilations much like a branch of unfair 
+competition law.
+---------------------------------------------------------------------------
+    \7\ See, e.g., Williams v. Smythe, 110 F. 961 (C.C.M.D. Pa. 1901); 
+List Publishing Co. v. Keller, 30 F. 772 (C.C.S.D.N.Y. 1887).
+---------------------------------------------------------------------------
+    In the Copyright Act of 1976, Congress included in the definition 
+of ``compilation'' the first express statutory link between 
+compilations and original works of authorship ``. . .that are selected, 
+coordinated, or arranged in such a way that the resulting work as a 
+whole constitutes a work of authorship.''\8\ Cases under the 1976 Act 
+were divided about the continuing viability of the sweat of the brow 
+doctrine. Some circuits continued to apply it,\9\ while other circuits 
+rejected it, requiring a showing of sufficient creativity in order to 
+entitle a compilation to copyright protection.\10\ The Supreme Court 
+resolved the split in the circuits in Feist Publications, Inc. v. Rural 
+Tel. Serv. Co.\11\ In that case, the Supreme Court held that the white 
+pages of a telephone directory (containing an alphabetical listing of 
+all residents with telephone service in a defined geographic area) was 
+insufficiently creative to merit copyright protection. The Court held 
+that the requirement of creativity was not merely statutory, but rooted 
+in the Copyright Clause itself. \12\ Thus, the sweat of the brow 
+doctrine was laid to rest.
+---------------------------------------------------------------------------
+    \8\ 17 U.S.C. Sec. 101.
+    \9\ See, e.g., Illinois Bell Tel. Co. v. Haines & Co., 683 F. Supp. 
+1204 (N.D. Ill. 1988), aff'd, 905 F.2d 1081 (7th Cir. 1990), vacated 
+and remanded, 499 U.S. 944 (1991); Rural Tel. Serv. Co. v. Feist 
+Publications, Inc., 916 F.2d 718 (10th Cir. 1990), reversed, 499 U.S. 
+340 (1991).
+    \10\ See, e.g., Financial Info., Inc. v. Moody's Investors Serv., 
+Inc., 808 F.2d 204 (2d Cir. 1986), cert denied, 484 U.S. 820 (1987); 
+Eckes v. Card Prices Update, 736 F.2d 859 (2d Cir. 1984); Worth v. 
+Selchow & Richter Co., 827 F.2d 569, 572-73 (9th Cir. 1987).
+    \11\ 499 U.S. 340 (1991).
+    \12\ Id. at 346.
+---------------------------------------------------------------------------
+    What remains is a thin layer of copyright protection for qualifying 
+databases. In order to qualify, they must exhibit some modicum of 
+creativity in the selection, arrangement, or coordination of the data. 
+The protection is thin in that only the creative elements (selection, 
+arrangement, or coordination of data) are protected by copyright. 
+Explanatory materials such as introductions or footnotes to databases 
+may also be copyrightable. But in no case is the data itself (as 
+distinguished from its selection, coordination or arrangement) 
+copyrightable. The absence of uniform protection for noncreative 
+databases is what has given rise to the calls for this legislation.
+
+ ii. ldiscussion draft of the database and collections of information 
+                          misappropriation act
+
+    It is our understanding that the scope and applicability of the 
+prohibitions in the discussion draft are designed to codify the 
+standards set forth in the Second Circuit's decision in National 
+Basketball Ass'n v. Motorola, Inc. (``NBA'').\13\ That case involved a 
+state law misappropriation claim by the NBA against the maker of a 
+hand-held pager which provided subscribers with scores and statistics 
+of professional basketball games in progress.\14\ In analyzing the 
+case, the court concluded that a ``hot news'' misappropriation claim 
+under the theory of International News Service v. Associated Press \15\ 
+(``INS'') would survive preemption by federal copyright law.\16\ The 
+court enumerated five elements ``central to an INS claim.'' Those 
+conditions are:
+---------------------------------------------------------------------------
+    \13\ 105 F.3d 841 (2d Cir. 1997).
+    \14\ The case also involved a claim of infringement of the 
+copyrights in the broadcasts of the games. That claim was rejected by 
+the court because alleged infringement involved reproduction only of 
+the uncopyrightable facts from the broadcasts, and not of the 
+expression or descriptions of the games that constituted the 
+broadcasts. 105 F.3d at 847.
+    \15\ 248 U.S. 215 (1918).
+    \16\ See 17 U.S.C. Sec. 301.
+
+        (i) Lthe plaintiff generates or collects information at some 
+---------------------------------------------------------------------------
+        cost or expense;
+
+        (ii) Lthe value of the information is highly time-sensitive;
+
+        (iii) Lthe defendant's use of the information constitutes free-
+        riding on the plaintiff's costly efforts to generate or collect 
+        it;
+
+        (iv) Lthe defendant's use of the information is in direct 
+        competition with a product or service offered by the plaintiff; 
+        and
+
+        (v) Lthe ability of other parties to free-ride on the efforts 
+        of the plaintiff would so reduce the incentive to produce the 
+        product or service that its existence or quality would be 
+        substantially threatened.\17\
+
+    \17\ 105 F.3d at 852.
+---------------------------------------------------------------------------
+A. LThe plaintiff generates or collects information at some cost or 
+        expense.
+
+    The first condition is codified in subsection 3(a)(1) of the 
+discussion draft, which applies the prohibition against 
+misappropriation only to databases that were ``generated, gathered, or 
+maintained through a substantial expenditure of financial resources or 
+time.'' The term ``maintained'' does not appear in the court's 
+articulation of the first condition. However, the reference to 
+``quality'' in the fifth factor could suggest a recognition that 
+misappropriation applies not only to the initial creation but to the 
+periodic update and verification of the product or service. One other 
+variation from the exact language of the court is the requirement of a 
+``substantial'' expense. The court used the arguably less demanding 
+term, ``some.'' The discussion draft also equates ``time'' with ``cost 
+or expense,'' which we believe is probably a defensible interpretation 
+of the elements set forth in NBA.
+
+B. LThe value of the information is highly time-sensitive.
+
+    The second condition is codified in subsection 3(a)(1) of the 
+discussion draft, which requires that the making available occur ``in a 
+time sensitive manner.'' Section 3(c) of the discussion draft states 
+that courts shall consider ``the temporal value of the information in 
+the database, within the context of the industry sector involved'' in 
+determining whether this condition is met. The discussion draft omits 
+the term ``highly,'' although it is not clear how much difference that 
+makes. The discussion draft appears to take a flexible approach to this 
+condition, requiring consideration of the business context, but also 
+allowing a court to consider whatever other factors it might deem 
+relevant. This approach may well be the subject of initial uncertainty, 
+until courts have provided guidance in applying the standard. In this 
+respect, the discussion draft may go beyond the ``hot news'' doctrine 
+addressed in NBA and INS.
+    In its previous testimony, the Copyright Office noted with approval 
+the application of a definite term of protection, beginning at the time 
+the relevant portion of the collection is first used in commerce. The 
+Office continues to have concerns about protection without a clear end 
+point. However, the time sensitivity provisions of the discussion draft 
+may address that concern, depending upon how they are interpreted. It 
+may be that consideration should be given to clarifying the scope and 
+application of the ``time sensitive'' component of this discussion 
+draft. To the extent that it goes beyond ``hot news''--and in the past 
+the Office has supported protecting more than ``hot news''--there may 
+still be reason to consider some specific limitation on the duration of 
+protection.
+
+C. LThe defendant's use of the information constitutes free-riding on 
+        the plaintiff's costly efforts to generate or collect it.
+
+    The third condition is codified in subsection 3(a) of the 
+discussion draft, which prohibits the ``mak[ing] available in commerce 
+to others a quantitatively substantial part of the information in a 
+database generated, gathered, or maintained by another person . . .'' 
+While the term ``free- riding'' does not appear in the relevant portion 
+of the text, the conditions described appear to be the practical 
+equivalent. Moreover, the ``free-riding'' problem is addressed in 
+subsection 3(a)(3).
+
+D. LThe defendant's use of the information is in direct competition 
+        with a product or service offered by the plaintiff.
+
+    The fourth condition is codified in subsection 3(a)(2) of the 
+discussion draft, which requires that the making available ``inflict[] 
+an injury.'' That term is defined in subsection 3(b) as ``serving as a 
+functional equivalent in the same market as the database in a manner 
+that causes the displacement, or the disruption of the sources, of 
+sales, licenses, advertising, or other revenue.'' Here the discussion 
+draft expressly provides for direct competition and also requires the 
+showing of at least some disruption in revenue to the compiler.
+
+E. LThe ability of other parties to free-ride on the efforts of the 
+        plaintiff would so reduce the incentive to produce the product 
+        or service that its existence or quality would be substantially 
+        threatened.
+
+    The fifth condition is codified verbatim in subsection 3(a)(3) of 
+the discussion draft. Thus, this legislation appears to codify the 
+standards set forth by the Second Circuit.
+
+                iii. lcriticisms of the discussion draft
+
+    I understand that the discussion draft has been the subject of 
+criticism. I would like to take this opportunity to address some of 
+those arguments.
+
+A. LConstitutionality
+
+    It has been suggested that this legislation exceeds Congress' 
+authority under Article I, section 8 of the Constitution. As you know, 
+the Constitution provides explicit authority for the protection of 
+copyright.\18\ As discussed earlier, the Supreme Court held in Feist 
+that the Copyright Clause cannot serve as a basis of authority for the 
+protection of noncreative databases. But Feist does not address whether 
+some other basis for protection of such materials may exist. The most 
+likely other basis is the Commerce Clause.\19\ At least one critic 
+suggests that the Commerce Clause cannot serve this function. The 
+Copyright Office disagrees.
+---------------------------------------------------------------------------
+    \18\ ``To promote the Progress of Science and useful Arts, by 
+securing for limited Times to Authors and Inventors the exclusive Right 
+to their respective Writings and Discoveries.'' U.S. Const., Art. I, 
+sec. 8, cl. 8.
+    \19\ ``To regulate Commerce with foreign Nations, and among the 
+several States . . .'' U.S. Const., Art. I, sec 8, cl. 3.
+---------------------------------------------------------------------------
+    It has long been accepted that Congress has the power to enact 
+trademark legislation under the Commerce Clause, despite the fact that 
+trademarks may be seen as a form of intellectual property; that 
+trademark law protects material that does not meet standards for 
+copyright and patent protection; and that the protection may last 
+indefinitely. The Supreme Court's opinion in The Trademark Cases \20\ 
+held unconstitutional an early attempt by Congress to enact a trademark 
+law, based on a lack of Congressional power under either the Copyright 
+Clause or the Commerce Clause. According to the Court, the Copyright 
+Clause did not provide authority for the legislation because trademarks 
+have different ``essential characteristics'' from inventions or 
+writings, since they are the result of use (often of already-existing 
+material) rather than invention or creation, and do not depend on 
+novelty or originality.\21\ The Commerce Clause did not provide 
+authority because the particular trademark law in question governed all 
+commerce and was not limited to interstate or foreign commerce.\22\ The 
+opinion suggested that similar legislation limited as to the type of 
+commerce involved would pass constitutional muster under the Commerce 
+Clause. Indeed, legislation consistent with the Court's interpretation 
+of the Commerce Clause was subsequently enacted and has gone 
+unchallenged since 1905.
+---------------------------------------------------------------------------
+    \20\ 100 U.S. 82 (1879).
+    \21\ Id. at 93-94.
+    \22\ Id. at 97.
+---------------------------------------------------------------------------
+    The Register's 1997 Report on the Legal Protection of Databases 
+stated that ``To the extent that database protection promotes different 
+policies from copyright protection, and does so in a different manner, 
+it is similar to trademark law, and therefore seems likely to survive a 
+constitutional challenge.'' The prohibition set forth in this 
+discussion draft appears to meet that prescription. It is crafted to 
+protect that which the NBA case held to be outside of copyright. Its 
+focus is on unfair competition through the misappropriation of a 
+commercial product that is the result of substantial expenditure of 
+another's financial resources or time, in a way that inflicts 
+commercial injury on that person, elements that are far removed from 
+the core of copyright.
+
+B. LSubpoena to Identify Violators
+
+    The discussion draft includes a procedure similar to that in 17 
+U.S.C. Sec. 512(h) to allow potential plaintiffs to learn the identity 
+of those they believe have violated the provisions in this discussion 
+draft. The Copyright Office believes that the section 512(h) subpoenas 
+are a necessary and appropriate tool in copyright owners' struggle 
+against infringement, particularly in the digital and online 
+environments. However the discussion draft does differ in one 
+significant respect: Section 512(h) requires the person seeking a 
+subpoena to file with the clerk of the court a certain information 
+about the claim of infringement that has given rise to the controversy 
+that requires identification of the alleged infringer. This provision 
+provides assurances that the subpoena is sought in good faith and that 
+there is an objective basis for seeking it. The current discussion 
+draft does not have any analogous safeguards. The Copyright Office 
+recommends the inclusion of such a provision in this discussion draft.
+
+C. LFair Use Exception
+
+    We understand that some have suggested that this discussion draft 
+is somehow flawed without the inclusion of a ``fair use'' exception, 
+similar to the one that appears in the Copyright Act.\23\ In the past, 
+the Copyright Office has supported inclusion of provisions similar to 
+fair use in database protection legislation. However, the past 
+legislative proposals provided for broader protection than is provided 
+in this discussion draft. In providing for a narrower prohibition, the 
+discussion draft may well obviate the need for a fair use-type of 
+provision. It may well be that this discussion draft already 
+incorporates most of the principles embodied in copyright fair use. The 
+``purpose and character of the use'' \24\ is addressed by subsection 
+3(a) of the discussion draft, which prohibits the ``making available in 
+commerce,'' and in subsection 3(b), which makes clear that the 
+prohibition extends only to inflictions of injury that serve as a 
+functional equivalent in the same market as the database. The ``amount 
+and substantiality of the portion used'' \25\ is also addressed in 
+subsection 3(a), which requires ``a quantitatively substantial part of 
+the information.'' Indeed, this provision is more permissive than fair 
+use, which may not excuse the use of a quantitatively insubstantial 
+portion that is qualitatively vital to the work. The ``effect of the 
+use upon the potential market for or value of the copyrighted work'' 
+\26\ is addressed by subsection 3(a)(3), requiring that the ability of 
+others to free-ride threaten the ``existence or quality'' of the 
+database, as well as subsection 3(b), with its strong requirement of 
+market harm. Of course, the second fair use factor, ``the nature of the 
+copyrighted work,''\27\ is inapplicable to a legal regime specifically 
+designed to protect that which is denied copyright protection for lack 
+of creativity. While we are strong proponents of fair use and 
+understand the desire for such a provision in database protection 
+legislation, we are not persuaded that such a provision is necessarily 
+required when the prohibition itself serves the policies underlying 
+fair use.
+---------------------------------------------------------------------------
+    \23\ See 17 U.S.C. Sec. 107.
+    \24\ Sec. 107(1).
+    \25\ Sec. 107(3).
+    \26\ Sec. 107(4).
+    \27\ Sec. 107(2).
+
+---------------------------------------------------------------------------
+D. LInternet Service Provider Liability
+
+    There has been complaint that the discussion draft would subject 
+internet service providers (``ISPs'') to liability unfairly. However, 
+subsection 7(i) of the discussion draft explicitly insulates ISPs from 
+liability unless their employees violate the prohibition while acting 
+within the scope of their duties, actively direct or induce a violation 
+of the prohibition, or receive a financial gain directly attributable 
+to the violative conduct. It is not readily obvious to the Copyright 
+Office how the ordinary use of ISPs' systems by their users could be 
+within the scope of these few exceptions to the general rule that ISPs 
+do not bear liability under this discussion draft. Moreover, it is 
+notable that the discussion draft provides this benefit to ISPs without 
+requiring them to abide by many of the conditions that appear in 
+section 512 of the Copyright Act,\28\ such as taking down violative 
+material in response to a notice or terminating the account of a repeat 
+offender. Compared to section 512, this provision appears to be 
+generous.
+---------------------------------------------------------------------------
+    \28\See 17 U.S.C. Sec. 512 (limiting the liability of qualifying 
+ISPs for copyright infringement).
+
+---------------------------------------------------------------------------
+E. LAlleged Expansion of Intellectual Property Protection
+
+    There is also apparently a somewhat amorphous criticism that this 
+discussion draft would serve in furtherance of an alleged trend of 
+expanding intellectual property protection without counterbalancing 
+other interests. The Copyright Office sees no such trend. Indeed, the 
+last few years have seen expansions of exceptions and limitations. For 
+example, legislation has provided exceptions and limitations for 
+digital distance education,\29\ use of works by the blind,\30\ and the 
+aforementioned provisions for ISPs.\31\
+---------------------------------------------------------------------------
+    \29\ See 17 U.S.C. Sec. 110(2).
+    \30\ See 17 U.S.C. Sec. 121.
+    \31\ See 17 U.S.C. Sec. 512.
+---------------------------------------------------------------------------
+    A complete analysis of intellectual property protection includes a 
+consideration not only of the provisions of the law, but also of the 
+other factors which affect the incentive to create and the availability 
+for use of protected materials. Most significantly, the dramatic growth 
+of the use of digital technology and the Internet have made more 
+materials available to more people than ever before. However, this 
+technology has also created an avenue for the improper use of materials 
+on a previously unimagined scale. Changes in the law to try to prevent 
+or remedy these improper uses do not necessarily reflect a change in 
+philosophy about the appropriate scope of protection and have not 
+altered the fact that both authorized and unauthorized users of 
+protected materials generally have greater opportunities to use the 
+material of others than they did before these technological 
+developments.
+
+                            iv. lconclusion
+
+    The discussion draft represents the latest in a series of 
+legislative attempts to provide consistent, federal standards of 
+protection for databases. As I noted at the outset, the Copyright 
+Office is sympathetic to these efforts but does not, at this time, take 
+a position on this legislation. As always, the Copyright Office stands 
+ready to assist both Subcommittees and I will be pleased to answer any 
+questions you may have.
+
+    Mr. Smith. Mr. Donohue.
+
+ STATEMENT OF THOMAS J. DONOHUE, PRESIDENT AND CHIEF EXECUTIVE 
+                  OFFICER, CHAMBER OF COMMERCE
+
+    Mr. Donohue. Thank you, Mr. Chairman. And Mr. Chairmans, 
+all and Members, it is fun to appear before a joint Committee. 
+You are never quite sure where the balance is. So we will keep 
+an eye from this end as well.
+    On behalf of the Chamber's 3 million business members of 
+every size and every sector, I am pleased to come here today 
+and to discuss this draft legislation. Let me briefly explain 
+the two very important reasons why the Chamber is clearly 
+opposed to this piece of legislation, and then we will gladly 
+answer your questions.
+    First, the Nation already has on the books, as many have 
+already mentioned, the vast web of laws that protect database 
+information, laws that even database producers themselves 
+appear to be completely satisfied with. We have the benefit of 
+contract intellectual property, copyrights, state of law 
+misappropriation, trespass and Federal computer antihijacking 
+statutes and numerous other protections that are on the books 
+and in place.
+    The Chamber's members, you will not be surprised, include 
+many of the country's biggest producers and users of databases, 
+and I would clearly tell you if they didn't think the law was 
+protecting them because they would have clearly told me; but in 
+fact, our Members have told us that this legislation is 
+misdirected, in many ways, harmful and unnecessary.
+    Proponents of the database legislation have yet to provide 
+a real-world example of a database that isn't protected under 
+current law. I agree under the discussion that the law has been 
+strong and weak in various ends of the bookends, but clearly 
+there is protection; and if we were to pass this draft 
+legislation, there would be many new problems for all of us to 
+face.
+    It is remarkable that when you think about the enormous 
+number of databases that our children use and we use and that 
+all your staffs use every day, and the equally enormous number 
+of opportunities for some kind of serious infringement is that 
+no one here is telling you about one that has happened. Six 
+years ago the Copyright Office told the Congress that they 
+could pass legislation to add additional protection. The 
+Congress has not, during that period of time, with the 
+introduction of new technology, with people carrying 
+Blackberries around on their belt so they can access all kinds 
+of information, we haven't had these problems.
+    This is a solution in search of a problem, and we ought to 
+be very careful about that.
+    Now, your mission in the Congress--the Congress has many 
+missions, but in this instance it is to specifically identify 
+and define the problem and then craft some legislation to fix 
+it. I think you will have to spend the majority of your time 
+looking for the problem.
+    Let me go to the second concern I have, which is even more 
+critical, and that is this legislation with its vague terms and 
+allowance for excessive penalties--and I will say something 
+about that at the end--would significantly add to the country's 
+frivolous litigation nightmare.
+    For example, if this legislation were enacted, an 
+individual or an organization such as the Chamber could be sued 
+for taking the text of existing laws and reformatting them to 
+make them easier for people to understand. It could also stop a 
+replacements part manufacturer from being able to compare and 
+hence advertise their products as alternatives to other more 
+expensive originals; and with the legislation's vague and 
+expansive definition of the term time-sensitive, information--
+time-sensitive information, an individual or an organization 
+could be the target of a lawsuit for using information in a 
+database that is decades old.
+    Ladies and gentlemen, I think for a minute of where our 
+society would be without sharing database information. We owe 
+an incredible advances in medicine, science, technology and the 
+arts to the availability of that information to researchers all 
+over the place.
+    That is not to say, however, that access to database 
+information should necessarily be available free. When people 
+reformat and lay it out in a usable and a helpful way, they can 
+and should charge for it, and the user should pay for it.
+    Passing this legislation--let me conclude--would put a 
+chill on business investment, deprive consumers of new 
+information products and threaten a litigation bonanza that we 
+can't afford, and it would then put penalties that will 
+quadruple the fines when the things we do in RICO statutes only 
+triple them. This would be a very unfortunate piece of 
+legislation.
+    Thank you very much, Mr. Chairman.
+    Mr. Smith. Thank you, Mr. Donohue.
+    [The prepared statement of Mr. Donohue follows:]
+              Prepared Statement of Mr. Thomas J. Donohue
+                              introduction
+    Chairman Stearns, Chairman Smith, Ranking Member Schakowsky, 
+Ranking Member Berman and Members of the Committees. Thank you for the 
+opportunity to be here today to testify on ``the Database and 
+Collections of Information Misappropriation Act''.
+    I'm Tom Donohue, President and Chief Executive Officer of the U.S. 
+Chamber of Commerce, the world's largest business federation, 
+representing more than 3 million businesses of every size, sector and 
+region of the country.
+    I have previously written to both Committees to express my serious 
+concerns about the draft legislation. I ask that copies of my 
+correspondence be made a part of the record.
+    I recognize that the staffs of your two Committees have worked hard 
+to address the concerns that the Chamber and others have expressed 
+regarding this issue. Unfortunately, I believe that the draft Database 
+and Collections of Information Misappropriation Act does not adequately 
+address those concerns. Instead, this legislation continues to pose a 
+serious threat to the business community, as well as to the academic 
+and science community. I strongly urge you not to move forward with 
+this legislation.
+    Although the discussion draft has been shared with the public for 
+barely three weeks, it has already attracted a firestorm of thoughtful 
+criticism. Along with the Chamber's objections, additional detailed and 
+persuasive criticisms have been lodged by an extraordinarily diverse 
+array of public and private entities. When the U.S. Chamber of 
+Commerce, Consumers Union, the American Conservative Union, Association 
+of Research Libraries NetCoalition and the Eagle Forum, all join hands 
+in opposition to a legislative initiative, it's fair to ask what could 
+unite groups which so often see the world in very different ways.
+    The reason why so many organizations are so concerned about the 
+discussion draft is simple. There has been no threshold showing that 
+there is a problem that needs to be addressed by legislation. However, 
+there is enormous concern that were this draft enacted, it may well 
+create enormous problems for information users and producers, stifling 
+innovation and adding to the excessive litigation burdens already 
+facing American businesses.
+    We live in the ``Information Age'' - an age in which advances in 
+information technology have helped fuel economic growth and enhanced 
+productivity. Fundamental changes in basic information policy will 
+affect virtually every American, as well as virtually every business, 
+not just those commonly thought of as information companies.
+    Our country's basic information policy provides that facts - the 
+building blocks of information - cannot be owned. That historic policy 
+was underscored in a unanimous 1991 Supreme Court decision Feist v. 
+Rural Telephone. In that landmark case, the Supreme Court reaffirmed 
+that the U.S. Constitution prohibits copyright protections for facts 
+contained in a database. The Court concluded that the Constitution's 
+objective of promoting ``the Progress of Science and useful arts'' is 
+accomplished by ``encouraging others to build freely upon the ideas and 
+information conveyed by a work.''
+    The basic goal of copyright, indeed of all intellectual property 
+law, is to encourage creative activity. That is why the Feist court 
+underscored that intellectual property protection can only be provided 
+to those portions of a database that reflect a minimal level of 
+creativity. Notwithstanding this unanimous Supreme Court decision, 
+however, proponents of broad database legislation continue to seek 
+protection for information that they haven't created.
+    That is not to say that access to these databases should 
+necessarily be available for free. Indeed, the Chamber strongly 
+believes that current protections, such as appropriate intellectual 
+property protections, along with contract and licensing agreements and 
+state trespass and misappropriation protections, as well as other 
+protections, should be utilized and enforced. Companies need and 
+deserve protection for the time, effort and expense that they undertake 
+to create databases, but new intellectual property protections like 
+those envisioned by the discussion draft are too broad and unnecessary.
+
+        what's the problem? where is the ``gap'' in current law?
+    The Chamber has always believed that the best way to legislate is 
+to specifically identify and define problems, and then carefully craft 
+legislation to deal with those particular real-world harms. Whenever 
+Congress legislates - especially in an area with the broad 
+ramifications such as those inherent in changing basic and long-
+standing copyright and information policy - that legislation should be 
+narrowly targeted to resolving a demonstrated real-world harm, with as 
+little collateral damage as possible.
+    In this arena, throughout the seven-year consideration of this 
+issue, proponents of changing how our nation regulates information have 
+yet to provide a real-world example of a database that can't be 
+protected under current law. There are an astronomical number of 
+opportunities daily for some kind of infringement. Yet the inability to 
+cite gaps in the law is profoundly telling. Indeed, this inability to 
+cite real gaps in existing laws underscores our concern that some 
+proponents of broad database legislation seek to leverage dominance in 
+existing markets into dominance in other markets - without having to 
+gain these advantages via competition in the marketplace.
+    Most persuasive to me is the reaction of the Chamber's members to 
+the discussion draft. Our broad membership includes many of America's 
+most significant database producers. These companies invest enormous 
+sums of money producing creative, new information products. These 
+companies currently enjoy myriad legal protections for their databases, 
+including contract, copyright, state- law misappropriation, trespass, 
+federal computer anti-hacking statutes and numerous other protections.
+    If our Chamber members believed for a second that they couldn't 
+protect their substantial investments in database production, they 
+would be urging me to affirmatively fight for new law. Instead, I'm 
+hearing that there is little or no upside for the business community in 
+database legislation, and potentially a significant, anti-competitive 
+downside.
+
+                     threat of excessive litigation
+    As you know, the Chamber has long been concerned about the threat 
+excessive litigation poses to the economy and American business. This 
+legislation, if enacted, would combine vague terms and excessive 
+penalties to create a frivolous litigation nightmare for businesses of 
+all industries.
+    The reason for this begins with the core prohibition of the draft 
+bill. Since the Supreme Court's 1918 decision in International News v. 
+Associated Press, courts have awarded relief in what became known as 
+``hot news'' misappropriation cases. That line of cases established the 
+tort of misappropriation, and found that even factual data could be 
+protected if the data met a series of tests, including that the data is 
+``highly time sensitive''. The Court found in that case that wire 
+stories were ``hot'' and protected for a few hours. Subsequent cases 
+have found, for example, that sports scores are ``hot'' and potentially 
+protected for a matter of minutes.
+    The discussion draft, however, creates a new definition of ``time 
+sensitivity'' in the context of this bill, significantly different than 
+the ``time sensitivity'' that courts have been familiar with for more 
+than eighty years under the International News line of cases. 
+Specifically, this draft would potentially require courts to add the 
+concept of ``value'' to the determination of time sensitivity.
+    For example, this draft legislation works retroactively, ensnaring 
+facts in databases that are conceivably decades old. The draft protects 
+facts in encyclopedias, even though the lead-time in publishing means 
+that data is generally months old before it reaches the bookstores. In 
+short, it is impossible to state definitively what this core 
+prohibition means - though it can be definitely stated that this 
+prohibition bears only a superficial resemblance to the time-
+sensitivity standard created by the Supreme Court in the International 
+News case and expressly preserved in Feist.
+    The courts would be forced to determine whether the proposed 
+prohibition can be tightened to look like constitutionally sanctioned 
+``hot news'' misappropriation and not like the copyright of facts 
+forbidden by Feist. While the courts sort this out, the combination of 
+vague terms, a private right of action, quadruple damages and 
+incredibly expansive subpoena power would create a litigation bonanza 
+that will chill investment and threaten business, depriving consumers 
+of new information products.
+                               conclusion
+    On behalf of the Chamber, I want to thank you for the opportunity 
+to share some of our more serious concerns regarding the discussion 
+draft. The Chamber has always believed that the best way to legislate 
+is to identify and define specific problems, and then carefully craft 
+legislation to deal with them. While some urge ``moving beyond'' 
+discussing the problem in order to legislate, we are convinced that, if 
+there is to be legislation it should be narrowly targeted to resolving 
+a demonstrated real-world harm, with as little collateral damage as 
+possible.
+    Appropriate information policy is critical to American business. 
+While we may be willing to support compromise legislation carefully 
+targeted to deal with specific, demonstrated ``gaps'' in existing law, 
+there has been no demonstrated need for such legislation at this time.
+    On behalf of American businesses and our three million members, I 
+want to thank you again for inviting me to testify and share our 
+concerns.
+
+    Mr. Smith. Mr. Kupferschmid.
+
+ STATEMENT OF KEITH KUPFERSCHMID, VICE PRESIDENT, INTELLECTUAL 
+   PROPERTY POLICY AND ENFORCEMENT SOFTWARE AND INFORMATION 
+   INDUSTRY ASSOCIATION, ON BEHALF OF THE COALITION AGAINST 
+                        DATABASE PIRACY
+
+    Mr. Kupferschmid. Chairman Smith and Stearns and Members of 
+both Subcommittees, I appreciate the opportunity to testify 
+before you today to discuss the need for legislation that 
+protects America's databases from piracy. I also would like to 
+especially thank Chairman Sensenbrenner and Chairman Tauzin for 
+their strong leadership on this important issue and appreciate 
+the commitment of the two Committees to work together to 
+produce and enact meaningful database legislation.
+    I am Keith Kupferschmid, vice president of intellectual 
+property for the Software and Information Industry Association, 
+and I am here today on behalf of the coalition against database 
+piracy. CADP is a broad-based coalition that was formed for the 
+sole purpose of pursuing enactment of a Federal law to prevent 
+misappropriation of databases. Its members include large and 
+small database producers who devote substantial resources to 
+creating and distributing database products and services.
+    The value of reliable and comprehensive databases that 
+these companies make available to researchers, to businesses, 
+to Government officials, to citizens is immeasurable. Farmers 
+use databases to get weather and soil information; lawyers to 
+rely on legal precedent; doctors to determine safe and 
+effective medical procedures; workers to search for new jobs; 
+pharmacists to understand drug interactions; home buyers to 
+find the right house, and the list goes on.
+    Database piracy is a major concern to America's database 
+publishers. With the Internet and advances in technologies, 
+databases can be easily stolen and made available to others in 
+ways that cause great harm to the original database producer.
+    Unfortunately, U.S. copyright law and other existing laws 
+do not adequately protect against such piracy. A recent case, 
+Schoolhouse versus Anderson, decided in 2002, demonstrates the 
+glaring inadequacies of current law. In that case the defendant 
+copied and posted on the Internet a minimum of 74 percent of a 
+small magazine publisher's database of school information. 
+Although the defendant admitted to copying the database, the 
+court held that the defendant was not liable for copyright 
+infringement.
+    Shortly after that case, the plaintiffs in the case got out 
+of the database business. This is just one example. There are 
+many other cases, including Skinder-Strauss v. MCLE, EPM 
+Communications v. Notara Warren Publishing v. Microdos, 
+Ticketmaster v. Tickets.com and many others.
+    In addition to the database piracy cases that have resulted 
+in litigation, there are numerous other instances of piracy 
+that never make it to the courtroom. Many database producers 
+are simply unwilling to spend the significant amounts of money 
+litigating questionable causes of action and in the process 
+draw attention to the vulnerabilities of their company's 
+databases.
+    Clearly there is a definite and significant need for 
+database protection legislation. In addition, the risk of 
+potential future instances of database piracy and the adverse 
+effects that piracy would have on investment in databases and 
+consumer protection is certainly sufficient justification for 
+Congress to enact database protection legislation.
+    I would like to focus the remainder of my remarks on the 
+draft legislation. The discussion draft reflects years of 
+discussions and negotiations between the two Committee staffs 
+and stakeholders. The draft legislation they have developed 
+takes a very targeted and very narrow approach to addressing 
+the problem of database piracy.
+    It is based on a misappropriation approach that only covers 
+the act of making a database available that causes significant 
+commercial harm to the database producer. It protects the 
+database itself, not the information or the facts in the 
+database.
+    The draft legislation creates a narrowly focused 
+prohibition that applies only if ten criteria are met. These 
+ten criteria, all of which must be satisfied, set a very high 
+standard for qualifying for protection under this draft bill. 
+This standard is even higher when one also considers the 
+exceptions to liability that are contained in the draft.
+    We believe that some of the substantive provisions of the 
+draft will provide protection against database piracy while 
+also accounting for the legitimate concerns of database users.
+    However, we believe that some of the language contained in 
+the draft requires clarification, notably the preemption and 
+time sensitivity provisions, among others. We are also 
+concerned that the discussion draft does not recognize database 
+thefts that cause noncompetitive harms. We look forward to 
+working with the two Committees to ensure that these concerns 
+are addressed.
+    We note that a few groups, many of whom were part of the 
+process initiated by the two Committees to come up with a 
+compromised text, have voiced their opposition to the 
+discussion draft. The approach of the discussion draft, relying 
+on a standard of misappropriation, is precisely the standard 
+that was recommended by many of those who are now writing to 
+express their concern. Their continued opposition amply 
+demonstrates that they simply do not accept the conclusions 
+that the chairmen have both reached: that Congress should 
+legislate to improve legal protection available for databases.
+    Our goal throughout this whole process has been to get 
+narrowly targeted legislation that will address the problem of 
+database piracy while also addressing the legitimate concerns 
+of the database user community. To the extent that the 
+opponents believe that the draft falls short of this goal, we 
+continue to stand ready to address those concerns in exchange 
+for their support for this important piece of legislation and 
+their recognition that the bill must address the needs of the 
+database publishing community.
+    We look forward to working with the Congress and the other 
+stakeholders to achieve a legislative solution that eliminates 
+the unfairness we discuss today. Thank you again for all your 
+work on this important legislation. I will be happy to answer 
+any questions.
+    Mr. Smith. Thank you, Mr. Kupferschmid.
+    [The prepared statement of Mr. Kupferschmid follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    Mr. Smith. Mr. Wulf.
+
+   STATEMENT OF WILLIAM WULF, PRESIDENT, NATIONAL ACADEMY OF 
+    ENGINEERING AND VICE CHAIRMAN, NATIONAL RESEARCH COUNCIL
+
+    Mr. Wulf. Thank you, Mr. Chairman. Like my predecessors 
+here, I am very grateful to have the opportunity to testify on 
+this important legislation today. I should clarify that I am 
+testifying on behalf of the U.S. National Academies. That is 
+The Academy of Sciences, The Academy of Engineering, and 
+institute of Medicine, but also on Behalf of the Association of 
+American Universities, the American Library Association and the 
+Association of Research Libraries.
+    The proposed legislation concerns a topic about which the 
+scientific research, education and library communities have had 
+an abiding and continuing concern. For all of those 
+communities, the free and open sharing of information is 
+essential for progress, and that progress is in large measure 
+responsible for our quality--you are improving quality of life. 
+It is estimated that one half of our GDP growth is due to 
+advances in science and technology. It is estimated that two-
+thirds of our productivity growth, the real source of wealth 
+creation, is due to advances in science and technology.
+    A hundred years ago this year, the Wright brothers flew the 
+first heavier-than-air aircraft. A hundred years ago this year, 
+Henry Ford opened his mass production plant making affordable 
+automobiles available to all of us. A hundred years ago this 
+year, the average life expectancy of an American was 46. It is 
+now 77 an increase of 31 years.
+    On the light side, I suppose it is interesting to speculate 
+how many of us in this room would be here if it weren't for 
+those advances in science and technology.
+    On the serious side, my point is that this is a system that 
+one tampers with very carefully. An unintended consequence of 
+well-intended legislation on the free and open sharing of 
+information could have enormous implications on our prosperity, 
+our health and indeed on our national security.
+    I would just like to make a few points about the draft 
+legislation. First of all, I want to acknowledge that, in fact, 
+the draft has a number of significant improvements, and we are 
+very grateful for that. I must admit that my own analysis is 
+incomplete, but I believe that there are also still problems 
+and ambiguities, some of which are in my written testimony. As 
+a consequence, the Academy has remained committed to being 
+helpful in producing a balanced and fair bill, assuming that 
+one is deemed necessary.
+    The key I think is that there are several principles that 
+ought to inform the process of crafting any new legislation in 
+this area, and I would like to focus the rest of my testimony 
+on those principles.
+    The first is that the public domain status of factual 
+noncopyrightable information must be preserved. Any new 
+protection regime should leave a wide buffer zone to ensure 
+that factual information will not be subjected to proprietary 
+claims.
+    Two, only significant problems of unfair competition in 
+market failure that have been proven should be addressed. And 
+negative unintended consequences must be avoided.
+    Three, a reasonable balance of interest among the 
+stakeholders in an information economy should be maintained. 
+Congress should proceed cautiously in creating new protection 
+regimes, because once created, a new protection regime is 
+virtually impossible to dismantle.
+    Four, healthy competition in the information industry needs 
+to be promoted, while the further strengthening of unwarranted 
+monopolies should be avoided.
+    Five, exclusive control by private parties over information 
+in databases produced by the Government must be prevented.
+    Six, new protection regimes should not create any doubt or 
+controversy about the lawfulness of traditional and customary 
+access to and use of factual information for not-for-profit 
+science, research and education, effective exceptions must be 
+adopted.
+    And finely, the important role and function of our Nation's 
+libraries must not be undermined.
+    Before concluding, let me note that there is little 
+evidence, as far as I can tell, since the last time we 
+testified on this issue that databases or other collections of 
+information are routinely stolen or that there is a significant 
+market failure in the information industry for such products.
+    Indeed, database producers have already enjoy a broad range 
+of legal technological and self-help methods, many of which 
+have been further strengthened in recent years, that protect 
+the fruits of their investment.
+    Nevertheless, the academies and the other organizations 
+represented in this testimony remain committed to playing a 
+constructive role in helping Congress to consider the issues of 
+database protection in a way that is consistent with the 
+principles I have identified above. Thank you.
+    Mr. Smith. Thank you, Mr. Wulf. And thank you all for your 
+very strong testimony today.
+    [The prepared statement of Mr. Wulf follows:]
+                   Prepared Statement of Wm. A. Wulf
+                              introduction
+    My name is Bill Wulf. I have been asked to testify on behalf of the 
+U.S. National Academy of Sciences, the National Academy of Engineering, 
+and the Institute of Medicine (the ``Academies''). As you know, the 
+three Academies were chartered by Congress to provide advice to the 
+federal government and to the nation on scientific, technical, and 
+medical issues. My testimony is also being given on behalf of the 
+Association of American Universities, the American Library Association, 
+and the Association of Research Libraries.
+    I am grateful to have the opportunity to testify to you today about 
+the draft legislation called the ``Database and Collections of 
+Information Misappropriation Act of 2003.'' This proposed legislation 
+concerns a topic about which the scientific, research, education, and 
+library communities have had an abiding interest and continuing 
+concerns. Indeed, this is the third time that the Academies have 
+testified on congressional legislation in this area since 1997, and 
+both the Academies and their operating arm, the National Research 
+Council (NRC), have published extensively on these issues over the past 
+seven years. A list of recent relevant NRC reports and my biographical 
+summary are provided at the end of this statement. Copies of the 
+referenced NRC reports, as well as the Academies' previous testimony, 
+letters to Congress, and background analyses that we have written on 
+previous versions of this legislation, are available on request.
+    Although I am authorized to speak only on behalf of the 
+organizations that I represent here today, the issues I wish to raise 
+with you pertain broadly to our nation's scientific, research, 
+education, and library concerns. And although I do not address directly 
+the important issues raised by this legislation for the commercial 
+sector, which are the focus of other testimony before you, my remarks 
+are cognizant of the broader implications to our nation's economic and 
+social progress.
+    My testimony makes the following points, which build on our 
+previous analyses:
+
+        <rt-triang> LAs a matter of public policy, there are several 
+        key principles that must inform the process of crafting any new 
+        legislation in this area, including the following:
+
+                1) LThe public-domain status of factual, non-
+                copyrightable information must be preserved, and any 
+                new protection regime should leave a wide buffer zone 
+                to ensure that factual information will not be 
+                subjected to proprietary claims.
+
+                2) LOnly significant problems of unfair competition and 
+                market failure that have been proven should be 
+                addressed, and negative unintended consequences must be 
+                avoided.
+
+                3) LA reasonable balance of interests among all 
+                stakeholders in the information economy should be 
+                maintained. Congress should proceed cautiously in 
+                creating new protection regimes, because once created, 
+                a new protection regime is virtually impossible to 
+                dismantle.
+
+                4) LHealthy competition in the information industry 
+                needs to be promoted, while the further strengthening 
+                of unwarranted monopolies should be avoided.
+
+                5) LExclusive control, either de jure or de facto, by 
+                private parties over information and databases produced 
+                by the government must be prevented.
+
+                6) LNew protection regimes should not create any doubt 
+                or controversy about the lawfulness of traditional and 
+                customary access to and use of factual information for 
+                not-for-profit science, research, and education. 
+                Effective exceptions must be adopted.
+
+                7) LThe important role and functions of our nation's 
+                libraries must not be undermined.
+
+        <rt-triang> LThe draft legislation includes a number of 
+        improvements over previous versions of this legislation that 
+        have been introduced by the House Committee on the Judiciary 
+        since 1996.
+
+        <rt-triang> LThere are still major problems and ambiguities in 
+        the current draft bill that can and should be addressed, 
+        assuming that the creation of a new statutory remedy is still 
+        deemed necessary.
+
+        <rt-triang> LThe Academies and the other organizations 
+        represented in this testimony remain committed to playing a 
+        constructive role in helping Congress to consider the issues of 
+        database protection in a way that is consistent with the 
+        principles identified in this testimony and that avoids 
+        negative unintended consequences.
+
+                                 * * *
+
+                           a. lkey principles
+
+                1) LThe public-domain status of factual, non-
+                copyrightable information must be preserved, and any 
+                new protection regime should leave a wide buffer zone 
+                to ensure that factual information will not be 
+                subjected to proprietary claims.
+
+    As we have noted in previous testimony on this issue, access to and 
+use of factual data in the public domain is essential to furthering our 
+understanding of nature, to the validation of scientific claims, and to 
+the progress of science and our nation's system of innovation. The 
+advent of digital technologies for collecting, processing, storing, and 
+transmitting data has led to an exponential increase in the size and 
+number of databases created and used. A hallmark trait of modern 
+research is to obtain and use dozens or even hundreds of databases, 
+extracting and merging portions of each to create new databases and new 
+sources for knowledge and innovation.
+    Not only researchers and educators, but all citizens with access to 
+computers and networks, constantly create new databases and information 
+products for both commercial and noncommercial applications by 
+extracting and recombining public-domain data and information from 
+multiple sources. The rapid and continuous synthesis of disparate data 
+by all segments of our society is one of the defining characteristics 
+of the information age. Moreover, the serendipitous nature of research 
+and the need of scientists and others to make transformative uses of 
+non-copyrightable facts are such that one cannot predict when or how a 
+database will be used. The ability of individuals and organizations to 
+use information in a wide variety of innovative ways is also a measure 
+of success of the original data-collection efforts.
+    Society uses the fruits of such research and innovation to expand 
+the world's base of knowledge and applies that knowledge in myriad 
+downstream applications to create new wealth and to enhance the public 
+welfare. Indeed, the policy of the United States has been to support a 
+vibrant research enterprise and to assure that its productivity is 
+exploited for national gain. Thus, freedom of inquiry, the availability 
+of scientific and other factual data in the public domain, and the open 
+publication of results are cornerstones of our research system that 
+U.S. law and tradition have long upheld.
+    The results of these wise policies have been spectacular. For many 
+decades, the United States has been the leader in the collection and 
+dissemination of scientific and technical data and in the discovery and 
+creation of new knowledge. Our nation has used that knowledge more 
+effectively than any other nation to support new industries and 
+applications, such as the biotechnology industry and the discovery of 
+new diagnostics and cures for hereditary and other diseases.
+    In addition to the critical importance to our progress in science 
+and innovation for factual information to remain in the public domain, 
+it also is essential for many other compelling American values and 
+needs, including 1st Amendment rights of freedom of expression, the 
+promotion of the information economy, democracy and good governance, 
+and other public- interest uses by consumers and society generally.
+    Because of the overriding importance of non-copyrightable factual 
+information remaining in the public domain, any new legislation in this 
+area must be limited to remedying unfair conduct in commerce rather 
+than extending any exclusive property rights in the factual information 
+itself.
+    Where there is uncertainty or doubt about the effect of potential 
+new legislation, Congress should be careful to err on the side of 
+caution. When the subject matter consists of the fundamental building 
+blocks of knowledge, science and expression, the cost of over-
+protection far exceeds the cost of under-protection.
+
+                2) LOnly significant problems of unfair competition and 
+                market failure that have been proven should be 
+                addressed, and negative unintended consequences must be 
+                avoided.
+
+    Proponents of new database protection legislation have long argued 
+that the misappropriation of databases is a major problem in the U.S. 
+information industry and that existing methods of protection and 
+remedies are inadequate. We find both assertions to be of increasingly 
+dubious validity.
+    There is little evidence since the last time we testified on this 
+issue before Congress that databases or other collections of 
+information are routinely stolen or that there is massive market 
+failure in the information industry. Indeed, database producers already 
+enjoy a broad range of legal, technological, and self-help methods-many 
+of which have been further strengthened in recent years-that protect 
+the fruits of their investments. Available legal remedies at the 
+federal level include traditional copyright law, new rights to prevent 
+the circumvention of technological protection measures granted under 
+the Digital Millennium Copyright Act, and the new Computer Fraud and 
+Abuse Act. Under state law, many jurisdictions have a common law 
+prohibition against misappropriation of ``hot news,'' and a claim for 
+trespass to chattels to protect databases.
+    Contracts and licenses are now used universally by database owners 
+to make their products available under a range of custom-tailored, 
+restrictive conditions. Technologies that protect digital databases and 
+help enforce the existing statutory and contractual rights of owners 
+are constantly being refined and strengthened, including such methods 
+as encryption, online database access controls, software and hardware 
+based trusted systems, and digital object identifiers and electronic 
+watermarks. Indeed, these contracts and technologies are increasingly 
+employed to limit uses of data and information that would otherwise be 
+permitted by law. Congress should carefully monitor their use and 
+consider whether limits on their use are needed to preserve the balance 
+between access to and use of factual information and the incentives to 
+invest in the collection of such information, both of which are 
+essential to the vigorous growth of science and knowledge.
+    Finally, market based protections of databases through self-help 
+business practices such as frequent updating and customizing can help 
+make misappropriation less effective. Taken together, these database 
+protection methods have helped make the commercial database market 
+expand successfully in the United States.
+    The Academies, the Association of American Universities, the 
+American Library Association, and the Association of Research Libraries 
+nonetheless are committed to playing a constructive role in helping 
+Congress to consider the issues of database protection in a way that is 
+consistent with the principles identified in this testimony and avoids 
+unintended negative consequences. The National Research Council reports 
+referenced at the end of this testimony analyze the far- reaching 
+negative implications to research and innovation that could result from 
+legislation that is overly protective of data and non-copyrightable 
+factual information.
+
+                3) LA reasonable balance of interests among all 
+                stakeholders in the information economy should be 
+                maintained. Congress should proceed cautiously in 
+                creating new protection regimes, because once created, 
+                a new protection regime is virtually impossible to 
+                dismantle.
+
+    It is essential to consider fully and to promote a healthy balance 
+of the interests of all the stakeholders in the information economy and 
+society, including the general public. The trend in recent years has 
+been to increase the breadth, depth, and length of all types of 
+intellectual property protection. The creation of any new statutory 
+rights, particularly for subject matter as sensitive as non-
+copyrightable factual information, must be done in full cognizance of 
+the interaction of these rights with other parallel rights conferred by 
+other statutes to avoid negative synergistic effects. In this regard, a 
+major concern for the research community, as discussed further below, 
+are the potential negative effects on access to and use of databases 
+from unbridled, highly restrictive licensing practices, especially 
+through increasingly legitimized adhesion contracts (e.g., shrink-wrap 
+and click-on licenses), in concert with any additional new statutory 
+rights in databases.
+    Further, history has demonstrated that once granted, intellectual 
+property rights are rarely, if ever, reduced or limited. Thus, if there 
+is uncertainty about the effect of any proposed new protection, it is 
+important err on the side of caution and the preservation of the status 
+quo.
+
+                4) LHealthy competition in the information industry 
+                needs to be promoted, while the further strengthening 
+                of unwarranted monopolies should be avoided.
+
+    The promotion of competition is primarily an economic issue of 
+direct interest to our colleagues in industry, but the benefits of 
+competitive prices and increased quality accrue to the public. It is 
+important, nonetheless, to emphasize that a preponderance of scientific 
+databases are produced by sole sources, whether in the public or the 
+private sector. For example, the vast majority of observational data 
+sets of phenomena in the natural world, as well as all unique 
+historical factual compilations, can never be recreated independently 
+and are therefore frequently available only from a single, original 
+source. In other cases, scientific databases are de facto unique 
+natural monopolies because the cost of producing the data and the 
+potential market are such that the economics will not support multiple 
+sources. Even when data that are similar, but not identical, to 
+original research results or observations are available for use in non-
+technical applications, researchers and educators are unlikely to 
+consider an inexact replica of a database to be a suitable substitute 
+if it does not meet fully the original specifications. For this reason, 
+scientific databases are particularly prone to monopoly control. Any 
+new legislation therefore must not enhance the market power of sole-
+source providers in any segment of the information industry without 
+adequate public-interest safeguards.
+
+                5) LExclusive control, either de jure or de facto, by 
+                private parties over information and databases produced 
+                by the government must be prevented.
+
+    Consistent with principle #1 above, the public domain status of 
+governmental databases and other information products is a key factor 
+for the success of our nation's research enterprise, as well as for 
+other compelling national values and interests. Legislation that 
+confers new rights on the private sector must fully exempt government 
+databases from the scope of protection and avoid the possibility of 
+exclusive capture by private-sector entities.
+
+                6) LNew protection regimes should not create any doubt 
+                or controversy about the lawfulness of traditional and 
+                customary access to and use of factual information for 
+                not-for-profit science, research, and education. 
+                Effective exceptions must be adopted.
+
+    Also in keeping with principle #1 above, it is important to provide 
+clear immunity for customary non-commercial scientific, research, and 
+educational uses from the scope of a database protection statute. Non-
+profit institutions should not be required to have expert intellectual 
+property counsel looking over the shoulder of every scientist and 
+scholar. Customary activities should not be chilled. Because in the 
+case of databases, facts themselves are at issue, the legislation 
+should include an express presumption that such customary uses are 
+exempt from liability and the burden of proof on the plaintiff of 
+demonstrating a violation should be heightened.
+
+                7) LThe important role and functions of our nation's 
+                libraries must not be undermined.
+
+    Libraries traditionally have served the important public-interest 
+function of providing access to information to our nation's citizens, 
+and performed essential preservation and archiving activities. Any new 
+rights conferred by new legislation on database owners must not 
+undermine the libraries' ability to continue its role as public-
+interest intermediary for the access to and preservation of factual 
+information resources.
+
+                                 * * *
+
+            b. preliminary comments on the draft legislation
+
+    We have not had sufficient opportunity to analyze comprehensively 
+the draft ``Database and Collections of Information Misappropriation 
+Act of 2003.'' The issues and competing interests in this legislation 
+are complex and difficult to reconcile. Although the process has been 
+long and difficult, we believe that it has led to a deeper 
+understanding of the issues, which was so palpably lacking when the 
+first legislative proposal, based on the European Union's database 
+directive, was introduced in 1996. It also has demonstrated the 
+inherent problems with introducing any new rights in this 
+Constitutionally sensitive area and the importance of addressing 
+adequately the competing legitimate interests of the many stakeholders 
+in the information economy, not only the economic interests of the 
+originators of commercial databases.
+    Our preliminary analysis of this new version of the legislation is 
+consistent with the views expressed by the major university 
+organizations in the September 9, 2003 letter from Nils Hasselmo, 
+President of the Association of American Universities, to the two 
+cognizant Committee Chairmen. We conclude that although improvements 
+have been made over the previous legislative proposals introduced by 
+the Committee on the Judiciary, very significant problems still remain 
+to be resolved. Moreover, the current draft contains a number of new 
+provisions whose intent and impact are ambiguous and which could have 
+serious unintended consequences for the research and education 
+enterprise.
+    We appreciate, in particular, several improvements that have been 
+made in response to the concerns expressed earlier by the Academies and 
+other parties to this process. The move toward a standard of liability 
+grounded more in unfair competition law and the elimination of some of 
+the most unacceptable aspects of previous versions of the Committee on 
+the Judiciary's proposed statutes, are certainly welcome. Among the 
+specific improvements that we see are the elimination of qualitative 
+substantiality, the effort to tie liability to direct competition in 
+the same market as the existing database, the adoption of a knowledge 
+requirement as a condition of liability, and a limitation to databases 
+that require substantial effort to develop. The elimination of criminal 
+penalties and the explicit recognition of the doctrine of misuse as a 
+limiting factor on lawsuits are also positive developments.
+    Although the discussion draft addresses some of the concerns we 
+identified previously, many serious problems remain nonetheless, while 
+new ambiguities have been introduced by the recent changes. We note 
+here only the issues of greatest concern to the scientific, research, 
+education, and library communities, consistent with the principles 
+articulated above, and also incorporate by reference the additional 
+concerns expressed in the September 9 letter from Nils Hasselmo. In 
+particular:
+
+        <rt-triang> L With regard to the liability standard, the 
+        discussion draft could confer perpetual ownership rights in a 
+        wide variety of data by virtue of protecting investment based 
+        on open-ended maintenance of a database. In addition, the 
+        concept of ``making available to others'' appears to be overly 
+        broad, posing a threat to customary collaborative work within 
+        or among universities and research institutions. Moreover, a 
+        minimal amount of harm-even one lost sale or a single lost 
+        source of data-could lead to a finding of liability and to a 
+        chilling of the use of public-domain factual information, 
+        contrary to the values articulated under principle #1 above.
+
+        <rt-triang> LThe exception for educational, scientific, and 
+        research institutions applies only if the institutions are 
+        nonprofit and their ``making available'' is for nonprofit 
+        purposes. This would discourage joint research and development 
+        activities between nonprofit institutions and corporations. 
+        Especially troubling is that the exception can be overridden by 
+        a shrink- wrap or click-on license and render the exception 
+        meaningless--a major concern noted under principles #3 and 6. 
+        Any new legislation must preclude such a possibility. Finally, 
+        we continue to urge that the burden of proof of demonstrating 
+        that customary not-for- profit scientific, research, and 
+        educational uses of factual information are unreasonable should 
+        be a heavy one and should be borne by the plaintiff.
+
+        <rt-triang> LThe scope of the exclusion for government 
+        information in the discussion draft is uncertain as well. It 
+        appears that a publisher that incorporates government 
+        information in its database could prevent others from making 
+        available that government information - even if it is not 
+        available from any other source, contrary to principle #5.
+
+        <rt-triang> LBy failing to address the problem of sole-source 
+        databases, the discussion draft increases monopolists' control 
+        over competitive uses of information. This is of particular 
+        concern in the market for databases used in scientific research 
+        and education, as noted under principle #4. The provision on 
+        misuse, which could help mitigate harmful conduct of database 
+        monopolists, lacks any guidance for courts to determine whether 
+        misuse occurred. The misuse provision should specifically 
+        address the issue of sole-source databases. H.R. 1858 contained 
+        appropriate language in this regard.
+
+    While we believe that the Committees have made progress on this 
+legislation, it is clear that the current discussion draft is still not 
+ready to be adopted and would introduce serious problems in its present 
+form for many stakeholders in the information economy, including the 
+scientific, research, educational, and library sectors.
+    In closing, I would like to reiterate that the Academies, and all 
+of the organizations I represent in my testimony today, have sought to 
+play a constructive role in the congressional efforts to craft 
+appropriate legislation in this complex and sensitive area. We look 
+forward to working with Congress on this issue to develop a consensus 
+on how best to move forward from here.
+    Thank you again for providing us with the opportunity to testify at 
+this hearing.
+
+                                 * * *
+
+    Recent relevant National Research Council reports, published by the 
+National Academies Press and all freely available at: www.nap.edu :
+
+    The Role of Scientific and Technical Data and Information in the 
+Public Domain (2003)
+
+    The Digital Dilemma: Intellectual Property in the Information Age 
+(2000)
+
+    A Question of Balance: Private Rights and the Public Interest in 
+Scientific and Technical Databases (1999)
+
+    Bits of Power: Issues in Global Access to Scientific Data (1997)
+
+    Mr. Smith. At this point, I am going to turn the Chair over 
+to Congressman Stearns, and we will continue with the hearing.
+    Mr. Stearns. I thank my colleague, and I certainly would 
+defer to him to start with his questions.
+    Mr. Smith. Thank you, Mr. Chairman. Mr. Carson, let me 
+direct my first question to you, and this goes to page 8 of Mr. 
+Wulf's prepared testimony, and he mentions several examples of 
+serious problems with the proposed legislation, and let me read 
+you the first two and ask you to tell us why they are or are 
+not serious problems.
+    Now, he says, first with regard to the liability standard 
+the discussion draft could confer perpetual ownership rights in 
+a wide variety of data by virtue of protecting investment based 
+on open-ended maintenance of a database. And second, the 
+exception for educational, scientific and research institutions 
+arise only if the institutions are nonprofit and their making 
+available is for nonprofit purposes.
+    Do you consider those to be serious problems, and if not, 
+why not?
+    Mr. Carson. We understand the concern, Mr. Chairman. 
+However, we are not certain how serious they are in the context 
+of this bill. Let's take the first one. Would this discussion 
+draft confer perpetual ownership rights? We don't think so, and 
+we don't think so primarily because of one of the requirements 
+that the unauthorized making available in commerce has to occur 
+in a time-sensitive manner.
+    As we stated in our testimony, there is, we think, some 
+ambiguity in the current draft that suggests what is meant by 
+that. If, as we understand, this is simply a codification of 
+the ``hot news'' doctrine, then we don't see how there can be 
+any conceivable problem with perpetual ownership rights. If it 
+goes beyond ``hot news,'' then we really have to give it 
+further thought and have a clear understanding of what is meant 
+by this time-sensitive component and the elaboration that a 
+court should consider the temporal value of the information in 
+the database within the context of the industry sector 
+involved. That, we think, does need some amplification and 
+clarification, and depending on where that leaves us, we may or 
+may not have some kind of problem.
+    On the second aspect, whether the restriction of the 
+exception for educational, scientific and research institutions 
+to nonprofit institutions is a problem, I guess my first 
+reaction to that would be that while we think it is a good 
+thing that this legislation--this proposed legislation--would 
+have an exclusion for nonprofit educational scientific and 
+research institutions, when you look at the scope of the 
+prohibitions set forth in section 3, which is clearly addressed 
+to competitive activity which is serving as a functional 
+equivalent in the same market as the data base--the 
+proprietor's database--it is really hard to imagine too many 
+situations, if any, when a nonprofit, scientific or educational 
+research facility would be engaging in an act which would even 
+implicate that primary prohibition.
+    So that would be the first part of my answer, and the 
+second part would be--we think there is a distinction between 
+nonprofit institutions and for-profit institutions. If you are 
+in this business for a profit, then maybe you should be on the 
+same playing field as any other for-profit actors.
+    Mr. Smith. Thank you, Mr. Carson.
+    Mr. Kupferschmid, in the appendix to your prepared 
+testimony, you give several examples of databases that are not 
+currently protected by copyright law. Two of the examples you 
+gave are the directory of information on U.S. cable television 
+systems, and the second was a Massachusetts lawyer diary and 
+manual.
+    My question for you is why should they be protected? And my 
+question for Mr. Donohue and Mr. Wulf is why not?
+    Mr. Kupferschmid. One of the cases you are talking about, 
+Warren Publishing v. Microdos, was a case involving a cable 
+directory, and in that case Microdos came along and copied and 
+sold the database in competition with Warren, a typical case of 
+free riding, the exact type of situation we are trying to 
+address here.
+    Since that case has come down Warren Publishing has taken 
+steps to try to protect themselves. What they have done is they 
+have now put a shrink wrap license around the cable directory, 
+because they feel that is pretty much the only way that they 
+can protect themselves.
+    I think it is quite interesting that because there is no 
+law to protect themselves and they have taken this step, they 
+have gotten this directory sent back to them from libraries and 
+from others who do not want to adhere to the shrink wrap 
+agreement. They won't open it up. So what that means is because 
+there is no law and because Warren Publishing has had to take 
+these steps to protect themselves, in essence, there is 
+information that is not getting out there. And that is because 
+there is no law and they have had to use other means to protect 
+themselves. If there were a law, then presumably they would not 
+have to do that and----
+    Mr. Smith. Thank you. Mr. Donohue and Mr. Wulf, very 
+briefly, why shouldn't we protect that directory and that--
+directory of information U.S. cable television systems and the 
+Massachusetts lawyer diary and manual? Why shouldn't we protect 
+those databases?
+    Mr. Donohue.
+    Mr. Donohue. I believe that there is enough law on the 
+books to give most companies the protection that they would 
+need. What we are doing here, when you think about the 
+Internet, when you think about the databases that are 
+available--and there are millions of them--what we are doing 
+here is talking not about the facts, as my colleague said here, 
+but about the format, how they are put together. And certain of 
+those things ought to be paid for. If they are not paid for 
+appropriately, then the law which we now have should be used to 
+protect those that are injured.
+    To put together a new piece of legislation, to run around 
+and look within those millions of databases for somebody that 
+has been harmed is--in some ways this is getting ridiculous, 
+because we are looking around for a problem for this solution.
+    Mr. Smith. Mr. Donohue, if current law was not sufficient, 
+would you support legislation that would close that loophole?
+    Mr. Donohue. If I saw it and it made sense and if there was 
+a serious enough problem to be resolved, of course.
+    Mr. Smith. Okay. Thank you, Mr. Donohue, and thank you, Mr. 
+Chairman.
+    Mr. Stearns. I thank my colleague.
+    Mr. Carson, let me just follow up here a little bit with 
+what my colleague talked about. Now, you expressed the view 
+that misappropriation is the best approach to this issue. 
+Right?
+    Mr. Carson. That's correct.
+    Mr. Stearns. And so when you say misappropriation, you are 
+talking about products versus rights of facts. Is that a good 
+interpretation of what misappropriation is? In other words, you 
+are saying misappropriation as a rule could be used to say that 
+the facts themselves as developed could be used as property, 
+products. No? Why don't you define misappropriations for me.
+    Mr. Carson. No. Misappropriations--in fact on the opposite 
+end of the spectrum from the property right--is an aspect of 
+unfair competition, Mr. Chairman, and therefore the--basically 
+the focus of a misappropriation claim would be the act of 
+competition, the taking of someone else's database and using it 
+in competition with them.
+    Mr. Stearns. Okay. Now, in the Supreme Court International 
+News Service v. Associated Press, do you believe that it is 
+necessary for that approach to closely track the language that 
+is in that decision?
+    Mr. Carson. I don't think it is necessary, Mr. Chairman. I 
+think it is probably the minimum. It is my understanding that 
+this discussion draft, in fact, is an attempt and not a bad 
+attempt to track the language in the INS decision and 
+subsequently the NBA decision which also follows that, but it 
+doesn't necessarily have to be that narrow.
+    Mr. Stearns. And yet in the Supreme Court decision with 
+Feist, it says no copyright protection for noncreative 
+databases no property right. Now, does that go against what you 
+just said?
+    Mr. Carson. Not at all. It is talking about copyright. We 
+are not talking about copyright here. We are talking about an 
+entirely different species of protection.
+    Mr. Stearns. So you would agree that what the bill in 
+tracking the INS decision is the appropriate way to go?
+    Mr. Carson. We would think that that is an appropriate way 
+to go, I think, is how I would put it.
+    Mr. Stearns. An appropriate way.
+    Okay. Mr. Donohue, how do you respond to the specific 
+example cited by Mr. Kupferschmid of court cases that have not 
+offered protection to databases? And we hear all the time, you 
+know, that there is no protection for these databases. What 
+would be your response that the courts are not helping out?
+    Mr. Donohue. Well, we have a couple of examples here of 
+legal situations that narrowed the scope of what is protected, 
+and therefore, it is seen to be not helping out. The issue 
+here, you know, we have gone through a phenomena over the last 
+10 years in this country in the expansion of databases that are 
+no longer held in our hand. We look at them on the screen or we 
+pull them off from an electronic system. We have gone through 
+the whole question of taxing and how do you pay for these 
+issues and the protection and privacy.
+    This issue is so small compared to everything else, I would 
+not argue with you, Mr. Chairman, that you somewhere can find 
+someone that was injured; but the preponderance of evidence is 
+that the benefits far outweigh the loss in terms of what is 
+happening with this valuable information without intentionally 
+injuring anybody's economic well-being. What is the benefit for 
+our society versus--and you have to ask a question, why do we 
+really want this legislation? Do we want it because every day 
+people have economic loss or intellectual property loss? Or do 
+we want it because certain people are looking for a way to 
+perhaps capture information for their own economic gain? And I 
+am not suggesting that that is the only interest here.
+    What I am suggesting is that our members, AT&T and Yahoo 
+and Bloomberg and Schwab and people that maintain extraordinary 
+databases are saying, Tom, we are not being injured. We don't 
+really think this legislation is going to help. And what it is 
+going to be is a retirement opportunity for certain class 
+action or mass action or straight-action lawyers. We don't need 
+this type of new legislation, because we don't have a problem 
+to fix.
+    I wouldn't argue, though, Mr. Chairman, that a very smart 
+guy from a good organization that it itself is divided on this 
+issue can't find an exception or a circumstance where somebody 
+was injured.
+    Mr. Stearns. My time has expired. You probably could have 
+touched on the fact that the bill allows for quadruple damages.
+    Mr. Donohue. I said that in my testimony.
+    Mr. Stearns. Okay.
+    Mr. Berman.
+    Mr. Berman. Thank you, Mr. Chairman. Just to clarify, Mr. 
+Donohue, you are not saying that there is something inherently 
+wrong when people try to capture information for their economic 
+gain, are you?
+    Mr. Donohue. No. As a matter of fact, that is what I 
+represent on a fair and equitable way without disadvantaging 
+others through the use of the Government.
+    Mr. Berman. Mr. Carson, the ACLU writes in opposition to 
+the draft legislation they raise first amendment concerns, 
+which I think the Committees should appropriately--should 
+consider and give way to, but they also state that the 
+copyright clause of the Constitution stands as an affirmative 
+bar to protection of unoriginal compilations of facts and that 
+therefore the draft bill violates the copyright clause. While 
+Chairman Stearns didn't quite say that in his opening 
+statement, he came pretty close to saying that. What does the 
+Copyright Office think of this assertion that the copyright 
+clause of the Constitution prevents Congress from protecting 
+facts and that the bill attempts to evade an important 
+Congressional limitation on--constitutional limitation on 
+Congressional power?
+    Mr. Carson. Mr. Berman, clearly the copyright clause 
+prevents Congress from protecting facts through the vehicle of 
+the copyright laws, and there is a pretty good argument that 
+the copyright clause might as well prevent Congress from 
+protecting databases through conferring a property right that 
+is essentially the same as a copyright on database producers; 
+but the copyright clause does not speak to Congress's power 
+under the commerce clause to regulate competition in this 
+industry if what the legislation is in fact regulating is that 
+competition and is not conferring exclusive rights, which is 
+the copyright package and which is what the copyright clause, 
+in fact, addresses.
+    Mr. Berman. Thank you.
+    Dr. Wulf, you argue that new database legislation is 
+unnecessary because the DMCA copyright laws, trespass actions 
+and contracts provide database producers with adequate 
+protection, yet many of the organizations that you represent 
+today advocate in other contexts rolling back the DMCA, 
+weakening copyright law and placing Government limitations on 
+the freedom to contract in the form of compulsory licenses and 
+things like that.
+    Isn't there an inconsistency between these positions? The 
+organizations you represent appear to be proposing that we take 
+away the very protections that they assert through you, provide 
+adequate protection to database creators. Will they support 
+strong database legislation if they succeed in rolling back 
+protection in these other areas?
+    Mr. Wulf. I think inflating the two issues is probably a 
+mistake. You are absolutely right, there are organizations 
+which have differing views from my own on some of these issues. 
+I happen to have been an entrepreneur who spun out from a 
+university and started a software company and intellectual 
+property rights in software which is very much a gut issue for 
+me.
+    Mr. Berman. I don't think I inflated the two issues. I 
+think the organization you represent has.
+    Mr. Wulf. I am representing those organizations with 
+respect to this particular bill and not with respect to 
+everything that they have ever said or done.
+    Look, I think the essential point here is--and by the way, 
+you probably know that in earlier testimony we said--we, the 
+academies, not everybody I represent here, said that we thought 
+there was potentially a gap that needs to be filled. Things 
+have happened since then. We need to now, I think, stand back 
+very carefully and ask whether the things that have happened, 
+like the Digital Millennium Copyright Act, have closed that gap 
+to the point where this legislation is no longer needed. I was 
+not advocating not doing it. I am advocating taking a very 
+careful look.
+    Mr. Berman. At whether or not the DMC----
+    Mr. Wulf. Whether that gap still exists.
+    Mr. Berman. And if it doesn't, it is because the Digital 
+Millennium Copyright Act may have closed that gap.
+    Mr. Wulf. And the Computer Fraud and Abuse Act and new 
+technology in cryptography and, you know, a lot of things. It 
+is not the one thing.
+    Mr. Berman. Thank you very much, Mr. Chairman. I yield 
+back.
+    Mr. Stearns. I thank the gentleman.
+    Mr. Keller, my colleague from Florida.
+    Mr. Keller. Thank you, Mr. Chairman. Let me begin with Mr. 
+Kupferschmid. I was taking some notes when Mr. Donohue was 
+speaking. He said there is no real world example of a database 
+not protected under current law. I got the gist of his 
+testimony was there is not really a problem, because you have 
+the adequate existing laws to cover it. If you were speaking to 
+a sixth grade class, what would you say is a real word example 
+they could relate to that is not protected by existing law?
+    Mr. Kupferschmid. Well, the example I would give them would 
+probably be Ticketmaster v. Tickets.com, because that involved 
+concert information. So why not go with that since we are 
+dealing with a teenage crowd here. In that case, Tickets.com 
+originally deep-linked to the information in Ticketmaster's Web 
+site. Ticketmaster didn't want them to do that, so they were 
+able to use technology to prevent them from deep-linking. The 
+technology didn't work because Tickets.com then came and sent 
+out a Spider, Robot, Web Crawler, whatever you want to call it, 
+and copied the information and put it into their database. So 
+Ticketmaster then sues Tickets.Com since the technology didn't 
+work.
+    Well, Ticketmaster then sues for four claims. They sue for 
+copyright infringement, misappropriation law, breach of 
+contract and also trespass law. Guess what? They lost on all 
+four claims. They lost on copyright because there was no 
+copyrightable expression in the concert data that was taken. 
+They lost on misappropriation, because there is a ``hot news'' 
+misappropriation requirement, and the information was not 
+considered to be time-sensitive or highly time-sensitive under 
+that criteria.
+    Under breach of contract theory, there was held to be no 
+contract. This was just a Web page with terms and conditions at 
+the end. Browse wrap licenses like that are usually not 
+enforceable.
+    And lastly in trespass, this was the same court that heard 
+the trespass claim in the eBay Bidder's Edge case; but yet, 
+they turned around and said there was no damage to a server or 
+any type of damage to hardware that Ticketmaster had and 
+therefore there was no trespass. So they tried technology, it 
+didn't work. They tried contract, it didn't work. They tried 
+misappropriation. They tried trespassing. They tried copyright. 
+All out of luck. They lost. That is a typical case.
+    Mr. Keller. That is a sophisticated sixth grade class. All 
+right. In fairness to the other side, Mr. Donohue let me ask 
+you a tough question here. You argue that there is essentially 
+not a problem, because existing laws offer protection in a 
+database. At least that is how I inferred your testimony. 
+However, I understand that some opponents, including I guess 
+some of your members such as Bloomberg, are making arguments in 
+court now such as the day star versus 20th century case, the 
+one they signed on to, that the current protections provided by 
+contracts, State laws on trespass and the Computer Fraud and 
+Abuse Act should be precluded from protecting databases.
+    How do those two positions coexist?
+    Mr. Donohue. A sixth grade answer?
+    Mr. Keller. I hope so. That is all I can understand up 
+here.
+    Mr. Donohue. My first argument is there is not a repetitive 
+compelling problem of any size or shape that would compel the 
+Congress of the United States to act and pass new legislation. 
+My second issue is that we heard what the court didn't do and 
+regularly doesn't do with the occasional case that it gets. I 
+think that deserves some consideration in terms of maybe what 
+is happening is people are using, for the most part, 
+information that should be available. I make no argument for 
+even a sixth grader that there aren't occasional problems that 
+we would all feel badly about, but we don't need a massive new 
+set of legislation that is going to give the trial lawyers a 
+whole new retirement program just to deal with those occasional 
+issues. Thank you very much to the sixth grade.
+    Mr. Keller. Well, if this legislation had the 
+misappropriations standard, which I think you previously wanted 
+and didn't have, the quadruple penalties and had a couple of 
+other things that were changed, would this be something that 
+you think would merit support or do you think it is just a 
+fatally flawed idea from the get-go?
+    Mr. Donohue. Well, for the reasons I expressed, I rather 
+think it is flawed. Of course, any time the Congress and the 
+Committee with smart people like this change a piece of 
+legislation around and narrow its scope, we would always look 
+at it and we would look at it thoughtfully.
+    What I am commenting on is the draft that was put before 
+us, and that would be a mistake for this Committee to advance.
+    Mr. Keller. Thank you, Mr. Chairman. I have nothing 
+further.
+    Mr. Stearns. I thank my colleague.
+    The Ranking Member on the Commerce Consumer Protection and 
+Trade, we welcome her, Ms. Schakowsky.
+    Ms. Schakowsky. Mr. Kupferschmid, Mr. Donohue said that he 
+has members of his association which has taken a very strong 
+position against this legislation who themselves have 
+databases, and I am trying to understand then what the 
+difference is between the interest that you represent and the 
+interest--and I would welcome Mr. Donohue's comment as well. If 
+one segment doesn't have a problem, are you just finding--you 
+know, as Mr. Donohue has suggested--a couple of examples but 
+that industry wide it is not a major problem that needs our 
+addressing?
+    Mr. Kupferschmid. I think the difference between the number 
+and the types of database producers that we represent compared 
+to the chamber of commerce, I think it is significantly 
+different. We have in our coalition here 70 companies that are 
+pure database producers that are supportive and they know that 
+there is a need for legislation. I won't speak for the Chamber. 
+I will let Mr. Donohue speak for himself, but I highly doubt 
+that there is that number of companies in his association 
+interested in this issue. I know he referenced the fact that we 
+are divided on this issue. Nothing could be further from the 
+truth. I mean, SIIA and CADP are very supportive of database 
+legislation protection, and recognize the need for it. The 
+coalition against database piracy, which involves members like 
+Dow Jones, eBay, the Newspaper Association of America, McGraw-
+Hill, the National Association of Realtors, and smaller 
+companies like Carfax and Berkshire Publishing, they are all 
+supportive and there is they believe that there is a definite 
+need. These are companies that their business is producing 
+databases.
+    Ms. Schakowsky. Mr. Donohue.
+    Mr. Donohue. Thank you very much for the opportunity to 
+comment. First, we have more than 3 million members. We have a 
+majority of the major database holders as our members. The list 
+that you have been submitted on the other side has 14 
+subsidiaries of one company, has a number of people, who I 
+think if they had an opportunity to review this legislation 
+might have another view, but let me say, Congresswoman, that 
+the interesting thing about my job is not dealing with the 
+Congress, because that is easy.
+    It is dealing with my members. But the great majority of 
+our members have made it very clear that an added legislation 
+that opened up this litigation problem and that made it more 
+difficult for people to use their product and access their 
+information would be a difficulty for them. And if the 
+Committee would like, I would be very happy to give you an 
+extensive list. I think it would be a little longer than the 
+one over here.
+    Ms. Schakowsky. Thank you. I am looking at the letter from 
+the American Civil Liberties Union, and one of the issues that 
+they raise is the issue of subpoena powers. They say subpoena 
+powers pose serious privacy concerns. Section 7 of the bill 
+gives database owners broad subpoena powers with no judicial 
+discretion. A clerk must grant a subpoena as long as the 
+proposed subpoena ``is in proper form,'' and that ``the 
+accompanying declaration is properly executed.'' there is no 
+prescription for due process protections or even a requirement 
+that an applicant may prime fascia demonstrate that a proposed 
+defendant has, indeed, violated the law before violating her 
+privacy.
+    This lack of privacy related safeguards seem ripe for 
+abuse. I don't know if it is Mr. Carson, Mr. Wulf who would 
+want to comment on that.
+    Mr. Carson. Yes. This is an issue that goes certainly 
+beyond this particular bill. And let me make clear that we have 
+no particular position whether such a provision is appropriate 
+in database legislation. I think we would need to hear the case 
+to be made for that. But to the extent that you are referring 
+to a controversy that is very much in the air with respect to 
+section 512 of title 17, which does have the process that you 
+described, we are quite familiar with that and we think most of 
+the complaints that you have just described frankly have very 
+little to them when you peek beneath the hood.
+    The fact of the matter is that the types of problems that 
+people have claimed exist in that respect first of all are to 
+some extent obviated by the protections that are built into 
+section 512 of title 17, some of which are not in this 
+discussion draft, and we think that if you continue to consider 
+such a provision in this discussion draft you need to consider 
+including such provisions--in particular provisions that 
+require that before you get the subpoena you file something 
+with the court that lays out the basis for your need, including 
+identifying what work is being infringed and where you can find 
+the infringing material.
+    Beyond that, though, what you have described, if you think 
+about it, isn't so very different from what happens every day 
+in civil litigation. Subpoenas are issued by attorneys in civil 
+litigation without any judge reviewing them. They can seek 
+information about third parties. The third party has no right 
+even to be aware that it is being sought from the person to 
+whom the subpoena is directed until after the fact. So what you 
+are describing is simply a matter of fact, every day in civil 
+litigation in this country.
+    Mr. Kupferschmid. If I could just supplement what David 
+said, and I agree with everything that he said. To give some 
+context to this, the subpoena provision that is in this bill 
+was drafted at the very outset when the negotiations over this 
+draft legislation had first started. As we all know, a lot has 
+changed over that period of time. But at the time when this 
+provision was drafted the ISPs were supportive of this exact 
+provision that is in the bill. Like I said, I know a lot has 
+changed in the legal regime certainly within those 3 years, but 
+this remains to be an important provision to database 
+producers. We will be, willing to discuss changes to it or to 
+address their concerns, as I mentioned before, if that is 
+necessary.
+    Ms. Schakowsky. Did you want to say anything?
+    Mr. Wulf. I am not a lawyer and so I would be happy to 
+respond in writing if that would be all right. I must admit 
+that what I just heard, however, as a layman scares me.
+    Ms. Schakowsky. It is disturbing, isn't it?
+    Mr. Wulf. Yes.
+    Ms. Schakowsky. Thank you, Mr. Chairman.
+    Mr. Stearns. Gentleman from New Jersey, Mr. Ferguson.
+    Mr. Ferguson. Thank you, Mr. Chairman. I am not a lawyer 
+either, thankfully. We are beating up on lawyers a good bit 
+today and I usually will jump right in there. I have the AT&Ts 
+of the world in my district. I also have Reed Elsevier, 
+Martindale Hubbell in my district. They obviously are coming at 
+this issue from different sides. I think some very good points 
+have been made quite articulately by our panel today, and I 
+appreciate all of your testimony. My concern is with this 
+chilling effect that we have heard talked about and actually if 
+I am not mistaken it has been cited on both sides of this 
+debate and this conversation. And to Mr. Donohue I wanted to 
+kind of engage you a little bit on this.
+    As I have said, I wholeheartedly agree with you and the 
+Chamber on the need for tort reform, for less litigation, for 
+all of the above and you know I have been a loyal foot soldier 
+in that battle and will continue to be.
+    Mr. Donohue. Thank you, sir.
+    Mr. Ferguson. And I certainly can appreciate the desire to 
+stay away from increased litigation, increased frivolous 
+lawsuits, et cetera, in the future. And I agree that frivolous 
+lawsuits, litigation trial lawyers, et cetera, have had a 
+chilling effect on business job creation, et cetera, in a whole 
+host of areas. My concern is that--and the way I am seeing this 
+kind of break down a little bit and also with what I have heard 
+in our own office, from folks in my district on various sides 
+of this, is that the folks who are somewhat in the database 
+business, like the AT&Ts of the world, but who have many other 
+business interests are not as interested in this legislation or 
+certainly not supportive of it because they see it as more of a 
+litigation magnet rather than a protection for their business. 
+And the folks at, say, Martindale Hubbell, for instance, and 
+Reed Elsevier, this is their entire business. So they are much 
+more interested in these protections that they would be 
+afforded and their products would be afforded under this 
+legislation. And my question, I guess, is what about the 
+chilling effect on the database collection and management 
+companies? What about the--I guess we are talking about--we 
+have discussed a little bit about a problem that may or may not 
+exist. But some of what we do in the Congress, as you know, is 
+trying to preempt problems that may exist in the future. Maybe 
+we see examples of now, but may become much worse. And there 
+are companies who would probably be doing a lot more 
+investment, a lot more work, a lot more with regard to database 
+collection and providing products to their customers, but maybe 
+aren't doing so today because they know they don't have the 
+protections.
+    What are your thoughts on kind of the opposite kind of 
+chilling effect?
+    Mr. Donohue. Well, first one sentence to say thank you for 
+your appreciation of the legal questions here and the 
+possibility that this draft would create far more legal 
+difference of opinion and therefore far more cost and, by the 
+way, in those circumstances much less likely for people to 
+invest in database expansion. Second, I think you have to look 
+at the record, and the record is that the database business and 
+the products they are producing become more sophisticated, more 
+expansive and more helpful every day. And the question is, and 
+you could ask that sixth grade class about it because they even 
+use it, the question is what benefit would we get in size and 
+scope to encourage investment, to expand databases or to make 
+us more comfortable with this legislation? And I think there 
+have been some good arguments made here. But I think that the 
+potential, talking about potential difficulty is far more 
+expansive than the potential benefit.
+    If somebody came back and brought a lot of these 
+extraordinary people that run this business in here and they 
+laid out a whole series of economic and intellectual property 
+and business difficulties, I would listen because you know 
+what, those people would be my members. But that is not what is 
+going on right now. And I understand that you have a split in 
+your district. But it is pretty clear that we ought not fix it 
+if it is not broken.
+    Mr. Ferguson. But what we are hearing from a number of 
+folks, 70 some folks or however many, even it was five, that 
+say that there is a problem.
+    Mr. Donohue. Right. Then I would want to dissect the 
+problem a little more carefully and I would recommend that 
+before you passed a piece of legislation that will affect the 
+information base of an information based economy that is 
+absolutely dependent on it for economic expansion and the 
+creation of future jobs in this country.
+    Mr. Ferguson. Very quickly, Mr. Chairman. I know my time is 
+up. You talked about the vague terms of the draft bill and the 
+excessive penalties. I think there probably is going to 
+continue to be a very healthy debate on that. I think probably 
+a lot of us who maybe agree with some points on one side would 
+agree with other points on the other side. If some of those 
+issues were resolved, if this were narrowed and sharpened a 
+little bit, could you see an instance where you could be 
+supportive of this bill?
+    Mr. Donohue. You know I testify a lot here and I like to be 
+very clear, not, you know, take some of the points that others 
+do. But allow me the protection of saying I would have to see 
+it and talk to my members. But from everything I see now, I am 
+opposed to and it would have to be significantly changed.
+    Mr. Ferguson. I know my time is up.
+    Mr. Donohue. Thank you very much.
+    Mr. Stearns. I thank the gentleman. Mr. Boucher, the 
+gentleman from Virginia.
+    Mr. Boucher. Well, thank you very much, Mr. Chairman. I 
+want to thank these witnesses for being with us today and 
+sharing your views on the subject. You have presented to us 
+well prepared and thoughtful testimony.
+    We find ourselves, I think, at a fairly curious juncture 
+here. The bill that is before us in draft form is said to be a 
+compromise between the Commerce and Judiciary Committees. I 
+have the privilege of serving on both of those Committees. I 
+may be the only Member here who has that opportunity, and I 
+have had some conversations with many Members of the Commerce 
+Committee in particular about this measure, and I don't believe 
+there is a single Member of the Commerce Committee who is 
+prepared to support this bill. And so I find it very curious 
+that it is being presented today as a compromise measure with 
+the two Committees participating and putting forward this 
+consensus draft. I really find it to be very much to the 
+contrary.
+    I oppose this measure also, and I want to commend Mr. 
+Donohue in particular for his statement today. I think it was 
+compelling. I think it was incisive. I think he hit all the 
+right points. The remedies that are available under copyright, 
+under trespass, under misappropriation, under contract law 
+itself have proven successful in the cases that have been 
+litigated in protecting databases where there were genuine 
+harms that would arise from the taking of facts within that 
+database. To legislate at this point, I really think, in the 
+absence of a clearly delineated problem that requires a 
+solution, is simply mischievous and would create an anti-
+competitive effect, potentially locking away facts that are 
+available to the public today and, at a minimum, requiring that 
+people pay for facts that are free and available for public use 
+presently.
+    And then, as many Members and some of the witnesses have 
+indicated, there are very substantial constitutional concerns 
+about this measure. So put me down among the opponents. I think 
+the best course we could take is to put this aside and go on to 
+our more urgent legislative business.
+    Having said that, I just want to ask a couple of questions 
+and, Mr. Carson, I am going to direct these to you. First of 
+all, I am a little bit perplexed by your answer about the 
+subpoenas. What the bill authorizes is subpoenas being issued 
+before any lawsuit has been filed. Now, you talked about the 
+normal discovery process in which lawyers issue subpoenas in 
+civil litigation. But you know there is a fundamental 
+difference between that kind of circumstance and the 
+circumstance presented by this bill. In the circumstance you 
+cite a lawsuit is pending. And in that pending litigation, if 
+the person to whom a subpoena is directed believes that there 
+is some impropriety in that discovery, he has the opportunity 
+to go to the judge before whom that case is pending and seek an 
+order that protects him from this abusive and improper 
+discovery. That happens all the time in our litigation. Under 
+the provisions of this bill that could not happen.
+    Mr. Carson. Not at all true, Mr. Boucher. Not at all true. 
+And again I am focusing primarily on what we find in section 
+512.
+    Mr. Boucher. What is not at all true?
+    Mr. Carson. It is not at all true that someone under this 
+bill would be at a disadvantage with respect to someone who is 
+the subject of a subpoena in pending litigation.
+    Mr. Boucher. How does a person under this bill go to a 
+judge and say, Judge, protect me from the issuance of this 
+subpoena or from having to comply with the requirements of this 
+subpoena? How do you do that? You would agree, would you not, 
+that you can do that this regular civil litigation?
+    Mr. Carson. You can do it under 17 USC section 512 and 
+although I haven't studied the provision in this discussion 
+draft and I am certainly not here to suggest that it needs to 
+be in here--we have no view on it--assuming that this does 
+track what is in section 512, the subpoenas issued pursuant to 
+section 512 are subject to the Federal Rules of Civil 
+Procedure. In fact, under section 512 people have gone to the 
+District Court here in Washington to seek protection.
+    Mr. Boucher. But you would have to go ab initio. You would 
+have to initiate your own proceeding before the court while 
+there is no judge sitting overseeing that case.
+    Mr. Carson. That is not how it works, Mr. Boucher.
+    Mr. Boucher. Well, you and I have a difference of opinion 
+about that and it is obviously something that would need to be 
+examined. I would continue this discussion with you except that 
+I have one other question of you and my time is almost up.
+    I find another series of provisions in this bill to be 
+curious and I wonder how they can coexist. Perhaps you can help 
+me with this. One of those is the requirement of time 
+sensitivity before the protections this bill would extend to 
+database creators would apply. The other is the fact that this 
+bill is made retroactive. Can you give me an example of a 
+database that contains facts where the protection of those 
+facts is required because of their time sensitivity, where that 
+database is already in existence?
+    Mr. Carson. Mr. Boucher, I actually hadn't studied the bill 
+to the point where you saw the retroactivity provision. We have 
+already expressed our concern about the vagueness of the time 
+sensitivity provision.
+    Mr. Boucher. I appreciate that you are not prepared to 
+answer the question.
+    Mr. Carson. No, Mr. Boucher. That is not exactly what I 
+said, sir.
+    Mr. Boucher. Well, go ahead if you have an answer.
+    Mr. Carson. I have said already we have problems with the 
+time sensitivity provision because we think it is ambiguous and 
+we have already expressed that if the time sensitivity thing 
+carries over for a long period of time there may be problems.
+    Mr. Boucher. Thank you, Mr. Carson. Thank you, Mr. 
+Chairman.
+    Mr. Stearns. Ms. Baldwin. Yes.
+    Ms. Baldwin. Thank you, Mr. Chairman. Thank you all for 
+being here today. I appreciate your testimony. As the people 
+have been asking questions before, there has been disclosure, 
+so I am a lawyer, but much more importantly, I am the 
+granddaughter and niece of scientists and both belong to one 
+the organizations that Mr. Wulf is representing today. I also 
+represent a major research university, the University of 
+Wisconsin, Madison campus, and so have very strong concerns 
+about the impact of this on the conduct of science.
+    But before--just as a--given the draft in front of us, 
+there is a question of course of the need for this legislation. 
+If there is need for additional protection for digital 
+databases, I would think that those could ultimately benefit 
+universities and university research efforts both by providing 
+greater incentives to create databases and providing additional 
+protection for university created databases. But obviously I 
+have heard a lot of very generalized concerns from the 
+scientific community about the potential harmful effects of 
+overprotection of databases.
+    Mr. Wulf, if you can, somewhere between the sixth grade 
+level and the post-doctoral level, elaborate on some of your 
+concerns about the overprotection of databases and its impact 
+on the conduct of science, and especially I want to tease out 
+some details from you, if you can identify some real or 
+hypothetical examples of what might be in store if this 
+legislation were to pass as is.
+    Mr. Wulf. I think something--let me address an issue that 
+you mentioned and that is the value potentially to universities 
+and to researchers of having protection in databases. I have 
+spent about two-thirds of my career in academia and something 
+that is kind hard for people to understand sometimes is that 
+the real motivation, the real inducement for academics to do 
+research is not financial. It is rather peer recognition, and 
+that tends to argue in favor of as much free flow of 
+information to your peers as possible. So I am not at all sure 
+that in fact additional restrictive legislation here would be 
+beneficial.
+    The term ``chilling'' has been used a couple of times here, 
+and I think that is another point that needs to be made. 
+Academics tend to be risk averse. And we will of course never 
+know what they decide not to do because there might be a 
+potential litigation. But academics will, by and large, stay as 
+far away as possible from the potential of litigation. So again 
+we are talking about lost opportunities. We are talking about 
+opportunity costs. Those are very hard to measure. But one 
+should never make the mistake of thinking that because they are 
+hard to measure they are not real. They are very real.
+    I think some of the kinds of issues that we worry about 
+include access to Government generated information. We worry 
+about access to information generated by sole sources. Much of 
+the scientific data that is collected is observational and it 
+happens at a moment in time with an instrument being available. 
+It is not reproducible. And if that kind of information became 
+inaccessible because of excessive protection, it could have a 
+tremendously chilling effect on the conduct of research. We 
+typically--I shouldn't say typically. Often, often enough to be 
+scary--cannot predict what the use of a database will be. The 
+existence of the ozone hole over Antarctica was verified using 
+databases which had been collected for an entirely different 
+purpose at an entirely different time with no anticipation of 
+this kind of use.
+    So if access to information that you could not predict 
+would be needed, were restricted, we might not still know about 
+the existence of this enormously environmentally dangerous 
+ozone hole.
+    Does that help?
+    Ms. Baldwin. Yep. Thank you.
+    Mr. Stearns. Mr. Delahunt.
+    Mr. Delahunt. Mr. Wulf, I appreciate the concerns that you 
+articulated. You used the term ``risk averse and chilling 
+effect.'' I will tell you what my concern is, that database 
+providers are for profit corporations, and capital oftentimes 
+is risk averse. And I thought Mr. Donohue's observations were 
+correct. You know, his judgment there is not a problem. We hear 
+that there was a case, I think it was the Schoolhouse case and 
+other cases that Mr. Kupferschmid referred to or alluded to 
+during the course of his testimony. It is my belief that there 
+is a problem. But clearly there is a perception among the 
+database community that there is a problem. I know if I were to 
+invest or I know if I were, you know, corporate management and 
+I had capital to invest, I would be looking for new 
+opportunities to diversify. And the concern that I have is all 
+of these great achievements that really have come about because 
+of database and access to information we will not maintain that 
+here in the United States, we will not maintain the level of 
+current data to give us a competitive advantage. And the kind 
+of research that the academies have been interested in will be 
+provided by our, you know, European data providers, data 
+companies. That is the concern that I have.
+    Now, I think that is a potential problem that impacts 
+exactly what you are talking about because I sense that--and we 
+are only starting to see in the aftermath much of what was 
+accomplished in terms of the advances that I and others have 
+alluded to was based on work that was protected prior to the 
+Fist case. Now we find ourselves in uncharted waters here, and 
+what I am concerned about is the potential for, again, these 
+data--the database industry diversifying and not investing the 
+kind of resources that are necessary to maintain that absolute 
+current state of data and access to information that provides 
+our scientific community and our economy the kind of advantages 
+that we have enjoyed. I don't know. Would you care to comment 
+or anyone for that matter?
+    Mr. Wulf. Well, I could only repeat myself. We clearly have 
+an innovation system in this country that works. It is an 
+innovation system which is fed by the basic research done in 
+our academic research universities. We just need to be very 
+careful that we don't destroy that in the process. The point I 
+tried to make in my oral testimony was----
+    Mr. Delahunt. Right, and just let me interrupt because we 
+don't have a lot of time. But I agree with that. And I think 
+you testified and it was my understanding that this particular 
+draft that is before us was generated as a result of the 
+various groups whom you testify in behalf of and others sitting 
+down and trying to develop a consensus so that the concerns you 
+express are addressed. Now, presumably, fine-tuning is 
+required. But I guess the bottom line question is who is right? 
+Is it Mr. Kupferschmid or is it Mr. Donohue? You know, is there 
+a problem? If there is a perception of a problem, you know 
+what, there is not a lot of folk that are going to be running 
+out looking to invest in database.
+    Mr. Kupferschmid. If I could interject here, I mean there 
+are actually numbers that bear that out. In 1996, the EU data 
+base directive was passed. Since that time the percentage of 
+U.S.-produced databases has shrunk from 69 percent to 60 
+percent .
+    Mr. Delahunt. Well, this is the kind of information I think 
+that this Committee needs. And Mr. Donohue?
+    Mr. Donohue. Well, if you take the primary--the company 
+that has really been behind a lot of this discussion, Reed 
+Elsevier, they have made 20 some acquisitions since 1991, spent 
+in excess of $7 billion and a lot more than that. Those are the 
+numbers that I have here, and their operating margins are still 
+annually over 20 percent. So one might understand why they want 
+to protect their product. But they certainly think it is a good 
+business because they keep expanding it every year and they are 
+getting a hell of a return. I might buy some stock now that I 
+am looking at this.
+    Mr. Delahunt. Well, I will take a look myself. But I guess 
+my question is these new acquisitions, are they an effort to 
+diversify to protect themselves from the kind of liability that 
+I presume they fear that they have, so that, you know, if their 
+stuff continues to get pirated or if any of it gets pirated 
+they are out of--you know, they continue to survive. I don't 
+know. Now, I know that you read that Wall Street Journal, you 
+know, religiously. And maybe you can tell us whether those 19 
+acquisitions were an effort to diversify or are they just 
+simply building on the so-called core business?
+    Mr. Donohue. Well, Congressman, if we were on their board 
+we would have encouraged the acquisitions because they did 
+diversify their fact base to attract a broader group of fact 
+users. But that is not the question here and, as my colleague 
+said, this isn't an argument about fact. This is an argument 
+about structure and access to that fact. And what I am having 
+difficulty with is the question of where is the problem? Now--
+--
+    Mr. Delahunt. Well, there was a problem in that Schoolhouse 
+case. 74 percent, that web of laws that you were referring to 
+in your testimony certainly didn't protect that individual.
+    Mr. Donohue. Well, then maybe we ought to go back and look 
+at the case and maybe find out, maybe it didn't deserve to be 
+pro-investigated. Look, I think this joint Committee has done a 
+very useful thing here, because you are having what amounts to 
+a colloquy on the subject, which--and I want to congratulate 
+you on that and tell you I think that is essential and I think 
+you have learned a couple of things, that we are worried about 
+the litigation side of this, that we are very concerned about 
+finding the problem before we get the solution, and that there 
+is legitimate concern on the part of some people about going 
+forward that they protect their assets. Well, what role should 
+the Committee and the Congress have in that and what is in 
+place to do it now, and I think it has been a good discussion 
+and I appreciate the opportunity to participate.
+    Mr. Kupferschmid. If I could respond. I think Mr. Donohue 
+has done a marvelous job sort of redirecting the questions and 
+staying on script. But this isn't about you know, one company. 
+This isn't just about, Reed Elsevier. There are lots of other 
+companies, a lot of mom and pop companies like Schoolhouse, 
+like Berkshire Publishing, like Carfax, other smaller database 
+producers that are having problems with database piracy. These 
+are companies that really put all their money, all their 
+investment into this one database and if this database is 
+pirated they are out of luck and they are out of business. And 
+so this is not just a one company issue. Like I said earlier, 
+there are lots of members of CADP and they are all supportive.
+    What I have heard today is that I honestly don't think we 
+can come up with enough examples to ever satisfy Mr. Donohue. 
+He refers to the occasional case. We have got lots and lots of 
+cases and there are a lot of other cases that never make it 
+into the courtroom because the database producers are worried 
+about precisely what you are talking about, that people aren't 
+going to invest in the company or invest in the database if 
+they know how vulnerable the database is. And, you know, there 
+are thousands of realtors out there worried about their 
+databases being on pornography sites. It is a totally different 
+type of concern here. But there is definitely a problem here 
+that needs to be addressed.
+    Now, if Mr. Donohue doesn't want to recognize that, no 
+matter how many examples we give, I just feel that we will 
+never be able to satisfy him.
+    Mr. Stearns. The gentleman's time has expired. We certainly 
+are at a consensus we are not going to have a second round, and 
+we are going to let Chairman Smith close. Oh, okay. Yes, okay. 
+Someone has just come in. Ms. Lofgren, we welcome your 
+questions.
+    Ms. Lofgren. Thank you and apologies for my lateness. It is 
+United Airlines' fault. Let me just ask, I guess Mr. Carson or 
+whoever wants to answer it. This is not the first time that we 
+have visited this issue. And when last we passed something 
+through Judiciary, I filed a lone dissenting view that in my 
+judgment the measure we passed was--didn't meet the 
+constitutional standard. And actually I was sort of a fan of 
+the sweat of the brow doctrine. I thought it was a very nifty 
+little doctrine that served us well for many years. But we no 
+longer have that available. And I just--I am still not getting 
+how we can create a property right out of something that cannot 
+be copyrighted. And how we are--how this solves this problem. 
+Can anyone answer that for me?
+    Mr. Carson. The answer is that no one is proposing that you 
+do that, Congresswoman Lofgren. This is not a property right. 
+This is based on an unfair competition, misappropriation scheme 
+which deals with wrongful use of someone else's database in 
+competition with them. It is not an exclusive rights model such 
+as you find in copyright.
+    Ms. Lofgren. Well, I understand that. But ultimately I 
+think it dodges the question, which is in order to protect 
+something you have to have a property right that cannot be 
+created, that I can see. I mean how do you get past that?
+    Mr. Carson. You get past it by not giving anyone a property 
+right. This bill doesn't create any property rights whatsoever. 
+It is a right against unfair competition by people who use your 
+material in the same realm that you are using it in direct 
+competition with you in a way that threatens to destroy your 
+ability to continue in business.
+    Ms. Lofgren. Well, I think that is a great creative answer, 
+but I don't think it really answers the question. I don't know 
+if anyone else wants to address it but I think that is the meat 
+of what we face here.
+    Mr. Kupferschmid. Well, I will jump in here. I mean the 
+bill itself in the prohibition itself, forgetting about the 
+exceptions or exclusions in the bill, the bill itself has 10 
+requirements that any database producer must meet before their 
+database even gets protected here. I mean that pales in 
+comparison to previous legislation that has been out there, 
+where legislation would prevent use or extraction. It covered 
+the potential market here. It has got to be the functional 
+equivalent in the same market. I mean that is a long ways from 
+potential market or related market that were in previous bills. 
+It doesn't cover use of data or information or accessing a 
+database. All it does is cover making available a database in a 
+way that causes commercial harm, and then commercial harm is 
+even defined by a very high standard such that it has got to 
+substantially threaten the incentive to produce the database to 
+begin with. Along with lots of
+    other--you know, there are nine other requirements here 
+that I haven't even mentioned, so there is a very high standard 
+in the bill. Then when you do include the exceptions and the 
+exclusions here, it would be pretty difficult to prove that 
+there has actually been a violation here.
+    Mr. Donohue. So what we have here then is a limited 
+experience of a problem and a piece of legislation seeking to 
+solve that limited problem which has 10 standards and therefore 
+is probably not going to help very many people, and we have 
+clearly a divided industry, database industry, looking at the 
+legislation. I still think we have a solution looking for a 
+problem, and I hope we can be very careful in what we do.
+    Mr. Kupferschmid. With, these 10 criteria here we intended 
+to try to attempt to address the Chamber and other people's 
+concerns. In fact, when this whole process started back in 2001 
+the Chamber and the Libraries and the University Committee and 
+others provided a document to both Committees, and I will quote 
+exactly from that document in which they said they would 
+support a true misappropriation bill. For example, one which 
+closely follows the historic standards laid out in NBA v. 
+Motorola which would be constitutional and would not stifle 
+innovation, would not impede scientific progress and would not 
+ultimately hurt the growth of exciting new database products.
+    Well, we heard the message 3 years ago, or 2 years ago. 
+Here we are. We have got a misappropriation-based approach. One 
+based on NBA v. Motorola, and we are still hearing the same 
+message. It is a little frustrating because I am not sure what 
+else we can do.
+    Ms. Lofgren. I am not sure there is anything you can do. 
+Mr. Wulf, you looked like you wanted to say something.
+    Mr. Wulf. Well, I just--since you weren't here earlier, let 
+me repeat a little bit of what was in my oral testimony. It is 
+estimated that half of the growth in the GDP is due to the 
+innovation system, the advances in science and technology, two-
+thirds of the growth in productivity due to the advances in 
+science and technology. I am just a little bit concerned here 
+that a small amount of damage to that innovation system in 
+order to protect some pretty isolated cases where this might be 
+useful or appropriate is not the right trade-off.
+    Ms. Lofgren. Thank you very much. And given the lateness of 
+the hour, I will yield back the remainder of my time.
+    Mr. Stearns. I thank the gentlelady. Mr. Smith will 
+conclude. I will make just a general comment. Mr. Kupferschmid, 
+I think you have made a very strong argument and passionate. 
+Mr. Wulf is saying, you know, between the Digital Millennium 
+Copyright Act, the Computer and Fraud Act, as well as I guess 
+contract law dealing with trespasses, we should move very slow. 
+So maybe just a comment to you is to more narrowly define, 
+tailor your misappropriation statute and maybe come back again 
+at it is a possibility.
+    But at that I would look to my distinguished Chairman, 
+thank him again for his hospitality here having this joint 
+hearing and allow him to have the last word.
+    Mr. Smith. Thank you again, Mr. Chairman. Mr. Chairman, I 
+may have detected a very narrow thread of agreement here. 
+Admittedly it is probably only a nanometer wide, but it is 
+there. And it is this, that no one denies that there are at 
+least some databases that should be protected that are not 
+protected. Mr. Donohue and Mr. Wulf feel that those are 
+isolated cases and that we don't need legislation to address 
+them because they are not as widespread as Mr. Kupferschmid and 
+Mr. Carson believe.
+    What I wanted to do, Mr. Carson and Mr. Kupferschmid, is to 
+read part of your testimony or at least refer to part of your 
+testimony and ask Mr. Donohue and Mr. Wulf to reply and then 
+you can respond to their comments. The point here is that the 
+proposed legislation does erect very high hurdles, very high 
+standards that have to be met before anybody is liable for 
+piracy of databases.
+    Mr. Carson mentioned in his written testimony that 
+basically the legislation codifies the five elements of the 
+Motorola case. Mr. Kupferschmid mentioned in his testimony that 
+the draft legislation creates a narrowly focused prohibition 
+that applies only if 10 criteria are met. So my question really 
+for Mr. Donohue and Mr. Wulf is that, can you think of any 
+example of someone who would meet all these requirements, all 
+these criteria and still be liable for piracy of databases? In 
+other words, aren't these pretty narrowly drawn and maybe your 
+concerns are unwarranted?
+    Mr. Donohue first, then Mr. Wulf.
+    Mr. Donohue. Thank you, Mr. Chairman. I have observed 
+during my recent tenure at the Chamber over 6 years the work of 
+plaintiffs lawyers up close, and they can find the history of 
+the world written on the head of a pin, and we are creating a 
+piece of legislation with extraordinary penalties in it that 
+will open up a new retirement program.
+    Mr. Smith. If we set aside the penalties and just focus on 
+the criteria though, are there any of those criteria that you 
+feel are too broad?
+    Mr. Donohue. I don't have the 10 criteria here sir but I 
+would just say very specifically, if there is overwhelming 
+evidence of economic and intellectual property loss because of 
+behavior against databases I have not seen it. If it is there 
+we want to see it and we would be helpful.
+    Mr. Smith. Okay, good. Mr. Carson, can you respond very 
+quickly or perhaps Mr. Kupferschmid?
+    Mr. Carson. Mr. Chairman, I don't have fact patterns at my 
+fingertips, maybe Mr. Kupferschmid does, where I can tell you I 
+know of real world cases that would fall into this. Again there 
+was the INS case, there was the NBA case. That is what these 
+are taken from. So certainly there have historically been such 
+cases.
+    Mr. Smith. Exactly. Thank you.
+    Mr. Kupferschmid.
+    Mr. Kupferschmid. Certainly the goal of this bill was to 
+provide a very narrowly tailored misappropriation free riding 
+type approach to database piracy, something that would address 
+the concerns of the database user community while also 
+providing fairly narrow protection. I think the bill comes 
+pretty close to that mark and the cases that we have described, 
+I think, in most cases although, I don't know all the facts in 
+those cases--would be covered by the draft bill under those 
+instances. I also don't think that any existing uses or the 
+manner in which the database user community, make available 
+databases would be altered all under this bill.
+    Mr. Smith. Okay. Thank you, Mr. Kupferschmid. Mr. Donohue, 
+if I could ask a final favor of you. Could you get back to us, 
+take a look at those criteria, because if we move ahead we 
+might well want to narrow the bill some more. I don't know. I 
+don't want to speak for the Chairman, but we would be 
+interested in your views as to which of those criteria you feel 
+are too broad.
+    Mr. Donohue. I would be glad to.
+    [The information referred to follows:]
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+    <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+    
+                              ----------                              
+
+    Mr. Smith. Okay. Thank you again, Mr. Chairman.
+    Mr. Wulf. Let's see. Could I just jump in with a 10-second 
+one here because I would second what Tom Donohue said. I would 
+just like to add to that that we need to look at this in the 
+light of the developments that have happened since the last 
+time we went around this race track. Things have changed. The 
+environment has changed, and so we need to be very careful that 
+we take into account those changes.
+    Mr. Smith. Okay. Thank you, Mr. Chairman.
+    Mr. Stearns. I thank my distinguished colleague. And with 
+that, we thank the witnesses very much for your enthusiastic, 
+energetic testimony, and we look forward to continuing 
+discussion.
+    With that, the Committees are adjourned.
+    [The prepared statement of Mr. Dingell follows in the 
+Appendix]
+    [The prepared statement of Mr. Shimkus follows in the 
+Appendix]
+    [Whereupon, at 5:50 p.m., the Subcommittees were 
+adjourned.]
+                            A P P E N D I X
+
+                              ----------                              
+
+
+               Material Submitted for the Hearing Record
+
+   Prepared Statement of the Honorable W. J. Billy Tauzin, Chairman, 
+                    Committee on Energy and Commerce
+    Thank you Mr. Chairman for holding this hearing today. It is always 
+a pleasure to work with my colleagues at the Judiciary Committee. I 
+value the insights the members of your Committee bring to the issues 
+over which we share jurisdiction.
+    The database issue has been around for some time now. I remember 
+the first bill being introduced in the 104th Congress and reaching a 
+peak of contention in the 106th Congress. At that time there was a 
+stalemate between these two Committees. Each Committee passed its own 
+bill - staking out its own position on the issue. Neither Committee was 
+willing to move toward the other. When I took the gavel at Energy and 
+Commerce and Chairman Sensenbrenner took over at the Judiciary 
+Committee, we decided we would work through this issue in a different 
+way. The two Committees have worked amicably towards a draft bill - and 
+I believe this is a credit to the fine members on both Committees.
+    So here we are today . . . We devoted 2 1/2 years of resources to 
+get a draft piece of legislation and to get that legislation before the 
+two Committees for a full and fair vetting of the issues. And that is 
+what I expect today - a fair hearing on the issues involved. I do not 
+expect the issue to be less contentious than it has been in the past 
+but I do expect it will take on a new civility due to the cooperative 
+nature in which the two Committees have been working.
+    We have a distinguished panel of witnesses with significant 
+expertise on these issues. The witnesses on the panel have been active 
+in the database debate over the last several Congresses and are no 
+strangers to those of us who have followed the debate. I look forward 
+to hearing your perspectives on the draft legislation and drawing on 
+your expertise as we talk through the issues before us. I thank you all 
+for being here this afternoon and yield back the balance of my time.
+
+                              ----------                              
+
+   Prepared Statement of Representative Bart Stupak, Subcommittee on 
+                Commerce, Trade and Consumer Protection
+    I appreciate this joint committee forum to discuss this bill- and 
+want to express my concerns with moving forward with such legislation.
+    In today's information age, databases are the tools that make vast 
+amounts of facts and information understandable and manageable.
+    The facts the databases rely upon are public domain. Facts cannot 
+be owned.
+    But this bill seeks to do just that- to grant the compiler of a 
+database unprecedented ownership rights to facts.
+    Current law is sufficient to deal with the misappropriation of 
+information or infringement upon creative works.
+    The broad opposition to this bill, ranging from consumer groups to 
+database producers themselves, is very telling.
+    If a need existed for such legislation, surely multiple database 
+producers would be clamoring for such a bill, rather than expressing 
+major concerns.
+    To move this bill forward would be to move the flow of facts and 
+information backwards, and would disadvantage consumers.
+    I certainly believe that this hearing is informative, but do not 
+believe that any further steps should be taken on this bill to advance 
+it.
+    Thank you.
+
+                              ----------                              
+
+           Prepared Statement of Representative Barbara Cubin
+    Thank you to both Chairmen for their commitment to working together 
+on this issue and holding this hearing today. It is important that the 
+discussion continue, as we seek to determine what, if any, remedy would 
+be most appropriate.
+    I would also like to thank the distinguished panelists that have 
+joined us today. Your testimony is valuable and essential in furthering 
+the debate on database management and protections.
+    A well balanced policy in this and every realm is an important goal 
+for Congress. While this debate has historically dead ended in its 
+search for that balance, it does not mean we should forego our efforts 
+altogether.
+    One's creation, original or compilation, should certainly be 
+afforded rights and protections. It is equally important, particularly 
+in today's world of ever changing and exponentially growing 
+technological advances, that these protections not inhibit further 
+development and available options.
+    Again, I thank the panelists and am certain that today's testimony 
+will further illuminate the path that this legislation must take in a 
+timely manner.
+    I thank the Chairman again and yield back the remainder of my time.
+
+                              ----------                              
+
+            Prepared Statement of Representative Gene Green
+    Thank you to our Chairmen and Ranking Members for holding this 
+hearing on the need for expanded legal protection for databases. I 
+appreciate our witnesses coming before us today to give us their views 
+on this draft legislation.
+    This country has a long-honored tradition of considering factual 
+information part of the public domain. In fact, the ability of 
+scientists and researchers to have unrestricted access to this public 
+information has contributed to the tremendous innovation on which this 
+country's economic strength rests.
+    For several years now, the database industry has come to Congress 
+with their concerns about database piracy and the effect that it will 
+have on the industry's willingness to invest sufficiently in new 
+products.
+    While I understand their concerns, my initial thought is that these 
+concerns seem a little premature considering that the digital age has 
+only contributed to the proliferation of databases. And, to date, I 
+have not seen any real evidence of investment in databases being 
+stymied.
+    Even if we assume that this threat to the database industry is 
+real, I have questions about the necessity of enacting such a broad 
+piece of legislation to protect them. In the past, the Energy and 
+Commerce Committee has approved legislation to narrowly address this 
+very issue, and I question why we are not taking a similar approach 
+today.
+    Again, I thank our witnesses for appearing before us today. I look 
+forward to your testimony and the light that it will shed on this 
+important issue.
+
+                              ----------                              
+
+Prepared Statement of the Honorable Ted Strickland, a Representative in 
+                    Congress From the State of Ohio
+    Thank you Mr. Chairman. Briefly, I would like to express my 
+reservations regarding the Database and Collections of Information 
+Misappropriation Act. I have heard from a number of interested parties 
+about their concerns with this legislation and I hope this hearing 
+encourages Congress to continue thinking about legislation that would 
+create broad new protections for databases.
+    In the 106th Congress, I supported H.R. 1858, the ``Consumer and 
+Investor Access to Information Act of 1999.'' This bill was more 
+narrowly written to create new protections against the selling or 
+distributing of duplicated databases in interstate and foreign 
+commerce. While H.R. 1858 would have offered new legal protections for 
+database owners, these protections would not have limited the American 
+public's access to information. It may be that additional protections 
+for database owners are worthy of pursuit. However, facts that are part 
+of the public domain should remain so and I hope we are careful to 
+ensure we preserve the public's access to data and information and 
+avoid unintended consequences as this debate continues.
+    I think the Database and Collections of Information 
+Misappropriation Act of 2003 is too broad. I fear it would change our 
+current information policy to a point where we could stifle innovation, 
+hamper scientific progress and get in the way of development in the 
+electronic commerce marketplace.
+    Again, thank you Mr. Chairman.
+
+                              ----------                              
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                               __________
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+                               
+                               __________
+           Prepared Statement of Congressman John D. Dingell
+    Chairman Stearns and Chairman Smith, the debate over whether 
+adequate legal protections exist to protect current databases and 
+provide incentives to the creation of new and more valuable databases 
+is an extremely contentious issue that has been debated in our 
+respective Committees for several years. Databases are essential to 
+ensuring the rapid search and retrieval of the enormous amounts of 
+facts and other forms of information that are available, especially 
+through the Internet. In fact, the Internet not only provides access to 
+already created databases, but it has helped spur a remarkable growth 
+in the number of databases, such as movie directories and loan 
+comparison charts. Between 1990 and 2002, the number of database 
+entries in the comprehensive Gale Directory of Databases has increased 
+147 percent. Moreover, the amount of information contained in such 
+databases has increased 363 percent.
+    I note that this explosive growth in the number of databases has 
+occurred despite the claims of the proponents of the draft legislation 
+that ``no meaningful legal protection of databases currently exists.'' 
+I find it dubious that companies would invest vast amounts of financial 
+resources in developing new databases if legal protections were 
+nonexistent.
+    In fact, significant legal protections already exist for databases. 
+For example, the original selection, coordination, and arrangement of 
+facts in a database are protected by copyright law. Additionally, 
+databases already receive protection under the Computer Fraud and Abuse 
+Act, the Digital Millennium Copyright Act, and various state laws such 
+as trespass to chattels, breach of contract, and misappropriation.
+    Notwithstanding the legal protections available, limited gaps in 
+current law may exist. If such gaps are found, it is incumbent upon 
+Congress to take a focused legislative approach as we attempted to do 
+in the 106th Congress with H.R. 1858, the ``Consumer and Investor 
+Access to Information Act of 1999.'' This bill was narrowly crafted to 
+provide limited protection to database producers against wholesale 
+misappropriation of their work. Importantly, it would also have allowed 
+the public to continue to have unfettered access to facts that are in 
+the public domain.
+    Unfortunately, the draft Database and Collections of Information 
+Misappropriation Act of 2003 takes the opposite approach. It would 
+create broad new rights for database owners and dramatically alter our 
+current information policy. Much like its predecessors, the draft bill 
+has serious flaws and would stifle the development of a robust 
+electronic commerce marketplace. It would create a quasi-property right 
+in facts themselves, granting the compiler of information an 
+unprecedented right to control value-added, downstream uses of the 
+resulting collection. It would also establish an unprecedented subpoena 
+process that would undoubtedly lead to abuse.
+    I must caution those who support broad new protections for 
+databases. Electronic commerce has prospered in the United States in 
+part because of our basic information policy - that facts, the building 
+blocks of all information products, cannot be owned. Facts are part of 
+the public domain. They do not owe their origin to an act of 
+authorship. It is important that facts remain available for everyone to 
+use and that Congress does not legislate in a way that would restrict 
+the public's access to facts.
+
+                              ----------                              
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                           *ERR11**ERR11* - 
+
+</pre></body></html>

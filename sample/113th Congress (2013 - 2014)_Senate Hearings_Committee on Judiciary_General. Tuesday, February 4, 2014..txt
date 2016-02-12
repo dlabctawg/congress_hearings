@@ -1,0 +1,3031 @@
+<html>
+<title> - PRIVACY IN THE DIGITAL AGE: PREVENTING DATA BREACHES AND COMBATING CYBER CRIME</title>
+<body><pre>
+[Senate Hearing 113-654]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+                                                        S. Hrg. 113-654
+
+  PRIVACY IN THE DIGITAL AGE: PREVENTING DATA BREACHES AND COMBATING 
+                              CYBER CRIME
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                       COMMITTEE ON THE JUDICIARY
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                       TUESDAY, FEBRUARY 4, 2014
+
+                               __________
+
+                          Serial No. J-113-48
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+                         U.S. GOVERNMENT PUBLISHING OFFICE 
+
+94-640 PDF                     WASHINGTON : 2015 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Publishing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001
+
+
+
+
+
+
+
+                       COMMITTEE ON THE JUDICIARY
+
+                  PATRICK J. LEAHY, Vermont, Chairman
+DIANNE FEINSTEIN, California         CHUCK GRASSLEY, Iowa, Ranking 
+CHUCK SCHUMER, New York                  Member
+DICK DURBIN, Illinois                ORRIN G. HATCH, Utah
+SHELDON WHITEHOUSE, Rhode Island     JEFF SESSIONS, Alabama
+AMY KLOBUCHAR, Minnesota             LINDSEY GRAHAM, South Carolina
+AL FRANKEN, Minnesota                JOHN CORNYN, Texas
+CHRISTOPHER A. COONS, Delaware       MICHAEL S. LEE, Utah
+RICHARD BLUMENTHAL, Connecticut      TED CRUZ, Texas
+MAZIE HIRONO, Hawaii                 JEFF FLAKE, Arizona
+           Kristine Lucius, Chief Counsel and Staff Director
+              Kolan Davis, Republican Chief Staff Director
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                            C O N T E N T S
+
+                              ----------                              
+
+                    STATEMENTS OF COMMITTEE MEMBERS
+
+                                                                   Page
+
+Leahy, Hon. Patrick, a U.S. Senator from the State of Vermont....     1
+    prepared statement...........................................    53
+Grassley, Hon. Chuck, a U.S. Senator from the State of Iowa......     2
+    prepared statement...........................................    55
+
+                               WITNESSES
+
+Witness List.....................................................    51
+John Mulligan, Executive Vice President and Chief Financial 
+  Officer, Target Corporation, Minneapolis, Minnesota............     4
+    prepared statement...........................................    58
+Michael R. Kingston, Senior Vice President and Chief Information 
+  Officer, The Neiman Marcus Group, Dallas, Texas................     6
+    prepared statement...........................................    64
+Delara Derakhshani, Policy Counsel, Consumers Union, Washington, 
+  DC.............................................................     8
+    prepared statement...........................................    72
+Fran Rosch, Senior Vice President, Security Products and 
+  Services, Endpoint and Mobility, Symantec Corporation, Mountain 
+  View, California...............................................     9
+    prepared statement...........................................    78
+The Honorable Edith Ramirez, Chairwoman, Federal Trade 
+  Commission, Washington, DC.....................................    36
+    prepared statement...........................................    98
+William Noonan, Deputy Special Agent in Charge, Criminal 
+  Investigative Division, Cyber Operations Branch, U.S. Secret 
+  Service, Washington, DC........................................    38
+    prepared statement...........................................   110
+Mythili Raman, Acting Assistant Attorney General, Criminal 
+  Division, United States Department of Justice, Washington, DC..    39
+    prepared statement...........................................   121
+
+                               QUESTIONS
+
+Questions submitted by Senator Patrick Leahy for John J. Mulligan   133
+Questions submitted by Senator Chuck Grassley for John J. 
+  Mulligan and Michael R. Kingston...............................   134
+Questions submitted by Senator Patrick Leahy for Michael R. 
+  Kingston.......................................................   135
+Questions submitted by Senator Patrick Leahy for Delara 
+  Derakhshani....................................................   136
+Questions submitted by Senator Patrick Leahy for Fran Rosch......   137
+Questions submitted by Senator Chuck Grassley for Fran Rosch.....   138
+Questions submitted by Senator Patrick Leahy for Edith Ramirez...   139
+Questions submitted by Senator Patrick Leahy for William Noonan..   140
+Questions submitted by Senator Patrick Leahy for Mythili Raman...   141
+
+                                ANSWERS
+
+Responses of John J. Mulligan to questions submitted by Senator 
+  Leahy..........................................................   142
+Responses of John J. Mulligan to questions submitted by Senator 
+  Grassley.......................................................   145
+Responses of Michael R. Kingston to questions submitted by 
+  Senators Leahy, Blumenthal, and Grassley.......................   148
+Responses of Delara Derakhshani to questions submitted by Senator 
+  Leahy..........................................................   158
+Responses of Fran Rosch to questions submitted by Senator Leahy..   160
+Responses of Fran Rosch to questions submitted by Senator 
+  Grassley.......................................................   162
+Responses of Edith Ramirez to questions submitted by Senator 
+  Leahy..........................................................   164
+Responses of William Noonan to questions submitted by Senator 
+  Leahy..........................................................   167
+Responses of Mythili Raman to questions submitted by Senator 
+  Leahy..........................................................   170
+
+                MISCELLANEOUS SUBMISSIONS FOR THE RECORD
+
+Confidentiality Coalition, February 3, 2014, statement...........   177
+Credit Union National Association (CUNA), Bill Cheney, President 
+  and CEO, February 4, 2014, letter..............................   179
+American Bankers Association, The Clearing House, Consumers 
+  Bankers Association, Credit Union National Association, 
+  Financial Services Information Sharing and Analysis Center, The 
+  Financial Services Roundtable, Independent Community Bankers of 
+  America, National Association of Federal Credit Unions: 
+  February 3, 2014, joint letter.................................   182
+Michaels Stores, Inc., Irving, Texas, Michael J. Veitenheimer, 
+  Secretary and General Counsel, January 31, 2014, letter........   185
+National Business Coalition on E-Commerce and Privacy, 
+  Washington, DC, Thomas M. Boyd, Partner, DLA Piper LLP, 
+  February 4, 2014, statement....................................   186
+National Association of Federal Credit Unions (NAFCU), Arlington, 
+  Virginia, B. Dan Berger, President and CEO, February 3, 2014, 
+  letter.........................................................   190
+National Retail Federation, Washington, DC, Mallory Duncan, 
+  General Counsel and Senior Vice President, February 14, 2014, 
+  statement......................................................   194
+Payment Card Industry (PCI) Security Standards Council, 
+  Wakefield, Massachusetts, Bob Russo, General Manager, February 
+  4, 2014, statement.............................................   207
+Retail Industry Leaders Association (RILA), Arlington, Virginia, 
+  William Hughes, Senior Vice President, Government Affairs, 
+  February 4, 2014, letter.......................................   212
+Dianne Feinstein, a U.S. Senator from the State of California, 
+  February 4, 2014, statement for the record.....................   215
+
+ 
+  PRIVACY IN THE DIGITAL AGE: PREVENTING DATA BREACHES AND COMBATING 
+                              CYBER CRIME
+
+                       TUESDAY, FEBRUARY 4, 2014
+
+                                       U.S. Senate,
+                                Committee on the Judiciary,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10:23 a.m., in 
+Room SD-226, Dirksen Senate Office Building, Hon. Patrick J. 
+Leahy, Chairman of the Committee, presiding.
+    Present: Senators Leahy, Feinstein, Durbin, Whitehouse, 
+Klobuchar, Franken, Coons, Blumenthal, Hirono, Grassley, Hatch, 
+and Lee.
+
+OPENING STATEMENT OF HON. PATRICK J. LEAHY, A U.S. SENATOR FROM 
+                      THE STATE OF VERMONT
+
+    Chairman Leahy. Good morning. Because of the time of the 
+opening of the Senate, we are starting a little bit late, and I 
+apologize for that, but I appreciate everybody who is here 
+today from all over, including now snowy Colorado. I see Mr. 
+Bronstein here.
+    We are going to meet to examine how we can protect 
+Americans from the growing dangers of data breaches and cyber 
+crime in the digital age. Safeguarding American consumers and 
+businesses from data breaches and cyber crime has been a 
+priority of this Committee since 2005. For years, we tried to 
+make sure that everybody understands this is not a Democratic 
+or Republican issue. I have worked closely with Members on both 
+sides of the aisle to advance meaningful data privacy 
+legislation. In fact, I want to thank Senator Grassley for 
+working with me very closely on this hearing, and I hope we can 
+continue working together to advance the Personal Data Privacy 
+and Security Act that I recently reintroduced to protect 
+American consumers.
+    Now, you watch the news, you pick up the papers, you listen 
+to the news. Most Americans, myself included, have been alarmed 
+by the recent data breaches at Target, Neiman Marcus, and 
+Michaels stores. The investigations into those cyber attacks 
+are ongoing. But they have compromised the privacy and security 
+of millions of American consumers--potentially putting one in 
+three Americans at risk of identity theft and other cyber 
+crimes. I have never had a time when my wife and I have been so 
+assiduous at checking our credit card bills, but that is the 
+same with everybody.
+    But public confidence is crucial to our economy. I 
+mentioned those three stores. Those are all excellent stores. 
+They are a major part of our economy. But we have to have faith 
+in them. If we do not have faith in businesses' ability to 
+protect their personal information, then our economic recovery 
+is going to falter. And in the digital age, major data breaches 
+involving our private information are not uncommon. There have 
+been significant data breaches involving Sony, Epsilon, and 
+Coca-Cola, but also in Federal Government agencies--the 
+Departments of Veterans Affairs and Energy. In the past few 
+days, we have also learned of data breaches at Yahoo! and White 
+Lodging, which is the hotel management company for national 
+hotel chains such as Marriott and Starwood. In fact, so it will 
+not seem like we are singling out just a few businesses, 
+according to the Privacy Rights Clearinghouse, more than 662 
+million records have been involved in data breaches since 2005.
+    Now, we all agree that businesses need to thoroughly assess 
+the damage when a cyber attack is discovered. But time is of 
+the essence for law enforcement seeking to catch the 
+perpetrators and also for consumers who want to protect 
+themselves against further exposure. It is not like when 
+somebody comes in and robs a store. You know where it happened, 
+and you have some general idea of where the perpetrator is. 
+Here the perpetrator could be thousands upon thousands of miles 
+away in another country. American consumers deserve to know 
+when their private information has been compromised and what a 
+business is doing in response to a cyber attack, because most 
+of us rely on being able to do a lot of our business 
+electronically.
+    We should also remember that the businesses that suffer 
+cyber attacks are also often the victims of a cyber crime. A 
+recent study sponsored by Symantec found that data breaches 
+involving malicious cyber attacks are the most costly data 
+breaches around the globe. The per capita cost of such cyber 
+attacks in the United States was $277 per compromised record in 
+2013. Times that by millions upon millions upon millions. It is 
+the highest cost for any nation that has been surveyed. And, of 
+course, if you are in a fragile economic recovery, this is a 
+significant hindrance.
+    So before the Judiciary Committee today are representatives 
+of Target and Neiman Marcus, as well as Consumers Union and 
+Symantec. Later we will hear from the U.S. Secret Service, the 
+Department of Justice, and the Federal Trade Commission.
+    We are facing threats to our privacy and security unlike 
+any time before in our Nation's history. We have also had 
+hearings about questions of the threats to our privacy by our 
+own government agencies. So I hope in this particular one we 
+can get some good bipartisan support responding to it and get 
+some data privacy legislation out here. I think we will all be 
+better for it.
+    [The prepared statement of Senator Leahy appears as a 
+submission for the record.]
+    Senator Grassley.
+
+ OPENING STATEMENT OF HON. CHUCK GRASSLEY, A U.S. SENATOR FROM 
+                       THE STATE OF IOWA
+
+    Senator Grassley. It is very important that we have this 
+hearing. We have had well-publicized commercial data breaches. 
+We are still learning about the details. This hearing will help 
+bring more details out, I hope. But it is clear that these and 
+other breaches have potentially impacted tens of millions of 
+consumers nationwide.
+    Today is an opportunity to learn about the challenges that 
+both industry and law enforcement face in combating cyber 
+attacks from well-organized criminals. The witnesses have a 
+unique ability to provide us various important perspectives as 
+we consider the government's role in securing sensitive data 
+and crafting a breach notification standard.
+    I hope to learn where the Committee's expertise could be 
+helpful in combating future attacks. Furthermore, I would like 
+to use this hearing to explore areas of common ground so that 
+we can determine what might be accomplished quickly.
+    It has been a couple of years since our Committee has 
+considered data security legislation. In that time, we have 
+learned a lot about this subject, thanks to broader 
+cybersecurity conversation. The proposals offered by the 
+administration and discussed in Congress, along with other 
+government initiatives, can be helpful for us to proceed as we 
+consider what to do with this legislation.
+    When considering data security requirements, our approach 
+should provide flexibility and also account for businesses of 
+different sizes and different resources. In a world of crafty 
+criminals, it seems to me that a one-size-fits-all approach 
+will not work, or at least will not work for everybody. 
+Instead, let us see how the government can partner with private 
+business to strengthen data security.
+    An example may be the National Institute of Standards and 
+Technology's cybersecurity framework, which has received 
+bipartisan support. And as far as the Senate is concerned, 
+unless it is bipartisan, it is not going to go anywhere. That 
+is not because there is something wrong with Democrats or 
+Republicans. That is the institution itself.
+    As we discuss the creation of a federal breach notification 
+standard, we must avoid the risk of consumer overnotification. 
+Just as there is a potential for harm when a victim is not 
+notified of a breach, overnotification can lead to harm and 
+apathy.
+    As time permits, I want to explore these and other issues 
+today and will be available to discuss things beyond the 
+Committee process, either with colleagues or with other people. 
+If everyone works together, it seems to me we can tackle these 
+problems and hopefully limit future attacks.
+    Thanks again, Mr. Chairman, and I would ask unanimous 
+consent to include my full statement in the record along with 
+statements that we received from these groups: the National 
+Business Coalition on E-Commerce and Privacy, the Payment Card 
+Industry, the National Association of Federal Credit Unions, 
+the American Bankers Association, the National Retail 
+Federation, and the Retail Industry Leaders Association.
+    Chairman Leahy. Without objection, they will be included in 
+the record.
+    [The prepared statement of Senator Grassley appears as a 
+submission for the record.]
+    Chairman Leahy. Could I ask the four witnesses to please 
+stand and raise your right hand? Do you swear that the 
+testimony you will give in this matter will be the truth, the 
+whole truth, and nothing but the truth, so help you God?
+    Mr. Mulligan. I do.
+    Mr. Kingston. I do.
+    Ms. Derakhshani. I do.
+    Mr. Rosch. I do.
+    Chairman Leahy. Let the record show that the four 
+witnesses--Mr. Mulligan, Mr. Kingston, Ms. Derakhshani--I hope 
+I came close--and Mr. Rosch--all took the oath. I thought what 
+we would do is hear from each of the witnesses first, and then 
+we will ask questions.
+    John Mulligan is chief financial officer and executive vice 
+president for Target, the second largest general merchandise 
+retailer in the U.S. Mr. Mulligan joined Target in 1996. His 
+responsibilities include treasury and internal and external 
+financial reporting, financial planning and analysis, financial 
+operations, tax assurance, investor relations, flight services. 
+He graduated from the University of Wisconsin in 1988. In 1996, 
+he earned a Master's of Business Administration degree from the 
+University of Minnesota, I would mention to Senator Klobuchar 
+and Senator Franken.
+    Mr. Mulligan, please go ahead.
+
+STATEMENT OF JOHN MULLIGAN, EXECUTIVE VICE PRESIDENT AND CHIEF 
+ FINANCIAL OFFICER, TARGET CORPORATION, MINNEAPOLIS, MINNESOTA
+
+    Mr. Mulligan. Good morning, Chairman Leahy, Ranking Member 
+Grassley, and Members of the Committee. My name is John 
+Mulligan. I am the executive vice president and chief financial 
+officer of Target. I appreciate the opportunity to be here 
+today to discuss important issues surrounding data breaches and 
+cyber crime.
+    As you know, Target recently experienced a data breach 
+resulting from a criminal attack on our systems. To begin, I 
+want to say how deeply sorry we are for the impact this 
+incident has had on our guests--your constituents. We know this 
+breach has shaken their confidence in Target, and we are 
+determined to work very hard to earn it back.
+    At Target, we take our responsibility to our guests very 
+seriously, and this attack has only strengthened our resolve. 
+We will learn from this incident, and as a result, we hope to 
+make Target and our industry more secure for consumers in the 
+future.
+    I would now like to explain the events of the breach as I 
+currently understand them. Please recognize that I may not be 
+able to provide specifics on certain matters because the 
+criminal and forensic investigations remain active and ongoing. 
+We are working closely with the Secret Service and the 
+Department of Justice on the investigation--to help them bring 
+to justice the criminals who committed this widespread attack 
+on Target, American business, and consumers.
+    On the evening of December 12th, we were notified by the 
+Justice Department of suspicious activity involving payment 
+cards used at Target. We immediately started our internal 
+investigation.
+    On December 13th, we met with the Justice Department and 
+the Secret Service. On December 14th, we hired an independent 
+team of experts to lead a thorough forensics investigation.
+    On December 15th, we confirmed that criminals had 
+infiltrated our system, had installed malware on our point-of-
+sale network, and had potentially stolen guest payment card 
+data. That same day, we removed the malware from virtually all 
+registers in our U.S. stores.
+    Over the next two days, we began notifying the payment 
+processors and card networks, preparing to notify our guests 
+and equipping our call centers and stores with the necessary 
+information and resources to address the concerns of our 
+guests.
+    Our actions leading up to our public announcement on 
+December 19th--and since--have been guided by the principle of 
+serving our guests, and we have been moving as quickly as 
+possible to share accurate and actionable information with the 
+public.
+    What we note today is that the breach affected two types of 
+data: payment card data, which affected approximately 40 
+million guests, and certain personal data, which affected up to 
+70 million guests. We believe the payment card data was 
+accessed through malware placed on our point-of-sale registers. 
+The malware was designed to capture payment card data that 
+resided on the magnetic strip prior to its encryption within 
+our systems.
+    From the outset, our response to the breach has been 
+focused on supporting our guests and strengthening our 
+security. In addition to the immediate actions I already 
+described, we are taking the following concrete actions: first, 
+we are undertaking an end-to-end forensic review of our entire 
+network and will make security enhancements, as appropriate. 
+Second, we increased fraud detection for our Target REDcard 
+guests. To date, we have not seen any fraud on our proprietary 
+credit and debit cards due to this breach. And we have seen 
+only a very low amount of additional fraud on our Target Visa 
+card. Third, we are reissuing new Target credit and debit cards 
+immediately to any guest who requests one. Fourth, we are 
+offering one year of free credit monitoring and identity theft 
+protection to anyone who has ever shopped in our U.S. Target 
+stores. Fifth, we informed guests that they have zero liability 
+for any fraudulent charges on the cards arising from this 
+incident. And, sixth, Target is accelerating our investment in 
+chip technology for our Target REDcards and stores' point-of-
+sale terminals.
+    For many years, Target has invested significant capital and 
+resources in security technology, personnel, and processes. We 
+had in place multiple layers of protection, including 
+firewalls, malware detection, intrusion detection and 
+prevention capabilities, and data loss prevention tools.
+    But the unfortunate reality is that we suffered a breach. 
+All businesses--and their customers--are facing increasingly 
+sophisticated threats from cyber criminals. In fact, news 
+reports have indicated that several other companies have been 
+subjected to similar attacks.
+    To prevent this from happening again, none of us can go it 
+alone. We need to work together.
+    Updating payment card technology and strengthening 
+protections for American consumers is a shared responsibility 
+and requires a collective and coordinated response. On behalf 
+of Target, I am committing that we will be an active part of 
+the solution.
+    Senators, to each of you and all of your constituents and 
+our guests, I want to once again reiterate how sorry we are 
+this happened and our ongoing commitment to making this right.
+    Thank you for your time today.
+    [The prepared statement of Mr. Mulligan appears as a 
+submission for the record.]
+    Chairman Leahy. Well, thank you very much, Mr. Mulligan.
+    Michael Kingston is senior vice president and chief 
+information officer for Neiman Marcus. In his role as chief 
+information officer, he oversees approximately 500 
+professionals responsible for all aspects of information 
+technology and security, including technology strategies, 
+system development, information technology service delivery for 
+all Neiman Marcus brands, both in stores and its Web site, and 
+has over 20 years of experience in the field.
+    Mr. Kingston, thank you for being here. Please go ahead, 
+sir.
+
+  STATEMENT OF MICHAEL R. KINGSTON, SENIOR VICE PRESIDENT AND 
+  CHIEF INFORMATION OFFICER, THE NEIMAN MARCUS GROUP, DALLAS, 
+                             TEXAS
+
+    Mr. Kingston. Mr. Chairman, Senator Grassley, Members of 
+the Committee, good morning. My name is Michael Kingston, and I 
+am chief information officer at Neiman Marcus Group. I want to 
+thank you for your invitation to appear today to share with you 
+our experiences regarding the recent criminal cybersecurity 
+incident at our company. I have submitted a longer written 
+statement and appreciate the opportunity to make some brief 
+opening remarks.
+    We are in the midst of an ongoing forensic investigation 
+that has revealed a cyber attack using very sophisticated 
+malware. From the moment I learned that there might be a 
+compromise of payment card information involving our company, I 
+have personally led the effort to ensure that we were acting 
+swiftly, thoroughly, and responsibly to determine whether such 
+a compromise had occurred, to protect our customers and the 
+security of our systems, and to assist law enforcement in 
+capturing the criminals. Because our investigation is ongoing, 
+I may be limited in my ability to speak definitively or with 
+specificity on some issues, and there may be some questions to 
+which I do not have the answers. Nevertheless, it is important 
+to us as a company to make ourselves available to you to 
+provide whatever information we can to assist in your important 
+work.
+    Our company was founded 107 years ago. One of our founding 
+principles is based on delivering exceptional service to our 
+customers and building long-lasting relationships with them 
+that have spanned generations. We take this commitment to our 
+customers very seriously. It is part of who we are and what we 
+do daily to distinguish ourselves from other retailers.
+    We have never before been subjected to any sort of 
+significant cybersecurity intrusion, so we have been 
+particularly disturbed by this incident.
+    Through our ongoing forensic investigation, we have learned 
+that the malware which penetrated our system was exceedingly 
+sophisticated, a conclusion the Secret Service has confirmed. A 
+recent report prepared by the Secret Service crystallized the 
+problem when they concluded that a specific type of malware, 
+comparable and perhaps even less sophisticated than the one in 
+our case, according to our investigators, had a zero percent 
+detection rate by anti-virus software.
+    The malware was evidently able to capture payment card data 
+in real time, right after a card was swiped, and had 
+sophisticated features that made it particularly difficult to 
+detect, including some that were specifically customized to 
+evade our multilayered security architecture that provided 
+strong protection for our customers' data and our systems.
+    Because of the malware's sophisticated anti-detection 
+devices, we did not learn that we had an actual problem in our 
+computer system until January 2, and it was not until January 6 
+when the malware and its outputs had been disassembled and 
+decrypted enough that we were able to determine that it was 
+able to operate in our systems. Then, disabling it to ensure it 
+was not still operating took until January 10. That day we sent 
+out our first notices to customers potentially affected and 
+made widely reported public statements describing what we knew 
+at that point about the incident.
+    Simply put, prior to January 2, despite our immediate 
+efforts to have two separate firms of forensic investigators 
+dig into our systems in an attempt to find any data security 
+compromise, no data security compromise in our systems had been 
+identified.
+    Based on the current state of the evidence in the ongoing 
+investigation: One, it now appears that the customer 
+information that was potentially exposed to the malware was 
+payment card information from transactions in 77 of our 85 
+stores between July and October 2013, at different time periods 
+within this date range in each store; two, we have no 
+indication that transactions on our Web sites or at our 
+restaurants were compromised; three, PIN data was not 
+compromised, as we do not have PIN pads and we do not request 
+PINs; and, four, there is no indication that Social Security 
+numbers or other personal information was exposed in any way.
+    We have also offered to any customer who shopped with us in 
+the last year at either Neiman Marcus Group stores or Web 
+sites--whether their card was exposed to the malware or not--
+one year of free credit monitoring and identity theft 
+insurance. We will continue to provide the excellent service to 
+our customers that is our hallmark, and I know that the way we 
+responded to this situation is consistent with that commitment.
+    Thank you again for your invitation to testify today, and I 
+look forward to answering your questions.
+    [The prepared statement of Mr. Kingston appears as a 
+submission for the record.]
+    Chairman Leahy. Thank you very much, Mr. Kingston.
+    And our next witness is Delara Derakhshani, who serves as 
+policy counsel in Consumers Union's Washington office. She is 
+the lead advocate for the organization's telecommunications, 
+media, and privacy efforts. Consumers Union is the policy and 
+advocacy division of Consumer Reports. Ms. Derakhshani 
+graduated from the University of Virginia and earned a law 
+degree from Catholic University's Columbus School of Law.
+    We are glad to have you here. Please go ahead.
+
+  STATEMENT OF DELARA DERAKHSHANI, POLICY COUNSEL, CONSUMERS 
+                     UNION, WASHINGTON, DC
+
+    Ms. Derakhshani. Chairman Leahy, Ranking Member Grassley, 
+and esteemed Members of the Committee, thank you for the 
+opportunity to testify before you today about data breaches. My 
+name is Delara Derakhshani, and I serve as policy counsel of 
+Consumers Union, the policy and advocacy arm of Consumer 
+Reports.
+    This past December--at the height of the holiday shopping 
+season--40 million unsuspecting consumers learned that 
+criminals may have gained unauthorized access to their credit 
+card and debit card information. Subsequently, 70 million more 
+learned that personal information such as names, addresses, and 
+telephone numbers may have also fallen into the hands of 
+suspected hackers. Since then we have learned of similar 
+breaches at other retailers: Neiman Marcus has confirmed 
+unauthorized access to payment data, and Michaels has stated 
+that it is investigating whether a similar breach occurred. The 
+press is reporting that the malware that was reportedly used in 
+the Neiman Marcus and Target breaches was sold to criminals 
+overseas. So what we have seen thus far may just be the tip of 
+the iceberg.
+    This is truly disturbing. As Consumer Reports and Consumers 
+Union have reported with regularity in our publications, 
+consumers who have their data compromised in a large-scale 
+security breach are more likely to become victims of identity 
+theft or fraud. And although federal consumer protection 
+lending laws and voluntary industry standards generally protect 
+consumers from significant out-of-pocket losses, policymakers 
+and consumers should take these threats seriously.
+    Then there are the very practical and time-consuming 
+concerns for consumers whose data has been breached. Of 
+particular concern is debit cards, which carry fewer legal 
+protections. And while consumers might not ultimately be held 
+responsible if someone steals their debit card data or pin 
+number, data thieves can still empty out a consumer's bank 
+account and set off a cascade of bounced checks and late fees 
+which victims will have to settle down the road.
+    What can happen to the data after it is stolen is 
+disconcerting, to say the least. Sometimes data is resold to 
+criminals outside of the country. Other times it is used to 
+create counterfeit cards, debit cards which have direct access 
+to your checking account. The result is decreased consumer 
+confidence in the marketplace and uncertainty with the 
+realization that your private financial information is out 
+there in the ether for anybody to use for an unauthorized 
+purpose.
+    When Consumers Union learned of the breach, we wrote to the 
+CFPB and urged them to investigate the matter and for increased 
+public disclosure. And just last week, Attorney General Eric 
+Holder confirmed that the Department of Justice is also 
+investigating the matter. We know that lawmakers have urged the 
+Federal Trade Commission to investigate as well, and we are 
+grateful for these federal agencies' efforts and State 
+Attorneys General's efforts so that we can figure out what 
+happened and get to the bottom of this and figure out how to 
+come up with a solution together to prevent these breaches from 
+occurring in the future.
+    We have also provided consumers with a number of tips, 
+including checking transaction data, notifying your bank 
+immediately of any suspicious activity; for extra protection, 
+replacing credit cards, debit cards, and PIN numbers; placing 
+fraud alerts and also security freezes so that lenders will be 
+blocked from access to your credit report. And Target and 
+affected retailers are also offering consumers credit 
+monitoring, which we would be happy to speak about and answer 
+questions about as well.
+    Many other countries have shifted or are in the process of 
+shifting to what is known as EMV technology or chip-and-PIN 
+technology, which uses multiple layers of security, including a 
+computer chip in each card that stores and transmits encrypted 
+data, as well as a unique identifier that can change with each 
+transaction.
+    What we have reported in the past is that when this 
+technology has been adopted in Europe, it has significantly 
+decreased fraud. So we need a strong commitment from all 
+stakeholders to adopt this technology sooner rather than later.
+    These incidents reinforce just how timely and relevant 
+these issues are. We are very appreciative of the Committee's 
+efforts and the Chairman for introducing the Data Privacy and 
+Security Act. We think that the sooner consumers know their 
+data has been compromised, the sooner they can take steps to 
+protect themselves.
+    We would also urge the Committee to consider shortening the 
+timeline for notification from the 60 days to require more 
+immediate notification.
+    We do also--we would like to strengthen some provisions, 
+including those related to preemption. We want to make sure 
+that any national standard results in strong, meaningful 
+protections.
+    In closing, we thank you for the opportunity to speak 
+before you today. We appreciate your interest in data security, 
+and we want to ensure that there is consumer confidence in the 
+marketplace, and we look forward to working with you and all 
+interested parties.
+    Thank you very much.
+    [The prepared statement of Ms. Derakhshani appears as a 
+submission for the record.]
+    Chairman Leahy. Well, thank you, and thank you for what you 
+said about the legislation. I am hoping we can move it quickly.
+    Fran Rosch is the senior vice president of user protection 
+productivity, product management, and mobility solutions at 
+Symantec. He drives the development and execution of Symantec 
+and Norton's endpoint and mobile management. He was vice 
+president of identity and authentication services before that. 
+Obviously he has a background in this field.
+    Please, sir, go ahead.
+
+   STATEMENT OF FRAN ROSCH, SENIOR VICE PRESIDENT, SECURITY 
+    PRODUCTS AND SERVICES, ENDPOINT AND MOBILITY, SYMANTEC 
+             CORPORATION, MOUNTAIN VIEW, CALIFORNIA
+
+    Mr. Rosch. Thank you, and good morning. Chairman Leahy, 
+Ranking Member Grassley, distinguished Members of the 
+Committee, thank you for the opportunity to testify today on 
+behalf of Symantec Corporation. We are the world's largest 
+security software company with over 31 years of experience 
+developing information security and management technology.
+    Our Global Intelligence Network is composed of millions of 
+sensors all over the world and records thousands of events per 
+second, and we maintain 10 Security Response Centers that 
+operate 24/7 around the globe. This gives us a view of the 
+entire Internet threat landscape. At Symantec, we also invest 
+over $1 billion a year in R&D on advanced security technologies 
+to help our customers stay ahead of the bad guys.
+    The hearing today is critically important and will focus 
+attention on what businesses and consumers can do to protect 
+themselves from cyber attacks and data breaches. Attacks on 
+point-of-sale, or POS, devices are not new, but it does appear 
+the pace is increasing. This increase brings with it media 
+attention and citizen concern, but this cannot be just about 
+one or two high-profile crimes. Not just retailers but every 
+organization with sensitive information is at risk, because 
+cyber crime is a big business.
+    In 2013, we estimate that the identities of over 435 
+million people were exposed, and that number is rising as new 
+reports surface. The cost of these breaches is very real and is 
+borne directly by both consumers and organizations.
+    For example, we estimate that in 2012 the global price tag 
+of consumer cyber crime was $113 billion. The Ponemon Institute 
+looked at the impact on companies and found that the average 
+total cost of a breach in 2012 was $5.4 million. Ponemon also 
+found that strong security before a breach and good incident 
+management post-breach can dramatically cut the cost of these 
+incidents.
+    These breaches are increasingly caused by targeted attacks, 
+which were up 42 percent year over year. Some are direct 
+attacks on a company's servers, where attackers search for 
+unpatched vulnerabilities or undefended connections to the 
+Internet.
+    All attacks have essentially one goal: to gain control of 
+the user's computer. After infiltrating an organization, 
+attackers can move laterally until they find what they are 
+looking for. In the case of a retailer, this can include 
+compromising point-of-sale systems to obtain valuable consumer 
+information.
+    The best way to prevent these attacks starts with the 
+basics. Though criminals' tactics are continually evolving, 
+good cyber hygiene is simple and cost-effective. Strong 
+passwords, two-factor authentication, ubiquitous encryption are 
+important elements of any good security program.
+    But suboptimally deployed security can also lead to a 
+breach, and a modern security suite that is being fully 
+utilized is essential. Advanced security protection is much 
+more than anti-virus software. In the past, the same piece of 
+malware would be delivered to thousands or even millions of 
+computers and was easily blocked through signature-based 
+systems. Today cyber criminals can take the same malware and 
+create unlimited unique variants that can slip past basic AV 
+software. That is why modern security software does much more 
+than look for known malware. It monitors your computer or 
+mobile device, watching for unusual traffic patterns or 
+processes that could be indicative of malicious behavior.
+    At Symantec we have developed and provide reputation-based 
+and behavior-based heuristic security technologies, which can 
+identify and block more advanced threats. These solutions put 
+files in context, using their age, frequency, location, and 
+other characteristics to expose emerging threats that might 
+otherwise be missed. If a computer is trying to execute a file 
+that we have never seen anywhere in the world and that comes 
+from an unknown source, there is a high probability that it is 
+malicious and it should be blocked.
+    Security should also be specific to the device being 
+protected, and in some ways, point-of-sale system devices have 
+advantages over other systems because the functions they need 
+to perform can be narrowly defined. Allowing these devices to 
+only run approved applications will reduce the attack surface 
+and render many strains of malware ineffective.
+    Yesterday Symantec released a special report called 
+``Attacks on Point of Sales Systems'' that provides an overview 
+of the methods that attackers may use and provides 
+recommendations on how to protect these systems from attack.
+    Unfortunately data breaches and cyber threats are part of 
+our day-to-day lives. We will never be able to prevent every 
+data breach or cyber attack, but working together, industry and 
+government can make it increasingly more difficult for cyber 
+criminals to succeed.
+    Thank you again for this opportunity to be here today, and 
+I am happy to take any questions that you may have.
+    [The prepared statement of Mr. Rosch appears as a 
+submission for the record.]
+    Chairman Leahy. Well, thank you very much, Mr. Rosch.
+    I think we are all united in the same thing. We all want to 
+stop these attacks, number one. Number two, as you just pointed 
+out, Mr. Rosch, we are always going to have these attacks. No 
+matter what we do, there will be more attacks. The question is: 
+Can we successfully stop them? And are we keeping up to date 
+with the realities of today as compared to years ago?
+    Now, Mr. Mulligan, the data breach at Target, of course, 
+became front-page news. I am not just going after your company, 
+obviously, but it did have the potential to place one in three 
+Americans at risk of fraud or identity theft--identity theft 
+being probably one of the most difficult things somebody has to 
+deal with.
+    So what have you found so far? Are you any closer to 
+finding who did it? And tell us just briefly what are the steps 
+you are taking to protect privacy.
+    Mr. Mulligan. So, Senator, as I said earlier, the intruder 
+came in through a set of compromised vendor credentials and 
+took two sets of data. The first set of data was malware was 
+placed on our point-of-sale registers, and there they grabbed 
+payment card information in the time between it being swiped 
+from the magnetic stripe until we encrypt it within our 
+systems. They then encrypted that and removed it from our 
+systems.
+    Separately, they took information from certain personal 
+data--name, address, phone number, email address--for up to 70 
+million records, similarly encrypted that, and removed that 
+from our systems.
+    We have had an ongoing forensic investigation and an end-
+to-end review of our entire network to understand what went on. 
+Since that time, we have removed the malware from our system. 
+We have closed the point of entry. We have narrowed the scope 
+of who has access to our systems. We have provided the malware 
+to security firms for their review. And we have the ongoing 
+end-to-end review where we will have additional learnings, and 
+we are committed to taking additional actions.
+    Chairman Leahy. You talk about discovery. As I understand 
+it, the Justice Department told you about this on--well, you 
+said this--on December 12 of last year. You found and removed 
+the malware three days later, December 15. Am I correct on 
+those dates?
+    Mr. Mulligan. That is accurate, Mr. Chairman.
+    Chairman Leahy. Had you had any knowledge that malware was 
+there before the Department of Justice gave you that 
+notification?
+    Mr. Mulligan. We did not, Senator, Mr. Chairman. Despite 
+the significant investment in multiple layers of detection that 
+we had within our systems, we did not.
+    Chairman Leahy. So you had all your systems in place, but 
+you found out about it from the Department of Justice.
+    Mr. Mulligan. That is correct, Mr. Chairman.
+    Chairman Leahy. But the breach did not involve online 
+purchases or transactions. Is that correct?
+    Mr. Mulligan. That is correct. That is my understanding, 
+Mr. Chairman.
+    Chairman Leahy. And, Mr. Kingston, you testified that the 
+breach that you saw at your company could affect 1.1 million 
+American consumers. Is that correct?
+    Mr. Kingston. What we have learned, Mr. Chairman, in our 
+investigation is that this malware, which was inserted into our 
+systems by the criminals, was operating in many of our stores 
+at certain times between July and October 2013. And the maximum 
+number of account numbers in our stores at that time that were 
+exposed to the malware was 1.1 million accounts. But we do 
+believe, because the malware was only operating at certain 
+times, that the number is actually less than that.
+    Chairman Leahy. Well, when did you first find out about it? 
+As you said, it was operating during the summer. But when did 
+you first find out about it?
+    Mr. Kingston. The first time that we found out about the 
+malware was when our forensic investigation teams discovered it 
+on January 2, 2014.
+    Chairman Leahy. When did you first receive information 
+about it?
+    Mr. Kingston. The forensic investigation firm first alerted 
+us that there was some suspicious malware that they had found 
+as part of the investigation on our systems on January 1.
+    Chairman Leahy. But didn't you say that you first received 
+information on December 17?
+    Mr. Kingston. On December 17, we were notified by our 
+merchant processor that MasterCard had found in its fraud 
+systems 122 account numbers that had been fraudulently used 
+that were used prior to that at Neiman Marcus locations.
+    Chairman Leahy. Now, in the last month, since January when 
+you first had this, have you changed any of your malware 
+protection protocols or equipment?
+    Mr. Kingston. Yes, we have. We have actually made a number 
+of different changes. As I mentioned in my testimony, the 
+malware, unfortunately, was not detected by our anti-virus 
+systems, which we maintain and keep up to date. Since then, we 
+have shared the malware both with forensic investigations 
+teams, the Secret Service, and our anti-virus company, and they 
+have provided us with updated signatures so that we can remove 
+it and disable it.
+    Chairman Leahy. How has the cooperation been with law 
+enforcement?
+    Mr. Kingston. We have been working with law enforcement all 
+along the investigation, and they have actually been very, very 
+helpful and very cooperative.
+    Chairman Leahy. Would you say the same, Mr. Mulligan?
+    Mr. Mulligan. I would, Senator. We have a long relationship 
+with law enforcement, and they have been--our interactions 
+throughout this time have been very productive.
+    Chairman Leahy. Thank you.
+    Senator Grassley.
+    Senator Grassley. Yes, I want to associate myself with the 
+remarks that the Chairman made just before he asked questions, 
+and that is, I think we are all trying to find the same 
+solution. This is not a case of a group of business people on 
+one side and the government on the other side. We have got a 
+major problem we have to deal with, and it is going to take 
+cooperation. The Senator did not say it exactly that way, but I 
+think--I hope I----
+    Chairman Leahy. I agree with you.
+    Senator Grassley. Thank you.
+    As we have heard today, even companies with tremendous 
+resources and multilayered--by the way, I am going to ask 
+Mulligan, Kingston, and Rosch this. As we have heard today, 
+even companies with tremendous resources and multilayered 
+security systems can be attacked and breached. This means 
+smaller businesses are more vulnerable to similar attacks. One 
+thing I have heard repeatedly is that businesses of all sizes 
+need flexibility in creating and implementing their security 
+programs. What works for one may not work for another. But 
+companies must be proactive, and guidelines for what they 
+should be doing are helpful.
+    So to you three, how can the government encourage the 
+private sector to strengthen data security that provides 
+businesses that flexibility and guidance that they need as 
+opposed to burdensome government regulation?
+    Mr. Mulligan. Start with me, Senator?
+    Senator Grassley. Yes.
+    Mr. Mulligan. We agree, Senator, that this is an evolving 
+threat and one that is well beyond retail or Target to all 
+industry. There were hundreds of breaches last year, and we 
+think, therefore, the solution needs to be a combination of 
+efforts across all participants in the space, Senator.
+    I think for payment card information, similarly, there are 
+a number of participants in the payment card world, and we need 
+to work collectively to move to chip-and-PIN technology. That 
+would have rendered the account numbers that were taken far 
+less useful. But it is technologies like that that we think are 
+important, and we are committed to moving forward and 
+accelerating our efforts in that particular area.
+    Senator Grassley. Mr. Kingston.
+    Mr. Kingston. First of all, I think shedding light on this 
+issue as the Committee is doing today is extremely helpful, and 
+we appreciate that. I think one of the things that the 
+government can do--there are a lot of actors in this ecosystem. 
+There are technology companies. Obviously there is the private 
+sector. There are law enforcement, government agencies. There 
+are security experts. I think collectively all of those actors, 
+all of those stakeholders, who have intelligence and are able 
+to share it with the community, should be encouraged to do 
+that. Information sharing can help us try to keep up with this 
+problem, which is continuing to evolve and continuing to become 
+more sophisticated.
+    Senator Grassley. Mr. Rosch.
+    Mr. Rosch. Yes, I would agree with what Mr. Kingston said. 
+This is definitely a shared responsibility between companies 
+and security vendors and consumers themselves to follow good 
+practices. But we do believe it would be helpful for the 
+government to recommend, in a very flexible way, some 
+preventative measures that companies can take to at least give 
+a guideline to be able to protect their systems.
+    You mentioned the NIST standard. We believe that is a good 
+voluntary and flexible framework that companies can use to 
+guide in developing good security solutions.
+    Senator Grassley. To the three of you again, you know, and 
+this gets back to some people, maybe, think this ought to be 
+completely government driven, and then there are people that 
+think it is entirely industry, government stay out of it. The 
+Chairman and I have talked about a partnership. Recently the 
+National Institute of Standards and Technology was just 
+mentioned here.
+    So for you three, if government is going to create federal 
+data security standards, what role, if any, should the private 
+sector have in that process? Mr. Mulligan and then Kingston and 
+then Rosch.
+    Mr. Mulligan. Senator, I think private industry and 
+government have to work together here. I agree with what you 
+have heard. It is a shared responsibility, and communication 
+between both the private sector and the public sector is 
+important. We have had ongoing relationships and information 
+sharing with law enforcement. That needs to happen more broadly 
+between our organization and private organizations more broadly 
+and the government to find solutions here.
+    Senator Grassley. Mr. Kingston.
+    Mr. Kingston. I think guidelines and standards are always 
+very helpful, particularly in this case. So I would encourage 
+that all of the stakeholders provide input into that.
+    Mr. Rosch. Yes, I would agree, and I think, you know, the 
+key word here is ``flexibility.'' I think what we have to 
+recognize is that this is kind of an ongoing war, and the types 
+of threats are changing all the time, and the new technology 
+comes on the market to protect all the time. So we are 
+constantly kind of raising the bar. So whatever gets developed 
+needs to allow for that to happen versus locking in at any 
+particular time what might seem acceptable.
+    Senator Grassley. I am not going to ask a question. I did 
+have a question, but I kind of want to make a statement that I 
+hope that we can avoid a situation where the government says 
+you do something and you do it, and it is abiding by the 
+regulations and that may come up short of what we need to do. 
+That is why I think cooperation is so important.
+    Thank you, Mr. Chairman.
+    Chairman Leahy. And I had indicated I agree with that, 
+because we know we are dealing with something that even with 
+the expertise of the four of you here, you could not tell me 
+specifically what would be the greatest threat you might face 
+18 months from now, because these things are evolving, just as 
+our best intelligence agencies and others cannot either. But we 
+want to give you a framework. We want to have a framework, one 
+that protects consumers so they know where their rights are and 
+being protected, but also protect our businesses, because you 
+have to maintain the trust between both the businesses and the 
+consumers for the good of our country. We have a fragile 
+recovery. We are slowly recovering. But without that 
+credibility, we cannot do it.
+    I am going to yield to Senator Feinstein, then Senator 
+Hatch, and go back and forth. I have to step out for a moment. 
+Senator Feinstein.
+    Senator Feinstein [presiding]. Thank you very much, Mr. 
+Chairman.
+    I want to begin by thanking Mr. Mulligan and Mr. Kingston 
+for being here, because up until very recently, companies would 
+not step forward. Companies would not make it public. I 
+introduced the first data breach notification bill in 2003, and 
+I could not get any cooperation in that data breach. And I 
+pulled the record and would like to introduce the particulars 
+of what happened in 2002 and 2003 into the record. That will be 
+the order.
+    [The information referred to appears as a submission for 
+the record.]
+    Senator Feinstein. I am a shopper at your business then, 
+Mr. Kingston. I do not recall getting any notice that my data 
+may have been breached. When would I have had notice? And I 
+would have shopped during the period of time.
+    Mr. Kingston. Senator, we have actually sent out a number 
+of different notifications, and I will start with the 10 of 
+January when we learned----
+    Senator Feinstein. But you said you did not learn--the 
+breach took place months before you actually learned then that 
+there was a breach.
+    Mr. Kingston. It was not until January 6, actually, that we 
+learned that this very sophisticated malware that was put in 
+our systems had the ability to scrape card data in our systems. 
+And then we quickly put in actions to contain and eradicate 
+that malware, and then we immediately began notifying 
+customers.
+    Senator Feinstein. And you said that 1.1 million customers 
+had been affected?
+    Mr. Kingston. During that period of time, that was the 
+total number of accounts that we transacted in our stores.
+    Senator Feinstein. Now, can I assume that all 1.1 million 
+were affected and notified, so somewhere in my record I should 
+be able to find a record of having been notified?
+    Mr. Kingston. We have notified all customers who shopped in 
+our stores or on our Web sites, which is a greater number of 
+customers than were affected in this 1.1 million number. We 
+have notified all of those customers.
+    Senator Feinstein. And when did you do that?
+    Mr. Kingston. We did that on January 22.
+    Senator Feinstein. Okay. And, Mr. Mulligan, when did you 
+notify your customers? And how many did you notify?
+    Mr. Mulligan. Senator, we notified--sorry, we refer to them 
+as ``guests''--on December 19, four days after we found the 
+malware. For those guests which we had email addresses for, we 
+notified them by email. But given the scope, we thought it 
+appropriate that broad disclosure was the best path to go, and 
+so we had very broad disclosure through the media, on our Web 
+site, through social media, a multitude of channels.
+    Senator Feinstein. But you did not notify individual 
+customers?
+    Mr. Mulligan. We did not have specific contact information 
+for all----
+    Senator Feinstein. So you were depending on the public for 
+your notice. Can you explain to me why--see, I document cases 
+going back to 2003 and 2002. Nobody would notify. And I had a 
+bill that was notification, and it was fiercely fought. 
+Companies did not want to notify their customers. And I have 
+worked on that bill. It is not going to go anywhere because of 
+the notice provisions. So here we are, sort of, again with 
+respect to notices.
+    I believe that if somebody has an account or uses their 
+credit at your institution and their data is breached, they 
+should be notified so they can protect themselves.
+    Do you want to respond to that? I do not mean to----
+    Mr. Mulligan. No. We agree with your view completely, 
+Senator. Our focus has been on having accurate and actionable 
+information balanced with providing that notice as quickly as 
+possible and ensuring that we had the capability to respond to 
+what were going to be millions of requests for information.
+    We felt, given the scope of our breach, that public 
+dissemination was appropriate and would let all of our guests 
+know virtually immediately. And as I am sure you are aware, we 
+were on the front page of every newspaper in this country.
+    Senator Feinstein. But here is the problem with that. The 
+public notification is always vague. It is sort of non-
+specific. You really do not know. And then you find out, kind 
+of brutally, in other ways if you have money missing.
+    Now, you happen to be retail establishments. In 2003, a 
+hacker broke into electronic records of the payroll facility 
+for California State employees, and some 265,000 Social 
+Security numbers were compromised. Now, you said there was no 
+compromise of Social Security numbers. But my point is those 
+people deserve to know that their data was hacked. And this has 
+been the big resistance out there in the commercial community 
+in the 11, 12 years that I have worked on this. And so as far 
+as I am concerned, any bill that is forthcoming from this 
+institution should provide notification of customers that their 
+data may have been breached so they can protect themselves.
+    If anyone has a comment on that, if you disagree, please 
+tell me. No comment?
+    Mr. Kingston. We agree, Senator, which is why we did 
+exactly as you said. Once we knew that we had criminal activity 
+inside of our systems and who was impacted, we reached out 
+individually to customers. In fact, we reached out to more 
+customers just to be cautious, because it is important to us 
+that our customers understand that this is our primary concern, 
+their privacy and their information. And so all customers that 
+shopped the entire year in Neiman Marcus stores and Web sites 
+were notified.
+    Senator Feinstein. I will go home and look for my notice. 
+Thank you very much.
+    Ms. Derakhshani. We also agree that notification is an 
+extremely important aspect of this discussion, and as you 
+indicated, the sooner consumers are made aware, the sooner they 
+can take actions to protect themselves.
+    Senator Feinstein. Thank you very much.
+    Senator Hatch.
+    Senator Hatch. Well, thank you, Senator.
+    I know that many retailers are migrating toward secure 
+point-of-sale terminals capable of processing chip-and-PIN 
+transactions. Yet I have heard that some credit cards will only 
+require chip and signature, not chip and PIN. Why would that be 
+the case, especially when a chip-and-PIN credit card would be 
+more secure for in-store purchases? Anybody who cares to answer 
+that, I would just throw it to all of you.
+    Mr. Mulligan. Senator, it is my understanding today the 
+standards have been set for chip-enabled card technology. The 
+chip-and-PIN standards are not set yet. We are advocates, as 
+you mentioned, of getting to chip-and-PIN technology. We think 
+that is a safer form. But we think also waiting, we think 
+making the next step is important, and getting to a place where 
+we have guest payment devices and retailers that can read chips 
+and cards are issued with chips so that we can begin to migrate 
+away from magnetic strips is an important next step.
+    Senator Hatch. Okay. It is my understanding that chip-and-
+PIN technology does not make online purchases more secure. In 
+fact, the reports confirm that as Europe transitioned to chip-
+and-PIN cards, fraud losses from online transactions actually 
+increased at a greater pace. As chip-and-PIN cards make in-
+store transactions more secure in the United States, how will 
+you make online sales similarly secure, Mr. Mulligan?
+    Mr. Mulligan. I think that is an excellent question, 
+Senator, and I think, first, we need to not let the perfect get 
+in the way of the good, so making progress in stores makes a 
+lot of sense, and installing chip-and-PIN technology there, we 
+think, is important.
+    As you said, the threat continues to evolve, and so there 
+is a shared responsibility here and continuing to have all 
+parties that ensure payment transactions are processed 
+appropriately here in the U.S. be participants in moving that 
+forward to find solutions to the online transactions. We are 
+part of the EMV Migration Forum, and that is a topic there 
+where all interested parties in the payment space come together 
+and discuss that, so that we can find solutions to online. But 
+your point is right on.
+    Senator Hatch. Okay. Thank you.
+    Mr. Kingston, you said that credit card information was 
+scraped. What about other information like birthdays and Social 
+Security numbers? Did the hackers--were they able to get that 
+information, too?
+    Mr. Kingston. Senator, our investigation, which is still 
+ongoing, has shown no evidence that other personal information 
+outside of card holder information was scraped.
+    Senator Hatch. Okay. Mr. Rosch, could you please describe 
+both the advantages and the disadvantages or shortcomings of 
+chip-and-PIN technology as well as any alternatives that may 
+exist that are not currently being considered? As you know, 
+chip-and-PIN technology itself is more than 20 years old. Are 
+there more secure alternatives that we should be considering?
+    Mr. Rosch. Well, I think we would agree with the other 
+panelists and yourself that chip and PIN is definitely a step 
+in the right direction. While it is not a panacea, it 
+definitely adds three primary benefits to the ecosystem: One, 
+it is more encryption. So the credit card information would 
+stay encrypted longer, and it would make it much more difficult 
+for the hackers to be able to obtain that information. So that 
+is a big benefit of chip and PIN. The second is it makes it 
+more difficult to duplicate the card. So if the information is 
+stolen, sometimes with the regular magstripe, it is easy enough 
+to go and create another credit card. The fraudsters can create 
+another credit card. Because the chip in these cards have a 
+unique credential, they cannot be copied, so it reduces the 
+risk of multiple cards being generated. And then I think, 
+third, with the PIN, that combines what we call two-factor 
+authentication, when you have something you have and something 
+you know, the card being something you have and the PIN 
+something you know. So if someone was to actually steal your 
+physical card, it would do no good unless they knew your PIN.
+    So the three primary advantages, it definitely raises the 
+bar on security.
+    Senator Hatch. Okay. Now, I have a related question about 
+so-called mobile wallets. Although companies like Google are 
+just starting to roll out these types of products, I have no 
+doubt that this technology that allows you to pay by simply 
+tapping your smartphone at a register will be widespread in 
+just a few years. Could you describe the security features of 
+these payment platforms and whether chip-and-PIN technology is 
+compatible?
+    Mr. Rosch. Yes, I think we would agree with you that mobile 
+payments are certainly going to be the future. It is still yet 
+to determine exactly which of those different models that are 
+out there will be the future, but I think it is important to 
+note that when you use a mobile device, that is basically a new 
+opportunity for the criminals to be able to attack. That 
+broadens the attack surface. So there are a lot of good 
+technologies that can lock down these devices and keep that 
+information safe, and those things are in progress.
+    Chip and PIN would not apply in that case. As you 
+mentioned, it is really for card present when you have a swipe. 
+But there are other ways using behavioral analysis to be able 
+to fingerprint some of these devices and recognize a user that 
+can add security in the mobile payments ecosystem.
+    Senator Hatch. Thank you. My time is up.
+    Senator Feinstein. Thank you very much, Senator Hatch.
+    Senator Klobuchar.
+    Senator Klobuchar. Thank you very much, Senator Feinstein.
+    As Chairman Leahy noted, these are good companies. We 
+certainly know that in Minnesota, the home of Target. And we 
+also know that if these companies can see these kinds of data 
+breaches, these companies that employ so many people in our 
+country, it can happen to anyone.
+    And as Senator Feinstein expressed, a lot of times when we 
+have pushed some of these cyber bills, whether it is about 
+government security, whether it is about private security, we 
+get a lot of pushback. And I think that, if anything, we have 
+learned from this major, major breach that we can no longer do 
+nothing, that we have to take action.
+    And as a former prosecutor, of course, my first reaction to 
+this is to find the crooks that did this and punish them, and I 
+know that that investigation is continuing.
+    My second reaction is that we have to find the technical 
+solutions here and that our laws have to be as sophisticated as 
+the crooks that are breaking them, and I start there.
+    So I thought I would start with following up with what 
+Senator Hatch talked about, which was this new technology that, 
+I understand, is adopted in Europe. Is that true, Mr. Rosch?
+    Mr. Rosch. Yes, it has been adopted in Europe, and it has 
+showed some significant benefits.
+    Senator Klobuchar. And is it true in Great Britain that 
+they have seen a major decrease in these kinds of breaches?
+    Mr. Rosch. They have seen a reduction in in-store or card-
+present breaches. They have also seen, however, some of that 
+shift to the online channel where the chip and PIN does not 
+prevent that. But it has definitely helped in reducing fraud 
+in-store.
+    Senator Klobuchar. Okay. And so what is stopping us from 
+moving to this kind of technology? We have acknowledged, as 
+Senator Hatch has, that maybe there will be some other new 
+great thing that comes along. But what is stopping our country 
+when they are doing this in Europe? I know, Mr. Mulligan, that 
+Target had attempted using this technology. I think--was it 
+back in 2003? Is that right? And so what has stopped it from 
+being rolled out on a major basis? And how can we change that, 
+Mr. Mulligan?
+    Mr. Mulligan. As you know, there are many participants in 
+the payment card world that ensure transactions are processed 
+appropriately in the U.S. As you said, we tried this in 2003. 
+We put guest payment devices, as we call them, in our stores to 
+read chips. We introduced a new payment card, a Target Visa 
+card, with a chip in it. But without broad adoption, there is 
+not significant benefits for consumers.
+    Senator Klobuchar. And by broad adoption, you mean other 
+retail outlets using the same card?
+    Mr. Mulligan. Other retailer outlets having the ability to 
+read that card as well as the cards being issued with chip 
+technology on them. So it is both pieces of the payment 
+industry need to move together simultaneously.
+    We have been advocates of this, and all of us need to move 
+together simultaneously. It is a shared responsibility.
+    Senator Klobuchar. And how does this interact with the 
+financial industry?
+    Mr. Mulligan. The financial industry, obviously, they are, 
+in general, the issuers of the cards, and so, again, in 
+partnership with them, we need to move together collectively so 
+that the whole system is employing chip-and-PIN technology.
+    Senator Klobuchar. And would the NIST standard we were 
+talking about before--that is in development. Is that right?
+    Mr. Rosch. Yes, the NIST standard----
+    Senator Klobuchar. How long has it been in development?
+    Mr. Rosch. It has been in development for quite some time, 
+but it is due to be released in a week.
+    Senator Klobuchar. Okay. Like 20 years or----
+    Mr. Rosch. No. Just more on a year time frame.
+    Senator Klobuchar. Okay, good.
+    Mr. Rosch. But it is due to be released next week, so we 
+are making good progress.
+    Senator Klobuchar. Okay. Well, that is good timing. And so 
+would that cover this kind of new technology and it would set a 
+standard for these companies? Or do we need to do something 
+more aggressive to get the new technology out there?
+    Mr. Rosch. I think the NIST standard does provide some 
+guidelines and objectives for companies to follow. It is not 
+specific in requiring chip and PIN.
+    Senator Klobuchar. Okay. Did you want to add anything, Mr. 
+Kingston or Ms. Derakhshani?
+    Ms. Derakhshani. We are definitely supportive of chip-and-
+PIN technology and of the efforts to--of any efforts to 
+expedite wide adoption of this technology.
+    Senator Klobuchar. Okay. And then I just want to go back 
+quickly to something that was raised at the beginning, about 
+the time in between when it was confirmed this malware was on 
+the system and when the consumers found out about it. Mr. 
+Mulligan, could you give me just the time in between the time 
+it was confirmed and the time you notified customers?
+    Mr. Mulligan. We confirmed malware on our systems on 
+December 15, and we notified customers on December 19, Senator.
+    Senator Klobuchar. And by ``notified,'' to make clear--this 
+was Senator Feinstein's question--it was done publicly.
+    Mr. Mulligan. Broad public disclosure, yes.
+    Senator Klobuchar. Okay. And then, Mr. Kingston, what was 
+your timeline?
+    Mr. Kingston. We were first notified by our forensic 
+investigators on January 2 that they saw suspicious malware. It 
+was not until January 6 that they understood how it operated. 
+And then we spent the next few days containing, disabling, and 
+removing the malware, and it was on January 10 that we started 
+notifying the public and customers directly.
+    Senator Klobuchar. All right. And did both companies have 
+policies in place on how you would do this consumer 
+notification before it started?
+    Mr. Mulligan. We have several crisis communications plans, 
+and we enacted those immediately upon finding the malware in 
+our systems.
+    Senator Klobuchar. Okay. Mr. Kingston.
+    Mr. Kingston. Yes, we do.
+    Senator Klobuchar. All right. Very good. Well, I think you 
+know Senator Leahy has a bill that is focused on some of these 
+notification issues, but I continue--which I think is very 
+important, and I think some of the issues Senator Feinstein 
+raised are worth discussing. I also think that we really have 
+to push on this technology, understanding some of the smaller 
+retailers are going to have different situations than the 
+bigger retailers. But if we want to fix this going forward so 
+this just does not keep happening and happening--we just 
+recently found out hotel chains are now being affected by 
+this--we are really going to have to put something in place. So 
+thank you very much for being here today.
+    Senator Feinstein. Thank you very much, Senator Klobuchar.
+    Senator Lee, Senator Hatch has asked to make just one small 
+statement before I recognize you, if that is agreeable. Please 
+go ahead.
+    Senator Hatch. Well, thank you, and thank you, Senator Lee.
+    Just an article that came up actually today, it starts off 
+by saying, ``U.S. intelligence agencies last week urged the 
+Obama administration to check its new health care network for 
+malicious software after learning that developers linked to the 
+Belarus Government helped produce the website.''
+    I will just read two other sentences. `` `The U.S. 
+Affordable Care Act software was written in part in Belarus by 
+software developers under state control, and that makes the 
+software a potential target for cyber attacks,' one official 
+said.''
+    And then, ``Cybersecurity officials said the potential 
+threat to the U.S. health care data is compounded by what they 
+said was an Internet data `hijacking' last year involving 
+Belarussian state-controlled networks.''
+    I just wanted to bring that up because this is a really 
+serious set of discussions, and it goes far beyond just maybe 
+what the retail community is concerned about.
+    Thank you.
+    Senator Feinstein. You are right, Senator. Thank you.
+    Senator Lee.
+    Senator Lee. Thank you, Senator Feinstein, and thanks to 
+all of you for joining us today. This is an important topic. I 
+know it is important to each of you and to America's consumers.
+    I generally trust that the marketplace will create the 
+right kinds of incentives for retailers to protect the personal 
+data of their consumer base. But I think the creation of those 
+incentives really requires, as a condition, precedent that 
+there be adequate notification procedures in place. In other 
+words, consumers, I think, have to have received notification 
+in order for any of this to work. They have to receive 
+notification in order to take the steps they need to take to 
+protect their identity, and they also need notification so that 
+they can decide where to take their business. If they do not 
+trust a particular business with their data, they are not going 
+to shop there.
+    So I will start with you, Mr. Mulligan. What factors do you 
+weigh in deciding at what point to notify consumers--
+``guests,'' as you put it. I do not want to denigrate the 
+Target consumer base by calling them just ``consumers.'' We 
+have to call them ``guests.'' At what point do you decide to do 
+that? Because there are some countervailing considerations, 
+aren't there? I mean, you do not necessarily want to notify 
+immediately upon discovering that there is a problem.
+    Mr. Mulligan. Our view, Senator--and you are right. After 
+18 years, it almost rolls off my tongue without thinking about 
+it. But our view is there is a balance to be struck here. 
+Certainly speed is very important to let consumers know what is 
+going on, but balancing that, as we look through the lens of 
+our guests, is ensuring that we are providing them with 
+accurate information so they can understand what happened, and 
+then actionable information so they can understand what to do 
+about it. And balancing those two factors is the lens we look 
+through, and that ultimately led us to our time frame.
+    I would also add, for us in particular, given the magnitude 
+and the size of our company, ensuring that we had the 
+appropriate ability to respond to our guests, as we knew the 
+questions were going to come, ensuring our call centers were 
+staffed up and prepared with information for our guests, and 
+that our stores were able to provide that information. So there 
+was a large training element that also went on to ensure we 
+were able to handle their questions and concerns appropriately. 
+But all of that came together and balanced our decision making 
+on how quickly to provide notification.
+    Senator Lee. But it could cause problems if you notified 
+too soon. If you notified before you know the nature and extent 
+of the threat and before you know what you are going to do 
+about it, that could cause issues.
+    Mr. Mulligan. We believe it is important to provide 
+accurate information once notification is made, Senator, yes, 
+what has gone on and helping our consumers understand what to 
+do about it.
+    Senator Lee. Okay. Thank you.
+    Mr. Kingston, one potential legislative response to all of 
+this could involve establishing some kind of national security 
+standard, to codify certain security standards, perhaps 
+standards that are already accepted within the industry. I am 
+always a little bit concerned about creating a new federal 
+regulatory authority, in part because sometimes once you 
+establish something like that, it quickly becomes ineffective, 
+especially if it is in an area like this one where 
+technological advances can very quickly render a codified 
+national security standard irrelevant or outdated.
+    There is also, I think, some risk that if we create a 
+national security standard, that would be seen not just as a 
+floor but as a floor and a ceiling, and you could see some 
+people complying with that, and then that creates an easy 
+target for would-be thieves to go after, because they know what 
+the security standards are because they are codified in law. Do 
+you see some risks associated with adopting federal legislation 
+that codifies a uniform security standard?
+    Mr. Kingston. I think there are going to inherently be 
+risks for some of the reasons that you stated, Senator. I think 
+the thing that we have to keep in mind is that the 
+cybersecurity threat landscape continues to evolve. Every day 
+it becomes more and more complicated. And so as soon as we 
+establish the standards--and I think standards are helpful but 
+as soon as we establish those, as you pointed out, the whole 
+world knows about it and that gives them the ability to try to, 
+as in our case, come up with ways to defeat those standards.
+    I think it is obviously healthy to be able to communicate 
+to people what some of the standards and good practices are. 
+But I agree with you; I think there are risks there as well.
+    Senator Lee. Okay. In the two seconds I have remaining, Mr. 
+Rosch, I saw you nodding. Do you have anything you want to add 
+to that?
+    Mr. Rosch. Yes. I think it is not only that the cyber 
+threats are evolving very quickly so it is difficult to lock 
+things in; our environments are changing so quickly. If we look 
+at what a company's infrastructure looked like five years ago, 
+it was pretty much contained within their data centers and 
+their devices. Today information is everywhere. It is in our 
+data centers. It is in the cloud. It is in, you know, software 
+that sits in the cloud on mobile devices. So the threats are 
+exploding, but so is the attack surface. So we need to be 
+flexible to be able to adjust, because both of those 
+environments change.
+    Senator Lee. Thank you very much.
+    Thank you, Chair.
+    Senator Feinstein. Thanks, Senator Lee.
+    Senator Franken.
+    Senator Franken. Thank you, Madam Chair.
+    First of all, I think on those--Chairman Leahy has a bill 
+that I am a cosponsor of that talks about having some 
+standards, but I think you can write them in a flexible manner. 
+And I see you nodding, Mr. Rosch.
+    As some of you may know, I am Chair of the Subcommittee on 
+Privacy, Technology, and the Law. I think the people have a 
+fundamental right to privacy, and for me, part of that right is 
+knowing that your sensitive information is protected and 
+secure. And when millions of consumers have their credit and 
+debit card data stolen, we have a big problem. We need to fix 
+it.
+    Minnesotans shop at Target all the time, as do millions of 
+other Americans. Minnesotans shop at Neiman Marcus, too. We 
+need to get to the bottom of these breaches.
+    But what is clear to me is that we are not just dealing 
+with the problem of Target and Neiman Marcus, or Michaels, for 
+that matter. We are dealing with a systemic problem. A big part 
+of that problem, as we have discussed, is the security of our 
+credit and debit cards. The U.S. has one-fourth of the world's 
+card transactions, and yet we are victims to half of all card 
+fraud.
+    Two weeks ago, I wrote to each of the Nation's largest 
+credit and debit card companies to ask them what they were 
+doing to make our cards safer, and their responses are due 
+tomorrow.
+    The Federal Government has a role to play here, too. 
+Congress needs to pass laws that promote data security. Right 
+now there is no federal law setting out clear security 
+standards that merchants and data brokers need to meet, and 
+there is no federal law requiring companies to tell their 
+customers when their data has been stolen. And I am glad to say 
+that Chairman Leahy has a bill that would fix this problem, and 
+I am glad to be a cosponsor of it. And I think it contains 
+enough flexibility that it is not a signal to how to overcome 
+that to criminals.
+    First I want to get a little better handle on how Target 
+and Neiman Marcus had their breaches occur. Mr. Mulligan, 
+retailers are on the front line when it comes to stopping the 
+breach of their customers' data. I understand Target has spent 
+considerable resources on data security systems. But a January 
+17 article in the New York Times states that your systems at 
+Target were ``astonishingly open'' and ``particularly 
+vulnerable to attack.''
+    I know that you had had independent audits before, a couple 
+of them, saying that you had passed muster and you were among 
+the best in the industry. Can you respond to these charges?
+    Mr. Mulligan. Sure. Respectfully, Senator, we would not 
+share that view. Over the past several years, we have invested 
+hundreds of millions of dollars in several areas in technology 
+to prevent data loss. This includes segmentation, malware 
+detection, intrusion detection and prevention, data loss 
+prevention tools, multiple layers of firewalls. But beyond 
+that, as you said, we have ongoing assessments and third 
+parties coming in doing penetration testing of our systems, 
+benchmarking us against others, assessing if we are in 
+compliance with our own processes and control standards. And we 
+have invested in team. We have hundreds of team members 
+responsible for this. We go so far as training 370,000 team 
+members annually on the importance of data security. So we have 
+taken a holistic view of our approach to data security and 
+invested significant resources.
+    Senator Franken. Okay. It is kind of spy versus spy, is 
+what we are talking about.
+    Mr. Mulligan. Yes.
+    Senator Franken. You said in your oral testimony that you 
+are for--and Senator Hatch brought this up--that you are for 
+the smart chip plus PIN. And, Mr. Rosch, Visa and MasterCard 
+are pushing to roll out smart chip cards in the U.S. in October 
+2015. I wish that could be hurried. It is my understanding 
+these cards will not require or may not require PINs for every 
+transaction, and this is surprising to me because, as we have 
+heard from you, the incidence of fraud is far higher for 
+signature debit transactions than for PIN debit transactions. 
+And maybe this is for Ms. Derakhshani. Is there a reason that 
+Visa and MasterCard do not want to put the PIN in there?
+    Ms. Derakhshani. So we are aware of the promises that have 
+been made to implement the technology by 2015. I think the 
+answer comes down to money. It is expensive to update the 
+technology at the point of sale. It is expensive to reissue 
+cards. So we would be supportive of efforts to encourage 
+widespread adoption of these technologies, and we think that 
+more of a push would be a good thing.
+    Senator Franken. Mr. Rosch, could you follow up on that? In 
+particular, do Visa and MasterCard have a reason?
+    Mr. Rosch. Sure. I think that, you know, chip and PIN, we 
+think, is the best and most secure solution.
+    Senator Franken. Sure.
+    Mr. Rosch. I think the chip on its own still does provide 
+more advanced security around encrypting and preventing the 
+cloning of the cards. The PIN is just an additional thing, and 
+we think that is the way to go.
+    Senator Franken. Okay. Thank you.
+    Thank you, Madam Chair.
+    Senator Feinstein. Senator Franken, it is my understanding 
+it has been arranged that you chair. I must leave now.
+    Senator Franken. Yes.
+    Senator Feinstein. And I believe Senator Durbin is next.
+    Senator Franken [presiding]. Yes. So go ahead, Senator 
+Durbin. And I will move over to the chair. Senator Durbin.
+    Senator Durbin. I believe under the early bird rule that 
+Senator Coons is next.
+    Senator Feinstein. It is not early bird. It was by 
+seniority.
+    Senator Durbin. Oh. Well, I am going to defer to Senator 
+Coons.
+    Senator Franken. As Chair, Senator Coons.
+    Senator Coons. Thank you very much, Senator Durbin and 
+Senator Franken.
+    If I could just follow up on the line of questioning 
+Senator Franken was on, first, I just want to thank all the 
+witnesses because it is very helpful when you take the time to 
+share with us the details of these incidents. And as we in 
+Congress work hard to try and strike the right balance between 
+a robust and a vibrant marketplace where we all benefit from 
+the ease and the convenience of using credit cards and debit 
+cards, but we also try to make sure we are sufficiently 
+protected in our privacy and against theft and fraud. These are 
+delicate balancing choices we have to make, and I think this 
+has been very helpful for us to better understand standards, 
+what is possible, what is desirable, and what it would cost and 
+what the impact is.
+    So if I could just continue, Ms. Derakhshani, does the 
+Consumers Union believe that October 2015 is a reasonable 
+deadline for the implementation of this chip technology?
+    Ms. Derakhshani. I think we are supportive of efforts to 
+expedite it even more quickly.
+    Senator Coons. So you think it is possible for it to be 
+done even more quickly, it is just a matter of cost?
+    Ms. Derakhshani. Well, I would not be able to speak to the 
+exact--you know, everything that it takes for it to be 
+implemented. But we would like to see it be implemented more 
+quickly.
+    Senator Coons. And if I understand correctly, chip plus 
+PIN, which is now possible, a PIN is possible in many debit 
+card cases, and there is a sevenfold increase in fraud when you 
+use debit cards without a PIN than when you use them with a 
+PIN. Do you believe PIN technology ought to be enabled for 
+credit cards as well?
+    Ms. Derakhshani. That is an interesting question. We have 
+spoken about the differences between debit card protections and 
+credit card protections, and I think it would be a good thing 
+for debit card--you know, you are less protected under debit 
+cards, and it would be a good thing for debit card technology 
+to come in line with credit card protection.
+    Senator Coons. Mr. Kingston, do you have the option 
+currently requiring customers who present a debit card at point 
+of sale to input a PIN?
+    Mr. Kingston. We do not use PIN pads in our stores 
+currently, and we do not require PINs.
+    Senator Coons. And just help me understand why not.
+    Mr. Kingston. I think the issue that we are talking about 
+here is that there are a lot of different technologies that are 
+available, and this is something that right now in the industry 
+consumers actually do not really have a lot of these cards in 
+their wallet. I am a consumer. I have several credit cards in 
+my wallet. None of them have chips on them. So while it is an 
+option, it is something that just has not been widely adopted 
+by the industry at this point.
+    Senator Coons. But my specific question was about PINs on 
+debit cards rather than chips, but I understand your point that 
+the trajectory of cards with chips in them, the trajectory of 
+that adoption is not easily predictable.
+    A broad question, Mr. Rosch, if I might. You testified 
+breach notification standards are not enough. Federal 
+legislation is needed to ensure pre-breach security measures. 
+Can you grade the sufficiency of the cybersecurity efforts 
+currently in place by retailers? We have talked about data 
+security and cybersecurity. If you could give us some insight 
+into how the PCI compliance factor weighs in to cybersecurity.
+    Mr. Rosch. Yes, it is a great question, and I think, you 
+know, there are a lot of companies that have put in very 
+effective security solutions and some that have a ways to go. I 
+think the trick here is--we focus very much on chip and PIN, 
+which is just one kind of potential breach point. What 
+companies really need to do is look at very layered securities 
+at every part of their ecosystems and ensuring good basics, 
+like putting stronger authentication in place so bad people 
+cannot get into the networks, into their companies and start 
+laying the foundation for this threat. The more we can encrypt 
+the data throughout its entire--as it traverses around, then if 
+the bad guys do get it, they cannot decrypt it and it is of no 
+value to them.
+    We talk about anti-virus missing some of these things, and 
+it does. Anti-virus is a great foundational technology, but 
+there are things that we can do on top of that to recognize and 
+stop some of these emerging threats.
+    So it is really about putting this layered security 
+approach, and we think any legislation should reflect those 
+layers.
+    Senator Coons. Thank you. My last question, if I might, to 
+Mr. Mulligan and Mr. Kingston. Just if you would help us 
+understand what are the key impediments that your companies 
+face in trying to achieve this sort of more robust 
+cybersecurity. Obviously it is expensive. But as you try to 
+strike the right balance, whether it is guests or customers, 
+those of us who enjoy shopping at your stores and enjoy the 
+flexibility and freedom of having cards we can use anywhere 
+also want to make sure that our data is protected and that we 
+are not, as a country, subject to vast amounts of fraud.
+    What are the major impediments to your companies actually 
+implementing stronger cybersecurity measures?
+    Mr. Mulligan. I can start. For us, we agree, layers of 
+protection are important broadly across the entire enterprise. 
+As we think about it, this is an evolving threat, and we think 
+one of the keys going forward is, again, shared responsibility, 
+to share information across the industry, not just retail but 
+broadly across industry, and, you know, we have a history of 
+doing that with law enforcement, but with other parts of the 
+government, so that we can all understand the evolving threat 
+and respond to it as we design our data security systems and 
+protocols.
+    Mr. Kingston. I talked earlier about the importance of all 
+the actors in this ecosystem being able to share intelligence. 
+As we have learned, these recent cyber attacks are very, very 
+sophisticated. Things that have not been seen before are done. 
+So I think that is one thing.
+    I think the other thing that is really important is that 
+all of the actors be able to adopt these technologies at the 
+same time. So consumers obviously have to be able to adopt it, 
+technology companies, financial institutions, and private 
+sector as well.
+    Senator Coons. Well, thank you. I do think there is a 
+strong federal role here in ensuring strengthening 
+cybersecurity and privacy.
+    Thank you both to Senator Durbin and to Senator Franken. 
+Thank you.
+    Senator Franken. We actually are using the early bird rule, 
+so you are the late bird. So we go to Senator Blumenthal.
+    Senator Blumenthal. Thank you. Thank you all for being 
+here. It is not easy to be the face of the industry which 
+really bears a responsibility here for what I see as a record 
+of failure. And this comment is not directed at Target or 
+Neiman Marcus. It is directed at an industry, and I think you 
+deserve a lot of credit for coming here today and representing 
+that industry, and also for the steps that you have taken in 
+the wake of breaches that certainly victimized you, and those 
+measures include credit monitoring, insurance, measures that I 
+sought for others in this industry and in other worlds to adopt 
+voluntarily while I was Attorney General of the State of 
+Connecticut and literally had to bludgeon and pummel them into 
+doing--not physically but legally. And I just want to commend 
+you for appearing here and for the proactive steps that you 
+have taken.
+    But I have introduced a bill that I think builds on the 
+very good measures that Senator Leahy and Senator Rockefeller 
+have introduced to establish standards so that there will be, 
+in effect, a bar--a bar that everybody has to follow, a 
+standard of care--because this information is not yours. It is 
+entrusted to you. It belongs to the consumers. And that kind of 
+basic principle is the bedrock of this legislation, a standard 
+of care applied industrywide, and enforcement, because rights 
+are not real unless they are enforceable--so enforcement by the 
+FTC but also by consumers themselves, a private right of action 
+for consumers to take when they are victimized, as your stores 
+may be victimized, by those hackers, a standard of care 
+enforceable by an individual right of action, and a 
+clearinghouse so that you can share the kind of information 
+everybody has said here this morning that is so important for 
+you to be able to exchange among yourselves and help to be 
+flexible and raise that bar. And I do agree that the standard 
+has to be flexible. Right now we are talking about chip and 
+PIN, but the threats are emerging and evolving, and so does the 
+standard in its specifics.
+    But, you know, I sit here with the attitude of most of your 
+consumers, which is half the fraud occurs in the United States, 
+but only a quarter of the credit card use. Something is wrong 
+with this picture. Isn't that fact and the continuing series of 
+significant, even sensational, breaches an indictment of the 
+American retailing industry in its failure to protect consumer 
+information? We are talking here, after all, not about some 
+exotic, novel science fiction technology in chip and PIN? We 
+are talking about something that is widely used in Europe and 
+could easily have been imposed here much earlier.
+    So my question to you, Mr. Rosch, in light of your very 
+welcome and important recommendations--and you have had the 
+good sense to make them somewhat simple in a graph that is 
+understandable to us rudimentary laymen--would your 
+recommendations have helped to prevent this kind of massive 
+breach at Neiman Marcus and Target?
+    Mr. Rosch. Yes, well, to start out, I am unable to speak 
+about any specifics of the incidents. You know, all the 
+evidence based on public information is that these were very 
+sophisticated attackers and they were very well resourced. 
+However, in general, we do believe that, you know, if companies 
+put in this good layered security approach while leveraging the 
+strong authentication, the encryption, the heuristics on top of 
+AV, the chip and PIN, all these things would contribute to a 
+safe ecosystem.
+    Senator Blumenthal. That is basically a yes, it would have 
+helped prevent--I am not asking you to go into the details, but 
+network segmentation, two-factor authentication--and you also 
+recommend the chip and PIN or something like it--would have at 
+least helped to prevent this kind of massive breach.
+    Let me ask you, gentlemen, Mr. Kingston and Mr. Mulligan, 
+were you then in the process of adopting some of these 
+recommendations or not knowing they were recommendations of 
+Symantec but recommendations in substance like them? And if not 
+then, are you now?
+    Mr. Kingston. Senator, as I said in my written statement, 
+we actually do have a multilayered security architecture and 
+had prior to these attacks at Neiman Marcus. Many of the 
+technologies----
+    Senator Blumenthal. Was this information encrypted?
+    Mr. Kingston. The information was encrypted during 
+processing. Many of the technologies that are being discussed 
+here today by the Committee--two-factor authentication, 
+segmentation, network monitoring for suspicious traffic--these 
+are all technologies that we have deployed and utilized at 
+Neiman Marcus.
+    Unfortunately, the sophistication of this particular attack 
+was able to evade detection of all of those best practices, and 
+I think what we have learned and what is important here is that 
+just having tools and technology is not enough in this day and 
+age. These attackers, again, are very, very sophisticated, and 
+they have figured out ways around that.
+    It is often how you are deploying those technologies and 
+what else are you doing, which comes back to making sure that 
+we are sharing intelligence as much as we can so that we can 
+try to stay as close to or ahead of the attacks.
+    Senator Blumenthal. Thank you. My time has expired, so you 
+may be spared, Mr. Mulligan, an answer to that question. But I 
+would like to ask both of you to provide perhaps some detailed 
+answers in writing to the question about whether you are going 
+beyond your present practices and procedures to adopt these 
+steps that Symantec has recommended. I am not saying they are 
+the only solutions, but just a kind of benchmark. And if you 
+could provide that in writing, I would appreciate it.
+    [The information referred to appears as a submission for 
+the record.]
+    Senator Blumenthal. I also want to say that my bill would 
+provide for mandatory notification, and I also want to thank 
+you for the notification steps that you did take, both of your 
+companies took to notify consumers.
+    Thank you very much, Mr. Chairman. Thank you, Senator 
+Durbin.
+    Senator Franken. Yes, just one. I know Mr. Mulligan did not 
+answer on this, but Target, as Senator Klobuchar pointed out, 
+10 years ago tried to implement the EMV technology and found 
+that so few others were doing that that they abandoned that. 
+But that is something I want to find out from the banks and the 
+credit card issuers and debit card issuers about how fast they 
+can go to this technology, because right now it is October 
+2015.
+    But let us go to Senator Hirono.
+    Senator Hirono. Thank you. Following what appears to be the 
+protocol on this side of the table, I would certainly be happy 
+to defer to Senator Durbin if he would like to ask his 
+questions.
+    Senator Durbin. Mr. Chairman, I would like to defer to 
+everyone except Senator Whitehouse.
+    [Laughter.]
+    Senator Hirono. Thank you.
+    Senator Franken. I am the Chair of this Committee, and I 
+will determine----
+    [Laughter.]
+    Senator Franken. But that is about right, okay. Senator 
+Hirono.
+    Senator Hirono. I would like to thank Target and Neiman 
+Marcus for coming here today because I think all of us--most of 
+us shop at both of these establishments. And there has been 
+discussion about by 2015 Visa and MasterCard are required--
+basically using the power of the--their power, to require that 
+the merchants and banks agree to issue cards and you all have 
+readers that will read cards with chips in them. So I take it 
+that, Mr. Kingston and Mr. Mulligan, both of you are prepared 
+to meet that deadline with the chip technology.
+    Mr. Mulligan. Senator, we have been proponents of chip and 
+PIN, as you just heard, for a very long time. We are in the 
+process of rolling this out in our stores. Over 300 of our 
+stores already have, we call them, ``guest payment devices,'' 
+and we are accelerating that $100 million investment to get 
+those in our stores by the fourth quarter of this year, and 
+then the products we offer will have the chips in them early 
+next year.
+    Senator Hirono. Are you also prepared to adopt the PIN 
+portion of what is being suggested?
+    Mr. Mulligan. We are advocates for the PIN. As the industry 
+in total becomes capable of handling that for credit 
+transactions, we will be ready for that as well, as we are 
+advocates of that as a double authentication.
+    Senator Hirono. What about you, Mr. Kingston?
+    Mr. Kingston. Senator, Neiman Marcus is certainly willing 
+and will consider anything that is going to make this process 
+and consumer information safer, including chip and PIN. As I 
+pointed out earlier, at Neiman Marcus we do not use PIN pads 
+today, and as a practical matter, I think it is important for 
+the Committee to understand that while I think the industry 
+would be safer with that, there is lots of work to do in order 
+to make that happen. Obviously there are PIN pads that have to 
+be able to process this. There are software changes that will 
+have to happen. And, of course, all of the integration with the 
+other actors, such as the banks and the merchant processors has 
+to occur, and then finally, of course, getting all the cards 
+with the chips in consumers' hands.
+    I think we are very supportive of considering those and 
+other technologies and capabilities that will make us safer, 
+but I think we all need to understand that there is a lot of 
+work involved in doing that.
+    Senator Hirono. Well, what I heard is that Target is 
+prepared to establish or go with both a chip-and-PIN 
+technology, but you are raising some concerns. So does that 
+mean that at Neiman Marcus you would not be able to meet a 2015 
+deadline with both of these factors?
+    Mr. Kingston. I am not saying that we are not prepared to 
+do it. What I am saying is that we would definitely want to 
+evaluate that as a safer measure for our customers and move as 
+quickly as we possibly can to do that.
+    Senator Hirono. Would federal legislation help if we were 
+to say--because right now it is just Visa and MasterCard saying 
+here is what is going to happen in the arena. Would federal 
+legislation that says here is what we would like to see?
+    Mr. Kingston. I think we would have to consider that. If we 
+have to do it under the law, obviously we will follow the law.
+    Senator Hirono. It may be coming down the pike. But, of 
+course, we would want to have all the parties at the table so 
+that we can proceed in a reasonable way. And, also, the cost 
+was mentioned, and I do not know whether in the non-federal 
+arena this cost was going to be borne by Target and Neiman 
+Marcus and all the other retailers and financial institutions 
+to comport with what MasterCard and Visa----
+    Mr. Mulligan. It is a shared responsibility and a shared 
+interest in payment processing, and the costs will be borne 
+by--a portion of the costs will be borne by all participants.
+    Senator Hirono. Including the consumers?
+    Mr. Mulligan. No. It would be the companies involved in 
+payment processing, Senator.
+    Senator Hirono. So what would be the cost to implement this 
+kind of technology? And perhaps Ms. Derakhshani can enlighten 
+us on that.
+    Ms. Derakhshani. Well, we think that it is very important 
+for costs not to be borne by the consumer. Consumers have lost 
+this information through no fault of their own. I think it is 
+really important to remember that.
+    Senator Hirono. So do you have any idea what the cost of 
+putting in place a chip-and-PIN system would be?
+    Ms. Derakhshani. I would be happy to maybe look into and 
+get back to you all, but I do not have figures at this time.
+    Senator Hirono. I know I am running out of time, but one of 
+the areas that I was very interested in is the prevention side 
+of things. Mr. Rosch, you mentioned that one of the first lines 
+of defense is for the consumers to use different kinds of--that 
+they should use certain kinds of PINs and all of that. How do 
+we get this information out to consumers so that, as you say, 
+they are the first line of defense in terms of prevention? What 
+can we do to enable consumers to know that they can take some 
+of these prevention elements into their own hands and protect 
+themselves?
+    Mr. Rosch. It is a great question. I do think that there 
+are things that consumers can do around stronger passwords, 
+changing them frequently, getting their credit reports, 
+watching their bills. So I think we all have that shared 
+responsibility to try to get that communication out. I know 
+Consumer Reports is an excellent--makes excellent 
+recommendations directly to consumers. We do that as part of 
+our business. The Better Business Bureau has good 
+recommendations, so I think it is just kind of that shared 
+getting the news out there that these basic hygiene things can 
+help keep them protected.
+    Senator Hirono. I think that is very important aspect 
+because, for a lot of consumers--and I am one of them. I am 
+trying to simplify my life by just using very few passwords. 
+You are suggesting the exact opposite, so I think that kind of 
+information needs to get out and have consumers adopt the kind 
+of suggestions you are giving.
+    Thank you.
+    Senator Franken. Senator Durbin.
+    Senator Durbin. Thank you very much, Mr. Chairman.
+    I want to return to those thrilling days of yesteryear, 
+2010 and the Durbin interchange fee amendment on debit cards, 
+where we basically finally asked publicly a question about 
+something that was known to retailers across the United States, 
+and not very well known to anyone else, and that was the amount 
+that was being charged on each transaction by the card issuers 
+and banks when a retailer used the card. And what the Federal 
+Reserve reported to us was that the average was 44 cents on 
+transactions; the actual cost to the card issuer and the bank, 
+seven cents. So we asked them to find some reasonable fee, 
+interchange fee, for debit cards, and the Federal Reserve came 
+up with about 24 cents. I do not know exactly how they made 
+that calculation. It is currently being litigated.
+    Within that 24 cents, though, was one penny or one cent for 
+fraud prevention, and it is ironic, or at least coincidental, 
+that just weeks after this law was passed and signed by the 
+President and implemented, we had an announcement by Visa that 
+they were finally adopting a road map for chip card technology 
+in the United States. They had a dedicated source coming off 
+the interchange fee that they represented to the Federal 
+Reserve was going to be an anti-fraud effort. So we are moving 
+in that direction, albeit slowly, considering the circumstances 
+we are talking about today.
+    It is ironic--my staff had me cover the numbers, but it is 
+ironic that I have had a chip card in my wallet with American 
+Express for years, and I do not know that it has ever been used 
+for any purpose other than this, but it is clear that it is 
+there and it has been around for a while.
+    So let me go to a study that came out recently in 2012. 
+There was about $5.3 billion in credit and debit card fraud 
+loss in the United States in 2012--$5.3 billion. One-fifth the 
+payment card fraud loss has occurred with debit cards. The 
+Federal Reserve found that in 2011 there were $1.38 billion in 
+debit card fraud losses. The Fed said that card issuers bore 60 
+percent of these debit card fraud losses, merchants 38 percent, 
+card holders two percent.
+    So, Mr. Mulligan, in light of that fact that fraud losses 
+are divided among banks, merchants, and card holders, do you 
+agree it is a shared responsibility to support this move toward 
+new technology such as chip and PIN?
+    Mr. Mulligan. We absolutely agree it is a shared 
+responsibility among all participants in ensuring payment 
+transactions happen that are facilitated in the U.S. today. All 
+of us have an interest in ensuring that consumers or our guests 
+have trust in the system that they are using every day. That is 
+why we have been proponents of moving to chip and PIN over a 
+very long period of time, and we are currently looking to 
+accelerate our investment to bring those devices into our 
+stores more quickly.
+    Senator Durbin. You and I had a brief conversation when we 
+met yesterday, and one of the aspects of this is the card 
+reader, which retailers are responsible for paying for, right?
+    Mr. Mulligan. Yes.
+    Senator Durbin. So what is the--can you give me an idea of 
+what the cost is of a card reader today versus chip and PIN?
+    Mr. Mulligan. I do not know the incremental cost, Senator. 
+What I can tell you is that the total investment for us is 
+about $100 million. That is split about equally between putting 
+card readers in our point-of-sale system and reissuing the 
+cards with the chips in them, so about 50/50 percent.
+    Senator Durbin. So let me get back to the original point. 
+Retailers, and customers in many cases, are paying an 
+additional one cent on every transaction for anti-fraud 
+measures, so they are, in fact, giving the issuing banks and 
+card companies basically a subsidy to have anti-fraud 
+technology. So it is not as if we are not paying already to 
+move this technology forward.
+    Mr. Mulligan. The contractual arrangements provide for 
+retailers to provide revenue into the system for the processors 
+and the banks issuing those cards.
+    Senator Durbin. And I am sure the recurring concern among 
+members is the impact of new technology and cost of card 
+readers on smaller retail establishments, which is something 
+that we need to be sensitive to. But, in fact, the card issuers 
+and banks are receiving money currently, if they are alleging 
+to the Fed that they are using this money for anti-fraud 
+purposes, they can be.
+    Now, Ms. Derakhshani--did I pronounce that correctly?
+    Ms. Derakhshani. Perfectly, yes.
+    Senator Durbin. Thank you. There are lots of legislative 
+proposals designed to address data breach. There are fewer 
+proposals, however, that address the underlying issue: the 
+collection of personally identifiable information and practices 
+governing their retention by large brokerages and corporations. 
+That is largely unregulated.
+    We had a hearing a week or two ago here about the National 
+Security Agency collecting our telephone information, literally 
+phone numbers and what they are used for, and whether that was 
+a breach of privacy. So the question I ask you: In an 
+environment where sensitive consumer data is aggressively 
+sought after by both good guys and bad guys, do you believe 
+Congress should consider proposals that govern the collection 
+and retention of personally identifiable information by private 
+entities?
+    Ms. Derakhshani. So we think of this as a separate issue, 
+but you have touched on a lot of important things, among them 
+the fact that there are a lot of threats out there, and we are 
+really glad that there is attention brought to this important 
+issue, and the issue of privacy and data security in general.
+    Senator Durbin. Well, let us start with Mr. Rosch. I will 
+bring you into the conversation.
+    Mr. Rosch. Sure.
+    Senator Durbin. So we are talking about how much regulation 
+should there be on my personal information collected by a 
+private sector entity.
+    Mr. Rosch. I think that, you know, any data breach 
+legislation should include proactive measures that companies 
+can take to protect this information. That information should 
+be any sensitive information, including personal about myself, 
+my credit card information, about my financials. And, you know, 
+having that good security approach end to end is important.
+    I think it is also important that we are very transparent 
+with users, that if we are going to collect their information 
+for a particular business, legitimate business reason, that 
+they are aware of that and they are fully aware of how we are 
+going to use it, how any company would use it, and then when it 
+is no longer needed, it is eliminated.
+    So I think it is all these different layers, but it is 
+definitely about, you know, giving guidelines on proactive 
+measures to keep this information safe.
+    Senator Durbin. So I guess I am trying to sort out, as I 
+close here, who do we trust when it comes to our privacy. 
+Clearly there is some skepticism if the government is 
+collecting information about us, that it has more power than 
+most to misuse it. But we are finding on the private side the 
+collection of personal information can also be abused as well 
+if we are dealing with malware and hackers and the like that 
+can get into the system. And I think it is incumbent on us to 
+really try to establish a standard so that Americans feel 
+confident that their personal information is being protected in 
+a reasonable fashion.
+    Thank you.
+    Senator Franken. Thank you, Senator Durbin.
+    Senator Whitehouse.
+    Senator Whitehouse. Thank you, Chairman, and thank you to 
+all the witnesses.
+    Let me ask Mr. Mulligan from Target, clearly you have a 
+robust IT department. Correct?
+    Mr. Mulligan. Yes, Senator.
+    Senator Whitehouse. And clearly had robust Internet 
+security?
+    Mr. Mulligan. Yes.
+    Senator Whitehouse. And yet you were unaware of this breach 
+and were informed of it by the United States Secret Service. 
+Correct?
+    Mr. Mulligan. The Attorney General was the first notice, 
+but yes, Senator, that is correct.
+    Senator Whitehouse. I hope that for folks who are watching 
+this is really seen as an object lesson as to the vulnerability 
+that we all have to a whole variety of Internet penetrations. I 
+think that Target is an extraordinarily well-respected retailer 
+and does a very efficient business. And when a company like 
+that can be hacked without knowing it, the wrong reaction is to 
+say, ``Oh, well, Target must have done something wrong.'' The 
+right reaction is to say, ``Oh, my gosh, are we being hacked 
+and do we not know it, too? '' And I think we need to pay a lot 
+more attention in that regard.
+    As dangerous as this privacy breach was, as much as it is 
+likely to lead to criminal activity in the form of identity 
+fraud and other forms of fraud, we can thank God that you 
+provided a vital service but you are not running the electric 
+grid, and you are not running the servers behind all of our 
+banks and our financial systems. There are pieces of our 
+American critical infrastructure that are run by the private 
+sector that are facing very much these same threats, and we 
+need to be much more attentive to it. And if you are not doing 
+intellectual property but if you have a--sorry, if you are not 
+doing critical infrastructure but if you have significant 
+intellectual property that is an important part of your 
+business model, you better be watching out for that, too, 
+because there are folks across the Pacific who are probably in 
+your data already and who have a national policy of trying to 
+break into American computers, steal our intellectual property, 
+and give it to competitor companies in order to seek 
+competitive advantage.
+    So this is a window in a much larger problem, and I just 
+wanted to make that point. I am sorry that it was you, but I 
+think I am very gratified that you have had the courage and the 
+sense of what is going on around you to come here and make this 
+more transparent. And I will close with my appreciation to 
+Symantec. We came very close to getting a very comprehensive 
+piece of cyber legislation through the Senate not too long ago, 
+and some of the U.S. Internet security providers, particularly 
+Symantec and McAfee and Mandiant, were very, very helpful in 
+classified private briefings, walking Senators through the 
+scale of the problem and the scope of the problem, so that a 
+momentum could be developed toward legislation. Unfortunately 
+the U.S. Chamber of Commerce saw things otherwise and found 
+ways to defeat the progress that we had made. But I hope that 
+we can, nevertheless, continue to go forward because this is a 
+continuing threat. And I think I just--I am seeing a nod from 
+Mr. Rosch from Symantec. Yes, this is a continuing threat?
+    Mr. Rosch. Yes, continuing and growing, and we are happy to 
+work with you and others on making the ecosystem safer.
+    Senator Whitehouse. Your effort was very important and much 
+appreciated.
+    Mr. Rosch. Thank you.
+    Senator Whitehouse. Thank you, Chairman.
+    Senator Franken. Thank you, Senator Whitehouse.
+    I would like to thank this panel of witnesses. Thank you 
+for your testimony and your answers. You are dismissed.
+    Senator Franken. I would now like to call our second panel 
+of witnesses.
+    I am going to ask you to stand, so you might as well not 
+sit down.
+    I would like to ask the witnesses to raise their right 
+hands. Do you swear that your testimony will be the truth, the 
+whole truth, and nothing but the truth?
+    Ms. Ramirez. I do.
+    Mr. Noonan. I do.
+    Ms. Raman. I do.
+    Senator Franken. Thank you. You may be seated.
+    Chairwoman Ramirez, a Commissioner of the Federal Trade 
+Commission since 2010, was appointed Chairwoman of the FTC in 
+March 2013. Prior to this, Ms. Ramirez was a partner in the 
+office of Quinn, Emanuel, Urquhart & Sullivan, LLP, in Los 
+Angeles, where she focused her work on matters of intellectual 
+property, antitrust, and trademark issues.
+    Mr. Noonan is the Deputy Special Agent in Charge for the 
+Secret Service's Criminal Investigative Division, Cyber 
+Operations. He has over 20 years of Federal Government 
+experience. Throughout his career he has initiated and managed 
+a number of high-profile fraud investigations.
+    Ms. Raman is the Acting Assistant Attorney General for the 
+Criminal Division of the Department of Justice. She has worked 
+in the Criminal Division since 2008, where she previously 
+served as the chief of staff. Formerly, Ms. Raman served as an 
+Assistant United States Attorney in the U.S. Attorney's Office 
+for the District of Maryland.
+    Thank you all for joining us. You each have five minutes 
+for any opening remarks you would like to make. Chairman 
+Ramirez, would you like to begin?
+    Oh, I am sorry. Excuse me. I would like to recognize the 
+Ranking Member who has something he would like to say.
+    Senator Grassley. This will not take more than 45 seconds. 
+I am going to submit questions for answer in writing, but also 
+I wanted to point out two very significant things that I want 
+to discuss. One is unrelated to this hearing, but to Chairwoman 
+Ramirez, I sent you a letter on the LP gas shortage in the 
+Midwest. I just want to call to your attention I have not 
+gotten an answer yet. If you could answer that, I would 
+appreciate it.
+    And then, related to this question, for Mr. Noonan, I will 
+have a question on the fact that the morning Washington Times 
+said that there was a Belarus company involved in writing some 
+of the software for the health care reform act, and the extent 
+to which that could be indicative of somebody having access to 
+our records over here in the same vein that we have asked 
+Target to respond to it.
+    [The questions of Senator Grassley appear as submissions 
+for the record.]
+    Senator Grassley. Thank you very much.
+    Senator Franken. Sorry I did not go right to you.
+    Again, thank you all for joining us. Chairman Ramirez, 
+would you like to begin?
+
+  STATEMENT OF HON. EDITH RAMIREZ, CHAIRWOMAN, FEDERAL TRADE 
+                   COMMISSION, WASHINGTON, DC
+
+    Ms. Ramirez. Mr. Chairman, Ranking Member Grassley, and 
+Members of the Committee, thank you for the opportunity to 
+appear before you to discuss the Federal Trade Commission's 
+data security enforcement program. I am pleased to be 
+testifying here this morning with my colleagues from the 
+Justice Department and the Secret Service.
+    We live in an increasingly connected world in which vast 
+amounts of consumer data are collected. As recent breaches at 
+Target and other retailers remind us, this data is susceptible 
+to compromise by those who seek to exploit security 
+vulnerabilities.
+    This takes place against the background of the threat of 
+identity theft, which has been the FTC's top consumer complaint 
+for the last 13 years.
+    According to estimates of the Bureau of Justice Statistics, 
+in 2012 this crime affected a staggering seven percent of all 
+people in the U.S. age 16 and older.
+    The Commission is here today to reiterate its bipartisan 
+and unanimous call for federal data security legislation. Never 
+has the need for such legislation been greater. With reports of 
+data breaches on the rise, Congress needs to act. We support 
+legislation that would strengthen existing data security 
+standards and require companies, in appropriate circumstances, 
+to notify consumers when there has been a breach.
+    Legislation should give the FTC authority to seek civil 
+penalties where warranted to help ensure that FTC actions have 
+an appropriate deterrent effect. It should also provide 
+rulemaking authority under the APA and jurisdiction over 
+nonprofits which have been the source of a large number of 
+breaches. Such provisions would create a strong, consistent 
+standard and enable the FTC to protect consumers more 
+effectively.
+    Using its existing authority, the FTC has devoted 
+substantial resources to encourage companies to make data 
+security a priority. The FTC has brought 50 civil actions 
+against companies that we alleged put consumer data at risk. We 
+have brought these cases under our authority to combat 
+deceptive and unfair commercial practices as well as more 
+targeted laws such as the Gramm-Leach-Bliley Act and the Fair 
+Credit Reporting Act.
+    In all these cases, the touchstone of the Commission's 
+approach has been reasonableness. A company's data security 
+measures must be reasonable in light of the sensitivity and 
+volume of consumer information it holds, the size and 
+complexity of its data operations, and the cost of available 
+tools to improve security and reduce vulnerabilities.
+    The Commission has made clear that it does not require 
+perfect security, and the fact that a breach occurred does not 
+mean that a company has violated the law.
+    Significantly, a number of FTC enforcement actions have 
+involved large breaches of payment card information. For 
+example, in 2008, the FTC settled allegations that security 
+deficiencies of retailer TJ Maxx permitted hackers to obtain 
+information about tens of millions of credit and debit cards. 
+To resolve these allegations, the retailer agreed to institute 
+a comprehensive security program and to submit to a series of 
+security audits. At the same time, the Justice Department 
+successfully prosecuted a hacker behind the TJ Maxx and other 
+breaches.
+    As this case illustrates well, the FTC and criminal 
+authorities share complementary goals. FTC actions help ensure 
+on the front end that businesses do not put their customer's 
+data at unnecessary risk, while criminal enforcement help 
+ensure that cyber criminals are caught and punished. This dual 
+approach to data security leverages government resources and 
+best serves the interests of consumers, and to that end, the 
+FTC, the Justice Department, and the Secret Service have worked 
+together to coordinate our respective data security 
+investigations.
+    In addition to the Commission's enforcement work, the FTC 
+offers guidance to consumers and businesses. For those 
+consumers affected by recent breaches, the FTC has posted 
+information online about steps they should take to protect 
+themselves. These materials are in addition to the large stable 
+of other FTC resources we have for ID victims, including an ID 
+theft hotline. We also engage in extensive policy initiatives 
+on privacy and data security issues. For example, we have 
+recently conducted workshops on mobile security and emerging 
+forms of ID theft, such as child ID theft and senior ID theft.
+    In closing, I want to thank the Committee for holding this 
+hearing and for the opportunity to provide the Commission's 
+views. Data security is among the Commission's highest 
+priorities, and we look forward to working with Congress on 
+this critical issue.
+    Thank you.
+    [The prepared statement of Ms. Ramirez appears as a 
+submission for the record.]
+    Senator Franken. Thank you, Madam Chairwoman.
+    Mr. Noonan.
+
+ STATEMENT OF WILLIAM NOONAN, DEPUTY SPECIAL AGENT IN CHARGE, 
+CRIMINAL INVESTIGATIVE DIVISION, CYBER OPERATIONS BRANCH, U.S. 
+                 SECRET SERVICE, WASHINGTON, DC
+
+    Mr. Noonan. Good afternoon, Mr. Chairman and distinguished 
+Members of the Committee. Thank you for the opportunity to 
+testify on behalf of the Department of Homeland Security 
+regarding the ongoing trends of criminals exploiting cyberspace 
+to obtain financial and identity information as part of a 
+complex criminal scheme to defraud our Nation's payment 
+systems.
+    Our modern financial system depends heavily on information 
+technology for convenience and efficiency. Accordingly, 
+criminals, motivated by greed, have adapted their methods and 
+are increasingly using cyberspace to exploit our Nation's 
+financial payment systems to engage in fraud and other illicit 
+activities. The widely reported data breaches of Target and 
+Neiman Marcus are just recent examples of this trend. The 
+Secret Service is investigating these recent data breaches, and 
+we are confident that we will bring the criminals responsible 
+to justice.
+    However, data breaches like these recent events are part of 
+a long trend. In 1984, Congress recognized the risks posed by 
+the increase use of information technology and established 18 
+U.S.C. Sections 1029 and 1030 through the Comprehensive Crime 
+Control Act. These statutes defined access to vice fraud and 
+misuse of computers as federal crimes and explicitly assigned 
+the Secret Service authority to investigate these crimes.
+    It is a part of the Department of Homeland Security's 
+mission to safeguard cyberspace. The Secret Service 
+investigates cyber crime through the efforts of our highly 
+trained special agents and the work of our growing network of 
+33 Electronic Crimes Task Forces, which Congress assigned the 
+mission of preventing, detecting, and investigating various 
+forms of electronic crimes.
+    As a result of our cyber crime investigations, over the 
+past four years the Secret Service has arrested nearly 5,000 
+cyber criminals. In total, these criminals were responsible for 
+over $1 billion in fraud losses, and we estimate our 
+investigations prevented over $11 billion in fraud losses.
+    Data breaches like the recently reported occurrences are 
+just one part of a complex criminal scheme executed by 
+organized cyber crime. These criminal groups are using 
+increasingly sophisticated technology to conduct conspiracy 
+consisting of five parts: One, gaining unauthorized access to 
+computer systems carrying valuable protected information; two, 
+deploying specialized malware to capture and exfiltrate this 
+data; three, distributing or selling this sensitive data to the 
+criminal associates; four, engaging in sophisticated and 
+distributed frauds using the sensitive information obtained; 
+and five, laundering the proceeds of this illicit activity.
+    All five of these activities are criminal violations in and 
+of themselves. And when conducted by sophisticated 
+transnational networks of cyber criminals, this scheme has 
+yielded hundreds of millions of dollars in illicit proceeds.
+    The Secret Service is committed to protecting our Nation 
+from this threat. We disrupt every step of their five-part 
+criminal scheme through proactive criminal investigations and 
+defeat these transnational cyber criminals through coordinated 
+arrests and seizure of assets.
+    Foundational to these efforts are our private industry 
+partners as well as our close partnerships with State, local, 
+federal, and international law enforcement. As a result of 
+these partnerships, we were able to prevent many cyber crimes 
+by sharing criminal intelligence regarding the plans of cyber 
+criminals and minimizing financial losses by stopping their 
+criminal scheme.
+    Through our Department's National Cybersecurity and 
+Communications Integration Center, the NCCIC, the Secret 
+Service also quickly shares technical cybersecurity information 
+while protecting civil rights and civil liberties in order to 
+allow organizations to reduce their cyber risks by mitigating 
+technical vulnerabilities. We also partner with the private 
+sector and academia to research cyber threats and publish 
+information on cyber crime trends through reports like the 
+Carnegie Mellon CERT Insider Threat Study, the Verizon Data 
+Breach Investigations Report, and the Trustwave Global Security 
+Report.
+    The Secret Service has a long history of protecting the 
+Nation's financial system from threats. In 1865, the threat we 
+were founded to address was that of counterfeit currency. As 
+our financial payments system has evolved from paper to 
+plastic, now digital information, so too has the investigative 
+mission. The Secret Service is committed to protecting our 
+Nation's financial system even as criminals increasingly 
+exploit it through cyberspace.
+    Through the dedicated efforts of the Electronic Crimes Task 
+Forces and by working in close partnership with the Department 
+of Justice, in particular the Criminal Division and local U.S. 
+Attorney's Offices, the Secret Service will continue to bring 
+cyber criminals that perpetrate major data breaches to justice.
+    Thank you for the opportunity to testify on this important 
+topic, and we look forward to your questions.
+    [The prepared statement of Mr. Noonan appears as a 
+submission for the record.]
+    Senator Franken. Thank you, Mr. Noonan.
+    Ms. Raman.
+
+STATEMENT OF MYTHILI RAMAN, ACTING ASSISTANT ATTORNEY GENERAL, 
+    CRIMINAL DIVISION, UNITED STATES DEPARTMENT OF JUSTICE, 
+                         WASHINGTON, DC
+
+    Ms. Raman. Good afternoon, Mr. Chairman and Members of the 
+Committee. Thank you for the opportunity to appear before the 
+Committee today to discuss the Department of Justice's fight 
+against cyber crime.
+    Cyber crime has increased dramatically over the last 
+decade, and our financial infrastructure has suffered repeated 
+cyber intrusions.
+    The recent reports about the massive data breaches at 
+Target, which the Justice Department is investigating alongside 
+the Secret Service, have underscored that cyber crime is a 
+real, present threat and one that is growing. Cyber criminals 
+create botnets to systematically steal the personal and 
+financial information of Americans, they carry out Distributed 
+Denial of Service attacks on networks, and they steal sensitive 
+corporate and military data.
+    The Justice Department is vigorously responding to this 
+threat through the work of the Criminal Division's Computer 
+Crime and Intellectual Property Section, or CCIPS, which 
+partners with U.S. Attorney's Offices across the country as 
+part of a network of almost 300 Justice Department cyber crime 
+prosecutors.
+    In addition, the FBI has made combating cyber threats one 
+of its top priorities, working through cyber task forces in its 
+56 field offices, and continuing to strengthen the National 
+Cyber Investigative Joint Task Force. Every day our prosecutors 
+and agents strive to hold to account cyber criminals who 
+victimize Americans using all the tools available to us to 
+identify these criminals wherever in the world they are 
+located, break up their networks, and bring them to justice.
+    We are developing meaningful partnerships with foreign law 
+enforcement and with industry to strengthen our collective 
+capacity to fight and protect against cyber crime. And we use 
+our tools responsibly and consistent with the important long-
+established legal safeguards that protect against abuse.
+    As just one example of our work in this area, just last 
+week CCIPS, the U.S. Attorney's Office in Atlanta, and the FBI 
+announced the guilty plea of a Russian citizen named Aleksandr 
+Panin, who admitted to developing and distributing 
+sophisticated malware called ``SpyEye.'' The SpyEye malware 
+created botnets, or networks of secretly hacked computers, by 
+surreptitiously infecting victims' computers, enabling cyber 
+criminals to remotely control the computers through command and 
+control servers. In that way, the criminals were able to steal 
+personal and financial information such as credit card 
+information, banking credentials, user names, and passwords. 
+Panin offered and sold this botnet software, including 
+specially tailormade versions of the malware, to at least 154 
+of his criminal clients, who in turn used it to infect an 
+estimated 1.4 million computers around the world. Panin will be 
+sentenced in April.
+    The Panin case is only the latest of our recent successes 
+against cyber criminals. Others include, for example, a 15-year 
+sentence handed down in September to a Romanian cyber criminal 
+who led a multimillion-dollar scheme to hack into U.S. 
+merchants' payment card data; an 88-month sentence handed down 
+last April to a Russian hacker who used online forums to sell 
+stolen credit and debit card information to purchasers around 
+the world; and the indictment last year of a China-based 
+manufacturer of wind turbines, which is alleged to have stolen 
+trade secrets from an American company, causing over $800 
+million in losses.
+    But without the tools that we have been provided, we would 
+not be able to bring such offenders to justice, and we must 
+ensure that the statutes we enforce keep up with technology so 
+that we can keep pace with the cyber criminals who are 
+constantly developing new tactics and methods.
+    The Administration is proposing several statutory 
+provisions to keep federal criminal laws up to date.
+    First, we recommend the establishment of a strong, uniform 
+federal standard requiring certain types of businesses to 
+report data breaches. Businesses should be required to provide 
+prompt notice to consumers in the wake of a breach and to 
+notify the Federal Government of breaches so that law 
+enforcement can pursue and catch the perpetrators.
+    Our prosecutors also rely on substantive criminal statutes 
+to bring cyber criminals to justice. One of the most important 
+of these is the Computer Fraud and Abuse Act, also known as the 
+CFAA. The Administration proposed several revisions to the CFAA 
+in May 2011, and we continue to support changes like those to 
+keep federal criminal law up to date. We also look forward to 
+working with Congress to address the CFAA's application to 
+insiders, such as bank employees or government employees, who 
+access computers in violation of their authorization and then 
+steal or misuse the information contained in the computers.
+    Finally, we recommend several statutory amendments, 
+including a proposal to address the proliferation of botnets, 
+which are described at greater length in my written testimony.
+    I very much appreciate the opportunity to discuss the 
+Justice Department's efforts to protect American citizens by 
+aggressively investigating and prosecuting hackers. We are 
+committed to using the full range of investigative tools and 
+laws available to us to fight these crimes and to do so 
+vigorously and responsibly.
+    Thank you for the opportunity to discuss the Department's 
+work, and I look forward to answering your questions.
+    [The prepared statement of Ms. Raman appears as a 
+submission to the record.]
+    Senator Franken. Thank you all.
+    I think we will go to Senator Klobuchar. Since I am 
+chairing this, I will be here to the end, so I can ask my 
+questions at the end. Senator.
+    Senator Klobuchar. Okay. Very good. Thank you very much. 
+Thank you all for coming today.
+    I think while we all know why we are here with the breaches 
+that we have seen and we just heard about with the last panel 
+at Target, Neiman Marcus, and Michaels, now hotel chains, are 
+there any other similar breaches that have occurred? Do you see 
+industries that are more targeted than others? And, Ms. 
+Ramirez, how successful has your agency been in getting 
+criminal hackers extradited from foreign countries? And what 
+challenges do you see when dealing with extradition issues?
+    Ms. Ramirez. Let me start by answering your initial 
+question. I cannot speak about any particular companies or 
+breaches. We cannot disclose information relating to non-public 
+investigations. But what I can tell you is that the FTC has 
+been very active in this area, having just announced last week 
+our 50th data security case.
+    We believe that the FTC's action has had an important and 
+sent an important signal to the marketplace, but based on the 
+information that we have available to us, including the Verizon 
+Data Breach Report, which Mr. Noonan referenced in his opening 
+remarks, by those indications it is clear that companies need 
+to do a lot more, that they continue to make very basic 
+mistakes when it comes to data security, so this is an area 
+where the Federal Trade Commission unanimously believes there 
+needs to be congressional action and, in particular, a strong 
+federal law that imposes robust standards for data security and 
+also for breach notification.
+    Senator Klobuchar. So this is what we have been talking 
+about earlier with the NIST standards and then taking this out 
+with the chip and PIN and those kinds of things. Is that what 
+you are talking about?
+    Ms. Ramirez. At the FTC we do not advocate for particular 
+technologies. We rather take a process-based approach in light 
+of the fact that the threats, as were identified in the prior 
+panel, are constantly changing and evolving. So we recommend a 
+process-based approach to attacking this problem.
+    Senator Klobuchar. Okay. The extradition question, the 
+reason I asked that is I think we already have learned that a 
+young Russian already claimed to be co-author of the malware 
+used in the attack with Target, and I think we know there is no 
+shortage of these crimes internationally. I wonder if the U.S. 
+should be asking that.
+    Ms. Ramirez. I will defer on that question to my colleagues 
+and the criminal authorities who are dealing with those issues.
+    Senator Klobuchar. Okay.
+    Ms. Raman. You point out one of our extraordinary 
+challenges in cyber crime cases, and that is that some of the 
+most notorious hackers are living halfway across the world, and 
+sometimes in countries with which we do not have extradition 
+relationships. And so that is a challenge that we have in a 
+number of these cases. We try to be as creative as we can to 
+ensure that we are able to catch the wrongdoers, and we have 
+had significant success. The Panin case that I just mentioned 
+in my opening statement is an example of a success, a Russian 
+hacker who had developed the SpyEye malware, and he pleaded 
+guilty just last week. And we have had numerous such successes. 
+Sometimes it just takes patience.
+    Senator Klobuchar. OkayK. Mr. Noonan.
+    Mr. Noonan. Yes, ma'am, the Secret Service has had a unique 
+success in this field. We have been able to arrest and 
+extradite a number of significant cyber criminals abroad with 
+the help of the Department of Justice, the Office of 
+International Affairs, and the State Department. Just to name a 
+few, the Dave and Buster's intrusion happened in 2007, we were 
+successful in arresting Maksym Yastremskiy, and in that 
+intrusion we also actually arrested and extradited Aleksandr 
+Suvorov. In the Carder.su case that we had in 2007, we were 
+successful in extraditing Sergei Litvinenko. There are a number 
+of other successes that we have had of high-value targets, of 
+high-value hackers that have been attacking our financial 
+infrastructure that, with the assistance of international law 
+enforcement and relationships, we have been able to arrest 
+those people and bring them to justice here domestically.
+    Senator Klobuchar. You know, one of the things we talked 
+about earlier was the time between the companies confirming the 
+breaches and then letting customers know and how quickly they 
+can find out what their policies are. And I assume, Ms. 
+Ramirez, that you would want that to happen as soon as 
+possible. But one of the questions I want to know, having been 
+in this law enforcement before, there is also this thing where 
+you want to catch people. And I would think when a data breach 
+is this big, you come down on the side of letting the public 
+know immediately. But how do you strike that balance with 
+putting information out there but then also trying to find the 
+perpetrators and not tipping them off? Anyone can answer.
+    Ms. Ramirez. Let me, if I may, start off the discussion on 
+this point. ``Balancing'' is exactly the right word. In our 
+view, a company should notify affected consumers as reasonably 
+practicable as possible. In other words, there should be enough 
+time for the company to assess the relevant breach, examine 
+exactly what took place, which customers were affected. But we 
+think that it is important that customers be notified 
+reasonably promptly, and we believe that the outside limit for 
+that ought to be 60 days.
+    At the same time, I will also note that when the FTC is 
+looking at these issues, we do coordinate very closely with 
+colleagues at the Department of Justice and Secret Service and 
+also at the FBI. And so if there is a need for there to be 
+certain delay due to the needs of these criminal 
+investigations, we think that that is also appropriate.
+    Senator Klobuchar. Okay.
+    Mr. Noonan. Yes, ma'am, it is a coordinated effort actually 
+between the Secret Service, our law enforcement, and the U.S. 
+Attorney's Office as well. But it is very important for us in a 
+timely manner to take what we know from an investigation as far 
+as the cybersecurity pieces of that, and then to get that and 
+share it out to greater infrastructure. We use the Department 
+of Homeland Security's NCCIC, which is the National 
+Cybersecurity Communications and Integration Center. We take 
+information that we learn from the malware and hacking tools 
+and such. We share that with the NCCIC, who then does some 
+reverse engineering, and they are able to push that out to the 
+greater infrastructure.
+    We also partner through our Electronic Crimes Task Forces--
+we have 33 of those--in which we are able to take that same 
+type of information and put it out to our trusted partners that 
+are out in the community, out in the infrastructure, as well 
+and we also partner with various ISACs. Specifically in the 
+lane of financial services, we partner with the FS-ISAC to get 
+that information out to the industry, to be able to assist them 
+in finding and mitigating what other attacks may be happen to 
+themselves.
+    Senator Klobuchar. Okay.
+    Ms. Raman. Going back to your original question, we do 
+believe that the Administration's data breach notification 
+proposal allows the flexibility that would allow us to delay 
+consumer notification in small increments if there is a law 
+enforcement reason for that. There may be an undercover 
+operation that is necessary or other covert investigative steps 
+that can be taken immediately after a breach, and there may be 
+certain circumstances where delayed notification is 
+appropriate.
+    But that being said, we do believe that prompt notification 
+to consumers is important and prompt notification to law 
+enforcement is important.
+    Senator Klobuchar. Thank you very much.
+    Senator Franken. Thank you, Senator Klobuchar.
+    Senator Whitehouse.
+    Senator Whitehouse. Thank you again, Chairman.
+    Let me address myself briefly to the two law enforcement 
+witnesses who we have here. The theft of intellectual property 
+from American corporations purely across cyber networks by 
+hacking into corporate networks and exfiltrating their data has 
+been described on multiple occasions as ``the greatest illicit 
+transfer of wealth in history.'' Has any indictment yet 
+resulted from that conduct, foreign hackers purely through 
+cyber networks hacking into an American corporation's 
+intellectual property and exfiltrating it for competitive 
+purposes?
+    Ms. Raman. Well, I will say, Senator, that the threat that 
+you described is one that we are very aware of and we are 
+focused on. Last year, there was an----
+    Senator Whitehouse. Has there been an indictment of anyone 
+in such a case?
+    Ms. Raman. Last year, in a similar case, there was an 
+indictment of Sinovel Corporation and about five of its 
+executives--that is a Chinese corporation and five of its 
+executives--for stealing the proprietary information of an 
+American company.
+    Senator Whitehouse. How had they stolen it?
+    Ms. Raman. I am sorry?
+    Senator Whitehouse. How had they stolen it? Was it through 
+a cyber hack? Or did it involve human----
+    Ms. Raman. A combination, but also an insider at the 
+American company.
+    Senator Whitehouse. Yes.
+    Ms. Raman. But I think that kind of case, where it would 
+show that we are willing to indict a Chinese company and 
+Chinese nationals, including the insider here, shows our 
+resolve to get to the bottom of these issues.
+    Senator Whitehouse. Actually the numbers involved show 
+anything but resolve, and I hope that there will be more 
+attention paid to this. And I say this with full appreciation 
+of how very, very challenging and difficult these cases are, 
+from a forensic point of view, from locating the foreign 
+defendant point of view, from an interference with intelligence 
+and diplomatic relations point of view, from a security point 
+of view. I mean, there is a whole array of reasons that these 
+are immensely difficult and complicated cases. But when we are 
+on the losing end of what has been on multiple occasions 
+described as ``the greatest illicit transfer of wealth in 
+history,'' I think one case that actually was not that, because 
+it involved a human exchange as well, just is not an adequate 
+response. So I urge you guys to improve your game on that, and 
+if you are getting pushback from the intelligence communities 
+and from the State Department and other people, push back 
+harder, because I think an indictment has a clarifying effect.
+    The other thing that has come up recently has been that 
+Chairwoman Mikulski of the Appropriations Committee, who is 
+also the Chairman in charge of your appropriations at the 
+Subcommittee level, has put into the omnibus spending bill that 
+we just passed a requirement that the Department of Justice 
+provide a multiyear strategic plan for cyber within 120 days. 
+That is not a long window. It is going to require the DOJ, the 
+FBI, the Secret Service, probably folks within FEMA and 
+Homeland Security, and certainly OMB, without whom no budget-
+related discussion is possible, to get together and start to 
+figure out what we look like three, four, five years out, 10 
+years out, in terms of the structure.
+    We have the FBI deeply involved in this, and we have the 
+Secret Service deeply involved in this. We have two different 
+sections of the Department of Justice separately involved in 
+this. The different programs that we enforce and the different 
+strategies seem to be changing every six months or so as I have 
+pursued this. I think a lot of that is necessary and reflects a 
+sensible and good adaptation to an emerging threat.
+    But I think that we are a long way from having a clear 
+sense of what our cyber law enforcement structure should look 
+like. We are still, I think, evolving, and it has been hard for 
+me to find any place in which the thinking about what it should 
+look like three or four or five years out is taking place.
+    So could you give me a moment on what you are doing right 
+now to respond to the 120-day requirement for a multiyear 
+strategic plan?
+    Ms. Raman. Well, we are very aware, Senator Whitehouse, of 
+the 120-day requirement, and thankfully, even before that 
+requirement was put into place, we had been endeavoring for 
+several months to go through the exercise of putting on paper a 
+strategy for the Justice Department's cyber program. That 
+involves some of the issues that you have already touched on, 
+which is how we integrate all of our various capabilities.
+    I think that the way that the responsibilities are divided 
+now, which is the Criminal Division, the National Security 
+Division, and the FBI, works well together, and the reason that 
+we are able to work well together is that we communicate 
+literally on a daily basis, sometimes an hourly basis, about 
+how to respond to particular threats.
+    But, together, I am certain that we will be able to comply 
+with the 120-day requirement. We have been working on it, and 
+we will continue to work to meet that deadline.
+    Senator Whitehouse. Good. Well, I am very glad that you 
+work well together. I would hazard the thought that working 
+well together and having the proper administrative structure 
+are two different questions. And I would offer as an example 
+the challenge of trying to get the civil botnet takedown 
+capability, which the Department has demonstrated on several 
+occasions, properly integrated into the criminal and national 
+security and intelligence elements of this. I think it is a 
+bigger challenge than just having people work well together.
+    Ms. Raman. I agree with you, Senator. On the botnet 
+capabilities that we used in the Coreflood takedown, that was 
+civil authority, but the Criminal Division, along with the U.S. 
+Attorney's Office in Connecticut, used those civil authorities, 
+and we were able to do so because of the specific way that 
+botnet was structured. But botnets are high on our list of 
+priorities. We know that every botnet is different, and we know 
+that behind every botnet is an individual or individuals. And 
+so we are focused both on getting those individuals and finding 
+ways, creative ways, to dismantle botnets.
+    Senator Whitehouse. Good. My concern was that it is my 
+understanding that after the Coreflood botnet takedown, the 
+group, the kind of ad hoc group from different organizations 
+and the U.S. Attorney's Office and Main Justice that had gotten 
+together to accomplish the Coreflood botnet more or less 
+disintegrated back into their original positions, and that 
+there is not a robust and integrated ongoing administrative 
+structure for integrating those botnet takedowns. They seem to 
+be more episodic and to grab people from out of the Department 
+for that one event, and then they got a big award from the 
+Attorney General--which they merited. I was delighted that that 
+happened. But then I think the structure of it evaporated or 
+disintegrated.
+    So the structure question, I think, is one we can continue 
+to work on. Thank you.
+    Senator Franken. Thank you, Senator Whitehouse, for your 
+continued focus on cybersecurity.
+    I have a question for either Mr. Noonan or Ms. Raman. Can 
+you walk me through how a criminal could go about harvesting 
+the data on a magnetic stripe card and how they go about using 
+and selling that data once it is stolen?
+    Mr. Noonan. Yes, sir. If we are talking about the 
+intrusions that we are here today to discuss, it is generally--
+it is not one criminal we are talking about. We are talking 
+about a sophisticated network of cyber criminals. I use the 
+analogy sometimes the movie ``Ocean's Eleven.'' This is an 
+organization that has specific skills when brought together, so 
+they will have their person that is looking for access in the 
+systems. They will have their people that are controlling the 
+bulletproof hosting system. They will have people that are 
+working on extracting the information from the network. They 
+will have wholesalers and vendors of that data. And then 
+ultimately there will be end users that take the data, use it 
+on a street level through either making counterfeit credit 
+cards and going into retail stores, buying goods and fencing 
+that. And then there is a money-laundering system as well in 
+this.
+    I think it is also important to understand that we are not 
+talking about currencies here. We are talking about virtual 
+currencies in which a lot of this money is moved, so in the 
+criminal underground, they are moving their money back and 
+forth through virtual currency, which is hard for U.S. law 
+enforcement and for others in the government to be able to 
+trace and track those finances.
+    Ms. Raman. I agree with that description. I think the 
+additional element I would add is that oftentimes after there 
+is this kind of harvesting of personal information through the 
+use of malware, often through botnets, the stolen information 
+is then sold in carding sites around the world and to other 
+criminals who may use it for their own financial profit, 
+sometimes for other purposes. And so that is also another chain 
+in the threats that we are seeing.
+    Senator Franken. It sounds like there is real justification 
+for putting the RICO piece in Chairman Leahy's bill, that this 
+is coordinated organized crime.
+    Right now the information on most cards in the United 
+States is static. It stays the same until the card is canceled. 
+What does that mean for criminals wanting to make counterfeit 
+cards? It will make it easier and more effective.
+    Mr. Noonan. Sure, so your question is that it is static 
+data that is coming across?
+    Senator Franken. Yes.
+    Mr. Noonan. Right. You have got to understand that the 
+magstripe data is roughly 30-year-old technology, so I would 
+agree with the fact that a 30-year-old technology is perhaps a 
+little bit more easy for them to utilize and put on to readily 
+available magnetic cards or magnetic stripe cards that are 
+available in industry today.
+    Senator Franken. We have been talking today about going to 
+the EMV technology and going to the EMV with a PIN. Do you all 
+agree here that that would be extremely helpful?
+    Mr. Noonan. We believe that anything that would assist in 
+the security of our Nation's payment systems would be a benefit 
+to the industry, of course.
+    Senator Franken. Okay. Thank you.
+    Chairwoman Ramirez, when a company has really poor digital 
+security practices, the FTC can initiate an enforcement action 
+against the company for committing what is called an ``unfair 
+trade practice,'' and the Commission has used this authority 
+admirably in the past. At the same time, there is no 
+comprehensive federal law that sets up a data security standard 
+for companies that store data, the data of tens of thousands of 
+customers.
+    Do you think that the Commission's existing authority in 
+this space precludes the need for a federal data security and 
+data breach law?
+    Ms. Ramirez. No, I do not. We have used our authority under 
+Section 5 of the FTC Act barring deceptive or unfair commercial 
+practices, and we think we have used that authority 
+effectively. But I think we could be even more effective in 
+this area if there were a federal data security law that the 
+FTC could enforce. And, in particular, we think there are three 
+areas where we could use additional authority. We would like to 
+see legislation that would give the FTC civil penalty 
+authority. We think this would enable us to deter more 
+effectively. We also believe that we need jurisdiction over 
+nonprofits. We have found that a number of breaches occur at 
+nonprofits, and currently we lack authority over nonprofits, so 
+that is a gap that we would like to see filled. And, in 
+addition, in order to implement a data security law 
+effectively, we believe that it would be appropriate to give 
+the FTC APA rulemaking authority to enable us to deal with the 
+evolving risks and harms that one sees in this area.
+    Senator Franken. Well, thank you. This is why it is so 
+important that we get to data privacy legislation. I look 
+forward to doing that.
+    I want to ask one--and then I see Senator Blumenthal has 
+arrived, is back. This is a little unrelated, but it is 
+something I have been interested in. Ms. Raman, in your written 
+testimony you said that the Department could use better tools 
+to go after the operators of cell phone spy software. This 
+software is a huge problem. Every year tens of thousands of 
+women are stalked through the use of what are called ``stalking 
+apps.'' These are apps specifically designed to facilitate 
+stalking. An abuser will install one of these apps on a 
+victim's phone and be able to track her whereabouts at all 
+times. We have received testimony, my Subcommittee, on this 
+time and again.
+    These apps can be found within minutes through a Web 
+search. One is called ``FlexiSPY.'' It brags, ``FlexiSPY gives 
+you total control over your partner's phone without them 
+knowing it. See exactly where they are, or were at any given 
+date in time. Buy now and start spying on a cell phone in 
+minutes.''
+    Another is called ``SpyEra.'' It says, ``The target user is 
+never interrupted from what they're doing and won't notice a 
+thing . . . . You'll not only know what is being said and done, 
+but you'll also know exactly when and where.''
+    I have a privacy bill specifically aimed at shutting these 
+apps down, and so I want to work with you to give you all the 
+tools that we need to do that. So can you and I work together 
+on this?
+    Ms. Raman. Absolutely. We appreciate any support that you 
+can give us in this area. As you describe, it is an incredibly 
+frightening capability. We are focused on the criminal threat, 
+but one of the tools that we think could be helpful in our 
+fight against this kind of software is civil authority to 
+forfeit proceeds of the crime, and we would be happy to speak 
+further with you and your staff about those particulars.
+    Senator Franken. Thank you.
+    Senator Blumenthal.
+    Senator Blumenthal. Thank you, Senator Franken.
+    Thank you all for your great work in this area, and thank 
+you, Chairman Ramirez, for your focus and your interest in 
+additional authority, which I agree is important. I think the 
+FTC has broad authority now to impose some rules and take some 
+enforcement action when there has been a failure to impose 
+sufficiently stringent safeguards to protect consumer 
+information, but certainly clarifying that authority and 
+expanding it in the ways you have suggested makes a lot of 
+sense. And, in fact, I have just introduced a bill that would 
+provide for rulemaking authority, but also stiff penalties, and 
+possibly even stringent penalties if the Congress would go 
+along with them, because I think that the potential damage to 
+consumers is so horrific from identity theft and associated 
+wrongs that emanate from these hacking and abusive activities.
+    It also provides for mandatory notification, a 
+clearinghouse, and, in my view, very importantly, a private 
+right of action as well as jurisdiction for Attorneys General 
+to enforce these rules.
+    What do you think about a private right of action and the 
+authority of Attorneys General to impose these rules?
+    Ms. Ramirez. The Commission has not taken a position on the 
+issue of a private right of action, but as regards concurrent 
+State enforcement, we believe that that is absolutely critical. 
+The States have done very important work in this arena, and we 
+think it is vital for them to continue to be involved.
+    Senator Blumenthal. What has been the reaction of 
+nonprofits? Have they been ahead of the for-profit sector or 
+behind?
+    Ms. Ramirez. Well, I think we see problems amongst all 
+companies, including nonprofits, and that is an area where we 
+currently lack jurisdiction, and we think it is a gap that 
+needs to be rectified so that we do have jurisdiction. But as I 
+mentioned earlier, the data that we have available today--and I 
+specifically referenced the Verizon Data Breach Investigation 
+Report that is issued annually. It continues to indicate that 
+companies need to do a lot more in this area, that very 
+fundamental mistakes are being made when it comes to data 
+security. And so that signals to me that action, further 
+action, needs to be taken. And, of course, this is a very 
+complex problem, multifaceted problem that requires a 
+multifaceted solution.
+    Senator Blumenthal. Am I right in thinking that the United 
+States is behind a lot of the rest of the world in its data 
+security safeguards? We heard testimony earlier about the lack 
+of use of chip-and-PIN methodologies, which is now prevalent in 
+Europe, and maybe the lack of use of it here is a reason not 
+only for the Neiman Marcus and Target breaches, but also for 
+the fact that almost half the world's credit card fraud occurs 
+here but only a quarter of credit card use. So there seems a 
+disparity that indicates we are behind the rest of the world.
+    Ms. Ramirez. Let me say that while at the FTC we do not 
+prescribe or recommend particular technologies, it is of 
+concern to me that our payment card systems really do need 
+improvement. So in my view, more work can be done in that area. 
+It is absolutely critical from my perspective that payment card 
+systems be secure and protect consumer information, and I 
+really think it is important that all of the players in the 
+ecosystem--retailers, banks, payment card networks--all work 
+together to find solutions.
+    Senator Blumenthal. Any of the other witnesses have 
+perspectives on these questions?
+    Mr. Noonan. Yes, sir, I have a perspective in the fact that 
+you can come up with devices that will secure credit card data, 
+but it does not alleviate the fact that we are talking about it 
+is still criminals that are doing it. These criminals are 
+motivated by money. They are financially motivated. They are 
+going to use whatever they have at their disposal to still go 
+after the pot of gold which is held in the payment card systems 
+piece.
+    So it does not take away the criminal element, but it does 
+add a layer, potentially could add a layer of security. So I 
+just wanted to make the point that, again, when we are talking 
+about the criminal element, it is law enforcement and the work 
+that is being done between the Department of Justice and law 
+enforcement that is going at the criminal to try to take them 
+and put them behind bars, taking the virtual world and making 
+it reality with handcuffs, if you will.
+    Ms. Raman. I agree that securing data is obviously 
+incredibly important for all American consumers. From a law 
+enforcement point of view, anything that strengthens our 
+ability to secure that data is a good thing. It makes our--
+frankly, it makes us less necessary if there are fewer breaches 
+and if there are fewer attempts to try to get at sensitive 
+data. But that having been said, Mr. Noonan is absolutely 
+right. Malware adapts every day. Botnets adapt every day. 
+Criminals are early adopters of almost every kind of 
+technology, and our challenge is to stay ahead of them.
+    Senator Blumenthal. Well, there is an arms race. There 
+always has been, not only in this area but in so many others. 
+Having done a bit of law enforcement work myself, both federal 
+and State, I am well aware that there will never be the 
+foolproof safeguard or the impenetrable lock on the door. But 
+if you leave the door completely unlocked, it is almost an 
+invitation to the bad guys. And I do not want to say we have 
+left the door unlocked in the retail industry, but certainly 
+the locks are a lot less sophisticated than the technology 
+available would provide. And you may not have been here 
+earlier, but I think that the industry--or maybe I should say 
+industries--have some real soul searching to do about whether 
+they have been sufficiently protective of consumer information, 
+because as we know, you can apprehend, investigate, prosecute 
+criminals, but rarely does that compensate them when they are 
+victims of identity theft. And that is just the stark, tragic 
+fact of the matter, that preventing these crimes is often the 
+only way to really protect consumers, because you can prosecute 
+them, if you can apprehend them and investigate them. We are 
+talking about global criminal activity here. But the victims of 
+identity theft are often really marred and scarred for life.
+    So, you know, I respect your point of view, but I do think 
+that stronger preventive action that would come with rulemaking 
+authority, stiffer penalties on the retailers which provides an 
+incentive to do the right thing I think are very much needed.
+    Thank you all. Thank you, Mr. Chairman.
+    Senator Franken. Thank you, and thank you all. I think 
+following up on what Senator Blumenthal just said, today's 
+hearing has made it clear that we are dealing with a systemic 
+data security problem in this country, and we received 
+testimony in the first panel that our credit and debit cards 
+just are not secure enough, and we have no federal standard for 
+data security and breach notification. We have to update our 
+card technology and our laws to address these 21st century 
+threats to our data security. When millions of American 
+consumers have their data breached, we really cannot afford not 
+to.
+    That is why I have been pressing credit and debit card 
+companies on their plans to enhance card security through 
+improvements like smart chip technology and chip and PIN, and 
+that is why I was proud to join Chairman Leahy on his Data 
+Privacy and Security Act. I think it is just common sense that 
+the consumers should be told when their data has been stolen 
+and that we do everything we can to secure it before that 
+happens.
+    I want to thank the witnesses for their testimony today. 
+You have helped us understand not only how these breaches 
+occurred but how we can move forward from this point to better 
+protect consumers and better enforce our laws.
+    The record will be held open until February 11th for 
+questions and any further materials. You are now dismissed, and 
+this hearing is adjourned.
+    [Whereupon, at 1:07 p.m., the Committee was adjourned.]
+    
+    
+    
+    
+    
+    
+                            A P P E N D I X
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                   [all]
+</pre></body></html>

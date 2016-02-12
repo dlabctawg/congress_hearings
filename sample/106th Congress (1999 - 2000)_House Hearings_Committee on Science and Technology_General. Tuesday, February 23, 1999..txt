@@ -1,0 +1,3053 @@
+<html>
+<title> - Y2K TECHNOLOGY CHALLENGE: WILL THE POSTAL SERVICE DELIVER?</title>
+<body><pre>
+[House Hearing, 106 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+
+ 
+       Y2K TECHNOLOGY CHALLENGE: WILL THE POSTAL SERVICE DELIVER?
+
+=======================================================================
+
+                             JOINT HEARING
+
+                               before the
+
+                   SUBCOMMITTEE ON THE POSTAL SERVICE
+
+                                and the
+
+                 SUBCOMMITTEE ON GOVERNMENT MANAGEMENT,
+                      INFORMATION, AND TECHNOLOGY
+
+                                 of the
+
+                     COMMITTEE ON GOVERNMENT REFORM
+
+                                and the
+
+                       SUBCOMMITTEE ON TECHNOLOGY
+
+                                 of the
+
+                          COMMITTEE ON SCIENCE
+                        HOUSE OF REPRESENTATIVES
+
+                       ONE HUNDRED SIXTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           FEBRUARY 23, 1999
+
+                               __________
+
+                     Committee on Government Reform
+
+                           Serial No. 106-25
+
+                          Committee on Science
+
+                           Serial No. 106-35
+
+                               __________
+
+   Printed for the use of the Committee on Government Reform and the 
+                          Committee on Science
+
+
+     Available via the World Wide Web: http://www.house.gov/reform
+
+                                 ______
+
+                     U.S. GOVERNMENT PRINTING OFFICE
+58-811                       WASHINGTON : 1999
+
+
+
+
+
+                     COMMITTEE ON GOVERNMENT REFORM
+
+                     DAN BURTON, Indiana, Chairman
+BENJAMIN A. GILMAN, New York         HENRY A. WAXMAN, California
+CONSTANCE A. MORELLA, Maryland       TOM LANTOS, California
+CHRISTOPHER SHAYS, Connecticut       ROBERT E. WISE, Jr., West Virginia
+ILEANA ROS-LEHTINEN, Florida         MAJOR R. OWENS, New York
+JOHN M. McHUGH, New York             EDOLPHUS TOWNS, New York
+STEPHEN HORN, California             PAUL E. KANJORSKI, Pennsylvania
+JOHN L. MICA, Florida                GARY A. CONDIT, California
+THOMAS M. DAVIS, Virginia            PATSY T. MINK, Hawaii
+DAVID M. McINTOSH, Indiana           CAROLYN B. MALONEY, New York
+MARK E. SOUDER, Indiana              ELEANOR HOLMES NORTON, Washington, 
+JOE SCARBOROUGH, Florida                 DC
+STEVEN C. LaTOURETTE, Ohio           CHAKA FATTAH, Pennsylvania
+MARSHALL ``MARK'' SANFORD, South     ELIJAH E. CUMMINGS, Maryland
+    Carolina                         DENNIS J. KUCINICH, Ohio
+BOB BARR, Georgia                    ROD R. BLAGOJEVICH, Illinois
+DAN MILLER, Florida                  DANNY K. DAVIS, Illinois
+ASA HUTCHINSON, Arkansas             JOHN F. TIERNEY, Massachusetts
+LEE TERRY, Nebraska                  JIM TURNER, Texas
+JUDY BIGGERT, Illinois               THOMAS H. ALLEN, Maine
+GREG WALDEN, Oregon                  HAROLD E. FORD, Jr., Tennessee
+DOUG OSE, California                             ------
+PAUL RYAN, Wisconsin                 BERNARD SANDERS, Vermont 
+JOHN T. DOOLITTLE, California            (Independent)
+HELEN CHENOWETH, Idaho
+
+
+                      Kevin Binger, Staff Director
+                 Daniel R. Moll, Deputy Staff Director
+           David A. Kass, Deputy Counsel and Parliamentarian
+                      Carla J. Martin, Chief Clerk
+                 Phil Schiliro, Minority Staff Director
+                                 ------                                
+
+                   Subcommittee on the Postal Service
+
+                   JOHN M. McHUGH, New York, Chairman
+MARSHALL ``MARK'' SANFORD, South     CHAKA FATTAH, Pennsylvania
+    Carolina                         MAJOR R. OWENS, New York
+BENJAMIN A. GILMAN, New York         DANNY K. DAVIS, Illinois
+STEVEN C. LaTOURETTE, Ohio
+DAN MILLER, Florida
+
+                               Ex Officio
+
+DAN BURTON, Indiana                  HENRY A. WAXMAN, California
+                      Robert Taub, Staff Director
+                      Heea Vazirani-Fales, Counsel
+                       Abigail D. Hurowitz, Clerk
+           Denise Wilson, Minority Professional Staff Member
+
+   Subcommittee on Government Management, Information, and Technology
+
+                   STEPHEN HORN, California, Chairman
+JUDY BIGGERT, Illinois               JIM TURNER, Texas
+THOMAS M. DAVIS, Virginia            PAUL E. KANJORSKI, Pennsylvania
+GREG WALDEN, Oregon                  MAJOR R. OWENS, New York
+DOUG OSE, California                 PATSY T. MINK, Hawaii
+PAUL RYAN, Wisconsin                 CAROLYN B. MALONEY, New York
+
+                               Ex Officio
+
+DAN BURTON, Indiana                  HENRY A. WAXMAN, California
+          J. Russell George, Staff Director and Chief Counsel
+                   Matt Ryan, Senior Policy Director
+                          Mason Alinger, Clerk
+                     Faith Weiss, Minority Counsel
+
+                          COMMITTEE ON SCIENCE
+
+       HON. F. JAMES SENSENBRENNER, Jr., (R-Wisconsin), Chairman
+SHERWOOD L. BOEHLERT, New York       GEORGE E. BROWN, Jr., California, 
+LAMAR SMITH, Texas                       RMM**
+CONSTANCE A. MORELLA, Maryland       RALPH M. HALL, Texas
+CURT WELDON, Pennsylvania            BART GORDON, Tennessee
+DANA ROHRABACHER, California         JERRY F. COSTELLO, Illinois
+JOE BARTON, Texas                    TIM ROEMER, Indiana
+KEN CALVERT, California              JAMES A. BARCIA, Michigan
+NICK SMITH, Michigan                 EDDIE BERNICE JOHNSON, Texas
+ROSCOE G. BARTLETT, Maryland         LYNN C. WOOLSEY, California
+VERNON J. EHLERS, Michigan*          ALCEE L. HASTINGS, Florida
+DAVE WELDON, Florida                 LYNN N. RIVERS, Michigan
+GIL GUTKNECHT, Minnesota             ZOE LOFGREN, California
+THOMAS W. EWING, Illinois            MICHAEL F. DOYLE, Pennsylvania
+CHRIS CANNON, Utah                   SHEILA JACKSON-LEE, Texas
+KEVIN BRADY, Texas                   DEBBIE STABENOW, Michigan
+MERRILL COOK, Utah                   BOB ETHERIDGE, North Carolina
+GEORGE R. NETHERCUTT, Jr.,           NICK LAMPSON, Texas
+    Washington                       JOHN B. LARSON, Connecticut
+FRANK D. LUCAS, Oklahoma             MARK UDALL, Colorado
+MARK GREEN, Wisconsin                DAVID WU, Oregon
+STEVEN T. KUYKENDALL, California     ANTHONY D. WEINER, New York
+GARY G. MILLER, California           MICHAEL E. CAPUANO, Massachusetts
+JUDY BIGGERT, Illinois               VACANCY
+MARSHALL ``MARK'' SANFORD, South     VACANCY
+    Carolina
+JACK METCALF, Washington
+
+
+                       Subcommittee on Technology
+
+               CONSTANCE A. MORELLA, Maryland, Chairwoman
+CURT WELDON, Pennsylvania            JAMES A. BARCIA, Michigan**
+ROSCOE G. BARTLETT, Maryland         LYNN N. RIVERS, Michigan
+GIL GUTKNECHT, Minnesota*            DEBBIE STABENOW, Michigan
+THOMAS W. EWING, Illinois            MARK UDALL, Colorado
+CHRIS CANNON, Utah                   DAVID WU, Oregon
+KEVIN BRADY, Texas                   ANTHONY D. WEINER, New York
+MERRILL COOK, Utah                   MICHAEL E. CAPUANO, Massachusetts
+MARK GREEN, Wisconsin                BART GORDON, Tennessee
+STEVEN T. KUYKENDALL, California     TIM ROEMER, Indiana
+GARY G. MILLER, California
+
+                               Ex Officio
+
+F. JAMES SENSENBRENNER, Jr.,         GEORGE E. BROWN, Jr., California+
+    Wisconsin+
+
+
+
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on February 23, 1999................................     1
+Statement of:
+    Corcoran, Karla W., Inspector General, U.S. Postal Service, 
+      accompanied by Richard F. Chambers, Deputy Assistant 
+      Inspector General for Audit, Office of the Inspector 
+      General, U.S. Postal Service; Jack L. Brock, Director, 
+      Governmentwide and Defense Information Systems, Accounting 
+      and Information Management Division, U.S. General 
+      Accounting Office; Carl M. Urie, Assistant Director, 
+      Governmentwide and Defense Information Systems, Accounting 
+      and Information Management Division, U.S. General 
+      Accounting Office; Norman E. Lorentz, senior vice 
+      president, chief technology officer, U.S. Postal Service; 
+      Nicholas F. Barranca, vice president, operations planning, 
+      U.S. Postal Service; and Richard D. Weirich, vice 
+      president, information systems, U.S. Postal Service........    20
+Letters, statements, etc., submitted for the record by:
+    Barranca, Nicholas F., vice president, operations planning, 
+      U.S. Postal Service, followup questions and responses......   158
+    Brock, Jack L., Director, Governmentwide and Defense 
+      Information Systems, Accounting and Information Management 
+      Division, U.S. General Accounting Office, prepared 
+      statement of...............................................   121
+    Corcoran, Karla W., Inspector General, U.S. Postal Service:
+        Management advisory report...............................   162
+        Prepared statement of....................................    23
+    Fattah, Hon. Chaka, a Representative in Congress from the 
+      State of Pennsylvania, prepared statement of...............   217
+    Horn, Hon. Stephen, a Representative in Congress from the 
+      State of California, prepared statement of.................     8
+    Lorentz, Norman E., senior vice president, chief technology 
+      officer, U.S. Postal Service:
+        Information concerning the master calendar...............   213
+        Prepared statement of....................................   141
+    McHugh, Hon. John M., a Representative in Congress from the 
+      State of New York, prepared statement of...................     4
+    Morella, Hon. Constance A., a Representative in Congress from 
+      the State of Maryland, prepared statement of...............    11
+    Turner, Hon. Jim, a Representative in Congress from the State 
+      of Texas, prepared statement of............................    16
+
+
+       Y2K TECHNOLOGY CHALLENGE: WILL THE POSTAL SERVICE DELIVER?
+
+                              ----------                              
+
+
+                       TUESDAY, FEBRUARY 23, 1999
+
+        House of Representatives, Subcommittee on the 
+            Postal Service, joint with the Subcommittee on 
+            Government Management, Information, and 
+            Technology, Committee on Government Reform; and 
+            the Subcommittee on Technology, Committee on 
+            Science,
+                                                    Washington, DC.
+    The subcommittees met, pursuant to notice, at 10 a.m., in 
+room 2154, Rayburn House Office Building, Hon. John McHugh 
+(chairman of the Subcommittee on the Postal Service), Hon. 
+Stephen Horn (chairman of the Subcommittee on Government 
+Management, Information, and Technology), Committee on 
+Government Reform; and Hon. Constance Morella (chairwoman of 
+the Subcommittee on Technology), Committee on Science 
+presiding.
+    Present: Representatives McHugh, Horn, Morella, Miller, 
+Bartlett, Gilman, Biggert, Gutknecht, Turner, Stabenow, Gordon, 
+Wu, and Rivers.
+    Staff present from the Subcommittee on the Postal Service: 
+Robert Taub, staff director; Heea Vazirani-Fales, counsel; Jane 
+Hatcherson, office and systems administrator/legislative 
+assistant; Abigail D. Hurowitz, clerk; Denise Wilson, minority 
+professional staff member, Committee on Government Reform; and 
+Jean Gosa, minority administrative staff assistant, Committee 
+on Government Reform.
+    Staff present from the Subcommittee on Government 
+Management, Information, and Technology: J. Russell George, 
+staff director; Bonnie Heald, communications director and 
+professional staff member; Matt Ryan, policy director; Mason 
+Aliger, clerk; and Faith Weiss, minority professional staff 
+member, Committee on Government Reform.
+    Staff present from the Subcommittee on Technology: Richard 
+Russell, staff director; Ben Wu, professional staff member; Joe 
+Sullivan, staff assistant; Mike Quear, minority professional 
+staff member; and Marty Ralston, minority staff assistant.
+    Mr. McHugh [presiding]. Let me call the meeting to order 
+and wish everyone, ``Good morning'' and my personal words of 
+welcome.
+    This is somewhat of a unique meeting today, in that we are 
+joining not just another but, in fact, two other subcommittees, 
+for a total of three. Two of which have been designated as the, 
+``experts,'' on the year 2000 problems. My good friend on my 
+left--only figuratively speaking--from California, Mr. Horn, 
+fresh from a starring engagement on the ``Today'' show, and his 
+role as the chairman of the Subcommittee on Government 
+Management, Information, and Technology. And my other good 
+friend, Mrs. Morella--Connie, how are you--and her chairmanship 
+over the Subcommittee on Science and Technology. Rather than a 
+joint hearing, I suppose we could consider this a ``trifecta'' 
+of sorts--[laughter]--and I certainly welcome the opportunity 
+to join my distinguished colleagues in this hearing today. I 
+know we all look forward to having the benefit of the testimony 
+and input of our very distinguished witnesses.
+    This is certainly a serious matter that must be addressed 
+fully--and I want to emphasize the word ``fully''--and must be 
+addressed within the next 311 days for those of us who are 
+counting.
+    The Postal Service has stated that it is assigning a high 
+priority to addressing the Y2K problem and is spending a 
+significant amount of money on that effort. The Service has 
+estimated that the total cost of fixing its Y2K problem could 
+be one-half to three-quarters of a billion dollars. Given the 
+importance of the Postal Service's mission to all Americans, 
+whether at home or at their place of business, we must ensure 
+that this problem is and, of course, stays on track.
+    The Postal Service faces a major challenge in updating its 
+computer system to correctly identify dates beginning in the 
+year 2000 and, thus, avoid malfunctions that could 
+significantly, even disastrously, disrupt mail delivery. The 
+Postal Service has a special responsibility in this regard 
+because it is likely that a number of private-sector and 
+Government groups may need to utilize the agency as a backup 
+delivery system if their computers malfunction, raising 
+concerns about the prospect of a mail surge in January of next 
+year.
+    An early assessment by the Inspector General showed that 
+the Service was slow to recognize the scope of this problem and 
+failed to take the necessary actions early on to ensure that 
+its computer systems were indeed Y2K compliant.
+    More recently, the Postal system's November 19, 1998, 
+quarterly report to the Office of Management and Budget, on its 
+efforts in this matter, indicated progress in its meeting the 
+challenge. The Service's remaining tasks include completing the 
+adjustment of its computers so that they are all completely 
+compliant, fully testing computer systems, and, of course, 
+preparing contingency plans to help ensure continuity of core 
+business operations.
+    Our witnesses today include the Postal Service's Inspector 
+General, the General Accounting Office, and the Postal Service, 
+itself. The Inspector General has been working closely to 
+assess and monitor the Service's progress, and we certainly 
+look forward to her insights and recommendations.
+    The GAO has also been evaluating the postal situation, and 
+that office, I believe, can provide some context given its 
+assessments of the Y2K problems encountered in other Federal 
+agencies of similar size and scope such as the Department of 
+Defense. And, of course, we are anxious to hear firsthand from 
+the Postal Service on the progress it has made in overcoming 
+its early difficulties as identified last year by the Inspector 
+General.
+    As I stated at the outset, given the importance of the 
+Postal Service's mission to the American public, close 
+oversight will be needed to ensure that its year 2000 program 
+stays on track, and today's hearing, we all hope, is one step 
+in that very important process.
+    And with that, before we go to our witnesses, I would be 
+happy to yield to my good friend, Mr. Horn, who actually came 
+to me with the idea of this hearing. So I am really relying 
+upon him to make us all look smarter than I think I am. But 
+with that, I would be happy to yield to the gentleman from 
+California.
+    [The prepared statement of Hon. John M. McHugh follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.001
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.002
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.003
+    
+    Mr. Horn. Well, I thank you. As chairman, you have done a 
+wonderful job over the last few years we have been colleagues 
+in reviewing the Post Office. Thank you for calling this 
+hearing.
+    If I might, I am going to only read one or two sentences 
+from my opening statement. Mr. Chairman, I would like to have 
+the statement put in the record as if read at this point.
+    Mr. McHugh. Without objection, so ordered.
+    [The prepared statement of Hon. Stephen Horn follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.004
+    
+    Mr. Horn. I think I can say this about the Post Office 
+Department. Based on my experience, 30 years of living in Long 
+Beach, CA, I have never had one single complaint about the Post 
+Office Department. You have a marvelous group of people out 
+there. Mr. Good, I think a lot of you know, who headed the Long 
+Beach operation and was moved around the country in a couple of 
+cases to salvage those operations. They run a fine system. I 
+have been in every single branch post office in that district 
+at least four times over the last 6 years. And, again, both 
+clerks, letter carriers have done things with a smile.
+    So, I don't come at this from being ``dogged'' after the 
+Post Office Department. But I come at it because, as the 
+chairman said in his opening remarks, everybody else's 
+contingency plan, if their electronics and computers don't 
+work, all of them are depending on the post office. We have 
+enough trouble with the ones that have computers, and we hope 
+they will work, and not just in the Federal Government, but in 
+the society, in general. But, again, we are going to be really 
+``up a creek'' or ``down a creek,'' whatever the phrase is, in 
+needing your help, because January 1, 2000, is right in the 
+midst of your major rush of the year. If everybody is mailing 
+43 million checks or 10,000 checks in a small business, 
+whatever it is, they are going to need your help.
+    So, one of the things I hope will come out of this hearing 
+is some understanding of how you can be the contingency person 
+of the American society.
+    If we can hold the rest for questions--I am going to have 
+to step out at 10:45 for about a half an hour, Mr. Chairman, 
+but I will be back.
+    Mr. McHugh. I thank the gentleman.
+    There really is no order of seniority. Well, there is, of 
+course--[laughter]--but we are not adhering to any kind of rank 
+here. We have, as I said, three subcommittees, and of course a 
+lot of Members, I know, will be coming in and out and the fact 
+that we are going to our third Chair this morning, as the third 
+spot has absolutely no relevance to anything other than that 
+seems to be the way it worked out.
+    But with that, I would be delighted to yield to Chairwoman 
+Connie Morella for any comments she might like to make.
+    Mrs. Morella. Thank you, Mr. Chairman.
+    I appreciate your holding this hearing, with the three 
+subcommittees coming together, because we recognize what an 
+important issue this is and how important the Postal system is 
+to all Americans and to all people who are in the United States 
+and, as a matter of fact, throughout the world.
+    So, I am pleased to be here. We talk about three Chairs; 
+maybe we need to look at the table here that we have before us.
+    Delivery of the mail, of course, is so fundamental to our 
+Nation that it would be unthinkable for us to not have it. And 
+yet, just as in virtually every large business, and the Postal 
+Service is a quasi independent agency, is arguably the largest 
+business in the Federal Government with over 700,000 employees 
+handling over 185 million pieces of mail annually, the Postal 
+Service is also being bitten by this millennium bug. So, the 
+Postal Service must take every available necessary action to 
+correct the Y2K computer glitch, especially in this age of 
+highly automated mail delivery.
+    The problem is that, due to initial inadequate leadership 
+and lack of management priorities, the Postal Service only 
+began to dedicate sufficient resources, personnel, and funding 
+to the issue much too late. And as a result, there are 
+justifiable concerns about the Postal Service's ability to be 
+fully Y2K compliant before January 1, 2000. And that deadline 
+is like 311 days away.
+    I have been assured that, despite these concerns, the 
+Postal Service is determined that in the new millennium anyone 
+who drops off mail at the post office should remain absolutely 
+confident that their letter or package will arrive at its 
+intended destination, even if it has to be manually sorted or 
+even if it needs to be delivered by Pony Express.
+    I have no doubt that getting the mail there will not be a 
+problem, but the Y2K challenge may ultimately give a stark, 
+grim truth to the old excuse, ``the check is in the mail.'' The 
+possibility of significant business interruptions exist if the 
+Postal Service isn't able to operate in the same manner as it 
+does now. And these business interruptions could potentially 
+affect our Nation's economic stability. If there is no 
+confidence that the Postal Service can deliver the mail in a 
+timely manner, then businesses and others will turn elsewhere 
+when a letter or a package absolutely, positively needs to get 
+there.
+    These concerns about the Postal Service are especially 
+pronounced because, in many cases, the Postal Service is the 
+contingency plan for organizations and individuals that conduct 
+business electronically.
+    Assuring the American public that the Postal Service will 
+have, at worst, minimal Y2K disruptions is vital. It is vital 
+to maintaining the trust and confidence that the institutional 
+has held for over 200 years.
+    To help us achieve that goal, we have a distinguished panel 
+of witnesses from the Postal Service, the Postal Service 
+Inspector General, and the General Accounting Office. Both the 
+Inspector General and the GAO have issued a series of specific 
+recommendations to guide the Postal Service in its operations 
+and we appreciate that.
+    I am looking forward to reviewing the recommendations with 
+the Postal Service, determining the current status. I expect 
+this hearing will be very helpful in guiding the Postal Service 
+toward making the necessary changes in the short time remaining 
+so that we can be confident that, ``through rain, snow, sleet, 
+hail, or Y2K,'' our Nation's mail will be delivered in a timely 
+manner.
+    And, Mr. Chairman, I just want to announce that young 
+people are interested in this hearing, too. There is a class 
+here of information technology students from a high school in 
+Maryland. It is not in my district, but it is Springbrook High 
+School, and I am pleased they are here because they wanted to 
+come and to listen and to learn from this hearing.
+    I yield back.
+    [The prepared statement of Hon. Constance A. Morella 
+follows:]
+[GRAPHIC] [TIFF OMITTED] T8811.005
+
+[GRAPHIC] [TIFF OMITTED] T8811.006
+
+[GRAPHIC] [TIFF OMITTED] T8811.007
+
+[GRAPHIC] [TIFF OMITTED] T8811.008
+
+    Mr. McHugh. Well, thank you, Connie. We appreciate your 
+kind comments and your leadership on this issue.
+    And, we certainly welcome the high school students who have 
+joined us, as we welcome all of our guests.
+    One of the positive things about having three Chairs is you 
+also have three ranking members who are associated, and we have 
+been joined with one already, the ranking member on the 
+Government Management, Information, and Technology Subcommittee 
+who serves faithfully with Mr. Horn, and Mr. Horn tells me does 
+a terrific job as well, Mr. Turner, the gentleman from Texas. I 
+would be happy to yield to him at this time.
+    Mr. Turner. Thank you, Mr. Chairman.
+    I would like to thank Chairman McHugh, Chairman Horn and 
+Chairwoman Morella for holding this hearing today on the status 
+of the Postal Service Y2K conversion efforts.
+    It is hard to imagine that we have 640 million pieces of 
+mail flowing in this country every day and 38,000 postal 
+facilities. You certainly have a challenge ahead of you to be 
+sure that you are Y2K compliant. It is my understanding that a 
+concentrated effort is being made, and I commend you for doing 
+that.
+    They tell me much work remains to be done. I am told that 
+there are 148 of the 156 most-critical systems that have been 
+repaired and in service and ready for Y2K, but only 40 of those 
+systems have actually had their respective repairs tested and 
+verified. I am also told that you have much work to be done in 
+the area of contingency planning. If there is anything that I 
+would think the American people would expect from the Federal 
+Government is to be sure that their mail is delivered on time 
+on January 2, 2000.
+    So, I commend all of you for your efforts, and we look 
+forward to hearing your report to us today.
+    Thank you, Mr. Chairman.
+    [The prepared statement of Hon. Jim Turner follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.009
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.010
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.011
+    
+    Mr. McHugh. I thank the gentleman.
+    We have something of a logistics challenge here this 
+morning for the three subcommittees, because we will have 
+Members coming and going. We are joined already by Judy 
+Biggert, the gentlelady from Illinois who serves as the vice 
+chair of the Government Management, Information, and Technology 
+Subcommittee; Gary Miller, the gentleman from California who 
+serves on the Technology Subcommittee; Roscoe Bartlett, another 
+fine Member of the House from Maryland. I would be happy to 
+yield to any or all of you if you would care to make any 
+opening comments.
+    Mr. Miller. Thank you, Mr. Chair----
+    Mr. McHugh. Mr. Miller.
+    Mr. Miller [continuing]. For conducting this hearing today 
+on the status of the year 2000 challenge at the U.S. Postal 
+Service. I think it is important that we draw attention to the 
+vital role the U.S. Postal Service will play at the start of 
+the new millennium. As we discussed in the January 11th joint 
+hearing which addressed the Y2K problem at the Federal, State, 
+local, and foreign governments, failure to identify and prepare 
+for both the probable and worst-case scenarios could result in 
+consequences ranging from mere inconvenience to long-term 
+impairment of the economy.
+    It was ironic; I met with my local bankers last week, and 
+the amount of concern generated at that level was rather 
+alarming. You have to hand it to the technology companies when 
+they sold stock and created the concern over this problem. They 
+did a very, very effective job. I think our job today is to 
+create a more calm environment that this issue is really going 
+to be dealt with.
+    I am hopeful that the testimony and the questions brought 
+forth today will help us prepare for the year 2000.
+    Once again, Mr. Chairman, thank you for holding this 
+hearing.
+    Mr. McHugh. I thank the gentleman for his comments.
+    Any other Members wish to--Mr. Bartlett.
+    Mr. Bartlett. Mr. Chairman, when I talk to our 
+constituents, I find more variability, less consensus, about 
+what the Y2K problem will do to us and about any future event. 
+So I am here today to listen with great interest to the 
+preparations of the Postal Service and their prognostications 
+of what will happen to this vital part of our society in the 
+year 2000.
+    Thank you very much for convening this hearing.
+    Mr. McHugh. I thank the gentleman.
+    The gentlelady from Illinois.
+    Mrs. Biggert. Thank you, Mr. Chairman.
+    I, too, look forward to hearing from the witnesses today on 
+this Y2K challenge, and I know that certainly the year 2000 
+will come at the Postal Service's busiest time. And so I know 
+that the American public and the Congress will be assured that 
+the mail will be delivered on time and look forward to hearing 
+those assurances.
+    Thank you very much.
+    Mr. McHugh. I thank the gentlelady.
+    With that, that brings us to the substantive part, we hope, 
+of today's hearing and that would be, of course, testimony.
+    As some of you who have appeared before the full committee 
+and/or some of its subcommittees in the past know, it is 
+committee rules that all witnesses must be sworn. If you would 
+please rise. I would also note, for the record, that although 
+not seated at the head table, Mr. Carl Urie, who is Assistant 
+Director of Governmentwide Defense Systems of GAO, will also be 
+sworn from some place in the audience. So, if all of the 
+aforementioned would rise.
+    [Witnesses sworn.]
+    Mr. McHugh. The record will show that all of the 
+participants affirmed and acknowledged the oath in the 
+affirmative.
+    And with that, we welcome you here this morning. Thank you 
+for your patience. As you have heard from all of the Members 
+here today, this is a--generically and specifically--to the 
+Postal Service, a very pressing problem, one that concerns us 
+all deeply, as I know it does you. We are looking forward to 
+your testimony. We will begin, as the hearing notice indicated, 
+with Ms. Corcoran, the Inspector General of the U.S. Postal 
+Service.
+    Karla, welcome. It is good to see you again. Thank you for 
+being here, and our attention and our time is yours.
+
+STATEMENTS OF KARLA W. CORCORAN, INSPECTOR GENERAL, U.S. POSTAL 
+ SERVICE, ACCOMPANIED BY RICHARD F. CHAMBERS, DEPUTY ASSISTANT 
+ INSPECTOR GENERAL FOR AUDIT, OFFICE OF THE INSPECTOR GENERAL, 
+ U.S. POSTAL SERVICE; JACK L. BROCK, DIRECTOR, GOVERNMENTWIDE 
+  AND DEFENSE INFORMATION SYSTEMS, ACCOUNTING AND INFORMATION 
+ MANAGEMENT DIVISION, U.S. GENERAL ACCOUNTING OFFICE; CARL M. 
+     URIE, ASSISTANT DIRECTOR, GOVERNMENTWIDE AND DEFENSE 
+  INFORMATION SYSTEMS, ACCOUNTING AND INFORMATION MANAGEMENT 
+ DIVISION, U.S. GENERAL ACCOUNTING OFFICE; NORMAN E. LORENTZ, 
+ SENIOR VICE PRESIDENT, CHIEF TECHNOLOGY OFFICER, U.S. POSTAL 
+   SERVICE; NICHOLAS F. BARRANCA, VICE PRESIDENT, OPERATIONS 
+  PLANNING, U.S. POSTAL SERVICE, AND RICHARD D. WEIRICH, VICE 
+      PRESIDENT, INFORMATION SYSTEMS, U.S. POSTAL SERVICE
+
+    Ms. Corcoran. Thank you. Good morning, Chairman McHugh, 
+Chairman Horn, Chairwoman Morella, and members of the 
+subcommittees.
+    I am pleased to be here today to discuss the Y2K challenge 
+facing the Postal Service. Joining me is Richard Chambers, 
+Deputy Assistant Inspector General for Audit.
+    With your permission, I would like to submit my full 
+statement for the record.
+    Mr. McHugh. For the record, so ordered, without objection, 
+as all of the witnesses statements will be entered in their 
+entirety.
+    And, please, all of you feel free to summarize your 
+comments and make those points you feel are most important for 
+the moment. Thank you.
+    Ms. Corcoran. Since beginning my office in 1997, we have 
+been performing work in the Y2K area. In addition, the Postal 
+Governors have been very concerned about the Y2K issue. They 
+have monitored the progress through periodic briefings by 
+management and my office.
+    The Postal Service Y2K issues can be examined by answering 
+four key questions.
+    One, why is it critical for the Postal Service to address 
+the Y2K issue?
+    Two, will the Postal Service be able to deliver mail after 
+January 1, 2000?
+    Three, what is the current status of the Postal Service's 
+Y2K effort?
+    And, four, what can Postal Service do to minimize the Y2K 
+risk?
+    Turning to question No. 1, why is it critical for the 
+Postal Service to address the Y2K issue? The Postal Service is 
+an important part of the Nation's communication and commercial 
+infrastructure. The Postal Service is heavily reliant on 
+technology, automation, and thousands of critical, external 
+suppliers of goods and services who also face Y2K challenges. 
+The Postal Service uses Y2K-vulnerable equipment systems and 
+processes to deliver 650 million pieces of mail per day, 
+maintain 38,000 facilities, and pay over 800,000 employees. In 
+addition, numerous private and Government agencies have 
+included the Postal Service in their contingency plans if their 
+electronic systems fail.
+    Question 2, will the Postal Service be able to deliver the 
+mail after January 1, 2000? There are too many variables that 
+currently exist to answer that question. The answer to this 
+question depends, in large part, on the Postal Service--how 
+well the Postal Service executes its Y2K plans over the coming 
+months. The Postal Service has made progress, but much remains 
+to be done in the remaining 10 months.
+    We have provided the Postal Service with five reports that 
+outline opportunities for improvement. Generally, the Postal 
+Service has taken action on these reports, but with so little 
+time remaining, ``beating the clock'' will be challenging.
+    Question 3, what is the current status of Postal Service's 
+Y2K effort? To answer this question, I would like to look 
+briefly at eight comprehensive areas.
+    The first area is external suppliers. Postal Service 
+estimates it has about 8,000 critical suppliers of goods and 
+services for areas such as air, rail, and fuel that are needed 
+to move the mail and maintain its facilities. The Postal 
+Service has 661 critical national suppliers; it only knows the 
+Y2K readiness status of 1 out of 7 of these national suppliers. 
+The Postal Service also knows very little about the 7,000 field 
+suppliers and their Y2K readiness. Postal operations may be 
+disrupted if their suppliers' services are not Y2K compliant or 
+if the Postal Service does not develop alternatives to these 
+suppliers.
+    The second area is data exchanges. This is the way that the 
+Postal Service transfers data with other Government agencies, 
+businesses, industries, and customers. Only 6 percent of the 
+2,000 known critical exchanges are Y2K ready.
+    The third area is technology-dependent facilities. These 
+are the controls for heating, cooling, fire suppression, and 
+the numerous other systems that support the 38,000 facilities. 
+Postal Service is still assessing these controls to determine 
+what needs to be done to assure the facilities do not shut down 
+or cause problems on January 1, 2000.
+    The fourth area is mail-processing equipment. These are the 
+major automated systems for moving the mail. They consist of 
+thousands of pieces of equipment. This area is on its way to 
+being Y2K compliant. Our main concern is whether the Postal 
+Service will adequately deploy and test its solutions.
+    The fifth and sixth areas are information systems and the 
+information technology infrastructure. These are mainframes, 
+PC's, and information systems that process data. A majority of 
+these have had solutions developed; however, independent 
+verification to assure systems' compliance and deployment of 
+solutions to the actual infrastructure could be a challenge.
+    The seventh area is readiness testing. Readiness testing 
+gives Postal Service assurance that their systems will be 
+reliable on January 1, 2000. The Postal Service has not made a 
+final determination as to what extent readiness testing will be 
+performed.
+    The final area I would like to discuss within this third 
+question about Postal Service's current Y2K status is their 
+continuity plans. You can consider continuity plans to be the 
+Postal Service's insurance plan. If failures occur in any of 
+their equipment, systems, or processes, alternatives or ways to 
+assure their operations are not affected must be developed, 
+implemented, and tested for all core business processes to 
+ensure movement of the mail, payment of its bills, protection 
+of its revenue, and protection of the life and safety of its 
+employees and customers.
+    The Postal Service plans to complete the continuity plan by 
+July and test it by August. This is a tremendous challenge 
+within the given timeframes. But not meeting these timeframes 
+is not really an option for the Postal Service if they are 
+going to be ready for January 1, 2000.
+    In summary, for these eight areas, the Postal Service has 
+done much, but much remains to be done.
+    Question 4, what can the Postal Service do to minimize Y2K 
+risk? There are three things that we believe the Postal Service 
+needs to do to minimize their risk. First, the Postal Service 
+should reevaluate its initial assessments to identify only 
+those most critical business operation systems. Second, the 
+Postal Service should focus its work on correcting, first, 
+those systems, equipment, and processes that are absolutely 
+necessary to ensure core business processes work. Third, the 
+Postal Service must develop, implement, and test business 
+continuity plans for core business processes.
+    In summary, it is critical for the Postal Service to 
+address the Y2K issue. There are too many variables to 
+determine what impact Y2K will have on the Postal Service's 
+ability to deliver mail after January 1, 2000.
+    The Postal Service recognizes its Y2K challenge, is taking 
+action, and has made progress. However, with 10 months 
+remaining before year 2000, much remains to be done. The Postal 
+Service should focus resources on the most critical core 
+business processes and develop, implement, and test their 
+continuity plan to minimize Y2K risk.
+    My office will continue to work with the Postal Service to 
+identify challenges and to help the Postal Service minimize the 
+Y2K risk.
+    The concludes my statement. Thank you for interest, and I 
+will be pleased to answer any questions.
+    [The prepared statement of Ms. Corcoran follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.012
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.013
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.014
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.015
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.016
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.017
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.018
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.019
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.020
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.021
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.022
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.023
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.024
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.025
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.026
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.027
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.028
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.029
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.030
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.031
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.032
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.033
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.034
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.035
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.036
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.037
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.038
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.039
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.040
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.041
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.042
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.043
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.044
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.045
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.046
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.047
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.048
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.049
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.050
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.051
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.052
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.053
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.054
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.055
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.056
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.057
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.058
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.059
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.060
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.061
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.062
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.063
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.064
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.065
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.066
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.067
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.068
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.069
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.070
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.071
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.072
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.073
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.074
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.075
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.076
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.077
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.078
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.079
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.080
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.081
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.082
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.083
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.084
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.085
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.086
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.087
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.088
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.089
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.090
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.091
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.092
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.093
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.094
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.095
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.096
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.097
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.098
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.099
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.100
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.101
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.102
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.103
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.104
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.105
+    
+    Mr. McHugh. Thank you very much, Ms. Corcoran. We 
+appreciate your comments and observations.
+    As we had decided earlier, and as your presence all at the 
+same table at the same time suggests, our plan is to go forward 
+and to have all three presentations and then return for the 
+questions and answers.
+    So, in keeping with that, hearing no outcry of outrage--
+[laughter]--I would now be pleased to recognize Mr. Jack Brock, 
+who serves as Director of the General Accounting Office's 
+Governmentwide and Defense Information System, under the 
+Accounting and Information Management Division.
+    Mr. Brock, good morning, sir. Thank you for being with us.
+    Mr. Brock. Thank you very much, Mr. McHugh, and I 
+appreciate being here.
+    I was here on Friday before another one of your 
+subcommittees on the District of Columbia. I will be here next 
+Tuesday on the Department of Defense before Mr. Horn.
+    So, the problems and the issues that the Postal Service is 
+facing are not unique. I mean every agency, every private-
+sector company, all face Y2K concerns. So, they are not unique.
+    Mr. McHugh. Are you renting a room in the back? [Laughter.]
+    Or, are you just commuting? [Laughter.]
+    Mr. Brock. Well, we are being kept busy, but it is nice to 
+be employed.
+    Every morning when I get up, I turn on the lights, and I 
+expect the light to turn on. I usually call into my office and 
+check my voice mail, and I expect the phone to work. In a very 
+similar fashion, every afternoon when I come in from work, I go 
+to my mailbox, and the mail is always there. I cannot recall 
+ever having a misplaced letter. I have never had a call from a 
+creditor saying, ``Your check, I guess, is in the mail, but we 
+haven't received it.'' I mean I have come to expect really--as 
+Mr. Horn has discussed in his opening remarks--first-class 
+service from the post office.
+    Over 100 million Americans every day have this level of 
+expected service. The logistical operations that the post 
+office has to go through to deliver this 650 million pieces of 
+mail and to provide the ubiquitous service they provide across 
+the Nation is incredibly complex.
+    Of all the agencies that I have responsibility for 
+reviewing, I think that only the Department of Defense has a 
+more complex set of operations that have to be ready on January 
+1st.
+    In many respects, the post office, the Postal Service, is a 
+public utility. It provides a public service that is absolutely 
+necessary, and it has to perform at a high level. There are too 
+many people, too many businesses, that depend on the Postal 
+Service for their livelihood. For example, people getting 
+prescription drugs through the mail are dependent on the Postal 
+Service; others are dependent for delivery of checks. There are 
+other benefit payments, for businesses that depend upon timely 
+receipt and transmission of packages and bulk mail; everything 
+has to work, and it has to work at a high level.
+    So, just as on January 1st, if you can't turn on your light 
+switch, if you can't pick up the phone and get a dial tone, I 
+think the Postal Service is in a similar situation. If it 
+doesn't deliver mail reasonably effectively, then we are going 
+to have the same kinds of problems. So it is very important the 
+Postal Service work.
+    I think for that reason, regardless of their status, that 
+it is important to have these hearings and this oversight to 
+provide a great assurance that things will work next year. So, 
+I commend you on having these hearings and providing that level 
+of oversight.
+    As the Inspector General indicated in her remarks--and I 
+will try not to duplicate it--it is a complex environment that 
+they have. A third of the Federal work force works for the 
+Postal Service. As I mentioned, the 650 million pieces of mail 
+a day that are delivered, thousands of local facilities, over 
+30,000 individual post offices, a couple of hundred mail 
+facilities that sort mail, deliver, do the set-up that is 
+necessary for mail delivery--all of this is supported by a very 
+rich, complex environment that relies on automation, that 
+relies on computers to make it work.
+    So, the Postal Service has identified 152 critical systems 
+that have to work in order for the mail to be delivered. They 
+have identified 349 important systems that need to work in 
+order to make life bearable for them. They have identified a 
+number of facilities that must work in order for the mail to be 
+stored, to be delivered. They have identified hundreds and 
+thousands of interfaces that must be in place. They have 
+identified 43 types of mail-processing equipment that are 
+installed in several hundred locations that have to work, and 
+they have identified a number of interfaces, not only within 
+the Postal Service, but with their customers and their 
+suppliers, that also have to work. So, it is not just a 
+question of 152 mission-critical systems working; it is a 
+question of an entire operating environment working. If that 
+does not work, the Postal Service will have problems.
+    In terms of their status, I think the IG covered that very 
+well. But they are running somewhat behind the OMB guidance for 
+implementation, and, as a result, they are going to be facing 
+some time compressions.
+    One of the things that I would like to comment briefly on, 
+though, is on what I believe is the strength of the Postal 
+Service and that is their new management structure. Until 
+recently, the burden of ensuring the year 2000 readiness 
+largely resided in the Program Management Office under the 
+general director of the vice president of information systems. 
+The program focus here was more directed at systems and 
+processes that supported business operations, rather than on 
+the readiness of business processes, which typically involve a 
+lot of activities that are more complex than just individual 
+systems.
+    In December 1998, the Service reorganized its program 
+management to better reflect year 2000 efforts in terms of 
+these business operations. The new organizational structure 
+represents a matrix approach to managing ongoing efforts. 
+Senior vice presidents that have responsibility within 
+functional areas like mail operations or finance or marketing, 
+are now required to ensure that individual business processes 
+will, in fact, be decomposed, and that each process will work.
+    Those processes are responsible for developing individual 
+contingency plans and for conducting the simulation of what we 
+would call ``end-to-end'' testing that is required to make sure 
+that processes work, not just systems.
+    The vice president for Information Systems still has the 
+responsibility for system remediation across these business 
+areas. And then across all of the areas, the Service's chief 
+operating officer has the responsibility for developing a 
+comprehensive business continuity plan to allow for a certain 
+level of business to be conducted in the event of failures.
+    We are very supportive of this management approach. The 
+problem with it is--we would have been even more pleased if it 
+had been put in place a couple of years ago. So, it is new; it 
+hasn't been tested; it is just getting off the ground. But, 
+nevertheless, if implemented appropriately, we think it will go 
+a long ways toward serving the Postal Service.
+    However, even with this process in place, we believe the 
+Postal Service has two big, big challenges, and the first one 
+is time. They are running out of it; they have until the end of 
+the year. However, that deadline is further compressed by their 
+business cycle which picks up considerably in September with 
+holiday mailing and further compresses the availability and the 
+attention of top management to devote themselves to Y2K.
+    Second, they still have a large number of unknowns that 
+they are working toward. They have no complete inventory on the 
+IT infrastructure, on the internal and external interfaces, and 
+on field equipment and systems. They don't know yet whether the 
+majority of the critical vendors they have will, in fact, be 
+ready, themselves, to supply them with goods and services that 
+are necessary for the mail to be delivered. They don't have 
+assurances yet on the public infrastructure--
+telecommunications, electrical power, things like that, that 
+all businesses, that all Government operations have to depend 
+on. Until they complete their simulation testing, they have no 
+real assurance yet that the internal business processes will 
+work.
+    So they have a large number of challenges that they must 
+successfully address over the next few months in order to 
+maximize assurance and to minimize risk that, in fact, they 
+will be ready on January 1st.
+    For that reason, our recommendations are pretty 
+straightforward--is that they, in fact, have sustained 
+attention by the management stakeholders that the plan is 
+followed. They need to develop a comprehensive plan; that is in 
+the stage of being developed, but not yet developed. They need 
+to make sure the plan is followed. They need to make sure that 
+all key decisions are really bought into and made by the key 
+stakeholders, not by the technology guys, but the business guys 
+need to make the decisions about any tradeoffs that will occur 
+on the priorities that the Inspector General said had to be 
+made. They need to ensure that adequate support is being 
+provided throughout the process, and they need to make sure 
+that all the components in the individual business areas really 
+support the whole--that is the mail delivery--that you don't 
+suboptimize individual process in lieu of making the
+overall process as good as it can be.
+    Mr. Chairman, that completes my statement, and when the 
+other gentlemen are through, I would be pleased to address any 
+questions that you might have.
+    [The prepared statement of Mr. Brock follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.106
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.107
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.108
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.109
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.110
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.111
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.112
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.113
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.114
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.115
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.116
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.117
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.118
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.119
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.120
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.121
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.122
+    
+    Mr. McHugh. Thank you very much, Mr. Brock. We appreciate 
+your comments.
+    Our last presenter this morning is Mr. Norman Lorentz, who 
+is senior vice president and Chief Technology Officer for the 
+U.S. Postal Service.
+    Good morning, Mr. Lorentz. Thank you for being here. As you 
+may have gathered, you and your department are the focus of our 
+attention here this morning. So, we are very anxiously awaiting 
+your comments.
+    And with that, our attention is yours.
+    Mr. Lorentz. Good morning, Chairman McHugh, Chairman Horn, 
+Chairwoman Morella, and subcommittee members.
+    On behalf of the U.S. Postal Service, I welcome the 
+opportunity to speak to you today about the Postal Service's 
+efforts to address the year 2000 computer problem.
+    With me today are Nicholas Barranca, the vice president of 
+operations planning, and Richard Weirich, vice president of 
+information systems.
+    It is gratifying, not only to myself but to the Postal 
+Service employees in thousands of communities across the 
+Nation, to be reminded of the trust and confidence the American 
+people have in the mail system.
+    While years of predictions suggest that there is no place 
+for paper-based communications in this digital world, the fact 
+that we are sitting here today demonstrates that is not the 
+case.
+    As Postmaster General William Henderson said in this very 
+room less than 2 weeks ago, ``The health of the Postal Service 
+is important to the American people. It is a measure of how 
+much American companies and consumers depend on reliable, 
+reasonably priced postal services to communicate and conduct 
+business.''
+    We have taken this obligation seriously for the last two 
+centuries, and we take it just as seriously as we move into the 
+next. The coming of the year 2000 presents a host of 
+challenges. The coming year is both anticipated and never 
+before experienced, by either the Postal Service or any other 
+business or Government agency.
+    The Postmaster General and senior Postal Service management 
+are giving this subject significant attention, with weekly 
+meetings of the Management Committee serving as a forum for 
+reports and discussion about the status of our year 2000 
+program. This is one of the most important public policy issues 
+we are facing this year.
+    It is a challenge of vast magnitude with a deadline--as was 
+mentioned--311 days away, that cannot be changed. And it is a 
+challenge that has engaged the men and women of the Postal 
+Service for a number of years.
+    Like any forward-thinking organization, the Postal Service 
+is doing everything possible to minimize and eliminate the 
+potential for disruption that could arise from the year 2000 
+computer problem. But, unlike many of those organizations, only 
+the Postal Service is in the position of saying, ``The buck 
+stops here!''
+    The fact is, the Postal Service is part of the year 2000 
+contingency plans for many organizations that rely on 
+electronic communications, whether benefit payments by Federal 
+agencies, electronic payments in the private sector, or simple 
+data transmission from person to person. This means that our 
+readiness efforts must focus on maintaining the ability to 
+process and deliver normal mail volumes as we enter the new 
+year, and to absorb additional volumes that could be diverted 
+from the electronic message stream.
+    I want to state clearly and unequivocally that we are ready 
+in the U.S. Postal Service to take on this challenge.
+    Our mail system is no stranger to operating successfully 
+through national and regional disruptions. We delivered 2 years 
+ago when a strike all but shut down the United Parcel Service, 
+just as we delivered through two recent airline strikes. Since 
+the first days of the national postal system, we have found 
+ways to deliver through war, floods, earthquakes, and other 
+natural disasters.
+    Even with this experience, we want to be sure that we are 
+doing the right things to prepare for the potential year 2000 
+disruptions. This is why our planning for the year 2000 problem 
+has been extremely thorough, establishing a step-by-step 
+program that takes us in to a new century with a reasonable 
+level of assurance that the Postal Service will continue to 
+deliver.
+    We began our efforts with an inventory of all components 
+and all systems that can be affected. The next step was the 
+assessment of the criticality of each of these systems. One 
+question was, ``Is this system necessary to our core mission of 
+delivering the mail?'' Then we began remediation efforts on our 
+mission-critical systems. If we found a problem, we fixed it. 
+It is not sufficient that our own people tell us that something 
+is fixed. We also require independent verification that our key 
+components and systems have been fully remediated.
+    With remediation efforts on schedule, we are expanding our 
+focus this year to the next logical steps--business continuity 
+planning and recovery management.
+    Simulation testing, in an actual operating environment, 
+helps add further confirmation to the status of remediation. 
+Knowing what individual elements of our systems and processes 
+will be available provides us with a firm foundation for 
+business continuity planning.
+    We began testing our critical mail-processing systems last 
+August at a mail-processing plant in Tampa and a bulk mail 
+center in Atlanta. The results of these tests and others that 
+are being conducted are very, very encouraging. They 
+demonstrate that, following remediation of our basic mail-
+processing equipment, mail is being sorted correctly as it 
+moves through our system.
+    Despite our best efforts to fix all of the vulnerable 
+systems and components, and testing them to make sure they 
+work, being prepared means that we also have to anticipate that 
+there may be some year 2000 problems.
+    In our own systems, we are looking at 100 million lines of 
+computer code. On top of that, we rely on commercial air and 
+surface transportation to move mail both locally and across the 
+country. We also power our facilities from the same utilities 
+as other customers. As you can see, some of the key elements 
+that are necessary to support a national postal system are not 
+within our direct control.
+    Through business continuity planning, we are exploring 
+``what if'' scenarios that anticipate specific disruptions, 
+internal or external, that might arise. The ``work arounds'' we 
+are developing will help us to minimize the potential problems. 
+All of our senior officers are actively engaged in the process. 
+But business continuity plans cannot be successful by 
+themselves. They go hand-in-hand with recovery management.
+    Recovery management gives our people a structured way to 
+report problems and implement the plans that have been designed 
+to address them. Some decisions will be based on specific plans 
+that have been developed to meet a particular contingency. 
+Other decisions will be dynamic, based on the unique confluence 
+of events that may occur at any point in time. Either way, 
+recovery management is one of the most important tools we will 
+have to continue moving the mail.
+    Throughout each of these key processes--remediation, 
+business continuity planning, and recovery management--our 
+actions have been consistent with the approach taken by other 
+Government and private-sector organizations. We have contracted 
+with the help of over 1,300 technical support people to 
+implement and manage many of the technical elements of this 
+critical program. The entire effort is being supported by a 
+level of financial resources necessary to address this once-in-
+a-lifetime issue. Unlike other Government agencies, the U.S. 
+Postal Service is receiving no appropriations for the year 2000 
+readiness.
+    While we at the Postal Service are confident that we are 
+doing the right things to protect universal service, we also 
+recognize that we do not have all of the answers--and nobody 
+does.
+    In this respect, we welcome the positive contribution of 
+those who have reviewed our activities and offered us 
+constructive suggestions and proposals. Both the U.S. Postal 
+Service's Inspector General and the General Accounting Office, 
+who also reported to you today, have been actively engaged in 
+helping us to meet this challenge.
+    In closing, I can't promise that there will be no problems, 
+but we remain confident that with the continued hard work of 
+everyone involved in this effort, we will achieve our goals of 
+delivering the mail, protecting our employees, and protecting 
+our finances.
+    Thank you.
+    [The prepared statement of Mr. Lorentz follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.123
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.124
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.125
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.126
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.127
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.128
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.129
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.130
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.131
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.132
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.133
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.134
+    
+    Mr. McHugh. Thank you, Mr. Lorentz.
+    Before we proceed to questioning, I just want to 
+acknowledge we have been joined by three members of the 
+Technology Subcommit- 
+tee which, at the moment, is leading for the well-attended 
+prize-- 
+Mrs. Morella, great job. In the order in which they came into 
+the 
+room; the gentlelady from Michigan, Ms. Stabenow--Debbie, wel- 
+come--Bart Gordon, gentleman from Tennessee--Bart--and David 
+Wu, gentleman from Oregon. We thank you all for being here with 
+us. Oh, also, gee, a fellow-New Yorker and the dean of the New 
+York delegation--I will really get in trouble. [Laughter.]
+    We have been joined by my dear friend, Ben Gilman, chairman 
+of the International Relations Committee, as well. Mr. 
+Chairman, good morning.
+    Mr. Gilman. Good morning. Thank you for conducting this 
+hear- ing, and I was very much concerned with Y2K.
+    We have just met with a number of our European 
+parliamentar- ians and they, too, are very much concerned 
+around the world of how this will affect all services, all 
+governmental services, as well as the industry. We are all very 
+much concerned about this sensitive program, and certainly the 
+Postal Service which affects so many of our citizenry all over 
+the country. It plays an important part in what we are going to 
+be doing.
+    So, I regret I wasn't here at the start of this hearing, 
+but I will look over the testimony, and we are hopeful that our 
+Postal Service will be able to do whatever has to be done to be 
+prepared for the year 2000.
+    Thank you, Mr. Chairman.
+    Mr. McHugh. I thank the gentleman. Again, I thank him for 
+being here.
+    If the old adage, ``a little knowledge is a dangerous 
+thing,'' is true, I am a very dangerous man, because this is an 
+incredibly complex situation, as all of you know so very well.
+    I just want to start with a couple of general questions 
+and, then, move to those who have been working on those 
+subcommittees that are far more conversant with the specifics 
+of the problems than I am.
+    But one of the things--as I took time out over the weekend 
+to read your statements--I couldn't help but being impressed 
+by, was the enormity of this situation facing the Postal 
+Service. Mr. Lo- rentz spoke of just about 100 million lines of 
+computer code; both the IG and Mr. Brock spoke about the 
+thousands upon thousands of suppliers, both critical and less 
+so, and the interfacing of the Postal Service with corporations 
+and companies that are so essential--be they airline or 
+otherwise--and yet, by most measures, are beyond their direct 
+control. Fifty-three percent of the suppliers responded in all, 
+to a survey the Postal Service very correctly tried to conduct 
+to try to assess their Y2K compliancing.
+    The thing that seems to strike me as I look at what we see 
+the numbers to be and what has to be achieved in the next 311 
+days, and less an hour that we have been here this morning, is 
+the enormity of the task. And I am not convinced that, even if 
+everything went perfectly and everything humanly possible was 
+done, that we could meet this challenge. I would be interested 
+to see what your assessment of that is.
+    Are we in a process where we are attempting to minimize the 
+likelihood of disaster or, do we really--and ``disaster'' is an 
+overstatement, the likelihood of significant interference and 
+interruption--or are we truly in a position, still, to fix this 
+problem to the highest possible extent?
+    I will just begin with the order in which you testified and 
+sit back and listen.
+    Ms. Corcoran. I believe that the Postal Service has a 
+challenge, as I mentioned earlier. What we recommended, as we 
+were going through our testimony, is that they need to refocus 
+their resources to make sure that they are dealing with those 
+processes that are most important to moving the mail, paying 
+their bills, protecting revenue, and protecting the life and 
+safety of their employees and customers.
+    Postal is now moving in that direction, and they are 
+continuing to decrease the number of systems and equipment that 
+they have to fix.
+    As long as they stay focused on really making sure they get 
+to those that are critical, hopefully, there is a chance. But, 
+again, they need to have contingency plans and all these other 
+things done to make sure that if something doesn't work, that 
+they have an alternative.
+    Mr. McHugh. Mr. Brock, you mentioned in your testimony 
+that, with the possible exception of the Defense Department, no 
+Government agency faces a Y2K problem as complex as the Postal 
+Service. I guess if DOD is not prepared, we lose the war. If 
+the Postal Service isn't prepared, the Social Security checks 
+don't go out. As an elected official, I am not sure which I 
+would prefer. [Laughter.]
+    So, how do you assess their ability to get to the end 
+successfully? And just an added twist for you, how might you 
+compare the Postal Service's progress to a DOD, for example?
+    Mr. Brock. That is a difficult question because it is an 
+``apples'' and ``oranges'' kind of question. Nevertheless, I 
+will answer it. [Laughter.]
+    One of the reasons that I personally want to make sure that 
+the Department of Defense is ready, it is like an insurance 
+policy. Even if we are not engaged in a war, hostilities--as 
+you want that insurance policy, you don't want it to lapse; you 
+want it in place.
+    The Postal Service, as I mentioned earlier, is a utility; 
+it has to work. So, I want it to work as well. So it is 
+important that both work.
+    One of the challenges at many agencies is that their 
+primary objectives are carried out through transaction 
+processing. You know, you write checks; you distribute checks; 
+you either mail them or you send them electronically. But with 
+both the Postal Service and DOD, you have a whole series of 
+logistical operations that you have to carry out as well, as 
+well as making sure that thousands and thousands and thousands 
+of facilities are going to be ready. So, it is pretty complex.
+    The issue that we would have with the Postal Service--to 
+get back to your original question--in terms of increasing 
+assurances, that they will be able to provide an acceptable 
+level of service, is to not only focus on remediating the 
+systems, but increase focus on the contingency plans and to 
+really scrub those down. A contingency plan, or a business 
+continuity plan, should be more than a piece of paper. It 
+really needs to define what an acceptable level of process is, 
+and that may be delivering mail at the same level, or it may 
+be, in fact, changing your standards for a period of time and 
+saying, ``This is the level of service we would be willing to 
+accept.'' It means taking a look at all of those processes--
+systems and suppliers and things--that support that business 
+operation and doing a sort of a risk analysis, ``And what are 
+the risks that this will fail?''--and then, funding it. I will 
+just give you sort of an extreme example.
+    If you, in fact, assume that first-class mail delivery had 
+to meet the current standards, and you had no certainty that 
+some of your key suppliers or some of the key infrastructures, 
+such as telecommunications or electrical power, would be ready; 
+you would, in fact, have to develop a very expensive 
+contingency plan to make sure that was funded.
+    So, these are business decisions where a lot of pros and 
+cons need to be weighed. I think this is where the crunch is 
+going to come this summer with the Postal Service. And really 
+scrubbing these plans and having a level of assurance that is 
+shared by their stakeholders--and I would include the Oversight 
+Committee as a stakeholder, as representing the American 
+public--that, in fact, these are acceptable levels of service 
+and that, in fact, the provisions are made to supply that level 
+of service are acceptable.
+    Mr. McHugh. Thank you.
+    Mr. Lorentz, no pressure. [Laughter.]
+    Are you going to make it? [Laughter.]
+    Mr. Lorentz. We are very confident with the amount of 
+planning and the process approach that we are taking, and the 
+use of some of the best resources money can buy, that we will 
+be in position on January 1, 2000, to move the mail.
+    We are focusing, specifically--getting back to the 
+Inspector General's point--we are focusing, specifically, on 
+the processes that are directly involved with moving the mail, 
+with collecting revenue, with paying bills, and most 
+importantly, with protecting the safety of our employees. So, 
+when you compare the other processes relative to those, those 
+are the ones we are focusing on, moving into the year 2000.
+    Mr. McHugh. Thank you.
+    We have, as I said, other members here far more conversant 
+in these things than I am.
+    I have a number of other questions, but, at this time, I am 
+happy to yield to the gentlelady from Maryland, Mrs. Morella, 
+for any questions she might have.
+    Connie.
+    Mrs. Morella. Thank you, Mr. Chairman.
+    I think you have been asking great questions, and I 
+appreciate hearing from our parties here who are very much 
+involved in the postal system.
+    One of the questions I wanted to ask has to do with the 
+international operation of the mails. I was recently in 
+Indonesia, but I don't think they know what Y2K is. And then 
+even in Tokyo, members of the Diet didn't seem cognizant of the 
+impact of it. Now we are going to want to communicate, by 
+virtue of the mails, also to our international partners and 
+countries, and I just didn't see anything really in your 
+statements that gave me any lead in terms of how you are going 
+to be handling that. I wondered if you would address that.
+    All three of you, or anyone who wants to.
+    Mr. Lorentz. OK. I guess I will start first, seeing as we 
+are the ones doing the interfacing, and I would like my friends 
+here to participate as well.
+    There are really three classifications of international 
+players here. There are the large industrial nations like 
+Canada, the UK, France, and Germany, that are probably as 
+prepared as we are. There is a group of large nations like 
+Brazil and China that are less automated, less mechanized, and 
+while they--it is a double-edged sword--while they may have 
+less mitigation or remediation issues, they have another set of 
+problems. Then there is the less industrialized nations. And we 
+do participate in forums in the Universal Postal Union. There 
+are 200 postal administrations that actually participate in 
+looking at, and trying to share information from the common 
+interest and the member readiness.
+    And, Nick, you might want to speak on any other issues.
+    Mr. Barranca. If you look at the international mail volume 
+that we originate and we process from the rest of the world, 
+our systems are being remediated and plans are being developed 
+so that we will deal with the originating international mail in 
+this country in the same way that we will deal with our 
+originating domestic mail.
+    We will also be prepared to process incoming international 
+mail in the same way that we will process and deliver our own 
+originating mail for this country.
+    As Norm indicated, there are two international 
+organizations that are dealing with the Y2K problem from an 
+international standpoint. It is the UPU, the 200 countries that 
+participate in that forum. It is an issue on their agenda. 
+There is also the International Postal Corp., which is 21 
+industrial postal administrations around the country that has 
+the Y2K issue on their agenda. We are participating in those 
+discussions.
+    From a country standpoint, as Norm indicated, those 
+countries that rely on automated systems, which are those 
+handful of large, industrialized countries, are dealing with 
+the issues in the same way we are. Those countries that 
+actually depend more on manual systems to process and deliver 
+their mail, the problem is not as significant--I don't want to 
+minimize it. It is not as significant as those that rely on 
+automated systems, because the world doesn't change to a great 
+extent, in that their systems are basically manual now. So----
+    Mrs. Morella. Are we offering any assistance to any of 
+these countries through these two international organizations 
+or individually?
+    Mr. Barranca. We are an active participant in these two 
+organizations and their committees. Our international business 
+unit is involved in those discussions. I can't tell you exactly 
+what the nature
+of their involvement or their details are. I would be happy to 
+make that available for the record in the future.
+    Mrs. Morella. That would be great.
+    And do you have contingency plans for the international 
+mail?
+    [The information referred to follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.135
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.136
+    
+    Mr. Barranca. Our contingency plans for collecting, 
+processing, and transporting mail that originates in this 
+country are the same, regardless of whether the destination of 
+that mail is here in this country or international 
+destinations. We will be prepared to collect, process, 
+transport, and move it to the international destination.
+    For international mail originating outside of this country 
+to be delivered here, we have contingency plans to deal with 
+that volume in the same way that we deal with our originating 
+domestic mail.
+    Mrs. Morella. If I send a letter to Korea and then a letter 
+is sent to me from Korea, which will reach its destination?
+    Mr. Barranca. If you send a piece of mail to Korea, we will 
+get it to Korea.
+    Mrs. Morella. You will get it there.
+    Mr. Barranca. To the extent that the Korean postal 
+administration will get it to the address in Korea is what the 
+UPU and--not in Korea's case--the ICP is dealing with.
+    Mrs. Morella. And Kim wants to send something to us, and we 
+will get it?
+    Mr. Barranca. As long as it gets----
+    Mrs. Morella. Through the mail?
+    Mr. Barranca [continuing]. To this country, we will get it 
+delivered; yes.
+    Mrs. Morella. Could I just ask you--I know that the end-to-
+end stuff is very difficult, and I won't spend much time on it, 
+but I hope you will look to addressing that because of your 
+many connections, your many contractors that are all involved. 
+On March 9th, we are going to have a hearing on liability. I am 
+curious about whether the postal system could be subject to any 
+liability suits or issues.
+    Mr. Lorentz. I am not aware of that issue. I do know there 
+were some contractual issues that we had relative to supplier 
+liability.
+    Rick, you may want to address that.
+    Mr. Weirich. We have continued to look at this emerging 
+issue of everyone managing their potential liability in year 
+2000. We are having difficulty getting some of our supplier 
+data, although some of the changes that you all have made 
+certainly have helped in that regard.
+    I am not an expert on whether we might be liable under the 
+statutes. I would have to bring our General Counsel to answer 
+those questions though.
+    Mrs. Morella. But I think you are also saying, though, that 
+with suppliers you find that there is sort of a chilling effect 
+for fear that there could be liability suits. And, of course, 
+there are those who speculate that that cottage industry of 
+lawyers could end up costing more than remediation of the Y2K 
+problem. It is something we need to look at, not to give any 
+waivers, but to look at, in terms of what we can do, to make it 
+be a more encouraging information and data exchange and working 
+together.
+    I like the idea that we have got the Inspector General and 
+GAO working with the Postal Service. I think that is the kind 
+of union that there should be.
+    And I think you wanted to make a comment, Ms. Corcoran.
+    Ms. Corcoran. Madam Chairman, we have done an audit report, 
+or an advisory report, where we did look at some contractual 
+issues. We would be happy to share these with you.
+    [The information referred to follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.137
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.138
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.139
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.140
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.141
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.142
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.143
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.144
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.145
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.146
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.147
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.148
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.149
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.150
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.151
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.152
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.153
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.154
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.155
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.156
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.157
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.158
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.159
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.160
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.161
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.162
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.163
+    
+    Mrs. Morella. Very good, thank you; thank you.
+    I have taken up enough time. Thanks, Mr. Chairman.
+    Mr. McHugh. I thank the gentlelady. The gentleman from 
+Texas, Mr. Turner.
+    Mr. Turner. Thank you, Mr. Chairman.
+    Mr. Lorentz, you said in your statement that the Postal 
+Service is the only organization that is in a position to say, 
+``the buck stops here.'' As I look at this panel, it is pretty 
+clear that in the totality of those gathered here, you are the 
+one that has to say, ``the buck stops here,'' because if things 
+don't work out, I am sure that you are the one that is really 
+going to be looked to for the explanations.
+    Part of the purpose, I think, of our hearing here today is 
+to try to reassure the American public that their mail is going 
+to be delivered on time. There is a lot of--as you know, and as 
+all of us know--a lot of hysteria surrounding the Y2K problem. 
+It is somewhat amazing, as we have gone through many of these 
+hearings with other agencies, to realize that we are all 
+gathered here because of a problem that some computer folks 
+from the past did not take care of.
+    Perhaps, there are some comments you could make that could 
+be reassuring, and let me direct the question to you this way.
+    One of the concerns I have was when I noticed that so far 
+you have spent $200 million addressing the Y2K problem. Yet, I 
+also read that, in the next 300 days, you are going to spend 
+$400 million more, which suggest to me that there is a whole 
+lot left to be done, and maybe we are behind if we have to 
+spend $400 million at the Postal Service in 300 days.
+    Maybe it would help if you could specifically tell us of 
+the efforts you have made for that first $200 million. What 
+problems did you find that you fixed, and if you hadn't fixed, 
+would have resulted in some disastrous consequence for the 
+American postal customers?
+    Second, of the $400 million you are going to spend in the 
+next 300 days, what do you think you are going to fix, that if 
+you don't, will be problem?
+    Mr. Lorentz. In answering the first question about the $200 
+million; we have over 500 important systems of which 152 have 
+been identified as either ``severe'' or ``critical.'' And 
+``severe'' means that it affects moving the mail; it affects 
+those four areas: moving the mail, collecting revenues, making 
+payments, and the safety of our people. And of those severe 
+systems--the difference between ``severe'' and ``critical'' is 
+that there is no work around for a severe system; you have to 
+fix it. And the criticals, there is an identifiable work 
+around.
+    Of those 152 systems, we have completed what we call 
+``remediation.'' In other words, that is a euphemism for 
+``fixed.'' We fixed 131 of the technical problems in those 152 
+systems, and we have actually implemented 108. In addition, we 
+have 55 that have been actually externally verified.
+    We are also looking at the balance of the 359 that are less 
+than critical. The 152 has been a major investment. It is very 
+expensive to go into 100 million lines of code, to actually do 
+an external verification.
+    We also have completed some simulation testing on the 
+automation that we have in our plants, both P and DC's and bulk 
+mail centers.
+    So what we have gotten up to this point is the ``lion's 
+share'' of the, ``technical fixes.''
+    The balance of the $400 million that you addressed, I think 
+we are going to end up--we are currently for the year at about 
+$99 million. I think we have spent about $197 million up to 
+this point. We plan on spending about $340 million for the year 
+to look at the balance of those 349 systems. And we have also 
+got the continuity planning and contingency planning, the 
+``what ifs,'' where we cannot remediate something, where we 
+have to build a contingency, that is what the investment 
+resources are for.
+    Mr. Turner. Well, give me just one concrete example of 
+something you did fix that if you hadn't, it would have 
+resulted in some specific consequence. Maybe in the area of 
+delivery of the mail would be the more interesting example, and 
+if you hadn't fixed it, what would have happened----
+    Mr. Lorentz. We have----
+    Mr. Turner [continuing]. On January 1st?
+    Mr. Lorentz. We have systems that delivery sequence letter 
+mail. And, basically it varies how much that we literally have 
+there, depending on the location--between 80 and 90 percent of 
+the mail is in delivery sequence mode. That is a tremendous 
+amount of the letter mail that is in delivery sequence. That 
+would be something that would be very difficult to replace with 
+manual sortation.
+    Another example is----
+    Mr. Turner. You know that that would not have happened if 
+you hadn't gone in and fixed this problem?
+    Mr. Lorentz. Absolutely. We believe that to be true.
+    Mr. Turner. It wouldn't have been sorted?
+    Mr. Lorentz. Well, it would have been much more difficult 
+to sort. I guess I can refer Nick to part of this question. But 
+over the last few years, we have invested a tremendous amount 
+of money in letter mail automation to remove manual 
+intervention in that mail stream. And so, basically, that is 
+what those systems do.
+    Mr. Turner. I know you have a lot of people looking over 
+your shoulder, and they are never going to tell you that you 
+have done enough. That is a risk they won't want to accept. 
+What is your greatest fear of what might happen if you don't 
+move forward in the things you are going to spend the next $400 
+million on? What is your greatest fear that you now need to 
+address?
+    Mr. Lorentz. Well, I really appreciate--[laughter]--having 
+the ability to answer that question, because this is an area 
+where I think we need your help, and I think this hearing can 
+be helpful.
+    We have a very significant issue with getting the attention 
+of suppliers.
+    And you have brought up the issue, Mrs. Morella, of the 
+fact that there are liability issues and so forth and so on, 
+but we are making an earnest effort to contact our suppliers 
+and determine their situation relative to Y2K.
+    So, if there is an area of concern, it is being able to 
+fully engage with our suppliers and get the information about 
+where they are.
+    Mr. Turner. As a percentage of your total annual Postal 
+Service budget, how much are we spending on remediating Y2K?
+    Mr. Lorentz. The total projected cost, at this point, is 
+$607 million.
+    Mr. Turner. As a percentage of what your operating expenses 
+at the Postal Service, what would that be?
+    Mr. Lorentz. It is----
+    Mr. Turner. On an annual----
+    Mr. Lorentz. It is less than 1 percent. In our terms, it is 
+the equivalent of about six ``rounding errors.''
+    Mr. Turner. Of what?
+    Mr. Lorentz. Six ``rounding errors.'' A ``rounding error'' 
+is $100 million in a $63-billion company.
+    Mr. Turner. About 1 percent?
+    Mr. Lorentz. One percent.
+    Mr. Turner. Additional operating costs?
+    Mr. Lorentz. Yes.
+    Mr. Turner. Thank you, Mr. Chairman.
+    Mr. McHugh. Thank you.
+    The gentleman from Maryland, Mr. Bartlett.
+    Mr. Bartlett. Thank you very much.
+    In trying to understand the potential implications of the 
+Y2K problem, I have taken a very simplistic look at the 
+exponential function involved here.
+    If there are just seven process or services that are 
+essential for the delivery of mail; like power, and 
+communications, and suppliers, and sorting equipment, and 
+information systems, data exchanges, information technology 
+infrastructure, and so forth--there may be a whole lot more 
+than that. But, if there were only seven, and we look at the 
+probability that we are going to be able to deliver the mail, 
+if we have a 90 percent probability that each of those seven is 
+going to work. Then, you multiply 0.9 times 0.9 times 0.9, 
+seven times, and you come out with a total system probability 
+of success of less than 42 percent.
+    If you make the assumption that maybe the future is not 
+quite that rosy, that there is a 60 percent probability that 
+each of these seven systems--services, whatever--need to work 
+before we can deliver the mail; then, 0.6 times 0.6 times 0.6, 
+seven times. The exponential function is really quite 
+fascinating, because now we come to a 1.6 probability that we 
+are going to be able to deliver the mail.
+    Mr. Brock indicated you have the second most complex system 
+in our country--the most complex being the Defense 
+establishment--have you looked at the probability of what will 
+happen and what contingency planning you need to put in effect 
+from this exponential analysis viewpoint?
+    Mr. Lorentz. I guess an understatement would be that it is, 
+obviously, a very complex situation. I think where we gain 
+confidence that we are approaching it in an effective way is 
+that we have used common approaches in industry where we have 
+done unit remediation; we have done string testing. I think the 
+most significant area that we are getting into now--we have 
+started on it, our critical operational processes--is something 
+called, ``simulation testing,'' where we fit all of the 
+processes together and make sure all of it works. And to me, I 
+think, that is a key for us.
+    By the same token, being a systems person, you know that 
+once you put something live, what you have come in the front-
+end could be a different circumstance than maybe you even 
+tested for. And I believe that is where we have to be very 
+effective at looking at what our contingencies need to be.
+    But our approach, we believe, puts us in the position to 
+have an effective outcome.
+    And, Nick, and, Rick.
+    Mr. Barranca. Yes, I understand, the premise that you laid 
+out for us, and it can result in that type of cumulative 
+probability. And as part of our continuity planning and our 
+contingency planning, what we are trying to do, and what we 
+have done initially, was to look at the appropriate levels of 
+planning at the national, the area, and the local level. 
+Because I think as things do not work--and some things won't 
+work; I mean we all realize as we get into this, something is 
+going to fail at some place in time. I think one of the facts 
+will be that it won't fail every place at the same time.
+    So our continuity planning and contingency planning is 
+looking at what happens at the local level for local issues 
+that need to be addressed.
+    To a certain extent--and I don't want to minimize the 
+problem--but to a certain extent, I think it is like a weather 
+issue, in that there will be hurricanes on January 1st in some 
+parts of the country that we will have to react to, like we 
+have in the past. But I don't think there will be a hurricane 
+for the entire country.
+    Our continuity planning and our ``recovery management,'' 
+which is another term for ``command, control, and 
+communications,'' which we will have in place before and after 
+January 1, will focus on: what are the appropriate issues that 
+need to be addressed at the local level, and what are the 
+issues that need to be addressed at the area level? What are 
+the issues that need to be addressed at the headquarters level? 
+And we will have the command, control, and communications in 
+place at all those levels. And the contingency plans are ready 
+to be implemented, depending on if it is a local situation, a 
+broader geographic issue to be dealt with in the area, or a 
+national situation that we have to deal with here at the 
+national level.
+    So, while what you lay out likely could happen, I hope it 
+doesn't happen in the entire country. It might be one area that 
+we really have to focus our attention on. But our plans are 
+structured in a way that they are layered based on the level of 
+the organization that has to respond to the situation that 
+presents itself.
+    Mr. Bartlett. Of necessity, of course, you address the 
+problems one-by-one. If you are looking at each of the problems 
+separately, one can have reasonable confidence that there is a 
+reasonable level of expectation that we are going to be 
+successful in solving that problem.
+    But my concern was, since this is a very complex system, 
+relying on a number of things happening, sequentially--
+successfully happening sequentially--that it is interesting to 
+look at the probability that the mail is really going to get 
+through by this of simply multiplying one probability by 
+another probability by another.
+    Of course, there are some of these things, that if they 
+don't work, you are not going to deliver the mail at all. If we 
+don't have a power grid, for instance, the mail is not going to 
+be delivered at all. So that is a 100 percent shutdown if that 
+one doesn't work.
+    I wonder if the other two organizations that have looked to 
+this have looked at the exponential complication here?
+    Mr. Brock. Not precisely in the way you have addressed it, 
+but we have recognized that when you are doing the overall end-
+to-end testing, the simulation testing, that as you introduce 
+more complexities into it, it certainly increases the risk that 
+you will have failures that will affect the ability of the 
+overall process to function properly.
+    And that, second, as you develop the contingency plans, 
+since you are developing them now for something more than just 
+a single system or a single element of that process, that it 
+also increases the complexity and, ultimately, the expense of 
+those plans.
+    There is something to be gained from that, though, by going 
+through processes like this. Organizations that have not done 
+it before can develop an inherently better understanding of 
+their business processes and the key flow through those 
+processes and what may, in fact, be ``fat'' and what is of 
+necessity, ``muscle.''
+    Ms. Corcoran. We haven't looked at that issue either, from 
+an exponential aspect. However, in our very first report, we 
+talked to the Postal Service about their need for continuity 
+plans from the standpoint that things are going to go wrong, 
+and they need to understand exactly how these things all fit 
+together. And it does paint a very bleak picture when you look 
+at it in the manner in which you did.
+    Mr. Bartlett. Mr. Chairman, I wonder if maybe our enormous 
+success might ultimately be the basis of our undoing. We have 
+been so successful in automation and in high tech. And we now 
+become, because we have been so successful there, we become 
+more vulnerable to the Y2K bug.
+    Thank you very much.
+    Mr. McHugh. I thank the gentleman.
+    The gentleman has been very successful in his first 
+question, reminding me why I majored in political science. 
+[Laughter.]
+    The gentleman from New York, Mr. Gilman.
+    Mr. Gilman. Thank you, Mr. Chairman.
+    I do have several questions.
+    I think it was Mr. Lorentz that said that 152 severe 
+systems still were part of the 500 systems. Of those remediated 
+were 131, but only 55 have been verified for Y2K compliance. 
+How long will it take to verify the balance of those severe 
+systems?
+    Mr. Lorentz. The balance of those systems will be 
+externally verified by the June timeframe. And we have just 
+three of those specific systems that will be verified after 
+June. So, 149 will be verified by June, and then three after 
+that, but all before the end of year.
+    Mr. Gilman. Some agencies have discovered that some of 
+their system which they had considered to be Y2K compliant 
+needed additional work to be fixed. Does this mean that the 
+Postal Service doesn't really know today whether the systems it 
+has worked on to make them Y2K-ready will actually work on 
+January 1, 2000?
+    Mr. Weirich. Well, like everyone else, we haven't been 
+there yet; we have only tested. Certainly, there is some risk 
+that there could be a deficiency in our testing that we will 
+discover when the time comes.
+    Mr. Gilman. But when will you put a deadline on getting all 
+of that testing done?
+    Mr. Weirich. The deadline is the one Mr. Lorentz 
+communicated. We have tested each of these systems as we have 
+done the work. We have been giving each system to an 
+independent team; basically, set up a ``tiger team'' structure 
+where we have a complete independent review of the testing that 
+was done, whether all the test cases were, indeed----
+    Mr. Gilman. Is that an in-house testing group?
+    Mr. Weirich. This is done by an external supplier who is 
+providing a check and balance against our own folks.
+    Mr. Gilman. Will they be able to do all of that check and 
+balance by your deadline?
+    Mr. Weirich. Yes, they will.
+    Mr. Gilman. The Service uses computer networks to conduct 
+financial transactions with the Treasury Department and 
+financial institutions. How could the Service's operations be 
+disrupted if it has Y2K-related problems in the electronic data 
+exchanges? And, what is the risk of that happening?
+    Mr. Lorentz. That is one of our most significant portfolio 
+systems, the financial systems, and that is being overseen by 
+the chief financial officer. We have very specific plans in 
+place for all of those interchanges, and there are specific 
+test plans that have been developed.
+    Mr. Gilman. So what is the----
+    Mr. Lorentz. So we have been----
+    Mr. Gilman. So what is the progress of all of those?
+    Mr. Lorentz. Rick, do you want to speak on the progress 
+issue?
+    Mr. Weirich. Those are proceeding on plan. We are working 
+with Treasury, specifically, and doing joint testing. That is 
+one of the areas where we recognized the need to test together, 
+so end-to-end, we know that our processes both work.
+    Mr. Gilman. Well, how many electronic data interchanges 
+have been identified as having Y2K problems? And of those, how 
+many have been renovated, tested, and validated?
+    Mr. Lorentz. I have some statistics if I find the right 
+sheet. The statistics that we have relate to the electronic 
+interfaces with some of our suppliers of the equipment that 
+generates postage. I can get you that specific information. We 
+don't have it with us.
+    Mr. Gilman. Would you supply that to the committee----
+    Mr. Lorentz. Absolutely, I will.
+    Mr. Gilman [continuing]. At your earliest convenience.
+    Mr. Lorentz. Thank you.
+    Mr. Gilman. I would like to make that part of our record 
+today.
+    The General Accounting Office, while not issuing a formal 
+report, has been conducting ongoing audits of the Postal 
+Service. And among the GAO's many concerns, the fact that the 
+Postal Service serves as a primary backup system for our 
+Federal agencies in the event of Y2K failures in their 
+organizations, potentially creating a multitude of problems in 
+mail handling caused by the steep spike in mail volume. GAO 
+found that the USPS lacked a detailed project plan for any 
+system that would contain target dates for remaining tasks and 
+necessary resources. It does not have a good picture of system 
+conversion status because the progress reports are inaccurate 
+and that you were late in implementing your post-implementation 
+validation plan and have not prepared the contingency plans. 
+Have those problems been resolved?
+    Is our GAO representative--Mr. Brock, can you respond to 
+that? Have they resolved those questions?
+    Mr. Brock. They are working on resolving those questions. 
+There are still unknowns--as I mentioned in my statement, Mr. 
+Gilman--that they need to resolve to provide the certainty.
+    I would like to add something to my statement, though. When 
+you were talking about the Postal Service, in fact, acts as a 
+contingency plan for many organizations who rely on electronic 
+commerce. I think a couple of things could well happen here is, 
+first of all, that some organizations not wanting to risk 
+triggering their own contingency plan may, in fact, start to 
+mail more later in the year, therefore, increasing the burden 
+on the Postal Service.
+    Second, if----
+    Mr. Gilman. Are they prepared for that?
+    Mr. Brock. This is something they should be examining in 
+their contingency plans.
+    Mr. Gilman. Have they been examining them?
+    Mr. Lorentz. Yes, we have.
+    Mr. Brock. The second issue--and the one that is, frankly, 
+a little more troublesome--that if, in fact, the trigger events 
+that would cause someone engaged in electronic commerce to have 
+to rely on the Postal Service, and some of those trigger events 
+might be a break down in electrical power, or things like that, 
+would also be trigger events that would have a negative impact 
+on the Postal Service and would, in fact, impact their ability 
+to act as a contingency plan for another organization.
+    So, it is sort of a vicious circle there.
+    Mr. Gilman. Well, how do we address that? How is that being 
+addressed?
+    Mr. Brock. I think that, at this point, we are now talking 
+about contingency plans that need to be elevated to the 
+national level. These are things that the Y2K Conversion 
+Council, under John Koskinen, should be considering, I believe, 
+starting in the April through June timeframe, when they begin 
+to look at national contingency plans.
+    Mr. Gilman. Are they looking at that now?
+    Mr. Brock. They are preparing for that now.
+    Mr. Gilman. What does ``preparing'' mean? Are they going to 
+address the problem----
+    Mr. Brock. Yes.
+    Mr. Gilman [continuing]. Or not address it?
+    Mr. Brock. Yes; they have hired contractors to help develop 
+what they call ``tabletop exercises,'' that will allow them to 
+examine a number of contingencies, and contingencies such as 
+this are some of the ones that they would be examining.
+    Mr. Gilman. Just one or two other questions, Mr. Chairman.
+    The Postal Service, I have been informed, is using outside 
+contractors to help deal with Y2K, as you have indicated. These 
+contractors employ many foreign workers. How has the Postal 
+Service dealt with this from a security perspective? Has there 
+been any security arrangements?
+    Mr. Weirich. Yes, we have rather strong requirements for 
+security screening of personnel who work on our sensitive 
+activities.
+    What we have done in the case of foreign nationals is 
+target them at work areas that were not sensitive. We have not 
+been using foreign nationals, for example, to modify our code, 
+itself. But we have been using foreign nationals to assist in 
+some of our project management and oversight activities.
+    Mr. Gilman. How has the Postal Service ensured that the 
+external suppliers, who have self-reported readiness, will not 
+run into unforeseen problems come January 1, 2000? How do you 
+check up on the readiness reports?
+    Do you do any checking up on readiness reports?
+    Mr. Weirich. Yes, we are. In addition to talking to our 
+suppliers, we are monitoring all the information that is 
+publicly available. We are looking to sources like industry 
+groups and trade groups. We do sit on several of the different 
+Federal groups that monitor areas like transportation, so that 
+we get a perspective of what is going on in an industry and 
+what other information is available about the likely 
+performance of the suppliers we depend on in that area.
+    Mr. Gilman. Well, do you have reliable way of checking on a 
+specific contractor that says, ``Yes, we are ready?'' How do 
+you know they are ready?
+    Mr. Lorentz. I guess I would say that is where we rely on 
+the three-tiered testing approach, where we have a supplier 
+that is helping us to remediate and, basically, fix the code, 
+et cetera. We have a different supplier that is doing an 
+external verification. And then, last, in the very critical 
+processes, we are doing simulation testing, which is an 
+entirely different process for exercising all of the systems at 
+once.
+    So, in terms of process, that would be our approach to 
+making sure we are not kidding ourselves.
+    Mr. Gilman. So all of your contractors, then, will be 
+tested?
+    Mr. Lorentz. In their----
+    Mr. Gilman. Is that what you are telling me?
+    Mr. Lorentz. In their various roles.
+    Mr. Gilman. The Inspector General recited a number of 
+recommendations for top management.
+    Can I ask the Inspector General, has this list been 
+complied with?
+    Ms. Corcoran. The Postal Service has been very good about 
+working with us and accepting our recommendations and working 
+to implement them. These are not things that can be done 
+overnight. It is the direction that they are moving. As I had 
+mentioned earlier, one of the first things we had recommended--
+--
+    Mr. Gilman. Could you put that mic a little closer to you?
+    Ms. Corcoran. One of the first things we recommended, in 
+March 1998, was that they start working on their continuity 
+plans. They just have recently, since last fall, started 
+working on it. We would have liked to have seen them get on 
+that one a little faster. But, generally, they have been 
+working with our recommendations.
+    Mr. Gilman. Have there been any shortcomings so far?
+    Ms. Corcoran. In terms of dealing with our recommendations?
+    Mr. Gilman. Of complying with your recommendations.
+    You made 17 recommendations, as I understand it. Have they 
+all been complied with?
+    Ms. Corcoran. We follow up as we are doing additional work. 
+At this point in time, I believe they have all been dealt with. 
+As I said, the one that was really concerning us was the one on 
+continuity plans.
+    Mr. Gilman. So everything else has been complied with 
+except----
+    Ms. Corcoran. The last report, we just issued last Friday.
+    Mr. Gilman. And did you find any shortcomings in your 
+report?
+    Ms. Corcoran. Yes. This is the one that we believed that 
+the Postal Service needed to put together better data, use a 
+more consistent format, and assure, when managers were making 
+decisions, that they really knew what they had, instead of 
+shifting definitions and numbers. The Postal Service has agreed 
+to do that. But to my knowledge, they have not complied with 
+that report yet.
+    Mr. Gilman. And how will you followup with regard to your 
+recommendation?
+    Ms. Corcoran. We are constantly in the Postal Service 
+looking at the Y2K area. At this point in time, we have about 
+25 percent of our evaluator resources looking at the Y2K issue, 
+and so it will be something that we will be monitoring on an 
+almost daily basis.
+    Mr. Gilman. Have you submitted your latest report to this 
+committee?
+    Ms. Corcoran. Yes, sir. It was attached to the testimony.
+    Mr. Gilman. Thank you.
+    Mr. McHugh. I thank the gentleman.
+    Mr. Gilman. Thank you, Mr. Chairman.
+    Mr. McHugh. Thank you, Mr. Gilman.
+    Mr. Turner.
+    Mr. Turner. Thank you, Mr. Chairman.
+    Mr. Lorentz, earlier, in response to my question, you gave 
+me a specific example of something that you had discovered to 
+be non-Y2K compliant that had been fixed, and you referred to 
+the computer systems that sort the mail, that replace the 
+manual sorting of the mail.
+    Mr. Lorentz. I would like to clarify what my response was 
+on that. The issue that my understanding of your question was, 
+``Could you give me an example of a system that, if it was not 
+fixed,'' and that was the context in which I answered that 
+question. So----
+    Mr. Turner. So, that sorting system----
+    Mr. Lorentz. That was just purely an example of a severe 
+system that, if it was broke, we would have a difficult time 
+replacing it.
+    Mr. Turner. And I take it that----
+    Mr. Lorentz. That is, by the way, one of the systems that 
+is fixed so--[laughter.]
+    Mr. Turner. So, if it hadn't been fixed, we would have----
+    Mr. Lorentz. Yes, that is correct.
+    Mr. Turner [continuing]. Had a problem sorting the mail.
+    As I understand it, over the last several years, you have 
+installed across the country a lot of these computerized mail-
+sorting systems?
+    Mr. Lorentz. That is correct.
+    Mr. Turner. Over what period of time has that been done by 
+the Postal Service?
+    Mr. Lorentz. Do you want to address that?
+    Mr. Barranca. The letter automation and flat automation 
+programs started in 1987.
+    Mr. Turner. And have continued up to when?
+    Mr. Barranca. The bulk of the equipment is currently in 
+place and being used. We are making refinements to the system 
+on an ongoing basis, and we are still deploying some pieces of 
+equipment to sort the larger-size envelopes which we call 
+``flats.''
+    Mr. Turner. Of the systems that you fixed, how old were 
+they?
+    Mr. Barranca. How old were they?
+    Mr. Turner. How old were they?
+    Mr. Barranca. The original systems went in 1987, but the 
+computer and the software components of those systems are 
+updated on an ongoing basis. So, I mean we don't have systems 
+out there that date back to 1987. We have some frames and some 
+mechanical aspects of the equipment that date back to 1987, but 
+the software is updated on a continuing basis, because one of 
+our objectives is to make it better so it reads more mail, so 
+we can finalize more mail in the automated system.
+    Mr. Turner. So it was the software that had the problem 
+that you fixed?
+    Mr. Barranca. That is correct. Well, all of our systems 
+were--software was tested to make sure that it was Y2K 
+compliant, so that we had assurances that, internally, mail 
+that we are processing today, on equipment we are using today, 
+will still function in the same manner it functions today, 
+after the year 2000.
+    Mr. Turner. Is there only one supplier of this software, or 
+are there several companies that supply this software?
+    Mr. Barranca. The equipment has been supplied by a number 
+of suppliers. The software changes to that equipment is 
+developed and provided to field sites from a centralized 
+location that we manage at our Engineering Development Center. 
+We have a Process Control Unit that controls the software for 
+all of our automated sorting equipment.
+    Mr. Turner. So it is fair to say that the problem you found 
+and corrected was a software problem, not a hardware problem?
+    Mr. Barranca. That is correct.
+    Mr. Turner. And, private companies supply this software to 
+the Postal Service?
+    Mr. Barranca. They have supplied it as part of the original 
+equipment deployments. As I said, we have a unit out at our 
+Engineering Development Center, which is a Postal Service 
+unit--that is our Process Control Unit--that provides all the 
+new software and updates to all of our existing software.
+    And so, when we stamp out a piece of equipment for an OCR, 
+it is developed in our Engineering Development Center. It is 
+tested in a number of sites, and then it is sent out to all of 
+our sites so that we have some control over what processes we 
+are using at all our facilities.
+    We make sure that we are using the most efficient software 
+in all of our plants, so that we can keep as much of the mail 
+processed in automation to take advantage of the advancements 
+we have made in sorting software.
+    Mr. Turner. It would be fair to say that, when you 
+discovered that your software had a problem that had to be 
+fixed to be Y2K compliant, that the problem you found was one 
+created by the Postal Service because you engage in the 
+function of producing the software for the Postal Service?
+    Mr. Barranca. Yes, whether or not we had a problem in the 
+example that Norm used, I would have to go back and check. What 
+he basically said was that, ``If we have a problem in this 
+software application, it would create a big problem.'' I can't 
+sit here and tell you that we had a problem in that software. I 
+would have to check on that.
+    Mr. Turner. Well that----
+    Mr. Barranca. But we did check it all to make sure it 
+worked in the year 2000.
+    Mr. Turner. All right.
+    In my original--and maybe I wasn't clear with Mr. Lorentz--
+but what I was looking for is an example of something you had 
+discovered to be non-Y2K compliant, in the course of your 
+testing and your evaluation.
+    Mr. Barranca. Right.
+    Mr. Turner. And you have fixed it.
+    Mr. Barranca. Yes, I can----
+    Mr. Turner. If you hadn't have fixed it----
+    Mr. Barranca [continuing]. Give you an example along those 
+lines.
+    Mr. Turner [continuing]. There would have been a problem.
+    Mr. Barranca. I can give you an example of that.
+    Mr. Turner. All right. That is what I was looking for.
+    Mr. Barranca. OK. One of the systems that we did test where 
+we found we had a problem was the system we use to bill or 
+assign mail to our commercial air carriers. When mail is 
+assigned to carriers--when mail is billed to a carrier, we 
+assign it to a particular flight in order to make a planned 
+arrival time so our service standards would be accomplished. 
+And what we did find in that system was that it would not 
+function in a Y2K environment, thus we had to go and make 
+adjustments to that system so it still would assign mail to 
+commercial air carriers in the year 2000.
+    That is a problem we found as a part of the testing, and 
+that is a problem that we have fixed.
+    Now there were ``work arounds'' if the system failed, which 
+is we could go back to the way we did it prior to ``CAB 
+sunset,'' which was manual assignment to air carriers and 
+pulling out the ledgers and the pencils and doing bulk 
+assignments.
+    Mr. Turner. That was a software problem that you fixed?
+    Mr. Barranca. That was a software problem.
+    Mr. Turner. And were you the supplier of the software, or 
+was that a private supplier?
+    Mr. Barranca. I think we probably supplied that software. 
+That system goes back probably 10 or 15 years. But our testing 
+led us to that problem which, in turn, led us to a ``fix,'' 
+which is not a problem now.
+    Mr. Turner. But of all the testing and verification that 
+you have done thus far, do I take it that that is the only 
+concrete example that you can cite me of something you found 
+that would have been a problem had it not been fixed?
+    Mr. Barranca. Well, I am sure there are others. I was 
+trying to identify one that, from an operation standpoint, 
+would have been a significant problem if we hadn't found it.
+    Mr. Turner. I mean, I am asking this question, primarily 
+because, as you know, the Postal Service is like any large 
+corporation, and I am trying to get a feel for the scope of the 
+kind of Y2K problems that we are running into. I know we are 
+spending millions, billions of dollars in the public and 
+private sector to test to be sure we are compliant, and I was 
+just curious as to what your experiences have been, what you 
+have discovered that was really a problem. And that, obviously, 
+is the primary example that comes to your mind.
+    Mr. Barranca. That is one that I can state now. There are 
+probably others that others might be aware of.
+    Mr. Weirich. As an example of what happens, yes, we just 
+had our first failure case that we were able to document.
+    At the first of the year, we had a problem in one of our 
+payable systems, and there was an edit in there that looked a 
+year ahead. And when we looked and projected failure dates, 
+that had not been noticed, and we did not realize the system 
+was due to fail on the first of 1999. We had thought it would 
+fail later. In fact, we had created a remediated version that 
+was still in testing but had not put it into production.
+    So, indeed, the old version did ``rear up'' and fail on us. 
+We had to call some programmers in, and we spent 3 hours in the 
+middle of the night taking the patch and putting it on the old 
+thing so it would work correctly. But, frankly, we would not 
+have been able to pay the bills until we patched that program 
+so that it would handle transaction.
+    In the case of the information systems, that is a lot of 
+what we find in the repairs. A particular transaction would not 
+process if the system were not fixed to correctly handle dates 
+that have traveled the centuries.
+    In other cases, we have certainly--the system would 
+incorrectly calculate intervals and would not be able to 
+determine, for example, whether I had adequate years of service 
+to collect an annuity. So people trying to retire would have 
+problems proving their eligibility.
+    We have certainly identified a host of things in the 
+systems where the calculations would have been incorrect, had 
+we not gone through and changed them. And, indeed, in well over 
+half of the systems that we have worked on, we can point to 
+specific errors that would have occurred--they run the gamut--
+had we not made the changes to the code.
+    Mr. Turner. I might just followup with Inspector General.
+    You have heard their responses. I get the impression that 
+of all the efforts that have been made in testing and 
+verification, that the number of discovered problems seems to 
+be fairly minimal. It gives me some assurance that, perhaps, 
+what remains to be done may not reveal any significant 
+problems.
+    I know that is not a very scientific way to approach this, 
+but it does seem to me that the number of problems that they 
+have found and fixed is relatively small, compared to the scope 
+of the testing that they have done.
+    Is that an accurate assessment, or am I somewhat off 
+target?
+    Ms. Corcoran. I am going to let Mr. Chambers answer that 
+question.
+    Mr. Chambers. Well, I think if I understood Mr. Weirich 
+correctly, he just indicated that they had found problems in 
+about 50 percent of their systems.
+    I think the important concern that we have about what 
+remains this year is not necessarily in the information 
+systems, because they appear to be on track to get the bulk of 
+those fixed.
+    Our biggest concerns, as Ms. Corcoran indicated earlier, 
+are in a lot of the more traditional non-information systems 
+areas, such as facilities and these other non-suppliers and 
+some of the other non-traditional areas. But to the extent that 
+they have been reviewing the systems, these severe and critical 
+systems, if they have been finding about 50 percent of them 
+with some degree of problems, then I think it was probably an 
+exercise well worth it.
+    Mr. Turner. Thank you.
+    Thank you, Mr. Chairman.
+    Mr. McHugh. I thank the gentleman.
+    We have been joined off and on, as I indicated earlier--we 
+knew we would--by various Members, and I want to recognize and 
+thank them. The gentlelady from Michigan, Ms. Rivers, was here 
+for a time.
+    And from those of us who dabble in computers talk about 
+``spam,'' we think about one thing, but when those of us who 
+were raised in the 1950's think about ``spam,'' we think of 
+something else and--[laughter]--we have been joined by a 
+gentleman who represents the great ``spam'' industry, a 
+gentleman, Mr. Gutknecht, Gil Gutknecht. We welcome him, and I 
+would be happy to yield to him at this time.
+    Mr. Gutknecht. Thank you, Mr. Chairman.
+    Actually, part of the reason I was late for the meeting, we 
+were meeting with a delegation of members of parliament from 
+Canada. We were talking, among other things about hogs and 
+``spam,'' and it did come up. [Laughter.]
+    I hope that this question hasn't been answered, and I 
+apologize, but, you know, I understand the first real test that 
+we are going to face, according to some of the experts that 
+have testified previously, is on September 9, 1999.
+    I am just curious, have you run any tests, or anybody want 
+to comment on what is going to happen on September 9, 1999? Do 
+we have some handle on what that is going to reflect?
+    Mr. Weirich. We would certainly agree with you. I think 
+that is our first critical date. We are treating it as such. We 
+have included this in the cases that we test for those systems 
+that do operate on a month and fiscal year, for example. That 
+will not affect a number of our systems, because not all of our 
+systems use that forum. But for those where it does occur, yes; 
+that will be the first we will be alert to.
+    Mr. Gutknecht. I take it that you are comfortable that you 
+will meet that test on September 9th?
+    Mr. Weirich. As comfortable as we are about anything else 
+in this program.
+    Mr. Gutknecht. That is an honest answer.
+    Let me just--one of the other issues that has come up in 
+some of our other hearings is the issue of embedded chips. And 
+how vulnerable are you to the problem of embedded chips? And do 
+you have an inventory of how many you have?
+    I raise that issue because, not only do we have a little 
+company that makes that wonderful pork product that was talked 
+about earlier, but we also have in my district, a relatively 
+small company that is a chip broker. They buy and sell chips 
+all over the world. They have told me that there are a lot of 
+companies who may not even realize that there are chips built 
+into their all kinds of equipment that may or may not be Y2K 
+compliant. I am just curious, in terms of the Postal Service or 
+any other Federal agencies, have they done the inventory?
+    For example, one of the utilities in our State, they found 
+that they had over 300,000 embedded chips in their system, most 
+of which were not a problem, but at least they had an inventory 
+and a better idea. Have you done the same?
+    Mr. Weirich. No, we have not done that per se. We have been 
+pouring over our mail processing equipment primarily in this 
+area, looking for whether we can identify any embedded chip 
+weaknesses in those systems. To date, we have not. We have 
+tested the systems.
+    Mr. Gutknecht. Do you plan to do that inventory?
+    Mr. Weirich. No, we don't plan an exhaustive inventory of 
+all the chips.
+    Mr. Gutknecht. Thank you, Mr. Chairman.
+    Mr. McHugh. I thank the gentleman.
+    Mrs. Morella.
+    Mrs. Morella. I guess to followup, why? Why are you not 
+doing any inventory on the embedded chips?
+    Mr. Weirich. We are looking for a case where they would 
+have a date function that potentially could cause a machine to 
+fail. The way we see them used in the machines, we have not 
+identified cases where we believe they will cause a problem. We 
+are continuing to review that, however.
+    Mrs. Morella. Would the Inspector General and the GAO 
+representative agree?
+    Ms. Corcoran. We are certainly following and monitoring 
+what they are doing. One of the places I think you might find 
+embedded chips are in some of the facilities and some of the 
+controls for the various equipment and things. That is one of 
+areas I spoke about earlier, where Postal still has work to do 
+to determine exactly where this is leading.
+    We believe that Postal has done a fairly good inventory of 
+known systems at this time, in terms of knowing where things 
+are. So, we will continue to monitor that, but, at this point 
+in time, we wouldn't be doing any additional work on embedded 
+chips either, other than just monitoring it.
+    Mr. Brock. The question of embedded chips is, I think, very 
+difficult for many agencies to answer because it is difficult 
+sometimes to determine the inventory. I think that, with 
+respect to the mail process equipment that the Postal Service 
+was discussing, that there is probably not as great a concern. 
+And they have looked at that, and it is easier to look at.
+    One of the issues, though, sometimes with chips, is that 
+even with the same model of equipment, that the manufacturer 
+can substitute a different chip. So when you test one piece of 
+equipment, in fact, you can have a problem in another piece 
+because of a change in the chip.
+    In terms of where most embedded chips would be, I would 
+agree with the Inspector General that they are probably located 
+at the facilities. One of the things that the Postal Service 
+needs to do is to, as they are going through some of the 
+facilities, make a determination about where chips might occur, 
+and what effect chip failure might have on postal operations at 
+particular facilities. They need to weigh that against the time 
+and the cost that it would take to do an exhaustive inventory, 
+and whether or not doing such an inventory might, in fact, 
+divert them from some other mission critical activities. This 
+is something they have to put in the balance in the coming 
+months.
+    Mrs. Morella. And the balance is probably necessary, but it 
+is a tremendous concern. And I think that we kind of have 
+blinders on. You have got to be able to try to identify where 
+you can for remediation.
+    I would like to pick up on a report that GAO did rather 
+recently, and it dealt with the fact that the Postal Service 
+had had some difficulty holding onto some qualified staff and 
+had been using some contractors. I am wondering if the use of 
+contractors has exacerbated the cost of this remediation, and 
+if it is a trend? And if we are saying that we are now using 
+more and more contractual staff, is this making some kind of a 
+statement with regard to the Postal system?
+    Mr. Brock. We did a survey of all Government agencies about 
+a year ago or so, and it was self-reported by the Postal 
+Service that personnel issues were a concern to them. They have 
+largely supplemented their staff with a large number of 
+contract employees, I believe 1,200--that sticks in my mind. We 
+are finding that most agencies, or at least the agencies I deal 
+with, extensively rely on contractors because, in many cases, 
+the specific skills are simply not in-house to run the business 
+as usual, and then take on Y2K as well.
+    I think this is true in the Postal Service, that it was 
+forced to rely on contractors in order to do the remediation 
+that was required, that they simply did not have the staff on 
+board, nor was it feasible in the short time remaining to hire 
+them and bring them up to speed in order to do the vast amount 
+of work that had to be done.
+    Ms. Corcoran. The OIG is currently looking at the issue of 
+contractors and how well these moneys are being spent, what 
+contractors are doing. We hope to have a report out probably 
+within the next month looking at this issue.
+    Mrs. Morella. That would be great if you would share the 
+report with the three subcommittees who are here represented. I 
+think it says something about the Postal Service and cost and 
+efficiency.
+    I just have one final question, really, and it deals with--
+again, I think, Mr. Brock, I jotted down, I think you said it 
+at some point during your testimony, that the business guys 
+must make the decisions and not the ``techies.'' Right?
+    Mr. Brock. That is correct.
+    Mrs. Morella. Can you explain that?
+    Mr. Brock. Sure. One of the reasons we are in this problem, 
+some technical decisions were made about how to conserve space, 
+and, you know, instead of using a four-digit date, a two-digit 
+date was made. I am not quite sure that business owners ever 
+really understood the long-term ramifications of that decision, 
+even though I believe the technical people did understand that 
+long-term ramification.
+    One of the major problems that I find across Government, 
+when we are looking at information management, is the failure 
+of business process owners to actually own the information 
+technology and to make the hard decisions that have to be made 
+in terms of ``are we making the best investment?'' ``Are we 
+making the right decision; are we spending wisely?''
+    As crunch time comes, and it will come, and decisions and 
+tradeoffs are going to have to be made about, ``Well, do we 
+remediate this first, this first, or this first?'' That needs 
+to be done within the context of the business operations that 
+those decisions support. And they are most appropriately made 
+by the business process owners, not by the technology people 
+that support the processes.
+    Mrs. Morella. It just seems to me that there has got to be 
+sort of a partnership when you talk about balance.
+    Mr. Brock. Oh, yes.
+    Mrs. Morella. Are you blaming the late Admiral Grace 
+Hopper, who is the one who devised COBOL?
+    Mr. Brock. I would never do that. [Laughter.]
+    Mrs. Morella. Is now looking----
+    Mr. Brock. No. [Laughter.]
+    Mrs. Morella. I frankly think everybody knew. People have 
+asked me, ``Why didn't anybody know this early on?'' And I 
+said, ``Of course they knew it.'' They just felt, either they 
+wouldn't be around, or there would be some way to remediate it. 
+But, at the moment, I think the business people were probably 
+involved in terms of saving the space and, therefore, saving 
+the money. I don't know.
+    But very interesting response, and I appreciate it. Thank 
+you.
+    Thank you, Mr. Chairman.
+    Mr. McHugh. I thank the gentlelady.
+    This hearing is going to continue; I will leave it to you 
+if that is the good news or the bad news.
+    The good news certainly is for you, I have a meeting with 
+our Governor, and I deeply apologize, but I am going to yield 
+the Chair to the gentleman from California, Mr. Horn.
+    But, before I do, I want to thank all of you for being 
+here--Mr. Lorentz, Mr. Brock, and, of course, Ms. Corcoran.
+    This is obviously a very serious problem, one that we are 
+deeply concerned about, and I know that the Postal Service 
+understands the ramifications--real and perhaps somewhat 
+imagined, but po- 
+tentially real, as well.
+    We are looking forward to working with you, in hopes that 
+this challenge can be met successfully and we appreciate GAO 
+and the IG's office assistance in this matter.
+    Let me thank, last, all of my colleagues, but particularly 
+my co- 
+chairs, Mr. Horn and Mrs. Morella, for their interest and their 
+support and their leadership. So, thank you.
+    And with that, I turn the Chair over to Mr. Horn.
+    And Mr. Turner, too, as the ranking member, who has been 
+here faithfully, and Mr. Wu--everybody, thank you. [Laughter.]
+    Mr. Horn [presiding]. I thank the gentleman, and we 
+appreciate the patience of all of you when you are in one of 
+these sessions.
+    I believe Mr. Wu has not had an opportunity to ask a few 
+ques- 
+tions. The gentleman from Oregon, we are delighted to have you 
+here.
+    Mr. Wu. Thank you very much, Mr. Chairman.
+    I have only one question, and that is assuming that all of 
+your efforts to become Y2K compliant are successful within the 
+con- tinental United States, and that we have a seamless 
+transition. Will we have significant problems develop in Europe 
+or Asia or Canada or Mexico? Besides the obvious problems with 
+the inter- national mail, what is the potential for foreign 
+computer problems in their mail systems, or elsewhere, becoming 
+our problems in the USPS?
+    Mr. Weirich. The biggest concern would be that it would, 
+obvi- ously, it would be a change in the flow of the mail. 
+Every time that we have met with different mailer groups and 
+looked at the things that could go wrong, our big fear for 
+anybody--also includes people mailing things in the United 
+States--is if they have problems, will those ripple down to us? 
+Will we see a difference in their ability to prepare mail 
+correctly or get us the mail on time to deliver it? It would be 
+the same coming in from the foreign administrations. It would 
+also present some challenges for us outbound.
+    Nick could probably address; we have had problems before. 
+If a receiving administration is unable to handle what we give 
+them, we have various processes to shut off that flow of mail 
+until they are able to recover. I believe that is what we would 
+get into.
+    Mr. Barranca. Yes. I understood your question to be more 
+along the lines that, could there be a problem in a computer 
+system off- shore that could create a problem in one of our 
+resident systems?
+    Mr. Wu. And, also, given the number of vendors that you 
+have, some of your vendors may be domestic, and some of your 
+vendors may be foreign entities.
+    Mr. Barranca. Yes. I guess, you know, we are focusing our 
+ef- forts on making sure that the physical piece can move from 
+where it originates to where it ``destinates,'' for those 
+pieces that originate in this country. We feel we will be 
+capable of continuing to deliver mail like we do it today in 
+the year 2000.
+    We are also confident that mail that arrives in this 
+country, we will be able to deliver to its destination the same 
+as we do today.
+    So, when we are doing testing, doing remediation of our 
+originating processing systems and our destinating processing 
+systems, we are doing that for domestic and international mail.
+    I really can't address the concern of--if I understand your 
+question, ``What is the possibility of a computer problem in a 
+foreign country creating a computer problem in this country 
+that we haven't really anticipated?'' That is not something 
+that I would be able to address. I don't know if----
+    Mr. Wu. Coming out of this industry sector in the relative 
+recent past, I have a--let's just say I have a higher level of 
+confidence in what we are doing in this country.
+    I am deeply concerned about what is happening in other 
+countries, whether they are making the same type of efforts and 
+having the same kind of progress.
+    And we are having difficulties with our schedules; I 
+imagine that is a much greater problem in certain foreign 
+countries, and that is where, you know, my personal focus is on 
+trouble in any Y2K trouble scenario.
+    Mr. Barranca. Yes, as we addressed earlier, there are two 
+international organizations that are focusing on those issues. 
+That is the UPU, and, this is an item on their agenda. They 
+represent 200 postal administrations around the world. And then 
+there is the International Postal Corp., which represents 21 
+industrialized nations, and this is also an item for discussion 
+on their agenda.
+    So, we are talking together about the potential issues. 
+And, as Norm answered earlier, if you sort the countries into, 
+say, three categories--those that are highly automated like we 
+are, they are dealing with their Y2K problem in a similar 
+manner as we are, looking at their systems, making sure they 
+can work. Then there are other countries that don't rely as 
+heavily on automated processing, and they rely more on a mix of 
+automated and manual processing; to a lesser extent, the 
+problems are as severe. And then the other countries that rely 
+mainly on manual processing, to a great extent, the world won't 
+change a whole lot as a result of the year 2000.
+    But there are two international organizations that are 
+trying to address the problems jointly to see if they can learn 
+from what the members are doing. We are an international unit 
+as part of those discussions. And, as I volunteered earlier, we 
+can make available more information for the record, as we have 
+it.
+    Mr. Wu. Thank you for an opportunity to get the issue on 
+the table.
+    Mr. Horn. Thank you very much.
+    The gentleman from Maryland, Mr. Bartlett.
+    Mr. Bartlett. Thank you.
+    I would like to return for a moment to the potential 
+problem of embedded chips. It is my understanding that many of 
+these chips are generic chips; that is, they are made with a 
+variety of capabilities and the application to which you put 
+them may use only one or a few of those capabilities.
+    The question has been raised that if you have a generic 
+chip that has a date code, even though you are using it in a 
+situation where the date is of no relevance like sorting mail--
+that sorting machine couldn't care what day of the week or year 
+or millennium it was sorting mail in. What kind of confidence 
+do we have that if an embedded chip contains a date code, that 
+when we go past the year 2000, that, in fact, that chip is 
+going to continue to work for the purposes for which you are 
+using it?
+    It has been suggested that if there is a date code in the 
+chip, even though you have no interest in the date, that that 
+chip may possibly not work after the year 2000. Have you looked 
+at that? And how many of your chips are generic chips, and what 
+is the potential extent of this problem?
+    Mr. Lorentz. I guess a general answer to the question is, 
+if we are testing the specific equipment as one of our critical 
+or severe, or even the 500 systems, and we are testing it for 
+the date issue, that if it does have an embedded chip, we 
+believe that that would properly exercise that chip.
+    As far as the more technical aspect of that, we can 
+certainly address that, but we believe that the remediation of 
+the overall system should take that into account.
+    Mr. Bartlett. I have trouble understanding how we check to 
+see if a generic chip with a date code capability, which we 
+aren't assessing and, therefore, can't exercise how we are 
+going to be sure that that chip is going to continue to perform 
+the functions that we need of it in the year 2000 if we don't 
+know whether or not it is going to continue to function if it 
+has a built-in date code.
+    I don't understand how we can test for that.
+    Mr. Lorentz. I think we have two issues here: No. 1, we are 
+testing the equipment capability; we are doing that.
+    Mr. Bartlett. But, you are testing it today, not in the 
+year 2000.
+    Mr. Lorentz. And then the other issue that we need to 
+address, as the previous conversation, is the issue of 
+individual chips, managing the individual chip issue, and we 
+accept that.
+    Yes, we are simulating; when we go through simulation 
+testing, we are taking all of the automation equipment in the 
+systems into year 2000. So, we are exercising those chips as 
+part of simulation.
+    Mr. Bartlett. But, ``how do we advance the clock in the 
+chip if the date code in the chip is not something we are 
+interested in and not something we are accessing?'' is the 
+question that has been raised to me.
+    Mr. Lorentz. By advancing the clock in the rest of the 
+system.
+    Mr. Bartlett. I still am less than sanguine about our 
+knowledge of embedded chips and how much of a problem they are 
+going to be in the year 2000.
+    I thank you very much.
+    Mr. Horn. I thank the gentleman.
+    Let me just ask a few closing questions, do a little bit of 
+administrative bit, and then do a short closing statement.
+    Just for the record at this point, how many systems have 
+you defined as ``mission critical'' systems within the U.S. 
+Postal Service? What is the number of those?
+    Mr. Lorentz. 152 systems.
+    Mr. Horn. OK.
+    How about ones that are not ``mission critical?'' What 
+other systems do you have?
+    Mr. Lorentz. 349.
+    Mr. Horn. 349.
+    And does then when you add them up, that is essentially 501 
+or so?
+    Mr. Lorentz. That is correct. Yes, sir.
+    Mr. Horn. Yes.
+    Do you find as you go along that maybe some of those that 
+weren't defined originally as ``mission critical'' are 
+``mission critical,'' when you put the whole context together?
+    Mr. Lorentz. We actually, as we have worked through our 
+three-step process, we have actually both included or excluded 
+systems as we have gone along, so the number, for instance, 
+could increase to 153 or could decrease to 151. So there has 
+been that kind of a situation that has occurred; yes.
+    Mr. Horn. Seems to me, as we go through this experience, 
+which is once in a millennium, hopefully, that we also learn 
+that you want to avoid ``garbage in'' and ``garbage out'' by 
+saying, ``Do we really need this system? Could we merge it with 
+something else?''
+    Is that going on within the Postal Department, just as a 
+matter of organization?
+    Mr. Lorentz. Absolutely, and we have actually retired--
+specifically, retired--some of the systems.
+    Mr. Horn. Let me ask a few questions. I hope you haven't 
+covered it when I had to be unavoidably detained.
+    Do we have a master schedule? Is fixing your computer 
+systems under that schedule?
+    Mr. Lorentz. Yes.
+    Mr. Horn. Well, if so, does the schedule have certain 
+provisions for business continuity and contingencies?
+    Mr. Lorentz. We specifically have constructed an approach 
+around three specific process areas--business continuity and 
+recovery or contingency, the systems' remediation, as well as 
+doing communication.
+    We have--just to kind of give you an idea as to how that 
+fits into the management structure--in every management 
+committee meeting that the Postmaster General holds, there is a 
+standing agenda item on Y2K mitigation.
+    There is a subgroup called the Executive Council Y2K that 
+is chaired by the Deputy Postmaster General, Mike Coughlin, on 
+the PMG's behalf, where those specific process owners, as well 
+as the what we call ``portfolio owners,'' which are senior vice 
+presidents, the business process owners, come in and 
+specifically review in a very structured, consistent way 
+exactly what the current situation is with those systems. And 
+that is consistent with the suggestions and findings from the 
+Inspector General's office. So those are in progress, as well 
+as, we are explicitly creating for our own usage a ``war 
+room,'' if you will, where we have a very consistent graphic 
+representation for anybody at any time. They can walk in and 
+see what the current state of the Y2K approach is.
+    Mr. Horn. What is the view of the General Accounting Office 
+on this, Mr. Brock? Have you seen the master schedule?
+    Mr. Brock. It is my understanding, Mr. Horn, that the 
+master schedule had not been developed at the time of our final 
+exit last week, that they were working on that, that many of 
+the individual business processes had detailed schedules. Our 
+concern by not having an overall master schedule is that it is 
+easier to suboptimize and that you can't look at the 
+relationship of one schedule versus another to make sure that 
+things are coming together.
+    Again, it was my understanding that the master schedule was 
+being worked on and that it was near completion, but we think 
+that something like that needs to be ready as soon possible so 
+that it can be managed against.
+    Mr. Horn. How about the Inspector General, Ms. Corcoran, 
+have you seen the master schedule?
+    Ms. Corcoran. No, sir; we have not.
+    Mr. Horn. You have not. Is that because it has been done in 
+the last week, maybe in preparation for the hearing, or what?
+    Ms. Corcoran. I can't really say. I knew they were working 
+on it, but I have not seen a copy of it, nor have my people.
+    Mr. Horn. Did they send any drafts around to either GAO or 
+the Inspector General?
+    Ms. Corcoran. No, sir.
+    Mr. Horn. OK.
+    Well, it seems to me when you go about, as I have said, 
+from day one of April 1996 when I got into this, this is a 
+management problem. It is not a bunch of ``techies'' running 
+loose. If it is a bunch of ``techies'' running loose, that is 
+part of the problem.
+    That is why IRS failed years ago with $4 billion down the 
+drain. That is why FAA failed 5 years ago when I was a freshman 
+in this Congress and $4 billion went down the drain. And you 
+could walk into the room, and I knew at 10 seconds that there 
+was no management to that operation. And everybody had a new 
+idea every morning, ``so let's try the new idea''--never 
+closure, never getting one thing related to the next.
+    It seems to me, before you even start in this thing, you 
+have got to have some schedule of what is most important. What 
+is the limiting factor in relation to all other systems that 
+you have got to worry about? Is there a few real trunk systems 
+that everything else depends on, and if they go out, you can 
+forget all the peripheral business?
+    So, how long have we been working on that master schedule?
+    Mr. Lorentz. I would say that, specifically, we have gone 
+through an evolution, and I certainly think it is as my 
+colleagues here portray it. Initially, we underestimated the 
+complexity. We did approach this from a systems perspective 
+initially. We have evolved that approach. We now, in a very--
+and I mean the Postmaster General makes it clear every time he 
+talks about this--this is a business problem. So, Mr. Chairman, 
+I absolutely--we absolutely share your perspective on that.
+    Are the plans that we have in place perfect? No. Are they 
+under construction?
+    Are they going to be continuously improved as we deal with 
+this business problem? Absolutely, yes.
+    And I would say that we are comfortable we are headed in 
+the right direction, but we are not done.
+    Mr. Horn. How many pages is there in the current draft of 
+the master schedule?
+    Mr. Lorentz. I do not know the answer to that question.
+    Mr. Horn. Does anybody with you know it?
+    Mr. Lorentz. No.
+    Mr. Horn. All right.
+    Mr. Lorentz. We can provide that.
+    Mr. Horn. I am saving a big space in the records for, 
+within a week, getting that copy of the master schedule, 
+without objection, and insert it in the record at this point.
+    My next question is this--and maybe it has been covered, 
+but just give me a brief answer--who is the contingency for the 
+Postal Service?
+    You are the contingency for everybody else we review with 
+our staff, known as the executive branch of the Federal 
+Government. They have sort of got you as No. 1. And a lot of 
+them don't know what to do anyhow. But those that say, ``Yes; 
+we can check it off.''--you get a plus; you at least have an 
+idea that if everything fails in the computers, you can mail 
+the stuff.
+    What happens to you?
+    Mr. Lorentz. We really----
+    Mr. Horn. Who is your contingency?
+    Mr. Lorentz. We believe that the ``buck stops here.''
+    Mr. Horn. So that is it? There is no contingency? Or, is 
+there another alternative way around?
+    Mr. Lorentz. Word of mouth. I mean we do not----
+    Mr. Horn. Smoke signals on hills, or what are we down to?
+    Mr. Lorentz [continuing]. We believe we are the ultimate 
+contingency; yes.
+    We certainly are accepting that responsibility. [Laughter.]
+    Mr. Horn. Well, yes. One of my colleagues mentioned the 
+Pony Express, and 30 years ago, I was living in this city and a 
+good friend of mine, Jim Boren, president of the International 
+Association of Professional Bureaucrats, challenged the post 
+office on mailing that he would put in Baltimore and 
+Philadelphia to Washington, and he did it by horseback, and 
+they did it the regular way. He won. That did hit every paper 
+in America. And Mr. Boren is teaching students how to do those 
+things, I am sure, wherever he is posted in Oklahoma or Texas.
+    But that is one contingency, maybe, that might be possible, 
+if everything else happens.
+    Now, what assurances do we have that the mail will be going 
+through? I mean you have got all this tremendous thing that I 
+mentioned earlier, known as the ``backlog'' at Christmas and 
+all the rest of the third class mail and second class mail and 
+all that. Have we got some assurance here that the mail will go 
+through?
+    Mr. Lorentz. We believe that the plans and the resources 
+that we have in place, we have a high degree of confidence that 
+we can deliver the mail. As well as our experience has been 
+articulated by Mr. Barranca, we are, some can say, an expert at 
+contingency planning to weather elements and other disruptions. 
+So we do have experience at dealing with those issues as well.
+    [The information referred to follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.164
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.165
+    
+    Mr. Horn. OK. Well, we wish you well on that.
+    Let me just say what I think I have learned in looking at 
+the papers, as well as hearing the testimony.
+    We have learned that you are making progress in solving the 
+year 2000 technology challenges, yet you still have a long way 
+to go, and it is in a very short period. We are talking about 
+311 days from now is the real test, and I am glad you are 
+simulating.
+    In response to the gentleman from Maryland, that is the 
+only way you are going to know in advance if you have got a 
+real serious problem on microchips that people don't even know 
+about, whether it is the elevators in your building or your 
+others buildings around the country. They are often by 
+microchips.
+    And some of the programming and some of the firms have gone 
+out of business in the older buildings when you phone up, but 
+the medical profession is doing a pretty good job in this area. 
+They have a website, and they started with the emergency rooms. 
+And when we had a field hearing in Cleveland with the Cleveland 
+Clinic, one of the outstanding medical facilities and programs 
+in the country, that they are checking all the design numbers 
+and everything else, calling the manufacturers so people don't 
+have to trip over everybody in this. They do it once and if 
+they have got data tested against it and put it in if it is new 
+and don't worry about it; just use the other fellows that we 
+had in 2 months ago.
+    So I think that is certainly one thing that would be well 
+to do, to look at either a website with other industrial 
+groups, that I know Mr. Koskinen has. Are you involved with Mr. 
+Koskinen's operation?
+    Mr. Lorentz. Yes, we are.
+    Mr. Horn. Is it in a separate team that you are there, or 
+is the post office just standing alone on here?
+    Mr. Lorentz. We are involved at two levels. The Postmaster 
+General is involved in the CIO Council. Mr. Weirich represents 
+us on the President's Council. So we are involved at both 
+levels. And there are other industry representatives involved.
+    Mr. Horn. Good.
+    Well, what leads me to that concern in the short period of 
+time, is the obvious. You have got many systems, more than 
+almost any place but the Department of Defense and perhaps HHS, 
+Health and Human Services. But you have got 8,000 suppliers 
+that have to relate to your computing, I would think, in terms 
+of their inventory control and the Japanese method of 
+inventory, so you don't have to build many storage sheds 
+everywhere, but keep it moving. Do you feel there is a problem 
+there on trying to make sure that they are converted, so when 
+they interact with your system--if they do interact with it--
+that they don't pollute the system because they haven't done 
+their job?
+    Mr. Lorentz. We do have a very significant issue with the 
+suppliers' side that we are aggressively pursuing with plan, 
+but it is an area of concern.
+    Mr. Horn. Good.
+    Any last comments any member might want to make now that 
+you have heard everybody else's comments?
+    Inspector General, do you have any thoughts on this?
+    Ms. Corcoran. We are going to continue to monitor----
+    Mr. Horn. OK.
+    Ms. Corcoran [continuing]. And provide you information----
+    Mr. Horn. Good.
+    General Accounting Office have any other comments?
+    Mr. Brock. We will continue as always, Mr. Chairman, to 
+monitor, not only the Postal Service but the other agencies 
+that we have a responsibility for, and reporting back to you on 
+the progress of agencies all across the Government.
+    Mr. Horn. Very good.
+    Let me just thank the staff on both sides of the aisle that 
+put the hearing together: J. Russell George, the staff director 
+and chief counsel for the Subcommittee on Government 
+Management, Information, and Technology. He has given up on us, 
+I think, and headed to the next hearing. Mr. Ryan is to my 
+left, the senior policy director on my subcommittee. He came to 
+us from the General Accounting Office. Bonnie Heald, director 
+of communication, professional staff member, sitting way in 
+back, so she has a decent seat and doesn't have to have us 
+tripping over her and vice versa. Mason Alinger, our reliable 
+clerk is here that arranges all these hearings. And then we 
+have got a lot of free labor and help with college interns, 
+Paul Wicker, Kacey Baker, and Richard Lukas; we thank you, 
+ladies and gentlemen.
+    And for the minority, we have Faith Weiss and Jean Gosa, 
+and we thank you all for your usual professional help.
+    And from the Postal Service Subcommittee, we have Robert 
+Taub, the Postal Subcommittee staff director; Heea Vazirani-
+Fales, the Postal professional staff member; and Abby Hurowitz, 
+the Postal clerk.
+    From the Technology Subcommittee of the Committee on 
+Science, we have Richard Russell, the staff director of the 
+Technology Subcommittee; Ben Wu, the member of the professional 
+staff there; and then, Joe Sullivan is the clerk to the 
+committee.
+    And I have here Denise Wilson for the minority staff, 
+professional staff member.
+    And last but not least, our brave court reporter, Sarah 
+Swanson. And when you have all that many people on a panel, I 
+don't know how you keep track of them. [Laughter.]
+    And thank you all.
+    And with that, this hearing is adjourned.
+    [Whereupon, at 12:22 p.m., the subcommittees adjourned.]
+    [The prepared statement of Hon. Chaka Fattah follows:]
+    [GRAPHIC] [TIFF OMITTED] T8811.166
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.167
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.168
+    
+    [GRAPHIC] [TIFF OMITTED] T8811.169
+    
+                                   - 
+
+</pre></body></html>
