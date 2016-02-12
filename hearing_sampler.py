@@ -49,5 +49,8 @@ import shutil
 dest = "C:\Users\Jeff\Documents\hearings\sample"
 for f in strat_sample:
     shutil.copy(f, dest)
+
+
+#this is a sample change
     
 
