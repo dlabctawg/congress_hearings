@@ -160,10 +160,21 @@ def parse_lines(file_name):
 
 # In[103]:
 
+#Ben - this is how I run my code from new command line 
+'''
+python #gets you into python from original command line
+       #need to get into the right folder
+from hearing_by_line import parse_lines #loads the script that jeff created
+filename = os.listdir("./sample/")[45]
+parse_lines("./sample/"+filename)
+'''
+
+#Ben - everything below this has been commented out because it was used by jeff to load data
+'''
 import os
 os.chdir("C:\Users\Jeff\Documents\hearings\docs")
-#choose a file
+# choose a file
 file_name = "111th Congress (2009 - 2010)_Senate Hearings_Committee on Commerce, Science, and Transportation_General. Wednesday, May 13, 2009..txt"
 d = parse_lines(file_name)
 d
-
+'''
