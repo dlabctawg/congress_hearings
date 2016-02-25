@@ -1,0 +1,958 @@
+<html>
+<title> - GPO IN 2023: KEEPING AMERICA INFORMED IN A POST-PRINT WORLD</title>
+<body><pre>
+[House Hearing, 113 Congress]
+[From the U.S. Government Printing Office]
+
+
+
+ 
+      GPO IN 2023: KEEPING AMERICA INFORMED IN A POST-PRINT WORLD 
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                           COMMITTEE ON HOUSE
+                             ADMINISTRATION
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                Held in Washington, DC, December 4, 2013
+
+                               __________
+
+      Printed for the use of the Committee on House Administration
+
+                       Available on the Internet
+                             www.fdsys.gov
+
+                               ----------
+                         U.S. GOVERNMENT PRINTING OFFICE 
+
+86-569 PDF                       WASHINGTON : 2013 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Printing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001
+
+
+
+                   COMMITTEE ON HOUSE ADMINISTRATION
+
+                 CANDICE S. MILLER, Michigan, Chairman
+
+GREGG HARPER, Mississippi        ROBERT A. BRADY, Pennsylvania, Ranking 
+PHIL GINGREY, M.D., Georgia        Minority Member
+AARON SCHOCK, Illinois           ZOE LOFGREN, California 
+TODD ROKITA, Indiana             JUAN VARGAS, California 
+RICHARD B. NUGENT, Florida
+
+                        Professional Staff
+
+                       Kelly Craven, Staff Director
+                  Kyle Anderson, Minority Staff Director
+
+
+
+      GPO IN 2023: KEEPING AMERICA INFORMED IN A POST-PRINT WORLD
+
+                              ----------                              
+
+
+                      WEDNESDAY, DECEMBER 4, 2013
+
+                          House of Representatives,
+                         Committee on House Administration,
+                                                     Washington, DC
+    The committee met, pursuant to call, at 10:30 a.m., in room 
+1310, Longworth House Office Building, Hon. Candice S. Miller 
+(chairman of the committee) presiding.
+    Present: Representatives Miller, Harper, Nugent and Brady.
+    Staff Present: Kelly Craven, Staff Director; Peter 
+Schalestock, Deputy General Counsel; Yael Barash, Legislative 
+Clerk; Salley Wood, Communications Director and Deputy Staff 
+Director; Bob Sensenbrenner, Senior Counsel; John Clocker, 
+Director of Policy and Planning; Katie Ryan, Professional 
+Staff; Reynold Schweickhardt, Director of Technology Policy; 
+Kyle Anderson, Minority Staff Director; Matt Pinkus, Minority 
+Senior Policy Advisor; Matt DeFreitas, Minority Professional 
+Staff; Khalil Abboud, Minority Deputy Counsel; Thomas Hicks, 
+Minority Senior Counsel; Mike Harrison, Minority Chief Counsel; 
+Greg Abbott, Minority Professional Staff; and Eddie Flaherty, 
+Minority Chief Clerk.
+    The Chairman. I call to order the Committee on House 
+Administration for today's oversight hearing on the Government 
+Printing Office. First of all, the hearing record will remain 
+open for 5 legislative days so all Members may submit any 
+materials that they wish to be included in the record.
+    And we do have a quorum, so we can proceed.
+    First of all, I want to offer sort of belated 
+congratulations to our witness today, Ms. Davita Vance-Cooks, 
+on her appointment. She is the 27th Public Printer of the 
+Government Printing Office. And I think certainly we can all 
+appreciate your appointment and your service in so many ways. 
+You are the first female to serve as the Public Printer. You 
+are also leading an agency through what can only be 
+categorized, I think, as a very historic transition, sort of 
+evolving to meet the digital demands for the 21st century, 
+which is a huge task for an agency and tremendous 
+responsibilities that you have for the American public. So we 
+welcome you and congratulate you.
+    For 150 years, the GPO has been responsible for the 
+collection, production, distribution, and preservation of 
+public information for all three branches of government. It is 
+an historic and proud institution that has served this Nation 
+well as the printer of record for Congress and the Federal 
+Government. Its decades-long service throughout our history is 
+a testament to its employees, many of whom are here today, and 
+we welcome all of you; its institutional values; its commitment 
+to our commonly held dedication to making self-government 
+function transparently and efficiently.
+    However, in the 21st century, the GPO is navigating a very 
+changing information landscape as government information and 
+its consumers transition from print to electronic formats. And 
+this tradition presents both challenges and opportunities.
+    At the request of Congress, the National Academy of Public 
+Administration conducted a review of the current state of GPO 
+and its ability to meet the digital demands of the future. And 
+their report, which was released earlier this year, suggests 
+that all facets of the GPO will need to be realigned. 
+Everything from its digital publishing and preservation efforts 
+to its workforce size, skill sets will need to be reevaluated, 
+and even its property management. In fact, according to the 
+Academy, with declining print demands, GPO is projected to run 
+out of money actually in 2020 unless it overhauls its current 
+business model. And this is, unfortunately, a familiar 
+situation for many public entities, as well as many private 
+entities.
+    So it will undoubtedly be a difficult transition, but one 
+that is essential to GPO's core mission of keeping America 
+informed. And today we certainly are very interested in hearing 
+from our witness about her vision for the GPO in the next 10 
+years, how she plans to address some of the recommended changes 
+that were outlined in the Academy's report. For example, with 
+the decline in revenues due to a decline in print demands, the 
+Academy recommends that GPO explore service offerings that can 
+be provided on a cost recovery basis. And furthermore, how will 
+the GPO adjust to produce limited copies of official documents 
+in a cost-effective manner?
+    NAPA also states that organizational, and operational 
+efficiency and cost savings can be achieved by consolidating 
+regional as well as D.C. office locations, space, and staff. 
+The cost of maintaining the North Capitol Street office space 
+is about $40 million, over a third, actually, of GPO's overhead 
+annually. I know we will want to hear about your ideas and 
+plans in that regard as well.
+    So these are all important questions and issues that we 
+want to discuss today, and in the future as well, as we 
+continue to reduce government spending and increase operational 
+efficiency and transparency.
+    I also want to acknowledge some of the really great 
+progress that GPO has made in the digital front. Working with 
+this committee, GPO has made significant reductions to the 
+number of committee reports and House documents to better meet 
+committee and House needs. GPO also, for the first time, 
+published the Congressional Pictorial Directory in an app. And 
+in coordination with the Library of Congress, they have 
+produced a Congressional Record app as well. The app trend 
+continues in 2013 with the release of the first app of the 
+Constitution annotated.
+    So these are very important advancements that are necessary 
+to preserve GPO's mission in the technology-driven society and 
+world in which we live. I know the committee is interested in 
+learning how GPO will continue to serve the legislative and 
+informational needs that we have here in the Congress and in 
+government, and how GPO will be transforming itself into the 
+modern-day information repository so that it may remain the 
+primary-source publisher, as it has for the past 150 years.
+    Again, I certainly want to congratulate you on your 
+appointment. We appreciate you coming today, and we appreciate 
+your dedication to GPO as well.
+    And at this time I would like to recognize my colleague, 
+Mr. Brady from Pennsylvania, for the purposes of his opening 
+statement.
+    Mr. Brady. Thank you, Madam Chairman, and thank you for 
+giving our new Public Printer, the Honorable Davita Vance-
+Cooks, the chance to share her vision for the Government 
+Printing Office over the next decade.
+    Ms. Vance-Cooks, who took office as the 27th Public Printer 
+in August after acting in the capacity for over a year, has 
+brought great enthusiasm, experience, and skill to the 
+position. We are lucky that you are there.
+    GPO has long been managing the implications of digital 
+publishing of government information. They are the experts. I 
+want to hear GPO's thoughts on technology's effect on its 
+mandate to keep America informed. We need to know how this 
+committee can help GPO fill its mission. And I look forward to 
+working with the chairman and the new Public Printer to ensure 
+that result.
+    Welcome, and I look forward to your testimony.
+    The Chairman. I thank the gentleman.
+    Other Members for an opening statement?
+    Mr. Harper. The chair recognizes the gentleman.
+    Mr. Harper. Thank you, Chairman Miller. And thank you very 
+much for having this hearing.
+    And, Ms. Vance-Cooks, I appreciate you appearing before the 
+committee today and offering your views and vision of where the 
+Government Printing Office will be 10 years from now, which is 
+a challenging prediction sometimes.
+    The GPO has long served an important role in our democratic 
+system of government by providing both officials and citizens 
+relatively easy access to a broad range of public documents. 
+That role is changing. I have been in Congress now for 5 years, 
+and in that time my office has discontinued receiving the print 
+editions of the Federal Register, the Congressional Record, 
+committee reports, as well as bills and public laws.
+    With that kind of fundamental change in demands from your 
+primary customers, I think we can all understand the challenges 
+that you and your organizations face. You are responsible for 
+over 1,800 employees and a government agency that operates more 
+like a business. You generate most of your revenues and produce 
+retained earnings; however, these revenues are declining. Your 
+business, the printing business, is changing, and the GPO is, 
+in fact, an agency of the Federal Government and does receive 
+an annual appropriation. Therefore, congressional oversight is 
+in order.
+    Particularly in light of the GPO's declining revenues and 
+our desire to maintain public access to government documents, I 
+believe it is important for this committee to examine the 
+changes that you are undertaking now in order to help ensure 
+that there is an efficient GPO operating tomorrow, and 
+certainly 10 years and even further into the future. I look 
+forward to hearing from you this morning and discovering how we 
+might be of assistance to you.
+    Thank you, and I yield back.
+    The Chairman. Thank the gentleman.
+    Any other Members have opening statements? If not, at this 
+time I would like to introduce more formally our witness today, 
+Davita Vance-Cooks, the 27th United States Public Printer. On 
+August the 1st of 2013, the Senate confirmed her as the United 
+States Public Printer, and this marked a very historic 
+occasion, as she is the first woman and the first African 
+American to lead that agency.
+    She joined GPO in 2004, and has served the institution in a 
+variety of leadership capacities. She began as the Deputy 
+Managing Director of Customer Services, with the responsibility 
+of overseeing GPO's liaison with Federal agencies for in-house 
+print production and printing procurement services. She then 
+served as the managing director of its publications and 
+information sales business unit, where she oversaw a large 
+print distribution supply chain operation, with customers 
+across the United States.
+    In January 2011, Ms. Vance-Cooks was named the GPO's Chief 
+of Staff, which carried the responsibility of forming and 
+implementing GPO's strategic performance plan and overseeing 
+its buyout program that reduced agency staffing levels by 15 
+percent. In December of that year, she was named Deputy Public 
+Printer, and in that capacity, she served as Acting Public 
+Printer from January 2012 until August of 2013.
+    She has been an extremely positive force within the agency 
+as she worked to cut costs and expand the availability of 
+government information in the digital age. And prior to serving 
+at the GPO, she was a senior vice president of operations at 
+NYLCareMidAtlantic Health Plan, and held several management 
+positions at Blue Cross Blue Shield.
+    So, again, we thank you so much for joining us today. This 
+committee is very interested in hearing your testimony. And as 
+I mentioned to you in the hall before we started the committee 
+hearing today, I hope you look at this committee as a resource 
+as well for working with you in every way that we can as you 
+meet--your agency meets so many of the challenges ahead. We 
+certainly want to be, and are, a willing partner in seeing the 
+changes that are going to be happening there.
+    So at this time the chair now recognizes our witness.
+
+  STATEMENT OF HON. DAVITA VANCE-COOKS, UNITED STATES PUBLIC 
+                            PRINTER
+
+    Ms. Vance-Cooks. Good morning, and thank you. Madam 
+Chairman Miller, Ranking Member Brady, and members of the 
+Committee on House Administration, thank you for inviting me 
+here today to discuss GPO in 2023: Keeping America Informed in 
+a Post-Print World.
+    As you know, GPO works closely with the House to provide 
+the information, products, and services which the House needs 
+to carry out its legislative function. Through our programs and 
+services, GPO performs an informing function on behalf of the 
+House and the Senate that is traceable to the Constitution. 
+Specifically, we provide the means of acquiring information 
+about the government that President James Madison said is so 
+vital to maintaining an informed and enlightened public in our 
+system of self-government.
+    To that end, the GPO is positioning itself to keep America 
+informed in a postprint world by shifting from a print-centric 
+to a content-centric operation, thereby increasing the digital 
+and value-added services that we can provide to Congress.
+    The shift to a content-centric operation was independently 
+affirmed by the National Academy of Public Administration. In 
+January of 2013, they issued their findings, which state that 
+GPO's core mission of authenticating, preserving, and 
+distributing Federal information remains critically important 
+to American democracy in the digital age.
+    Our digital transformation points to a profound change in 
+the way GPO operates today. We are more than just a printer. We 
+are the Government's publisher, and as that publisher, we 
+provide value to Congress, Federal agencies, and the public, 
+because we have a diversified product and services portfolio 
+that focuses on digital.
+    We support openness and transparency in the Federal 
+Government by providing permanent public access to Federal 
+Government information at no charge through our Federal Digital 
+System, which is known as FDsys. FDsys today has over 900,000 
+titles available online, with 40 million documents downloaded 
+each month. It serves as the backbone of our long-standing 
+partnership with approximately 1,200 libraries nationwide 
+participating in the Federal Depository Library Program.
+    Today we build databases, create bulk data downloads, 
+produce e-passports and secure credentials, offer e-books, 
+develop mobile apps, provide Web site design and hosting, 
+engage in e-commerce activity, offer electronic content 
+services, utilize digital equipment, develop digital products, 
+and embrace a digital workflow process.
+    To reflect the scope of our expanded services, we have 
+rebranded ourselves as Official, Digital, and Secure. And with 
+more than 95 percent of Government information being published 
+digitally, the time has come for our name to reflect the 
+modernization of these services. Our current name reflects a 
+century and a half of proud tradition and history, which I 
+respectfully embrace, but I also acknowledge that this name is 
+limiting. Our current name does not adequately describe who we 
+are. It does not adequately describe what we do. We are so much 
+more than that.
+    We are the Government Publishing Office. GPO is the 
+Nation's publisher, and I am proud to lead a workforce of 
+dedicated men and women who believe that our future lies in 
+providing Government information to the American people in the 
+forms and the format which they want and need. Changing our 
+name to reflect our broad range of services is what the 
+Academy's report has endorsed, and it is what we soon hope to 
+achieve.
+    Madam Chairman Miller, Ranking Member Brady, Members of the 
+Committee on House Administration, this concludes my opening 
+remarks. I will be happy to answer any questions you may have. 
+Thank you.
+    The Chairman. Thank you so very much.
+    [The statement of Ms. Vance-Cooks follows:]
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    The Chairman. I guess I will begin questions by picking up 
+on the latter part of your comments, your testimony, about your 
+name change. I have to say I think when you and I first met at 
+the beginning of the year, we talked a bit about that, and I 
+have given that a bit of thought. And just my own personal 
+observation is that I think government agencies, much more than 
+in the private sector where a business's name might have, you 
+know, different kinds of reasons or branding or whatever for a 
+name of a business, but in a government agency you try to be, I 
+think, a little more descriptive of what you actually do, 
+right? Whether you think about the Department of Education, we 
+can all understand what they do, right? The Department of 
+Agriculture, people understand what they do. Environmental 
+Protection Agency, various things. So I think the government 
+agency's name might seem like a small thing, but yet it is a 
+way that the public can understand what you do. And I think as 
+much as that, that you get your entire workforce to sort of buy 
+into the vision of what it is that they are trying to provide 
+to the public as well.
+    So I am very appreciative of your willingness to change 
+your name. I hope you are not offended by this, but I have to 
+say going from the Government Printing Office to the publishing 
+just doesn't seem like enough to me. So I respectfully throw 
+that out there for a little bit of consideration.
+    And I know I think it requires legislation for you to 
+actually change your name. So I only say, you know--and I 
+noticed when you came here, and you had many of your employees 
+here, you obviously think about your agency in a team, as a 
+team. And I am a big believer in teams. I don't care how much 
+technology you have, at the end of the day, it is about the 
+people, that they buy into the vision. And the name is a part 
+of the vision. So you might want to think about, just my 
+opinion, having a contest perhaps amongst your own team about a 
+different name.
+    I don't know if you have any comment on that. But I think 
+having a new name, as I say, it seems like a small thing, but 
+yet it is not really.
+    Ms. Vance-Cooks. Well, first of all, I certainly agree with 
+you that it is not a small thing to have a name change. I know 
+that it is a significant opportunity for us to rebrand. And let 
+me explain why we decided on Government Publishing Office.
+    Too many times people ask, why do you need a Government 
+Printing Office when everything is online? And we always have 
+to tell people we are the ones who put it online to begin with. 
+So we need to make sure that we change our name to reflect the 
+brand of services that we provide. And the reason why we 
+thought of the word ``publishing'' is because when you look up 
+publishing, it defines services. It defines a broad range of 
+services that support information dissemination. Printing is 
+just a small component.
+    When people think of printing, they think of ink on a 
+substrate. That is just one component of what we do. But today 
+when you talk about all of the things that people are doing in 
+terms of communicating, they are using the word ``publishing.'' 
+And the word ``publishing'' has become very synonymous with a 
+broad range of services in the community.
+    So really what we are trying to do with our name change is 
+to attract the millennials. We are trying to attract the rising 
+group of population that need to be aware that we have the 
+services that they can provide. But when they hear the word 
+``printing,'' they stop cold. And to be quite frank with you, 
+it fits our acronym, GPO.
+    The Chairman. Well, we all have to think outside the box. 
+Not to argue that point, but I remember my great State of 
+Michigan, we changed the name of the social services agency to 
+the Family Independence Agency.
+    Ms. Vance-Cooks. It worked.
+    The Chairman. It worked. It was just a whole different 
+mind-set. So I won't keep belaboring that.
+    Ms. Vance-Cooks. Thank you for your support in this. I 
+appreciate it.
+    The Chairman. You mentioned, and I mentioned, and the 
+ranking member mentioned as well about you have made great 
+strides in reducing the workforce, really by 70 percent since 
+the 1980s. We were looking through some of the numbers here 
+before the hearing. So you went from 6,450 employees in the 
+1980s, and then in 1998 you had about 3,400, and today you have 
+1,900 employees. That is a really dramatic change in the amount 
+of employees that you have there. Still a ways to go, though.
+    So I guess I would ask you, as we talked about during the 
+upcoming next 10 years, how do you see that workforce 
+numerically evolving, as well as, with your new name change, 
+whatever it ends up being, what they will be doing?
+    Ms. Vance-Cooks. The GPO has a history of adapting to 
+technology. When you look at our history, you will see that we 
+have changed from a print-centric operation to a content-
+centric operation, and as we have adapted our technology, our 
+productivity has increased. And as the productivity has 
+increased, we have been able to reduce or right-size the staff. 
+We have a history of right-sizing our staff through attrition 
+and through buyouts. It has not been a disruptive process.
+    Considering the fact that the GPO is undergoing a digital 
+transformation, one in which technology will play a critical 
+role, we believe that it is an indicator that we may eventually 
+have to right-size again. But when we right-size, as we have 
+always done in the past, we do it gradually, and we do it when 
+it makes sense for us.
+    I can say that because we are engaged in a digital 
+transformation, the skill sets will change. The skill sets will 
+be a mix of production, digital production. We will be looking 
+for people who are experienced in digital production, digital 
+management, digital product development. That is because we 
+need to make sure that we have an organization that is lean, 
+agile, and very responsive to our stakeholders.
+    The Chairman. If I could just follow up on that, I was 
+looking through your employee records, et cetera, and noticed 
+that, for instance, you have your own police force, 
+essentially. And I have a question about that. Do you need such 
+a thing? As you know, this committee has oversight of the 
+Capitol Police, and they--particularly with sequestration, and 
+then we had the shutdown and various kinds of things and some 
+of the incidents that have happened, et cetera, we have really 
+been looking at everything there and how we can resource them 
+properly, et cetera. But somehow that struck me as odd, that 
+the GPO would have their own police force. And have you looked 
+at that--I know that is a more recent thing, actually--and 
+whether or not you could contract with the Capitol Police or 
+some other Federal agency, or is that an area that you would 
+look at?
+    Ms. Vance-Cooks. The GPO operates like a business, as one 
+of you has mentioned. In fact, many of you have mentioned that, 
+and I appreciate your understanding of how we are set up. We 
+only receive appropriations for about 16 percent of our 
+funding. The balance, we have to earn it. And we earn it 
+through reimbursable goods and services. So we pay for our 
+Police, we pay for our IG, we pay for all of those functions 
+that are governmental in nature.
+    The question as to whether we need police, well, yes. We 
+need police to protect the security of our people and to 
+protect our assets. Of course we do. But the question as to 
+whether or not they should be merged with the Capitol Police, 
+or whether they should be separate is something that we are 
+always open to discussing, especially because we do pay for it. 
+It is about $6 million annually.
+    The Chairman. Yeah. That is just what really grabbed my 
+attention. I thought, my goodness, that is a rather large line 
+item for security.
+    Ms. Vance-Cooks. And you mentioned earlier that you are 
+willing to serve as a resource, which we very much appreciate. 
+And if you would like to take a look at that, and we would work 
+with you, we would be happy to do so. But our police force does 
+work. We are very proud of them.
+    The Chairman. Yeah. I appreciate that. Okay. Yes, that is 
+an area I am sure we can work together.
+    And then I guess my final question, when we are thinking 
+about efficiencies and cost savings, et cetera, as you know, 
+the Congress, this committee has been responsible for cutting 
+in-house MRAs, all the individual congressional budgets, 
+actually over the last several years. There has been about a 20 
+percent cut for the MRAs, and all the committees have had a 
+similar amount of cut in-house. And so part of all of our 
+budgets, of course, are printing costs, et cetera, et cetera.
+    And so we are making these reductions in our budgets, 
+whether that is in the committees or the individual Members of 
+Congress, and yet you actually have raised your rates this 
+year. As a customer I am now asking you, you raised your rates 
+this year 3.5 percent, and potentially another 3.5 percent 
+after an evaluation at the end of the year. And since we all 
+have really a mutual constituency with the taxpayers, what are 
+your thoughts on that?
+    Ms. Vance-Cooks. When we raised the rates, we did so with 
+great analytical precision. We took a very good look at the 
+costs that we are incurring in printing and in producing these 
+documents, and we realized that we had not raised the rates in 
+a while, and that the rates were not keeping pace with 
+inflation. We have been absorbing that cost. And as I mentioned 
+earlier, we have to earn quite a bit of our funding. And so 
+this was a business decision that we did not make lightly. It 
+reflects the need to cover our costs as noted in Title 44.
+    The Chairman. All right. I appreciate that.
+    And the chair now recognizes the gentleman from 
+Pennsylvania.
+    Mr. Brady. Thank you, Madam Chairman.
+    How did the October government shutdown affect you?
+    Ms. Vance-Cooks. The October shutdown impacted us in terms 
+of our productivity, our revenue, our expenses, our 
+stakeholders, our vendors, and our employee morale. And let me 
+talk about each one, if I may, for just a moment.
+    We furloughed 70 percent of our staff. The 30 percent of 
+the staff who remained who were excepted are individuals who 
+had to protect the security, protect our assets. They supported 
+the legislative process for Congress, and they supported the 
+Federal Register, which issued regulations related to life and 
+health.
+    This was a tough time for us, because when we explained to 
+the employees that they were going to be furloughed, we had to 
+make sure that they understood it had nothing do with the job 
+that they did; it was simply that we were following the strict 
+guidelines and the strict rules of the furlough.
+    It impacted our productivity, because we lost approximately 
+128,000 hours of productive time. That doesn't even count the 
+time that we spent preparing and recovering from the furlough.
+    It impacted our revenue. We estimate that we lost about $30 
+million during that time period. Our expenses remained the same 
+because the building was open. And then when the shutdown was 
+over, we had to spend quite a bit of money in overtime, because 
+we had backlogs that had piled up, and we had to make sure that 
+we could get back to production as quickly as possible. We were 
+told that it would take about 3 months for an average agency to 
+get back on track. We don't have that luxury. We had to make 
+sure that we do it as quickly as possible, so we had to spend 
+overtime.
+    It caused quite a bit of pain for our stakeholders, one of 
+which was the Federal Depository Library Program. We had 
+planned our annual conference. It was scheduled for October. We 
+had 300 librarians who signed up. We had to cancel. They had to 
+cancel their flights. They had to cancel their hotel room 
+reservations. They were scrambling for refunds.
+    We had vendors who were in significant distress. As you 
+know, we have a printing procurement function which is 
+responsible for providing printing services for agencies. These 
+are small businesses throughout the United States. They had 
+performed work for us. They wanted to be paid. We could not pay 
+them because we were not allowed to pay them. We received 
+several vendor distress calls because they could not make 
+payroll. And this was a significant problem for us, and we felt 
+it very much.
+    It caused problems with employee morale because they were 
+upset that they had to be furloughed. Our employees believe in 
+their strategic mission. They wanted to come to work. They 
+wanted to be here to work for and on behalf of Congress. And 
+when they came back, I was there waiting to greet them, to 
+welcome them back. And I walked around to say hello, and when I 
+got to one of the offices, in fact it was the IT office, there 
+was a sign on the door, Congressman, and it said, ``Glad to be 
+back with the GPO,'' with a happy face. And that just about 
+sums up exactly what it did to us.
+    The biggest lesson we learned, however, was that public 
+access to information is critical. Our FDsys, our content 
+management system, had spikes in retrievals on congressional 
+materials. So we know we are on the right track with FDsys and 
+with public information.
+    Thank you for giving me an opportunity to address that.
+    Mr. Brady. Thank you.
+    And I noticed that you do rent space out to the Capitol 
+Police. Well, I guess my question is twofold. Our committee 
+passed a bill that would merge Capitol Police and the Library 
+of Congress. If they are already there, it might be cost saving 
+for you to think about merging with them. Now, a lot of things 
+happened because of the different pay scales, different--we had 
+to do that. It wasn't that easy. Different retirement packages, 
+different health and welfare packages. But I will be glad to 
+work with you on that.
+    Ms. Vance-Cooks. Thank you.
+    Mr. Brady. But also you giving out a lot of the space, are 
+you guys interested in moving?
+    Ms. Vance-Cooks. No, we are not interested in moving, and 
+let me explain why. And let me talk a little bit about the 
+space situation.
+    The Government Printing Office building has 1.5 million 
+square feet measured by perimeter, and about 250,000 of that 
+square feet is just unusable because it is airwells, 
+stairwells, hallways, and so on and so forth. And we lease 
+currently about 100,000 square feet to four renters. Those four 
+renters give us about $1.7 million annually to help defray the 
+cost of the utilities.
+    As we speak today, we have about 70,000 square feet 
+available to rent, and we are talking to several agencies to 
+see if they are interested. Our goal is that by 2023, the GPO 
+building will house a number of government agencies.
+    And I don't believe that we should move for a number of 
+reasons: One, the close proximity to all of you, to Congress, 
+to our stakeholders; two, the close proximity to our agencies. 
+They, too, are our customers. Three, several years ago a study 
+was conducted to score what it would cost for us to relocate, 
+for a new building to be constructed, and it came up to $320 
+million. That is too much money. It is easier for us to stay 
+where we are, in close proximity, serving Congress, serving the 
+agencies. And so at this point we are not interested in moving, 
+but we would certainly like to fill the space.
+    Mr. Brady. Madam Chair, I have one more quick question.
+    The Chairman. Of course.
+    Mr. Brady. When I first became chairman of this committee, 
+I got named at 12 o'clock in the afternoon, and at 12:30, when 
+I walked back to my office, I had a line of bargaining units. 
+Labor contracts were not renewed for many, many years. We 
+worked real hard in getting that done. And I am assuming that 
+everything is well on the labor front because I have nobody in 
+front of my office, unless they are in front of your office. 
+But I have nobody in front.
+    But I am sure that, you know, like I said, we were 
+instrumental--this committee did the bill for the Capitol 
+Police merging with Library of Congress. We would offer our 
+help if you would like to look at maybe a cost saving or some 
+type of saving, and maybe better protection that way. I am not 
+trying to eliminate anybody's position there.
+    But, again, how is the labor front? The contracts are being 
+renewed, everybody is okay there? I would assume that they are, 
+because, again, I am not getting any calls from them.
+    Ms. Vance-Cooks. The GPO has 13 unions, and I think that we 
+are----
+    Mr. Brady. I know. Tell me about it. I did 13 negotiations.
+    Ms. Vance-Cooks. We are tremendously lucky because the 
+unions have been extremely collaborative with us. We could not 
+have made half of the changes that we have made to improve the 
+organization without the help, and the assistance, and the 
+understanding of our labor partners. In fact, I have several 
+labor partners here in back of me. They came on their own 
+accord, and I appreciate their attendance, because they are 
+extremely supportive of what we are doing. And the reason is 
+because we are taking the time to work with them to make sure 
+they understand, because they are the voice of the employees.
+    In terms of wage negotiations, we have been fortunate 
+because we are currently working with the unions to make sure 
+that our wage increases now are equivalent to the civil service 
+increase. They understand the need to drive our expenses down 
+and to reduce them, and so they have willingly accepted that. 
+This is good, and I am proud to work with them.
+    Mr. Brady. Thank you, Public Publisher.
+    Ms. Vance-Cooks. Thank you, sir.
+    The Chairman. I thank the gentleman very much.
+    And before I recognize the gentleman from Mississippi, I 
+would ask unanimous consent to enter into the record two items, 
+a statement from the National Academy of Public Administration 
+on the challenges facing the GPO, and a report from the 
+National Academy of Public Administration, Rebooting the 
+Government Printing Office: Keeping America Informed in the 
+Digital Age. Without objection.
+    [The information follows:]
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    The Chairman. The chair now recognizes the gentleman from 
+Mississippi.
+    Mr. Harper. Thank you, Madam Chair, and thank you, Ms. 
+Vance-Cooks, for being here with us. Great to see you again.
+    Ms. Vance-Cooks. You, too.
+    Mr. Harper. And I am thankful that I don't have to learn 
+any new initials, regardless of what the name finally winds up. 
+That is a good thing.
+    And also I want to say last year I toured the passport 
+facility down in Mississippi at the Stennis Space Center, which 
+was a remarkable tour. Very impressed with the thought and the 
+security that goes into producing a passport, and a great 
+workforce there.
+    I know there are a lot of challenges. We are in an 
+interesting and pretty difficult budget day and future. And I 
+just want to ask a couple of questions, because we know that in 
+any organization, and you are trying to run this like a 
+business, the main overhead costs or operating costs are always 
+going to be employees and your overhead for rent and such.
+    You mentioned that 250,000 square feet are unusable in that 
+building; is that correct?
+    Ms. Vance-Cooks. That is right.
+    Mr. Harper. All right. And then you said your desire is to 
+rent, lease another 70,000 square feet that is available 
+perhaps to other agencies? Is that what I----
+    Ms. Vance-Cooks. At this time.
+    Mr. Harper. At this time?
+    Ms. Vance-Cooks. Yes. Because we are trying to consolidate 
+our operations and move people into one area so that we will 
+eventually have more space to lease to them. Right now we are 
+using about 80 percent of the usable space in our building.
+    Mr. Harper. How much do you currently lease out to others?
+    Ms. Vance-Cooks. One hundred thousand square feet.
+    Mr. Harper. All right. So we have got 100,000 square feet 
+that is being used, at least 70,000 square feet, perhaps more, 
+that may be available, and 250,000 square feet that is just 
+using up airspace right now.
+    Ms. Vance-Cooks. Right now, yes.
+    Mr. Harper. All right. How much are you hoping that you 
+will receive? Let us assume you could lease 70,000 square feet. 
+How much revenue, or rent, or lease income would you see off of 
+that, or would you hope to see?
+    Ms. Vance-Cooks. Well, right now we receive about $1.7 
+million with the current renters.
+    Mr. Harper. Of the 100,000 square feet.
+    Ms. Vance-Cooks. Of the 100,000, right. And that covers--we 
+know that our utilities--that would be the water, electricity, 
+steam--cost about $10.5 million. So what we want to do is to at 
+least rent enough to cover the $10.5 million that we spend in 
+our overhead for that particular area.
+    Mr. Harper. All right. You are currently paying, I believe, 
+is it $1.8 million for extra warehouse space separate from that 
+building? Is that correct?
+    Ms. Vance-Cooks. What are you referring to?
+    Mr. Harper. Well, you are leasing extra warehouse space and 
+regional office space separate from what you have currently on 
+the campus.
+    Ms. Vance-Cooks. Are you referring to the regional offices?
+    Mr. Harper. Yes.
+    Ms. Vance-Cooks. Okay. The regional offices are actually 
+inhabited by people. I mean, they are used--that space is being 
+used. But this is an interesting point, Congressman, because we 
+have decided to reduce the space that at least four of those 
+regional offices are using, and we have done that already. That 
+would be the Hampton office, which is now in Virginia Beach; 
+Atlanta; Philadelphia, and Columbus.
+    Mr. Harper. So will that dollar amount be reduced as the 
+space is reduced?
+    Ms. Vance-Cooks. That is right.
+    Mr. Harper. Is that you are what you are anticipating in 
+future years?
+    Ms. Vance-Cooks. That is exactly right.
+    Mr. Harper. Now, I know you mentioned the furlough. The 
+furlough lasted 16 days?
+    Ms. Vance-Cooks. Yes.
+    Mr. Harper. Okay. And 70 percent of the staff was 
+furloughed?
+    Ms. Vance-Cooks. Yes.
+    Mr. Harper. Were they furloughed for that entire time?
+    Ms. Vance-Cooks. Yes. In fact, it ended up that we had to 
+furlough additional staff, because when we furloughed, we 
+initially had the 30 percent who were excepted, with the 
+understanding that it would be a skeletal staff and that it 
+would be scalable. The assumption was that if the congressional 
+workload increased, we would add more, or if it declined, we 
+would send them home. Unfortunately, it declined. Midway 
+through we sent some home.
+    Mr. Harper. Now, just so that I am clear and sure, everyone 
+who was furloughed ultimately was made whole and got their pay; 
+is that correct?
+    Ms. Vance-Cooks. Yes, sir.
+    Mr. Harper. Okay. It sounds like that wouldn't be a bad 
+thing for morale perhaps to at least know that they were made 
+whole. They did not suffer an ultimate economic loss. That is 
+what I want to be sure of.
+    Ms. Vance-Cooks. Well, you are right in the sense that they 
+were made whole, but what I was referring to is how they felt 
+about the furlough during the time that it occurred.
+    Mr. Harper. Sure. I understand. I understand. But I did 
+want to make sure that they were--they did not suffer a loss in 
+income.
+    Ms. Vance-Cooks. No.
+    Mr. Harper. Okay. Well, look, I want to say that we are 
+here to work with you, and we appreciate what you are doing. We 
+have been very pleased with the relationship we have had with 
+GPO. And we look forward to continue that and are available to 
+work with you. Thank you.
+    Ms. Vance-Cooks. Thank you very much, sir. Thank you.
+    The Chairman. The chair recognizes the gentleman from 
+Florida Mr. Nugent.
+    Mr. Nugent. Thank you, Madam Chair.
+    And, Ms. Vance-Cooks, congratulations.
+    Ms. Vance-Cooks. Thank you.
+    Mr. Nugent. I think it is an awesome opportunity for you, 
+obviously at this time of transition.
+    Having run an organization not quite as large as yours, but 
+having faced financial challenges, I commend you in regards to 
+the way you deal with personnel. Particularly when you have to 
+make tough decisions, it is always better if you can do it 
+through attrition than through layoffs. I mean, it means so 
+much more to your workforce, I know.
+    But, you know, with the report that came out and the 
+deficit you are going to run--I mean, you have talked about a 
+number of things; trying to cover utility costs for that 
+facility. But I also know that it is what, $40 million a year 
+to operate it. I don't know if that is the $10 million for 
+utilities. But how are you going to do that over the next 10 
+years? Because digital, it is hard to sell digital. But you 
+have obviously operational costs to actually take 
+transcriptions and put it into a digital format. How do you see 
+yourself actually meeting that demand with reduced income 
+coming into your coffers?
+    Ms. Vance-Cooks. I would like to address that question in 
+two parts. The first is your reference to the report in NAPA 
+that describes that we are going to lose funding by 2020. And 
+then I would like to talk about some of the initiatives that 
+are in place for us to increase our revenue.
+    The report talks about the fact that we will run out of 
+money in 2020. The NAPA report is what is called a best 
+practices report. They were presenting a worst-case scenario. 
+They were presenting an acid test. And they believe very much 
+in scenario planning, as do we. Scenario planning is where you 
+talk about what if, what will happen, what happens if this 
+occurs. But they say specifically, and when you look further in 
+the text they describe a number of assumptions which they made 
+as part of that model which they know must be updated.
+    For example, they did not take into account the savings 
+that we would achieve from our investments in new technology 
+and equipment. That model did not take into account the leasing 
+revenue. The model did not take into account the additional 
+revenue we will get from the next generation of passports, 
+which will be launched in 2015 and 2016. The model also did not 
+take into account the $30 million that we generated in savings 
+through the buyout as it is distributed through the business 
+units. It also assumes that we will have a head count of 1,925, 
+when, as you have noted, we operate with fewer than 1,900 
+employees. It also assumes that plant operations, their direct 
+costs, will be constant, when, in fact, they are running at 8 
+percent lower than they were at that time.
+    It doesn't even take into account the accounts receivable 
+issue. At the time that report was generated, we had $29 
+million in account receivables outstanding. We have a dedicated 
+group that is responsible for collecting it, and it is now down 
+to $8.3 million. Our overhead is now trending at a 2008 level.
+    We have done a very good job in managing our costs, and so 
+I want you to understand that they were simply describing a 
+worst-case scenario. We are not going to run out of money, 
+given everything we have done with these expenses.
+    But that takes me into point number two, which is what are 
+we planning to do to increase our revenue? Sir, we have a 
+product portfolio that is specifically designed to take a look 
+at that. It has three categories: tangible print, digital, and 
+hybrid. The tangible print is that which we are accustomed to, 
+the hearings, committee reports, anything you can touch. The 
+digital, of course, is anything that refers to digitization of 
+print. This is where we see the future, as you so aptly noted. 
+This is where you will find our pre press operations, FDsys, e-
+books, mobile apps, things of that nature. And then the last 
+category is the hybrid. This is where you have tangible plus 
+digital, with an overlay of electronics. This is where you will 
+find the passports and the smart cards.
+    This product portfolio that I have described to you has 
+very porous rows in it. In other words, it is integrated and 
+synergistic, and they all depend on each other.
+    Mr. Nugent. And obviously, some have a higher profit margin 
+than others.
+    Ms. Vance-Cooks. Exactly.
+    Mr. Nugent. And my question in follow-up to that would be 
+as relates to the passport, you must know what your markup is 
+on a passport. And you mentioned that that is another area 
+that, as passports change and morph, there is greater 
+opportunity for you to bring more revenue in.
+    What do we expect that to be? I mean, what is our markup on 
+passports today, and what do you expect that to be?
+    Ms. Vance-Cooks. Well, first of all, sir, we don't mark up 
+passports. The price point for a passport is based upon four 
+components. It is based upon capital investment, labor, 
+overhead, and materials. And it is a negotiated price with the 
+Department of State. And the volume of the passports is 
+determined by the Department of State. So it could go up one 
+year and down the other.
+    And that is why we are looking at three other areas of 
+revenue opportunities to take care of the issue. One is the 
+agency customer market. The agency customer market as it exists 
+today for all three products that I described to you is what I 
+would call an untapped opportunity. We currently have a lot of 
+business with the agencies through our print procurement 
+business, but we don't really have all of it. We need to do a 
+better job of targeting the agency customers to let them know 
+about the three categories that we have, the broad range of 
+services that we can provide to them, because unfortunately 
+they think we can only do printing. So we need to take care of 
+that.
+    The second is the electronic content model that we are 
+developing, which is what you just kind of referred to in terms 
+of digital. We have FDsys at our disposal, and it is a powerful 
+content management system. It is just tremendous. As I said 
+earlier, it has 900,000 titles. Obviously, people use it. Forty 
+million documents are downloaded each month. So we have 
+developed a new product, sir, called electronic content 
+services, and this is where we are going to the agencies to 
+tell them we can ingest their content into FDsys. And this 
+would give us content data, metadata; we can create a lot of 
+things with it; we can provide them with public search and 
+display.
+    We think we found something, because we presented this 
+product at the FOSE conference, there was so much interest. We 
+also had a Webinar. We had over 100 customers, agency 
+customers, who expressed interest in it. And we can charge for 
+this.
+    And then the third area would be smart cards, smart card 
+credentials.
+    Mr. Nugent. Well, Madam Chair, and I appreciate your 
+comments, my time has expired. But for the record, if Ms. Cooks 
+could respond as it relates to the digital security, 
+cybersecurity, because we are talking about digital and cyber. 
+You know, where do we stand within the agency in protecting all 
+this information that has been gathered, particularly as it 
+relates to passports and others? And so, if that could be for 
+the record.
+    Mr. Nugent. Thank you. I yield back.
+    The Chairman. Very well.
+    Well, again, we certainly want to thank you. I thank our 
+witness for being here.
+    I guess my just one final observation as the chairman 
+listening to some of the questions here. In regards to your 
+physical space--and I appreciate--I read through your testimony 
+previously. I was listening very closely to what you had said 
+there. But it is my opinion, and I know you don't want to move, 
+but you have to be thinking in terms of being more aggressive 
+about what you do with the space that you have, I believe, 
+because it is about a third of all of your overhead you are 
+spending for the physical building at North Capitol Street 
+here, according to my notes here. Forty million dollars a year. 
+So when you think about consolidation, and you mentioned some 
+of your warehouse spaces that you have, your regional offices, 
+et cetera, some of which you have already made some efforts to 
+consolidate various things there, I think you really need to be 
+more aggressive in thinking about that, because that is a huge 
+expense.
+    And, you know, I am not that familiar with everything that 
+you do there, but, I mean, I know that what is in this 
+Blackberry 40 years ago would have taken up probably a quarter 
+of this room, right, spacewise. And so I know that the 
+technology that is happening in the printing, publishing 
+business has changed very rapidly as well, and so the physical 
+space requirements have changed dramatically. And because that 
+is still such a huge overhead for you, that will be something 
+that this committee will continue to exercise its oversight on 
+is looking at that.
+    As we have all said, I think we want to assist you in ways 
+that we can. And we have some good ideas here together. The 
+ranking member and I both are pledging to work with you with 
+your security situation and those kinds of things. So there is 
+plenty of opportunity here for us to work with your agency to 
+assist you.
+    And, again, I would mention that all Members will have 5 
+legislative days to submit to the chair additional written 
+questions for the witness. And we will ask her to respond as 
+promptly as she can so that those answers can be made part of 
+the record.
+    And at this time the hearing is adjourned. Thank you so 
+much.
+    [Whereupon, at 11:22 a.m., the committee was adjourned.]
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+</pre></body></html>

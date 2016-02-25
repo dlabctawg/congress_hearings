@@ -1,0 +1,1961 @@
+<html>
+<title> - THE FUTURE OF COMMERCIAL MOTOR VEHICLE SAFETY: TECHNOLOGY, SAFETY INITIATIVES, AND THE ROLE OF FEDERAL REGULATION</title>
+<body><pre>
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+
+
+
+
+   THE FUTURE OF COMMERCIAL MOTOR VEHICLE SAFETY: TECHNOLOGY, SAFETY 
+            INITIATIVES, AND THE ROLE OF FEDERAL REGULATION
+
+=======================================================================
+
+                                (114-15)
+
+                                HEARING
+
+                               BEFORE THE
+
+                            SUBCOMMITTEE ON
+                          HIGHWAYS AND TRANSIT
+
+                                 OF THE
+
+                              COMMITTEE ON
+                   TRANSPORTATION AND INFRASTRUCTURE
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED FOURTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             APRIL 29, 2015
+
+                               __________
+
+                       Printed for the use of the
+             Committee on Transportation and Infrastructure
+
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+         Available online at: http://www.gpo.gov/fdsys/browse/
+        committee.action?chamber=house&committee=transportation
+                                  ______
+
+                         U.S. GOVERNMENT PUBLISHING OFFICE 
+
+94-380 PDF                     WASHINGTON : 2015 
+-----------------------------------------------------------------------
+  For sale by the Superintendent of Documents, U.S. Government Publishing 
+  Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; 
+         DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, 
+                          Washington, DC 20402-0001
+
+
+
+
+
+
+
+
+
+             COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE
+
+                  BILL SHUSTER, Pennsylvania, Chairman
+
+DON YOUNG, Alaska                    PETER A. DeFAZIO, Oregon
+JOHN J. DUNCAN, Jr., Tennessee,      ELEANOR HOLMES NORTON, District of 
+  Vice Chair                         Columbia
+JOHN L. MICA, Florida                JERROLD NADLER, New York
+FRANK A. LoBIONDO, New Jersey        CORRINE BROWN, Florida
+SAM GRAVES, Missouri                 EDDIE BERNICE JOHNSON, Texas
+CANDICE S. MILLER, Michigan          ELIJAH E. CUMMINGS, Maryland
+DUNCAN HUNTER, California            RICK LARSEN, Washington
+ERIC A. ``RICK'' CRAWFORD, Arkansas  MICHAEL E. CAPUANO, Massachusetts
+LOU BARLETTA, Pennsylvania           GRACE F. NAPOLITANO, California
+BLAKE FARENTHOLD, Texas              DANIEL LIPINSKI, Illinois
+BOB GIBBS, Ohio                      STEVE COHEN, Tennessee
+RICHARD L. HANNA, New York           ALBIO SIRES, New Jersey
+DANIEL WEBSTER, Florida              DONNA F. EDWARDS, Maryland
+JEFF DENHAM, California              JOHN GARAMENDI, California
+REID J. RIBBLE, Wisconsin            ANDRE CARSON, Indiana
+THOMAS MASSIE, Kentucky              JANICE HAHN, California
+TOM RICE, South Carolina             RICHARD M. NOLAN, Minnesota
+MARK MEADOWS, North Carolina         ANN KIRKPATRICK, Arizona
+SCOTT PERRY, Pennsylvania            DINA TITUS, Nevada
+RODNEY DAVIS, Illinois               SEAN PATRICK MALONEY, New York
+MARK SANFORD, South Carolina         ELIZABETH H. ESTY, Connecticut
+ROB WOODALL, Georgia                 LOIS FRANKEL, Florida
+TODD ROKITA, Indiana                 CHERI BUSTOS, Illinois
+JOHN KATKO, New York                 JARED HUFFMAN, California
+BRIAN BABIN, Texas                   JULIA BROWNLEY, California
+CRESENT HARDY, Nevada
+RYAN A. COSTELLO, Pennsylvania
+GARRET GRAVES, Louisiana
+MIMI WALTERS, California
+BARBARA COMSTOCK, Virginia
+CARLOS CURBELO, Florida
+DAVID ROUZER, North Carolina
+LEE M. ZELDIN, New York
+
+                                  (ii)
+
+
+
+
+
+
+
+  
+
+
+                  Subcommittee on Highways and Transit
+
+                     SAM GRAVES, Missouri, Chairman
+
+DON YOUNG, Alaska                    ELEANOR HOLMES NORTON, District of 
+JOHN J. DUNCAN, Jr., Tennessee       Columbia
+JOHN L. MICA, Florida                JERROLD NADLER, New York
+FRANK A. LoBIONDO, New Jersey        EDDIE BERNICE JOHNSON, Texas
+DUNCAN HUNTER, California            STEVE COHEN, Tennessee
+ERIC A. ``RICK'' CRAWFORD, Arkansas  ALBIO SIRES, New Jersey
+LOU BARLETTA, Pennsylvania           DONNA F. EDWARDS, Maryland
+BLAKE FARENTHOLD, Texas              JANICE HAHN, California
+BOB GIBBS, Ohio                      RICHARD M. NOLAN, Minnesota
+RICHARD L. HANNA, New York           ANN KIRKPATRICK, Arizona
+DANIEL WEBSTER, Florida              DINA TITUS, Nevada
+JEFF DENHAM, California              SEAN PATRICK MALONEY, New York
+REID J. RIBBLE, Wisconsin            ELIZABETH H. ESTY, Connecticut
+THOMAS MASSIE, Kentucky              LOIS FRANKEL, Florida
+TOM RICE, South Carolina             CHERI BUSTOS, Illinois
+MARK MEADOWS, North Carolina         JARED HUFFMAN, California
+SCOTT PERRY, Pennsylvania            JULIA BROWNLEY, California
+RODNEY DAVIS, Illinois               MICHAEL E. CAPUANO, Massachusetts
+ROB WOODALL, Georgia                 GRACE F. NAPOLITANO, California
+JOHN KATKO, New York                 CORRINE BROWN, Florida
+BRIAN BABIN, Texas                   DANIEL LIPINSKI, Illinois
+CRESENT HARDY, Nevada                PETER A. DeFAZIO, Oregon (Ex 
+RYAN A. COSTELLO, Pennsylvania       Officio)
+GARRET GRAVES, Louisiana
+MIMI WALTERS, California
+BARBARA COMSTOCK, Virginia
+BILL SHUSTER, Pennsylvania (Ex 
+Officio)
+
+                                 (iii)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                CONTENTS
+
+                                                                   Page
+
+Summary of Subject Matter........................................   vii
+
+                               WITNESSES
+
+Danny Schnautz, Vice President, Clark Freight Lines, on behalf of 
+  the Owner-Operator Independent Drivers Association:
+
+    Testimony....................................................     6
+    Prepared statement...........................................    45
+    Responses to questions for the record from Hon. Eleanor 
+      Holmes Norton, a Delegate in Congress from the District of 
+      Columbia...................................................    63
+Tom B. Kretsinger, Jr., President and Chief Executive Officer, 
+  American Central Transport, on behalf of the American Trucking 
+  Associations:
+
+    Testimony....................................................     6
+    Prepared statement...........................................    67
+    Responses to questions for the record from Hon. Elizabeth H. 
+      Esty, a Representative in Congress from the State of 
+      Connecticut................................................    78
+William ``Bill'' Reese, Captain, Idaho State Police, on behalf of 
+  the Commercial Vehicle Safety Alliance:
+
+    Testimony....................................................     6
+    Prepared statement...........................................    79
+    Additional comments for the record...........................    92
+Brian Scott, President, Escot Bus Lines, LLC, on behalf of the 
+  United Motorcoach Association:
+
+    Testimony....................................................     6
+    Prepared statement \1\.......................................    95
+LaMont Byrd, Director of Safety and Health, International 
+  Brotherhood of Teamsters:
+
+    Testimony....................................................     6
+    Prepared statement...........................................   108
+    Responses to questions for the record from Hon. Eleanor 
+      Holmes Norton, a Delegate in Congress from the District of 
+      Columbia...................................................   130
+
+          PREPARED STATEMENTS SUBMITTED BY MEMBERS OF CONGRESS
+
+Hon. Elizabeth H. Esty, of Connecticut...........................    43
+
+                       SUBMISSIONS FOR THE RECORD
+
+Hon. Richard L. Hanna, a Representative in Congress from the 
+  State of New York, submission of press release, American 
+  Transportation Research Institute, ATRI Research Finds Truck 
+  Operations and Safety Have Been Impacted by 34-Hour Restart 
+  Provisions, April 29, 2015.....................................    15
+Hon. Grace F. Napolitano, a Representative in Congress from the 
+  State of California, submission of the following documents:
+
+    Letter to Hon. Napolitano from Ron Cottingham, President, 
+      Peace Officers Research Association of California, February 
+      18, 2013...................................................    21
+    Written statement of Lawrence Liberatore, Board Member, 
+      Parents Against Tired Truckers.............................   134
+    Written statement of Ron Wood, Volunteer, Truck Safety 
+      Coalition, and Member, Entry-Level Driver Training Advisory 
+      Committee, Federal Motor Carrier Safety Administration.....   136
+    Written statement of Frank Wood, Volunteer, Truck Safety 
+      Coalition..................................................   138
+
+----------
+\1\ The appendix to Mr. Scott's prepared statement can be found online 
+at the U.S. House of Representatives Document Repository at http://
+docs.house.gov/meetings/PW/PW12/20150429/103351/HHRG-114-PW12-Wstate-
+ScottB-20150429.pdf.
+
+
+
+    Written statement of Joan Claybrook, Cochair, Advocates for 
+      Highway and Auto Safety....................................   140
+    Letter to House Committee on Appropriations from five Idaho 
+      groups in opposition to special interest truck safety 
+      exemptions in the fiscal year 2016 THUD appropriations 
+      bill, May 12, 2015.........................................   159
+    Letter to House Committee on Appropriations from Parents 
+      Against Tired Truckers and Citizens for Reliable and Safe 
+      Highways imploring the removal of all anti-truck safety 
+      provisions in the fiscal year 2016 THUD appropriations 
+      bill, May 12, 2015.........................................   161
+Hon. Reid J. Ribble, a Representative in Congress from the State 
+  of Wisconsin, submission of a Federal Motor Carrier Safety 
+  Administration study summary of truck stopping distances.......    32
+
+                        ADDITIONS TO THE RECORD
+
+American Bus Association, written statement of Peter J. Pantuso, 
+  President and Chief Executive Officer..........................   165
+Associated General Contractors of America, written statement.....   167
+Uline, written statement of Elizabeth Uihlein, President.........   171
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+ 
+   THE FUTURE OF COMMERCIAL MOTOR VEHICLE SAFETY: TECHNOLOGY, SAFETY 
+            INITIATIVES, AND THE ROLE OF FEDERAL REGULATION
+
+                              ----------                              
+
+
+                       WEDNESDAY, APRIL 29, 2015
+
+                  House of Representatives,
+              Subcommittee on Highways and Transit,
+            Committee on Transportation and Infrastructure,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to notice, at 2:31 p.m. in 
+room 2167, Rayburn House Office Building, Hon. Sam Graves 
+(Chairman of the subcommittee) presiding.
+    Mr. Graves of Missouri. We will go ahead and call the 
+hearing to order. I appreciate everybody being here today, and 
+we are going to focus on the future of motor carrier safety. 
+And it is important to note at the outset that the safety 
+record of commercial motor carriers and motorcoach operators 
+has improved dramatically since the Federal Motor Carrier 
+Safety Administration was established in 1999.
+    According to the FMCSA's most recent ``Large Truck and Bus 
+Crash Facts,'' the number of large trucks and buses involved in 
+fatal crashes decreased by 17 percent and 4 percent, 
+respectively, from 2003 to 2013. Industry, drivers, and the 
+enforcement community alike deserve the credit for all of these 
+achievements.
+    Congress, and this committee in particular, has played an 
+important role as well, from creating the FMCSA to focus 
+specifically on truck and bus safety, to authorizing the Motor 
+Carrier Safety Assistance Program, which provides resources for 
+States to enforce Federal commercial motor vehicle regulations. 
+I am concerned, however, about the growing scope and number of 
+new regulations being placed on the industry. Just in the past 
+few years, the agency has imposed new hours-of-service 
+regulations; implemented the controversial CSA program; and, at 
+the direction of Congress, it has imposed new equipment 
+mandates on both truck and bus operations and operators.
+    I am also concerned about the growth of FMCSA. The budget 
+for the agency has more than doubled since fiscal year 2001, 
+its first full year of operation, and stands at $572 million. 
+While I support a strong safety program, we need to ensure that 
+funds are being spent on initiatives that will move the needle 
+in terms of reducing crashes, injuries, and fatalities on the 
+Nation's highways. Of particular concern to me is a recent 
+regulatory proposal to raise the minimum levels of financial 
+responsibility, potentially by millions of dollars.
+    As this committee continues to work on the long-term 
+surface transportation reauthorization, we should examine what 
+additional safety technologies and initiatives and commonsense 
+reforms to the regulatory process could be employed to further 
+reduce crashes, injuries, and deaths attributable to commercial 
+motor vehicles, if more regulation is needed--or should 
+Congress concentrate to a greater extent on providing the right 
+incentives for truck and bus operators to operate safely?
+    We are grateful that each of the stakeholders represented 
+today has developed thoughtful policy recommendations, and look 
+forward to a robust debate over the specific proposals. From 
+providing greater flexibility to State enforcement agencies, to 
+encouraging the development and deployment of active safety 
+systems and reforming the way FMCSA undertakes rulemakings, 
+various proposals deserve robust debate and some serious 
+consideration.
+    I am hopeful that today's hearing is going to provide our 
+subcommittee members with insight into the broad spectrum of 
+proposals to continue improving motor carrier safety and inform 
+this committee's work as we develop a long-term surface 
+transportation reauthorization bill. And I look forward to 
+hearing from our witnesses.
+    And I now recognize Ms. Norton for her opening statement.
+    Ms. Norton. Thank you very much, Chairman Graves, for 
+scheduling this hearing. This is an important hearing. And I 
+congratulate you, because it is the first hearing under your 
+leadership. And I look forward to working closely with you.
+    I recognize, Mr. Chairman, that both you and Chairman 
+Shuster want a long-term highway bill. So before I say anything 
+about the direct subject matter, important vehicle safety 
+issues, I must express the frustration I am hearing, not only 
+in my district, but from around the country, about the delay, 
+or what appears to be delay, in getting through this committee 
+a long-term surface transportation authorization bill.
+    Mr. Chairman, if not a long-term bill--for example, a 4-
+year bill, and I have been here when there have been 6-year 
+bills--certainly a longer term bill than the past, the very 
+short bill that was passed in 2012. We need the longest term 
+bill possible. It is inconceivable to me that we are 10 days 
+away from May 31st, the date the deadline expires. And I have 
+seen no indication that, during this period, there has been 
+movement on even trying to get a bill.
+    That is what is most troubling to me, Mr. Chairman. And it 
+is particularly frustrating, now that we are full into the 
+construction season. And there is no certainty of the future of 
+a highway and transit program with funding, whatsoever, that we 
+have been able to transmit to State and local governments. So, 
+what do we see them doing? They are already slowing down 
+projects that have been long delayed.
+    I also do not see the search for a sustainable solution to 
+shore up the Highway Trust Fund. We know what happened with the 
+solution we have been using for 50 years; we ran out of funds, 
+and funds had to be transmitted from the Treasury in order to 
+just get through the authorized period. The Congressional 
+Budget Office estimates that the shortfall, if we use that 
+approach, is $174 billion over the next 10 years. And that is 
+just to maintain funding levels, without doing anything about 
+what have become now increasingly urgent needs in our State and 
+localities.
+    The gap for a 6-year bill at current levels is $92 million. 
+And if you want to see that increase, the longer we hold up, 
+the more expensive whatever bill we put out will be. So you 
+would think that there would be every effort to contain the 
+cost by getting a bill out on the streets now.
+    The real test is how quickly Congress moves after we pass 
+whatever extension we do, of course, to find a funding plan for 
+a long-term bill. I know that Chairman Shuster stands firm in 
+wanting our committee and our subcommittee to move a robust, 
+long-term bill. It is up to the Republican leadership and the 
+tax-writing committees to come to the table and show that they 
+are serious, as well.
+    Today's hearing, of course, is about the future of motor 
+carrier safety. This is a subject that I am very interested in, 
+and particularly the innovative technologies and new ideas that 
+I have begun to hear about to raise the bar on safety. I hope 
+this hearing, however, is a refreshing change from what has 
+become the norm on truck and bus issues: endless requests for 
+exemptions and calls to block DOT safety rules.
+    There is, no doubt, room for some improvement on many rules 
+that the Federal agencies have issued. But, rather than calls 
+to eliminate regulation, as has become the norm, we should be 
+challenging industry, DOT, and stakeholders to sit down, be 
+creative, work toward a common goal, and utilize their 
+resources in a way that will have the most positive effect on 
+safety.
+    I know we can do this. This is not an impossible task. I am 
+very interested to hear about steps in the right direction. For 
+example, DOT recently convened a negotiated rulemaking 
+committee to develop a rule on driver training. More robust 
+driver training is something Congress has directed DOT to 
+consider for nearly 25 years. The first directive was in a bill 
+in 1991. To say this rule is overdue is putting it fairly 
+mildly. I hope that this new committee can facilitate a rule 
+that all parties can agree to, which will expedite DOT's 
+publication of the rule, and limit litigation once it is 
+finalized.
+    I would also like to recognize, finally, Mr. Chairman, the 
+dedication of safety advocates and family members of truck 
+accident victims who come to Members of Congress and continue 
+to work tirelessly to educate Congress and the public. Their 
+stories help to heighten our awareness of the real-world 
+impacts that policy decisions have on our constituents' lives. 
+I welcome their presence here today, as we discuss this issue.
+    Mr. Chairman, I may have to leave because of the Rules 
+Committee, but I will certainly return. And, again, I thank you 
+for this hearing.
+    Mr. Graves of Missouri. Thank you, Ranking Member Norton.
+    I am very pleased to have Ranking Member DeFazio with us, 
+and I would yield to him for an opening statement.
+    Mr. DeFazio. Thanks, Mr. Chairman. First and foremost, 
+congratulations on taking over the very important Subcommittee 
+on Highways and Transit. This, I think, is your first official 
+hearing. And so, congratulations on that. It is an appropriate 
+subject.
+    You know, I am also looking forward to working with you on 
+a long-term, robustly funded surface transportation bill. I 
+think everybody in the audience should clap at that point.
+    I delved very deeply into highway and motor carrier safety 
+during my 4 years as chairman of the subcommittee. We held nine 
+hearings. Many of the problems we investigated--development of 
+the CSA, drug testing, medical qualifications of drivers, bus 
+safety, truck size and weight, FMCSA's oversight of carriers--
+it is all, unfortunately, still very much a work in progress. 
+Very little has been settled.
+    Since FMCSA was created, Congress has continuously 
+legislated in this area. In MAP-21 alone, we directed FMCSA to 
+undertake 41 regulatory changes, most of which required 
+rulemaking. We keep mandating lots of activity. And today it 
+seems to have resulted in less clarity for the industry, and a 
+wide variety of stakeholders. I think we can do better.
+    The title of this hearing is ``The Future of Commercial 
+Motor Vehicle Safety,'' and I hope some forward-thinking ideas 
+come out of this hearing. I am very open to solutions that 
+allow flexibility, while advancing safety, and helping drivers 
+do their jobs more efficiently. And I think, in order to look 
+holistically at safety, we have got to look at the realities 
+and the pressures on the ground or on the highway and the 
+industry, and understand what drives decisionmaking and 
+behavior by companies and drivers.
+    And Federal rules are just one part of that. You know, 
+temporarily blocking FMCSA efforts or granting exemptions may 
+provide some degree of relief or advantage to one segment of 
+the industry or another, but it is a Band-Aid approach. It is 
+not what we should be doing, long term.
+    Let's take an example. And I spent some time on this issue: 
+hours of service. FMCSA's regulations are incredibly difficult 
+to understand. You know, for our economy to thrive, we can't 
+hamstring companies with overly prescriptive rules. At the same 
+time, hours of service are the basic wage and hour laws for the 
+men and women whose office is the highway, and they aren't 
+eligible for overtime under the Fair Labor Standards Act. And 
+we need to address the, really, very important potential for 
+fatigued drivers on the highways.
+    But I don't think we can get there until we address some 
+underlying issues, such as detention time. Changes in hours-of-
+service rules will have limited impact, if we haven't dealt 
+with detention time, particularly as it relates to independent 
+and small-business drivers. The truck driver gets to the 
+loading dock, shipper facility, they can sit there, say, 3 
+hours, sometimes even more, waiting. But it counts against 
+their daily and weekly on-duty limits. And most truck drivers 
+are paid by the load, rather than a set wage, particularly the 
+independent and small business. So these drivers often face the 
+impossible choice between earning less money than they need to 
+stay in business, despite working a 14-hour day, or violating 
+hours-of-service rules, or shaving them a little bit.
+    That is a problem that should be dealt with. We used to 
+have rules to deal with that. There is no incentive on the 
+other side of these loads any more, without detention time pay, 
+to be efficient for the drivers. It is better with the bigger 
+companies, because they can really carry some clout there. But, 
+for a lot of the small business and independents, it is a very 
+real problem.
+    I have introduced legislation on the detention time in the 
+past, you know, because we owe it to drivers to get the rules 
+right, to combat fatigue, and to give them a fair shot at 
+making a good living. And if the current rules don't get to 
+that goal, then Congress needs to look at other solutions.
+    I look forward to hearing some innovative ideas. I thank 
+the witnesses for their somewhat voluminous testimony. I did 
+read it all on the airplane yesterday. Luckily, I had a 5-hour 
+flight. And coffee.
+    [Laughter.]
+    Mr. DeFazio. But there are some very interesting premises 
+in there. I do find some differences of opinion on some 
+critical issues, and hopefully that will come out during the 
+hearing today.
+    Thank you, Mr. Chairman.
+    Mr. Graves of Missouri. Thanks, Ranking Member DeFazio.
+    So, I would like to welcome all of our witnesses here. And 
+I know some of you traveled a long ways, and we obviously 
+appreciate that. I am very--I am especially pleased to 
+introduce Tom Kretsinger, who hails from the Kansas City area. 
+Tom joined the family business in 1981, after graduating from 
+law school, and has served as the president of American Central 
+Transport since 2005. It is a truckload carrier operating over 
+300 trucks. Tom is an active member of the American Trucking 
+Associations, serving on its ATA Executive Committee and board 
+of directors, and chairing the ATA Litigation Center. He is a 
+previous chairman of the Truckload Carriers Association, and 
+serves on TCA's board of directors.
+    Tom, welcome to the committee.
+    I would also like to welcome our other panelists, Mr. Danny 
+Schnautz, vice president, Clark Freight Lines, and he is here 
+on behalf of the Owner-Operator Independent Drivers 
+Association; Captain Bill Reese, with the Idaho State Police, 
+on behalf of the Commercial Vehicle Safety Alliance; Mr. Brian 
+Scott, who is president of Escot Bus Lines, on behalf of the 
+United Motorcoach Association; and Mr. LaMont Byrd, who is the 
+director of safety and health, International Brotherhood of 
+Teamsters.
+    I would ask unanimous consent that our witnesses' full 
+statements be included in the record.
+    [No response.]
+    Mr. Graves of Missouri. And, without objection, that is so 
+ordered.
+    And since your written testimony is going to be made a part 
+of the record, the committee would ask that you please limit 
+your testimony to 5 minutes.
+    And, with that, Mr. Schnautz, we will start with you.
+
+  TESTIMONY OF DANNY SCHNAUTZ, VICE PRESIDENT, CLARK FREIGHT 
+  LINES, ON BEHALF OF THE OWNER-OPERATOR INDEPENDENT DRIVERS 
+   ASSOCIATION; TOM B. KRETSINGER, JR., PRESIDENT AND CHIEF 
+EXECUTIVE OFFICER, AMERICAN CENTRAL TRANSPORT, ON BEHALF OF THE 
+    AMERICAN TRUCKING ASSOCIATIONS; WILLIAM ``BILL'' REESE, 
+   CAPTAIN, IDAHO STATE POLICE, ON BEHALF OF THE COMMERCIAL 
+  VEHICLE SAFETY ALLIANCE; BRIAN SCOTT, PRESIDENT, ESCOT BUS 
+LINES, LLC, ON BEHALF OF THE UNITED MOTORCOACH ASSOCIATION; AND 
+   LAMONT BYRD, DIRECTOR OF SAFETY AND HEALTH, INTERNATIONAL 
+                    BROTHERHOOD OF TEAMSTERS
+
+    Mr. Schnautz. Thank you. Good afternoon. My name is Danny 
+Schnautz, and I appreciate the opportunity to testify on behalf 
+of the Owner-Operator Independent Drivers Association.
+    My experience in the trucking industry covers over 30 
+years, and has given me the opportunity to work as a long-haul 
+trucker operating across the United States, as well as in motor 
+carrier management. Additionally, I am a reserve sheriff's 
+deputy captain and a pilot.
+    OOIDA represents the small-business truckers that are the 
+majority of the trucking industry. More than 90 percent of U.S. 
+carriers own 20 or fewer trucks, and half of all carriers are 
+1-truck operations. The average small-business trucker has 
+driven more than 20 years and 2 million accident-free miles.
+    This hearing comes at a critical time for the future of 
+motor carrier safety policy. Instead of a reasoned 
+understanding and approach to improving highway safety by 
+addressing the key factors behind at-fault truck crashes, FMCSA 
+policy enforcement is driven by a goal of absolute compliance 
+with the letter of every single regulation, no matter the 
+connection to at-fault crashes. This is a huge missed 
+opportunity to achieve greater safety results at a lower 
+regulatory burden.
+    This focus on compliance with each of hundreds of 
+regulations is the genesis for many of the FMCSA's most recent, 
+most costly, and most flawed regulatory and enforcement 
+policies, including changes to hours-of-service rules, 
+technology mandates, and the Compliance, Safety, Accountability 
+program called CSA.
+    ``We were compliant, and we were legal, but we weren't 
+safe.'' A major carrier CEO said this recently, and he couldn't 
+be more correct. Under its current methodology, CSA 
+inaccurately paints safe, small carriers as unsafe, reducing 
+access to business, and opening them up to misguided 
+enforcement activities. Meanwhile, truly unsafe carriers that 
+crash frequently get ignored.
+    Two examples illustrate the flaws of FMCSA's current 
+approach. Recently, one of my company's trucks was inspected by 
+a Texas State trooper. Although the truck was in stellar 
+condition, an inspection violation impacting our CSA score was 
+issued, because the trooper determined that the decals for two 
+digits of the truck's USDOT number were unreadable. Also, at a 
+recent safety meeting, rather than discuss topics that would 
+actually relate to safety outcomes, such as breaking down the 
+preventative actions a driver could have taken to avoid a 
+crash, or highlighting proper following distance, because of 
+CSA we train drivers on the proper completion of a form.
+    One of OOIDA's greatest concerns is that the FMCSA's 
+approach will force many of the safest drivers and carriers out 
+of the industry, because it inhibits them from being successful 
+small business owners. These are small business truckers with 
+every incentive to operate safely.
+    The current focus on technology initiatives actually 
+hinders safety by placing more pressure on drivers when they 
+are already caught between a regulatory rock and an economic 
+hard place. Technology is not a substitute for skilled 
+professional drivers, as it results in drivers more focused on 
+not triggering an alert than on making smart, safe driving 
+decisions. With technology in the name of safety further 
+devaluing the skill of the driver, the longstanding approach by 
+the entire supply chain to pay drivers for their productivity, 
+not their value, pushes for more miles and decreases safety.
+    In addition to today's hyper-focus on compliance and 
+technology, the FMCSA is also advancing an action that directly 
+targets small carriers, and will result in no safety benefit. 
+OOIDA is opposed to a likely 500-percent increase in motor 
+carrier financial responsibility requirements, and we thank 
+Chairman Graves for his help in combating this effort. This 
+change will cause annual truck premiums to increase by $10,000 
+or more, despite FMCSA's own data showing that the cost of 99 
+percent of truck-involved crashes are covered currently.
+    Instead of these approaches, OOIDA sees the upcoming 
+highway reauthorization as an opportunity to set into motion 
+needed changes to FMCSA policy and enforcement priorities. A 
+top goal should be an effectiveness review of existing FMCSA 
+regulations, many of which have been on the books for decades 
+with no evaluation on their impact to safety.
+    Second, Congress should require any new regulations to be 
+focused on addressing a specific problem and, based upon 
+research, reflecting the entire industry, not just the 
+experience of large motor carriers.
+    Critically, as the GAO and others have recommended, CSA 
+scores should be removed from public view until the FMCSA 
+corrects the accuracy of the program's data and methodology. We 
+are grateful to Congressman Barletta for his safety-focused 
+bill on this issue, and the committee's work on a long-term 
+reauthorization.
+    Thank you for the opportunity to testify, and for holding 
+today's hearing.
+    Mr. Graves of Missouri. Thank you very much.
+    Now we will move to Mr. Kretsinger.
+    Mr. Kretsinger. Thank you very much. Chairman Graves, 
+Ranking Member Norton, members of the subcommittee, I am Tom 
+Kretsinger, president and CEO of American Central Transport. 
+Today I testify on behalf of American Trucking Associations, 
+the largest trade association for the trucking industry, 
+representing more than 35,000 member companies. I will speak 
+today about the trucking industry's positive safety record, and 
+about a fundamental change in the Government's approach to 
+truck safety that is needed to continue this long-term trend.
+    The truck-involved fatality rate has decreased 74 percent 
+since 1975, and in the last decade alone, has dropped 38 
+percent. Continuous improvement will require an acknowledgment 
+of the principal causes of truck crashes and appropriate 
+countermeasures. The vast majority of truck crashes are the 
+result of driver errors, not vehicle defects. FMCSA's crash 
+causation study found driver error was a critical reason behind 
+87 percent of crashes studied. Many improvements will also 
+require a broadened approach from the current rules and 
+enforcement-centric model to one promoting voluntary adoption 
+of safety technologies and initiatives.
+    ATA believes the discussion of the most effective ways to 
+improve truck safety falls into three categories: rules, 
+enforcement, and a new partnership.
+    ATA has a proud history of supporting new commonsense 
+safety rules. ATA was an early advocate of mandatory drug and 
+alcohol testing, the CDL program, and the upcoming drug and 
+alcohol clearinghouse. ATA continues to call for regulatory 
+initiatives to improve safety.
+    Regarding these regulations, ATA supports a proposed rule 
+to mandate electronic logging devices to track hours-of-service 
+compliance, a pending rule to mandate stability control 
+devices, with some flexibility to account for the diversity of 
+the industry. ATA is also eager to see a proposed rule calling 
+for mandatory speed limiters on trucks, since vehicle speed is 
+the greatest contributor to highway crashes.
+    Finally, recognizing the role of driver behavior in 
+crashes, FMCSA should make development of a national system to 
+alert motor carriers to moving violations and license 
+suspensions one of the agency's top priorities.
+    Turning to enforcement, continuation of long-term 
+improvement in truck safety will require a change in the 
+Government's enforcement approach. Despite clear evidence 
+driver behavior is responsible for the majority of crashes, 
+Federal funding for on-road truck enforcement is predominantly 
+spent on inspecting vehicle condition, not traffic enforcement. 
+Government research shows traffic enforcement, coupled with a 
+limited inspection, is at least four times more effective in 
+preventing crashes and saving lives. Yet FMCSA data reflects a 
+steep decline in enforcement activity. FMCSA's current safety 
+efforts are largely limited to compliance and enforcement.
+    The agency should use a carrot and stick, but is focused on 
+using the stick. This approach is limited in its effectiveness, 
+and does not address ways to compel positive behavioral change. 
+Government should partner with us to promote voluntary adoption 
+of innovative safety tools and technologies. In short, 
+Government could establish criteria for meeting a gold standard 
+and reward the fleets that made it.
+    Government incentives can accelerate adoption of new tools 
+and technologies already being embraced by the industry. Among 
+the more promising technologies are video event recorders. 
+These devices, mounted on a windshield, can monitor what occurs 
+inside and outside a vehicle. Records are saved when risky 
+driving or collisions are detected, and a supervisor is 
+subsequently alerted. My company is a good example. We are 
+currently employing these technologies, voluntarily, and it is 
+really helping. We have seen a 64-percent reduction, both in 
+the number of events and the severity of events, all while 
+increasing the number of units in our trucks.
+    Mr. Chairman, we are eager to work with the Government on 
+more creative safety approaches.
+    Thank you for the opportunity to testify.
+    Mr. Graves of Missouri. Thank you very much.
+    Captain Reese?
+    Mr. Reese. Thank you, Mr. Chairman, members of the 
+subcommittee. Thank you for holding this important hearing, and 
+for inviting the Commercial Vehicle Safety Alliance to testify. 
+My name is Bill Reese, and I am a captain with the Idaho State 
+Police. I currently serve as the president of CVSA.
+    The alliance represents the jurisdictions responsible for 
+the enforcement of commercial motor vehicle safety laws in the 
+U.S., Canada, and Mexico. As Congress considers the future of 
+CMV safety, we believe there are a number of opportunities to 
+make changes that will help advance our collective goal of 
+reducing crashes and saving lives. Most critical is giving the 
+States more flexibility to design and implement programs that 
+improve CMV safety. Our top priority is saving lives, but we 
+also have a responsibility to meet a long list of requirements 
+under the Motor Carrier Safety Assistance Program, and to 
+enforce the associated safety regulations, doing all of this 
+with limited resources.
+    A State's commercial vehicle safety program is comprised of 
+a number of aspects, including roadside inspections, traffic 
+enforcement on commercial motor vehicles, compliance reviews, 
+safety audits, targeted strike forces, educational activities, 
+and even traffic enforcement on private citizens operating 
+dangerously around commercial motor vehicles. The appropriate 
+level for each activity varies from State to State, and changes 
+over time. States need the ability to design a comprehensive 
+CMV safety program that uses creative solutions to address 
+issues unique to that State.
+    That is not to say that the States should not be held 
+accountable. Congress and FMCSA should focus on setting broad 
+parameters, program elements, goals, and expected outcomes, and 
+then hold the States accountable for meeting program goals, 
+using our annual commercial vehicle safety plan.
+    We also support consolidating and streamlining the grants, 
+which will reduce administrative burden on the States and 
+provide more stability. This will enable States to spend more 
+time and resources on doing the work of their program, rather 
+than administering it.
+    We also believe more work needs to be done to update and 
+clean up the Federal regulations, which will benefit both 
+enforcement and industry.
+    Clarity, consistency, uniformity, and enforceability are 
+the cornerstones of an effective regulatory framework. However, 
+over time, additional regulatory authority, coupled with 
+changes to the industry and technology, can result in 
+inconsistent, outdated, and redundant regulatory language. To 
+address this, CVSA supports requiring that FMCSA conduct a full 
+review of the Federal regulations every 5 years, in 
+collaboration with CVSA and industry. This will help with 
+streamlining the regulations, eliminating outdated or redundant 
+regulations, and clarifying those that need adjustment.
+    Work is also needed to bring the safety regulations in line 
+with regulatory guidance, interpretations, and policy memos 
+issued by the agency. While this puts additional administrative 
+burden on FMCSA, maintaining the regulations is one of the 
+agency's core responsibilities, and the benefits and savings 
+that will accrue for enforcement, industry, and the public 
+justify this endeavor.
+    Congress should also consider eliminating or minimizing the 
+number of legislative exemptions in the future. Legislative 
+exemptions complicate enforcement and have no safety oversight.
+    Finally, maximizing technology and improving data quality 
+can help capitalize on existing enforcement activities, as well 
+as industry investments. It is imperative that those in the 
+safety and enforcement communities take full advantage of 
+technology to improve safety. New technologies like license 
+plate readers and virtual inspection locations can expand 
+enforcement's footprint, allowing a jurisdiction to cover more 
+miles and more drivers and vehicles than it can with inspectors 
+at fixed facilities, alone.
+    And we fully support policies that encourage industry to 
+deploy technologies that can assist in preventing and 
+mitigating crashes, such as vehicle stability and collision 
+warning systems. It should be noted, though, that any new 
+requirements on States or industry must be developed with the 
+enforcement community in mind. Deployment of systems and 
+devices will only be effective if they are functioning, and 
+used properly.
+    One last note. We provided a number of recommendations on 
+how to improve the future of CMV safety, which we hope will be 
+helpful as this committee works on the next transportation 
+bill. However, even with streamlined grants, clear regulations, 
+top-quality data, and full use of all available technology, the 
+State programs cannot be effective without adequate funding. 
+Funding for State CMV programs must keep pace with the growing 
+motor carrier industry.
+    That concludes my testimony. Thank you for the opportunity 
+to testify.
+    Mr. Graves of Missouri. Thanks, Captain.
+    Mr. Scott?
+    Mr. Scott. Thank you. Chairman Graves, Ranking Member 
+Norton, members of the subcommittee, on behalf of members of 
+the United Motorcoach Association, thank you for calling this 
+hearing today, and for the opportunity to represent the bus and 
+motorcoach industry in my testimony. This committee has a long 
+and distinguished record of promoting commercial motor vehicle 
+safety in a reasonable and defensible regulatory climate.
+    I am the president of Escot Bus Lines, a second-generation, 
+family-owned and operated bus and motorcoach company with 
+offices and facilities located throughout central Florida. Like 
+most bus companies, we started small when my parents, Louis and 
+Diane Scott, purchased two mini-buses in 1983. Currently, we 
+operate a fleet of 84 motorcoaches.
+    Mr. Chairman, I want to frame this conversation from one 
+critical perspective: bus and motorcoach travel is extremely 
+safe. Percentagewise, large buses account for less than one-
+tenth of 1 percent of the annual highway fatality toll. This 
+remarkable safety record is no small achievement, and is 
+largely attributable to the vigilance and dedication of the men 
+and women that drive, maintain, own, and manufacture our 
+equipment. In a nutshell, our business is moving people safely, 
+timely, and economically.
+    The Federal Motor Carrier Safety Administration also plays 
+a critical role in facilitating interstate commerce and 
+ensuring the safety of commercial motor vehicles. However, UMA 
+is increasingly concerned that the culture of the agency, 
+through its actions, have not served the cause of public 
+safety, and have been harmful to existing bus and motorcoach 
+carriers and the continued growth and health of the industry.
+    We are concerned enough to worry about the continued 
+viability of this important transportation sector. For the 
+first time I can recall in my 30-plus-year career, the Nation's 
+motorcoach industry is in decline. A recent census report by 
+John Dunham and Associates for the American Bus Association 
+Foundation concluded that in 2013 the number of motorcoach 
+companies decreased by nearly 5 percent, a loss of 153 carriers 
+in that year alone. Total passenger trips by motorcoach in the 
+U.S. declined by a whopping 32 million.
+    You may believe the regulatory climate at FMCSA is a 
+significant contributing factor. The biggest issue to UMA is 
+the current regulatory climate at FMCSA. Let me share a real-
+life example of the negative impacts of the current hostile 
+enforcement posture of FMCSA.
+    Another example is Jeff and Judy Rodgers, who together 
+founded Southeastern Tours in North Carolina over two decades 
+ago. The company passed compliance reviews with satisfactory 
+ratings in 2003, 2005, and in 2010. The last review began very 
+differently, when the FMCSA representative stated, ``I am going 
+to warn you now that we have done five audits like this, and we 
+have put four out of business.''
+    Paperwork snafus, in combination with other correctable 
+deficiencies, led the company being placed out of service. A 
+long, miserable trail of employee layoffs, equipment 
+repossessions, foreclosures, and unpaid creditors are a 
+hallmark of FMCSA's unwarranted, out-of-service orders. Today, 
+Jeff and Judy remain on the sidelines with an uncertain future. 
+Jeff and Judy Rodgers deserve the same opportunity as my 
+parents, Louis and Diane Scott. There are many other examples 
+in my written testimony.
+    The single largest threat to passenger carriers today is 
+FMCSA's decision to propose a potentially massive increase in 
+minimum financial responsibility limits for passenger carriers. 
+MAP-21 directed FMCSA to study the adequacy of current limits 
+and submit their findings in a report to Congress, which, like 
+every State legislative body in the Nation, has historically 
+established requirements. The report failed to include any 
+analysis for passenger carriers, but focused exclusively on 
+trucks, yet suggests limits as high as a 400-percent increase.
+    The suggestion that limits should be increased without any 
+study whatsoever is unconscionable. UMA supports a bill 
+introduced just last night by Congressman Scott Perry that 
+clarifies that passenger limits should be established by 
+Congress, and directs FMCSA to do a comprehensive study of 
+current limits and accident claims history of passenger 
+carriers, consult with both the bus and insurance industries on 
+the study, and submit that study to Congress.
+    FMCSA's CSA program is another concern. If a driver of a 
+car crashes into a legally stopped bus and is killed, nobody 
+believes the bus and driver or company should be held 
+accountable. Yet FMCSA insists on displaying these crashes to 
+the public as a recorded fatal crash, absent any specific 
+context. The display of nonpreventable crashes to the public is 
+malicious, irresponsible, discouraging for motor carriers, and 
+misleading to the public.
+    These flaws are not just UMA's views, but GAO agrees. The 
+GAO report of February 2014 concluded that ``...FMCSA 
+identified many carriers as high risk that were not later 
+involved in a crash, potentially causing FMCSA to miss 
+opportunities to intervene with carriers that were involved 
+with crashes.'' My company received a violation, citing us with 
+failing to display the ``LLC'' at the end of our name. In 
+another instance, finding no violations in a recent inspector 
+of a driver in a vehicle, an enforcement official decided the 
+restroom was smelly, and the carrier was cited.
+    All too often, we hear enforcement officials say, ``Well, 
+we have to find something.'' In any analysis, safety is not 
+improved, the taxpayer is cheated, and CSA continues 
+irresponsibly.
+    Finally, UMA is concerned about the delays in approving new 
+entrant applicants for operating authority.
+    That concludes my testimony. Thank you very much.
+    Mr. Graves of Missouri. Thank you, Mr. Scott.
+    Mr. Byrd?
+    Mr. Byrd. Chairman Graves, Ranking Member Norton, members 
+of the subcommittee, my name is LaMont Byrd, I am the director 
+of safety and health at the International Brotherhood of 
+Teamsters. As a union representing more than 600,000 commercial 
+drivers, we welcome the invitation to testify today.
+    Our members contend daily with crumbling roads, long work 
+hours, bigger trucks, increased congestion, and poorly trained 
+drivers, all of which undermine safety. In order to ensure 
+highway safety, these issues must be addressed.
+    The current hours-of-service rule is designed to give 
+drivers an opportunity for sufficient rest. It represents two 
+decades of rulemaking, court challenges, and numerous studies. 
+Two critical components of the rule were suspended in last 
+year's cromnibus: the changes to the 34-hour restart provision 
+increases the number of hours that a driver may work from 70 
+hours to over 80 hours per week; and the required consecutive 
+off-duty periods from 1 a.m. to 5 a.m., also suspended, were 
+designed to mitigate cumulative fatigue.
+    With the DOT driver restart study underway, Congress should 
+not consider making either of these provisions permanent. The 
+Teamsters strongly oppose increases to truck size and weight. 
+The industry claims that increasing truck size and weight 
+limits will result in fewer trucks on the road. With every 
+increase, truck traffic has grown as shippers have taken 
+advantage of cheaper rates and divert freight from rail to 
+trucks. Highway design, stopping distances, congestion, and the 
+current condition of our infrastructure are all factors that 
+need to be considered as we debate this issue.
+    The Teamsters Union also opposes increasing 28-foot double 
+trailers to 33 feet. Adding 10 feet to an already elongated 
+tractor-trailer combination decreases maneuverability and 
+visibility, and compromises safety. Congress should not 
+entertain special interest truck size and weight exemptions 
+until it can examine the results of the ongoing comprehensive 
+truck size and weight study.
+    Testing drivers for substance abuse is necessary to keep 
+unfit drivers off the road. But hair testing presents some 
+interesting challenges. Our primary concern is there are no 
+national standards, as with urine testing. Thresholds for 
+positive test results are low to a point where secondhand smoke 
+and environmental exposures to marijuana, for example, could 
+affect test results. Since there are real consequences for 
+those who test positive, it is important to ensure that these 
+tests produce accurate and fair results.
+    Equipping trucks with the latest safety technologies will 
+eventually help reduce truck crashes. Technology such as 
+vehicle stability, lane departure warning, and collision 
+warning systems, can help drivers to avoid accidents. The 
+Teamsters also support electronic logging devices to track 
+hours of service. However, it is important to provide drivers 
+with proper training to ensure a high level of driver 
+acceptance, and that the data used by--collected by these 
+technologies not be used to harass the drivers.
+    For too long, the minimum insurance for motor carriers has 
+remained at $750,000. The 30-year standard has become woefully 
+insufficient, as accidents can easily cost millions of dollars. 
+The Teamsters support raising liability coverage to $4.5 
+million, and indexing it to inflation of medical costs. In that 
+same vein, the Teamsters Union has serious concerns about 
+attempts to create a national hiring standard for motor 
+carriers. While we appreciate the challenges that shippers and 
+brokers experience in determining what constitutes a safe motor 
+carrier, proposed legislation is overly broad in that it 
+imposes no liability for negligent selection of a motor 
+carrier.
+    Fixing DOT's safety rating system is a better solution. 
+Safe operating procedures for motor carriers require 
+accountability. FMCSA's CSA program provides that 
+accountability, and we support it. While not perfect, we 
+believe that it is a major improvement over the previous 
+program. Our members report that, as a result of CSA, they are 
+able to perform more comprehensive pre-trip and post-trip 
+inspections, because carriers are more sensitive to how vehicle 
+maintenance, for example, affects the carrier's CSA score.
+    As I conclude, I want to mention detention time. Teamster 
+drivers are compensated for waiting time, but that is not 
+always the case with nonunion drivers. The longer they wait, 
+the more time they lose, which can affect the time that they 
+have left to drive. These drivers can then feel pressured to 
+violate safety regulations by driving while fatigued.
+    The IBT is committed to keeping our drivers and all others 
+with whom they share the road safe. We look forward to working 
+with you to help grow a transportation network that meets the 
+future needs of this country, moves freight efficiently, and 
+improves safety on our Nation's highways. Thank you.
+    Mr. Graves of Missouri. Thank you, Mr. Byrd. We will now 
+move into questions. We will start with Mr. Hanna.
+    Mr. Hanna. Thank you, Chairman. Mr. Kretsinger and Mr. 
+Schnautz, the--I have a report that came out today from the 
+American Transportation Research Institute that has studied the 
+hours of service, the 34-hour restart rule, that was initiated 
+without the completion of the study last July. And the results 
+are very predictable, based on the nature of the study and the 
+quality of the study. I will give you a quick idea of what it 
+is, I just would like your response.
+    The crash data analyzed shows a statistically significant 
+increase in truck crashes after July 1, 2013. Specifically, 
+with injury and tow-away crashes in particular, the increase in 
+injury and tow-away crashes would be expected, based on 
+shifting of trucks to more congested weekday travel due to 
+increased traffic and exposure. The truck GPS data analyzed 
+identified a shift, because of this rule, from--to daytime 
+hours, and--from nighttime hours to daytime hours, and from 
+weekends to more congested weekdays. All of it could have been 
+anticipated, in my view, and has been widely talked about.
+    So that the--it is--what we are suggesting here--and I 
+would like to submit this for the record--is that this rule 
+actually made the world less safe for people in your industry. 
+And it is, in my view, specifically because they never even 
+bothered to study the change in dynamics of when they were 
+asking people to drive.
+    [The information follows:]
+ 
+ [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mr. Hanna. And I am not asking you to confirm or not, but I 
+would just like your--both of your opinions.
+    Mr. Kretsinger. Thank you, Congressman, for the question. I 
+saw this study this morning, and I think it proves the law of 
+unintended consequences quite well. And it confirms what I hear 
+from talking to my drivers. Average age of our drivers is 50 
+years old, so these men and women have been around a while. And 
+they tell me, when you used to get out of the city, you know, 
+you hit that open road, and it would be kind of relaxing. They 
+tell me they are in traffic pretty much all the time now. And, 
+of course, traffic around them is often on a cell phone.
+    So, I think it is true that pushing--you know, 
+micromanaging the hours the way they have done has pushed more 
+trucks onto the road during weekdays and daylight hours, and 
+that is when the cars are there. And it is not surprising you 
+will have more trouble.
+    Mr. Schnautz. Yes. For sure, the hours-of-service 
+restrictions are flawed, in that they try to predict what a 
+driver is going to be feeling and thinking in the days and 
+weeks and hours ahead, which is impossible to do.
+    I have lived under hours of service, I made a living under 
+hours-of-service regs. So I can tell you that the more 
+flexibility that we have, the better they are. And whenever 
+they put in more restrictions, they do cause more problems, 
+unintended consequences, for sure. But there are so many times 
+when a driver just needs a different hour that day. And every 
+time we reduce that hour availability to him, even if it is not 
+part of a pattern, then we further erode highway safety.
+    Mr. Hanna. The interesting thing is that they have elected 
+to continue the study, and are using the same university to do 
+the study. And it is pretty clear that everybody involved in 
+this is digging in, for lack of a better term, to prove that 
+what we know through this study and all kinds of anecdotal 
+evidence is not true, so that they are engaging in a study they 
+would like us to believe that they will come out with later in 
+the year that is unbelievable on its face because they are 
+hiring the same people to do it again, who are well paid and 
+clearly have decided that, no matter what the world tells them, 
+they are incapable of making a mistake.
+    Thank you for your indulgence. I am over my time, I think.
+    Mr. Graves of Missouri. Ms. Hahn?
+    Ms. Hahn. Thank you, Mr. Chairman. I appreciate you holding 
+this hearing today. This has long been an issue for me on a 
+number of levels, because I represent the Port of Los Angeles. 
+And, along with Long Beach, it is the largest port complex in 
+this country. And one of the moves that I worked on very hard 
+was the idea of off--moving cargo off-peak. And we do have a 
+system at Long Beach and Los Angeles where we are, I think at 
+this point, close to 50 percent of the cargo we are moving in 
+the weekends and in the evenings.
+    We were on the Panel on 21st-Century Freight Transportation 
+of this committee, and one of the recommendations that came 
+from the panel was that ports across the country implement 
+moving cargo in the evenings and the weekends, mainly because 
+it allows our truck drivers to not have to compete with the 
+commuters during rush hour on Monday through Friday. So I think 
+it makes sense. I would like to see that, really, as a policy, 
+nationwide. I think it makes a lot of sense.
+    You know, one of the issues that I--has come to my 
+attention in my port area is the classification of independent 
+contractor for some of the port truck drivers. And I was with 
+them this Monday. They were striking because they felt like 
+there was wage theft and unfair employment practices by 
+categorizing them as independent contractors, as opposed to 
+employees of the country--I mean of the company. And many of 
+these drivers are stuck at the bottom of the economic ladder, 
+while other industry workers around our ports--railroads, 
+longshoremen--are making a good living. These drivers, you 
+know, told me that they are overworked and underpaid, which I 
+think leads to unsafe roads, because of the welfare of the 
+driver.
+    So, Mr. Byrd, for you, some of these port truck drivers 
+have seen victories in courts. And yet, still, I think this 
+unfair practice exists. Again, particularly from my experience 
+around the ports. What do you--is there a role--is there a 
+Federal role in fixing this injustice? And what would that be?
+    Mr. Byrd. Thank you for the question. I think it is a very 
+tough and very challenging issue that you raise. With respect 
+to Teamster drivers, our driver members are typically paid for 
+all of their off-duty time. So I--and then there is this whole 
+idea of paid-for detention time.
+    Ms. Hahn. Right.
+    Mr. Byrd. Which I think is probably a little easier to 
+enforce, should there be a contract between the shipper and a 
+motor carrier, than it would be for an independent driver. So 
+we think it is important to properly classify the drivers, on 
+the one hand.
+    We think that the Federal Motor Carrier Safety 
+Administration is doing rulemaking on coercion that we think 
+might lend itself to helping to resolve this, because it 
+brings--as I understand this proposed rule, it brings shippers 
+into the jurisdiction of the agency. And this might be a way to 
+bring them in and give independent drivers some leverage in 
+dealing with the issue.
+    Ms. Hahn. You know, in terms of the detention time or wait 
+time, again, many of these drivers are only paid sometimes by 
+the load, when they pick it up or drop it off. And yet there 
+was so much wait time, I particularly felt badly for them 
+recently, at the--what was going on at the ports, because of 
+the shippers who gave up the chassis, the ownerships of the 
+chassis, to a third party, which meant the chassis were not 
+where they needed to be for these drivers to pick up the 
+chassis and their load, which gave them more wait time and 
+detention time.
+    Could you--I just have a few seconds left, but could you 
+elaborate on your comment earlier that sometimes these drivers 
+are then pressured to drive more hours?
+    Mr. Byrd. Yes. When you have a situation--and we have 
+talked with the port drivers, also. When you have a situation 
+where you have these extended wait periods, and you are paid by 
+the load, and the shipper expects the product to be moved, they 
+are oftentimes pressured to carry that load, without regard to 
+where they stand with respect to compliance with hours of 
+service. That is a very--a real problem. Again, we think that 
+the coercion rulemaking might help us on that.
+    Ms. Hahn. Thank you. I appreciate that.
+    Well, I think driving a truck is a good career, it ought to 
+be a good career, and ought to be something where someone could 
+earn a good living by driving a truck, moving this country's 
+goods. So thank you, I yield back.
+    Mr. Graves of Missouri. We have had a procedural vote 
+called, so there is just one vote. And what we will do is 
+break, go take that vote. And please come back as promptly as 
+you can, so the witnesses don't have to wait too long. But we 
+should be--just a matter of time to run over there and run 
+back. So we will--so moved.
+    Mr. Graves of Missouri. Mr. Hanna, I recognize you for a 
+motion.
+    Mr. Hanna. Motion to adjourn.
+    Mr. Graves of Missouri. Recess.
+    Mr. Hanna. Recess until after the vote.
+    [Laughter.]
+    Mr. Hanna. So we will be--see you back.
+    Mr. Graves of Missouri. So it has been moved to recess, 
+which--I see no objection. So moved. And we will stand in 
+recess until we get back. It shouldn't be too long.
+    [Recess.]
+    Mr. Graves of Missouri. Thanks, everybody, for your 
+patience. And we will bring this hearing back to order. And we 
+will move to Mr. Barletta for questions.
+    Mr. Barletta. Thank you, Mr. Chair.
+    Captain Reese, as you know, I have been very concerned with 
+FMCSA's Compliance, Safety, Accountability program. I have 
+heard from companies in my district that the scores are flawed 
+and do not provide good information about the safety record of 
+the commercial motor vehicle companies. Many of your fellow 
+panelists' testimony mentioned violations that impact the CSA 
+score, but have little to do with crash risk, such as Mr. 
+Schnautz's comments on the violations for a blanket not being 
+present in a sleeper cab.
+    What are your concerns with the CSA program, and are the 
+safety scores fit for the general public?
+    Mr. Reese. Thank you, Congressman. CVSA supports the 
+legislation you have to remove the scores from public display 
+for a number of reasons. This is--and we sent a letter stating 
+that to FMCSA.
+    CSA is separate from the MCSAP program, and should not 
+force changes. It is beginning to impact our State programs. 
+Motor carriers are now requesting inspections frequently, in an 
+effort to try to get clean inspections and get their scores 
+down. The DataQ process is being affected. It is an unfunded 
+mandate. And it is a growing burden, and it has just increased 
+since we have the citation adjudication to deal with now.
+    There are data quality issues, and this could be fixed by 
+implementing hard coding and SmartLogic software. It is 
+something that we have been encouraging FMCSA to do. Some of 
+the traffic enforcement violations that are committed, and 
+citations issued but no inspections done, that information is 
+not in there.
+    We would like to see the program fully implemented, which 
+would include the safety fitness determination and intervention 
+process. They both remain incomplete. And the bottom line is it 
+was not being used as intended. We have shippers using this to 
+determine whether a carrier is safe, and it was never intended 
+for that. And these are just some examples on why we would like 
+to see the scores come down from public view.
+    Mr. Barletta. Thank you. Just yesterday I finally received 
+a response from DOT Secretary Foxx to my question about the 
+ongoing truck size and weight study. And, in short, it states 
+that the study will not--will not--include an evaluation of the 
+impacts of heavier trucks on our local roads and bridges.
+    This is unacceptable. Heavy trucks today travel about 50 
+billion miles on local roads, the roads that are not being 
+studied. And that amounts to about one-third of all their 
+travel. These are the same local roads excluded from the study 
+that carry about two-thirds of the miles traveled by the public 
+in their cars.
+    Now, compared to our interstates and major highways, these 
+roads are simply not--they are simply built differently. My 
+family was in the road construction business. We built roads 
+and bridges. I know how many inches of concrete are on an 
+interstate, and I know how many inches of asphalt are on a 
+public or local or township road. It is not the same.
+    Mr. Byrd and Mr. Schnautz, both of you represent the 
+drivers and the people driving on our local roads. In your 
+professional experience, what have been the conditions you have 
+experienced driving the first and last mile of your routes on 
+local roads?
+    Mr. Schnautz. First of all, we see a lot of variance in 
+highway markings, in lane size, in ramp radiuses, things like 
+that, which makes it very challenging.
+    Second of all, we do see a lot of substandard roads. We see 
+that on the interstates, too, which is typically in the small 
+towns or any town, whenever you are off of the interstate. We 
+are ready to see lanes that you need to try to avoid because it 
+has the big holes in them, and that is hard on your truck. We 
+are often seeing roads that we can't go down, or have weight 
+limits on them, that challenge us to get where we are trying to 
+go without taking a route that we weren't prepared to take.
+    Mr. Byrd. And I think that our memberships who have 
+operated on the secondary roads have experienced similar--have 
+similar experiences. I think it is pretty clear to us that, 
+oftentimes, these secondary roads are not, you know, quite as 
+safe as a larger interstate.
+    Mr. Barletta. So you agree the secondary roads are more 
+dangerous, as found by The Road Information Program report 
+published last year.
+    Is there anything in your experience that says that these 
+statistics are wrong?
+    Mr. Byrd. There is nothing in my experience or in my 
+discussions with our driver membership that would suggest 
+otherwise.
+    Mr. Schnautz. Secondary roads are more dangerous. We have a 
+lot of different traffic speeds going on. You have a lot of 
+turns. So, for sure, they are more dangerous.
+    Mr. Barletta. And who pays for the secondary roads? The 
+local townships, the municipalities, the cities who are having 
+the most trouble providing services to their people. I was a 
+mayor, too, and I understand that just as well.
+    I am going to press Secretary Foxx to find a way to get 
+answers to these questions about the impact on local roads, 
+because that is what I asked for in the study, and that is not 
+what I am getting. I don't care how long it takes. Congress 
+can't make a decision of this magnitude without knowing how 
+this will impact the safety of our constituents, and the 
+ability of the States and the localities to pay for their 
+critical transportation infrastructure. Thank you, Mr. 
+Chairman.
+    Mr. Graves of Missouri. Mrs. Napolitano?
+    Mrs. Napolitano. Thank you, Mr. Chairman. And thank you to 
+the witnesses.
+    I want to tell Mr. Byrd on the port truck drivers we are 
+with you. We think that this has been an area where the State 
+of California has been long trying to get some clarity and some 
+assistance to these independent truck drivers. So thank you for 
+your help. And I am also very concerned, Mr. Byrd, about the 
+increase in truck size.
+    And, Mr. Chairman, I have an email from highway patrol, of 
+California Highway Patrol, opposing increased truck weights, 
+because it creates much more violent and damaging crashes, and 
+it goes on to give other information. And also, the Peace 
+Officers Research Association sent a letter in, actually, in 
+February 2013 in regard to the same thing, saying that they 
+oppose efforts to increase truck size and weight. For the 
+record?
+    [No response.]
+    Mrs. Napolitano. Mr. Chairman, the letters for the record?
+    Mr. Graves of Missouri. Without objection.
+  
+  [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mrs. Napolitano. Thank you, sir. And the issue was raised 
+when I was in the State Assembly of California, back in the 
+nineties, and the truck weights and sizes, the effect of 
+stopping distances, the braking, the vehicle stability control, 
+many of the highways and on-ramps and off-ramps in California 
+just cannot handle the large trucks. And I know a couple years 
+ago there was an effort to increase the tandem 53-footers, and 
+we also opposed that, simply because our on-ramps, off-ramps, 
+and highways are not able to handle the tandem 53-footers.
+    The fact that it does save lives--and there are a couple of 
+people in the audience who have young--who have had family 
+members killed in accidents, and I think we need to, Mr. 
+Chairman, allow them to have an entry into the record about the 
+reason why they feel it is a necessity to be able to allow the 
+general public to have a weigh-in on this, because it is their 
+safety we are talking about.
+    So, the other thing, Mr. Byrd, is DOT recently decided to 
+allow Mexican truck companies to apply for authority to operate 
+long-haul trucking services in the United States. And we went 
+over that issue a couple years back, here in this committee. It 
+based its decision on the results of a pilot required by the 
+Congress that determined the safety of long-haul trucking 
+operations beyond the border in the U.S. But the inspector 
+general issued a report saying DOT reached its conclusion based 
+on unreliable data, that the small sample of participating 
+motor carriers was not sufficiently representative to allow DOT 
+to apply the study results to all Mexican truck companies.
+    Well, fortunately, NAFTA requires it, if I remember 
+correctly. This is one of the parts of the agreement, is--but 
+we need to be sure that, if we are going to allow these 
+trucking companies, that they meet all the safety requirements 
+that we have on our trucking companies and all of our 
+operations. And if you believe that limited inspections 
+conducted on these trucks during the pilot program provided 
+enough information to support DOT's decision to allow them on 
+our U.S. roads.
+    And, Mr. Schnautz, would you comment on that?
+    Mr. Schnautz. Yes, I would be happy to. No, we do not think 
+that the inspections and the data that are being used to open 
+that border up are at all adequate. We saw a lot of 
+nonconformances in inspections during the program. We pointed 
+those out. And it wasn't even really meeting the definition of 
+a pilot program, because of the way it was structured.
+    But those out-of-service violations were not being properly 
+flagged and then recorded and then reported. And with that 
+overlooked data, and then a far less amount of data than what 
+they initially said they would--going to find and use, there is 
+no way that this is at all representative of the Mexican 
+trucking industry, as a whole.
+    Mrs. Napolitano. Well, we had great concerns over the 
+ability to keep track of their driving hours, one; of the 
+ability to have trucks operate with the same conditions we 
+asked of our own trucks; with the language issue; with the 
+hazardous material carried on there. And there were--many of 
+those issues have been discussed ad nauseam, I might add. And I 
+think we need to be able to ensure that, if we do, that we do 
+provide them with some--how would I say--something to follow, 
+so that we can tell them that they will be able to operate, but 
+they have to have their trucks.
+    I did speak to the Mexican consulate, or the--somebody on 
+the other side. And they indicated to me that all their trucks 
+met the specs, and that they were new trucks. Well, I begged to 
+differ, and I told him so. So we need to be sure that you let 
+us know, because this is an issue of safety on our side, and 
+that is something we all need to be concerned about.
+    And thank you, Mr. Chair.
+    Mr. Graves of Missouri. Mr. Perry?
+    Mr. Perry. Thank you, Mr. Chairman. First question will be 
+to Mr. Scott.
+    It seems to me that, you know, every single one of us in 
+the room and everybody outside the room is interested in 
+driving on safe roads. And certainly, as a business owner 
+myself, there is almost no upside to minimizing your focus on 
+safety. I mean, whether the cost to your hurt employees or 
+broken equipment or the liability that would come from cutting 
+corners in that regard.
+    But, with that having been said, can you describe what 
+effect a $20 million insurance minimum would do to a company 
+like yours?
+    Mr. Scott. Well, thank you very much for the question. 
+Basically, going from the current $5 million to $20 million, 
+essentially, you know, quadrupling the current standard, would 
+be financially devastating. And for companies smaller than 
+myself, it would literally put them out of business. And it 
+very well could put us out of business, as well. It would most 
+certainly discourage anybody, any new entrants, from coming 
+into this industry, because they simply would not be able to 
+afford it. And there has been no study, no data shown, that 
+even proves that it is even necessary to do that.
+    Mr. Perry. I mean, from my perspective, it is almost like 
+the action might be designed specifically to put the companies 
+out of business, to a certain extent.
+    Mr. Scott. Well, I would agree with you. To me, it seems 
+like a solution in search of a problem.
+    Mr. Perry. Has your company experienced any crashes that 
+have exceeded the current $5 million limit?
+    Mr. Scott. We have been in business for 33 years. And no, 
+we have never experienced a loss that has even come remotely 
+close to that.
+    Mr. Perry. So, based on that--and you have got 30-some 
+years in it; you are the expert, I am not, so I am just going 
+to ask you--what would you see would be the rationale to 
+raise--for the Federal Government--I am not even thinking that 
+this is the purview of the Federal Government. But if it is--
+so, if that is the case, what would you suppose would be the 
+rationale to raise it to that?
+    Mr. Scott. I can only speculate on what the thoughts are 
+behind the scenes of--to do that. But it would create a 
+significant hardship on the industry. It would reduce the size 
+and scope of our industry by an amount I am not even sure I can 
+measure. But, as you saw in my comments, the industry is 
+already in decline, and this could very well be, you know, the 
+nail in its coffin.
+    Mr. Perry. So, I mean, just like any other business owners, 
+you are choosing--you have got a certain amount of revenue. You 
+have got to pay employees, you have got to upgrade equipment, 
+you have got to maintain equipment. You have got to pay 
+operating costs associated with all that stuff. The more that 
+you pay in insurance premiums that--for which you don't use--
+right? You already stated that in 30-some years you haven't 
+used anything close to that limit. That detracts and takes away 
+from everything else, including maintenance and safety. Doesn't 
+it?
+    Just for anybody that has never operated a business, I 
+think it is important for you to clarify that, because they 
+might not understand that. A lot of folks think that that is 
+just part and parcel to doing business. But something has to 
+give. Your top line has to change, or your bottom line has to. 
+One of them has to change.
+    Mr. Scott. Well, you are absolutely correct. At the end of 
+the day, any increase, any mandate that adds cost to a business 
+has to be passed on to consumers. So our industry--passengers 
+choose to travel by bus because it is convenient, and it is 
+economical, and it is safe. You throw that $20 million around 
+there, and the economical is going to go out the window.
+    And you are absolutely correct that businesses are going to 
+be forced to make choices. Do I pay my insurance premium this 
+month? Do I pay my bus payment this month? I can't give my 
+drivers a raise. OK? All of those things play a factor.
+    Mr. Perry. Thank you. Moving on, Mr. Schnautz--if I have 
+pronounced that correctly--just because you are operating out 
+on the road as well, and I am sure you see this much more than 
+folks like me do--would you say the enforcement emphasis should 
+be focusing on some of the most egregious things? And I would 
+just characterize--I imagine somehow you can get in trouble 
+from a safety violation for having oil--having an oil leak. And 
+as a person who has driven old cars and worked on old cars and 
+aircraft, sometimes you would use the terminology, ``If it is 
+not leaking, it means it is empty.''
+    So, what can you tell me about--shouldn't our focus be on 
+the most egregious of things?
+    Mr. Schnautz. Absolutely. We get citations for a trailer ID 
+light being out on a daytime, 20-minute drive. And that light 
+won't be used in that 20-minute drive. We get all kinds of 
+violations that really don't at all reward us for having 
+inflated tires that are--have plenty of tread. And whenever we 
+see these things, it has turned us into--a standard of 
+perfection is all that is available to us. And that is not real 
+world. That just does not do anything but cause us to focus on 
+these details. And, as was said a minute ago, that money comes 
+from somewhere. The time to focus on that comes from somewhere. 
+It could be training, it could be other, more important 
+maintenance issues.
+    Mr. Perry. Thank you, Mr. Chairman. I yield.
+    Mr. Graves of Missouri. Mr. Gibbs?
+    Mr. Gibbs. Thank you, Mr. Chairman. And I had to go testify 
+on the Rules Committee, so I have missed your testimony, but I 
+have read it. And I also hope I don't ask a redundant question.
+    But I want to start with either Mr. Schnautz or Mr. 
+Kretsinger about CSA scores, the Compliance, Safety, 
+Accountability. When I talk to my truckers in my district, I--
+the stories they tell me are just unbelievable and scary. I had 
+one tell me that, I guess, the bridge has fallen down there in 
+Cincinnati on I-75, a hunk of concrete fell off and hit the 
+truck, and the truck got dinged on his CSA score.
+    So, one of you want to elaborate on what is really going on 
+out there? Because I--you know, I have heard--I heard the 
+Administrator told one trucking person, driver, or entity, you 
+know, ``You were there.'' So, I mean, it is definitely broken. 
+Because what happens in these scores, when it is not held--you 
+know, when it is not their fault? It dings on the insurance 
+rates, my understanding, and it also can ding them on--when 
+potential customers, shippers, are looking at safety records 
+and stuff.
+    So, would you just kind of tell us what is going on in that 
+regard?
+    Mr. Kretsinger. Sure. Thank you for that question. And I 
+can give you some personal experience. We pride ourselves on 
+being by the book. We preach that always. By the book, no 
+exceptions. I tell people, ``You don't like the rules, call 
+your congressman. But we are going to follow them, 
+regardless.''
+    Our scores were all very good, and getting better, except 
+for crash.
+    Mr. Gibbs. Except for what?
+    Mr. Kretsinger. Crash.
+    Mr. Gibbs. Oh, crash. OK.
+    Mr. Kretsinger. So we were having crashes. We have had some 
+bad winters. Some of those were preventable by our driver, and 
+some were not. Some were car rear-ending our trailer. But we 
+saw an audit coming. We know that. It is very good for focusing 
+resources, Federal resources, on audits.
+    But, any rate, they came in, they audited us, spent 3 or 4 
+days. And at the end of all that, except for two or three minor 
+violations, we were compliant. And so, what is the end of this 
+story? ``You are compliant.'' I don't see where that changed 
+much.
+    Attorneys have become very creative at chasing money. And 
+one of the things they have done is, through brokers and 
+shippers, under a negligent entrustment theory, or negligent 
+supervision--so they have made these folks very nervous for CSA 
+scores, something they don't have a lot of control on. So, I 
+mean, it is----
+    Mr. Gibbs. Excuse me. I have also heard that a trucking 
+company can be, depending on the size of the business and the 
+number of truck and different categories--and I had one 
+trucking company tell me they got moved--they had a--they were 
+at the top of the one category and then they got shifted in the 
+other category. And nothing changed, other than to get shifted 
+in the category, and their CSA went really bad. Is that----
+    Mr. Kretsinger. Yes, we don't understand that. I mean one 
+month our crash score was good, and next month it was high. We 
+got audited, still on our record, it is now good again. I don't 
+know why.
+    I also would point out that these other CSA alerts are 
+supposed to predict a crash. Our other scores are great. So 
+they are out of joint. I don't think it is accurate.
+    Mr. Schnautz. On the--speaking of predicting a crash, the 
+driver fitness basic is actually counter to predicting a crash, 
+and that has been shown by the FMCSA data. Our company, like 
+many others, is misrepresented by our CSA score. Our crash rate 
+is better than industry average, and our out-of-service rate is 
+better than an industry average. So those two key metrics were 
+safer than industry average.
+    However, if you look at our CSA score, we don't look better 
+than industry average. And it is because of the lights I 
+mentioned earlier. It is easy money for an agency, for a 
+jurisdiction, to pull a truck over that has one light obviously 
+out, write the ticket, let him go. So that is a big disconnect. 
+The revenue has--drives this a lot, and we all here follow the 
+money.
+    Mr. Gibbs. OK. I am almost out of time, I want to ask one 
+more quick question. In my subcommittee dealing with the waters 
+of the United States rule, I mean, we have heard lots of 
+testimony where the EPA did not engage the stakeholders or the 
+States, and all that. Do you feel that FMCSA engages with the 
+industry effectively, and also determines the impact of their 
+regulations on especially small carriers?
+    Mr. Schnautz. Absolutely not. No.
+    Mr. Gibbs. Anybody else want to respond? Mr. Scott?
+    Mr. Scott. Thank you. I would say absolutely not. It is a 
+hostile environment. And there was a time when FMCSA would work 
+with the industry, and those days are long gone.
+    Mr. Gibbs. Thank you. My time has expired. Thank you, Mr. 
+Chairman.
+    Mr. Graves of Missouri. Mr. Davis?
+    Mr. Davis. Thank you, Mr. Chairman. Thank you to all our 
+witnesses.
+    First question that I have is for Mr. Kretsinger. You 
+raised the idea of a gold standard program to have fleets 
+voluntarily adopt innovative safety tools that would enhance 
+safety. I believe, too, safety is paramount. And this idea of a 
+gold standard program is actually pretty intriguing.
+    Can you offer some thoughts on what this program would look 
+like, and how it could improve safety in the near and the long 
+term?
+    Mr. Kretsinger. Certainly, and thank you, Congressman, for 
+that. There is a lot of cool technology coming out, you know. 
+You have heard of some of it. What is it going to be in 2 
+years? It is a rapidly evolving thing. But these are tools that 
+cost money, that are voluntary, and can have a big impact, if 
+you combine that with, you know, driver counseling and coaching 
+and the other things.
+    So, a lot of members of ATA have gone out and spent the 
+money on these things, even though they are not required by any 
+Government to do it, because they see that it is good business 
+and the right thing to do to be safe. That is what we all want.
+    So, I think, if the Government was able to do something 
+like help them on other areas if they do this, that provides 
+incentives for more and more to do it. And I think the 
+cumulative effect would be a lot more safety.
+    Mr. Davis. Well, thank you very much for your response to 
+that.
+    Moving on to a different subject, I think it is very 
+important to make sure we are focusing on the most effective 
+ways to actually reduce and prevent traffic incidents. In your 
+testimony you point out that FMCSA's report shows that more 
+than four times as many crashes are prevented because of 
+traffic enforcement in comparison to standard roadside 
+inspections, and yet traffic enforcement only makes up about 10 
+percent of field enforcement interventions, with that percent 
+dropping, of course, as we know, in recent years.
+    I agree, too, that this is concerning. And I know that the 
+ATA is not advocating for a specific solution on this 
+disparity, but I would ask you broadly, how can we achieve a 
+better balance here?
+    Mr. Kretsinger. I think what the focus ought to be is on 
+the cause. And the cause is driver behavior. Not only the 
+behavior of the truck drivers, but, even more so, the behavior 
+of the passenger drivers. But so much of our problem is caused 
+by something they do or they don't do. If you can impact that, 
+you are going to have a greater impact on all of our goal, 
+safety, than if you are spending your money on things that 
+don't, like many of the things that happen in the scale house 
+don't cause wrecks.
+    So, if we can funnel our resources, our money, our people 
+towards the things that do cause wrecks--and on these event 
+recorders, we are seeing it. I mean, we are--it is kind of a 
+picture paints a thousand words. It is following too close, it 
+is distracted driving, it is not looking far ahead, it is 
+people in the public not understanding how to drive safely 
+around a big 18-wheeler going down the road at a high speed.
+    If we can get to that, you will make a big impact. Whether 
+a mud flap or a crack in the windshield or one light out, those 
+things are important, but they are not going to have near the 
+impact as behavior.
+    Mr. Davis. Well, thank you. Thank you for your responses.
+    Mr. Byrd, thank you also for being here today and 
+testifying. I am a strong supporter of workforce training 
+efforts. I believe they are a key part of creating and also 
+maintaining jobs. As a matter of fact, I am once again 
+introducing a bill that would make it more flexible for people 
+to access unemployment benefits and not be punished if an 
+antiquated system hasn't approved specific training, so that we 
+can get people into jobs and employ more people.
+    You mentioned in your testimony the efforts at FMCSA to 
+expand entry-level driver training. How have your interactions 
+with FMCSA been on this regulation?
+    Mr. Byrd. Thank you for the question, Congressman. We have 
+participated in the entry-level driver training advisory 
+committee, along with other stakeholders, since late February. 
+I think that, overall, the experience has been very positive. I 
+think that the stakeholders--you know, unions, motor carriers, 
+et cetera--have had a really great opportunity to have input. 
+We think that the agency is listening to us, and hopefully, you 
+know, at the end of the process, we will be able to come up 
+with a reasonable proposed rule that will be acceptable to the 
+motor carrier industry and the drivers.
+    Mr. Davis. Well, thank you. My time has expired.
+    Mr. Graves of Missouri. Mr. Hardy?
+    Mr. Hardy. Thank you, Mr. Chairman.
+    Mr. Scott, I would like to probably address you first on 
+this one. It has kind of been addressed already, but being a 
+previous business owner myself--that is one of the reasons I 
+came to Washington, is that I don't believe my children have 
+the same opportunities today to start a business, expand a 
+business, and grow a business to employ, which I have had the 
+opportunity.
+    You talk about in your testimony that you don't believe 
+that somebody could start that business today with regulation. 
+You talked about insurance. Is there any other regulations that 
+you feel that might be--the Federal Government might be holding 
+back from that opportunity that we should provide, as----
+    Mr. Scott. Well, we could certainly lower taxes.
+    Mr. Hardy. Any others?
+    Mr. Scott. Well, the--our industry is, obviously, most 
+heavily regulated by the Federal Motor Carrier Safety 
+Administration. However, you know, what we have seen in the 
+course of the 30 years that we have been in business it that it 
+is what I will call mission creep, what seems like from just 
+about every Federal agency that has purview over what we do, 
+whether that is OSHA, whether that is HHS--I mean you can go 
+down the list of them.
+    I think that the regulatory burden in general is--it just 
+seems to be one of ``got you'' from just about every agency 
+that there is out there. I mean the one that myself and our 
+industry is feeling--the motorcoach industry, as well as the 
+other folks up here on the truck side--is just that weight 
+right now that we have coming from FMCSA that doesn't really 
+seem to be accomplishing much of any goal. So that is really 
+kind of the number one.
+    But it seems that, you know, mission creep from just about 
+every other agency--I mean we have actually been audited by 
+TSA. I mean it just seems like there is just this never-ending, 
+you know, envelope of Federal regulations that just seems to be 
+coming around us, and it just doesn't seem to be stopping. So, 
+I would say, pretty much everything.
+    Mr. Hardy. OK, thank you. Mr. Kretsinger, Mr. Schnautz, I 
+would also like to address this to you--and you kind of hit on 
+it--as a business owner myself, those incidents that--in the 
+construction industry that we encountered--as you know, in the 
+construction industry you spend a lot of time on inner streets, 
+you spend a lot of time within large communities like the Las 
+Vegas area, and other. We found that that aggressive driver, in 
+the majority of the cases, was usually the fault. And, like I 
+say, we end up getting hit with the insurance, we get hit with 
+those regulations.
+    And I have known throughout my career many, many 
+individuals who have been recognized for being million-mile or 
+2-million-mile drivers without any incidents, which is amazing 
+to think that you could do that, in the first place. Do you 
+feel like--that some of these restrictions are starting to 
+maybe cost those good drivers down the road, either one of you?
+    Mr. Schnautz. Absolutely. You mentioned aggressive drivers, 
+and that is a good counterpoint, is that some truck drivers 
+aren't safer, just because they have technology. And it comes 
+down to the driver. We can't use technology as a replacement 
+for a good driver.
+    But, yes, drivers and me, as a driver, often felt like I 
+was a target. If I stopped on the side of the road and I got 
+hit, it was going to be my fault. If I turn down a road to try 
+to pull into a Stop-and-Go to get a Coke, maybe that is a no-
+truck street. So every time we do this, we force the driver 
+into every narrower lane, where he or she can exist and do 
+their jobs. And it is not the same as it was when I was growing 
+up with my dad in the trucks, back in the seventies, whenever 
+many of those regulations didn't exist, or weren't enforced at 
+all.
+    So, whenever we do that--and I hear it from our drivers 
+regularly, our veteran drivers, especially, that whenever ELDs 
+come in, they are just going to leave, or when this happens, or 
+when that happens.
+    Mr. Kretsinger. I would just say that one thing we look at 
+all the time, and the industry does, is driver shortage. I mean 
+there--it is a problem. Everyone in the industry lists it as 
+their number-one problem. And there is a lot of factors that go 
+into that. Some of it is regulation, some is congestion. Some 
+is it is a job that is not for everyone. So, I don't think it 
+is any one thing. I think it is more of a cumulative impact.
+    Now, the old cowboy trucker of 10, 20 years ago, he'd get 
+in his big-hood truck, go down the road, he had no idea what he 
+was doing. He would be out a long time, and come back. Now, 
+with data, there is so much technology in the engine, in the 
+ELDs, in the things we are doing, that they are really not 
+alone any more in that truck. It does give a good measure of 
+control for safety, but it also takes away some of the 
+independence, which was the allure to these people for many 
+years.
+    Mr. Hardy. Thank you. I see I am out of time.
+    Mr. Graves of Missouri. Mr. Ribble?
+    Mr. Ribble. Thank you, Mr. Chairman.
+    Well, it has been a long afternoon for all of you. Thank 
+you for being here. I know that there are some guests in the 
+room that have photos of loved ones that have either been 
+killed or injured in crashes, and I want you to know that we 
+take those concerns, and--very seriously, to try to figure out 
+how in the world we can do a better job here, so there is less 
+of that there. And I appreciate you coming. And certainly my 
+deepest condolences.
+    I would like to maybe start with Captain Reese. Do you 
+believe, Captain, that it would be safer, our roads, highways 
+would be safer, with fewer big trucks than more big trucks?
+    Mr. Reese. I don't really have any data, one way or the 
+other, to say that. I will just say that CVSA's stance on size 
+and weight on larger trucks has always been a safety one. And 
+we don't want to see anything done on that until this study 
+comes out, and we don't want to see an increase in size and 
+weight until we can be sure everything can be done safely.
+    Mr. Ribble. It just seems to me that, obviously, minutes of 
+exposure, the amount of time a driver is on the road versus 
+time that a driver is not on the road, the driver not on the 
+road is safer than the driver on the road. It just seems to me. 
+Would you agree, at least agree with that?
+    Mr. Reese. Oh, absolutely.
+    Mr. Ribble. Mr. Kretsinger, would you agree with that?
+    Mr. Kretsinger. I would say you would have no wrecks if 
+nobody turned their engine on.
+    Mr. Ribble. Got it.
+    Mr. Kretsinger. But you would have no economy, either.
+    Mr. Ribble. Of course, of course. But, I mean, there is a 
+line here that you draw at some point.
+    Mr. Kretsinger. Yes.
+    Mr. Ribble. Right? We heard earlier a discussion from Mr. 
+Barletta about the idea of heavier trucks riding on city and 
+town and rural roads and State roads, as opposed to the 
+interstate.
+    Mr. Byrd, in your testimony you mentioned an exemption that 
+my State, Wisconsin, received that you opposed. They didn't 
+really get an exemption. The current weights of trucks that 
+were currently driving on a U.S. highway when it becomes an 
+interstate were grandfathered to an interstate highway. What 
+would have happened, had that grandfather not happen, is those 
+trucks would often have been redirected off the interstate, 
+where it is much safer, to the county and city roads that you 
+later--earlier testified in your testimony that you oppose.
+    And so, it almost seems like you are contradicting the very 
+same thing--the very thing that you hope to get at, would be to 
+keep the heavier trucks on the interstate and off those roads. 
+And I would encourage the Teamsters to reevaluate that 
+position, because you might actually end up working against 
+your own best self-interests.
+    Mr. Reese, if you could, just for a moment--I am going to 
+ask your permission, sir, to maybe take off your CVSA hat for a 
+minute, and talk to me a little bit about Idaho. You are from 
+Idaho, a State patrolman from Idaho. And they have experience 
+with heavier, multiple axle trucks, and have had for several 
+years. I understand that Idaho allows trucks to carry up to 
+129,000 pounds on multiple axles. Has this worked out well for 
+the State? And do you have concerns about seeing other States 
+moving into a similar direction?
+    Mr. Reese. Now, we ran a project for about 15 years, a 
+pilot project in a southern part of our State, and we did allow 
+vehicles to go up to 129,000 pounds. At the end of that pilot, 
+we deemed that project a success. I will emphasize that these 
+vehicles had more axles, they were able to bridge the weight 
+because the damage to the roads was obviously a concern.
+    And we are in the process right now of making that project 
+go statewide, and we are moving it to the panhandle, which has 
+a much different road system. And, as we do this, we are adding 
+some additional safety requirements. We are in the process now 
+to permit these loads. Some of the things we are looking at is 
+a minimum number of years of experience for drivers who 
+participate, because we don't want new drivers operating these 
+bigger loads. They need to have the long combination vehicle 
+training that is in the FMCSA's regulations. Safety-related 
+things like that, because if we have these bigger loads on the 
+road, we want them to be safe.
+    Mr. Ribble. Yes, certainly. And, hopefully, if there--if, 
+in fact, those heavier trucks were there with more axles, more 
+displaced weight that--stopping capabilities being the same, 
+the reduction in the number of vehicles--which goes to my 
+earlier question--the potential reduction in the number of 
+vehicles and exposure on the road wouldn't necessarily go down, 
+because weight is distributed across fewer vehicles.
+    Mr. Chairman, I would like to ask unanimous consent to 
+insert into the record a study released by the Federal Motor 
+Carrier Safety Administration last year. The study found that a 
+six-axle, 97,000-pound truck stops just as quickly as a five-
+axle truck loaded at 80,000 pounds. And I think it is important 
+information to have.
+    Mr. Hardy [presiding]. Without objection.
+    [The information follows:]
+  
+  [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+    Mr. Ribble. All right, thank you. Thank you very much.
+    I realize that discussion about truck weights and safety, 
+sometimes these things can get very, very complicated, and 
+often heated, where they don't actually have to be. We are all 
+trying to get to the same place. We want to get to the same 
+place the right way. And so I want to thank you all for your 
+testimony today. You guys did terrific, all of you. And so 
+thank you for being here. And with that, I yield back.
+    Mr. Hardy. Thank you. Mr. Mica?
+    Mr. Mica. Well, thank you. Sorry, I came a little late. 
+This is the day of dueling hearings.
+    Somebody said Mr. Scott might have an answer for me. But in 
+some previous hearings I have mentioned that I have run into 
+some people in the trucking industries that have told me that 
+we are doing it all wrong, that, you know, the logs or the 
+Governors or whatever you have got on these vehicles, all that 
+can be compromised, or may not be as effective.
+    But again, one of the individuals described to me that 
+there is a device that you can have someone look into, it looks 
+at the pupils, the eye, and can tell whether someone is 
+fatigued. And he says that is the technology we need to be 
+going to. Mr. Scott, are you aware of anything like that?
+    Mr. Scott. Well, thank you, Congressman Mica. I have heard 
+of that. I don't have any----
+    Mr. Mica. See, and I brought it up a couple times as we 
+discuss these things. Everybody says they have heard of it, but 
+nobody has gotten to that technology. I pulled a couple of 
+articles. There are other--there are some things that 
+Caterpillar is using, and here is a Nissan driver attention 
+detector, but this--these are not that kind of thing.
+    What I am interested in is when we pull over a driver, you 
+have him look into that, we have him blow into a--you know, a 
+device to find out if they are intoxicated. But I am told the 
+technology exists. Now, I want somebody to come back and let us 
+know if this is real or not. Can you look into it, let us know?
+    Who else is in a position to check this out? Has anyone 
+else heard of this?
+    Mr. Schnautz. Our association has heard of it, but there is 
+no concrete information behind it, not enough experience to 
+know if it has any value or does any good. Most things like 
+that have--can be shown to have a good track record before they 
+are really put into use. And the best thing is a driver that is 
+experienced and motivated to do the right thing.
+    Mr. Mica. We don't have anybody from the highway, do we, on 
+this panel?
+    [No response.]
+    Mr. Mica. Federal Highway Administration? No? No.
+    Well, again, the industry needs to help take a lead in 
+finding technologies. And if this technology is out there, and 
+it does seem like it is plausible, that you could have a device 
+like this, the biggest issue we still have with these big--the 
+big crashes is fatigue and driver drowsiness, and some of those 
+factors. Isn't that still one of our biggest causes of the 
+accidents, guys? Everybody?
+    Mr. Schnautz. Actually----
+    Mr. Mica. Let the record reflect three out of five nodded 
+their head yes. OK, good.
+    Mr. Schnautz. Actually, it is just driver behavior. Whether 
+it is the car or the truck, as we said earlier, and just a bad 
+decision, maybe trying to take an exit at the last minute, 
+following too closely, things like that we see quite a bit. So 
+it is just driver decisionmaking, not necessarily fatigue being 
+the top item.
+    Mr. Mica. Do you have a--and I guess there is American 
+Trucking Associations. They are not here. But I just wonder if 
+there is an association. And you got labor here, too, who 
+should be concerned. Yes, sir?
+    Mr. Kretsinger. Yes, Congressman. I am representing ATA. 
+And a couple things I would offer. One, I think they have some 
+information on some of this technology that they would be happy 
+to provide. I would also offer that one thing that is becoming 
+more prevalent in the industry is event recorders.
+    Mr. Mica. Is what?
+    Mr. Kretsinger. Event recorders. And event----
+    Mr. Mica. Oh, event recorders, yes.
+    Mr. Kretsinger. Yes. And this is a camera----
+    Mr. Mica. Yes.
+    Mr. Kretsinger [continuing]. That points out, and also in 
+towards the driver----
+    Mr. Mica. Well, the vehicles now, today--I have been 
+renting some cars lately, and, my God, I move slightly towards 
+another vehicle, I mean, there is great alerts because you--my 
+biggest hazard in driving is that blind spot. And when I don't 
+have my wife next to me, screaming, ``You're going to hit''--
+you know--but now you have got this. It is incredible, the 
+devices, and we will get there, with vehicles.
+    But I would like you all, somebody from American Trucking 
+Associations, go back and look at this. I will see if I can 
+find the individual--and they told me the military had used 
+some of this to test the fatigue of troops and things, and it 
+was fairly valid. But we need to be looking at those kinds of 
+technologies for safety enforcement.
+    You know, you don't want to burden the truckers with too 
+much technology, but there are devices that can save lives and 
+be cost effective. So we just need to stay ahead of that game, 
+because, again, maybe that is because I am getting older, but I 
+was just with a--on one of the interstates with the double 
+trailers in rain, and it was pretty hairy. And if they get 
+drowsy or, you know, lose their place for a minute, we are all 
+toast. So we got to do a better job for safety for the future.
+    Thank you, Mr. Chairman. Yield back.
+    Mr. Hardy. Any other Members?
+    [No response.]
+    Mr. Hardy. If--don't see any other Members. I would like to 
+follow up just a bit with the direction I was headed earlier, 
+on questioning. This might be for Mr. Reese.
+    As you know, in the West, and particularly Utah, they have 
+done some studies on their highways and other areas of--where 
+they have actually increased the speed limits, tested up to 80 
+miles an hour. And it is--I believe their results were 
+positive, that they actually have had less traffic incidents.
+    With some of the restrictions to--holding trucks to 65, 
+would it be better that maybe that be held within the State's 
+purview of how those trucks move? Because it is back to that 
+aggressive driver, that slower truck moving on a freeway. Any 
+comments on that from your side, Captain?
+    Mr. Reese. That kind of goes down the line of speed 
+limiters. And right now we are waiting to see what FMCSA's--
+what they come out with on speed limiters. But the States do 
+have various speed limits. We just raised on our--some of our 
+interstates in Idaho last year we raised to 80 miles an hour 
+for cars, and 70 for trucks. So we still have some variance 
+there.
+    But you have also got the variances in geography and stuff 
+from State to State and area to area, as well. And that affects 
+truck operations, as well. Areas like Idaho, where we have a 
+lot of hills, the trucks slow down anyway on the hills.
+    Mr. Hardy. Thank you. Are there any further questions from 
+members of the subcommittee?
+    [No response.]
+    Mr. Hardy. Seeing none, I would like to thank each witness 
+for their testimony today. And your contribution to today's 
+discussion has been very informative and helpful.
+    I would like to ask unanimous consent that the record of 
+today's hearing remain open until such time our witnesses have 
+provided answers to any questions that may be submitted to them 
+in writing, and a unanimous consent that the record remain open 
+for 15 days for additional comments and information submitted 
+to--by Members or witnesses to be included in the record of 
+today's hearing.
+    [No response.]
+    Mr. Hardy. Without objection, so ordered.
+    If there are no further Members having anything more to 
+add, the subcommittee stands adjourned.
+    [Whereupon, at 4:28 p.m., the subcommittee was adjourned.]
+ 
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+    
+                            [all]
+</pre></body></html>
