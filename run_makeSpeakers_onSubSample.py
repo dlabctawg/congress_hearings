@@ -11,9 +11,9 @@ for filename in files[1:len(files)+1]:
     outfile = outdir+filename
     outfile = re.sub("\.\.txt","\.csv",outfile)
     f = open(outfile,"w")
-    f.writelines(",".join(["surname","speaker","previous_surname","previous_speaker"])+"\n")
+    f.writelines(",".join(["surname","speaker","previous_surname","previous_speaker", "speech"])+"\n")
     for chain in chains:
-        f.writelines(",".join(["break","break","break","break"])+"\n")
+        f.writelines(",".join(["break","break","break","break", "break"])+"\n")
         for speech in chain:
             data = [
                 json.dumps(speech["surname"]),
