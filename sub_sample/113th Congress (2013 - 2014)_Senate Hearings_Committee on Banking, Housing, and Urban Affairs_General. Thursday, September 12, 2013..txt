@@ -1,0 +1,3126 @@
+<html>
+<title> - ESSENTIAL ELEMENTS OF HOUSING FINANCE REFORM</title>
+<body><pre>
+[Senate Hearing 113-95]
+[From the U.S. Government Printing Office]
+
+
+                                                         S. Hrg. 113-95
+
+ 
+              ESSENTIAL ELEMENTS OF HOUSING FINANCE REFORM
+=======================================================================
+
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED THIRTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                                   ON
+
+   DISCUSSING THE ESSENTIAL ELEMENTS THAT MUST BE A PART OF HOUSING 
+  FINANCE REFORM LEGISLATION AND ENSURING THAT REFORM OF THE HOUSING 
+  FINANCE SYSTEM IMPROVES THE CURRENT SYSTEM WITHOUT CREATING MARKET 
+ DISRUPTIONS THAT THREATEN OUR HOUSING RECOVERY OR INCREASE COSTS FOR 
+                               BORROWERS
+
+                               __________
+
+                           SEPTEMBER 12, 2013
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+
+                 Available at: http: //www.fdsys.gov /
+
+
+
+
+                  U.S. GOVERNMENT PRINTING OFFICE
+85-236                    WASHINGTON : 2014
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing 
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC 
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC 
+20402-0001
+
+
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                  TIM JOHNSON, South Dakota, Chairman
+
+JACK REED, Rhode Island              MIKE CRAPO, Idaho
+CHARLES E. SCHUMER, New York         RICHARD C. SHELBY, Alabama
+ROBERT MENENDEZ, New Jersey          BOB CORKER, Tennessee
+SHERROD BROWN, Ohio                  DAVID VITTER, Louisiana
+JON TESTER, Montana                  MIKE JOHANNS, Nebraska4
+MARK R. WARNER, Virginia             PATRICK J. TOOMEY, Pennsylvania
+JEFF MERKLEY, Oregon                 MARK KIRK, Illinois
+KAY HAGAN, North Carolina            JERRY MORAN, Kansas
+JOE MANCHIN III, West Virginia       TOM COBURN, Oklahoma
+ELIZABETH WARREN, Massachusetts      DEAN HELLER, Nevada
+HEIDI HEITKAMP, North Dakota
+
+                       Charles Yi, Staff Director
+
+                Gregg Richard, Republican Staff Director
+
+                  Laura Swanson, Deputy Staff Director
+
+                   Glen Sears, Deputy Policy Director
+
+              Erin Barry Fuher, Professional Staff Member
+
+                  Kari Johnson, Legislative Assistant
+
+                  Greg Dean, Republican Chief Counsel
+
+            Chad Davis, Republican Professional Staff Member
+
+                       Dawn Ratliff, Chief Clerk
+
+                     Riker Vermilye, Hearing Clerk
+
+                      Shelvin Simmons, IT Director
+
+                          Jim Crowell, Editor
+
+                                  (ii)
+
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                      THURSDAY, SEPTEMBER 12, 2013
+
+                                                                   Page
+
+Opening statement of Chairman Johnson............................     1
+
+Opening statements, comments, or prepared statements of:
+    Senator Crapo................................................     2
+    Senator Tester...............................................     3
+
+                               WITNESSES
+
+Julia Gordon, Director of Housing Finance and Policy, Center for 
+  American Progress..............................................     4
+    Prepared statement...........................................    35
+    Response to written question of:
+        Senator Corker...........................................    85
+Jerome T. Lienhard, II, President and Chief Executive Officer, 
+  SunTrust Mortgage, Inc.........................................     5
+    Prepared statement...........................................    54
+    Response to written question of:
+        Senator Corker...........................................    86
+Richard Johns, Executive Director, Structured Finance Industry 
+  Group..........................................................     7
+    Prepared statement...........................................    55
+    Response to written question of:
+        Senator Corker...........................................    88
+Mark Zandi, Ph.D., Chief Economist, Moody's Analytics............     9
+    Prepared statement...........................................    62
+
+                                 (iii)
+
+
+              ESSENTIAL ELEMENTS OF HOUSING FINANCE REFORM
+
+                              ----------                              
+
+
+                      THURSDAY, SEPTEMBER 12, 2013
+
+                                       U.S. Senate,
+          Committee on Banking, Housing, and Urban Affairs,
+                                                    Washington, DC.
+    The Committee met at 10:17 a.m. in room SD-538, Dirksen 
+Senate Office Building, Hon. Tim Johnson, Chairman of the 
+Committee, presiding.
+
+           OPENING STATEMENT OF CHAIRMAN TIM JOHNSON
+
+    Chairman Johnson. I call this hearing to order.
+    I would like to thank the witnesses for joining us today as 
+the Committee sets out on a path that I hope will lead to 
+comprehensive housing finance reform. Our witnesses are here to 
+help educate us regarding what essential elements must be a 
+part of housing finance reform legislation in order for it to 
+be credible and successful. We must ensure that reform of the 
+housing finance system improves our current system and does not 
+create market disruptions that threaten our housing recovery or 
+unnecessarily increase costs for borrowers.
+    During our first housing finance reform hearing this 
+Congress, Ranking Member Crapo and I explored whether a 
+bipartisan solution to reform the housing market was possible. 
+At that time, there was no agreement regarding the role of the 
+Federal Government let alone what a new structure could look 
+like. I would like to thank Senators Corker and Warner and the 
+cosponsors of the bill for showing that there is bipartisan 
+support for a Government guarantee in a new housing system and 
+willingness to move legislation forward.
+    Recognizing that there are many details that need to be 
+explored and discussed by the full Committee and that many 
+Committee Members have input of their own that they would like 
+to include, we plan to hold hearings this fall to explore the 
+finer points of proposed changes. This will give the entire 
+Committee the opportunity to explore the various modifications 
+and wholesale changes that we will consider. Ranking Member 
+Crapo and I are undertaking this in-depth process with the goal 
+of reaching agreement by the end of the year.
+    To give a sense of what a massive undertaking this process 
+is, our housing finance market is the second largest and most 
+liquid financial market in the world. So the consequence of 
+getting any major reform wrong cannot be overstated. To that 
+end, it is essential that we fully understand the mechanics of 
+how a new system would function, and how we should smoothly 
+transition from the current system to a new one. Any new 
+housing finance system and the transition to it could 
+dramatically change the way that families qualify and affect 
+who can afford to buy a home.
+    I have asked the experts testifying today to help us 
+analyze proposed changes to the system and to help us 
+understand which essential pieces of the current system should 
+be preserved. Better understanding the interaction between the 
+pieces that we would like to preserve--like widely available, 
+30-year, fixed-rate mortgages--and the changes we would like to 
+make is critical in order to achieve meaningful improvements to 
+the current system.
+    With that, I will turn to Ranking Member Crapo.
+
+                STATEMENT OF SENATOR MIKE CRAPO
+
+    Senator Crapo. Thank you, Mr. Chairman. There seems to be 
+more traction toward moving forward with housing reform than 
+there has been at any point during the 5-year conservatorships 
+of Fannie Mae and Freddie Mac. Mr. Chairman, thank you for 
+making this a top priority of the Committee during this 
+Congress.
+    In March of this year, this subject became one of our first 
+hearings, and now I look forward to working toward a solution 
+with you and all of the Senators of this Committee.
+    Many other people deserve credit for getting the ball 
+moving and getting it going forward well on this important 
+topic. Senators Corker and Warner and all of the cosponsors of 
+their bill have worked collaboratively in developing a proposal 
+that will help shape our debate as we move forward, and I thank 
+them and their staffs for their hard work.
+    Senator Reed also has put a tremendous amount of work into 
+helping us get toward the right answers and the right 
+legislative language, and there are many other Senators on this 
+Committee who may not have introduced legislation but who have 
+put a tremendous amount of thought and effort into the issue 
+behind the scenes advocating for a resolution.
+    Chairman Hensarling likewise deserves a lot of credit and 
+our thanks for his work in moving a proposal out of the House 
+Financial Services Committee. In fact, given the President's 
+recent comments, it appears we now are experiencing the first 
+moment since the crisis that the White House, the Senate, and 
+the House are all moving forward or advocating for reform.
+    Given this circumstance, we must use this opportunity to 
+concentrate on building consensus around ending the 
+conservatorships while building a stable secondary market that 
+brings back private capital and avoids repeating the mistakes 
+of the past.
+    As I noted, a tremendous amount of work on this topic has 
+already been done by many of the Committee's Senators, and we 
+must not lose this momentum.
+    As such, the Banking Committee intends to hold a series of 
+hearings to gain insight from experts, regulators, and 
+stakeholders to ensure that the Committee moves forward in an 
+educated fashion. These hearings will provide a more in-depth 
+analysis of some of the necessary components of reform with a 
+goal of marking up a bipartisan bill by the end of the year.
+    There will be costs and tradeoffs associated with every 
+decision that we make. As we evaluate those tradeoffs, I am 
+pleased to have before us a panel that represents decades of 
+real experience and study of our mortgage markets. I look 
+forward to hearing from the witnesses, gaining their input and 
+analysis about what are the essential elements of any reform. 
+It will also be helpful to hear what questions we need to be 
+asking to arrive at the best solutions.
+    Despite the tough decisions that lie ahead, our task is 
+vital. For more than 5 years, our housing finance system has 
+remained in limbo, unable to innovate or even function outside 
+of a massive Government intervention. In those 5 years, we have 
+seen other financial markets recover while watching the housing 
+market remain stagnant. During those same 5 years, we watched 
+the bill to the American taxpayers rise to nearly $200 billion 
+while simultaneously creating numerous legal questions that our 
+courts may be sorting out for years to come. This cannot be 
+allowed to continue.
+    Chairman Johnson and I were able to work together with the 
+other Senators on the Banking Committee to pass the Federal 
+Housing Administration Solvency Act of 2013 out of Committee 
+with a large, bipartisan vote. As a Committee, we must re-
+create that consensus while turning our full attention to 
+reforming the Government-sponsored entities and our broader 
+housing finance market.
+    Hopefully our past work and the further collaborating of 
+our Senators has engendered a level of trust and good will that 
+can lead this Committee to a strong product with an equally 
+strong level of support.
+    Mr. Chairman, again I thank you, and I look forward to 
+working with you and all Members of the Committee as we move 
+forward.
+    Chairman Johnson. Thank you, Senator Crapo.
+    Are there any other Members who would like to give a brief 
+opening statement? Senator Tester.
+
+                STATEMENT OF SENATOR JON TESTER
+
+    Senator Tester. I would, and I apologize to Senator Corker 
+right now because I know he hates these things, but I am not 
+going to be here for the questions, so I have got to say this.
+    First of all, I want to thank the Chairman and Ranking 
+Member for their opening statements. We have got an opportunity 
+here to do something good. I was sent to Washington, D.C., to 
+try to fix what is wrong with Washington, D.C. We can make 
+excuses up. We can talk about how we are too busy to do this. 
+We can talk about Syria. We can talk about the debt limit. We 
+can talk about all that stuff. But the bottom line is we can 
+multi-task, we must multi-task. And if we let this opportunity 
+escape us by not working together and pushing it forward--the 
+same way we did with the FHA Solvency Act, I might add--then we 
+are not doing our constituencies the services that they expect 
+of us.
+    So I look forward to working with everybody on this 
+Committee to get the Warner-Corker bill across the finish line. 
+Thank you.
+    Chairman Johnson. Is there anyone else?
+    [No response.]
+    Chairman Johnson. I would like to remind my colleagues that 
+the record will be open for the next 7 days for additional 
+statements and other materials.
+    Before we begin, I would like to introduce our witnesses 
+who are here with us today.
+    Our first witness is Ms. Julia Gordon, who is the director 
+of housing finance and policy at the Center for American 
+Progress.
+    Mr. Jerome Lienhard is the CEO of SunTrust Mortgage.
+    Mr. Richard Johns is the executive director of the 
+Structured Finance Industry Group.
+    And, finally, we have Dr. Mark Zandi, chief economist at 
+Moody's Analytics.
+    We welcome all of you here today and thank you for your 
+time.
+    Ms. Gordon, you may proceed.
+
+  STATEMENT OF JULIA GORDON, DIRECTOR OF HOUSING FINANCE AND 
+              POLICY, CENTER FOR AMERICAN PROGRESS
+
+    Ms. Gordon. Good morning, Chairman Johnson, Ranking Member 
+Crapo, and Members of the Committee. Thank you so much for 
+inviting me to testify today. I am Julia Gordon, director of 
+housing finance and policy at the Center for American Progress 
+and convener of the Mortgage Finance Working Group, which 
+released a comprehensive reform plan back in January of 2011 
+and has been meeting weekly since then to study the future of 
+housing finance.
+    We stand at a critical inflection point for our Nation's 
+housing finance system. While housing prices have begun to 
+recover in many parts of the country, the fundamentals are not 
+yet strong. The mortgage market today is significantly smaller 
+than it was in the early 2000s. Two-thirds of originations are 
+refinancings rather than home purchases. And much recent price 
+appreciation can be attributed to cash investors.
+    In the meantime, the demographics that represent the future 
+of home ownership, such as first-time home buyers, millennials, 
+and people of color, have largely been shut out of the 
+conventional mortgage market.
+    Production of apartment units is falling behind demand, and 
+rents have risen significantly, with more than a quarter of all 
+renters spending more than half of their income on housing. In 
+our view, the status quo no longer serves the American public's 
+best interests, and it is time to reform the system.
+    We are pleased to see a broad consensus emerging on the 
+general outlines of housing finance reform that we must have a 
+Government backstop behind private capital, that the long-term 
+fixed-rate mortgage is a crucial product for families 
+interested in home ownership, that the system must include not 
+just single-family but also multi-family finance, and that the 
+system provide access to all creditworthy borrowers and lenders 
+of all sizes.
+    I commend Senators Corker and Warner for pushing this 
+debate forward. By recognizing this consensus and developing a 
+strong bipartisan framework for reform, they have done a true 
+public service.
+    However, we still have a great deal of work ahead of us to 
+adjust and fill in this framework so that it will work well for 
+all borrowers, all lenders, and all investors throughout all 
+economic cycles.
+    First and foremost, a new housing finance system must place 
+the Nation's housing needs at the center of the system. The 
+structures and processes of the secondary market are not ends 
+in and of themselves. Providing broad access to affordable, 
+sustainable credit will provide the greatest benefit in the 
+long run not only to families but also to lenders and investors 
+while protecting taxpayers from future bailouts.
+    The system must provide a level playing field for all 
+creditworthy borrowers in all geographic areas for all housing 
+types and for lenders of all sizes. Additionally, it needs the 
+capacity to help more families obtain mortgages in the 
+conventional market through credit supports and safe innovation 
+rather than relegating large swaths of borrowers to FHA 
+unnecessarily, where mortgages are more expensive and where the 
+Government will continue to provide a 100-percent guarantee. 
+And to serve those families not yet ready for or interested in 
+home ownership, the system should provide financing to preserve 
+existing privately owned affordable housing stock and support 
+the construction of new affordable units.
+    To create a deep liquid market and support widespread 
+availability of a long-term fixed-rate mortgage product, we 
+need both a Government guarantee and a healthy TBA market. We 
+agree that there is no reason for the Government to guarantee 
+100 percent of the risk, and in our 2011 proposal we suggested 
+that chartered bond guarantors stand in the first loss 
+position, which is one of the options presented in the Corker-
+Warner bill.
+    However, we have significant concerns about the other 
+option presented in that bill, which is having issuers lay off 
+the risk directly through the private capital markets. We are 
+concerned that structured transactions alone cannot effectively 
+maintain the TBA market, provide broad access to sustainable 
+credit, protect the taxpayer, and maintain access to credit 
+throughout economic cycles. We expect, though, that bond 
+guarantors will access the capital markets to lay off risk, 
+perhaps along the lines of the Freddie STACR deal.
+    It perhaps goes without saying, but any new system also 
+must support effective and fair mortgage servicing practices as 
+well as appropriate systems to provide clarity regarding 
+property title.
+    Finally, we need strong regulatory tools to ensure safety 
+and soundness throughout the system, including examination, 
+supervision, and enforcement authority for entities accessing 
+the Government guarantee.
+    Thank you again for inviting me to testify today, and I 
+look forward to continued discussion on these important matters 
+as the Senate moves forward on housing finance reform 
+legislation.
+    Chairman Johnson. Thank you.
+    Mr. Lienhard, you may proceed.
+
+   STATEMENT OF JEROME T. LIENHARD, II, PRESIDENT AND CHIEF 
+           EXECUTIVE OFFICER, SUNTRUST MORTGAGE, INC.
+
+    Mr. Lienhard. Good morning, Chairman Johnson, Ranking 
+Member Crapo, and Members of the Banking Committee. I am Jerome 
+Lienhard, president and CEO of SunTrust Mortgage, which is a 
+subsidiary of SunTrust Banks. Thank you for allowing me to 
+participate in the consideration of this important subject.
+    I am appearing today in my capacity at SunTrust Mortgage, 
+and this testimony was prepared after consultation with the 
+Regional Bank Group, an informal coalition of mid-sized lending 
+institutions located throughout the United States. All views 
+expressed today, however, are my own.
+    SunTrust is headquartered in Atlanta and operates mainly in 
+the southeastern United States. SunTrust Mortgage is based in 
+Richmond, Virginia, and employs about 4,300 teammates. Last 
+year, we originated over $32 billion in mortgage loans which 
+helped more than 120,000 of our clients purchase a home or 
+lower their monthly payment through refinancing.
+    Today I would like to make two important points from the 
+perspective of a regional bank:
+    First, while there is a need to reform the housing finance 
+system, it is critical to retain the basic ``plumbing'' of the 
+system that draws in enormous sums of investment capital and 
+provides borrowers with interest rate certainty. These features 
+can be retained in a mortgage market that serves both the 
+interests of borrowers and taxpayers alike.
+    Second, reform must bring more private capital into the 
+mortgage market in a principal loss position without reducing 
+the global demand for mortgage-backed securities and while 
+protecting competitive access for small and medium-sized 
+institutions that serve millions of homeowners.
+    I will spend a few minutes elaborating on each of these 
+points.
+    Out of thousands of mortgage loans that we make each year, 
+on average we hold only one in six on our balance sheet. So 
+while we own approximately $30 billion worth of mortgage loans, 
+we actually originated and service more than $140 billion in 
+mortgages involving more than 800,000 households. This is 
+possible for us only due to the existence of the secondary 
+mortgage market.
+    To provide our clients with basic information regarding how 
+much they can afford to pay for a house, we must be able to 
+tell them the interest rate and the monthly cost of the loan. 
+You cannot really buy a house if you do not know what your 
+mortgage payment will be.
+    We do this by referencing a daily pricing sheet that 
+provides the interest rate and loan terms that we can offer on 
+a guaranteed basis. These prices are set from the price of 
+mortgage-backed securities trading in the ``To Be Announced'' 
+or TBA market. The TBA security price assumes delivery of 
+conforming mortgages into a Freddie Mac or Fannie Mae mortgage-
+backed security on a forward basis. This forward-pricing 
+mechanism of the secondary market allows us to lock in the 
+interest rates for our clients for up to 90 days.
+    But without that certainty, primary market lenders would be 
+unwilling and, frankly, unable to provide forward price 
+certainty to their customers.
+    Through the combination of mortgage standardization and the 
+function of the MBS market, the existing system provides a 
+tangible benefit to borrowers. And these benefits are available 
+for anyone who transact with originators of any size: local 
+banks, Main Street banks such as SunTrust, as well as the 
+largest mortgage originators.
+    While there is a need to address taxpayer risk by making 
+structural changes to the housing finance system, these are key 
+features, elements, and processes essential to maintaining a 
+secondary market.
+    Regarding the critical issue of the structure of the credit 
+guarantee, our markets perform so well in large part because 
+credit risk associated with mortgage default is assumed by the 
+GSEs. Investors from around the world allocate trillions of 
+dollars of capital to our markets because it only involves 
+interest rate risk to them.
+    Now, the problem, of course, is that providing credit 
+protection puts taxpayers at risk. Using private sources of 
+capital to cover credit exposure can help alleviate taxpayer 
+risk.
+    We must also consider that if a variety of credit risk 
+devices emerge in place of the relatively simple credit 
+guarantee we have today, it could make mortgage-backed 
+securities difficult for investors to value, fracturing the 
+investor base, reducing liquidity, and increasing costs. If 
+that market shrinks dramatically, so does lending to 
+homeowners.
+    To the extent that private capital is intended to stand 
+before any taxpayer-backed guarantees, the entities and 
+instruments must be subject to regulatory oversight. If 
+regulators cannot understand nor keep track of the various 
+risk-sharing mechanisms, there is a danger that they will not 
+perform as needed under crisis conditions.
+    And, finally, any new source of private sector credit 
+protection should be available for all primary market lenders, 
+including large, small, and Main Street institutions. Measures 
+that create advantages for the very largest issuers of 
+mortgage-backed securities or make the cost of market access 
+more expensive for some and not others will reduce competition 
+and must be avoided.
+    Let me conclude by thanking the Committee again for the 
+time, attention, and consideration. I look forward to answering 
+any of your questions.
+    Chairman Johnson. Thank you.
+    Mr. Johns, you may proceed.
+
+  STATEMENT OF RICHARD JOHNS, EXECUTIVE DIRECTOR, STRUCTURED 
+                     FINANCE INDUSTRY GROUP
+
+    Mr. Johns. Chairman Johnson, Ranking Member Crapo, and 
+Members of the Committee on Banking, my name is Richard Johns. 
+I am the executive director of the Structured Finance Industry 
+Group, or SFIG, a trade industry group that includes over 160 
+corporate members from all sectors of the securitization 
+industry. On behalf of myself and SFIG's members, I thank you 
+for this opportunity to address the Committee regarding 
+proposed housing finance reforms, including the role to be 
+played by the Government in the housing finance system and the 
+importance of returning private capital to the residential 
+mortgage market.
+    SFIG is generally supportive of the framework contained 
+Senate bill 1217 and believes the reform process, particularly 
+in relation to the securitization markets, must proceed in a 
+measured and deliberate way. We appreciate the Committee's 
+methodical approach in considering such reforms.
+    A central focus of any reform effort must be the 
+preservation of the To Be Announced or TBA market, which is the 
+third most liquid securities market in the world and handles 
+over 90 percent of the Government-guaranteed MBS trading 
+volume. The reason behind this deep liquidity of the TBA market 
+is in its homogenous nature driven by standardization of loan 
+pools and underwriting criteria, market standards and history, 
+and the elimination of credit risk via the Government 
+guarantee.
+    This deep liquidity not only drives down costs allowing a 
+cheaper interest rate to be charged to the consumer, but it 
+also enables the mortgage originator to hedge its risk, which 
+in turn can be passed through to the consumer in the form of a 
+rate lock to give them certainty of interest rate. Any reform 
+process needs to be considerate of the credit risk to the 
+homogeneity of the TBA market. For this reason, we suggest that 
+there are three sequential stages that any reform effort should 
+follow in order to preserve the TBA market.
+    First, the conversion into a common TBA should be adopted, 
+making Freddie and Fannie MBS fungible and, therefore, 
+deliverable into a single TBA market.
+    Second, any legislation should provide for the creation of 
+a single agency security. This would facilitate the conversion 
+and continued liquidity of legacy securities and promote a deep 
+and liquid new-issue MBS market.
+    And then, third, a common securitization platform should be 
+established to oversee and maintain the standardization of the 
+market for Government-guaranteed MBS.
+    SFIG believes that retaining a Government guarantee against 
+catastrophic loss for MBS is crucial to preserving the health 
+of the TBA market.
+    Historically, rates investors have been attracted to the 
+Government-guaranteed MBS in which the Government bears the 
+bulk of the credit risk, and they have contributed trillions of 
+dollars to the agency market because of those guarantees. 
+Limiting the Government's involvement in the market by changing 
+or ending the current infrastructure must account for the 
+crucial contribution that rates investors make to the agency 
+market and their historical aversion to credit risk.
+    We also believe that private investors have a role to play 
+in ensuring against the credit risks posed by residential 
+mortgages. To that end, SFIG generally supports having private 
+capital take on credit risk in the first loss position with the 
+explicit Government guarantee covering catastrophic risk.
+    SFIG continues to analyze the amount of risk that a private 
+investor should assume, and we will provide the Committee with 
+our ideas at a later date. However, whatever the final private 
+enhancement is, it should be based on underwriting-related 
+factors such as historical loss data, the likely loan times, 
+and general housing and economic indicators.
+    Turning next to the mechanics of transitioning to a new 
+structure, this process must be transparent, appropriate to 
+market conditions, and handled with great care to minimize the 
+disruptions to the flow of credit to consumers and, in 
+particular, to ensure the continued health of the TBA market.
+    We believe steps must be taken to preserve the market for 
+legacy securities while allowing sufficient time for eligible 
+loans under the reformed system to be generated and take hold 
+in the TBA market. SFIG believes that the best way to 
+facilitate this transition is to create a single agency 
+security to which the legacy securities would be converted. We 
+also believe that the current and new infrastructure should 
+operate in tandem for some period of time until the new 
+framework has demonstrated that it will facilitate the 
+continued functioning of the TBA market.
+    Finally, there are a number of initiatives underway around 
+the country in which governments plan to exercise their eminent 
+domain power to seize underperforming mortgage loans. Such use 
+of eminent domain will undermine congressional efforts to 
+encourage private capital in the market, and we encourage the 
+Committee to include a provision limiting it in any reform 
+legislation.
+    In conclusion, while we recognize the need to correct the 
+errors of the past, we urge the Committee not to lose sight of 
+the ways in which the agency market, and particularly the TBA 
+market, has and continues to work well, enabling many Americans 
+to enjoy the benefits of home ownership. We look forward to 
+working with the Committee as it considers these vitally 
+important issues. Thank you again for the opportunity to share 
+SFIG's views.
+    Chairman Johnson. Thank you.
+    Dr. Zandi, you may proceed.
+
+   STATEMENT OF MARK ZANDI, Ph.D., CHIEF ECONOMIST, MOODY'S 
+                           ANALYTICS
+
+    Mr. Zandi. Thank you, Mr. Chairman, Mr. Vice Chairman, and 
+the rest of the Committee, for the opportunity to be here 
+today.
+    For the purposes of the meeting, the Committee hearing, you 
+should know that I am on the board of MGIC. That is the largest 
+mortgage insurer in the country. That is important for you to 
+know. I am also on the board of the Reinvestment Fund. That is 
+one of the Nation's largest CDFIs. And I am also, obviously, an 
+employee of the Moody's Corporation. So those are very 
+important things. These are my opinions, not those of Moody's 
+or anyone else.
+    There are many essential elements to a good, well-
+functioning housing finance system. I go through many of them 
+in my written testimony. I want to focus in my current remarks 
+on one essential element, and that is the capital requirements 
+of the new system. So I am going to talk a little bit about the 
+amount of capital that is appropriate, the sources of that 
+capital, and the cost of that capital.
+    I should say up front that I am taking as given that we are 
+in a world of a hybrid system; that is, private first loss 
+capital with a catastrophic Government guarantee. So in almost 
+all circumstances, private investors will shoulder the burden 
+of the losses. In very rare circumstances, catastrophes, the 
+Government would step in and backstop the system. The guarantee 
+would be explicit. It would be paid for by lenders and 
+borrowers and not taxpayers. And the hybrid system is in the 
+spirit of Corker-Warner. It is also what the President has 
+recently come out in support of.
+    In terms of the amount of capital, in my view the 
+appropriate amount of capital--a good benchmark for the 
+appropriate amount of capital is the Great Recession. In the 
+recession, Fannie, Freddie, the private MIs lost or will lose 
+ultimately about 4 percent. That is the loss rate, all in. To 
+be conservative, I think it would be appropriate to capitalize 
+the system at 5 percent. I think that would cover all 
+significant circumstances.
+    That would be particularly conservative in the sense that 
+the mortgages that get the Government guarantee in the future 
+system under all proposals would be QM and, therefore, the 
+loans that got Fannie and Freddie into real trouble, the Alt-A 
+loans, would not be guaranteed in the future system. So I think 
+5 percent would be appropriate.
+    In terms of the sources of capital, they should be varied. 
+We need capital--we need lots of capital. This is going to take 
+a lot of capital, and it should come from everywhere. So we 
+need capital coming from mortgage bond guarantors, MI 
+companies, and the capital markets. Very important. When you 
+have varied sources of capital, that creates stability in the 
+system. That would be particularly, I think, the key feature of 
+capital coming from mortgage bond guarantors. And it will be 
+cheaper if you have it from varied sources of capital, and the 
+capital markets are very, very important to that. And I think 
+in the Corker-Warner legislation, one of the key features of 
+that legislation that I find attractive is that it promotes 
+varied sources of capital. We need that. It is very important 
+to the future of the housing finance system.
+    In terms of the cost of the capital, you know, it is not 
+free. If we are going to have a higher capitalization rate, 
+mortgage rates are going to be higher. The question is how much 
+higher. Well, it depends on lots of moving parts, and it may 
+have to make a lot of assumptions. But my sense is under 
+reasons assumptions that to go from the current system to a 
+system that is capitalized at 5 percent probably would add 
+another 40 basis points to mortgage rates, roughly speaking--
+excuse me, 40 basis points in G-fees, and that would be passed 
+through largely in higher mortgage rates.
+    Just for context, every 10 basis points is about $15 on a 
+monthly mortgage payment, so you do the arithmetic, going to 
+the new system under my assumptions would add about $60 to the 
+average monthly mortgage payment.
+    One other thing to note is that the cost will vary 
+considerably depending on how the system is designed, and it 
+will vary depending on the credit risk of the borrower, and it 
+will vary according to where you are in the business cycle. The 
+numbers I just articulated are for the typical borrower through 
+the business cycle.
+    Let me end by saying--this is very important--the current 
+system is dysfunctional. We have to change it. It is not good 
+for taxpayers. It is not good for home buyers. I think it is 
+laudable that you are taking this up in a very serious way.
+    Thank you.
+    Chairman Johnson. Thank you very much for your testimony.
+    As we begin questions, I will ask the clerk to put 5 
+minutes on the clock for each Member.
+    Ms. Gordon, I am very concerned about the mortgage access 
+in rural areas. What is needed in a new system to ensure that 
+borrowers with similar qualifications have equal access to 
+mortgages no matter where they live? How would you design 
+requirements to ensure that borrowers and lenders in States 
+like mine are not left out?
+    Ms. Gordon. Thank you for that question. It is a very 
+important question, both for rural borrowers in States like 
+yours and for any borrower who lives in either a rural area or 
+who may be in an urban area or some area that is not as well 
+and easily served by primary lenders.
+    So what is important to remember is that while the 
+interface for most borrowers with the system is through their 
+primary lender, lenders will make those loans that the 
+secondary market encourages them to make through policies. And 
+we have had--in the system that, you know, we are hoping to 
+reform, there have been mechanisms through Fannie and Freddie 
+that do require lenders to be mindful that they are equally 
+serving all creditworthy borrowers, you know, regardless of 
+where they live or whether, you know, their file is a little 
+bit harder to go through all the papers for than somebody 
+else's.
+    And we are very concerned that if we do not build in 
+mechanisms to address that, lenders will be able to, you know, 
+what you might think of as cream the market, just basically do 
+the low-hanging fruit, do the easy mortgages, do the mortgages 
+with higher balances within whatever the loan limits are of the 
+system, and that people will be disadvantaged, particularly in 
+States like yours.
+    And so we think it is critical to establish in this bill 
+some kind of responsibility for the secondary market to oversee 
+making sure that all of these parts of the market are being 
+adequately served, which means, you know, doing some kind of 
+examination of the market, some kind of examination of where 
+the demand and need is, and then looking at whatever entities 
+ultimately are accessing the Government guarantee and providing 
+the wrap, making sure that they are covering all of these 
+different populations equally.
+    Chairman Johnson. Mr. Lienhard, will qualified borrowers 
+and lenders of all sizes have fair access to the secondary 
+market if private capital is require to play a larger role in 
+front of a Government guarantee? Will this work with the TBA 
+market? And how does the TBA market impact borrowers and 
+lenders?
+    Mr. Lienhard. Thank you for the question, Senator. I think 
+that the beauty of the TBA market or actually the beauty of the 
+construct that we have now and what I think needs to be 
+preserved, as I mentioned in my testimony, is this separation 
+of credit risk from interest rate risk. And so presumably the 
+interest rate risk investors do not differentiate between the 
+creditworthiness of the borrower. That is disintermediated 
+ahead of the TBA market by the credit guarantee function. So as 
+I understand your question--and I would be happy to have you 
+help make me more clear in that understanding--I think the 
+answer to your question is properly structured, yes. But I 
+think that the critical nature of that structure does not 
+necessarily reside in the TBA market but, rather, in the 
+guarantee aspect of whatever reform we do. I do not know if 
+that is a comprehensive answer.
+    Chairman Johnson. Mr. Johns, do you believe private 
+investors are willing to stand in the first loss position 
+before our Government guarantee both in good times and bad? 
+What will investors need to accept credit risk of a first loss 
+position? And does that work with the TBA market?
+    Mr. Johns. I think the short answer is that investors are 
+prepared to step into that role, as we have seen on the Freddie 
+transaction. There was a sizable demand for the credit-linked 
+note product, and I think there were 50 investors or over 50 
+investors, and the investors were scaled back fairly 
+significantly, and I think all reads from the market are that 
+there will be support for, you know, being able to facilitate 
+those transactions again.
+    In addition, obviously, you have to look at the sort of 
+broad swath of options out there such as the mortgage insurers 
+and the bond insurers, you know, together with the capital 
+markets, looking for the way to raise the private capital.
+    Chairman Johnson. Senator Crapo.
+    Senator Crapo. Thank you, Mr. Chairman.
+    I hope this question I want to get into here will evoke 
+responses from all of you on the panel. I am going to start out 
+with Dr. Zandi and Mr. Johns and then move to Mr. Lienhard and 
+Ms. Gordon.
+    The issue is the forms and sources of private capital that 
+we need to bring into the market. I think there is pretty 
+clearly an emerging consensus that whatever the shape of the 
+future housing finance system we create is, it must be designed 
+to attract more private capital and decrease the Government 
+role from what we currently have.
+    That being said, I think that I see in the testimony of the 
+witnesses a little variation in terms of how we should approach 
+that. Mr. Johns and Dr. Zandi, in your testimonies you both 
+have advocated for the allowance of various forms of private 
+capital to come into the system to meet market needs. So to 
+start with you, what are the benefits that you see to sourcing 
+private capital from many sources? And maybe you could also 
+kind of define what you see those sources being broadly?
+    Mr. Zandi. Well, there are two broad sources. The first is 
+what I would call an insurance source--bond guarantors, private 
+mortgage insurers, insurance entities. And the second I would 
+label as capital market sources. Both are critical to a well-
+functioning system.
+    The insurance capital is more stable through thick and thin 
+because of the way it is structured and set up, and one of the 
+goals of any future housing finance system is that it obviously 
+has to be stable. We need the flow of mortgage credit through 
+good times and bad times.
+    The strength of the capital markets source of capital is 
+that it can bring down the costs, and most of you get price 
+discovery. You get a clearer sense of what the cost of risk is, 
+because capital markets are pretty good at doing that. And so 
+by bringing in capital market sources, you will lower the cost 
+to mortgage borrowers through lower mortgage rates. So both are 
+very important.
+    Now, how you structure that and how you align those two 
+sources of capital up is a very difficult but critical 
+question, and that is very, very important, but both sources 
+are needed.
+    Senator Crapo. Well, thank you, and we probably need to get 
+into that in some depth, but I do need to move along. So, Mr. 
+Johns, do you want to add anything to that perspective?
+    Mr. Johns. I think that I would go along with what Dr. 
+Zandi said, that we would support their--I think, you know, 
+maybe a couple of points. It is all--well, it is not all 
+about--a lot of our focus needs to be on making sure that the 
+TBA market continues to function when you look at the private 
+capital alternatives. And, you know, insurance is not something 
+that necessarily can directly impact the pool of loans within 
+the MBS, and, therefore, I think that is something that has 
+some potential.
+    The credit-linked note structure that Freddie did was a 
+synthetic transaction, and, therefore, the actual loans that it 
+referenced, you know, were not specifically sort of cash-flow 
+impacted in the structure of the transaction, leaving the TBA 
+market largely unaffected as a consequence.
+    There are other structures, senior subordination, you know, 
+structures where you might say--you know, have a sort of deep 
+subordination piece of the transaction and then have a AAA or a 
+senior rated piece that is delivered into the TBA market. That 
+is a different structure that we would have to look at and 
+evaluate exactly how we would get that to work with the TBA 
+market that is currently based on a pass-through mechanism.
+    Senator Crapo. All right. Thank you.
+    And, Mr. Lienhard, I may have to get to you next time, the 
+next round, because I am running out of time and I wanted to 
+get to Ms. Gordon, because if I understand it correctly, you 
+believe we should rely solely on bond guarantors. Is that 
+correct?
+    Ms. Gordon. That is what I believe, and it is really for 
+two reasons. One is, as everybody has been discussing, the 
+importance of the TBA market and the belief that even--you 
+know, we have already heard that a senior substructure would 
+pose some problems for TBA. But even if you have some other 
+kind of reference pool type structure, the fact is that these 
+sort of one-off deals do not lend themselves as well to the 
+kind of homogeneity that you need for an effective TBA market. 
+They do not do as good a job at allocating risks across years, 
+regions, lenders, and the like, but especially across years 
+that you have an insurance format.
+    And also, just to Dr. Zandi's point regarding price 
+discovery, we do have to--the private capital market's track 
+record on pricing mortgage risk is checkered, as is 
+everybody's, and so that is an area where you do introduce some 
+uncertainty. And, again, even if in any individual structured 
+transaction that actual transaction is funded, if you do not 
+know how the investor institutions are carrying that on their 
+books and evaluating it, you do not know if you are just 
+exporting risk out of that particular mortgage-backed security 
+into the larger financial system.
+    Senator Crapo. Well, thank you. My time has run out, but we 
+will get back to this.
+    Chairman Johnson. Senator Reed.
+    Senator Reed. Well, thank you very much, Mr. Chairman. I 
+want to commend Senator Corker and Senator Warner for moving so 
+thoughtfully on this issue. I think, again, I thank the 
+witnesses, but also the Chairman and the Ranking Member 
+because, as we move here, I think we appreciate with each step 
+how complex, interrelated, and how thoughtful we have to be 
+about these judgments. We are transforming a huge, huge part of 
+our economy, and I am glad we started, and I think Senator 
+Corker and Senator Warner deserve a great deal of credit. Thank 
+you, gentlemen, very much, and I thank the Chairman and the 
+Ranking Member.
+    Mr. Zandi, just this very simple-minded question in a very 
+complex field, but you talk about capital, but one of the--sort 
+of looking back, there was a lot of mysterious capital in the 
+banking field several years ago, i.e., people created entities, 
+borrowed, leveraged themselves up to their--you know, wherever 
+they could, and then it used that capital to go in and to 
+invest in different products.
+    I know there is an ongoing FHFA pilot program, $30 billion 
+in credit risk, et cetera. In general, and in terms of the 
+pilot, is that an issue we have to deal with? And how might we 
+deal with it in terms of avoiding being overleveraged?
+    Mr. Zandi. Well, that is a good question. One of the 
+concerns about capital markets as a source of capital is, in 
+fact, leverage in the entire system. This is what Ms. Gordon 
+was referring to. And it needs to be considered in the context 
+of the broader financial system and any future housing finance 
+system that we establish. So that is a potential risk created 
+by drawing capital from the capital markets.
+    I do not think we are anywhere close to that yet. We are in 
+early stages here, and what Freddie and Fannie are doing is 
+quite small in the context of all the things that are going on, 
+and quite appropriate, in my view, because we need to 
+experiment. We need to see what works, what does not work, what 
+the risks really are, and how to manage those risks.
+    So what they are doing is entirely appropriate, but you are 
+right when we are thinking about the future of the housing 
+finance system and the capital structure and where the capital 
+is coming from, this is one of the risks that we need to really 
+think about because there is a potential systemic problem.
+    Senator Reed. And that just touches on what I think 
+everyone has reflected, that there has to be a regulatory 
+authority here that is looking at where the capital is coming 
+from, that is looking at: Are these products accessible, 
+available to everyone? Do they include multi-family housing as 
+well as single-family housing? And that is something I think we 
+would all recognize.
+    Mr. Zandi. Yes, I think I am taking as given that we are 
+going to have a catastrophic Government guarantee. I cannot see 
+any system that does not work without that, and that requires 
+regulation.
+    Senator Reed. And that guarantor would be effectively a 
+regulator as well as a guarantor.
+    Mr. Zandi. Exactly, yes.
+    Senator Reed. Mr. Johns, you talked about the TBA market is 
+very critical, and there are multiple proposals, but one 
+proposal seems to separate it into sort of two categories: 
+first, a guaranteed piece up front, and then an unguaranteed 
+piece, which would be sort of--or senior/junior, however you 
+want to describe it. The issue might be, How do you price the 
+second piece? It is pretty easy with a guaranteed--or easier to 
+price a guaranteed issuance. I think that is a fair assumption. 
+Is that a problem with this, having this set of bifurcated 
+approach to TBA markets?
+    Mr. Johns. I do not know whether it is a problem 
+necessarily. It is certainly something I am happy to take away 
+to our members and talk about.
+    What I might highlight there is that with that proposal you 
+are creating a bifurcation of the old market versus the new 
+market, and consequently, you will have a very shallow new 
+market when you move forward with that structure, which creates 
+its own liquidity issues in and of itself.
+    Senator Reed. So the question then--one of the first 
+questions not only in terms of pricing is liquidity. Would 
+actually anyone come into that market given the narrow--the 
+ability--the lack of liquidity. Is that a fair----
+    Mr. Johns. I think so. I mean, look at liquidity as almost 
+synonymous with cost. If you have shallow liquidity, the cost 
+goes up. If you have deep liquidity, the cost goes down.
+    Senator Reed. Again, I think this is extremely helpful, and 
+as we go forward, I think we will learn more and I think very 
+productively raise more questions than initially we will have 
+answers, and that will allow us to come to a better answer at 
+the end of the day. But thank you all for your excellent 
+testimony.
+    Thank you, Mr. Chairman.
+    Chairman Johnson. Senator Corker.
+    Senator Corker. Mr. Chairman and Ranking Member, thanks for 
+having the hearing, and I do think we are at a point in time, 
+after really 5 years--I remember how controversial the whole 
+Freddie/Fannie issue was during the time we tried to do 
+financial regulation. I think we are at a point where we are 
+ready to take that on, and I thank you for having these 
+outstanding witnesses.
+    To the witnesses, you know, 10 Members of this Committee, 5 
+on each side, have gotten behind the bill called S. 1217, and 
+numbers of other folks on the Committee I know are working on 
+this issue and have really spent a lot of time on it. And I 
+commend everybody for the time they spent on this issue.
+    But starting with you, Dr. Zandi, is Senate bill 1217, with 
+10 Members of this Committee on it and probably others being 
+added, a good starting point?
+    Mr. Zandi. Absolutely. I think it is an excellent starting 
+point. I think it shows a lot of hard work and a lot of good 
+ideas and thoughts. And I do not know why you would want to 
+start from scratch. I would start with that legislation. It is 
+an excellent place to get going.
+    Senator Corker. Mr. Johns?
+    Mr. Johns. I would agree. I think, you know, as I 
+testified, we do believe that there is a phased implementation 
+that we can work with on this, but the framework in and of 
+itself and the end game is something that in general the 
+industry is supportive of.
+    Senator Corker. Mr. Lienhard?
+    Mr. Lienhard. I believe a multi-trillion-dollar industry 
+being run in conservatorship is long term an untenable 
+situation. I think this bill definitely highlights all of the 
+issues in moving forward, so, yes, I think it is a very good 
+start.
+    Senator Corker. Ms. Gordon?
+    Ms. Gordon. Absolutely I agree. I am just so glad that 
+someone has started because I agree with Mr. Lienhard that we 
+cannot continue in the conservatorship mode.
+    There does remain, as I mentioned, work to be done. I think 
+we have done a lot of work on the sort of asset class side of 
+things. We still need to do a lot of work on the access for 
+borrowers side to get the bill to a place where we will, you 
+know, feel like it can pick up and do better than the last 
+system.
+    Senator Corker. I appreciate that, and I would hope 
+everybody would continue to make what has been worked on for a 
+year even better, and I thank you for that comment.
+    One of the things I think that the 10 Senators who all made 
+major contributions to this piece of legislation, all of which 
+are on this Committee, tried to do was to create something that 
+is more dynamic. I think all of us know we have this duopoly 
+right now. I know that even though it has some strengths, there 
+are a lot of weaknesses in that regard. And just again to go in 
+the same order, have we done something with the construct? 
+Again, we all know that, you know, there are tweaks that people 
+would like to make, but have the 10 Senators on this Committee 
+that have worked on this created something that is more dynamic 
+in structure than the system we now have?
+    Mr. Zandi. Yes, and I think that goes to the fact that in 
+the legislation, you worked very hard to promote varied sources 
+of capital. It is not just coming from one place. Let a 
+thousand flowers bloom. Let us see what works here, what does 
+not work. At some points in time, some sources of capital are 
+going to work better than other sources of capital. And I think 
+that makes the system dynamic, as you say, certainly more 
+innovative because there is going to be more competition in the 
+system as a result of that; lower costs because you are going 
+to have capital coming in from different places; and, 
+ultimately more resilient, as well.
+    So, I think that is the strength of the legislation, that 
+you are allowing the system to be, as you call it, more 
+dynamic, yes.
+    Senator Corker. Thank you.
+    Mr. Johns. I would agree again with what Dr. Zandi says. I 
+think as well the developments of a common securitization 
+platform that allows you to have more dynamicism, and the 
+various forms of capital that could be--you know, private 
+capital that can be considered for the proposed enhancement I 
+think as well leaves you with a dynamic element. Of course, 
+that could, you know, settle hopefully as we feel our way as to 
+what the most viable structure is.
+    Senator Corker. OK.
+    Mr. Lienhard. I am assuming we have the same definition of 
+dynamic, yes, but one of the things I am concerned about--and 
+it is not entirely clear to me that the bill yet addresses 
+this--is the relative potential--the potential to disadvantage 
+a regional originator versus a national originator, an 
+unintended consequence of that simply because of the regional 
+concentration or various exposures that exist in certain 
+States, and so that would be something I would really be 
+concerned about. So dynamic, yes, but I am not sure that is 
+clear.
+    Senator Corker. Well, and I am glad you made that comment. 
+You know, I have spent a lot of time with your CEO and your 
+former CEO, and, you know, regionals are kind of no-man's-land. 
+You know, some people like that, some people do not. I think 
+you all like it. But I do think that we have done a lot here to 
+focus on, you know, where the--making sure the larger 
+institutions do not have an advantage and making sure that the 
+smaller institutions, as I think the Chairman alluded to when 
+he began, had a lot of access. But I agree that we need to do 
+some work to ensure that the regionals that in some ways are 
+no-man's-land end up in a good place, and I appreciate you 
+bringing that up. And I am not going to go to you, Ms. Gordon, 
+because I am--I know I am out of time. I do want to say just if 
+I could make one point, thank you, though for being here and 
+thanks for your organization's contributions to helping us all 
+with this bill.
+    There has been some discussion about capital and the 
+increased cost--of the 10 percent capital, I might add, Dr. 
+Zandi. But I am just, of course, getting with you.
+    The fact is, you know, there are numbers of things that 
+actually lower the cost, and when you look at the increased 
+competition, the fact that you have issuers who are going to be 
+competing with technology, you have got a single security 
+platform instead of a dual platform like we have now, you have 
+the full faith and credit, you have got uniform PSA, you have 
+got a clear definition of reps and warrants, and, candidly, you 
+move beyond the legal limbo that we are in.
+    So I know that there are some costs of capital, but when 
+you create the kind of dynamic and clear clarity that we would 
+be doing with this bill, you also have some things that would 
+lower costs. Would that be a fair statement to make?
+    Mr. Zandi. Absolutely. And I did not comment on the 10 
+percent capital. In my view, 5 percent is appropriate. But 
+getting to 10 percent, I think it can be organized in a way 
+that it is not too costly. And you are absolutely right, there 
+are things in the legislation--which should be, by the way, in 
+every legislation--that will lower costs relative to where we 
+are today, absolutely.
+    Senator Corker. I thank all of your for your testimony and 
+your contribution and Mr. Chairman and Ranking Member for 
+having this hearing.
+    Chairman Johnson. Senator Menendez.
+    Senator Menendez. Thank you, Mr. Chairman. Thank you all 
+for your testimony.
+    As the Committee considers its priority for housing finance 
+reform, I think there are several objectives, but one that I 
+would like to hear from you on that I think is very important 
+and that I consider the bedrock of our current system is the 
+30-year, fixed-rate mortgage, which has made home ownership 
+more accessible and affordable for generations of Americans, 
+and most assessments of the market have concluded that, without 
+some form of public sector guarantee or backstop, the vast 
+majority of home buyers would lose access to that type of 
+product.
+    So, number one, for the panel, do you all agree with this 
+assessment? And, second, can you discuss what would be the 
+impact to home buyers and even homeowners who, as they try to 
+sell, would find themselves with a marketplace quite different 
+in terms of who the buyer would be of losing a 30-year, fixed-
+rate mortgage?
+    Ms. Gordon. I am happy to take a start. Yes, we absolutely 
+agree with you that the 30-year, fixed-rate mortgage has been a 
+tremendous product for families. It is sustainable. It helps 
+make home ownership affordable. And we think protecting it 
+should be one of the key goals of the work we are doing here 
+now.
+    We believe you really need two things to protect that 
+product: one is the Government backstop guarantee, and the 
+other is the TBA market, which needs to be sufficiently liquid 
+that institutional investors can move in and out as they are 
+required to do so that they continue to have interest in 
+participating in this system. And so that is--you know, as we 
+go forward--assuming that we have now somewhat crossed the 
+Rubicon of having the guarantee and these discussions, really 
+digging down and making sure that we are really protecting that 
+TBA market and that we fully understand the impact of these 
+different structures on that is really important. You know, as 
+Mr. Johns said, if we start to fragment that or make TBA 
+shallower, it will not work as well.
+    Mr. Johns. I would just follow on from Ms. Gordon there. I 
+think Ms. Gordon highlighted the need for the TBA and the 
+Government guarantee. I think the two are effectively the same. 
+If you are going to have the TBA remain liquid, you know, then 
+the guarantee is required. And if the guarantee is there, the 
+TBA market should be there providing we are cautious not to 
+fragment that market, which will enable the maintaining of the 
+30-year fixed.
+    Senator Menendez. Well, I hope we have crossed the Rubicon. 
+I am never sure we have crossed the Rubicon until we cross it. 
+But I hope that that is there. I think this is one of the 
+essential elements, and I think those who have been working on 
+this issue--I have shared my thoughts on it--I think they 
+believe so, too.
+    Another thing that I am concerned about is a multitude of 
+housing finance reform plans that many of you have either 
+authored and/or helped contribute to. I think most of those 
+plans acknowledge the need to keep in place some form of that 
+Government guarantee or backstop, and in doing so, the 
+attention naturally turns to policies as it relates to 
+protecting taxpayers from losses, which is an important 
+interest.
+    One example that is given in that regard is setting minimum 
+underwriting standards for a mortgage to qualify for a 
+guarantee. And as part of those standards, some proposals have 
+suggested requiring a high minimum downpayment for a borrower 
+to qualify.
+    Now, certainly no- and low-downpayment mortgages were a 
+major problem during the financial crisis, and a downpayment 
+certainly can affect the size of the riskiness of a loan. But 
+my concern is that if we go too far in the other direction and 
+set the bar too high, we will end up shutting out the market of 
+creditworthy individuals and families who will have other 
+compensating factors and are in a high-risk default at all. I 
+know that in my own case, the first home that I bought, if some 
+of the standards that are being suggested were the case, I 
+would never have achieved that. And I was a responsible 
+borrower and have been a responsible borrower ever since.
+    So my concern is a requirement that is too high can 
+seriously undermine the goal of helping Americans afford home 
+ownership. There is one prominent analysis that estimates that 
+it would take an average family 14 years to save for a 5-
+percent downpayment and 22 years to save for a 10-percent 
+downpayment.
+    So my question--maybe, Ms. Gordon, I think you have done a 
+lot of work in this regard, but I am happy to hear from 
+others--can you elaborate on the importance of getting the 
+calibration right on the policies like downpayment requirements 
+in order to properly balance the goals of protecting taxpayers 
+but also meeting the goals that we have of making sure that we 
+can give responsible borrowers the opportunity to have the 
+ability to own their home?
+    Ms. Gordon. Thank you so much for asking that question. 
+This is a matter of utmost concern to us when we think about 
+accessibility of the system to the average homeowner.
+    First, let me just say that while we saw a problem during 
+the crisis with loans that had low downpayments, it was not the 
+low downpayment characteristic that caused these loans to be 
+risky. These loans tended to be heavily risk layered; you know, 
+maybe it was a negative amortization loan that had a low 
+downpayment and had little or no underwriting that was taking 
+place. And that caused loans that were low downpayment to be 
+risky or to fail. There is quite a great deal of evidence that 
+well-underwritten and safe fixed-rate mortgages that were made 
+with low downpayments performed quite well throughout the 
+crisis. And so, you know, I think we cannot just isolate that 
+one factor and say this factor in and of itself is a big 
+problem.
+    That said, you know, different lenders will have different 
+views as to downpayment, which I think is appropriate. What I 
+do not think we should do is enshrine a particular number in 
+legislation. I think that would be a mistake regardless of 
+which number we pick.
+    Senator Menendez. Thank you.
+    Chairman Johnson. Senator Johanns.
+    Senator Johanns. Let me also add my voice to those who are 
+saying thanks to Senator Warner and Senator Corker. And to the 
+Ranking Member and to the Chair, thank you so much for taking 
+this issue on.
+    Ms. Gordon, I could not agree with you more. Thank goodness 
+somebody after 5 years has grabbed hold of this, because the 
+one thing that seems clear from everybody's testimony is the 
+current system is not where we want to be. We need to head in a 
+different direction.
+    Dr. Zandi, you are probably feeling picked on because I am 
+going to start with you also at the start here.
+    Mr. Zandi. Well, you know, all my life I have been at the 
+end of the list.
+    [Laughter.]
+    Senator Johanns. That is right.
+    Mr. Zandi. Bring it on. It feels good.
+    Senator Johanns. It feels good to be in the A category, I 
+guess.
+    Mr. Zandi. In the A category, yes.
+    Senator Johanns. I was following your testimony about 
+capitalization, and I think there are a lot of central pieces 
+to this legislation, S. 1217, but I think that has got--we have 
+got to get that right, or this thing just does not work.
+    You expressed an opinion that 5 percent is a good 
+benchmark. I do not disagree with that. I think there is some 
+safety built into that. You talked about varied sources of 
+capital, and you have expanded on that.
+    You then talked about G-fees and the impact on the monthly 
+payment. I want you for the record, just so we are clear on 
+this, to please explain how G-fees and other sources of capital 
+are going to get us to this varied capital system, if you will. 
+Do you follow my question?
+    Mr. Zandi. I am not sure I do.
+    Senator Johanns. Yes. What I am trying to figure out is: 
+How would you describe G-fees relating to what we are trying to 
+accomplish here? That is really what I am getting to.
+    Mr. Zandi. G-fee is a guarantee fee. It is the cost to 
+mortgage borrowers through the mortgage interest rate for 
+paying for the potential losses that will occur from the 
+lending. So, you know, you make loans. Some loans are going to 
+go bad. That is going to create losses. And you need to charge 
+a fee to compensate for those losses, and that is what the 
+guarantee fee is.
+    Now, if you want to be prepared for a little bit of loss, 
+then you would only need a lower G-fee. If you want to be 
+prepared for bigger losses, which I think we are talking about 
+here--and we need to be prepared for bigger losses given what 
+we went through--it is going to result in a higher G-fee or a 
+higher mortgage rate.
+    Senator Johanns. And to get to----
+    Mr. Zandi. Does that make sense?
+    Senator Johanns. It does.
+    Mr. Zandi. OK.
+    Senator Johanns. To get to the 5 percent that you think we 
+should be focused on, you are saying that the net effect of 
+this to the borrower is going to be roughly $60 a month.
+    Mr. Zandi. Yes. That is obviously a lot of moving parts, a 
+lot of assumptions. I am making assumptions about the future 
+finance system, how we are going to organize ourselves. But my 
+sense of it is that is a good ballpark figure. To get from 
+where we are today, literally today, to that 5 percent world 
+that we all feel really comfortable about and everything looks 
+proper, I think it is going to be $60 a month, roughly.
+    Senator Johanns. OK. Now let me shift focus a little, and 
+others can jump into this. In my State, like so many other 
+States, I am worried about the small lender, the community bank 
+out there that is not looking to be regional, but they want to 
+serve their clientele. They want to create a relationship and 
+continue that relationship.
+    We have tried with S. 1217 to make sure that their 
+interests are protected. I would like your opinion as to 
+whether you think S. 1217 gets us there.
+    Mr. Zandi. Would you like my opinion?
+    Senator Johanns. Yes. Start, and we can go right on down.
+    Mr. Zandi. I do. I think it is clear that the legislation 
+is very sensitive to this issue. There are two key elements of 
+the legislation that address this. One is in the common 
+securitization platform there will be multi-lender securities. 
+So what that means is that small lenders--community banks--can 
+sell into a security, and that security will get the Government 
+guarantee. So they have access to the Government guarantee. So 
+that is very important and I think critical to any system, 
+because that is important for rural areas and more niche 
+markets.
+    The second aspect of this is in the legislation itself 
+there is a carveout for a bond guarantor that would service, 
+explicitly service small lenders. So it is in the legislation. 
+It is there to help protect against some of the concerns that 
+you might have.
+    So I think there are things we can think about and we can 
+tweak this and make this probably work a little bit better. But 
+I think those two things go a long way to addressing that 
+concern.
+    Senator Johanns. I am just going to have to ask the rest of 
+the panel if they see something different, because I am out of 
+time. Mr. Johns?
+    Mr. Johns. I would not say I see anything different. I 
+would maybe sort of add to that that when you are looking at 
+some of the constructs of, for instance, the credit-linked note 
+product, you also want to be amenable--or we should as an 
+industry be looking at potential structures that allow multi-
+issuers to that extent, which also, I think, ties in with one 
+of the points that Mr. Lienhard made earlier.
+    Senator Johanns. Go ahead.
+    Mr. Lienhard. As I look at the legislation, I do think that 
+it has addressed the needs of small lenders well, and I think 
+about the regionals as being the ones sort of disadvantaged.
+    Senator Johanns. OK.
+    Mr. Lienhard. I will answer in the negative.
+    Senator Johanns. Ms. Gordon, any thoughts on that?
+    Ms. Gordon. I am glad the legislation does have some 
+specific structures that will help in this regard. You know, I 
+think some other things that--there are some ways to prevent 
+market concentration that are not in here, such as preventing 
+an originator from also being a bond guarantor, that I think we 
+should think about for this legislation.
+    Senator Johanns. OK. Thank you, Mr. Chairman.
+    Chairman Johnson. Senator Warner.
+    Senator Warner. Thank you, Mr. Chairman.
+    I want to again actually start with Mr. Zandi. I think you 
+appropriately pointed out that any reform may add some costs. 
+But wouldn't you agree that at this point in conservatorship 
+that we have an artificially low, nonsustainable pricing system 
+in that we have no private capital, we have a direct Government 
+guarantee, Fannie and Freddie have--so that regardless of what 
+reform would look like, there is going to be some bump-up in 
+mortgage rates just because the system now has, in effect, no 
+capital at risk?
+    Mr. Zandi. Yes, I think that is clear. I mean, I think the 
+question is ultimately who pays. Is it the taxpayer who is 
+going to pay for the mortgage, or is it going to be the lender 
+and the borrower who pays for the mortgage, the full, all-in 
+cost going through thick and thin economies? And right now it 
+is on the taxpayer.
+    Senator Warner. Right now it is 100 percent on the 
+taxpayers, no private capital at risk.
+    Mr. Zandi. And I think that is not appropriate.
+    Senator Warner. We, in effect, have while potentially 
+artificially low mortgage rates at this point, we clearly have 
+all taxpayer exposure.
+    Mr. Zandi. It is all taxpayer exposure, and it is 
+inappropriate. And, actually, given the rise in G-fees since 
+the GSEs have been in conservatorship, this has become less of 
+an issue, but it is certainly still an issue.
+    Senator Warner. And would there be any disagreement on the 
+panel in terms of the current status?
+    Mr. Lienhard, let me acknowledge--one, thank you for coming 
+up from Richmond. And, two, I agree with some of my colleagues 
+that while we have, I believe, tried to make a very good-faith 
+effort to make sure that the community-based banks, the credit 
+unions and others, get access through a mutual or other entity 
+so that they get that kind of fair pricing and nondisadvantage, 
+that the regionals are kind of in between here. How will we get 
+you into a market where there is--you get the same kind of 
+pricing protection, but you get the kind of geographic 
+diversity and others that you need? You know, at least as one 
+of the group of 10 who have been involved in this, I am open 
+for business on how we sort that through in a better way. I am 
+not sure if you want to make any direct comment right now, but 
+I look forward to----
+    Mr. Lienhard. I mean, the only comment I would make is 
+thank you for acknowledging that, Senator, and I think it is 
+important to point out the fact that I believe our customers or 
+our clients are advantaged by our ability to compete not only 
+with small lenders but also the large lenders. And to the 
+extent that the regionals are just by construct disadvantaged, 
+that reduces the competition. So I appreciate both your and 
+Senator Corker's acknowledgment of this and would really look 
+forward to working with your staff on ways to resolve----
+    Senator Warner. And let me also acknowledge, I think 
+servicing improvements need to be made and there are multi-
+family improvements.
+    Ms. Gordon, I want to thank you again publicly for all the 
+ideas and input you have had. I also want to make a bit of an 
+editorial comment here in that, you know, kind of looking back 
+at the old system, where we had a profit--you know, this 
+profit-making enterprise that, as times were good, would make 
+profits but when times were bad, the public bore the risk. It 
+seemed like we had almost too many functions in Fannie and 
+Freddie. We had a profit-making venture. We had this Government 
+backstop entity. And we also had, you know, very important, 
+again, goals that you have articulated quite well, you know, 
+market access goals.
+    I would argue that the way S. 1217 has tried to separate 
+out those goals--and I know you have got ideas on tweaks, but 
+actually make sense. And would you acknowledge at least--as a 
+matter of fact, in the old system, unfortunately, these 
+entities got criticism from both ends of the political 
+spectrum. They got from those who were perhaps on the 
+progressive end saying you are not doing enough, and you got 
+interests from more the market-based section saying you are 
+disrupting your market function by doing too much.
+    Would you acknowledge that many of the very appropriate 
+public housing goals that we would sometimes legislate with 
+housing trust funds and others, worthy goals, but were 
+oftentimes never funded?
+    Ms. Gordon. Well, we have certainly had a problem in the 
+past with not achieving, you know, exactly what we wanted to 
+achieve. The National Housing Trust Fund and the Capital Magnet 
+Fund are not being funded now even though the enterprises are 
+awash in proceeds. And so I am not even sure why they are not 
+being funded at this point.
+    I think that in looking at the bill, which, you know, we 
+are very glad to see, though we do, of course, want some 
+tweaks, that there is the provision to collect a fund that will 
+be used to support those borrowers or communities that need 
+something of a leg up to participate in the conventional 
+market.
+    I do think, just to refer back to my answer to Chairman 
+Johnson earlier, that the bill probably needs to do more to 
+ensure that existing creditworthy borrowers are served, 
+regardless of where they are or whether they are self-employed 
+or whether they live in a rural area. I think we need to 
+advance more on that.
+    But I think we should be aware, you know, in a policy sense 
+that Fannie and Freddie did have a very clear public purpose. 
+It did have affordable housing goals. And while there are those 
+who think, I think incorrectly, that the goals caused the 
+crisis, whereas there are others, as you noted, on the 
+progressive side who feel like the goals never did enough, the 
+fact is if we are dismantling that system, it is absolutely 
+critical to have a strong sense of public purpose at the center 
+of this new system in a way that is sustainable and 
+appropriate.
+    Senator Warner. And my time is up. I would simply say--and 
+I know there are others who disagree with part of this, but at 
+least if we are going to have these goals and part of the 
+nontax pricing function of this Government backstop would give 
+this auditable, identifiable funding entity that you could--we 
+could measure in a way that we were never able to measure when 
+it was commingled in the old system. And, again, we may agree 
+whether this is appropriate or not, but I actually think there 
+is a lot more transparency and a lot better ability to audit 
+than we had in the past. And I thank again the Chair and the 
+Ranking Member for the hearing and their willingness to work on 
+this.
+    Chairman Johnson. Senator Toomey.
+    Senator Toomey. Thank you very much, Mr. Chairman. I want 
+to follow up in the direction that Senator Warner was going. 
+But first a quick question. I hope there is unanimity about 
+this. That is, with respect to this idea that some 
+municipalities have floated that they will, under the 
+justification that they give citing eminent domain, they are 
+threatening to confiscate certain private-label mortgages from 
+investors.
+    So putting aside what strikes me as an egregious affront to 
+the Constitution, the rule of law, and private contracts, does 
+everybody agree that, to the extent that this were actually to 
+take place, it would certainly discourage private capital from 
+going into the residential mortgage market? Does everybody 
+agree with that? And that that has, of course, the consequence 
+of making mortgages either less available or more expensive or 
+both?
+    Mr. Johns. I would actually go a little further and say not 
+just it will discourage, it is discouraging, the mere threat--
+--
+    Senator Toomey. The mere threat is already having that 
+effect.
+    Mr. Johns. Absolutely.
+    Senator Toomey. Does anybody dissent from that?
+    Ms. Gordon. I mean, I am not sure I will dissent that the 
+threat is having an effect, but I will say that, first of all, 
+I think this is a local matter; and, second, there have been 
+numerous efforts for municipalities to be able to address the 
+problem that they face. And until they have a way to address 
+that problem, it is not surprising that a number of different 
+avenues are being pursued.
+    Senator Toomey. OK. Thanks.
+    Let me go on to the heart of this, another matter, which is 
+I am little concerned that it sounds as though it is almost 
+given as a certainty that there must be a Government guarantee 
+in this market. And I would remind everybody, for what it is 
+worth, the House Banking Committee has passed out of Committee 
+a GSE reform bill that has no Government guarantee. So this is 
+not terribly unusual. I would also point out we have huge 
+segments of our capital markets that have never had a 
+Government guarantee. Nobody contemplates a Government 
+guarantee, I trust, for commercial paper markets and corporate 
+bond markets and other sorts of markets where the private 
+sector provides massive liquidity on a routine basis.
+    I also want to stress there are very substantial risks, I 
+think, that attend to a Government guarantee. The obvious is it 
+puts taxpayers at risk. And I think we should not overlook that 
+risk that taxpayers bear.
+    I think it tends to divert capital that would otherwise go 
+to other places, but if the Government is weighing in with a 
+guarantee, it creates incentives to send money in certain 
+places. It probably encourages excessive risk taking.
+    And the last and the biggest risk, I think we have heard 
+allusions to it around this table today, which is the 
+inevitable politicization of the process. If you have a 
+Government guarantee, it is necessarily a political process to 
+define the terms under which one has access to that guarantee. 
+And in the process of setting those rules, what we hear--and, 
+in fact, the Senator from New Jersey brought it up as his very 
+next question--the concern that maybe not enough people will 
+have that access. All the politics always drives toward ever 
+expanding the universe of people who will have access to this, 
+and I do believe that this political mandate to expand mortgage 
+lending to people, including some who were not able to pay back 
+those mortgages, was absolutely at the heart of the financial 
+crisis that we just went through. And it seems to me 
+maintaining a Government guarantee preserves--continues that 
+risk. And it can be lessened somewhat. I am sure there are ways 
+to do that. But I do not see how it ever goes away.
+    Now, it seems to me the arguments I hear and justification 
+for the Government guarantee usually seem to be variations on 
+three arguments: one, we need it to maintain the 30-year, 
+fixed-rate mortgage; number two, it helps keep mortgage rates 
+lower than they would otherwise be; and, number three, it is 
+the assurance that we will always have a liquid market, even in 
+the worst of circumstances that might otherwise dry up the 
+private capital.
+    I think we should spend some time really evaluating these 
+presumed advantages. I do not think we have challenged them as 
+thoroughly as we might.
+    A quick question. Mr. Zandi, I think you were asked the 
+question in a House hearing, a Banking hearing, I assume, about 
+whether or not you thought there would be a 30-year, fixed-rate 
+mortgage product in the absence of a Government guarantee. And 
+if my information is correct, the answer was that we probably 
+would have such, and we do, after all, have private-label 
+securities, including 30-year, fixed-rate private-label 
+mortgages that have no Government guarantee. So the product 
+does exist in the absence of a Government guarantee. Isn't that 
+true?
+    Mr. Zandi. It does. It would be a marginal product compared 
+to where it is today. Europe, the rest of the world, would be a 
+good case study for what the 30-year, fixed-rate would look 
+like without a Government guarantee. And if you look at those 
+markets, the share of the market that has a 30-year, fixed-
+rate, fully prepayable mortgage is small, 10, 15 percent of the 
+market.
+    Senator Toomey. But there could be other differences that 
+might explain part of that as well.
+    Mr. Zandi. Could, yes, absolutely.
+    Senator Toomey. And so it is not clear that that is the 
+whole thing. And we have had private-label mortgages and jumbo 
+mortgages that are 30-year and fixed and they have no 
+Government guarantee.
+    Mr. Zandi. Yes, but I think it is reasonable--a prudent 
+planner would expect, without any Government guarantee--take 
+the House financial services bill, the PATH bill. If that were 
+law, taken as is, the share of the mortgage market that would 
+be a 30-year, fixed-rate, fully prepayable mortgage would be 
+much, much smaller than it is today.
+    Senator Toomey. Or it might be maintained but at a higher 
+rate.
+    Mr. Zandi. Well, it would be at a higher rate, so then it 
+would be unaffordable and therefore the share would be----
+    Senator Toomey. Well, it is an open question as to how much 
+of the difference in rate gets capitalized in land values and--
+--
+    Mr. Zandi. Absolutely. And, by the way, all your concerns I 
+sympathize with. Those are very legitimate concerns and need to 
+be explored. I totally agree with that, that you are absolutely 
+right, those are things we need to worry about. That is why a 
+high rate of capitalization in a hybrid system is critical 
+because it addresses some of those concerns. It does not 
+mitigate them, but it addresses them.
+    Senator Toomey. I see I have run out of time, but I do hope 
+we will drill down a little bit more on some of these issues. 
+And, Mr. Chairman, I appreciate the indulgence.
+    Chairman Johnson. Senator Warren.
+    Senator Warren. Thank you, Mr. Chairman. I am very pleased 
+that the Committee is going to focus on housing finance reform 
+this fall. I think it is very important. But as always, the 
+devil is in the details, so I just wanted to ask a couple of 
+questions.
+    I want to go back to the question about underwriting 
+criteria. As you know, there are lots of factors that go into 
+that: income level, total assets, credit history, savings, 
+outstanding debt obligations, downpayment amount, just to name 
+some of them. And a borrower can do poorly on some of those but 
+still do well on others and be a good candidate for a mortgage.
+    Community bankers tell me that this very flexible, holistic 
+approach is very important to them in placing mortgages and 
+making their lending decisions based on individual 
+circumstances and market conditions.
+    So I understand why the Government would want to make its 
+guarantee--make sure that its guarantee is available for 
+mortgages that are likely to be repaid. But the question is how 
+to make sure that the Government is insuring decent mortgages. 
+So I want to ask a structural question as we are thinking about 
+this statute.
+    Should the statute set a specific condition that must be 
+met, like a certain downpayment amount or a certain credit 
+score or a certain income level, and then hold hard and fast to 
+that no matter what as a matter of statutory law? Or is it 
+better to let the mortgage market adapt based on market 
+conditions and based on new information about what combination 
+of underwriting criteria best predict repayment? Ms. Gordon, 
+maybe I could start with you on that.
+    Ms. Gordon. Sure. Thanks so much for this question, because 
+I believe the answer is we absolutely should not set 
+underwriting criteria in legislation in the context of the 
+housing finance system.
+    What we do have now that we did not have before is through 
+the Dodd-Frank Act there are quite specific rules now governing 
+the underwriting of mortgages, and those rules have been the 
+subject of much discussion, much work by the Consumer Financial 
+Protection Bureau, and, you know, quite a lot of interested 
+parties have been involved in that process. And while not all 
+of us agree with every part of the way the rules came out, 
+those rules are there now, and they are underpinning that 
+aspect of consumer protection. And so I think it would be 
+difficult if we, as I said, enshrined things in legislation.
+    Senator Warren. OK. And let me just ask that same question 
+of Mr. Lienhard. You do this for a living.
+    Mr. Lienhard. Yes, I think that one of the pitfalls I see 
+with hard-coding underwriting standards into legislation is 
+that underwriting expertise and criteria can change over time, 
+and so presumably we get better and better at understanding the 
+characteristics of borrowers and the collateral in terms of 
+sort of what a downpayment or what debt-to-income ratios or any 
+other criteria that might emerge years from now. So I think 
+that is sort of problematic, because when it is in legislation, 
+then it is hard to sort of innovate and advance.
+    I also think that the capital standards for the private 
+capital should be able to create very legitimate risk to the 
+guarantees, and that will force, in my view, to borrow Senator 
+Corker's word, a dynamic underwriting enforcement or mechanism 
+that I think you are looking for through the guarantee, the 
+private guarantee function. So I would be very opposed to hard-
+coding underwriting standards.
+    Senator Warren. Good. Thank you.
+    I am going to assume that I am going to get a similar 
+answer, because I want to try to hit a second question. So if I 
+am not, you should flag me. OK?
+    Mr. Zandi. Well, I think the loans that are guaranteed by 
+the Government in the system should be QM.
+    Senator Warren. All right. Got it.
+    Mr. Zandi. And that should be hard-coded.
+    Senator Warren. Got it. But it is QM.
+    Mr. Zandi. QM.
+    Senator Warren. Rather than coding in a specific quality.
+    Mr. Zandi. Right. Should be QM, though, because that gets 
+rid of a lot of the egregious loan products that are at the 
+heart of problems we had.
+    Senator Warren. Right. So I want to ask a different 
+question then as well, and that is, there are--because there 
+are limitations on the scope of the Government guarantee, there 
+will be mortgage-backed securities that are not guaranteed. 
+That is our private-label market. We might make an estimate, 
+just to get us started, that that might be something like half 
+the market, $5 trillion. We do not know. I realize it will 
+depend on other factors and likely go up and down.
+    But here is my concern. My worry is that we will have a 
+guaranteed market and we will have a private-label market, but 
+that the private-label market will create the same kind of 
+problem that we ended up in in 2008. There is no explicit 
+guarantee of the private-label market, but if it is so big and 
+so important that the players in the market begin to believe 
+that there is an implicit Government guarantee, that that in 
+turn will create the problems of moral hazard, of excessive 
+risk taking, the problems with Fannie and Freddie that got us 
+here in the first place, and all the problems of they scoop up 
+the profits in good times and then leave the taxpayer with the 
+bill in bad times.
+    So I am worried about the question of whether or not we 
+need some Government regulation of the nonguaranteed market to 
+ensure that this kind of aggregation of risk does not occur. 
+Dr. Zandi?
+    Mr. Zandi. I think it is appropriate for you to be 
+concerned about this, and let me make a broad statement and 
+then a more specific one.
+    Broadly, it is very important to consider housing finance 
+reform in the context of the entire mortgage finance system. 
+You know, right now we have just been focused on the part that 
+would get the Government guarantee, but we have to think about 
+it in the context of bank lending in terms of the private-label 
+securities market and what may come from other sources. So we 
+have to think about this--and the FHA, by the way. So we have 
+to think about this holistically, and that is one very good 
+thing about the PATH Act. It did try to think about it 
+holistically. So that is key. So that is a broad statement, and 
+so you are exactly right that we should be focused on this.
+    More specifically, I do think that there should be some 
+levers to address this risk. I do think we have QRM. QRM feels 
+like it is going to be set to QM. But I would argue that QRM 
+and QM are not coming down from the Mount, right? These are 
+things that we can adjust and set in the future if things seem 
+to be going awry, because now regulators are looking at the 
+system in a--looking at it in terms of systemic risk, that this 
+is now a lever we have, the regulators have a lever to change 
+it if we need to.
+    The other thing I would say is that the regulator that we 
+are talking about here in the context of housing finance reform 
+should have broader authority as well to look at the entire 
+system and make some changes, if need be. I am just making this 
+as an example. You know, I think it might be appropriate that 
+we have a rep and warranty system that is consistent across all 
+lending so that, you know, we do not get that bifurcation in 
+the mortgage finance system. And if you do that, then you can 
+control for this risk right at the root, you know, in the 
+origination process.
+    Now, we have to think this through, and I am thinking out 
+loud for you, but--and there may be things I am not thinking 
+about, but I think that is the kind of way I would approach 
+this, yes.
+    Senator Warren. Good. Thank you very much, and thank you 
+for your indulgence, Mr. Chairman. I hope we can pursue this 
+later. Thank you.
+    Chairman Johnson. Senator Shelby.
+    Senator Shelby. Thank you. Good to see you, Mark.
+    I started wrestling with the GSE reform, as you know, and 
+others probably, about 10 years ago. I had an economist that 
+was advising the Banking Committee at the time I was Chairman 
+of the Committee, and she came to me and told me then could she 
+have 30 minutes of my time. I said, ``Absolutely.'' And she 
+explained to me then how thinly capitalized Freddie and Fannie 
+were and how concerned she was and we should be with the 
+implicit guarantee. And also some of the underwriting standards 
+had eroded, so to speak.
+    We tried then to reform Freddie and Fannie. We were not 
+trying to put them out of business. We were trying to build 
+their capital up and so forth and change some things, to no 
+avail. Of course, we are where we are today, and that is why we 
+are having this hearing.
+    I am concerned about the housing market. Right now Fannie 
+and Freddie are about the only game in town. But we still--they 
+are sitting in our lap. They are doing a lot better, I think, 
+under the leadership of Mr. DeMarco. They are buying better 
+mortgages. Is that fair, Dr. Zandi?
+    Mr. Zandi. Yes, that is fair.
+    Senator Shelby. All of that?
+    Mr. Zandi. Yes.
+    Senator Shelby. But still if we are going to reform the 
+GSEs, how do we, if we do, limit or can you limit the implicit 
+guarantee? See, a lot of us would like to create the private 
+sector period, if we could. Is that possible? I do not know it 
+is probable. And a lot of people do not want to have capital. 
+Fannie and Freddie, as I just said, had some of the thinnest 
+capital of any financial institution in the world left 
+standing.
+    Mr. Zandi. Right.
+    Senator Shelby. Capital itself will not solve everything, 
+but it is a cushion, a big one. Some people argue--and I have 
+not analyzed everything in this proposal by Senators Warner and 
+Corker, but we are doing it. Will this legislation--I will 
+start with you, Dr. Zandi. Would this legislation change 
+dynamically how the GSEs operate? Or will it be akin to what we 
+had before?
+    Mr. Zandi. It will change it wholesale, Senator. You know, 
+I think just to give you context, Fannie and Freddie before the 
+crisis had 50 basis points of capital, 0.5 percentage points, 
+and that is being charitable.
+    Senator Shelby. You could see through it, couldn't you?
+    Mr. Zandi. The quality of the capital was highly 
+questionable.
+    Senator Shelby. Sure.
+    Mr. Zandi. We are talking about in the Corker-Warner bill 
+as written now 10 percent capital, and I am arguing, you know--
+--
+    Senator Shelby. I know.
+    Mr. Zandi. Yes. So and then there are many, many other 
+changes in the legislation. So we are talking--and it is an 
+explicit guarantee. It is not implicit. You know, it is right 
+there in our face, and we are saying it is explicit, and we are 
+charging for it, and we have all the appropriate mechanisms for 
+ensuring that taxpayers get their money back.
+    Senator Shelby. But won't you have to tie capital, which is 
+a cushion--is 5 percent maybe not enough? You can argue that. 
+Or 10 percent or 8 percent. But adequate capital, good capital, 
+with underwriting standards and so forth. You know, we have--we 
+all have preached and pushed for people to have a chance to own 
+a home here. But, gosh, we found out that everybody cannot or 
+would not want to own a home or would ever make the payments 
+and so forth, which is sad in a way. But some people do not 
+want to buy. Our home ownership has gone down some. But isn't 
+the key to any mortgage underwriting the underwriting itself, 
+the credit, the downpayment, what they got in the game, and the 
+capital of the institution, all this tied together?
+    Mr. Zandi. Sure, absolutely. You can have all the capital 
+in the world, but if you are making----
+    Senator Shelby. Bad loans.
+    Mr. Zandi. It is not going to matter, right? It is going to 
+wipe out the capital. So we have to make sure it is not garbage 
+in. We have to make sure that it is high-quality mortgages that 
+are getting the explicit Government backstop, yes.
+    Senator Shelby. What is your--and I will give, with the 
+help of the Chairman maybe, others a chance to answer. You said 
+you believe this is a step in the right direction, you know, 
+this proposed legislation. You have got to have some concerns 
+there. How can we improve this legislation?
+    Mr. Zandi. I do have concerns.
+    Senator Shelby. OK.
+    Mr. Zandi. Some of it just resolves around the specific 
+numbers. But in terms of structure, I would just mention one 
+thing, and that is, I think it is very important that the 
+institutions that are providing the capital cannot also be 
+making the loans, that we need a clear break between these 
+functions. Because if you allow them to combine, then you can 
+get a vertically integrate market. What I mean is big 
+institutions that feel like Fannie Mae and Freddie Mac that are 
+too big to fail. So we need to separate those two things, those 
+two functions, and that has to be clear in the future housing 
+finance system.
+    Senator Shelby. Heretofore they have been buying the loans, 
+haven't they?
+    Mr. Zandi. Yes. Now, in the current structure, Fannie and 
+Freddie do not originate loans. We need to preserve that aspect 
+of the current system.
+    Senator Shelby. OK. Mr. Johns, do you have some 
+observations on this?
+    Mr. Johns. Yes, I think the capital does have to be tied to 
+the underwriting standards. I think we would encourage, you 
+know, if there is going to be a hard-coded number in the 
+legislation, you know, in addition to that you want to have 
+some regulatory flexibility that would allow you to take 
+account of those differences in, you know, not just 
+underwriting standards but any other criteria that should drive 
+the loss number higher.
+    Senator Shelby. Mr. Lienhard?
+    Mr. Lienhard. I think my concern hinges around the 
+execution. So while we need to move forward in terms of reform 
+and the current system is untenable, it is very simple for an 
+originator and the nature of the guarantee is very 
+straightforward. There is no way we will replace that, but we 
+will have multiple options, and those options involve in my 
+mind, as I think about implementation, execution risk on the 
+part of issuers.
+    Senator Shelby. Give us a couple of examples.
+    Mr. Lienhard. If you choose the wrong structure, if you 
+choose the wrong guarantee and how that attaches to the TBA 
+market and how--you know, we simply cannot----
+    Senator Shelby. Should that be done by the regulator, the 
+structure, or should we tie it to legislation and put it in a 
+straitjacket?
+    Mr. Lienhard. I think that the regulator is intimately 
+involved in regulating those structures. That is actually 
+really important. But the legislation should set the tone, and 
+I think it is important for the Committee to recognize that, 
+you know, it is not that easy for originators to just simply 
+switch to a new structure or a new provider if, in fact, it is 
+turning out that that mechanism is not working well. So I think 
+the choice, the multiple choice and this idea of competition is 
+a really good one, but the execution associated with sort of 
+switching choices is challenging from an implementation 
+perspective.
+    Senator Shelby. Let me--well, you answer first, Ms. Gordon, 
+and then I have got one follow-up.
+    Ms. Gordon. Just a couple of comments on things that have 
+come up throughout your remarks. I do think it is important to 
+note that the erosion of underwriting standards was, in fact, 
+initiated and led by what was happening in the private 
+securitization market. It was not until toward the end of that 
+period that Fannie and Freddie, because of their conflicted 
+responsibility--well, because they were chasing profit and 
+market share, they at that point abandoned what had been very 
+sound underwriting standards that had kept the market safe for 
+many years, and that was their big mistake, along with the 
+gross undercapitalization that you have talked about.
+    I do think now that we have instituted underwriting 
+standards through QM and risk retention standards through QRM 
+that it is easier to link up this new system to those 
+standards, which will help on the underwriting side, and we 
+have already talked about the capitalization side.
+    Senator Shelby. Let me ask my last question here. We have 
+had testimony before this Committee before on a number of 
+occasions that in the multi-family area, conventional FHA, but 
+conventional, too, that there are very few foreclosures. Very 
+few. And I know that is--we are not talking about apples and 
+oranges. We are talking about big apples and smaller apples 
+here, I think. And I know that their underwriting is very 
+important in multi-family for the most part, especially 
+conventional. You have got to have some skin in the game. But 
+is the lack of skin in the game--in other words, lack of 
+downpayment underwriting--that causes some of our problem? Dr. 
+Zandi? As opposed to multi-family.
+    Mr. Zandi. Yes, I mean, I think in the single-family 
+system, pre-crisis, currently, there is not enough skin in the 
+game. We do not have enough capital, private capital. We do not 
+require the folks that are receiving the mortgages and 
+benefiting from issuing the mortgages to fully participate in 
+the risk. So that is what we need to fix, and if we get that 
+right, I think we will have a much sounder system with lower 
+default rates and, you know, address some of the concerns that 
+Senator Toomey has with regard to moral hazard.
+    Senator Shelby. Mr. Johns, do you have anything?
+    Mr. Johns. Are you talking about skin in the game from 
+the----
+    Senator Shelby. Downpayment.
+    Mr. Johns. From the consumer perspective.
+    Senator Shelby. Equity. In other words, if I--I remember 
+anecdotally, I remember when I was very young--and that was a 
+long time ago, but my wife and I bought our first house, built 
+our first house, which we still live in. We want to pay as much 
+down as we could to make the payments lower and also to pay it 
+off as soon as we could, because we came from parents who came 
+out of the Depression. They did not want debt. You understand 
+that well. Now a lot of people do not want to pay anything 
+down, even if they could. So I am speaking of skin the game.
+    Mr. Johns. OK. So I think on that side I would support what 
+Dr. Zandi is saying. It is an interesting sort of dichotomy 
+because obviously you will have--we have many members within 
+the Structured Finance Industry Group. You range from the 
+issuers to servicers and the originators, and you have 
+investors at one side. Clearly there is a balance of play there 
+from a market perspective as to, you know, the more skin in the 
+game that a homeowner has, then, you know, clearly there is 
+less likelihood of default. At the same time, if you add that 
+requirement to can you access the market, then it may reduce 
+the amount of originations that you have that you can clear 
+away and get low-cost funding for.
+    So, you know, as an organization, it is something that we 
+are very aware of. You know, if we look at the risk retention 
+rules that have sort of recently come out, clearly it is an 
+issue that will be debated over the next couple of months 
+until, I think--at least until the common letters are submitted 
+on October 30, and I would be happy to come back and give you a 
+full read on where the industry as a whole sits on that.
+    Chairman Johnson. Could the Senator think about wrapping 
+up?
+    Senator Shelby. I will conclude. You have been very 
+generous with my time and yours, too. Thank you, Mr. Chairman.
+    Chairman Johnson. Senator Heitkamp?
+    Senator Heitkamp. We all know how you feel, waiting to be 
+last. We are in a spot where we have choices, and if we get 
+bogged down on political ideology, we will make the choice to 
+do nothing. Because I have been around here long enough now in 
+my short time period to know that when we get into 
+philosophical debates, we do not do reform. We do not do the 
+things that we need to do to give certainty to the market, to 
+give certainty to the American people, and to respond to their 
+concerns.
+    So I am going to ask one very broad question, which is 
+three choices: Do nothing, which seems to be the kind of choice 
+of default in Washington, D.C., as we bog down in philosophical 
+debates. We have got the PATH Act, which shows that this is 
+going to be market driven. Very little information--and maybe I 
+am just not looking in the right places, but very little 
+information about the consequences on the American middle class 
+and home ownership and new families as a result of the lack of 
+expression of explicit Federal guarantee and the availability 
+of the 30-year, fixed-rate mortgage into the future. And we 
+have got a hybrid. We have got an opportunity to do real 
+reform, and I know that there are so many of you on this panel 
+who have participated in that discussion. Great work. I have 
+read a lot of the work that has come out of your organization 
+and I really appreciate it. For somebody who brings maybe a new 
+perspective to this issue, it has been extraordinarily helpful. 
+And so those are our three choices. Obviously the bill that we 
+are considering today is the hybrid. It is that choice.
+    I want to ask you, Doctor, where can we better inform the 
+American public about the actual consequences to our middle 
+class and to our citizens on the consequences of those three 
+choices? Where do we go for that information? Because I know 
+you have been asked here kind of pick a choice or do a 
+critique, and that was going to be my question, which is do a 
+critique between the PATH Act and what we have in front of us 
+in terms of affordability and availability of home ownership. 
+But I want to know who is going to do that work so that we can 
+better inform the public.
+    Mr. Zandi. Well, I think the thing that would resonate with 
+people is, you know, how much is this going to cost me? You 
+know, what does it mean for my monthly mortgage payment? And--
+--
+    Senator Heitkamp. If I can just interrupt, it may also be, 
+Can I get a mortgage?
+    Mr. Zandi. That as well, sure, absolutely. But I think if 
+we can come up with that number under different pieces of 
+legislation, that would be quite informative. You know, I have 
+taken a crack at that. I have done that for the PATH Act. I 
+have done that for Corker-Warner, under different 
+capitalization assumptions. And, of course, there are a lot of 
+moving parts. But we have done that work. We can make it better 
+and refine it as the legislation improves, but----
+    Senator Heitkamp. And can you give some insight on your 
+conclusions as a result of that work?
+    Mr. Zandi. Yes. So if we go from the current system to 
+where I think the system should be, 5 percent capitalization, 
+that would add roughly $60 to the monthly mortgage payment.
+    If we go to a 10 percent capitalization--so this is what is 
+in Corker-Warner right now--that would probably add another $60 
+to the monthly mortgage payment. So it would be $120 from where 
+we are today. And, again, a lot of moving parts and a lot of 
+assumptions.
+    If we go to the PATH Act, then--and I am going to do this 
+calculation for you precisely, but I am just going to give you 
+a sense of the ballpark estimate. I do not want to be on the 
+record saying a specific number and be wrong, but it is 
+probably double that. You know, it is probably $240 a month 
+from where we are today. So it is a significant increase in the 
+cost.
+    And, obviously, those are big numbers, right? I mean, just 
+add it up. And that means that for the average typical home 
+buyer, it is going to be a lot harder to get a mortgage. And 
+then for the people--and those numbers I just gave you, that is 
+for the typical borrower. That is for the person that is right 
+down in the middle of the distribution of borrowers in a normal 
+economic environment. If you go to the person--take QM and go 
+to the end of the box, you know, the guy that is just marginal, 
+still qualifies but is marginal, in a bad economy, in a 
+recession, let us say, then the cost is going to be higher than 
+that, measurably higher than that.
+    So these decisions you are making really mean a lot for 
+Americans. I mean, 65 percent of Americans own a home. You are 
+going to affect them.
+    Senator Heitkamp. And I see I am out of time, but I just 
+want to reiterate the point that for so many Americans, their 
+home has not just been a house. It has also been their 
+investment, banking on the availability. And as we look at a 
+reduction in the number of companies, in fact, an elimination 
+in the number of people--entities in the private sector who are 
+willing to do a defined benefit plan anymore, we are all now 
+saving for our future. I worry greatly how all of this will 
+affect retirements into the future, how all of this will affect 
+our ability to supplement our older income. And so this is 
+enormously important, not just to the American economy, but it 
+is enormously important to Americans that we get this right. 
+And I think, you know, we have this Committee, at least the 10 
+of us who have sponsored this legislation, take a look at this 
+and say if we do nothing, this place will not result in reform. 
+And that may be the worst outcome for the people who most 
+disagree with this provision.
+    And so I just want to--you all have had an enormous 
+opportunity, I think, here to provide input. I hope that you 
+will continue that, and I thank you for the work that you have 
+done on behalf of the American people and on behalf of the 
+American economy. It has been extraordinary, and I have really 
+enjoyed listening.
+    Chairman Johnson. Thank you again to all of our witnesses 
+for being here today. Your testimony will help guide our 
+hearings going forward. I look forward to continuing this 
+discussion and working with Senator Crapo and all of my 
+colleagues on the Committee to achieve an agreement on housing 
+finance reform.
+    This hearing is adjourned.
+    [Whereupon, at 12:07 p.m., the hearing was adjourned.]
+    [Prepared statements and responses to written questions 
+supplied for the record follow:]
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                                 ______
+                                 
+              PREPARED STATEMENT OF JEROME T. LIENHARD, II
+     President and Chief Executive Officer, SunTrust Mortgage, Inc.
+                           September 12, 2013
+    Good morning Chairman Johnson, Ranking Member Crapo and Members of 
+the Banking Committee. I'm Jerome Lienhard, president and CEO of 
+SunTrust Mortgage, a subsidiary of SunTrust Banks. Housing finance 
+reform is a critical matter with wide-ranging implications. Thank you 
+for allowing me to participate in the consideration of this important 
+subject.
+    I am appearing today in my capacity at SunTrust Mortgage and this 
+testimony was prepared after consultation with the Regional Bank Group, 
+an informal coalition of mid-sized lending institutions located 
+throughout the United States. All views expressed today, however, are 
+my own.
+    SunTrust is headquartered in Atlanta and operates mainly in the 
+Southeastern United States. We are committed to Lighting the Way to 
+Financial Well-Being by listening to client needs and offering a broad 
+range of banking, borrowing, and investment services for individuals 
+and small to-mid-sized businesses.
+    SunTrust Mortgage, the organization that I lead, is based in 
+Richmond, Virginia and employs about 4,300 teammates. Last year, we 
+originated over $32 billion in mortgage loans which helped more than 
+120,000 clients purchase a home or lower their monthly payment through 
+refinancing.
+    The Regional Bank Group consists of 18 financial institutions that 
+share a business model and a set of values dedicated to providing 
+banking products and services to America's families and businesses. We 
+take in deposits and redeploy them by making loans in our communities. 
+Our clients are people and businesses with real needs such as checking 
+accounts, loans and payment services.
+    Today I'd like to make two important points from the perspective of 
+a regional bank:
+
+  <bullet>  First, while there is a need to reform the housing finance 
+        system, it is critical to retain the basic ``plumbing'' of the 
+        system that draws in enormous sums of investment capital and 
+        provides borrowers with rate certainty. These features can be 
+        retained in a mortgage market that serves the interests of 
+        borrowers and taxpayers alike.
+
+  <bullet>  Second, reform must bring more private capital into the 
+        mortgage market in a principal loss position without reducing 
+        the global demand for mortgage-backed securities and while 
+        providing competitive access for small and medium-sized 
+        institutions that serve millions of homeowners.
+
+    I will spend a few minutes elaborating on each of these points.
+    Out of thousands of mortgage loans that we make every year, on 
+average, we hold only one in six on our balance sheet. So while we own 
+$30 billion worth of mortgage loans, we actually originated and service 
+more than $140 billion in mortgages involving more than 800,000 
+households. This is possible for us, and other regional banks, due to 
+the existence of the secondary mortgage market.
+    This vast majority of the mortgages we originate for sale in the 
+secondary market are either ``conforming'' loans, meaning they comply 
+with the guidelines set by Fannie Mae and Freddie Mac; FHA loans, which 
+comply with the insurance terms established by the Federal Housing 
+Administration in HUD; or VA loans eligible for the Veterans 
+Administration's guaranty program.
+    The process by which we price and close the loan and package it for 
+the secondary market are important to a well-informed discussion 
+relating to housing finance reform.
+    Our clients come to SunTrust Mortgage through our branches, on-line 
+or through our network of loan officers and institutional mortgage 
+partners. We listen closely, assess needs, and thoroughly explain the 
+full range of products that we have available to our clients.
+    To provide the client with basic information regarding how much 
+they can afford to pay for a house, we must be able to tell them the 
+interest rate and the monthly cost of the loan. You can't buy a house 
+if you don't know what your mortgage payment will be.
+    We do this by referencing a daily pricing sheet that provides the 
+interest rate and loan terms that can be offered on a guaranteed basis. 
+These prices are set from the price of MBS trading in the ``To Be 
+Announced'' (TBA) market. TBA security prices assume delivery of 
+conforming mortgages into a Freddie Mac or Fannie Mae mortgage-backed 
+security on a forward basis. The forward-pricing mechanism of the 
+secondary market allows us to lock in the interest rate for clients for 
+up to 90 days.
+    Once we lock an interest rate, we proceed through the mortgage 
+lending process. Acting as an agent for Fannie Mae and Freddie Mac, we 
+make sure the client's mortgage is properly qualified, underwritten, 
+documented, settled and delivered using GSE guidelines and 
+requirements. This requires expertise and very detailed execution.
+    But it all starts with the certainty we have regarding how we are 
+funding the mortgage. Without that certainty, primary market lenders 
+would be unwilling and unable to provide forward price certainty to 
+borrowers. The MBS market solves the ``chicken or egg'' problem of 
+funding risk by allowing lenders to set mortgage loan delivery terms up 
+front, while allowing execution and delivery to follow.
+    Through the combination of mortgage standardization and the 
+function of the MBS market, the existing system provides a tangible 
+benefit to borrowers. And these benefits are available for borrowers 
+who transact with originators of any size: local banks, Main Street 
+banks such as SunTrust, as well as the largest mortgage originators.
+    While there is a need to address taxpayer risk by making structural 
+changes to the housing finance system, the securitization platform, the 
+standard-setting on lending and documentation and the servicing 
+requirements are absolutely essential to maintaining a secondary 
+market. This infrastructure is so foundational that we must emerge from 
+housing finance reform with these key functions intact.
+    Let me conclude with a few remarks on the critical issue of the 
+structure of the credit guarantee. Our markets perform so well in large 
+part because credit risk associated with mortgage default is assumed by 
+the GSEs. Investors from around the world allocate trillions of dollars 
+of capital to our market because it only involves interest rate risk.
+    The problem, of course, is that providing credit protection puts 
+taxpayers at risk. Using private sources of capital to cover credit 
+exposure can help alleviate taxpayer risk.
+    However, if changes are made to the credit guarantee function, it 
+must work well for investors. It must also operate transparently and 
+with scale. The U.S. mortgage market involves trillions of dollars. 
+This quantity of private capital required to backstop the market is 
+very significant. If that market shrinks dramatically, so does lending 
+to borrowers.
+    We must also consider that if a variety of credit risk devices 
+emerge in place of the relatively simple credit guarantee we have 
+today, it could make mortgage-backed securities difficult for investors 
+to value, fracturing the investor base, reducing liquidity and 
+increasing costs.
+    To the extent that private capital is intended to stand before any 
+taxpayer-backed guarantees, the entities and instruments must be 
+subject to regulatory oversight. If regulators cannot understand nor 
+keep track of the various risk sharing mechanisms, there is a danger 
+that they will not perform as needed under crises conditions.
+    Finally, any new source of private sector credit protection should 
+be available for all primary market lenders--including large, small and 
+Main Street institutions. If certain entities cannot obtain competitive 
+access to credit protection in the secondary market, they will have a 
+great difficulty competing in the primary market. Measures that create 
+advantages for the very largest issuers of MBS, or make the cost of 
+market access more expensive for some and not others, will reduce 
+competition and must be avoided. Additionally, any new framework should 
+maximize the secondary market liquidity in the new MBS to ensure that 
+regulated financial institutions are able to participate as investors, 
+use the securities as liquid assets, and pledge them as collateral.
+    Let me conclude by thanking the Committee again for its time, 
+attention and consideration. We stand ready to provide you with any 
+assistance or advice you may need as your important work continues. I 
+look forward to answering any of your questions.
+                                 ______
+                                 
+                  PREPARED STATEMENT OF RICHARD JOHNS
+    Executive Director, Structured Finance Industry Group (``SFIG'')
+                           September 12, 2013
+    Chairman Johnson, Ranking Member Crapo, and Members of the 
+Committee on Banking, Housing and Urban Affairs:
+
+    My name is Richard Johns. I am the Executive Director of the 
+Structured Finance Industry Group, Inc. (``SFIG''), a trade industry 
+education and advocacy group established in March 2013 that presently 
+is comprised of over 160 corporate members from all sectors of the 
+structured finance and securitization market, including investors, 
+issuers, financial intermediaries, law firms, accounting firms, 
+technology firms, rating agencies, servicers, and trustees. A key 
+element of SFIG's mission is to educate and advocate on behalf of the 
+structured finance and securitization industry with respect to policy, 
+legal, regulatory and other matters affecting or potentially affecting 
+the structured finance, securitization and related capital markets. It 
+is with that mission in mind that I thank you for this opportunity to 
+address the Committee regarding proposed housing finance reforms, 
+including the role to be played by the Government in the housing 
+finance system and the importance of returning private capital to the 
+mortgage market.
+    As this Committee continues its examination of potential reforms to 
+our system of housing finance, SFIG welcomes the opportunity to provide 
+commentary and analysis, particularly as it relates to the impact of 
+various reform options on the securitization markets. Before I proceed, 
+I want to acknowledge the effort of all those who are working to make 
+reasonable but necessary reforms to the housing finance system. SFIG 
+believes that the reform process must proceed in a measured and 
+deliberate way, and we appreciate the Committee's methodical approach 
+in considering reforms that are so inherently critical to the U.S. 
+housing market and the economy as a whole. As an organizing principle 
+for this process, we suggest that there are three sequential stages 
+that any reform effort should follow in order to preserve the TBA (``To 
+Be Announced'') Market. First, a conversion into a common TBA should be 
+adopted, making Fannie and Freddie MBS fungible and therefore 
+deliverable into a single TBA Market, eliminating current pricing and 
+liquidity inefficiencies in the Agency Market.\1\ Second, any reform 
+legislation should provide for the creation of a single agency security 
+that not only would facilitate the conversion and continued liquidity 
+of legacy securities but also would promote a deep and liquid new-issue 
+MBS market. Third, a common securitization platform should be 
+established for the purpose of overseeing and maintaining the 
+standardization of the market for Government-guaranteed MBS. With that 
+organizing principle in mind, SFIG believes that there are a number of 
+issues that must be addressed in any reform process, specifically:
+---------------------------------------------------------------------------
+    \1\ In order for a common TBA to be implemented successfully, a 
+number of issues need to be considered and addressed, and SFIG believes 
+originators, financial intermediaries and investors must play a major 
+role in that process.
+
+  <bullet>  An integral part of any reform will be to ensure the 
+        continued liquidity of the TBA Market, which is the most 
+        efficient and cheapest mechanism to enable a mortgage consumer 
+        to ``lock in'' the interest rate at the time when a mortgage 
+        loan is approved and thereby minimize the cost of borrowing. 
+        The TBA Market also creates efficiencies and cost savings for 
+        lenders that are passed on to borrowers in the form of lower 
+        rates. Currently, the TBA Market is reliant in part on the 
+        existence of Government-guaranteed MBS, making it imperative 
+        that any reform legislation include provisions that preserve 
+---------------------------------------------------------------------------
+        some form of a Government guarantee.
+
+  <bullet>  The best approach to risk sharing in a reformed housing 
+        finance system would be for private capital to assume the first 
+        risk of loss, the proper amount of which should be flexibly 
+        assessed in light of market factors, while retaining an 
+        explicit Government backstop against catastrophic loss. The 
+        retention of the catastrophic Government guarantee is critical 
+        to ensuring the continued participation of institutional ``rate 
+        investors,'' which provide a majority of the capital currently 
+        invested in the Agency Market.
+
+  <bullet>  The transition from the status quo to a new housing finance 
+        structure must be transparent, appropriate to market 
+        conditions, and handled with great care to minimize any 
+        disruptions to the flow of credit to consumers, and in 
+        particular to ensure the continued functioning of a healthy TBA 
+        Market. Of utmost concern is that steps must be taken to allow 
+        the fulfillment of existing commitments (including contracts 
+        for future delivery) and preserve the market for legacy 
+        securities (i.e., outstanding Government-guaranteed MBS), while 
+        allowing sufficient time for eligible loans under the reformed 
+        system to be generated and take hold in the TBA Market. SFIG 
+        believes that the best way to facilitate this transition would 
+        be to create a single agency security to which legacy 
+        securities would be converted and which Fannie and Freddie 
+        could begin issuing even before a single securitization 
+        platform is fully functional. This would allow for cost savings 
+        as well as greater liquidity in the TBA Market. Failure to take 
+        such steps not only would discourage investors from 
+        participating in both the leftover and post-reform TBA Market, 
+        but it also would create substantial mortgage funding issues.
+
+  <bullet>  Any new infrastructure for the housing finance system must 
+        provide for or facilitate the standardization of MBS 
+        instruments that receive an ultimate Government guarantee in 
+        order to ensure the continued functioning of the TBA Market. 
+        Standardization is critical to maintaining the fungibility and 
+        liquidity of the Government-guaranteed MBS that drive the TBA 
+        Market.
+
+  <bullet>  Any reform legislation should leave to regulators, working 
+        with market participants, the determination of the specific 
+        types of representations, warranties, enforcement provisions 
+        and recourse to be used in the new housing finance system.
+
+  <bullet>  With respect to affordable housing, Congress should 
+        explicitly promote that goal through a stand-alone program not 
+        linked in any way to the operation of the secondary mortgage 
+        market, and should fund that program through separate 
+        legislative mechanisms.
+
+  <bullet>  Conversely, Congress should reduce the upper loan limits 
+        for Government-guaranteed loans to ensure that the benefits of 
+        low-cost mortgage loans are directed at the segment of the 
+        population most in need of those loans.
+REFORMS MUST PRESERVE THE SMOOTH FUNCTIONING OF THE TBA MARKET.
+    As shown in the chart below, the TBA Market is the third most 
+liquid securities market in the world.\2\
+---------------------------------------------------------------------------
+    \2\ Sources: Securities Industry and Financial Markets Association; 
+UK Debt Management Office; FRG Finance Agency; Japan Securities Dealers 
+Association; AsianBondsOnline.com; Agence France Tresor Monthly 
+Bulletin.
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    Moreover, more than 90 percent of Government-guaranteed MBS trading 
+volume occurs in the TBA Market. Accordingly, any reforms must be 
+complemented by steps to ensure the TBA Market's continuing efficiency 
+and liquidity.
+    The TBA Market creates efficiencies and cost savings for lenders 
+that are passed on to borrowers in the form of lower rates. It also is 
+the most efficient and cheapest mechanism to enable a consumer to 
+``lock in'' the interest rate at the time when the loan is approved, 
+rather than take the risk that interest rates will rise between 
+approval of the loan and the closing of the loan, which would increase 
+the cost of the mortgage loan to the consumer and possibly make it 
+unaffordable. The TBA Market does this through a system of forward 
+trades of mortgage loan pools for guaranteed MBS that facilitates the 
+shifting of interest rate risk into the capital markets. Thus, 
+originators can offer consumers this ability to ``lock in'' mortgage 
+rates by hedging the risk that interest rates will rise between 
+application and closing. In this way, the TBA Market allows for 
+stability between the time of loan origination and loan closing, 
+ensuring that the terms of a mortgage loan do not fluctuate due to 
+macroeconomic changes and reducing costs to consumers.
+    The distinguishing trait of trades in the TBA Market is their 
+homogeneity (i.e., standardized underwriting criteria and loan 
+features, the Government guarantee, the geographic diversification 
+incorporated into the pooling process, the limited number of issuers, 
+the simple structure of ``pass-through'' security features, and the 
+restriction of the range of interest rates on loans deliverable into a 
+single security). The parties to the trades agree only on certain 
+criteria of the securities to be delivered: issuer, maturity, coupon, 
+price, par amount, and settlement date. The actual securities to be 
+delivered at trade settlement are not specified on the date the 
+transaction is executed. Rather, just before the settlement date, the 
+seller notifies the buyer of the specific securities that will satisfy 
+the TBA agreement.
+    Because TBA buyers are indifferent as to the specific securities 
+delivered, originators are able to easily and inexpensively cover their 
+hedges should they originate less collateral than expected in any given 
+period, significantly reducing the cost to hedge and rate lock. 
+Moreover, since the TBA Market simplifies the analytical and risk 
+management challenges for participants, a broader group of investors 
+participates in the TBA Market than would otherwise participate if 
+investment decisions were more complex. The additional investors-
+specifically foreign central banks, mutual funds and hedge funds-inject 
+more capital into the market for financing mortgages and ultimately 
+reduce the cost of capital to consumers.
+    Homogeneity is what makes the TBA Market possible, specifically, 
+the fungibility of the conforming loan product (through standardized 
+underwriting criteria and loan features) and a Government guarantee, 
+which equalizes credit risk. Additionally, due to the specific 
+exemption from SEC shelf registration requirements applicable to 
+Government-guaranteed securities, specific collateral need not be 
+identified, thus allowing forward selling. It is not possible to 
+replicate the TBA Market without these factors. Any reform which does 
+not accommodate, or suitably replace, the existing TBA Market will 
+undoubtedly impact mortgage originators and consumers both severely and 
+negatively by reducing price transparency, liquidity, and the 
+originators' options to rate lock and thus satisfy consumer needs.
+    In short, the TBA Market removes uncertainty from the mortgage 
+origination business and keeps mortgage rates low for potential 
+borrowers. As noted in a report published by the Federal Reserve Bank 
+of New York, ``the TBA market serves a valuable role in the mortgage 
+finance system,'' and ``evaluations of proposed reforms to U.S. housing 
+finance should take into account potential effects of those reforms on 
+the operation of the TBA market and its liquidity.'' TBA Trading and 
+Liquidity in the Agency MBS Market, James Vickery and Joshua Wright, 
+FRBNY Economic Policy Review, May 2013.
+    One factor that any reform must account for is that the TBA Market 
+is reliant in part on the existence of MBS that are guaranteed by the 
+Government. For that reason, the TBA Market is extremely sensitive to 
+any changes to the role that the Government will have in the housing 
+finance system going forward. Indeed, the TBA Market could not be 
+recreated without the features discussed above that are unique to 
+Government-guaranteed MBS. Accordingly, SFIG believes that the 
+maintenance of a partial, second-loss Government backstop against 
+catastrophic loss for MBS is crucial to preserving the health of the 
+TBA Market and continuing to promote stability and affordable interest 
+rates for consumers in different market cycles.
+THE HOUSING FINANCE SYSTEM WORKS BEST WHEN THERE IS RISK-SHARING AMONG 
+        PARTICIPANTS.
+    Mortgage securitization is by nature a process by which the risks 
+associated with residential mortgage lending are spread among various 
+investors with differing appetites for risk. Attracting private capital 
+to undertake these risks is of critical importance to the consumer and 
+the economy as a whole. The Government has always guaranteed a large 
+percentage of residential mortgage securitization, but historically the 
+market also included securitizations funded solely by private capital 
+with no explicit Government guarantee. These two markets cater to two 
+different types of investors distinguished by the type of risk that 
+each is willing to undertake, specifically, ``rate risk'' and ``credit 
+risk.'' For this reason, any reforms that aim to limit the Government's 
+involvement in the Agency Market by changing or ending the current 
+infrastructure must account for the impact that such changes will have 
+on the flow of private capital that historically has favored 
+Government-guaranteed MBS.
+    As noted, there are two main risks associated with residential 
+mortgage lending. The first, called market or rate risk, results from 
+interest rate changes. After the interest rate on a residential 
+mortgage loan is set (for example, the interest rate on a fixed-rate 
+residential mortgage), that mortgage loan becomes less valuable over 
+time if current residential mortgage rates rise, because the owner of 
+that mortgage loan earns less in interest than it would if it owned a 
+mortgage loan at the current (higher) market rate of interest. In 
+addition, a consumer generally has the right to prepay his residential 
+mortgage loan at any time (for example, if the consumer decides to sell 
+the home), which may reduce the economic upside to the owner of the 
+mortgage loan. Furthermore, refinancing of residential mortgages 
+generally occurs when interest rates fall. The specific market risks 
+associated with owning residential mortgage loans are dependent on the 
+precise terms and types of mortgage loans.
+    The second risk associated with mortgage lending is credit risk. 
+Credit risk consists of two components: (1) default risk; and (2) loss 
+severity risk. Default risk is the risk that the consumer fails to 
+repay the loan. Loss severity risk is the risk that, after a consumer 
+defaults, the lender will not recoup all of the principal lent and the 
+expected interest on that principal.
+    Private capital ``rates investors'' are willing to bear the rate 
+risk and prepayment risk, but seek to avoid credit risk, because these 
+investors operate under investment guidelines, capital requirements, 
+and liquidity requirements that preclude them from purchasing private-
+label securities in any significant concentration. Examples of rates 
+investors are foreign central banks, domestic banks and mutual funds. 
+Historically, ``rates investors'' have been attracted to Government-
+guaranteed MBS--in which the Government bears the bulk of the credit 
+risk--and they have contributed trillions of dollars to the Agency 
+Market because of those guarantees. By contrast, ``credit investors'' 
+such as insurance companies and investment funds have fewer constraints 
+on taking credit risk, and may in fact actively seek it out in exchange 
+for higher potential returns.
+    Limiting the Government's involvement in the market by changing or 
+ending the current infrastructure must account for the critical 
+contribution that rates investors make to the Agency Market and their 
+historic aversion to credit risk, as well as the limited pool of 
+private capital available to fund credit risk. Accordingly, SFIG 
+believes that retention of a catastrophic-loss Government backstop is 
+essential to maintaining and increasing the participation of rates 
+investors in the Agency Market. Indeed, SFIG believes that the TBA 
+Market and the rates market for MBS cannot function without such a 
+guarantee.
+    However, we also acknowledge that private investors have a role to 
+play in insuring against the credit risks posed by residential 
+mortgages. To that end, SFIG generally supports the approach of having 
+private capital take on credit risk, while also having a Government 
+guarantee that is explicit and priced in a reasonable manner. Any risk-
+sharing structure should be carefully reviewed to ensure that the TBA 
+Market is not disrupted. Furthermore, we believe that private capital 
+should be placed in the first-loss position, with the private credit 
+enhancement being calculated to cover reasonable risks presented by the 
+market and the Government backstop covering catastrophic risk, i.e., 
+the Government guarantee will generally be called upon only when the 
+operation of the secondary mortgage market as a whole is at risk.
+    SFIG supports a variety of mechanisms to bring private capital into 
+the mortgage market, including corporate guarantees and capital markets 
+transactions. Various forms of capital should be allowed to compete on 
+a level playing field that balances sufficient risk retention at each 
+step of the origination process to align incentives with the separation 
+of functions and responsibility necessary to attract diverse capital 
+sources.
+    As for the amount of risk that a private investor should be 
+required to assume, SFIG believes that the 10 percent first risk of 
+loss provided for in S. 1217 is too high, as shown in the chart 
+below.\3\
+---------------------------------------------------------------------------
+    \3\ Source: Securities Industry and Financial Markets Association, 
+Housing Finance, September 2013, at 10.
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+    We suggest that, if the Committee is determined to include some 
+minimum level of risk assumption in the legislation, the level be 
+considered a ``target'' that the Committee establishes based on 
+underwriting-related factors, such as historical loss data in the TBA 
+market. Furthermore, the regulators should have the discretion to 
+deviate from the target based upon their own assessment of qualitative 
+risk factors.
+    The regulators will have to take a variety of complex factors into 
+account to ensure that the private credit enhancement is rationally 
+sized at a level that is commensurate with the qualitative attributes 
+of risk-sharing structures. These factors include readily available 
+historic information, the likely loan types, general housing/economic 
+indicators, any applicable representations and warranties, and whether 
+the various forms of insurance and guarantees--e.g., the combination of 
+homeowner's equity and mortgage insurance, Mortgage Insurance Fund 
+coverage, and the Government catastrophic guarantee--may be duplicative 
+and overlapping due to counterparty risk, thereby reducing the amount 
+of risk that private investors should assume.
+    We believe that if the required private credit enhancement is too 
+high and vastly exceeds the loss expectations of the associated assets, 
+the redundant enhancement creates the potential for distortion. 
+Originators must find a way to pay for the enhancement, and the 
+available options may not be good for the consumer or housing market. 
+For example, an originator may simply pass the cost of the redundant 
+enhancement directly through to consumers via increased rates, thereby 
+undermining one of the primary benefits that the Agency Market affords 
+consumers, namely, lower cost loans. And even if such steps are taken, 
+the possibility remains that there might not be sufficient private 
+capital in the market to satisfy a private credit enhancement level 
+that exceeds what is necessary to address the actual risk factors.
+THE TRANSITION TO A NEW HOUSING FINANCE STRUCTURE SHOULD BE IMPLEMENTED 
+        GRADUALLY AND WITH GREAT CARE.
+    The transition from the status quo to a new housing finance 
+structure must be handled with great care to minimize any disruptions 
+to the flow of credit to consumers. The transition process should be 
+carefully implemented, and to avoid severe market disruption should 
+allow for: (1) a clear and transparent plan for transition; (2) a 
+determination that market conditions are appropriate for the 
+transition; (3) the fulfillment of existing commitments (including 
+contracts for future delivery); (4) a determination that issues 
+relating to legacy securities have been appropriately handled; (5) time 
+to generate eligible loans; (6) testing or piloting the new structure 
+in a real market environment; and (7) continuation of the TBA Market.
+    SFIG's primary transition-related concern centers on ensuring that 
+whatever system is put in place, it performs and functions properly and 
+continues to facilitate a robust TBA Market. It is imperative that 
+steps be taken both to preserve the market for legacy securities (i.e., 
+outstanding Government-guaranteed MBS), while allowing sufficient time 
+for eligible loans under the reformed system to be generated and take 
+hold in the TBA Market. Otherwise, the post-reform TBA Market will 
+stall as: (1) investors in legacy securities are left with orphaned 
+securities that continue to lose value as they factor down and their 
+market becomes smaller and smaller; and (2) the market for new agency 
+securities takes time to ramp up.
+    SFIG believes that the surest method of facilitating a smooth 
+transition is to allow for a conversion mechanism such that existing 
+Government-guaranteed MBS are interchangeable with the new Government-
+guaranteed MBS. Fannie and Freddie could begin issuing a single 
+mortgage-backed security even before the single securitization platform 
+is fully functional. This would allow for cost savings as well as 
+greater liquidity. Failure to take this step not only would discourage 
+investors from participating in both the leftover and post-reform TBA 
+Markets, but it also would create substantial mortgage funding issues 
+as liquidity diminishes.
+    SFIG also believes that all market participants would benefit to 
+the extent that the current and new infrastructures operate in tandem 
+for some period of time, or, in the alternative, appropriate portions 
+of the current infrastructure are utilized by the new infrastructure. 
+In addition, a final wind down of Fannie and Freddie should happen only 
+after the new framework has been sufficiently tested and we can all be 
+confident that it will facilitate the continued functioning of the TBA 
+Market.
+    We believe that these and other operational and delivery issues 
+that will arise from the winding down of the existing framework and the 
+ramping up of the new framework should be minimized by actively 
+engaging directly with the relevant industry participants to determine 
+the appropriate balance of regulatory discretion and legislative 
+guidance regarding how the transition should proceed, as well as 
+maintaining consistency (to the extent feasible) among the MBS issued 
+across the platforms.
+STANDARDIZATION IS ESSENTIAL TO THE FUNCTIONING OF THE REFORMED TBA 
+        MARKET.
+    Any new infrastructure for the trading of Government-guaranteed 
+securities will necessarily include requirements for areas such as 
+disclosure, documentation, data collection and overall standardization 
+of Government-guaranteed MBS transactions. Indeed, standardization of 
+documents (e.g., standard Government loan forms), structuring and 
+underwriting (e.g., conforming loan limits, document verification, 
+etc.) is critical to the TBA Market because it increases fungibility 
+and liquidity of Government-guaranteed MBS. These requirements should 
+be very transparent, take into consideration the needs of all parties 
+to the transactions, and include investor protections. Important to 
+this standardization of the market will be establishing common 
+infrastructure in the form of a common securitization platform that 
+will lower barriers to entry for new participants into the system and 
+enable different entities to issue a single security without variation.
+    We would also caution that standards and practices that may or may 
+not be appropriate for the new Government-guaranteed securities may not 
+be appropriate for private-label securities given the wide variety of 
+loan types, origination practices, servicing contracts, deal structures 
+and the difference in negotiating power of transaction participants. 
+The newly reemerging private-label RMBS market should not be expected 
+to align completely with the rules and standards that are developed for 
+the new Government-guaranteed securities. As noted above, the two 
+markets cater to two different types of investors.
+LEGISLATION SHOULD NOT SPECIFY THE TYPES OF REPRESENTATIONS AND 
+        WARRANTIES TO BE USED IN THE NEW HOUSING FINANCE SYSTEM.
+    We do not believe that language specifying the types of 
+representations, warranties, enforcement provisions and recourse to be 
+used in the new housing finance system should be prescribed in 
+legislation. Rather, these are matters that should be left to the 
+discretion of regulators. SFIG is actively focused on evaluating 
+different representation, warranty, enforcement and recourse approaches 
+that have arisen in the private-label RMBS market. We have also begun a 
+dialog with regulators and agencies regarding this topic to explore how 
+the Government might incorporate our analyses into its current efforts. 
+Areas of particular interest include common securitization platform, 
+secondary market viability of loans that do not meet Qualified 
+Mortgage-Safe Harbor and Qualified Residential Mortgage standards, 
+Regulation AB 2 proposals and due diligence, data, breach, repurchase 
+and other disclosures.
+AFFORDABLE HOME OWNERSHIP SHOULD BE PURSUED THROUGH A SEPARATE, 
+        EXPLICIT PROGRAM DEDICATED TO THAT GOAL.
+    SFIG agrees that all segments of American society should have the 
+opportunity to become home owners and that the Government can and 
+should play an important role in making that goal a reality. However, 
+we do not agree with the current system, which has led to implicit 
+subsidies in the form of purchases of subprime loans from 
+noncreditworthy consumers. Instead, SFIG believes that Congress should 
+explicitly promote affordable housing through a stand-alone program not 
+linked in any way to the operation of the secondary mortgage market, 
+and should fund that program through separate legislative mechanisms.
+    On the flip side of the equation, we also agree that the current 
+upper limits for Government-guaranteed loans should be reduced, to 
+ensure that the market is focused on the segment of consumers for whom 
+the Government guarantee is most essential in obtaining reasonably 
+priced residential mortgages.
+CONCLUSION
+    The issues confronting the Committee as it considers reforms to the 
+housing finance system are critical not only to the health of the 
+nation's housing market, but to the growth of the nation's economy 
+generally. While we recognize the need to correct the errors of the 
+past, we urge the Committee not to lose sight of the ways in which the 
+Agency Market has worked well, and continues to work well (such as 
+through the TBA Market), to facilitate the ability of Americans to 
+enjoy the benefits of home ownership. To that end, we encourage the 
+Committee to strive to retain the mechanisms, such as the Government 
+guarantee, that have succeeded in bringing vast amounts of private 
+capital into the housing market, while it takes steps to more equitably 
+and effectively distribute the risks related to residential mortgages.
+    We look forward to working with the Committee as it considers these 
+vitally important issues. Thank you again for the opportunity to share 
+SFIG's views.
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+
+                                 ______
+                                 
+
+   RESPONSE TO WRITTEN QUESTION OF SENATOR CORKER FROM JULIA 
+                             GORDON
+
+Q.1. During the hearing the issue of capital markets execution, 
+as opposed to bond guarantor ``entity'' execution, was 
+discussed. Could you briefly discuss the advantages of allowing 
+multiple sources of capital--from both the equity and fixed-
+income markets--take on credit risk? And to the extent you have 
+concerns, if you have them, please make suggestions for how we 
+might alleviate those concerns?
+
+A.1. Thank you for your question and the opportunity to weigh 
+in on this important issue. I do not believe any advantages 
+theoretically provided by the opportunity for multiple 
+executions outweighs the potential disadvantages of providing a 
+Government wrap to individual structured transactions. As I 
+highlighted in my testimony, I'm concerned about the capital 
+markets execution for several reasons:
+
+  <bullet> LA system based on bond guarantors or other 
+        ``entities'' is significantly easier to regulate for 
+        safety and soundness. Not only will there be fewer 
+        entities to monitor, but the insurance that bond 
+        guarantors will provide is more easily understood by a 
+        regulator than diverse and complex structured 
+        transactions.
+
+  <bullet> LBond guarantors are much more efficient at pooling 
+        and spreading risks, which is the core function of 
+        insurance. Structured transactions, to the extent that 
+        they cover a single or limited number of pools, cannot 
+        allocate risks and reserves across years, regions, 
+        lenders, and so on.
+
+  <bullet> LAs we have seen in recent private-label 
+        securitizations, investors in structured transactions 
+        have proven unwilling to assume risk on anything but 
+        the most pristine mortgages. If investors are assuming 
+        the first-loss risk, their high level of scrutiny will 
+        result in higher prices for nontraditional but still 
+        creditworthy borrowers, as the investors will demand a 
+        premium for taking risk that is not well-understood or 
+        serving borrowers who are perceived as more risky.
+
+  <bullet> LIndividual deals are much less likely to be able to 
+        support a robust TBA market, as they do not offer the 
+        same level of homogeneity in contract terms and the 
+        structures likely will require high levels of loan 
+        level disclosures. These higher levels of disclosure 
+        will reduce liquidity by fracturing the market into 
+        more individually priced securities that will not be 
+        suitable for the fungible TBA market. Even if a system 
+        can be found to permit the forward trading that 
+        characterizes the current TBA market, the lack of 
+        homogeneity over time/across different vintages of 
+        loans will reduce liquidity.
+
+  <bullet> LEven if the structured transactions are 
+        ``funded''--as in, the money to cover losses is 
+        advanced to the instrument's issuer--it will be hard to 
+        ascertain how these assets are accounted for on the 
+        balance sheets of the involved parties. As a result, 
+        risk could simply be exported out of the four corners 
+        of the MBS into the larger financial sector. Recent and 
+        on-going experience with regulating derivatives and 
+        capital markets risk-sharing structures illustrates the 
+        difficulties in even understanding how risks are 
+        actually shared, let alone less in regulating them.
+
+  <bullet> LBond guarantors can provide more protection to the 
+        taxpayer at less cost. If credit losses exceed the 
+        level of capital allocated to a security--S. 1217 
+        proposes capital of at least 10 percent--in a 
+        structured transaction, the Government will be 
+        responsible for the additional losses. Bond guarantors, 
+        in contrast, would be obligated to use their corporate 
+        resources before tapping the reinsurance fund. The 
+        regulator could also require higher capital for bond 
+        guarantors in light of changing economic 
+        circumstances--an approach supported by the recent 
+        experience of loan level mortgage insurers--but it is 
+        unclear how this could be done when individual 
+        securities are credit enhanced through bond structures 
+        that, once set in place, are not amenable to changes.
+
+    Please note that nothing that I have proposed would prevent 
+bond guarantors from laying off credit risk in capital markets. 
+As a result, capital market investors could still be taking on 
+credit risk, and their capital would still be available to fund 
+our housing finance system. While this practice may reintroduce 
+some of the problems I noted above--notably, accounting and 
+systemic risk issues--a system in which bond guarantors are 
+primarily responsible for first-loss credit risk would be more 
+stable and better suited to meet the housing needs of America's 
+families.
+    However, if the bill ultimately includes both executions as 
+options, they must compete on a level playing field. As 
+currently drafted, the bill encourages the pure capital markets 
+approach, since that execution has little by way of regulatory 
+requirements and can more easily meet the capital thresholds 
+through leverage. Instead, the bill should include 
+significantly stronger regulatory mechanisms for both 
+executions. Initial ``approval'' of an issuer or bond guarantor 
+does not equal oversight, and in fact, may be counterproductive 
+in that it may give a green light to subsequent actions that 
+are unmonitored by the regulator. Additionally, if the bill 
+does hard-code first-loss capital requirements, we believe the 
+10 percent number would be appropriate for structured 
+transactions, while the appropriate level for bond guarantors 
+could safely be in the 4-5 percent range.
+                                ------                                
+
+
+ RESPONSE TO WRITTEN QUESTION OF SENATOR CORKER FROM JEROME T. 
+                          LIENHARD, II
+
+Q.1. During the hearing the issue of capital markets execution, 
+as opposed to bond guarantor ``entity'' execution, was 
+discussed. Could you briefly discuss the advantages of allowing 
+multiple sources of capital--from both the equity and fixed-
+income markets--take on credit risk? And to the extent you have 
+concerns, if you have them, please make suggestions for how we 
+might alleviate those concerns?
+
+A.1. The health and stability of the secondary market for 
+mortgages depends upon availability of a range of sources of 
+capital to invest in the first-loss credit risk, meaning risk 
+that will be taken ahead of the risk exposure of the Government 
+on its guarantee. Broadly available investment capital will 
+promote competition not only among institutions, but also among 
+the forms and structures of investment execution. This 
+diversity in turn will create an incentive for market 
+participants to find the most efficient forms of execution.
+    That said, we believe that allowing for a broad range of 
+forms of investment and retention of credit risk is best done 
+on the back-end of a guarantor model. That is, we believe that 
+it would be better for legislators to create a system in which 
+issuers of securities ultimately back-stopped by the Government 
+would be required to use bond guarantors to lay off the top-
+loss risk on their mortgage pools, allowing these bond 
+guarantors to then further off-load that risk into the capital 
+markets.
+    We hold this view for three reasons.
+
+  <bullet> LFirst, creating a model that allows issuers to go 
+        directly to the capital markets as part of the bond 
+        structuring process runs the risk of fracturing the 
+        types of securities offered in the market to such a 
+        degree that it would compromise the ``TBA'' (To-Be-
+        Announced) mortgage securities market. The TBA market 
+        depends on a high degree of standardization and 
+        homogeneity in issued securities. It would be unlikely 
+        for such standardization to hold in a market in which 
+        the credit risk of pools of loans were assumed and 
+        distributed through complex structured transactions. 
+        Moreover, participants in such transactions would 
+        likely seek to apply their own credit risk preferences, 
+        leading to more targeted pools of loans, with different 
+        credit characteristics and differentiated pricing. Such 
+        variability in the preferences of first-loss creditors 
+        regarding the composition of mortgage pools would make 
+        it more difficult to maintain fungibility of the pools 
+        and, therefore, of the resulting securities. This would 
+        materially inhibit forward trading through the TBA 
+        market. This problem does not arise if the system 
+        depends instead on issuers working with bond 
+        guarantors, which would issue a more standardized form 
+        of top-loss guarantee. These guarantors could then lay 
+        off some of the risks that they assume from issuers to 
+        the capital markets on the back end. In this way, the 
+        bond guarantor function would work with the capital 
+        markets in a transaction similar to reinsurance that 
+        would enable homogeneity and fungibility (meaning, 
+        ready trading markets) for the base mortgage 
+        securities.
+
+  <bullet> LSecond, we are concerned that, in a time of 
+        financial stress, the sources of capital in a pure and 
+        direct capital-markets-dominated execution structure 
+        could withdraw from the market quickly and 
+        categorically, causing a crisis in liquidity. If 
+        capital were to flee the market, the Government's offer 
+        to provide a back-stop to pools of guaranteed loans 
+        would be ineffective to ensure ongoing liquidity, 
+        because there would not be market participants willing 
+        to provide the first loss coverage on which the entire 
+        system would depend. Again, this would not be as 
+        significant a risk if there were a number of well-
+        capitalized bond guarantors in place to take first loss 
+        credit risk.
+
+  <bullet> LThird, we are concerned that regulatory oversight 
+        of the credit risk taken ahead of the Government 
+        backstop, which will be an essential function of 
+        regulatory supervision in any new system, would be 
+        prohibitively difficult if a significant share of 
+        first-loss risk were being structured, assumed and 
+        distributed through myriad and complex securitization 
+        structures and transactions. It would be far more 
+        straightforward to conduct regulatory oversight of the 
+        Government's risk exposure if first-loss positions were 
+        being assumed by counterparties to the Government 
+        structured as bond guarantor agencies, as such 
+        oversight would entail traditional capital adequacy and 
+        risk management supervisory functions similar to those 
+        conducted today through Federal and State banking and 
+        insurance regulatory bodies.
+
+    One final related point: We believe a bond guarantor 
+structure could and should enable issuers to work directly with 
+the top-loss bond guarantors to provide their own mortgage-pool 
+level credit enhancement as part of the issuer-bond guarantor 
+transaction. This would enable issuers to participate in 
+optimizing the pricing of the bond guarantee, driving 
+incentives for low-cost and high credit-quality practices.
+    For these reasons, we would recommend allowing for a rich 
+variety of sources of capital taking on credit risk in the 
+system, but in a position supporting bond guarantors. The bond 
+guarantors would interface directly with issuers and be 
+directly accountable to the Government supervisory process 
+where the Government is in a position of reinsuring that risk. 
+This would preserve the critical forward trading function of 
+today's TBA market while allowing intermediation of a wide 
+variety of capital sources.
+                                ------                                
+
+
+  RESPONSE TO WRITTEN QUESTION OF SENATOR CORKER FROM RICHARD 
+                             JOHNS
+
+Q.1. During the hearing the issue of capital markets execution, 
+as opposed to bond guarantor ``entity'' execution, was 
+discussed. Could you briefly discuss the advantages of allowing 
+multiple sources of capital--from both the equity and fixed-
+income markets--take on credit risk? And to the extent you have 
+concerns, if you have them, please make suggestions for how we 
+might alleviate those concerns?
+The TBA Market
+A.1. For markets to assume credit risk, a structure or 
+structures are needed to replace the depth and liquidity of the 
+current TBA or ``to be announced'' market. The TBA market is a 
+forward-trading market that trades on limited information. The 
+securities are guaranteed by the Government-Sponsored 
+Enterprises (``GSEs'') and investors assume interest rate risk 
+and prepayment risk. TBA investors do not assume credit risk; 
+rather they assume only the risk that depending on the interest 
+rate environment, they may receive their principal sooner or 
+later than anticipated (generally due to borrower prepayment on 
+the loans) or that the market value of the securities may 
+fluctuate.
+    As discussed in the testimony of our Executive Director, 
+the TBA market is a crucial underpinning to the American 
+mortgage market. Originators can hedge and fund their forward 
+origination pipelines because they can ``lock in'' the rates 
+and prices on the loans during the period between each trade 
+and settlement date. The TBA market is a large, liquid market, 
+where buyers and sellers are able to trade large blocks of 
+securities in a short period of time. The liquidity of the TBA 
+market creates efficiencies and cost savings for lenders that 
+are passed on to borrowers in the form of lower rates and broad 
+availability of mortgage products, and helps to maintain a 
+national mortgage market. The TBA market is the benchmark for 
+all mortgage markets--it is the reference by which other 
+mortgage markets and products are priced. Investors in a TBA 
+security presently have general guidelines that indicate to 
+them the ``four corners'' of what is contained in a particular 
+security, however at the time a trade is entered into the exact 
+composition of the security is not revealed. As an example, an 
+investor may have knowledge that their particular pool cannot 
+have more than 10 percent of the balance of a pool consisting 
+of high balance loans.
+    SFIG is of the view that various structures may be able to 
+function side by side with the TBA Market; however, because the 
+TBA market requires a guaranty to function effectively, a 
+capital markets execution should not be seen as an alternative 
+to a guarantor model, but rather as a supplement. A guarantor 
+should be able to raise capital to support its business through 
+the equity and debt markets as well as pair off some of its 
+risk to meet its capital requirements through risk transfers, 
+swaps, credit-linked notes, etc. Raising these various forms of 
+capital and having a guarantor act as the channel through which 
+this risk is moderated acts as a countercyclical measure 
+because it reduces the reliance on contemporaneous capital 
+raises to fund mortgages.
+Recent GSE Risk Transfer Transactions
+    SFIG recognizes the importance of these transactions as a 
+monumental first step in transferring credit risk to the 
+private market. Several of our members were participants in 
+these transactions and accordingly, we look forward to having 
+the private market work (with SFIG's support) with the GSEs to 
+further build upon the recent credit risk transfer pilot 
+transactions. These transactions may prove to provide an 
+effective mechanism to transfer certain credit risk as a 
+follow-on to TBA transactions, but they are not intended to be 
+a funding source for originations.
+    SFIG is of the view that while the transactions are an 
+artful way to effectively de-risk the GSEs, due to certain 
+structural features, they cannot be seen as a capital markets 
+execution that can unilaterally replace traditional GSE 
+functions. This is primarily because the recent transactions 
+still rely on the GSEs as the ultimate taker of catastrophic 
+and systemic risk. In regards to the greater system of 
+secondary market mortgage funding, the GSEs still act as the 
+initial funding entity and the initial risk taker, thereby 
+facilitating reliable pricing to the consumer and allowing for 
+a functioning TBA market.
+Alternative Structures
+    A. Senior/Subordinate
+    For banks and mortgage companies that fund originations via 
+the private-label securitization market, (generally through a 
+senior/subordinate RMBS transaction), the following 
+prerequisites are necessary before the proceeds on the loan and 
+the rate to the consumer can be determined:
+
+  <bullet> Lthe level of subordination likely required for each 
+        rating tranche for each particular pool of loans; and
+
+  <bullet> Lthe likely price at which each tranche of these 
+        securities will sell.
+
+    Gain or loss on these senior/subordinate structures is 
+typically determined through the subordination level that is 
+required coupled with the pricing that the securities attain 
+when sold. While hedging and rate-locking are possible in this 
+type of market, it is more expensive and less efficient than in 
+the current TBA market. Therefore, a lender is more exposed to 
+market risk and uncertainty in a senior/subordinate structure 
+than in a TBA security in the current market.
+    The senior/subordinate structure also contains other 
+inherent features that are irreconcilable with the TBA market. 
+Specifically, in a senior/subordinate structure the purchaser 
+of the subordinated securities (which bear the majority of the 
+risk) requires much more information on each of the loans than 
+is required or even possible for a TBA security. In fact, it is 
+the lack of certain information that allows diverse borrowers, 
+property types, and loan attributes, which ultimately comprise 
+the housing finance market, to be converted into homogenous, 
+credit-neutral assets through the TBA market. Further, because 
+the TBA market is a forward market based on a hypothetical 
+pool, loan-level data is simply not available at the time of a 
+trade. Finally, because a TBA trade does not specify the 
+collateral to be delivered, an investor who purchases (or even 
+examines the loan-level data related to) a specific security 
+would be barred from participation in the TBA market for that 
+entire coupon. This would mean that investors in credit would 
+not be able to hedge interest rate risk in the TBA market and 
+would severely impact investor interest in either of these 
+markets.
+    A senior/subordinate structure may be used by the GSEs when 
+loans are purchased by the GSEs in whole loan form for cash. 
+These loans can be subsequently pooled into a senior/
+subordinate structure.
+    SFIG generally believes that senior/subordinate structures 
+should predominantly exist in the private-label securities 
+market, which serves as a supplement, not a replacement, for 
+the TBA market, and also acts as a check and balance on 
+guarantee fee pricing. Senior/subordinate structures could also 
+be incorporated into the new housing finance system on a 
+limited basis e.g., as described above with cash loans.
+    B. Credit-Linked Notes, Swaps, Derivatives, and a risk index
+    Credit-linked notes would most resemble the current GSE 
+risk sharing transactions and would also be compatible with the 
+TBA market as a follow-on transaction; however, they require a 
+credit intermediary if they are to support a countercyclical 
+market and a steady and reliable source of mortgage funding, as 
+would all the aforementioned forms of risk-sharing. An index 
+would be the most scalable and, if broad enough, would attract 
+the deepest capital base and require the least amount of 
+sophistication to invest; however, it would require a credit 
+intermediary/guarantor as well. These risk-sharing and risk-
+transfer options, the GSE risk transfer transactions, along 
+with the use of swaps and other derivatives, are all artful 
+ways to fund a guarantor entity which could provide 
+countercyclical capital and act as a risk intermediary to allow 
+for steady and reliable pricing to originators and ultimately 
+to the consumer.
+Conclusion
+    It is SFIG's view, as indicated in our testimony, that some 
+form of TBA market needs to exist to allow market participants 
+to forward trade, which in turn allows borrowers to ``lock in'' 
+interest rates well in advance of closing and facilitates a 
+national mortgage market and the extension of mortgage credit 
+in all credit cycles.
+    Any private capital resulting in credit risk transfer 
+should be scalable, compatible with the TBA market, and 
+sustainable in both bull and bear markets. In our discussion 
+above, we highlight several structures, including the recent 
+GSE transactions. These structures are an excellent way to 
+introduce private capital and supplement a guarantor or 
+centralized risk intermediary and thereby support a TBA market. 
+These structures should not be seen as a replacement for the 
+TBA market or as a replacement for the need of a risk 
+intermediary to ensure a steady source of funding for mortgage 
+credit in all market cycles. While we have belief that 
+preserving the TBA market requires an institution to perform 
+the role of guarantor, we do not believe that the Government-
+Sponsored Enterprises (GSEs), Fannie Mae and Freddie Mac need 
+to be preserved in their current form to fulfill that role. We 
+hope that you consider these views as you evaluate options to 
+reform the housing finance system. We welcome the opportunity 
+to discuss our views with you in person.
+
+
+
+</pre></body></html>
