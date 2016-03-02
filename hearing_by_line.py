@@ -17,7 +17,12 @@ def parse_lines(file_name):
     import random
     
     data = open(file_name).read()
-    
+
+    if len(data) <5000:
+        return
+    committee = file_name.split('_')[2]
+    if not bool(re.match('(?i)^committee on',committee)):
+        return
     #cut off metadata at top of the file
     
     #extract list of members present
@@ -40,40 +45,81 @@ def parse_lines(file_name):
         except IndexError:
             pass
    
+   #ADD: try except statements to try splitting on shorter version of date, and to allow failure to match 'adjourn' at bottom
+
     if members:
         #cut off metadata at the top using the list of present members as the wedge. note: this will break if the file has transcripts of several hearings in it.
         match = None
         #find last match of the list of present members. this is often the last thing before the actual body of text begins.
-        for match in re.finditer('(?s)(?<=[Pp]resent:)(.+?\.)', data):
-            pass
-        top_of_file = re.split(match.group(), data)[0]
-        body = re.split(match.group(), data)[1]
-    
+        try:
+            for match in re.finditer('(?s)(?<=[Pp]resent:)(.+?\.)', data):
+                pass
+            top_of_file = re.split(match.group(), data)[0]
+            body = re.split(match.group(), data)[1]
+        except:
+            try: #try to split on the last instance of the date before the body begins
+                date_temp = re.split('_',file_name)[3]
+                date = re.split('\.', date_temp)[1]
+                date = date.upper()
+                match = None
+                for match in re.finditer(date,data):
+                    pass
+                top_of_file = re.split(match.group(), data)[0]
+                body = re.split(match.group(), data)[1]
+            except: 
+                try:
+                    date_temp = re.split('_',file_name)[3]
+                    date = re.split('\.', date_temp)[1]
+                    date = date.upper()
+                    date = date.split(', ',1)[1]
+                    match = None
+                    for match in re.finditer(date,data):
+                        pass
+                    top_of_file = re.split(match.group(), data)[0]
+                    body = re.split(match.group(), data)[1]
+                except:
+                    pass      
         #cut off additional material at the bottom
-        match = None
-        for match in re.finditer('[Aa]djourn', body):
-            pass
-        bottom_of_file = re.split(match.group(), body)[1]
-        body = re.split(match.group(), body)[0]
-      
+        try:
+            match = None
+            for match in re.finditer('[Aa]djourn', body):
+                pass
+            bottom_of_file = re.split(match.group(), body)[1]
+            body = re.split(match.group(), body)[0]
+        except: 
+            pass      
     else:
-        #try to split on the last instance of the date before the body begins
-        date_temp = re.split('_',file_name)[3]
-        date = re.split('\.', date_temp)[1]
-        date = date.upper()
-        match = None
-        for match in re.finditer(date,data):
-            pass
-        top_of_file = re.split(match.group(), data)[0]
-        body = re.split(match.group(), data)[1]
-        
+        try: #try to split on the last instance of the date before the body begins
+            date_temp = re.split('_',file_name)[3]
+            date = re.split('\.', date_temp)[1]
+            date = date.upper()
+            match = None
+            for match in re.finditer(date,data):
+                pass
+            top_of_file = re.split(match.group(), data)[0]
+            body = re.split(match.group(), data)[1]
+        except: 
+            try:
+                date_temp = re.split('_',file_name)[3]
+                date = re.split('\.', date_temp)[1]
+                date = date.upper()
+                date = date.split(', ',1)[1]
+                match = None
+                for match in re.finditer(date,data):
+                    pass
+                top_of_file = re.split(match.group(), data)[0]
+                body = re.split(match.group(), data)[1]
+            except:
+                pass
        #split the bottom the same way as before
-        match = None
-        for match in re.finditer('[Aa]djourn', body):
+        try:
+            match = None
+            for match in re.finditer('[Aa]djourn', body):
+                pass
+            bottom_of_file = re.split(match.group(), body)[1]
+            body = re.split(match.group(), body)[0]
+        except:
             pass
-        bottom_of_file = re.split(match.group(), body)[1]
-        body = re.split(match.group(), body)[0]
-
 #break text file into lines
     lines = re.split('\\n',body)
     df = pd.DataFrame({"line":lines})    
@@ -82,7 +128,7 @@ def parse_lines(file_name):
     for index, row in df.iterrows():        
         if bool(re.match("^\s\s\s\s",row['line'])) is False:
             df.ix[index, "speech_start"] = 'False'
-        elif re.match("^\s*STATEMENT OF ",row["line"]):
+        elif re.match("(?i)^\s*statement of ",row["line"]):
             df.ix[index, "speech_start"] = "False"
         elif re.match("^\s*Senator \S+\s?\S*\. |^\s*Mr?s?\. \S+\s?\S*\. |^\s*Dr\. \S+\s?\S*\. |^\s*Chairman \S+\s?\S*\. |^\s*(?:[A-Z][A-Za-z]+ ){1,2}[A-Z][A-Za-z]+\. |^\s*\[",row['line']):
              df.ix[index, "speech_start"] = 'True'
@@ -105,10 +151,12 @@ def parse_lines(file_name):
     df_speech = df_speech.reset_index(drop=True)
     df_speech = pd.DataFrame({"speech":df_speech})
     
+
    #drop speeches that are definitely not speeches
     df_speech = df_speech[~df_speech.speech.str.contains("^\s*\[")]
+    df_speech = df_speech[~df_speech.speech.str.contains("(?i)^\s*statement of")]
     df_speech = df_speech.reset_index(drop=True)
-   
+    
 #add metadata to each speech
    #look for the speaker's surname
     def strip_surname(text):
@@ -123,6 +171,7 @@ def parse_lines(file_name):
         except IndexError:
             pass
    
+    members.append('Chairman')
     thread = 0
     for index, row in df_speech.iterrows():
         df_speech.ix[index, "surname"] = strip_surname(row["speech"])
@@ -160,10 +209,10 @@ def parse_lines(file_name):
 
 # In[103]:
 
-import os
-os.chdir("C:\Users\Jeff\Documents\hearings\docs")
-#choose a file
-file_name = "111th Congress (2009 - 2010)_Senate Hearings_Committee on Commerce, Science, and Transportation_General. Wednesday, May 13, 2009..txt"
-d = parse_lines(file_name)
-d
+# import os
+# os.chdir("C:\Users\Jeff\Documents\hearings\docs")
+# #choose a file
+# file_name = "111th Congress (2009 - 2010)_Senate Hearings_Committee on Commerce, Science, and Transportation_General. Wednesday, May 13, 2009..txt"
+# d = parse_lines(file_name)
+# d
 
