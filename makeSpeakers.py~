@@ -1,0 +1,29 @@
+#!/usr/bin/python
+import sys, re
+
+filename = sys.argv[0]
+
+## we'll try and make this as 'stateless' as is possible,
+## by which we mean that the result of one lines read
+## effects subsequent lines reads as minimally as possible.
+## in addition, this will be a 'streaming' implementation
+## where we only take one pass at the document,
+## and collect all data along the way
+## (as  might be expected of a reader).
+
+f = open(filename,"r")
+for line in f:
+    
+    ## find members present, according to names preceded by states
+    present = re.findall(".*?(Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)", line)
+    ## print present
+    ## if len(present):
+        ## print line
+        ## for match in present:
+            ## print match
+    ## Speech starts are defined by 4 or possibly more spaces
+    ## appearing before (title) surname.
+    
+    ## speech ends are defined when a new speech starts,
+    ## or when a double newline appears
+    

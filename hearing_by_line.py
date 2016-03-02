@@ -1,10 +1,4 @@
-
-# coding: utf-8
-
-# Create the parse lines function
-
-# In[102]:
-
+#!/usr/bin/python
 def parse_lines(file_name):
     import os
     import re
@@ -160,10 +154,10 @@ def parse_lines(file_name):
 
 # In[103]:
 
-import os
-os.chdir("C:\Users\Jeff\Documents\hearings\docs")
-#choose a file
-file_name = "111th Congress (2009 - 2010)_Senate Hearings_Committee on Commerce, Science, and Transportation_General. Wednesday, May 13, 2009..txt"
-d = parse_lines(file_name)
-d
+# import os
+# os.chdir("C:\Users\Jeff\Documents\hearings\docs")
+# #choose a file
+# file_name = "111th Congress (2009 - 2010)_Senate Hearings_Committee on Commerce, Science, and Transportation_General. Wednesday, May 13, 2009..txt"
+# d = parse_lines(file_name)
+# d
 
