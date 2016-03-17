@@ -34,7 +34,8 @@ def parse_file(filename):
         ## Now that we know all participants, we can look for records beginning with the surnames,
         ## which will indicate the transitions from one speaker to the next
         if contentsBottom:
-            speechstarts  = re.findall("(?is)    ((?:Senator|Representative|Mr.|Ms.|Mrs.) (?:"+allsurnames+"))\. (.*?)$", line)
+            ## speechstarts = re.findall("(?is)    ((?:Senator|Representative|Mr.|Ms.|Mrs.) (?:"+allsurnames+"))\. (.*?)$", line)
+            speechstarts = re.findall("(?is)^    ((?:Senator|Representative|Mr.|Ms.|Mrs.|Dr.|Chairman) (?:.+?))\. (.*?)$", line)
             if len(speechstarts):
                 previous_surname = surname
                 previous_speaker = speaker
@@ -58,7 +59,8 @@ def parse_file(filename):
                     inspeech = 1
                     newspeaker = 1
             else:
-                speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:"+allsurnames+"))\s*$", line)
+                ## speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:"+allsurnames+"))\s*$", line)
+                speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:.+?))\s*$", line)
                 if len(speechstarts):
                     previous_surname = surname
                     previous_speaker = speaker
@@ -81,6 +83,12 @@ def parse_file(filename):
                             })
                         inspeech = 1
                         newspeaker = 1
+                        
+                else:
+                    dubCaps = re.findall("(?s)^    ((?:[A-Z][a-z]+) (?:[A-Za-z\'\-0-9]+){1,3})\. (.*?)$", line)
+                    if len(dubCaps):
+                        for speaker, speech in dubCaps:
+                            print speaker+". \n\n"+speech+"\n\n\n"
 
         ## speech ends are defined when a new speeches start,
         ## when a total whitespace lines are observed,
