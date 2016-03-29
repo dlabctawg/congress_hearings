@@ -35,7 +35,7 @@ def parse_file(filename):
         ## which will indicate the transitions from one speaker to the next
         if contentsBottom:
             ## speechstarts = re.findall("(?is)    ((?:Senator|Representative|Mr.|Ms.|Mrs.) (?:"+allsurnames+"))\. (.*?)$", line)
-            speechstarts = re.findall("(?is)^    ((?:Senator|Representative|Mr.|Ms.|Mrs.|Dr.|Chairman) (?:.+?))\. (.*?)$", line)
+            speechstarts = re.findall("(?is)^    ((?:Senator|Representative|Congressman|Congresswoman|Commissioner|Ambassador|Secretary|Admiral|General|Commander|Chief|Colonel|Sergeant|Major|Captain|Governor|The Clerk|Mayor|Minister|Judge|Justice|Chair|Mr.|Ms.|Mrs.|Dr.|Chairman|Chairwoman|Speaker) (?:.*?))\. (.*?)$", line)
             if len(speechstarts):
                 previous_surname = surname
                 previous_speaker = speaker
@@ -59,36 +59,60 @@ def parse_file(filename):
                     inspeech = 1
                     newspeaker = 1
             else:
-                ## speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:"+allsurnames+"))\s*$", line)
-                speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:.+?))\s*$", line)
+                speechstarts = re.findall("(?is)^    ((?:The Chairman\.|The Chairwoman\.)) (.*?)$", line)
                 if len(speechstarts):
                     previous_surname = surname
                     previous_speaker = speaker
-                    for speaker in speechstarts:
+                    for speaker, speech in speechstarts:
                         nameparts = re.split(" ", speaker)
                         surname = nameparts[-1].lower()
                         if speeches[-1]['speech'] == "":
                             speeches[-1]['surname'] = surname
-                            speeches[-1]['speech'] = ""
+                            speeches[-1]['speech'] = "    "+speech+"\n"
                             speeches[-1]['speaker'] = speaker
                             speeches[-1]['previous_speaker'] = previous_speaker
                             speeches[-1]['previous_surname'] = previous_surname
                         else:
                             speeches.append({
                                 'surname': surname,
-                                'speech': "",
+                                'speech': "    "+speech+"\n",
                                 'speaker': speaker,
                                 'previous_surname': previous_surname,
                                 "previous_speaker": previous_speaker
                             })
                         inspeech = 1
                         newspeaker = 1
-                        
                 else:
-                    dubCaps = re.findall("(?s)^    ((?:[A-Z][a-z]+) (?:[A-Za-z\'\-0-9]+){1,3})\. (.*?)$", line)
-                    if len(dubCaps):
-                        for speaker, speech in dubCaps:
-                            print speaker+". \n\n"+speech+"\n\n\n"
+                    ## speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:"+allsurnames+"))\s*$", line)
+                    speechstarts  = re.findall("(?is)^\s*prepared Statement of (.*?(?:.+?))\s*$", line)
+                    if len(speechstarts):
+                        previous_surname = surname
+                        previous_speaker = speaker
+                        for speaker in speechstarts:
+                            nameparts = re.split(" ", speaker)
+                            surname = nameparts[-1].lower()
+                            if speeches[-1]['speech'] == "":
+                                speeches[-1]['surname'] = surname
+                                speeches[-1]['speech'] = ""
+                                speeches[-1]['speaker'] = speaker
+                                speeches[-1]['previous_speaker'] = previous_speaker
+                                speeches[-1]['previous_surname'] = previous_surname
+                            else:
+                                speeches.append({
+                                    'surname': surname,
+                                    'speech': "",
+                                    'speaker': speaker,
+                                    'previous_surname': previous_surname,
+                                    "previous_speaker": previous_speaker
+                                })
+                            inspeech = 1
+                            newspeaker = 1
+                            
+                    else:
+                        dubCaps = re.findall("(?s)^    ((?:[A-Z][a-z]+) (?:[A-Za-z\'\-0-9]+){1,3})\. (.*?)$", line)
+                        if len(dubCaps):
+                            for speaker, speech in dubCaps:
+                                print speaker+". \n\n"+speech+"\n\n\n"
 
         ## speech ends are defined when a new speeches start,
         ## when a total whitespace lines are observed,
